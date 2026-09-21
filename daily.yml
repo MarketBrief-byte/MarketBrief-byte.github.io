@@ -1,0 +1,62 @@
+name: 매일 경제 브리핑
+
+on:
+  schedule:
+    # GitHub Actions 는 UTC 기준입니다. (KST = UTC + 9시간)
+    - cron: "10 22 * * *"   # 07:10 KST — 미국장 마감 직후 아침 브리핑
+    - cron: "10 7 * * 1-5"  # 16:10 KST — 국내장 마감 반영 (평일만)
+  workflow_dispatch:        # 저장소 Actions 탭에서 수동 실행용
+    inputs:
+      check_only:
+        description: "소스 생존 점검만 하고 페이지는 만들지 않음"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-brief
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 의존성 설치
+        run: pip install -r requirements.txt
+
+      - name: 소스 생존 점검
+        if: inputs.check_only == true
+        run: python scripts/collect.py --check
+
+      - name: 데이터 수집
+        if: inputs.check_only != true
+        env:
+          TOSS_CLIENT_ID: ${{ secrets.TOSS_CLIENT_ID }}
+          TOSS_CLIENT_SECRET: ${{ secrets.TOSS_CLIENT_SECRET }}
+        run: python scripts/collect.py
+
+      - name: 페이지 생성
+        if: inputs.check_only != true
+        run: python scripts/build.py
+
+      - name: 커밋 & 푸시
+        if: inputs.check_only != true
+        run: |
+          git config user.name  "econ-daily-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data docs
+          if git diff --staged --quiet; then
+            echo "변경 없음 — 커밋 생략"
+          else
+            git commit -m "브리핑 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
+            git push
+          fi
