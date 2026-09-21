@@ -57,6 +57,12 @@ def fetch_feed(feed: dict[str, Any], cfg: dict[str, Any]) -> tuple[list[dict], s
         when = _to_kst(entry)
         if when and now - when > max_age:
             continue
+        # 언론사가 RSS로 직접 배포하는 짧은 요약문(있으면). 본문 스크래핑이 아니라
+        # 피드 발행자가 공개적으로 제공하는 필드만 사용한다.
+        excerpt = _clean(getattr(entry, "summary", "") or getattr(entry, "description", ""))
+        if excerpt and excerpt.strip(" .") == title.strip(" ."):
+            excerpt = ""  # 요약이 제목과 동일하면 의미 없으니 버림
+        excerpt = excerpt[:300]
         items.append(
             {
                 "id": hashlib.sha1(link.encode("utf-8")).hexdigest()[:10],
@@ -68,6 +74,7 @@ def fetch_feed(feed: dict[str, Any], cfg: dict[str, Any]) -> tuple[list[dict], s
                 "published_kst": when.strftime("%m/%d %H:%M") if when else "",
                 "published_iso": when.isoformat() if when else "",
                 "sort_key": when.timestamp() if when else 0.0,
+                "excerpt": excerpt,
                 "matched": [],
             }
         )
