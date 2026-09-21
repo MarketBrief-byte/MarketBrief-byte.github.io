@@ -87,8 +87,17 @@
       <ul class="nlist">
         {%- for n in items %}
         <li>
-          <span class="t">{{ n.published_kst or '—' }}</span>
-          <span><a href="{{ n.url }}" target="_blank" rel="noopener">{{ n.title }}</a><span class="tag">{{ n.source }}</span></span>
+          <div class="nhead">
+            <span class="t">{{ n.published_kst or '—' }}</span>
+            <span><a href="{{ n.url }}" target="_blank" rel="noopener">{{ n.title }}</a><span class="tag">{{ n.source }}</span></span>
+          </div>
+          {%- if n.analysis %}
+          <div class="analysis">
+            <div class="arow"><span class="alabel">요약</span>{{ n.analysis.summary }}</div>
+            <div class="arow"><span class="alabel">영향</span>{{ n.analysis.impact }}</div>
+            <div class="arow"><span class="alabel">관련</span>{{ n.analysis.affected }}</div>
+          </div>
+          {%- endif %}
         </li>
         {%- endfor %}
       </ul>
@@ -101,7 +110,7 @@
 
   <footer>
     <b>데이터 출처</b> · 시세: {{ sources }} / 뉴스: 각 기관·언론사 공식 RSS (제목과 링크만 인용, 원문 저작권은 각 매체에 있음)<br>
-    <b>수집 방식</b> · 사람이 쓰지 않은 자동 생성 페이지입니다. 요약·해석 없이 원자료만 모았습니다.<br>
+    <b>수집 방식</b> · 시세·뉴스 원자료는 자동 수집됩니다. 뉴스의 "요약·영향·관련" 해설은 Claude(AI)가 기사 제목만 보고 작성한 참고용 해석이며, 투자 조언이 아닙니다. 실제 영향은 다를 수 있습니다.<br>
     <b>유의</b> · 시세는 지연될 수 있고 오류가 있을 수 있습니다. 투자 판단과 그 결과는 본인 책임입니다.
     {%- if d.errors %}
     <div class="errbox"><b>오늘 수집 실패 {{ d.errors|length }}건</b>

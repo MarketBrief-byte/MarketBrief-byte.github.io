@@ -79,6 +79,11 @@ def main() -> int:
     summaries = []
     for path in files:
         d = json.loads(path.read_text(encoding="utf-8"))
+        # news_groups는 news 목록에서 매번 다시 계산한다 (편집 후 재생성 시 불일치 방지)
+        groups: dict[str, list] = {}
+        for it in d.get("news", []):
+            groups.setdefault(it["group"], []).append(it)
+        d["news_groups"] = groups
         helpers = dict(css=css, fmt=fmt, sgn=sgn, cls=cls, arrow=arrow,
                        sources=used_sources(d))
         (DOCS / "posts" / f"{d['date']}.html").write_text(
