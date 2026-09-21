@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="ko" data-theme="">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ d.date }} · {{ d.site.title | default("오늘의 경제 한 장") }}</title>
+<meta name="description" content="{{ d.date }} 지수·관심종목 등락과 공신력 있는 경제뉴스 한 페이지 정리">
+<style>{{ css }}</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="top">
+    <div>
+      <h1 class="title">{{ d.site.title | default("오늘의 경제 한 장") }}</h1>
+      <div class="sub">{{ d.site.subtitle | default("") }}</div>
+    </div>
+    <div class="navlinks">
+      <a href="{{ root }}archive.html">지난 글</a>
+      <button class="btn" id="themebtn" type="button">◐</button>
+    </div>
+  </div>
+
+  <div class="meta">
+    <span><b style="color:var(--ink)">{{ d.date }} ({{ d.weekday }})</b></span>
+    <span>갱신 {{ d.generated_at }} KST</span>
+    <span>지수 {{ d.counts.indices_ok }}/{{ d.counts.indices_total }}</span>
+    <span>종목 {{ d.counts.stocks_ok }}/{{ d.counts.stocks_total }}</span>
+    <span>뉴스 {{ d.counts.news }}건</span>
+  </div>
+
+  <!-- 1. 지수 -->
+  <section>
+    <div class="shead"><h2>지수 · 환율 · 원자재</h2>
+      <span class="note">전일 종가 대비</span></div>
+    <div class="tiles">
+      {%- for x in d.indices %}
+      <div class="tile{% if not x.ok %} dead{% endif %}">
+        <div class="n">{{ x.name }}</div>
+        {%- if x.ok %}
+        <div class="v">{{ fmt(x.price) }}{% if x.unit and x.unit != 'pt' %}<span style="font-size:12px;color:var(--ink2)"> {{ x.unit }}</span>{% endif %}</div>
+        <div class="d {{ cls(x.change_pct) }}">{{ arrow(x.change_pct) }} {{ sgn(x.change) }} ({{ sgn(x.change_pct) }}%)</div>
+        {%- else %}
+        <div class="v">— 수집 실패</div>
+        <div class="d flat">&nbsp;</div>
+        {%- endif %}
+      </div>
+      {%- endfor %}
+    </div>
+  </section>
+
+  <!-- 2. 관심종목 + 연결된 뉴스 -->
+  <section>
+    <div class="shead"><h2>관심종목과 관련 뉴스</h2>
+      <span class="note">제목에 종목명이 들어간 기사를 자동 연결</span></div>
+    {%- for s in d.watchlist %}
+    <div class="stock">
+      <div class="srow">
+        <div class="sname">{{ s.name }}<span class="scode">{{ s.symbol }}</span></div>
+        {%- if s.ok %}
+        <div class="sprice">{{ fmt(s.price) }}</div>
+        <div class="schg {{ cls(s.change_pct) }}">{{ arrow(s.change_pct) }} {{ sgn(s.change_pct) }}%</div>
+        {%- else %}
+        <div class="schg flat">— 실패</div>
+        {%- endif %}
+      </div>
+      {%- if s.news %}
+      <ul class="snews">
+        {%- for n in s.news[:4] %}
+        <li><a href="{{ n.url }}" target="_blank" rel="noopener">{{ n.title }}</a><span class="src">{{ n.source }}{% if n.published_kst %} · {{ n.published_kst }}{% endif %}</span></li>
+        {%- endfor %}
+      </ul>
+      {%- else %}
+      <div class="nonews">오늘 수집된 관련 기사 없음</div>
+      {%- endif %}
+    </div>
+    {%- endfor %}
+  </section>
+
+  <!-- 3. 뉴스 -->
+  <section>
+    <div class="shead"><h2>경제 뉴스</h2>
+      <span class="note">출처별 · 최신순 · 제목 클릭 시 원문</span></div>
+    {%- for gname, items in d.news_groups.items() %}
+    <div class="group">
+      <div class="gname"><span class="dot"></span>{{ gname }} <span style="color:var(--muted);font-weight:400">({{ items|length }})</span></div>
+      <ul class="nlist">
+        {%- for n in items %}
+        <li>
+          <span class="t">{{ n.published_kst or '—' }}</span>
+          <span><a href="{{ n.url }}" target="_blank" rel="noopener">{{ n.title }}</a><span class="tag">{{ n.source }}</span></span>
+        </li>
+        {%- endfor %}
+      </ul>
+    </div>
+    {%- endfor %}
+    {%- if not d.news_groups %}
+    <div class="nonews">수집된 뉴스가 없습니다. config.yaml 의 피드 주소를 점검하세요.</div>
+    {%- endif %}
+  </section>
+
+  <footer>
+    <b>데이터 출처</b> · 시세: {{ sources }} / 뉴스: 각 기관·언론사 공식 RSS (제목과 링크만 인용, 원문 저작권은 각 매체에 있음)<br>
+    <b>수집 방식</b> · 사람이 쓰지 않은 자동 생성 페이지입니다. 요약·해석 없이 원자료만 모았습니다.<br>
+    <b>유의</b> · 시세는 지연될 수 있고 오류가 있을 수 있습니다. 투자 판단과 그 결과는 본인 책임입니다.
+    {%- if d.errors %}
+    <div class="errbox"><b>오늘 수집 실패 {{ d.errors|length }}건</b>
+      <ul>{% for e in d.errors %}<li>[{{ e.stage }}] {{ e.target }} — {{ e.message[:110] }}</li>{% endfor %}</ul>
+    </div>
+    {%- endif %}
+  </footer>
+</div>
+
+<script>
+(function(){
+  var k='econ-theme', b=document.getElementById('themebtn');
+  try{ var v=localStorage.getItem(k); if(v){ document.documentElement.dataset.theme=v; } }catch(e){}
+  b && b.addEventListener('click', function(){
+    var cur=document.documentElement.dataset.theme;
+    var isDark = cur ? cur==='dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+    var next = isDark ? 'light' : 'dark';
+    document.documentElement.dataset.theme=next;
+    try{ localStorage.setItem(k,next); }catch(e){}
+  });
+})();
+</script>
+</body>
+</html>
