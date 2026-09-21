@@ -1,0 +1,107 @@
+# ============================================================
+#  매일 경제 브리핑 설정 파일
+#  여기만 고치면 페이지 내용이 바뀝니다. (코드 수정 불필요)
+# ============================================================
+
+site:
+  title: "오늘의 경제 한 장"
+  subtitle: "지수 · 관심종목 · 공신력 있는 경제 뉴스"
+  author: "asqwkl3215"
+  timezone_label: "KST"
+  # GitHub Pages 주소 (예: https://내아이디.github.io/econ-daily)
+  base_url: "https://marketbrief-byte.github.io"
+
+# ------------------------------------------------------------
+# 1) 시세 공급자
+#    toss  : 토스증권 Open API (키가 있을 때만 동작, 아래 use_toss=true)
+#    yahoo : Yahoo Finance 차트 API (키 불필요, 기본값)
+#    stooq : 야후 실패 시 예비 (키 불필요)
+# ------------------------------------------------------------
+quotes:
+  use_toss: false          # 토스 키 발급 후 true 로 변경
+  primary: yahoo
+  toss_quote_path: ""   # discover 로 확인한 시세 경로 (예: /api/v1/.../{symbol})
+  fallback: stooq
+  timeout_sec: 20
+  retry: 2
+
+# ------------------------------------------------------------
+# 2) 상단 지수 타일
+#    symbol 은 Yahoo 기준 심볼, stooq 는 예비 심볼(없으면 비워둠)
+# ------------------------------------------------------------
+indices:
+  - { name: "코스피",      symbol: "^KS11",  stooq: "^kospi", unit: "pt" }
+  - { name: "코스닥",      symbol: "^KQ11",  stooq: "",       unit: "pt" }
+  - { name: "S&P 500",     symbol: "^GSPC",  stooq: "^spx",   unit: "pt" }
+  - { name: "나스닥",      symbol: "^IXIC",  stooq: "^ndq",   unit: "pt" }
+  - { name: "원/달러",     symbol: "KRW=X",  stooq: "usdkrw", unit: "원" }
+  - { name: "미 10년 국채", symbol: "^TNX",  stooq: "",       unit: "%" }
+  - { name: "WTI 유가",    symbol: "CL=F",   stooq: "cl.f",   unit: "$" }
+  - { name: "금",          symbol: "GC=F",   stooq: "gc.f",   unit: "$" }
+
+# ------------------------------------------------------------
+# 3) 관심종목
+#    keywords : 이 단어가 뉴스 제목에 있으면 그 종목 카드에 뉴스가 붙습니다
+# ------------------------------------------------------------
+watchlist:
+  - { name: "삼성전자",       symbol: "005930.KS", stooq: "005930.kr",
+      keywords: ["삼성전자", "Samsung Electronics", "삼성 반도체"] }
+  - { name: "SK하이닉스",     symbol: "000660.KS", stooq: "000660.kr",
+      keywords: ["SK하이닉스", "SK Hynix", "하이닉스", "HBM"] }
+  - { name: "현대차",         symbol: "005380.KS", stooq: "005380.kr",
+      keywords: ["현대차", "현대자동차", "Hyundai Motor"] }
+  - { name: "LG에너지솔루션", symbol: "373220.KS", stooq: "373220.kr",
+      keywords: ["LG에너지솔루션", "LG Energy Solution", "이차전지", "배터리"] }
+  - { name: "NAVER",          symbol: "035420.KS", stooq: "035420.kr",
+      keywords: ["네이버", "NAVER"] }
+  - { name: "엔비디아",       symbol: "NVDA",      stooq: "nvda.us",
+      keywords: ["엔비디아", "Nvidia", "NVDA"] }
+  - { name: "애플",           symbol: "AAPL",      stooq: "aapl.us",
+      keywords: ["애플", "Apple", "AAPL"] }
+  - { name: "테슬라",         symbol: "TSLA",      stooq: "tsla.us",
+      keywords: ["테슬라", "Tesla", "TSLA"] }
+  - { name: "마이크로소프트", symbol: "MSFT",      stooq: "msft.us",
+      keywords: ["마이크로소프트", "Microsoft", "MSFT"] }
+
+# ------------------------------------------------------------
+# 4) 뉴스 소스 (RSS)
+#    verified: true  = 2026-09-21 기준 실제 응답 확인함
+#    verified: false = 주소는 공식 안내 기준이나 응답 확인 못 함
+#                      → check 모드로 한 번 돌려보고 죽었으면 지우세요
+# ------------------------------------------------------------
+news:
+  max_items_per_feed: 8
+  max_total_items: 60
+  max_age_hours: 48
+  feeds:
+    # --- 중앙은행 · 국제기구 (1차 자료) ---
+    - { name: "연준(Fed) 보도자료", url: "https://www.federalreserve.gov/feeds/press_all.xml",
+        group: "중앙은행·국제기구", lang: "en", verified: true }
+    - { name: "유럽중앙은행(ECB)", url: "https://www.ecb.europa.eu/rss/press.html",
+        group: "중앙은행·국제기구", lang: "en", verified: true }
+    - { name: "연준 통화정책", url: "https://www.federalreserve.gov/feeds/press_monetary.xml",
+        group: "중앙은행·국제기구", lang: "en", verified: false }
+
+    # --- 국내 정책 당국 (1차 자료) ---
+    - { name: "재정경제부 보도자료", url: "https://mofe.go.kr/com/detailRssTagService.do?bbsId=MOSFBBS_000000000028",
+        group: "국내 정책당국", lang: "ko", verified: true }
+    - { name: "재정경제부 최근경제동향", url: "https://mofe.go.kr/com/detailRssTagService.do?bbsId=MOSFBBS_000000000044",
+        group: "국내 정책당국", lang: "ko", verified: false }
+    - { name: "금융위원회 보도자료", url: "https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111",
+        group: "국내 정책당국", lang: "ko", verified: true }
+
+    # --- 해외 경제 언론 ---
+    - { name: "BBC Business", url: "https://feeds.bbci.co.uk/news/business/rss.xml",
+        group: "해외 경제언론", lang: "en", verified: false }
+    - { name: "CNBC Economy", url: "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        group: "해외 경제언론", lang: "en", verified: false }
+    - { name: "CNBC Finance", url: "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        group: "해외 경제언론", lang: "en", verified: false }
+    - { name: "NYT Business", url: "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+        group: "해외 경제언론", lang: "en", verified: false }
+
+    # --- 국내 경제언론 ---
+    - { name: "연합뉴스 경제", url: "https://www.yna.co.kr/rss/economy.xml",
+        group: "국내 경제언론", lang: "ko", verified: false }
+    - { name: "한국경제", url: "https://www.hankyung.com/feed/economy",
+        group: "국내 경제언론", lang: "ko", verified: true }
