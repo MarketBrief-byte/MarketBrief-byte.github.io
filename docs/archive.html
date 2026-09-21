@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="ko" data-theme="">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>지난 글 · 오늘의 경제 한 장</title>
+<style>:root{
+  color-scheme: light;
+  --surface:#fcfcfb; --plane:#f9f9f7; --ink:#0b0b0b; --ink2:#52514e;
+  --muted:#898781; --grid:#e1e0d9; --border:rgba(11,11,11,.10);
+  --up:#d03b3b; --down:#1c5cab; --flat:#898781; --accent:#2a78d6;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme=&#34;light&#34;]){
+    color-scheme: dark;
+    --surface:#1a1a19; --plane:#0d0d0d; --ink:#ffffff; --ink2:#c3c2b7;
+    --muted:#898781; --grid:#2c2c2a; --border:rgba(255,255,255,.10);
+    --up:#e66767; --down:#3987e5; --flat:#898781; --accent:#3987e5;
+  }
+}
+:root[data-theme=&#34;dark&#34;]{
+  color-scheme: dark;
+  --surface:#1a1a19; --plane:#0d0d0d; --ink:#ffffff; --ink2:#c3c2b7;
+  --muted:#898781; --grid:#2c2c2a; --border:rgba(255,255,255,.10);
+  --up:#e66767; --down:#3987e5; --flat:#898781; --accent:#3987e5;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  background:var(--plane); color:var(--ink);
+  font-family:system-ui,-apple-system,&#34;Segoe UI&#34;,&#34;Apple SD Gothic Neo&#34;,&#34;Noto Sans KR&#34;,sans-serif;
+  line-height:1.55; -webkit-text-size-adjust:100%;
+}
+.wrap{max-width:860px;margin:0 auto;padding:20px 16px 56px}
+a{color:inherit}
+h1,h2,h3{margin:0;font-weight:650;letter-spacing:-.01em}
+
+/* ── 머리말 ───────────────────────────────── */
+.top{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;margin-bottom:6px}
+.title{font-size:23px}
+.sub{color:var(--ink2);font-size:13px;margin-top:4px}
+.meta{color:var(--muted);font-size:12px;margin-top:10px;
+  display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center}
+.btn{background:var(--surface);color:var(--ink2);border:1px solid var(--border);
+  border-radius:8px;padding:6px 10px;font-size:12px;cursor:pointer;font-family:inherit}
+.btn:hover{border-color:var(--muted)}
+.navlinks{display:flex;gap:8px}
+.navlinks a{text-decoration:none;font-size:12px;color:var(--ink2);
+  border:1px solid var(--border);border-radius:8px;padding:6px 10px;background:var(--surface)}
+
+/* ── 섹션 ─────────────────────────────────── */
+section{margin-top:30px}
+.shead{display:flex;align-items:baseline;flex-wrap:wrap;gap:4px 10px;margin-bottom:12px;
+  padding-bottom:8px;border-bottom:1px solid var(--grid)}
+.shead h2{font-size:15px;white-space:nowrap}
+.shead .note{color:var(--muted);font-size:12px}
+
+/* ── 지수 타일 ────────────────────────────── */
+.tiles{display:grid;grid-template-columns:repeat(2,1fr);gap:8px}
+@media(min-width:620px){.tiles{grid-template-columns:repeat(4,1fr)}}
+.tile{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:12px 13px}
+.tile .n{font-size:12px;color:var(--ink2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tile .v{font-size:19px;font-weight:650;margin-top:5px;letter-spacing:-.02em}
+.tile .d{font-size:12.5px;font-weight:600;margin-top:2px;font-variant-numeric:tabular-nums}
+.up{color:var(--up)} .down{color:var(--down)} .flat{color:var(--flat)}
+.tile.dead .v{color:var(--muted);font-size:14px;font-weight:500}
+
+/* ── 종목 표 ──────────────────────────────── */
+.stock{background:var(--surface);border:1px solid var(--border);border-radius:12px;
+  padding:12px 13px;margin-bottom:8px}
+.srow{display:flex;align-items:center;gap:10px}
+.sname{font-weight:650;font-size:14.5px;flex:1;min-width:0}
+.scode{color:var(--muted);font-size:11.5px;font-weight:400;margin-left:6px}
+.sprice{font-size:14.5px;font-variant-numeric:tabular-nums}
+.schg{font-size:13px;font-weight:650;min-width:74px;text-align:right;font-variant-numeric:tabular-nums}
+.snews{margin:10px 0 0;padding:10px 0 0;border-top:1px dashed var(--grid);
+  list-style:none;display:flex;flex-direction:column;gap:7px}
+.snews li{font-size:13px;line-height:1.45}
+.snews a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--grid)}
+.snews a:hover{border-bottom-color:var(--accent)}
+.snews .src{color:var(--muted);font-size:11.5px;margin-left:6px;white-space:nowrap}
+.nonews{color:var(--muted);font-size:12px;margin-top:8px}
+
+/* ── 뉴스 ─────────────────────────────────── */
+.group{margin-bottom:22px}
+.gname{font-size:12.5px;color:var(--ink2);font-weight:650;margin-bottom:8px;
+  display:flex;align-items:center;gap:7px}
+.dot{width:7px;height:7px;border-radius:50%;background:var(--accent);flex:none}
+.nlist{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:9px}
+.nlist li{display:flex;gap:9px;align-items:baseline;font-size:13.5px;line-height:1.45}
+.nlist .t{color:var(--muted);font-size:11.5px;white-space:nowrap;
+  font-variant-numeric:tabular-nums;min-width:74px}
+.nlist a{text-decoration:none}
+.nlist a:hover{text-decoration:underline}
+.tag{font-size:10.5px;border:1px solid var(--border);border-radius:5px;
+  padding:1px 5px;color:var(--ink2);margin-left:6px;white-space:nowrap}
+
+/* ── 꼬리말 ───────────────────────────────── */
+footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--grid);
+  color:var(--muted);font-size:11.5px;line-height:1.7}
+footer b{color:var(--ink2);font-weight:600}
+.errbox{background:var(--surface);border:1px solid var(--border);border-radius:10px;
+  padding:10px 12px;margin-top:10px}
+.errbox li{margin-left:-12px}
+
+/* ── 아카이브 ─────────────────────────────── */
+.arch{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:6px}
+.arch a{display:flex;justify-content:space-between;gap:12px;text-decoration:none;
+  background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:11px 13px}
+.arch a:hover{border-color:var(--muted)}
+.arch .d{font-weight:600;font-size:14px}
+.arch .s{color:var(--muted);font-size:12px;text-align:right}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div>
+      <h1 class="title">지난 글</h1>
+      <div class="sub">1일치 기록</div>
+    </div>
+    <div class="navlinks">
+      <a href="index.html">오늘</a>
+      <button class="btn" id="themebtn" type="button">◐</button>
+    </div>
+  </div>
+  <section>
+    <ul class="arch">      <li><a href="posts/2026-09-21.html">
+        <span class="d">2026-09-21 (월)</span>
+        <span class="s">지수 8/8 · 뉴스 43건</span>
+      </a></li>    </ul>
+  </section>
+</div>
+<script>
+(function(){
+  var k='econ-theme', b=document.getElementById('themebtn');
+  try{ var v=localStorage.getItem(k); if(v){ document.documentElement.dataset.theme=v; } }catch(e){}
+  b && b.addEventListener('click', function(){
+    var cur=document.documentElement.dataset.theme;
+    var isDark = cur ? cur==='dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+    document.documentElement.dataset.theme = isDark ? 'light' : 'dark';
+    try{ localStorage.setItem(k, document.documentElement.dataset.theme); }catch(e){}
+  });
+})();
+</script>
+</body>
+</html>
