@@ -343,7 +343,12 @@
    "published_iso": "2026-09-23T07:13:27+09:00",
    "sort_key": 1790115207.0,
    "excerpt": "The announcement comes after reports in August that the agency was conducting an internal review into the event contract type.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "CFTC가 예측시장의 '멘션' 계약이 시세조작 위험이 더 크다고 평가함",
+    "impact": "예측시장 플랫폼에 대한 규제 강화 신호로 관련 업체에 불확실성 요인",
+    "affected": "예측시장 플랫폼(칼시 등) 관련 규제 리스크"
+   }
   },
   {
    "id": "7c295b3467",
@@ -356,7 +361,12 @@
    "published_iso": "2026-09-23T06:56:44+09:00",
    "sort_key": 1790114204.0,
    "excerpt": "He lost his job as a “Today” show anchor in 2016 after footage surfaced of Donald J. Trump joking with him about sexual assault. He will be a Fox contributor.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "방송인 빌리 부시가 폭스뉴스에 합류",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "2cb937dc3e",
@@ -369,7 +379,12 @@
    "published_iso": "2026-09-23T06:55:39+09:00",
    "sort_key": 1790114139.0,
    "excerpt": "Vice President JD Vance said the measure would save the government $2.2 billion.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프 행정부가 사기 의혹을 이유로 오바마케어 시장에서 75만 명을 제외하며 22억 달러 절감을 주장",
+    "impact": "헬스케어 보험 시장 구조 변화로 관련 보험사 가입자 수·매출에 영향 가능",
+    "affected": "미국 헬스케어 보험 관련주"
+   }
   },
   {
    "id": "4f1a6829e5",
@@ -382,7 +397,12 @@
    "published_iso": "2026-09-23T06:33:01+09:00",
    "sort_key": 1790112781.0,
    "excerpt": "(서울=연합뉴스) 권하영 기자 = 정부가 세계 최대 자산운용사 블랙록과 손잡고 한국을 아시아·태평양의 &apos;AI 수도&apos;로 만들겠다며 예고한 대규모 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "정부가 블랙록과 함께 한국을 아태 AI 허브로 만들겠다던 20조원 투자 계획이 1년째 진전이 없음",
+    "impact": "대형 AI 인프라 투자 계획의 지연은 관련 기대감에 부정적, 실행력에 대한 의문 제기",
+    "affected": "국내 AI 인프라·데이터센터 관련주 기대감"
+   }
   },
   {
    "id": "3e26dd30c3",
@@ -395,7 +415,12 @@
    "published_iso": "2026-09-23T06:30:01+09:00",
    "sort_key": 1790112601.0,
    "excerpt": "(서울=연합뉴스) 김세린 기자 = 추석 연휴를 앞두고 대형마트 델리(즉석조리식품)와 버거 등 간편하게 먹을 수 있는 메뉴를 찾는 수요가 늘고 있...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "추석을 앞두고 대형마트에서 델리·버거 등 간편식 수요가 늘고 있음",
+    "impact": "유통업체 간편식 매출 증가 신호로 관련 업종에 완만한 긍정 요인",
+    "affected": "대형마트·유통 관련주(이마트, 롯데마트 등)"
+   }
   },
   {
    "id": "5df0c9c283",
@@ -408,7 +433,12 @@
    "published_iso": "2026-09-23T06:18:40+09:00",
    "sort_key": 1790111920.0,
    "excerpt": "The prime minister met the European Commission President during his visit to the United Nations General Assembly.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "버넘 영국 정치인이 EU의 새 산업 규제가 영국에 타격을 줄 것이라고 경고",
+    "impact": "영국-EU 통상 관계 이슈로 국내 시장과 직접 관련은 낮음",
+    "affected": "해당 없음(영국 국내 이슈)"
+   }
   },
   {
    "id": "f442c1dd95",
@@ -421,7 +451,12 @@
    "published_iso": "2026-09-23T06:12:26+09:00",
    "sort_key": 1790111546.0,
    "excerpt": "Diesel prices have been setting records because of the war in Iran, but the oil industry say banning U.S. exports would not make the fuel cheaper.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프 대통령이 경유 가격 인하를 위해 미국산 경유 수출 금지를 지지한다고 밝힘",
+    "impact": "수출 제한 시 글로벌 경유 공급에 영향, 유가·정유업체 마진에 변수",
+    "affected": "국제 유가·정유 관련주, 물류·운송업 원가"
+   }
   },
   {
    "id": "9247883337",
@@ -434,7 +469,12 @@
    "published_iso": "2026-09-23T06:00:11+09:00",
    "sort_key": 1790110811.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "유명 가수들의 무대의상을 만든 남성복 디자이너가 이번엔 4060 여성 고객을 겨냥",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "9082f370af",
@@ -447,7 +487,12 @@
    "published_iso": "2026-09-23T06:00:02+09:00",
    "sort_key": 1790110802.0,
    "excerpt": "(서울=연합뉴스) 이도흔 기자 = 9월 소비심리가 한 달 만에 반등했다. 국내증시 변동폭이 축소된 가운데 양호한 실물경제 흐름에 힘입어 소득여...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "9월 소비자심리지수가 한 달 만에 반등했고 집값 상승 기대는 여전히 높은 것으로 나타남",
+    "impact": "소비심리 개선은 내수 소비에 긍정적이나, 집값 기대 지속은 부동산 정책 부담 요인",
+    "affected": "국내 소비재·유통주, 부동산·건설 관련주"
+   }
   },
   {
    "id": "e036e689a6",
@@ -460,7 +505,12 @@
    "published_iso": "2026-09-23T06:00:01+09:00",
    "sort_key": 1790110801.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "TV를 꺼리던 30대 소비자들의 구매 결정을 바꾼 이유를 다룬 트렌드 기사",
+    "impact": "가전 소비 트렌드 변화를 보여주는 참고 기사, 직접적 시장 충격은 제한적",
+    "affected": "국내 가전 업종(삼성전자·LG전자) TV 판매 심리"
+   }
   },
   {
    "id": "6ecb626dda",
@@ -473,7 +523,12 @@
    "published_iso": "2026-09-23T05:51:00+09:00",
    "sort_key": 1790110260.0,
    "excerpt": "(서울=연합뉴스) 이도흔 기자 = 한국주택금융공사(HF)의 주택신용보증 구상채권 잔액이 지난 7월 2조8천억원을 넘어선 것으로 나타났다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한국주택금융공사의 주택신용보증 구상채권 잔액이 6년 만에 두 배 넘게 늘어 2조8천억원을 기록",
+    "impact": "주택담보대출 관련 부실 증가 신호로 해석되면 은행·보증기관 건전성에 부담 요인",
+    "affected": "국내 은행주, 주택금융 관련 기관 건전성"
+   }
   },
   {
    "id": "21b8cb5425",
@@ -486,7 +541,12 @@
    "published_iso": "2026-09-23T05:41:13+09:00",
    "sort_key": 1790109673.0,
    "excerpt": "Republicans lawmakers have put pressure on the president to curb exports as diesel prices soar to record highs in the US.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프 대통령이 미국산 경유 수출 금지를 지지한다고 재확인, 공화당 의원들도 압박 중",
+    "impact": "수출 제한 시 글로벌 경유 공급에 영향, 유가·정유업체 마진에 변수",
+    "affected": "국제 유가·정유 관련주"
+   }
   },
   {
    "id": "bb3326ddb2",
@@ -499,7 +559,12 @@
    "published_iso": "2026-09-23T05:30:00+09:00",
    "sort_key": 1790109000.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연준이 뱅크퍼스트코퍼레이션의 신청을 승인함(금융권 행정 승인)",
+    "impact": "개별 지방은행 관련 행정 절차로 전체 시장 영향은 미미",
+    "affected": "해당 은행 개별 이슈"
+   }
   },
   {
    "id": "2412fa8fba",
@@ -512,7 +577,12 @@
    "published_iso": "2026-09-23T05:22:14+09:00",
    "sort_key": 1790108534.0,
    "excerpt": "After months of legal and political wrangling, the media mogul David Ellison arrived at a deal with the coalition of states seeking to block his $111 billion acquisition of Warner Bros. Discovery.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "수개월간의 법적·정치적 공방 끝에 패러마운트가 1,110억 달러 규모의 워너브러더스 인수 관련 주정부 연합과 합의에 도달한 과정을 정리",
+    "impact": "대형 미디어 M&A가 최종 성사 단계에 근접했다는 확인 신호",
+    "affected": "미디어·엔터테인먼트 관련주(파라마운트, 워너브러더스 디스커버리 등)"
+   }
   },
   {
    "id": "973c2799c0",
@@ -525,7 +595,12 @@
    "published_iso": "2026-09-23T05:07:24+09:00",
    "sort_key": 1790107644.0,
    "excerpt": "Very little is known about which Chinese business executives, if any, are expected to attend.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프-시진핑 만찬에 참석할 것으로 알려진 인사들을 정리한 기사",
+    "impact": "시장 영향은 제한적, 정상회담 세부 동향 참고용",
+    "affected": "해당 없음(제한적)"
+   }
   },
   {
    "id": "109620ca73",
@@ -538,7 +613,12 @@
    "published_iso": "2026-09-23T04:51:17+09:00",
    "sort_key": 1790106677.0,
    "excerpt": "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 국제유가가 22일(현지시간) 중동 지역 원유 공급량 회복 기대 속에 배럴당 100달러 아래로 내려갔다...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "사우디 원유 공급 회복 기대 속에 국제유가가 배럴당 100달러 아래로 하락",
+    "impact": "유가 하락은 인플레이션 완화 기대로 위험자산에 우호적, 에너지 관련주엔 부담",
+    "affected": "미국 증시 전반, 정유·에너지 관련주(부정적), 항공·운송주(원가 완화 긍정적)"
+   }
   },
   {
    "id": "09be18d44a",
@@ -551,7 +631,12 @@
    "published_iso": "2026-09-23T04:42:21+09:00",
    "sort_key": 1790106141.0,
    "excerpt": "The network asked the comedian to hold off on the sketch, which mocked the president, when she filled in as host of “Jimmy Kimmel Live!”",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "방송인 로지 오도넬이 ABC가 트럼프 관련 소송을 앞두고 자신의 스케치를 미뤘다고 주장",
+    "impact": "시장 영향은 제한적, 미디어 정치 리스크 참고용",
+    "affected": "미디어주 심리에 소폭"
+   }
   },
   {
    "id": "73beffa63f",
@@ -564,7 +649,12 @@
    "published_iso": "2026-09-23T04:18:34+09:00",
    "sort_key": 1790104714.0,
    "excerpt": "(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 대통령은 22일(현지시간) 이란 전쟁과 우크라이나 전쟁 여파로 인한 미국 내 경윳값 급...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프 대통령이 경유 수출금지 입장을 밝혔고 미 재무장관은 실현 가능성을 검토 중이라고 언급",
+    "impact": "실제 시행 여부에 따라 국제 경유·유가 공급에 영향을 줄 수 있어 변동성 요인",
+    "affected": "국제 유가·정유 관련주, 물류·운송업 원가"
+   }
   },
   {
    "id": "0633e4d9fe",
@@ -577,7 +667,12 @@
    "published_iso": "2026-09-23T03:37:12+09:00",
    "sort_key": 1790102232.0,
    "excerpt": "Advances in artificial intelligence and the myriad ways content is shared online have made establishing authenticity even more difficult for users of social media.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프 관련 AI 합성 이미지가 가짜로 확인됐음에도 온라인에서 확산됨",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "4627bfd1df",
@@ -590,7 +685,12 @@
    "published_iso": "2026-09-23T02:00:20+09:00",
    "sort_key": 1790096420.0,
    "excerpt": "The country ballad holds the No. 1 spot on the Billboard chart for a 23rd nonconsecutive week, besting the record set by “All I Want for Christmas Is You.”",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "컨트리 가수 엘라 랭글리의 곡이 빌보드 차트 최장 1위 기록을 경신",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "0a1b92f8fe",
@@ -603,7 +703,12 @@
    "published_iso": "2026-09-23T01:50:29+09:00",
    "sort_key": 1790095829.0,
    "excerpt": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 자민당 대표가 EU 단일시장 재가입 시 대규모 감세를 약속",
+    "impact": "영국 국내 정치 공약으로 국내 시장과 직접 관련 낮음",
+    "affected": "해당 없음(영국 국내 이슈)"
+   }
   },
   {
    "id": "135df51d4e",
@@ -616,7 +721,12 @@
    "published_iso": "2026-09-23T01:50:24+09:00",
    "sort_key": 1790095824.0,
    "excerpt": "The food delivery giant will pay a $131.5m settlement following a city probe into wage violations.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "도어대시가 뉴욕 근로자 임금 미지급을 인정하고 1억3,150만 달러 합의금을 지불하기로 함",
+    "impact": "대형 벌금·합의금은 단기 비용 부담이나 플랫폼 노동 규제 전반의 신호로 볼 수 있음",
+    "affected": "도어대시 등 배달 플랫폼 관련주, 긱이코노미 규제 리스크"
+   }
   },
   {
    "id": "00e51339a3",
@@ -629,7 +739,12 @@
    "published_iso": "2026-09-23T01:21:14+09:00",
    "sort_key": 1790094074.0,
    "excerpt": "A suspension of pool coverage remains in effect. But the in-house United Nations broadcaster provided a feed of the president’s remarks.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "방송 풀 중단 속에서도 트럼프의 유엔 연설이 여러 방송사를 통해 생중계됨",
+    "impact": "시장 영향은 제한적, 언론 접근권 이슈 참고용",
+    "affected": "미디어주 심리에 소폭"
+   }
   },
   {
    "id": "0b77b31a75",
@@ -642,7 +757,12 @@
    "published_iso": "2026-09-23T00:43:14+09:00",
    "sort_key": 1790091794.0,
    "excerpt": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "이네오스 회장이 영국 내 천연가스 가격이 미국의 12배에 달한다며 주요 공장 생산을 중단",
+    "impact": "유럽 에너지 비용 부담이 제조업 생산 차질로 이어지는 사례, 산업 경쟁력 우려 신호",
+    "affected": "유럽 화학·제조업 관련주, 천연가스 가격"
+   }
   },
   {
    "id": "af70131b4d",
@@ -655,7 +775,12 @@
    "published_iso": "2026-09-22T23:47:38+09:00",
    "sort_key": 1790088458.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "글로벌 은행들이 AI 비서에게 쇼핑을 맡길 경우 금전적 피해가 발생할 수 있다고 경고",
+    "impact": "AI 에이전트 상거래 확산에 대한 금융권 리스크 경고, AI 서비스 신뢰성 이슈 부각",
+    "affected": "AI 커머스·핀테크 관련주 리스크 인식"
+   }
   },
   {
    "id": "2529934240",
@@ -668,7 +793,12 @@
    "published_iso": "2026-09-22T23:08:50+09:00",
    "sort_key": 1790086130.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "유가가 연속 하락하며 미국 증시가 상승했고 나스닥은 개장 초 사상 최고치를 경신",
+    "impact": "유가 하락에 따른 인플레이션 완화 기대가 위험자산 전반에 긍정적으로 작용",
+    "affected": "나스닥·S&P500 등 미국 증시 전반, 성장주"
+   }
   },
   {
    "id": "52f6a4fbe2",
@@ -681,7 +811,12 @@
    "published_iso": "2026-09-22T22:52:51+09:00",
    "sort_key": 1790085171.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "호르무즈 해협 재개방 기대감에 국제유가가 2주 만에 큰 폭 하락",
+    "impact": "지정학적 리스크 완화와 유가 하락은 인플레이션 우려를 낮춰 위험자산에 긍정적",
+    "affected": "미국·국내 증시 전반, 정유·에너지 관련주(부정적)"
+   }
   },
   {
    "id": "7e79f7af02",
@@ -694,7 +829,12 @@
    "published_iso": "2026-09-22T22:26:27+09:00",
    "sort_key": 1790083587.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중국이 트럼프와의 정상회담 시점에 맞춰 새로운 AI 기술력을 과시함",
+    "impact": "미중 AI 기술 경쟁 심화 신호로, 반도체·AI 수출 규제 이슈 재부각 가능",
+    "affected": "반도체·AI 관련 수출주, 미중 기술패권 민감주"
+   }
   },
   {
    "id": "c48d5da35f",
@@ -707,7 +847,12 @@
    "published_iso": "2026-09-22T22:10:06+09:00",
    "sort_key": 1790082606.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "사우디 송유관 재가동과 이란의 제안이 맞물리며 유가가 80달러대까지 하락할 가능성이 제기됨",
+    "impact": "추가 유가 하락 기대는 인플레이션 완화·위험자산 선호에 긍정적이나 에너지주엔 부담",
+    "affected": "국제 유가, 미국·국내 증시 전반, 정유·에너지 관련주"
+   }
   },
   {
    "id": "80a006cc86",
@@ -720,7 +865,12 @@
    "published_iso": "2026-09-22T21:28:51+09:00",
    "sort_key": 1790080131.0,
    "excerpt": "It's the latest move by the company as it and other event contract exchanges seek to gain greater participation by institutional traders.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "칼시가 CFTC에 플랫폼 내 신용거래(마진 트레이딩) 허용을 요청함",
+    "impact": "예측시장의 기관 참여 확대 시도로 규제 승인 여부에 따라 업계 성장성에 영향",
+    "affected": "예측시장 플랫폼(칼시 등) 관련 규제·성장 기대"
+   }
   },
   {
    "id": "4df13fb9ca",
@@ -733,7 +883,12 @@
    "published_iso": "2026-09-22T20:57:42+09:00",
    "sort_key": 1790078262.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "메타의 AI 이미지 생성 서비스 '뮤즈'가 인기를 끌었지만 신뢰성 문제로 아마존이 접속을 차단함",
+    "impact": "빅테크 간 AI 서비스 갈등·신뢰성 이슈가 부각되면 관련 플랫폼 경쟁 구도에 영향",
+    "affected": "메타·아마존 등 빅테크 AI 서비스 경쟁 관련주"
+   }
   },
   {
    "id": "352b203888",
@@ -746,7 +901,12 @@
    "published_iso": "2026-09-22T20:21:34+09:00",
    "sort_key": 1790076094.0,
    "excerpt": "(서울=연합뉴스) 옥성구 기자 = 노사정이 메가특구특별법 내 노동 특례 논의를 위한 &apos;원 포인트 사회적 대화&apos; 첫 실무협의체를 열어 운영 일정 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "노사정이 메가특구특별법 내 노동 특례 논의를 위한 실무협의체를 본격 가동",
+    "impact": "정책 협의 초기 단계로 직접적 시장 충격은 제한적",
+    "affected": "관련 산업단지·특구 조성 기대감"
+   }
   },
   {
    "id": "e6fb6308d4",
@@ -759,7 +919,12 @@
    "published_iso": "2026-09-22T19:23:53+09:00",
    "sort_key": 1790072633.0,
    "excerpt": "(서울=연합뉴스) 정회인 기자 = 회생절차를 밟고 있는 제이알글로벌리츠[348950]가 외부감사인으로부터 감사의견 &apos;거절&apos;을 받으면서 상장폐지 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "회생절차 중인 제이알글로벌리츠가 외부감사인으로부터 감사의견 거절을 받아 상장폐지 사유가 발생함",
+    "impact": "해당 리츠의 상장폐지 가능성이 높아져 투자자에게 직접적 손실 리스크",
+    "affected": "제이알글로벌리츠 개별 종목, 국내 리츠 시장 신뢰도"
+   }
   },
   {
    "id": "567246dad5",
@@ -772,7 +937,12 @@
    "published_iso": "2026-09-22T18:11:48+09:00",
    "sort_key": 1790068308.0,
    "excerpt": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "스페인이 폭염·산불 등 기후변화로 인한 경제적 위협에 직면했다는 분석",
+    "impact": "국내 시장과 직접 관련은 낮음",
+    "affected": "해당 없음(유럽 기후 이슈)"
+   }
   },
   {
    "id": "e1a1cdc428",
@@ -785,7 +955,12 @@
    "published_iso": "2026-09-22T17:52:12+09:00",
    "sort_key": 1790067132.0,
    "excerpt": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "8월 영국 정부 차입이 예상보다 크게 늘며 예산안을 앞두고 재무장관에 압박이 커짐",
+    "impact": "영국 재정건전성 우려가 커지면 파운드화·영국 국채에 부담 요인",
+    "affected": "파운드화, 영국 국채"
+   }
   },
   {
    "id": "22a2822b05",
@@ -798,7 +973,12 @@
    "published_iso": "2026-09-22T14:00:00+09:00",
    "sort_key": 1790053200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "ECB 수석 이코노미스트 필립 레인이 르탕(Le Temps)과 진행한 인터뷰",
+    "impact": "구체적 내용에 따라 유로존 금리 전망에 참고가 될 수 있으나 제목만으로는 방향성 판단 어려움",
+    "affected": "유로화, 유럽 금리 관련 자산"
+   }
   },
   {
    "id": "080c6c5640",
@@ -811,7 +991,12 @@
    "published_iso": "2026-09-22T10:30:01+09:00",
    "sort_key": 1790040601.0,
    "excerpt": "JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "JP모건 CEO 제이미 다이먼이 내년 하이퍼스케일러들의 AI 투자 규모가 1조 달러에 달할 수 있다고 발언",
+    "impact": "AI 인프라 투자 확대 전망이 재확인되며 AI 관련주 투자심리에 우호적일 수 있음",
+    "affected": "엔비디아 등 AI 반도체·인프라 관련주, 국내 HBM·메모리 관련주"
+   }
   },
   {
    "id": "6d900a4818",
@@ -824,7 +1009,12 @@
    "published_iso": "2026-09-22T08:01:26+09:00",
    "sort_key": 1790031686.0,
    "excerpt": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "은퇴자들이 자녀 상속분 대신 여행 등에 돈을 쓰는 소비 트렌드를 다룬 기사",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "35b003da4f",
@@ -837,7 +1027,12 @@
    "published_iso": "2026-09-22T00:04:04+09:00",
    "sort_key": 1790003044.0,
    "excerpt": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "관세·유가 상승·고금리가 맞물려 미국 기업 수익성이 악화되고 있다는 보도",
+    "impact": "미국 기업 실적 둔화 우려가 커지면 미 증시·위험자산 전반에 부담",
+    "affected": "S&P500·나스닥 등 미국 증시, 관세 민감 수출주"
+   }
   },
   {
    "id": "1517bc7279",
@@ -850,7 +1045,12 @@
    "published_iso": "2026-09-21T19:00:00+09:00",
    "sort_key": 1789984800.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "유럽중앙은행이 보유자산 일부를 토큰화 증권에 투자하기로 함",
+    "impact": "직접 충격은 제한적이나 중앙은행의 토큰화 자산 수용이라는 상징적 신호",
+    "affected": "유럽 핀테크주, 국내 STO 테마주 심리"
+   }
   },
   {
    "id": "7e4fe81db1",
@@ -863,7 +1063,12 @@
    "published_iso": "2026-09-21T19:00:00+09:00",
    "sort_key": 1789984800.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "유로시스템이 토큰화 금융에 중앙은행 결제시스템을 연결",
+    "impact": "유럽 디지털자산 인프라 확대 신호, 직접적 충격은 제한적",
+    "affected": "유럽 은행·핀테크, 국내 STO 테마주 참고"
+   }
   },
   {
    "id": "c7573a46b5",
@@ -876,7 +1081,12 @@
    "published_iso": "2026-09-21T10:02:25+09:00",
    "sort_key": 1789952545.0,
    "excerpt": "The yen weakened past 157 against the dollar, the yield on the 10-year Japanese Government Bond slipped, while the Nikkei 225 gained 1.5%.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "일본은행 금리 인상에도 엔화는 약세, 10년물 국채금리는 하락, 니케이지수는 1.5% 상승하는 이례적 반응이 나타남",
+    "impact": "엔화·일본 금리 경로 해석 변화로 엔캐리 트레이드, 아시아 증시 파급 가능",
+    "affected": "엔/달러 환율, 코스피 외국인 수급, 아시아 증시 전반"
+   }
   }
  ],
  "news_groups": {
