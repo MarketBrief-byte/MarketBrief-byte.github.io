@@ -351,7 +351,12 @@
    "published_iso": "2026-09-24T07:05:01+09:00",
    "sort_key": 1790201101.0,
    "excerpt": "(서울=연합뉴스) 강수지 기자 = 해외 레버리지 상장지수펀드(ETF) 브랜드 경영진의 방한이 잇따르고 있다. 한국 투자자가 해외 레버리지 상품의...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "해외 레버리지 ETF 운용사 경영진들이 한국 개인투자자(서학개미)를 잡기 위해 잇따라 방한",
+    "impact": "국내 개인의 해외 레버리지 상품 수요가 크다는 방증, 고위험 상품 쏠림 우려도 함께 제기될 수 있음",
+    "affected": "해외 레버리지 ETF 투자 수요, 국내 증권사 해외주식 중개"
+   }
   },
   {
    "id": "d6c5f07c26",
@@ -364,7 +369,12 @@
    "published_iso": "2026-09-24T07:01:00+09:00",
    "sort_key": 1790200860.0,
    "excerpt": "(서울=연합뉴스) 이도흔 기자 = 은행권이 추석 연휴 기간 고객 편의를 위해 이동점포를 운영한다. 해외여행객을 위한 환전 서비스와 각종 이벤트도...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "은행권이 추석 연휴 휴게소 이동점포를 운영하고 중소기업 명절 자금지원을 늘림",
+    "impact": "시장 영향은 사실상 없음(명절 서비스성 뉴스)",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "2fcb5db016",
@@ -377,7 +387,12 @@
    "published_iso": "2026-09-24T07:00:13+09:00",
    "sort_key": 1790200813.0,
    "excerpt": "(홍성=연합뉴스) 김준범 기자 = 추석을 앞두고 장을 보다 보면 발표되는 물가상승률보다 장바구니 부담이 상대적으로 크게 느껴지는 경우가 적지 않...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "우유·라면처럼 자주 사는 품목 가격이 오르면 공식 물가보다 체감 물가가 더 높게 느껴진다는 분석",
+    "impact": "지표 물가와 체감 물가의 괴리를 설명하는 기사로 직접적 시장 영향은 제한적",
+    "affected": "해당 없음(참고용)"
+   }
   },
   {
    "id": "fccb8e9164",
@@ -392,7 +407,12 @@
    "excerpt": "",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "CME가 엔비디아 H100·B200 GPU 임대가격 기반 선물 상품 출시를 앞두고 있음",
+    "impact": "GPU 연산력이 원자재처럼 거래되는 시장이 생기면 AI 인프라 가격의 투명성이 높아지고, GPU 수급 사이클이 더 빨리 가격에 반영될 수 있음",
+    "affected": "엔비디아 등 AI 반도체주, AI 클라우드·데이터센터 업종"
+   }
   },
   {
    "id": "2f2bae1b6d",
@@ -405,7 +425,12 @@
    "published_iso": "2026-09-24T07:00:10+09:00",
    "sort_key": 1790200810.0,
    "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "유엔 결의안의 실행력 부족을 지적하며 한국의 역할을 제안하는 칼럼",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "f85e930fa7",
@@ -418,7 +443,12 @@
    "published_iso": "2026-09-24T07:00:08+09:00",
    "sort_key": 1790200808.0,
    "excerpt": "(서울=연합뉴스) 박재하 기자 = 전국 세무서에 설치된 납세자보호위원회가 지방 소도시 및 도시 외 지역 등에 있는 &apos;2급지&apos; 세무서에서는 사실상...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "지방 소도시 세무서 납세자보호위원회 신청이 연 1건 미만으로 사실상 유명무실하다는 지적",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "dfa8324fb8",
@@ -431,7 +461,12 @@
    "published_iso": "2026-09-24T06:59:09+09:00",
    "sort_key": 1790200749.0,
    "excerpt": "The White House TV pool has suspended its coverage of President Trump since he banned CNN, MS NOW and Politico from the White House. The suspension was not expected to change before the arrival of China’s leader on Wednesday.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "백악관 언론 풀 중단 여파로 ABC·CBS 등 주요 방송사가 시진핑 주석 도착 장면을 촬영하지 않기로 함",
+    "impact": "언론 접근권 갈등 이슈로 직접적 시장 영향은 제한적",
+    "affected": "미디어주 심리에 소폭"
+   }
   },
   {
    "id": "949887edaf",
@@ -444,7 +479,12 @@
    "published_iso": "2026-09-24T06:45:00+09:00",
    "sort_key": 1790199900.0,
    "excerpt": "(서울=연합뉴스) 신선미 기자 = 소비자가 일반식품을 건강기능식품(건기식)으로 오인·혼동하게 만든 허위·과대광고가 지난해 7천건을 넘은 것으로 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "일반식품을 건강기능식품으로 오인하게 만든 허위·과대광고가 지난해 7천건을 넘어 역대 최대",
+    "impact": "관련 규제·단속 강화 가능성, 시장 전체 영향은 제한적",
+    "affected": "건강기능식품 업종 규제 리스크"
+   }
   },
   {
    "id": "ad213d46e7",
@@ -457,7 +497,12 @@
    "published_iso": "2026-09-24T06:30:02+09:00",
    "sort_key": 1790199002.0,
    "excerpt": "(서울=연합뉴스) = 고가의 명품을 구매했지만 제품의 품질이나 교환·환불 문제로 소비자 피해구제를 신청하는 사례가 꾸준히 발생하고 있다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "명품 관련 소비자 피해구제 신청 10건 중 8건이 품질 문제",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "b2b8a9dd19",
@@ -470,7 +515,12 @@
    "published_iso": "2026-09-24T06:26:36+09:00",
    "sort_key": 1790198796.0,
    "excerpt": "Persistent growth of Chinese exports to the U.S. is helping the world's second-largest economy ride out ongoing domestic challenges.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중국의 대미 수출이 꾸준히 늘며 자급 능력이 커진 점이 트럼프-시진핑 협상 구도를 바꾸고 있다는 분석",
+    "impact": "중국의 협상력이 커졌다는 해석이 퍼지면 미국 측 양보나 협상 장기화 가능성, 미중 관련주 변동성 요인",
+    "affected": "미중 무역 민감주, 반도체·수출주"
+   }
   },
   {
    "id": "464b9002be",
@@ -483,7 +533,12 @@
    "published_iso": "2026-09-24T06:25:01+09:00",
    "sort_key": 1790198701.0,
    "excerpt": "Lidl must also compensate Birkenstock and pay its legal fees, according to the court ruling",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "네덜란드 법원이 리들의 버켄스탁 모방 샌들 판매를 금지하고 배상을 명령",
+    "impact": "시장 영향은 제한적(개별 기업 지식재산권 분쟁)",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "35ed931c07",
@@ -496,7 +551,12 @@
    "published_iso": "2026-09-24T06:16:35+09:00",
    "sort_key": 1790198195.0,
    "excerpt": "Democrats and Republicans in Congress opposed the creation of a commission with the power to veto federal research awards.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프 행정부가 NIH 연구비에 거부권을 갖는 위원회 신설 계획을 의회 반대로 철회",
+    "impact": "바이오 연구 자금 불확실성이 일부 완화되는 신호",
+    "affected": "미국 바이오·제약 연구개발 관련 업종"
+   }
   },
   {
    "id": "fdb08c3d90",
@@ -509,7 +569,12 @@
    "published_iso": "2026-09-24T06:11:28+09:00",
    "sort_key": 1790197888.0,
    "excerpt": "Government debt costs leaped higher Wednesday, the product of multiple factors.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 국채금리가 급등하는 상황이 경제에 어떤 영향을 주는지 설명하는 기사",
+    "impact": "금리 급등은 대출·주택·기업 조달비용을 높이고 성장주 밸류에이션을 누르는 요인",
+    "affected": "나스닥 등 성장주, 미국 주택·부동산, 달러 강세"
+   }
   },
   {
    "id": "93b3359ec5",
@@ -522,7 +587,12 @@
    "published_iso": "2026-09-24T06:10:29+09:00",
    "sort_key": 1790197829.0,
    "excerpt": "The 10-year Treasury yield on Wednesday rose to around 5.1 percent, as investors increasingly expect the Fed Reserve will raise interest rates again.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 10년물 국채금리가 약 5.1%까지 오르며 연준 추가 금리 인상 기대가 커짐",
+    "impact": "금리 인상 재개 기대는 고평가 성장주·기술주에 직접적 부담. 최근 유가 하락발 랠리와 반대 방향 신호라 변동성 확대 가능",
+    "affected": "나스닥·S&P500(특히 NVDA·MSFT 등 대형 기술주), 원/달러 환율(달러 강세), 코스피 외국인 수급"
+   }
   },
   {
    "id": "da67f979f5",
@@ -535,7 +605,12 @@
    "published_iso": "2026-09-24T06:05:00+09:00",
    "sort_key": 1790197500.0,
    "excerpt": "(서울=연합뉴스) 한혜원 기자 = 지난 4년 사이 산업재해 신청 건수가 30% 증가한 가운데 건설업에서는 산재 불승인율이 3배 넘게 높아진 것으...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "산재 신청은 4년 새 30% 늘었지만 건설업 산재 불승인율은 3배로 높아짐",
+    "impact": "시장 영향은 제한적, 건설업 안전 관리 이슈",
+    "affected": "건설업 안전 규제 리스크"
+   }
   },
   {
    "id": "3d7d735b2b",
@@ -548,7 +623,12 @@
    "published_iso": "2026-09-24T06:00:01+09:00",
    "sort_key": 1790197201.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한국 드라마 촬영지 등을 찾는 외국인 관광객이 크게 늘고 있음",
+    "impact": "K-콘텐츠 관광 수요 증가로 관련 업종에 완만한 긍정 요인",
+    "affected": "여행·면세·엔터테인먼트 관련주"
+   }
   },
   {
    "id": "fac8f25837",
@@ -561,7 +641,12 @@
    "published_iso": "2026-09-24T05:57:01+09:00",
    "sort_key": 1790197021.0,
    "excerpt": "Judge Timothy J. Kelly heard arguments about President Trump’s recent decision to bar CNN, MS NOW and Politico from the White House grounds. He said he would issue a decision about it “as soon as possible.”",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "백악관 언론 출입 금지 소송에서 판사가 즉각 판결을 미루고 추후 결정하기로 함",
+    "impact": "시장 영향은 제한적",
+    "affected": "미디어주 심리에 소폭"
+   }
   },
   {
    "id": "2f7bc7faf2",
@@ -574,7 +659,12 @@
    "published_iso": "2026-09-24T04:42:27+09:00",
    "sort_key": 1790192547.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "뉴욕타임스가 출입 금지된 언론사들을 지지하는 의미로 백악관 풀 사진 게재를 중단",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "b97c3f69f3",
@@ -587,7 +677,12 @@
    "published_iso": "2026-09-24T04:26:31+09:00",
    "sort_key": 1790191591.0,
    "excerpt": "The state’s attorney general demanded access to company records to examine how the newspaper’s board oversees editorial standards amid claims of anti-Israel bias.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "플로리다주가 반이스라엘 편향 의혹을 이유로 뉴욕타임스를 상대로 소송을 제기",
+    "impact": "개별 언론사 법적 리스크, 시장 영향은 제한적",
+    "affected": "뉴욕타임스(NYT) 개별 이슈"
+   }
   },
   {
    "id": "9ed06dd326",
@@ -600,7 +695,12 @@
    "published_iso": "2026-09-24T04:24:49+09:00",
    "sort_key": 1790191489.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "해당 소송 담당 판사가 과거 트럼프가 박탈한 CNN 기자의 백악관 출입을 회복시킨 전력이 있다는 설명",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "4db723c706",
@@ -613,7 +713,12 @@
    "published_iso": "2026-09-24T04:21:10+09:00",
    "sort_key": 1790191270.0,
    "excerpt": "The SUVs will be built on a new production line in Crewe, which has been Bentley's base since 1946.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "벤틀리가 첫 순수 전기차 SUV를 공개",
+    "impact": "럭셔리 브랜드 전동화 흐름의 한 사례로 시장 전체 영향은 제한적",
+    "affected": "고급차·전기차 관련 업종 참고"
+   }
   },
   {
    "id": "7167abd5dd",
@@ -626,7 +731,12 @@
    "published_iso": "2026-09-24T04:11:43+09:00",
    "sort_key": 1790190703.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "언론사와 백악관이 법원에 제출한 서류 내용을 정리한 기사",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "d2d34a01cd",
@@ -639,7 +749,12 @@
    "published_iso": "2026-09-24T04:10:22+09:00",
    "sort_key": 1790190622.0,
    "excerpt": "Common Bond has emailed customers announcing its locations were closed \"until further notice\".",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 피트니스 체인 배리코어·붐사이클 운영사가 매장을 갑자기 폐쇄",
+    "impact": "영국 소비·서비스업 경기 부진 사례, 국내 시장 관련성은 낮음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "899ce357a5",
@@ -652,7 +767,12 @@
    "published_iso": "2026-09-24T02:00:00+09:00",
    "sort_key": 1790182800.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "OECD가 9월 중간 경제전망을 발표(기재부 참고자료)",
+    "impact": "한국·세계 성장률 전망치 조정 내용에 따라 경기 기대에 참고가 될 수 있음",
+    "affected": "국내 경기 전망, 코스피 거시 심리"
+   }
   },
   {
    "id": "5ce5927eaf",
@@ -665,7 +785,12 @@
    "published_iso": "2026-09-24T01:42:47+09:00",
    "sort_key": 1790181767.0,
    "excerpt": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프 대통령 명의로 마이크로소프트·엔비디아·스페이스X 등 대형 기술·AI 기업 주식을 수백만 달러어치 사고판 내역이 공개됨",
+    "impact": "대통령 개인 거래 내역이라 기업 펀더멘털과는 무관하지만, 이해충돌 논란이 커지면 정치·규제 리스크로 번질 수 있음",
+    "affected": "마이크로소프트(MSFT), 엔비디아(NVDA) 등 빅테크 관련 정치 리스크"
+   }
   },
   {
    "id": "96186ee52d",
@@ -678,7 +803,12 @@
    "published_iso": "2026-09-24T01:30:00+09:00",
    "sort_key": 1790181000.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "ECB 수석 이코노미스트 필립 레인이 유로존 경제 전망에 대해 연설",
+    "impact": "유로존 성장·물가 전망에 대한 ECB 시각을 보여주는 자료, 금리 경로 판단에 참고",
+    "affected": "유로화, 유럽 국채금리"
+   }
   },
   {
    "id": "ce372b02b2",
@@ -691,7 +821,12 @@
    "published_iso": "2026-09-24T01:00:00+09:00",
    "sort_key": 1790179200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "ECB가 화폐·결제·금융의 디지털화에 대한 입장을 발표",
+    "impact": "디지털 유로 등 장기 정책 방향 참고자료, 단기 시장 영향은 제한적",
+    "affected": "유럽 핀테크·결제 업종"
+   }
   },
   {
    "id": "45a28f7520",
@@ -704,7 +839,12 @@
    "published_iso": "2026-09-24T00:56:49+09:00",
    "sort_key": 1790179009.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 10년물 국채금리가 5.079%로 급등, PMI 호조로 인플레이션 압력이 다시 부각됨",
+    "impact": "경기 과열·인플레 우려로 금리 상승이 이어지면 기술주 중심 조정 압력이 커질 수 있음",
+    "affected": "나스닥 대형 기술주(NVDA·MSFT·AAPL 등), 달러, 신흥국 자금 흐름"
+   }
   },
   {
    "id": "a5162af91d",
@@ -717,7 +857,12 @@
    "published_iso": "2026-09-24T00:18:48+09:00",
    "sort_key": 1790176728.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "공급 압박 속에 미국 9월 기업활동 PMI가 58.4로 5년 만에 최고치 기록",
+    "impact": "경기 호조 신호지만 동시에 인플레이션·금리 인상 우려를 키우는 양면적 지표",
+    "affected": "미국 국채금리, 경기민감주(긍정), 성장주(금리 부담)"
+   }
   },
   {
    "id": "02b30d617a",
@@ -730,7 +875,12 @@
    "published_iso": "2026-09-23T23:59:05+09:00",
    "sort_key": 1790175545.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "메타의 AI 서비스 '뮤즈'가 스테이블코인 결제 수요를 키울 수 있다는 국내 칼럼",
+    "impact": "AI 에이전트 결제와 스테이블코인 연결 테마로 관련주 관심 요인, 실제 영향은 아직 초기 단계",
+    "affected": "스테이블코인·핀테크 테마주, 메타 관련"
+   }
   },
   {
    "id": "265a21de16",
@@ -743,7 +893,12 @@
    "published_iso": "2026-09-23T23:45:39+09:00",
    "sort_key": 1790174739.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 경유 수출 중단 방안에 대해 에너지장관과 석유업계가 반발하며 역효과 우려가 제기됨",
+    "impact": "실제 시행 가능성이 낮아지면 유가·정유 관련 불확실성 일부 완화",
+    "affected": "국제 유가·정유 관련주"
+   }
   },
   {
    "id": "b63bcf5811",
@@ -756,7 +911,12 @@
    "published_iso": "2026-09-23T22:50:25+09:00",
    "sort_key": 1790171425.0,
    "excerpt": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국이 예산안을 앞두고 늘어나는 부채 비용과 성장 둔화 경고를 받음",
+    "impact": "영국 재정 우려로 파운드화·영국 국채에 부담, 국내 시장과 직접 관련은 낮음",
+    "affected": "파운드화, 영국 국채"
+   }
   },
   {
    "id": "939767198b",
@@ -769,7 +929,12 @@
    "published_iso": "2026-09-23T22:17:08+09:00",
    "sort_key": 1790169428.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "메타의 AI 비서 '뮤즈'가 사람이 대신 전화를 걸어주는 '인간 컨시어지' 서비스를 실험 중",
+    "impact": "AI 비서 서비스 고도화 사례로 시장 영향은 제한적",
+    "affected": "메타 AI 서비스 관련"
+   }
   },
   {
    "id": "0f41d9827a",
@@ -782,7 +947,12 @@
    "published_iso": "2026-09-23T21:07:35+09:00",
    "sort_key": 1790165255.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "인도가 삼성·LG의 OLED 부품에 대한 관세 조사를 진행 중(로이터)",
+    "impact": "인도 시장에서의 관세 부담 증가 가능성으로 해당 기업 수익성에 부정적 요인",
+    "affected": "삼성전자, LG전자·LG디스플레이, 디스플레이 부품 업종"
+   }
   },
   {
    "id": "1dc12dae37",
@@ -795,7 +965,12 @@
    "published_iso": "2026-09-23T19:49:51+09:00",
    "sort_key": 1790160591.0,
    "excerpt": "Relying on text and email means sick workers disengaged and were less likely to work again, says Sir Charlie Mayfield.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 고용 자문위원이 병가 시 문자 대신 상사에게 전화하라고 권고",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "bfa0dca1ed",
@@ -808,7 +983,12 @@
    "published_iso": "2026-09-23T18:00:00+09:00",
    "sort_key": 1790154000.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "새 유로 지폐 디자인에 대한 ECB 설문조사에 약 1천만 명이 참여",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "ab580fb70a",
@@ -821,7 +1001,12 @@
    "published_iso": "2026-09-23T09:58:16+09:00",
    "sort_key": 1790125096.0,
    "excerpt": "The announcement comes after reports in August that the agency was conducting an internal review into the event contract type.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "CFTC가 예측시장의 '멘션' 계약이 시세조작 위험이 더 크다고 평가함",
+    "impact": "예측시장 플랫폼에 대한 규제 강화 신호로 관련 업체에 불확실성 요인",
+    "affected": "예측시장 플랫폼(칼시 등) 관련 규제 리스크"
+   }
   },
   {
    "id": "7b4fb203fc",
@@ -834,7 +1019,12 @@
    "published_iso": "2026-09-23T09:00:00+09:00",
    "sort_key": 1790121600.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "아시아개발은행이 2026년 9월 아시아 경제전망 보고서를 발표",
+    "impact": "아시아 성장률 전망 등 내용에 따라 신흥국·수출 관련 투자심리에 참고자료가 될 수 있음",
+    "affected": "아시아 신흥국 관련 자산, 국내 수출 경기 전망 참고"
+   }
   },
   {
    "id": "71230cc352",
@@ -847,7 +1037,12 @@
    "published_iso": "2026-09-23T09:00:00+09:00",
    "sort_key": 1790121600.0,
    "excerpt": "자세한 내용은 첨부파일 참고 부탁드립니다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "금융위가 정례회의에서 가상자산시장 불공정거래 혐의자를 수사기관에 고발·통보하기로 의결",
+    "impact": "가상자산 시장 감독 강화 신호로 관련 업계 규제 리스크 부각",
+    "affected": "국내 가상자산 거래소·관련 업종"
+   }
   },
   {
    "id": "257d1c05e2",
@@ -860,7 +1055,12 @@
    "published_iso": "2026-09-23T09:00:00+09:00",
    "sort_key": 1790121600.0,
    "excerpt": "자세한 내용은 첨부파일 참고 부탁드립니다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "메리츠증권이 종합금융투자사업자로 지정되고 단기금융업 인가를 받아 발행어음 업무를 시작할 예정",
+    "impact": "발행어음 업무로 자금조달 수단이 늘어 수익성 개선 기대 요인",
+    "affected": "메리츠금융지주·메리츠증권, 국내 증권업 경쟁 구도"
+   }
   },
   {
    "id": "4d9dc6542a",
@@ -873,7 +1073,12 @@
    "published_iso": "2026-09-23T09:00:00+09:00",
    "sort_key": 1790121600.0,
    "excerpt": "자세한 내용은 첨부파일 참고 부탁드립니다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "기업 재무제표 주석에 보유 토지의 공시지가를 공시하도록 제도가 바뀜",
+    "impact": "토지 자산이 많은 기업의 숨은 가치가 드러나 자산주 재평가 계기가 될 수 있음",
+    "affected": "토지 보유 비중이 큰 자산주, 기업 밸류업 관련주"
+   }
   },
   {
    "id": "022b5bd28d",
@@ -886,7 +1091,12 @@
    "published_iso": "2026-09-23T09:00:00+09:00",
    "sort_key": 1790121600.0,
    "excerpt": "자세한 내용은 첨부파일 참고 부탁드립니다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "금융위가 신라자산운용과 제니스투자자문의 금융투자업 인가(등록)를 취소",
+    "impact": "개별 운용사 제재로 시장 전체 영향은 제한적",
+    "affected": "해당 운용사 개별 이슈"
+   }
   },
   {
    "id": "0f90d5bf80",
@@ -899,7 +1109,12 @@
    "published_iso": "2026-09-23T09:00:00+09:00",
    "sort_key": 1790121600.0,
    "excerpt": "&nbsp; Korea Premium Weeks 2026&nbsp; &nbsp; Gateway to Asia's Most Dynamic Capital Market&nbsp; -아시아에서 가장 역동적인 자본시장을 향한 관문-&nbsp; CORE WEEK : 2026.09.28.(월) - 10.02.(금)&nbsp; FULL SCHEDULE : 2026.09.28.(월) - 10.16.(금)&nbsp; &nbsp;",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "금융위가 해외 투자자 대상 'Korea Premium Weeks 2026' 행사를 9월 말~10월 초 개최",
+    "impact": "외국인 투자 유치 행사로 코리아 디스카운트 해소 노력의 일환, 단기 영향은 제한적",
+    "affected": "코스피 외국인 수급 기대"
+   }
   },
   {
    "id": "ec3cd11941",
@@ -912,7 +1127,12 @@
    "published_iso": "2026-09-23T09:00:00+09:00",
    "sort_key": 1790121600.0,
    "excerpt": "온라인투자연계금융업의&nbsp;&nbsp; 포용금융 역할 강화와 신뢰 회복을 지원하겠습니다.&nbsp; - 중저신용자 자금공급 활성화를 위한 간담회 개최 -&nbsp;  ➊중저신용자 개인&middot;개인사업자 자금중개 기능 확대, ➋차입자 편의 제고를 위한 인프라 개선, ➌온투업계 신뢰도 제고 등 3대 전략, 8대 과제 발표&nbsp; Ⅰ. 간담회 개요 &nbsp; &nbsp; &nbsp; 금융위원회는 &rsquo;26.9.22.(화) 권대영 부위원장 주재로 ｢중저신용자 자금공급 활성화를 위한 온라인투자연계금융업계 간담회｣를 개",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "금융위가 온라인투자연계금융(P2P)업의 중저신용자 자금공급 확대와 신뢰 회복을 지원하겠다고 발표",
+    "impact": "P2P 업계 규제 환경 개선 신호, 시장 전체 영향은 제한적",
+    "affected": "온투업(P2P) 관련 핀테크"
+   }
   },
   {
    "id": "db6d9586b0",
@@ -925,7 +1145,12 @@
    "published_iso": "2026-09-23T09:00:00+09:00",
    "sort_key": 1790121600.0,
    "excerpt": "금융위원장, 「피지컬 AI 지역거점 발전 포럼」 참석, 피지컬 AI 지역거점 지원 의지 강조&nbsp; &nbsp;- 이억원 금융위원장, 축사를 통해 &ldquo;대한민국은 세계 최고 수준 제조업 경쟁력과 생산 인프라를 갖추고 있는 만큼, 피지컬 AI 경쟁에서 유리한 출발점에 있다&rdquo;고 강조하고,&nbsp; &nbsp; &nbsp;- &ldquo;전북&middot;경북&middot;경남은 대한민국을 대표하는 제조업 기반이 자리 잡고 있는 만큼 각 지역이 피지컬 AI 산업 거점으로 성장할 수 있으며, 금융위도&nbsp; 지역",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "금융위원장이 피지컬 AI 지역거점 포럼에서 제조업 기반 피지컬 AI 지원 의지를 강조",
+    "impact": "정책 지원 기대로 로봇·제조 AI 테마에 우호적 요인",
+    "affected": "로봇·피지컬 AI 관련주"
+   }
   },
   {
    "id": "973c2799c0",
@@ -938,7 +1163,12 @@
    "published_iso": "2026-09-23T08:43:43+09:00",
    "sort_key": 1790120623.0,
    "excerpt": "Very little is known about which Chinese business executives, if any, are expected to attend.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프-시진핑 만찬에 참석할 것으로 알려진 인사들을 정리한 기사",
+    "impact": "시장 영향은 제한적, 정상회담 세부 동향 참고용",
+    "affected": "해당 없음(제한적)"
+   }
   },
   {
    "id": "23e684d3f6",
@@ -951,7 +1181,12 @@
    "published_iso": "2026-09-23T08:11:33+09:00",
    "sort_key": 1790118693.0,
    "excerpt": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "유럽 자동차 업계가 위기에 처한 가운데 재무장 수요가 구원투수가 될 수 있을지 분석",
+    "impact": "유럽 자동차 산업의 구조적 위기와 방산 수요로의 전환 가능성을 시사",
+    "affected": "유럽 자동차·방산 관련주"
+   }
   },
   {
    "id": "ed2c3e9bf6",
@@ -964,7 +1199,12 @@
    "published_iso": "2026-09-23T08:03:48+09:00",
    "sort_key": 1790118228.0,
    "excerpt": "To save power and add capacity, data centres are switching from copper wires to tech using light.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "데이터센터가 구리선 대신 광통신 기술로 전환하면 전력 사용량을 줄일 수 있는지 다룬 기사",
+    "impact": "AI 데이터센터의 에너지 효율 개선 기술 트렌드로 중장기 관련 기업에 참고할 만한 신호",
+    "affected": "데이터센터·광통신 부품 관련주"
+   }
   },
   {
    "id": "bb3326ddb2",
@@ -977,7 +1217,12 @@
    "published_iso": "2026-09-23T05:30:00+09:00",
    "sort_key": 1790109000.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연준이 뱅크퍼스트코퍼레이션의 신청을 승인함(금융권 행정 승인)",
+    "impact": "개별 지방은행 관련 행정 절차로 전체 시장 영향은 미미",
+    "affected": "해당 은행 개별 이슈"
+   }
   },
   {
    "id": "80a006cc86",
@@ -990,7 +1235,12 @@
    "published_iso": "2026-09-22T21:28:51+09:00",
    "sort_key": 1790080131.0,
    "excerpt": "It's the latest move by the company as it and other event contract exchanges seek to gain greater participation by institutional traders.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "칼시가 CFTC에 플랫폼 내 신용거래(마진 트레이딩) 허용을 요청함",
+    "impact": "예측시장의 기관 참여 확대 시도로 규제 승인 여부에 따라 업계 성장성에 영향",
+    "affected": "예측시장 플랫폼(칼시 등) 관련 규제·성장 기대"
+   }
   },
   {
    "id": "22a2822b05",
@@ -1003,7 +1253,12 @@
    "published_iso": "2026-09-22T14:00:00+09:00",
    "sort_key": 1790053200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "ECB 수석 이코노미스트 필립 레인이 르탕(Le Temps)과 진행한 인터뷰",
+    "impact": "구체적 내용에 따라 유로존 금리 전망에 참고가 될 수 있으나 제목만으로는 방향성 판단 어려움",
+    "affected": "유로화, 유럽 금리 관련 자산"
+   }
   },
   {
    "id": "080c6c5640",
@@ -1016,7 +1271,12 @@
    "published_iso": "2026-09-22T10:30:01+09:00",
    "sort_key": 1790040601.0,
    "excerpt": "JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "JP모건 CEO 제이미 다이먼이 내년 하이퍼스케일러들의 AI 투자 규모가 1조 달러에 달할 수 있다고 발언",
+    "impact": "AI 인프라 투자 확대 전망이 재확인되며 AI 관련주 투자심리에 우호적일 수 있음",
+    "affected": "엔비디아 등 AI 반도체·인프라 관련주, 국내 HBM·메모리 관련주"
+   }
   },
   {
    "id": "2aab1efb6f",
@@ -1029,7 +1289,12 @@
    "published_iso": "2026-09-22T09:00:00+09:00",
    "sort_key": 1790035200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "정부가 2026년 제4차 조달정책심의위원회를 개최해 조달 관련 정책을 논의",
+    "impact": "시장 영향은 사실상 없음(정책 회의성 뉴스)",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "82fb5d6874",
@@ -1042,7 +1307,12 @@
    "published_iso": "2026-09-22T09:00:00+09:00",
    "sort_key": 1790035200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "이형일 기획재정부 관계자가 주요 간부회의를 주재함",
+    "impact": "시장 영향은 사실상 없음(내부 행정 회의)",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "f59cadb6b9",
@@ -1055,7 +1325,12 @@
    "published_iso": "2026-09-22T09:00:00+09:00",
    "sort_key": 1790035200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "9월 국고채 비경쟁인수 방식 발행이 이번 달엔 실시되지 않는다고 공지",
+    "impact": "국고채 발행 일정 관련 행정 공지로 직접적 시장 충격은 제한적",
+    "affected": "국고채 시장 참가자 참고사항"
+   }
   },
   {
    "id": "6070c5678f",
@@ -1068,7 +1343,12 @@
    "published_iso": "2026-09-22T09:00:00+09:00",
    "sort_key": 1790035200.0,
    "excerpt": "제2차 국민참여성장펀드 출시 관련 세부사항을 안내해 드립니다.&nbsp; &nbsp; &nbsp; &nbsp;국민참여형 국민성장펀드(이하 &lsquo;국민참여성장펀드&rsquo;)가 지난 5월 출시되어 조기에 완판됨에 따라, 보다 많은 국민들께 참여 기회를 드리기 위하여 제2차 국민참여성장펀드를 곧 출시합니다.&nbsp; &nbsp; 2차 펀드의 국민 대상 모집금액은 1차와 동일한 6,000억원이며, 9월 30일(수)부터 10월 15일(목)까지 10영업일 동안 물량 소진시까지 판매됩니다. &nbsp; &nbsp; 보다 많은 국민에게",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "1차 완판된 국민참여성장펀드의 2차 출시 세부사항을 안내",
+    "impact": "정책펀드 자금 유입이 관련 성장 산업에 수급 지원 요인이 될 수 있음",
+    "affected": "정책펀드 투자 대상 성장 산업(AI·반도체 등)"
+   }
   }
  ],
  "news_groups": {
