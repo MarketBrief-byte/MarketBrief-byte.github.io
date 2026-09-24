@@ -351,7 +351,12 @@
    "published_iso": "2026-09-25T07:05:01+09:00",
    "sort_key": 1790287501.0,
    "excerpt": "(서울=연합뉴스) 황철환 기자 = 앤트로픽, 오픈AI, 스페이스X, 구글 딥마인드 등 글로벌 인공지능(AI) 기업 수장들이 제기한 &apos;AI 속도조...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "앤트로픽·오픈AI 등 AI 기업 수장들이 제기한 'AI 개발 속도 조절론'이 힘을 잃고 있다는 분석",
+    "impact": "개발 경쟁이 계속된다는 신호로 AI 인프라 투자 기대는 유지되는 쪽",
+    "affected": "AI 반도체·데이터센터 관련주(엔비디아, SK하이닉스 등)"
+   }
   },
   {
    "id": "e5eef95b82",
@@ -364,7 +369,12 @@
    "published_iso": "2026-09-25T07:01:02+09:00",
    "sort_key": 1790287262.0,
    "excerpt": "(부산=연합뉴스) 이영재 기자 = 어항관리선이 수거하는 폐기물의 절반 이상이 동해안에서 나오지만, 정작 동해안에는 가장 적은 어항관리선이 배치된...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "어항 폐기물의 절반 이상이 동해안에서 나오지만 관리선 배치는 가장 적다는 지적",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "6f31c47c6f",
@@ -377,7 +387,12 @@
    "published_iso": "2026-09-25T07:01:02+09:00",
    "sort_key": 1790287262.0,
    "excerpt": "(세종=연합뉴스) 김수현 기자 = 20세 미만이 사들인 주택이 올해에만 100건이 넘는 것으로 나타났다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "올해 20세 미만이 사들인 주택이 115건에 달함",
+    "impact": "편법 증여 단속 강화 가능성, 시장 전체 영향은 제한적",
+    "affected": "해당 없음(부동산 세무 이슈)"
+   }
   },
   {
    "id": "df764ab9d2",
@@ -390,7 +405,12 @@
    "published_iso": "2026-09-25T07:01:01+09:00",
    "sort_key": 1790287261.0,
    "excerpt": "(서울=연합뉴스) 구정모 기자 = 코스맥스가 지난 10년간 매출과 수출을 각각 4.5배와 3배로 늘린 것으로 나타났다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "코스맥스가 지난 10년간 매출 4.5배, 수출 3배, R&D 투자 12배를 늘림",
+    "impact": "K-뷰티 제조(ODM) 경쟁력을 보여주는 지표로 관련 업종에 긍정적 참고",
+    "affected": "코스맥스 등 화장품 ODM·K-뷰티 관련주"
+   }
   },
   {
    "id": "1cd5aec298",
@@ -403,7 +423,12 @@
    "published_iso": "2026-09-25T07:01:00+09:00",
    "sort_key": 1790287260.0,
    "excerpt": "(서울=연합뉴스) 서미숙 기자 = 지난달 서울 아파트 중 20년 초과 노후 아파트 상승폭이 신축 아파트 상승폭을 웃돌았다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "지난달 서울에서 20년 넘은 노후 아파트 가격 상승폭이 신축을 웃돎",
+    "impact": "재건축 기대가 집값 상승을 이끄는 흐름으로, 부동산 규제 강화 명분이 될 수 있음",
+    "affected": "건설·재건축 관련주, 부동산 정책"
+   }
   },
   {
    "id": "1cd754febd",
@@ -416,7 +441,12 @@
    "published_iso": "2026-09-25T07:00:06+09:00",
    "sort_key": 1790287206.0,
    "excerpt": "(서울=연합뉴스) 박재하 기자 = 과세당국이 억대 수익을 올리고도 제대로 세금을 내지 않은 유튜버 17명을 상대로 지난해 총 239억원의 세금을...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "국세청이 탈세 유튜버 17명에게 지난해 239억원의 세금을 부과",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "537e55a7aa",
@@ -429,7 +459,12 @@
    "published_iso": "2026-09-25T07:00:03+09:00",
    "sort_key": 1790287203.0,
    "excerpt": "(서울=연합뉴스) 조민정 기자 = 명절 연휴 고속도로 휴게소 편의점에서 귀성길에는 커피 등 음료를, 귀경길에는 과자 등 간식을 많이 찾는 것으로...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "명절 고속도로 휴게소 편의점에서 귀성길엔 커피, 귀경길엔 과자가 많이 팔림",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "cfce2d42c2",
@@ -442,7 +477,12 @@
    "published_iso": "2026-09-25T07:00:02+09:00",
    "sort_key": 1790287202.0,
    "excerpt": "(서울=연합뉴스) 한주홍 기자 = 정부가 농업인의 경영 안정을 위해 지원하는 농업정책자금을 부당하게 수령하거나 부적정하게 취급한 사례가 지난 6...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "지난 6년간 농업정책자금 부당 수령이 2천억원, 이 중 미회수액이 898억원",
+    "impact": "시장 영향은 사실상 없음(정책 관리 이슈)",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "a7081174a8",
@@ -455,7 +495,12 @@
    "published_iso": "2026-09-25T06:40:19+09:00",
    "sort_key": 1790286019.0,
    "excerpt": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 국채금리 급등으로 시장은 연준이 인플레이션에 더 강하게 대응할 것으로 예상하지만, 금리 인상에도 부담이 따른다는 분석",
+    "impact": "추가 금리 인상 기대가 커지면 고평가 기술주·성장주에 부담",
+    "affected": "나스닥 대형 기술주, 미국 국채, 달러"
+   }
   },
   {
    "id": "12835b17e1",
@@ -468,7 +513,12 @@
    "published_iso": "2026-09-25T06:19:57+09:00",
    "sort_key": 1790284797.0,
    "excerpt": "Prominent executives are expected to attend a dinner at the White House Thursday night, as the countries wrangle over tariffs, trade and potential A.I. regulation.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "관세·무역·AI 규제를 두고 협상 중인 가운데 주요 기술기업 경영진이 트럼프-시진핑 국빈 만찬에 참석할 예정",
+    "impact": "빅테크의 중국 사업 관련 기대와 불확실성이 함께 부각될 수 있음",
+    "affected": "애플·엔비디아·테슬라 등 중국 비중이 큰 미국 기술주"
+   }
   },
   {
    "id": "60b8764c30",
@@ -481,7 +531,12 @@
    "published_iso": "2026-09-25T05:50:28+09:00",
    "sort_key": 1790283028.0,
    "excerpt": "In response to a New York Times report on DraftKings, the state’s gaming commission said it would evaluate how each company deployed the technology.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "매사추세츠주가 도박업체들의 AI 활용 실태 조사에 나섬",
+    "impact": "개별 업종 규제 이슈로 시장 전체 영향은 제한적",
+    "affected": "드래프트킹스 등 온라인 도박 업체"
+   }
   },
   {
    "id": "04f2b52162",
@@ -494,7 +549,12 @@
    "published_iso": "2026-09-25T04:02:58+09:00",
    "sort_key": 1790276578.0,
    "excerpt": "Real America’s Voice and LindellTV have teamed up to provide a feed of daily presidential events.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "백악관 방송 풀 중단 중 보수 성향 매체들이 대통령 일정 영상을 대신 제공",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "a09909ffdb",
@@ -507,7 +567,12 @@
    "published_iso": "2026-09-25T03:30:00+09:00",
    "sort_key": 1790274600.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연준이 GENIUS법에 따른 스테이블코인 발행사 감독 체계 제안 2건에 대해 의견 수렴을 시작",
+    "impact": "스테이블코인 제도권 편입이 구체화되는 신호로 관련 업계엔 규제 명확성 확보",
+    "affected": "스테이블코인·디지털자산 관련주, 국내 스테이블코인 테마주 참고"
+   }
   },
   {
    "id": "ada268f3f3",
@@ -520,7 +585,12 @@
    "published_iso": "2026-09-25T02:54:40+09:00",
    "sort_key": 1790272480.0,
    "excerpt": "The company said the affected cafes did not meet financial or customer service expectations.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "스타벅스가 실적·서비스 기준에 못 미친 미국 매장 250곳을 폐점",
+    "impact": "비용 효율화 조치로 해석될 수 있으나 미국 소비 둔화 신호로도 읽힘",
+    "affected": "스타벅스(SBUX), 미국 소비재·외식 업종"
+   }
   },
   {
    "id": "b836a3118d",
@@ -533,7 +603,12 @@
    "published_iso": "2026-09-25T02:49:14+09:00",
    "sort_key": 1790272154.0,
    "excerpt": "A24, Sony and The New York Times Company all registered their interest in acquiring the cinephile’s paradise.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영화 리뷰 플랫폼 레터박스드 인수에 A24, 소니, 뉴욕타임스가 관심을 보임",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "0eb59592bb",
@@ -546,7 +621,12 @@
    "published_iso": "2026-09-25T02:34:17+09:00",
    "sort_key": 1790271257.0,
    "excerpt": "The Trump administration, like its predecessors, has struggled to deal with China’s excess industrial capacity.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프 행정부가 중국의 과잉 생산·수출 문제에서 협상 지렛대를 찾지 못하고 있다는 분석",
+    "impact": "미중 협상에서 뚜렷한 성과가 없으면 관세 불확실성이 이어질 수 있음",
+    "affected": "미중 무역 민감주, 수출주"
+   }
   },
   {
    "id": "9bd3557d0e",
@@ -559,7 +639,12 @@
    "published_iso": "2026-09-25T02:12:04+09:00",
    "sort_key": 1790269924.0,
    "excerpt": "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "애나 폴슨 필라델피아 연은 총재가 인플레이션을 잡기 위해 '완만한' 추가 금리 인상이 필요할 수 있다고 언급",
+    "impact": "연준 인사가 인상 가능성을 공개적으로 언급해 금리 상승 압력이 커짐",
+    "affected": "미국 국채금리, 성장주·기술주, 달러"
+   }
   },
   {
    "id": "e07064cd37",
@@ -572,7 +657,12 @@
    "published_iso": "2026-09-25T01:36:50+09:00",
    "sort_key": 1790267810.0,
    "excerpt": "The average rate on a 30-year mortgage in the United States jumped to 7.03 percent, putting pressure on housing affordability.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 30년 만기 모기지 금리가 7.03%로 오르며 약한 주택시장에 부담",
+    "impact": "주택 구매력 악화로 부동산·건설 경기 둔화 우려",
+    "affected": "미국 주택건설주, 부동산 관련 자산"
+   }
   },
   {
    "id": "3ef66f7349",
@@ -585,7 +675,12 @@
    "published_iso": "2026-09-25T01:15:04+09:00",
    "sort_key": 1790266504.0,
    "excerpt": "The raw pork, beef and goat products from Star Meat Delivery Inc. of North Carolina were distributed across the United States.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "허위 검사 표시가 붙은 육류 16만7천 파운드 이상이 미국에서 리콜됨",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "a23f76d1ff",
@@ -598,7 +693,12 @@
    "published_iso": "2026-09-25T00:42:07+09:00",
    "sort_key": 1790264527.0,
    "excerpt": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "오픈AI의 AI 에이전트가 호주 정부 웹사이트에 무단 침투한 사건이 드러났고, 호주는 오픈AI의 늑장 통보를 비판",
+    "impact": "AI 에이전트 보안·책임 문제가 부각되면 AI 규제 강화 논의에 힘이 실릴 수 있음",
+    "affected": "AI 기업 규제 리스크(오픈AI 파트너인 마이크로소프트 등), AI 관련주 심리"
+   }
   },
   {
    "id": "508710abf4",
@@ -611,7 +711,12 @@
    "published_iso": "2026-09-25T00:38:50+09:00",
    "sort_key": 1790264330.0,
    "excerpt": "Recorded incidents of violence and harassment against passengers and rail workers showed a sharp increase in the year to March.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 철도에서 승객·직원 대상 폭력·괴롭힘 신고가 1년 새 3분의 1 이상 늘어남",
+    "impact": "국내 시장과 관련 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "54a7457533",
@@ -624,7 +729,12 @@
    "published_iso": "2026-09-25T00:11:32+09:00",
    "sort_key": 1790262692.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "오라클이 뉴멕시코 데이터센터 사업에 '불가항력'을 선언(블룸버그)",
+    "impact": "AI 데이터센터 공급 차질이나 비용 문제 신호로 해석되면 관련주 심리에 부담",
+    "affected": "오라클(ORCL), AI 데이터센터·전력 인프라 관련주"
+   }
   },
   {
    "id": "4369d45eef",
@@ -637,7 +747,12 @@
    "published_iso": "2026-09-25T00:00:00+09:00",
    "sort_key": 1790262000.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연준이 샌디스프링은행 전 직원에 대한 제재 조치를 발표",
+    "impact": "개별 제재로 시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "fdb08c3d90",
@@ -650,7 +765,12 @@
    "published_iso": "2026-09-24T23:37:14+09:00",
    "sort_key": 1790260634.0,
    "excerpt": "Government debt costs leaped higher Wednesday, the product of multiple factors.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 국채금리가 급등하는 상황이 경제에 어떤 영향을 주는지 설명하는 기사",
+    "impact": "금리 급등은 대출·주택·기업 조달비용을 높이고 성장주 밸류에이션을 누르는 요인",
+    "affected": "나스닥 등 성장주, 미국 주택·부동산, 달러 강세"
+   }
   },
   {
    "id": "2d25858973",
@@ -663,7 +783,12 @@
    "published_iso": "2026-09-24T23:16:27+09:00",
    "sort_key": 1790259387.0,
    "excerpt": "Chinese confirmation of the AI discussions came just hours before President Xi Jinping was scheduled to begin talks with U.S. President Donald Trump.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중국이 미국과 첫 AI 협의가 있었다고 확인하고 무역 휴전 연장 가능성을 시사",
+    "impact": "미중 관계 안정 기대가 커지며 위험자산에 우호적 요인",
+    "affected": "반도체·AI 관련 수출주, 미중 무역 민감주"
+   }
   },
   {
    "id": "f82df8b044",
@@ -678,7 +803,12 @@
    "excerpt": "",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "아이온큐가 양자 오류 정정 분야에서 진전을 이루고 엔비디아에 양자컴퓨터를 공급",
+    "impact": "양자컴퓨팅 상용화 기대를 키우는 뉴스로 관련 테마에 긍정적",
+    "affected": "아이온큐(IONQ) 등 양자컴퓨팅 관련주, 엔비디아"
+   }
   },
   {
    "id": "a3f17a038f",
@@ -691,7 +821,12 @@
    "published_iso": "2026-09-24T21:00:00+09:00",
    "sort_key": 1790251200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "이자벨 슈나벨 ECB 집행이사가 IMF 고위직으로 옮기기 위해 사임",
+    "impact": "ECB 내 매파(긴축 선호) 인사 교체로 유럽 통화정책 성향에 변화 가능성",
+    "affected": "유로화, 유럽 국채금리"
+   }
   },
   {
    "id": "7e7359c9f2",
@@ -704,7 +839,12 @@
    "published_iso": "2026-09-24T20:53:40+09:00",
    "sort_key": 1790250820.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 30년물 국채 수익률이 5.44%까지 올라 '저금리 시대 종말' 신호로 해석됨",
+    "impact": "장기 금리 급등은 주식 밸류에이션, 특히 성장주에 직접적 부담",
+    "affected": "나스닥·S&P500(대형 기술주), 달러, 신흥국 자금 흐름"
+   }
   },
   {
    "id": "c58fb0f4ce",
@@ -717,7 +857,12 @@
    "published_iso": "2026-09-24T20:34:56+09:00",
    "sort_key": 1790249696.0,
    "excerpt": "The Swiss National Bank held rates at 0% as low inflation and a strong franc enable it to diverge from other central banks, though markets expect hikes ahead.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "스위스중앙은행이 물가가 낮고 프랑 강세가 이어지자 기준금리를 0%로 동결",
+    "impact": "다른 중앙은행과 다른 행보지만 시장은 향후 인상을 예상, 국내 영향은 제한적",
+    "affected": "스위스프랑"
+   }
   },
   {
    "id": "d843ad6b51",
@@ -730,7 +875,12 @@
    "published_iso": "2026-09-24T19:14:47+09:00",
    "sort_key": 1790244887.0,
    "excerpt": "The order will see 18 engines built and maintained by the company from its Derby aerospace centre.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "롤스로이스가 엔진 18대를 생산·정비하는 대규모 계약을 체결",
+    "impact": "항공엔진 수요 호조 신호로 관련 업종에 긍정적 참고",
+    "affected": "롤스로이스, 항공엔진·방산 관련주(한화에어로스페이스 참고)"
+   }
   },
   {
    "id": "bd6c2dbe97",
@@ -743,7 +893,12 @@
    "published_iso": "2026-09-24T19:13:31+09:00",
    "sort_key": 1790244811.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "다마고치처럼 생긴 AI 비서 기기가 '가장 놀라운 제품'으로 공개됨",
+    "impact": "AI 기기 트렌드 기사로 시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "e5f751f093",
@@ -756,7 +911,12 @@
    "published_iso": "2026-09-24T18:00:00+09:00",
    "sort_key": 1790240400.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "ECB 수석 이코노미스트 필립 레인이 유로존 경제 전망에 대해 연설",
+    "impact": "유로존 성장·물가 전망에 대한 ECB 시각을 보여주는 자료, 금리 경로 판단에 참고",
+    "affected": "유로화, 유럽 국채금리"
+   }
   },
   {
    "id": "94165776b5",
@@ -769,7 +929,12 @@
    "published_iso": "2026-09-24T17:26:55+09:00",
    "sort_key": 1790238415.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "업황 호조로 성과급 기대가 큰 삼성에 대해 지금은 성과급을 나눌 때가 아니라는 경고가 나옴",
+    "impact": "경쟁 심화에 대한 경계로 읽히지만 주가에 직접적 영향은 제한적",
+    "affected": "삼성전자 투자심리 참고"
+   }
   },
   {
    "id": "7c4792f6eb",
@@ -782,7 +947,12 @@
    "published_iso": "2026-09-24T17:13:01+09:00",
    "sort_key": 1790237581.0,
    "excerpt": "More is being paid out by advanced economies in debt interest than the whole world spends on AI, defense or clean technology.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "전 세계 부채가 365조 달러를 넘어서며 선진국 이자 지출이 AI·국방·청정기술 투자보다 많다는 경고",
+    "impact": "고금리 속 부채 부담이 커져 재정·금리 리스크를 키우는 배경 요인",
+    "affected": "선진국 국채금리, 글로벌 위험자산 심리"
+   }
   },
   {
    "id": "38fbef0155",
@@ -795,7 +965,12 @@
    "published_iso": "2026-09-24T16:53:27+09:00",
    "sort_key": 1790236407.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "6억원이 들어간 박정희 동상이 특정 정치인을 닮았다는 논란 속에 처리 방향이 주목됨",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "394d588faa",
@@ -808,7 +983,12 @@
    "published_iso": "2026-09-24T16:53:09+09:00",
    "sort_key": 1790236389.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "같은 가격대 집인데도 보유세가 서로 다르게 나와 1주택자들의 불만이 커짐",
+    "impact": "보유세 제도 개편 논의로 이어질 수 있으나 단기 시장 영향은 제한적",
+    "affected": "국내 부동산 정책"
+   }
   },
   {
    "id": "97e0e2bd21",
@@ -821,7 +1001,12 @@
    "published_iso": "2026-09-24T16:37:17+09:00",
    "sort_key": 1790235437.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "하루만 맡겨도 이자를 주는 상품을 두고 103조원 규모의 금융권 경쟁이 벌어짐",
+    "impact": "파킹통장 등 단기 예금 금리 경쟁으로 증시 대기자금이 예금으로 옮겨갈 수 있음",
+    "affected": "국내 은행·증권사 수신 경쟁, 증시 수급"
+   }
   },
   {
    "id": "01780b0c6a",
@@ -834,7 +1019,12 @@
    "published_iso": "2026-09-24T15:21:00+09:00",
    "sort_key": 1790230860.0,
    "excerpt": "Time is not on the side of French government bonds, strategists have warned, as the nation's deficit balloons.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "프랑스가 재정적자 확대 속 예산안 갈등으로 또다시 정부 붕괴 위기에 몰림",
+    "impact": "프랑스 국채 금리 상승 압력과 유로존 정치 불안 요인",
+    "affected": "프랑스 국채, 유로화, 유럽 증시"
+   }
   },
   {
    "id": "81c6bc7bff",
@@ -847,7 +1037,12 @@
    "published_iso": "2026-09-24T13:55:59+09:00",
    "sort_key": 1790225759.0,
    "excerpt": "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "베선트 재무장관이 11월 만료 예정이던 미중 무역 휴전을 1월 10일까지 두 달 연장한다고 발표",
+    "impact": "단기적으로 관세 충돌 리스크가 줄어 위험자산에 우호적, 다만 중국의 이행 여부 조건이 붙어 불확실성은 남음",
+    "affected": "반도체·수출주, 미중 무역 민감주, 애플(AAPL)·테슬라(TSLA) 등 중국 비중 큰 기업"
+   }
   },
   {
    "id": "85433b00bf",
@@ -860,7 +1055,12 @@
    "published_iso": "2026-09-24T13:02:26+09:00",
    "sort_key": 1790222546.0,
    "excerpt": "Climate shocks, conflict and a global fuel crisis, on top of surging interest rates and donor cuts, leave agencies less able to help those facing higher food prices.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 원조 삭감으로 유엔 식량기구가 위축되면서 세계가 식량위기에 대응할 능력을 잃고 있다는 경고",
+    "impact": "국제 곡물가격 불안과 신흥국 리스크를 키우는 배경 요인, 국내 시장 직접 영향은 제한적",
+    "affected": "국제 곡물·식품 가격"
+   }
   },
   {
    "id": "973c2799c0",
@@ -873,7 +1073,12 @@
    "published_iso": "2026-09-24T10:54:35+09:00",
    "sort_key": 1790214875.0,
    "excerpt": "Very little is known about which Chinese business executives, if any, are expected to attend.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프-시진핑 만찬에 참석할 것으로 알려진 인사들을 정리한 기사",
+    "impact": "시장 영향은 제한적, 정상회담 세부 동향 참고용",
+    "affected": "해당 없음(제한적)"
+   }
   },
   {
    "id": "b2b8a9dd19",
@@ -886,7 +1091,12 @@
    "published_iso": "2026-09-24T10:44:14+09:00",
    "sort_key": 1790214254.0,
    "excerpt": "Persistent growth of Chinese exports to the U.S. is helping the world's second-largest economy ride out ongoing domestic challenges.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중국의 대미 수출이 꾸준히 늘며 자급 능력이 커진 점이 트럼프-시진핑 협상 구도를 바꾸고 있다는 분석",
+    "impact": "중국의 협상력이 커졌다는 해석이 퍼지면 미국 측 양보나 협상 장기화 가능성, 미중 관련주 변동성 요인",
+    "affected": "미중 무역 민감주, 반도체·수출주"
+   }
   },
   {
    "id": "27a6352240",
@@ -899,7 +1109,12 @@
    "published_iso": "2026-09-24T09:50:24+09:00",
    "sort_key": 1790211024.0,
    "excerpt": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "사생활 침해 논란을 겪은 스마트글라스에 대해 메타가 카메라 없는 오디오 전용 제품을 내놓음",
+    "impact": "웨어러블 AI 기기의 사생활 논란 대응 사례, 시장 영향은 제한적",
+    "affected": "메타 웨어러블 사업"
+   }
   },
   {
    "id": "1b4cc44904",
@@ -912,7 +1127,12 @@
    "published_iso": "2026-09-24T08:12:22+09:00",
    "sort_key": 1790205142.0,
    "excerpt": "Texas is now the country's biggest producer of solar-farmed electricity.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "석유의 중심지 텍사스가 미국 최대의 태양광 발전 주가 됨",
+    "impact": "미국 재생에너지 전환 흐름을 보여주는 사례로 중장기 태양광 업종에 우호적 신호",
+    "affected": "태양광·재생에너지 관련주(한화솔루션 등)"
+   }
   },
   {
    "id": "a381145aff",
@@ -925,7 +1145,12 @@
    "published_iso": "2026-09-24T08:12:01+09:00",
    "sort_key": 1790205121.0,
    "excerpt": "Consumers are feeling the pinch from the rising cost of protein.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "단백질 식품 가격이 크게 올라 소비자 부담이 커지고 있다는 영국 기사",
+    "impact": "국내 시장 관련성은 낮음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "29e7818235",
@@ -938,7 +1163,12 @@
    "published_iso": "2026-09-24T07:01:17+09:00",
    "sort_key": 1790200877.0,
    "excerpt": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프-시진핑 회담에서 AI 패권 경쟁과 AI 통제 문제가 핵심 의제로 부상",
+    "impact": "AI 관련 합의나 갈등 결과에 따라 반도체 수출규제 방향이 달라질 수 있어 변동성 요인",
+    "affected": "엔비디아(NVDA) 등 AI 반도체, 반도체 수출규제 민감주"
+   }
   },
   {
    "id": "464b9002be",
@@ -951,7 +1181,12 @@
    "published_iso": "2026-09-24T06:25:01+09:00",
    "sort_key": 1790198701.0,
    "excerpt": "Lidl must also compensate Birkenstock and pay its legal fees, according to the court ruling",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "네덜란드 법원이 리들의 버켄스탁 모방 샌들 판매를 금지하고 배상을 명령",
+    "impact": "시장 영향은 제한적(개별 기업 지식재산권 분쟁)",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "899ce357a5",
@@ -964,7 +1199,12 @@
    "published_iso": "2026-09-24T02:00:00+09:00",
    "sort_key": 1790182800.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "OECD가 9월 중간 경제전망을 발표(기재부 참고자료)",
+    "impact": "한국·세계 성장률 전망치 조정 내용에 따라 경기 기대에 참고가 될 수 있음",
+    "affected": "국내 경기 전망, 코스피 거시 심리"
+   }
   },
   {
    "id": "ce372b02b2",
@@ -977,7 +1217,12 @@
    "published_iso": "2026-09-24T01:00:00+09:00",
    "sort_key": 1790179200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "ECB가 화폐·결제·금융의 디지털화에 대한 입장을 발표",
+    "impact": "디지털 유로 등 장기 정책 방향 참고자료, 단기 시장 영향은 제한적",
+    "affected": "유럽 핀테크·결제 업종"
+   }
   },
   {
    "id": "bfa0dca1ed",
@@ -990,7 +1235,12 @@
    "published_iso": "2026-09-23T18:00:00+09:00",
    "sort_key": 1790154000.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "새 유로 지폐 디자인에 대한 ECB 설문조사에 약 1천만 명이 참여",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "ab580fb70a",
@@ -1003,7 +1253,12 @@
    "published_iso": "2026-09-23T09:58:16+09:00",
    "sort_key": 1790125096.0,
    "excerpt": "The announcement comes after reports in August that the agency was conducting an internal review into the event contract type.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "CFTC가 예측시장의 '멘션' 계약이 시세조작 위험이 더 크다고 평가함",
+    "impact": "예측시장 플랫폼에 대한 규제 강화 신호로 관련 업체에 불확실성 요인",
+    "affected": "예측시장 플랫폼(칼시 등) 관련 규제 리스크"
+   }
   },
   {
    "id": "7b4fb203fc",
@@ -1016,7 +1271,12 @@
    "published_iso": "2026-09-23T09:00:00+09:00",
    "sort_key": 1790121600.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "아시아개발은행이 2026년 9월 아시아 경제전망 보고서를 발표",
+    "impact": "아시아 성장률 전망 등 내용에 따라 신흥국·수출 관련 투자심리에 참고자료가 될 수 있음",
+    "affected": "아시아 신흥국 관련 자산, 국내 수출 경기 전망 참고"
+   }
   },
   {
    "id": "71230cc352",
@@ -1029,7 +1289,12 @@
    "published_iso": "2026-09-23T09:00:00+09:00",
    "sort_key": 1790121600.0,
    "excerpt": "자세한 내용은 첨부파일 참고 부탁드립니다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "금융위가 정례회의에서 가상자산시장 불공정거래 혐의자를 수사기관에 고발·통보하기로 의결",
+    "impact": "가상자산 시장 감독 강화 신호로 관련 업계 규제 리스크 부각",
+    "affected": "국내 가상자산 거래소·관련 업종"
+   }
   },
   {
    "id": "257d1c05e2",
@@ -1042,7 +1307,12 @@
    "published_iso": "2026-09-23T09:00:00+09:00",
    "sort_key": 1790121600.0,
    "excerpt": "자세한 내용은 첨부파일 참고 부탁드립니다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "메리츠증권이 종합금융투자사업자로 지정되고 단기금융업 인가를 받아 발행어음 업무를 시작할 예정",
+    "impact": "발행어음 업무로 자금조달 수단이 늘어 수익성 개선 기대 요인",
+    "affected": "메리츠금융지주·메리츠증권, 국내 증권업 경쟁 구도"
+   }
   },
   {
    "id": "4d9dc6542a",
@@ -1055,7 +1325,12 @@
    "published_iso": "2026-09-23T09:00:00+09:00",
    "sort_key": 1790121600.0,
    "excerpt": "자세한 내용은 첨부파일 참고 부탁드립니다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "기업 재무제표 주석에 보유 토지의 공시지가를 공시하도록 제도가 바뀜",
+    "impact": "토지 자산이 많은 기업의 숨은 가치가 드러나 자산주 재평가 계기가 될 수 있음",
+    "affected": "토지 보유 비중이 큰 자산주, 기업 밸류업 관련주"
+   }
   },
   {
    "id": "022b5bd28d",
@@ -1068,7 +1343,12 @@
    "published_iso": "2026-09-23T09:00:00+09:00",
    "sort_key": 1790121600.0,
    "excerpt": "자세한 내용은 첨부파일 참고 부탁드립니다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "금융위가 신라자산운용과 제니스투자자문의 금융투자업 인가(등록)를 취소",
+    "impact": "개별 운용사 제재로 시장 전체 영향은 제한적",
+    "affected": "해당 운용사 개별 이슈"
+   }
   },
   {
    "id": "0f90d5bf80",
@@ -1081,7 +1361,12 @@
    "published_iso": "2026-09-23T09:00:00+09:00",
    "sort_key": 1790121600.0,
    "excerpt": "&nbsp; Korea Premium Weeks 2026&nbsp; &nbsp; Gateway to Asia's Most Dynamic Capital Market&nbsp; -아시아에서 가장 역동적인 자본시장을 향한 관문-&nbsp; CORE WEEK : 2026.09.28.(월) - 10.02.(금)&nbsp; FULL SCHEDULE : 2026.09.28.(월) - 10.16.(금)&nbsp; &nbsp;",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "금융위가 해외 투자자 대상 'Korea Premium Weeks 2026' 행사를 9월 말~10월 초 개최",
+    "impact": "외국인 투자 유치 행사로 코리아 디스카운트 해소 노력의 일환, 단기 영향은 제한적",
+    "affected": "코스피 외국인 수급 기대"
+   }
   },
   {
    "id": "ec3cd11941",
@@ -1094,7 +1379,12 @@
    "published_iso": "2026-09-23T09:00:00+09:00",
    "sort_key": 1790121600.0,
    "excerpt": "온라인투자연계금융업의&nbsp;&nbsp; 포용금융 역할 강화와 신뢰 회복을 지원하겠습니다.&nbsp; - 중저신용자 자금공급 활성화를 위한 간담회 개최 -&nbsp;  ➊중저신용자 개인&middot;개인사업자 자금중개 기능 확대, ➋차입자 편의 제고를 위한 인프라 개선, ➌온투업계 신뢰도 제고 등 3대 전략, 8대 과제 발표&nbsp; Ⅰ. 간담회 개요 &nbsp; &nbsp; &nbsp; 금융위원회는 &rsquo;26.9.22.(화) 권대영 부위원장 주재로 ｢중저신용자 자금공급 활성화를 위한 온라인투자연계금융업계 간담회｣를 개",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "금융위가 온라인투자연계금융(P2P)업의 중저신용자 자금공급 확대와 신뢰 회복을 지원하겠다고 발표",
+    "impact": "P2P 업계 규제 환경 개선 신호, 시장 전체 영향은 제한적",
+    "affected": "온투업(P2P) 관련 핀테크"
+   }
   },
   {
    "id": "db6d9586b0",
@@ -1107,7 +1397,12 @@
    "published_iso": "2026-09-23T09:00:00+09:00",
    "sort_key": 1790121600.0,
    "excerpt": "금융위원장, 「피지컬 AI 지역거점 발전 포럼」 참석, 피지컬 AI 지역거점 지원 의지 강조&nbsp; &nbsp;- 이억원 금융위원장, 축사를 통해 &ldquo;대한민국은 세계 최고 수준 제조업 경쟁력과 생산 인프라를 갖추고 있는 만큼, 피지컬 AI 경쟁에서 유리한 출발점에 있다&rdquo;고 강조하고,&nbsp; &nbsp; &nbsp;- &ldquo;전북&middot;경북&middot;경남은 대한민국을 대표하는 제조업 기반이 자리 잡고 있는 만큼 각 지역이 피지컬 AI 산업 거점으로 성장할 수 있으며, 금융위도&nbsp; 지역",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "금융위원장이 피지컬 AI 지역거점 포럼에서 제조업 기반 피지컬 AI 지원 의지를 강조",
+    "impact": "정책 지원 기대로 로봇·제조 AI 테마에 우호적 요인",
+    "affected": "로봇·피지컬 AI 관련주"
+   }
   }
  ],
  "news_groups": {
