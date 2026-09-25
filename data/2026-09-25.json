@@ -343,7 +343,12 @@
    "published_iso": "2026-09-25T15:45:01+09:00",
    "sort_key": 1790318701.0,
    "excerpt": "(서울=연합뉴스) 이도흔 기자 = 한국수출입은행은 멕시코 대외무역개발은행과 1억달러 규모의 전대금융 지원을 위한 금융협력 업무협약(MOU)을 체...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한국수출입은행이 멕시코 대외무역개발은행과 1억달러 규모 금융협력 협약을 체결",
+    "impact": "멕시코에 진출한 한국 기업의 수출 금융 지원 확대, 시장 영향은 제한적",
+    "affected": "멕시코 진출 국내 제조·수출 기업"
+   }
   },
   {
    "id": "eb9af92e84",
@@ -356,7 +361,12 @@
    "published_iso": "2026-09-25T15:41:17+09:00",
    "sort_key": 1790318477.0,
    "excerpt": "(서울=연합뉴스) 이은정 기자 = 한국과 멕시코 정부 간 &apos;투자 증진 및 상호보호를 위한 협정&apos;의 개정 협상이 23일 타결됐다고 외교부가 25일...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한-멕시코 투자보장협정 개정 협상이 개시 7년 만에 타결됨",
+    "impact": "멕시코 투자 기업의 법적 보호가 강화되는 신호로 중장기 우호적",
+    "affected": "멕시코에 생산기지를 둔 자동차·가전·부품 기업"
+   }
   },
   {
    "id": "262b590f74",
@@ -369,7 +379,12 @@
    "published_iso": "2026-09-25T15:40:18+09:00",
    "sort_key": 1790318418.0,
    "excerpt": "Trump said he and Xi had \"never gotten along better\" as he hosted the Chinese president at the lavish White House event.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프-시진핑 국빈 만찬에서 시진핑은 양국이 책임 있는 강대국으로 함께 행동해야 한다고, 트럼프는 관계가 어느 때보다 좋다고 언급",
+    "impact": "미중 관계 개선 분위기가 위험자산 선호에 우호적, 다만 구체적 합의 내용이 관건",
+    "affected": "반도체·수출주, 미중 무역 민감주, 코스피·나스닥 투자심리"
+   }
   },
   {
    "id": "ba0ba6febe",
@@ -382,7 +397,12 @@
    "published_iso": "2026-09-25T15:30:06+09:00",
    "sort_key": 1790317806.0,
    "excerpt": "U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프-시진핑 국빈 만찬 참석자 명단 정리 기사",
+    "impact": "시장 영향은 제한적, 참석 기업 관련 관심 정도",
+    "affected": "해당 없음(제한적)"
+   }
   },
   {
    "id": "c912d754d6",
@@ -395,7 +415,12 @@
    "published_iso": "2026-09-25T15:18:45+09:00",
    "sort_key": 1790317125.0,
    "excerpt": "(세종=연합뉴스) 안채원 기자 = 한국과 멕시코 세관당국이 마약과 K-브랜드 위조 단속 관련 협력을 강화한다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한국과 멕시코 세관당국이 마약·K브랜드 위조품 단속 협력을 강화하기로 함",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "adcb67c463",
@@ -408,7 +433,12 @@
    "published_iso": "2026-09-25T15:13:35+09:00",
    "sort_key": 1790316815.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "가상자산 거래소 비트겟이 3억5,200만 달러 해킹의 배후로 북한을 의심",
+    "impact": "대형 해킹은 가상자산 시장 신뢰와 거래소 보안 규제 강화 논의에 부담",
+    "affected": "가상자산 시장, 거래소 관련주"
+   }
   },
   {
    "id": "79f2224026",
@@ -421,7 +451,12 @@
    "published_iso": "2026-09-25T15:00:01+09:00",
    "sort_key": 1790316001.0,
    "excerpt": "■ 젤렌스키 北포로 송환 돌발 발표에 韓당혹…&quot;비공개 합의했는데&quot;",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연합뉴스 15시 종합 헤드라인 모음",
+    "impact": "개별 이슈 아님, 참고용",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "f7bbe8359e",
@@ -434,7 +469,12 @@
    "published_iso": "2026-09-25T14:30:13+09:00",
    "sort_key": 1790314213.0,
    "excerpt": "Milk yield was affected by a series of extreme heatwaves which led to poor grazing conditions, researchers say.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "폭염으로 목초 상태가 나빠지며 영국 우유 생산량이 2억4천만 리터 줄어듦",
+    "impact": "국내 시장과 직접 관련 낮음",
+    "affected": "해당 없음(유럽 농산물)"
+   }
   },
   {
    "id": "a6b6614766",
@@ -447,7 +487,12 @@
    "published_iso": "2026-09-25T14:24:12+09:00",
    "sort_key": 1790313852.0,
    "excerpt": "(도쿄=연합뉴스) 조성미 특파원 = 일본 정부가 미일 양국의 공동 환율 개입 이후 주춤했던 엔화 약세가 재개되자 도널드 트럼프 미국 대통령의 엔...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "엔화 약세가 다시 시작되자 일본 정부가 트럼프 대통령이 우려를 표명했다고 이례적으로 공개",
+    "impact": "미국의 엔저 견제가 부각되면 추가 환율 개입 가능성, 원/엔·원/달러 변동성 요인",
+    "affected": "엔/달러 환율, 원화, 일본과 경쟁하는 국내 수출주(자동차 등)"
+   }
   },
   {
    "id": "3a7f0660e9",
@@ -460,7 +505,12 @@
    "published_iso": "2026-09-25T14:02:48+09:00",
    "sort_key": 1790312568.0,
    "excerpt": "Which? says staff are turning away up to 20 tourists a day after scammers used the pub's address.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "사기 숙박 예약으로 관광객들이 영국 펍으로 잘못 안내되는 피해가 이어짐",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "a5c1354d9a",
@@ -473,7 +523,12 @@
    "published_iso": "2026-09-25T14:00:01+09:00",
    "sort_key": 1790312401.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한국·일본이 고부가 MLCC(적층세라믹콘덴서)에 집중하는 사이 중국·대만 업체가 범용 제품에서 반사이익을 봄",
+    "impact": "범용 시장 점유율은 뺏기지만 고부가 전략의 수익성 판단이 관건",
+    "affected": "삼성전기 등 MLCC 관련주"
+   }
   },
   {
    "id": "0b84201a1c",
@@ -486,7 +541,12 @@
    "published_iso": "2026-09-25T13:00:13+09:00",
    "sort_key": 1790308813.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "AP위성이 유럽 업체와 손잡고 2028년 SAR(합성개구레이더) 위성을 발사하기로 함",
+    "impact": "우주 사업 수주 기대로 관련 소형주에 우호적 뉴스",
+    "affected": "AP위성 등 우주·위성 관련주"
+   }
   },
   {
    "id": "b3073c492f",
@@ -499,7 +559,12 @@
    "published_iso": "2026-09-25T13:00:09+09:00",
    "sort_key": 1790308809.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한정판 상품에 소비자가 몰리는 유통 트렌드 기사",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "a7081174a8",
@@ -512,7 +577,12 @@
    "published_iso": "2026-09-25T11:38:53+09:00",
    "sort_key": 1790303933.0,
    "excerpt": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 국채금리 급등으로 시장은 연준이 인플레이션에 더 강하게 대응할 것으로 예상하지만, 금리 인상에도 부담이 따른다는 분석",
+    "impact": "추가 금리 인상 기대가 커지면 고평가 기술주·성장주에 부담",
+    "affected": "나스닥 대형 기술주, 미국 국채, 달러"
+   }
   },
   {
    "id": "a03a372ade",
@@ -525,7 +595,12 @@
    "published_iso": "2026-09-25T11:31:01+09:00",
    "sort_key": 1790303461.0,
    "excerpt": "(서울=연합뉴스) 임성호 기자 = 중동 전쟁으로 글로벌 고급 윤활기유(그룹3) 공급 차질이 빚어지면서 국내 정유업계의 윤활기유 사업이 하반기에도...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중동 전쟁으로 글로벌 고급 윤활기유 공급이 차질을 빚으며 국내 정유사 윤활기유 사업이 하반기에도 호조 예상",
+    "impact": "정유사 비정유 부문 실적에 긍정적",
+    "affected": "SK이노베이션·S-Oil·GS칼텍스 등 정유 관련주"
+   }
   },
   {
    "id": "23f1719d3f",
@@ -538,7 +613,12 @@
    "published_iso": "2026-09-25T11:00:00+09:00",
    "sort_key": 1790301600.0,
    "excerpt": "(서울=연합뉴스) 김유아 기자 = 당국이 국내 증시 밸류업 차원에서 시행하는 상장유지 시가총액 요건을 채우지 못해 코스닥에서 지난 석 달간 8개...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "상장유지 시가총액 요건 미달로 코스닥에서 석 달간 8개사가 상장폐지되고, 다음 달부터 동전주도 대거 위기",
+    "impact": "시총 작은 코스닥 종목의 퇴출 위험이 커져 소형주 투자 리스크 확대",
+    "affected": "코스닥 소형주·동전주"
+   }
   },
   {
    "id": "3d0d274136",
@@ -551,7 +631,12 @@
    "published_iso": "2026-09-25T10:46:59+09:00",
    "sort_key": 1790300819.0,
    "excerpt": "(서울=연합뉴스) 류미나 김정진 기자 = 여야는 25일 추석을 맞아 민생을 한목소리로 강조하면서도 경제 상황에 대해서는 엇갈린 진단을 내놨다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "여야가 추석을 맞아 민생을 강조했지만 경제 상황 진단은 엇갈림",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "638c246f39",
@@ -564,7 +649,12 @@
    "published_iso": "2026-09-25T10:32:51+09:00",
    "sort_key": 1790299971.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연 15% 고수익을 약속한 가족 간 투자 권유로 6천만원 피해를 본 사례",
+    "impact": "시장 영향은 사실상 없음(투자사기 주의 사례)",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "aafe76a392",
@@ -577,7 +667,12 @@
    "published_iso": "2026-09-25T10:22:17+09:00",
    "sort_key": 1790299337.0,
    "excerpt": "U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "시진핑 주석이 백악관에서 미국에 AI 분야 협력을 촉구",
+    "impact": "AI 협력 논의가 이어지면 반도체 수출규제 완화 기대로 이어질 수 있으나 불확실",
+    "affected": "엔비디아(NVDA) 등 AI 반도체, 반도체 수출규제 민감주"
+   }
   },
   {
    "id": "0fcc844ffc",
@@ -590,7 +685,12 @@
    "published_iso": "2026-09-25T10:07:32+09:00",
    "sort_key": 1790298452.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "최대 산유국인 미국이 에너지 가격을 잡지 못하는 이유를 분석",
+    "impact": "에너지 가격 고공행진이 인플레이션과 금리 인상 압력으로 이어진다는 배경 설명",
+    "affected": "국제 유가, 미국 국채금리, 에너지 관련주"
+   }
   },
   {
    "id": "12835b17e1",
@@ -603,7 +703,12 @@
    "published_iso": "2026-09-25T09:30:22+09:00",
    "sort_key": 1790296222.0,
    "excerpt": "Prominent executives attended a dinner at the White House Thursday night, as the countries wrangled over tariffs, trade and potential A.I. regulation.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "관세·무역·AI 규제를 두고 협상 중인 가운데 주요 기술기업 경영진이 트럼프-시진핑 국빈 만찬에 참석할 예정",
+    "impact": "빅테크의 중국 사업 관련 기대와 불확실성이 함께 부각될 수 있음",
+    "affected": "애플·엔비디아·테슬라 등 중국 비중이 큰 미국 기술주"
+   }
   },
   {
    "id": "afa82fd10f",
@@ -616,7 +721,12 @@
    "published_iso": "2026-09-25T09:05:03+09:00",
    "sort_key": 1790294703.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "은행·증권·보험사들이 자본 확충을 위해 신종자본증권 발행에 몰리고 있음",
+    "impact": "금융사 자본 부담이 커졌다는 신호로 조달비용 상승이 수익성에 부담",
+    "affected": "국내 은행·증권·보험주"
+   }
   },
   {
    "id": "dd94047d8a",
@@ -629,7 +739,12 @@
    "published_iso": "2026-09-25T09:00:09+09:00",
    "sort_key": 1790294409.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "가구업체들이 연휴를 겨냥해 최대 85% 할인 행사를 진행",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "922e940651",
@@ -642,7 +757,12 @@
    "published_iso": "2026-09-25T08:03:53+09:00",
    "sort_key": 1790291033.0,
    "excerpt": "Where do America's X-plane projects fit in an era of cheap drones?",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "저가 드론 시대에 미국의 실험용 항공기(X-plane) 사업이 여전히 필요한지 다룬 기사",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음(방산 트렌드 참고)"
+   }
   },
   {
    "id": "9971dd222b",
@@ -655,7 +775,12 @@
    "published_iso": "2026-09-25T08:00:45+09:00",
    "sort_key": 1790290845.0,
    "excerpt": "What's the smallest amount of money you would ask a friend to pay you back?",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "친구에게 얼마부터 돈을 돌려달라고 할지 다룬 영국 생활 기사",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "c3f933e975",
@@ -668,7 +793,12 @@
    "published_iso": "2026-09-25T08:00:33+09:00",
    "sort_key": 1790290833.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "국내 중형 SUV 시장 점유율 23%를 쥔 쏘렌토·싼타페가 수입 중형 SUV에 밀리고 있다는 분석",
+    "impact": "내수 점유율 하락 우려로 국내 완성차 판매에 부담 요인",
+    "affected": "현대차·기아"
+   }
   },
   {
    "id": "e07064cd37",
@@ -681,7 +811,12 @@
    "published_iso": "2026-09-25T07:52:13+09:00",
    "sort_key": 1790290333.0,
    "excerpt": "The average rate on a 30-year mortgage in the United States jumped to 7.03 percent, putting pressure on housing affordability.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 30년 만기 모기지 금리가 7.03%로 오르며 약한 주택시장에 부담",
+    "impact": "주택 구매력 악화로 부동산·건설 경기 둔화 우려",
+    "affected": "미국 주택건설주, 부동산 관련 자산"
+   }
   },
   {
    "id": "60b8764c30",
@@ -694,7 +829,12 @@
    "published_iso": "2026-09-25T05:50:28+09:00",
    "sort_key": 1790283028.0,
    "excerpt": "In response to a New York Times report on DraftKings, the state’s gaming commission said it would evaluate how each company deployed the technology.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "매사추세츠주가 도박업체들의 AI 활용 실태 조사에 나섬",
+    "impact": "개별 업종 규제 이슈로 시장 전체 영향은 제한적",
+    "affected": "드래프트킹스 등 온라인 도박 업체"
+   }
   },
   {
    "id": "04f2b52162",
@@ -707,7 +847,12 @@
    "published_iso": "2026-09-25T04:02:58+09:00",
    "sort_key": 1790276578.0,
    "excerpt": "Real America’s Voice and LindellTV have teamed up to provide a feed of daily presidential events.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "백악관 방송 풀 중단 중 보수 성향 매체들이 대통령 일정 영상을 대신 제공",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "a09909ffdb",
@@ -720,7 +865,12 @@
    "published_iso": "2026-09-25T03:30:00+09:00",
    "sort_key": 1790274600.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연준이 GENIUS법에 따른 스테이블코인 발행사 감독 체계 제안 2건에 대해 의견 수렴을 시작",
+    "impact": "스테이블코인 제도권 편입이 구체화되는 신호로 관련 업계엔 규제 명확성 확보",
+    "affected": "스테이블코인·디지털자산 관련주, 국내 스테이블코인 테마주 참고"
+   }
   },
   {
    "id": "9f9515000c",
@@ -733,7 +883,12 @@
    "published_iso": "2026-09-25T03:06:40+09:00",
    "sort_key": 1790273200.0,
    "excerpt": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "호주가 오픈AI 에이전트의 정부 사이트 침투 사실을 유엔 무대에서 공개한 배경을 분석",
+    "impact": "AI 규제 강화 논의에 힘이 실릴 수 있음",
+    "affected": "오픈AI 파트너(마이크로소프트) 등 AI 기업 규제 리스크"
+   }
   },
   {
    "id": "ada268f3f3",
@@ -746,7 +901,12 @@
    "published_iso": "2026-09-25T02:54:40+09:00",
    "sort_key": 1790272480.0,
    "excerpt": "The company said the affected cafes did not meet financial or customer service expectations.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "스타벅스가 실적·서비스 기준에 못 미친 미국 매장 250곳을 폐점",
+    "impact": "비용 효율화 조치로 해석될 수 있으나 미국 소비 둔화 신호로도 읽힘",
+    "affected": "스타벅스(SBUX), 미국 소비재·외식 업종"
+   }
   },
   {
    "id": "b836a3118d",
@@ -759,7 +919,12 @@
    "published_iso": "2026-09-25T02:49:14+09:00",
    "sort_key": 1790272154.0,
    "excerpt": "A24, Sony and The New York Times Company all registered their interest in acquiring the cinephile’s paradise.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영화 리뷰 플랫폼 레터박스드 인수에 A24, 소니, 뉴욕타임스가 관심을 보임",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "0eb59592bb",
@@ -772,7 +937,12 @@
    "published_iso": "2026-09-25T02:34:18+09:00",
    "sort_key": 1790271258.0,
    "excerpt": "The Trump administration, like its predecessors, has struggled to deal with China’s excess industrial capacity.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프 행정부가 중국의 과잉 생산·수출 문제에서 협상 지렛대를 찾지 못하고 있다는 분석",
+    "impact": "미중 협상에서 뚜렷한 성과가 없으면 관세 불확실성이 이어질 수 있음",
+    "affected": "미중 무역 민감주, 수출주"
+   }
   },
   {
    "id": "9bd3557d0e",
@@ -785,7 +955,12 @@
    "published_iso": "2026-09-25T02:12:04+09:00",
    "sort_key": 1790269924.0,
    "excerpt": "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "애나 폴슨 필라델피아 연은 총재가 인플레이션을 잡기 위해 '완만한' 추가 금리 인상이 필요할 수 있다고 언급",
+    "impact": "연준 인사가 인상 가능성을 공개적으로 언급해 금리 상승 압력이 커짐",
+    "affected": "미국 국채금리, 성장주·기술주, 달러"
+   }
   },
   {
    "id": "3ef66f7349",
@@ -798,7 +973,12 @@
    "published_iso": "2026-09-25T01:15:04+09:00",
    "sort_key": 1790266504.0,
    "excerpt": "The raw pork, beef and goat products from Star Meat Delivery Inc. of North Carolina were distributed across the United States.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "허위 검사 표시가 붙은 육류 16만7천 파운드 이상이 미국에서 리콜됨",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "508710abf4",
@@ -811,7 +991,12 @@
    "published_iso": "2026-09-25T00:38:50+09:00",
    "sort_key": 1790264330.0,
    "excerpt": "Recorded incidents of violence and harassment against passengers and rail workers showed a sharp increase in the year to March.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 철도에서 승객·직원 대상 폭력·괴롭힘 신고가 1년 새 3분의 1 이상 늘어남",
+    "impact": "국내 시장과 관련 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "4369d45eef",
@@ -824,7 +1009,12 @@
    "published_iso": "2026-09-25T00:00:00+09:00",
    "sort_key": 1790262000.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연준이 샌디스프링은행 전 직원에 대한 제재 조치를 발표",
+    "impact": "개별 제재로 시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "fdb08c3d90",
@@ -837,7 +1027,12 @@
    "published_iso": "2026-09-24T23:37:14+09:00",
    "sort_key": 1790260634.0,
    "excerpt": "Government debt costs leaped higher Wednesday, the product of multiple factors.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 국채금리가 급등하는 상황이 경제에 어떤 영향을 주는지 설명하는 기사",
+    "impact": "금리 급등은 대출·주택·기업 조달비용을 높이고 성장주 밸류에이션을 누르는 요인",
+    "affected": "나스닥 등 성장주, 미국 주택·부동산, 달러 강세"
+   }
   },
   {
    "id": "2d25858973",
@@ -850,7 +1045,12 @@
    "published_iso": "2026-09-24T23:16:27+09:00",
    "sort_key": 1790259387.0,
    "excerpt": "Chinese confirmation of the AI discussions came just hours before President Xi Jinping was scheduled to begin talks with U.S. President Donald Trump.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중국이 미국과 첫 AI 협의가 있었다고 확인하고 무역 휴전 연장 가능성을 시사",
+    "impact": "미중 관계 안정 기대가 커지며 위험자산에 우호적 요인",
+    "affected": "반도체·AI 관련 수출주, 미중 무역 민감주"
+   }
   },
   {
    "id": "a3f17a038f",
@@ -863,7 +1063,12 @@
    "published_iso": "2026-09-24T21:00:00+09:00",
    "sort_key": 1790251200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "이자벨 슈나벨 ECB 집행이사가 IMF 고위직으로 옮기기 위해 사임",
+    "impact": "ECB 내 매파(긴축 선호) 인사 교체로 유럽 통화정책 성향에 변화 가능성",
+    "affected": "유로화, 유럽 국채금리"
+   }
   },
   {
    "id": "c58fb0f4ce",
@@ -876,7 +1081,12 @@
    "published_iso": "2026-09-24T20:34:56+09:00",
    "sort_key": 1790249696.0,
    "excerpt": "The Swiss National Bank held rates at 0% as low inflation and a strong franc enable it to diverge from other central banks, though markets expect hikes ahead.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "스위스중앙은행이 물가가 낮고 프랑 강세가 이어지자 기준금리를 0%로 동결",
+    "impact": "다른 중앙은행과 다른 행보지만 시장은 향후 인상을 예상, 국내 영향은 제한적",
+    "affected": "스위스프랑"
+   }
   },
   {
    "id": "e5f751f093",
@@ -889,7 +1099,12 @@
    "published_iso": "2026-09-24T18:00:00+09:00",
    "sort_key": 1790240400.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "ECB 수석 이코노미스트 필립 레인이 유로존 경제 전망에 대해 연설",
+    "impact": "유로존 성장·물가 전망에 대한 ECB 시각을 보여주는 자료, 금리 경로 판단에 참고",
+    "affected": "유로화, 유럽 국채금리"
+   }
   },
   {
    "id": "7c4792f6eb",
@@ -902,7 +1117,12 @@
    "published_iso": "2026-09-24T17:13:01+09:00",
    "sort_key": 1790237581.0,
    "excerpt": "More is being paid out by advanced economies in debt interest than the whole world spends on AI, defense or clean technology.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "전 세계 부채가 365조 달러를 넘어서며 선진국 이자 지출이 AI·국방·청정기술 투자보다 많다는 경고",
+    "impact": "고금리 속 부채 부담이 커져 재정·금리 리스크를 키우는 배경 요인",
+    "affected": "선진국 국채금리, 글로벌 위험자산 심리"
+   }
   },
   {
    "id": "01780b0c6a",
@@ -915,7 +1135,12 @@
    "published_iso": "2026-09-24T15:21:00+09:00",
    "sort_key": 1790230860.0,
    "excerpt": "Time is not on the side of French government bonds, strategists have warned, as the nation's deficit balloons.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "프랑스가 재정적자 확대 속 예산안 갈등으로 또다시 정부 붕괴 위기에 몰림",
+    "impact": "프랑스 국채 금리 상승 압력과 유로존 정치 불안 요인",
+    "affected": "프랑스 국채, 유로화, 유럽 증시"
+   }
   },
   {
    "id": "81c6bc7bff",
@@ -928,7 +1153,12 @@
    "published_iso": "2026-09-24T13:55:59+09:00",
    "sort_key": 1790225759.0,
    "excerpt": "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "베선트 재무장관이 11월 만료 예정이던 미중 무역 휴전을 1월 10일까지 두 달 연장한다고 발표",
+    "impact": "단기적으로 관세 충돌 리스크가 줄어 위험자산에 우호적, 다만 중국의 이행 여부 조건이 붙어 불확실성은 남음",
+    "affected": "반도체·수출주, 미중 무역 민감주, 애플(AAPL)·테슬라(TSLA) 등 중국 비중 큰 기업"
+   }
   },
   {
    "id": "85433b00bf",
@@ -941,7 +1171,12 @@
    "published_iso": "2026-09-24T13:02:26+09:00",
    "sort_key": 1790222546.0,
    "excerpt": "Climate shocks, conflict and a global fuel crisis, on top of surging interest rates and donor cuts, leave agencies less able to help those facing higher food prices.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 원조 삭감으로 유엔 식량기구가 위축되면서 세계가 식량위기에 대응할 능력을 잃고 있다는 경고",
+    "impact": "국제 곡물가격 불안과 신흥국 리스크를 키우는 배경 요인, 국내 시장 직접 영향은 제한적",
+    "affected": "국제 곡물·식품 가격"
+   }
   },
   {
    "id": "b2b8a9dd19",
@@ -954,7 +1189,12 @@
    "published_iso": "2026-09-24T10:44:14+09:00",
    "sort_key": 1790214254.0,
    "excerpt": "Persistent growth of Chinese exports to the U.S. is helping the world's second-largest economy ride out ongoing domestic challenges.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중국의 대미 수출이 꾸준히 늘며 자급 능력이 커진 점이 트럼프-시진핑 협상 구도를 바꾸고 있다는 분석",
+    "impact": "중국의 협상력이 커졌다는 해석이 퍼지면 미국 측 양보나 협상 장기화 가능성, 미중 관련주 변동성 요인",
+    "affected": "미중 무역 민감주, 반도체·수출주"
+   }
   },
   {
    "id": "27a6352240",
@@ -967,7 +1207,12 @@
    "published_iso": "2026-09-24T09:50:24+09:00",
    "sort_key": 1790211024.0,
    "excerpt": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "사생활 침해 논란을 겪은 스마트글라스에 대해 메타가 카메라 없는 오디오 전용 제품을 내놓음",
+    "impact": "웨어러블 AI 기기의 사생활 논란 대응 사례, 시장 영향은 제한적",
+    "affected": "메타 웨어러블 사업"
+   }
   },
   {
    "id": "ce372b02b2",
@@ -980,7 +1225,12 @@
    "published_iso": "2026-09-24T01:00:00+09:00",
    "sort_key": 1790179200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "ECB가 화폐·결제·금융의 디지털화에 대한 입장을 발표",
+    "impact": "디지털 유로 등 장기 정책 방향 참고자료, 단기 시장 영향은 제한적",
+    "affected": "유럽 핀테크·결제 업종"
+   }
   },
   {
    "id": "bfa0dca1ed",
@@ -993,7 +1243,12 @@
    "published_iso": "2026-09-23T18:00:00+09:00",
    "sort_key": 1790154000.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "새 유로 지폐 디자인에 대한 ECB 설문조사에 약 1천만 명이 참여",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   }
  ],
  "news_groups": {
