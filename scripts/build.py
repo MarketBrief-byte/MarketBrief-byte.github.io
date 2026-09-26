@@ -3,6 +3,7 @@
   docs/index.html          가장 최근 날짜 (첫 화면)
   docs/posts/YYYY-MM-DD.html  날짜별 글
   docs/archive.html        날짜 목록
+  docs/important.html      날짜별 핵심 뉴스 모음 (analysis.important=true 인 기사)
 """
 from __future__ import annotations
 
@@ -70,6 +71,7 @@ def main() -> int:
     css = (TPL / "base.css").read_text(encoding="utf-8")
     post_tpl = env.get_template("post.html.j2")
     arch_tpl = env.get_template("archive.html.j2")
+    imp_tpl = env.get_template("important.html.j2")
 
     files = sorted(DATA.glob("*.json"), reverse=True)
     if not files:
@@ -77,6 +79,7 @@ def main() -> int:
         return 1
 
     summaries = []
+    key_days = []
     for path in files:
         d = json.loads(path.read_text(encoding="utf-8"))
         # news_groups는 news 목록에서 매번 다시 계산한다 (편집 후 재생성 시 불일치 방지)
@@ -84,12 +87,17 @@ def main() -> int:
         for it in d.get("news", []):
             groups.setdefault(it["group"], []).append(it)
         d["news_groups"] = groups
+        d["top_news"] = [it for it in d.get("news", [])
+                         if (it.get("analysis") or {}).get("important")]
+        if d["top_news"]:
+            key_days.append({"date": d["date"], "weekday": d.get("weekday", ""),
+                             "news": d["top_news"]})
         helpers = dict(css=css, fmt=fmt, sgn=sgn, cls=cls, arrow=arrow,
                        sources=used_sources(d))
         (DOCS / "posts" / f"{d['date']}.html").write_text(
             post_tpl.render(d=d, root="../", **helpers), encoding="utf-8")
         summaries.append({"date": d["date"], "weekday": d.get("weekday", ""),
-                          "counts": d.get("counts", {})})
+                          "counts": d.get("counts", {}), "top": len(d["top_news"])})
         if path == files[0]:  # 최신 글은 첫 화면으로도 복사
             (DOCS / "index.html").write_text(
                 post_tpl.render(d=d, root="", **helpers), encoding="utf-8")
@@ -97,8 +105,11 @@ def main() -> int:
     site = json.loads(files[0].read_text(encoding="utf-8")).get("site", {})
     (DOCS / "archive.html").write_text(
         arch_tpl.render(posts=summaries, site=site, css=css), encoding="utf-8")
+    (DOCS / "important.html").write_text(
+        imp_tpl.render(days=key_days, total=sum(len(x["news"]) for x in key_days),
+                       site=site, css=css), encoding="utf-8")
 
-    print(f"생성: docs/index.html, docs/archive.html, 글 {len(summaries)}개")
+    print(f"생성: docs/index.html, docs/archive.html, docs/important.html, 글 {len(summaries)}개")
     return 0
 
 

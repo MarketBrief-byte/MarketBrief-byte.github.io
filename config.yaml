@@ -73,6 +73,7 @@ news:
   max_items_per_feed: 8
   max_total_items: 60
   max_age_hours: 48
+  dedup_days: 3          # 최근 3일 페이지에 이미 실린 기사는 다시 싣지 않음
   feeds:
     # --- 중앙은행 · 국제기구 (1차 자료) ---
     - { name: "연준(Fed) 보도자료", url: "https://www.federalreserve.gov/feeds/press_all.xml",

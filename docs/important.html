@@ -1,0 +1,364 @@
+<!doctype html>
+<html lang="ko" data-theme="">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>핵심 뉴스 모음 · 오늘의 경제 한 장</title>
+<meta name="description" content="날짜별로 시장에 영향이 큰 경제 뉴스만 모아 둔 페이지">
+<style>:root{
+  color-scheme: light;
+  --surface:#fcfcfb; --plane:#f9f9f7; --ink:#0b0b0b; --ink2:#52514e;
+  --muted:#898781; --grid:#e1e0d9; --border:rgba(11,11,11,.10);
+  --up:#d03b3b; --down:#1c5cab; --flat:#898781; --accent:#2a78d6;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme=&#34;light&#34;]){
+    color-scheme: dark;
+    --surface:#1a1a19; --plane:#0d0d0d; --ink:#ffffff; --ink2:#c3c2b7;
+    --muted:#898781; --grid:#2c2c2a; --border:rgba(255,255,255,.10);
+    --up:#e66767; --down:#3987e5; --flat:#898781; --accent:#3987e5;
+  }
+}
+:root[data-theme=&#34;dark&#34;]{
+  color-scheme: dark;
+  --surface:#1a1a19; --plane:#0d0d0d; --ink:#ffffff; --ink2:#c3c2b7;
+  --muted:#898781; --grid:#2c2c2a; --border:rgba(255,255,255,.10);
+  --up:#e66767; --down:#3987e5; --flat:#898781; --accent:#3987e5;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  background:var(--plane); color:var(--ink);
+  font-family:system-ui,-apple-system,&#34;Segoe UI&#34;,&#34;Apple SD Gothic Neo&#34;,&#34;Noto Sans KR&#34;,sans-serif;
+  line-height:1.55; -webkit-text-size-adjust:100%;
+}
+.wrap{max-width:860px;margin:0 auto;padding:20px 16px 56px}
+a{color:inherit}
+h1,h2,h3{margin:0;font-weight:650;letter-spacing:-.01em}
+
+/* ── 머리말 ───────────────────────────────── */
+.top{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;margin-bottom:6px}
+.title{font-size:23px}
+.sub{color:var(--ink2);font-size:13px;margin-top:4px}
+.meta{color:var(--muted);font-size:12px;margin-top:10px;
+  display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center}
+.btn{background:var(--surface);color:var(--ink2);border:1px solid var(--border);
+  border-radius:8px;padding:6px 10px;font-size:12px;cursor:pointer;font-family:inherit}
+.btn:hover{border-color:var(--muted)}
+.navlinks{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:6px}
+.navlinks a,.navlinks .btn{white-space:nowrap}
+@media(max-width:480px){.top{flex-direction:column}.navlinks{justify-content:flex-start}}
+.navlinks a{text-decoration:none;font-size:12px;color:var(--ink2);
+  border:1px solid var(--border);border-radius:8px;padding:6px 10px;background:var(--surface)}
+
+/* ── 섹션 ─────────────────────────────────── */
+section{margin-top:30px}
+.shead{display:flex;align-items:baseline;flex-wrap:wrap;gap:4px 10px;margin-bottom:12px;
+  padding-bottom:8px;border-bottom:1px solid var(--grid)}
+.shead h2{font-size:15px;white-space:nowrap}
+.shead .note{color:var(--muted);font-size:12px}
+
+/* ── 지수 타일 ────────────────────────────── */
+.tiles{display:grid;grid-template-columns:repeat(2,1fr);gap:8px}
+@media(min-width:620px){.tiles{grid-template-columns:repeat(4,1fr)}}
+.tile{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:12px 13px}
+.tile .n{font-size:12px;color:var(--ink2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tile .v{font-size:19px;font-weight:650;margin-top:5px;letter-spacing:-.02em}
+.tile .d{font-size:12.5px;font-weight:600;margin-top:2px;font-variant-numeric:tabular-nums}
+.up{color:var(--up)} .down{color:var(--down)} .flat{color:var(--flat)}
+.tile.dead .v{color:var(--muted);font-size:14px;font-weight:500}
+
+/* ── 종목 표 ──────────────────────────────── */
+.stock{background:var(--surface);border:1px solid var(--border);border-radius:12px;
+  padding:12px 13px;margin-bottom:8px}
+.srow{display:flex;align-items:center;gap:10px}
+.sname{font-weight:650;font-size:14.5px;flex:1;min-width:0}
+.scode{color:var(--muted);font-size:11.5px;font-weight:400;margin-left:6px}
+.sprice{font-size:14.5px;font-variant-numeric:tabular-nums}
+.schg{font-size:13px;font-weight:650;min-width:74px;text-align:right;font-variant-numeric:tabular-nums}
+.snews{margin:10px 0 0;padding:10px 0 0;border-top:1px dashed var(--grid);
+  list-style:none;display:flex;flex-direction:column;gap:7px}
+.snews li{font-size:13px;line-height:1.45}
+.snews a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--grid)}
+.snews a:hover{border-bottom-color:var(--accent)}
+.snews .src{color:var(--muted);font-size:11.5px;margin-left:6px;white-space:nowrap}
+.nonews{color:var(--muted);font-size:12px;margin-top:8px}
+
+/* ── 뉴스 ─────────────────────────────────── */
+.group{margin-bottom:22px}
+.gname{font-size:12.5px;color:var(--ink2);font-weight:650;margin-bottom:8px;
+  display:flex;align-items:center;gap:7px}
+.dot{width:7px;height:7px;border-radius:50%;background:var(--accent);flex:none}
+.nlist{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}
+.nlist li{font-size:13.5px;line-height:1.45;padding-bottom:10px;border-bottom:1px dashed var(--grid)}
+.nlist li:last-child{border-bottom:none;padding-bottom:0}
+.nhead{display:flex;gap:9px;align-items:baseline;flex-wrap:wrap}
+.nlist .t{color:var(--muted);font-size:11.5px;white-space:nowrap;
+  font-variant-numeric:tabular-nums;min-width:74px}
+.nlist a{text-decoration:none}
+.nlist a:hover{text-decoration:underline}
+.tag{font-size:10.5px;border:1px solid var(--border);border-radius:5px;
+  padding:1px 5px;color:var(--ink2);margin-left:6px;white-space:nowrap}
+
+/* ── AI 뉴스 해설 ─────────────────────────── */
+.analysis{margin:7px 0 0 83px;padding:8px 10px;background:var(--surface);
+  border:1px solid var(--border);border-radius:8px;
+  display:flex;flex-direction:column;gap:3px}
+@media(max-width:480px){.analysis{margin-left:0}}
+.arow{font-size:12px;color:var(--ink2);line-height:1.5}
+.alabel{font-size:10px;font-weight:700;color:var(--accent);
+  border:1px solid var(--accent);border-radius:4px;padding:0 4px;
+  margin-right:6px;white-space:nowrap}
+
+/* ── 핵심 뉴스 ───────────────────────────── */
+.keycard{background:var(--surface);border:1px solid var(--border);border-left:3px solid var(--up);
+  border-radius:10px;padding:11px 13px;margin-bottom:8px;display:flex;flex-direction:column;gap:3px}
+.khead{font-size:14px;font-weight:600;line-height:1.45}
+.khead a{text-decoration:none}
+.khead a:hover{text-decoration:underline}
+.ktag{font-size:10.5px;font-weight:700;color:var(--up);border:1px solid var(--up);
+  border-radius:4px;padding:0 5px;margin-right:7px;white-space:nowrap;vertical-align:1px}
+.ksrc{color:var(--muted);font-size:11.5px;margin-bottom:3px}
+.alabel.why{color:var(--up);border-color:var(--up)}
+.star{color:var(--up);margin-right:4px}
+.shead .note a{color:var(--accent)}
+.criteria{background:var(--surface);border:1px solid var(--border);border-radius:10px;
+  padding:10px 13px;margin-top:16px;font-size:12.5px;color:var(--ink2)}
+.criteria summary{cursor:pointer;font-weight:600;color:var(--ink)}
+.criteria ol{padding-left:18px;margin:8px 0}
+.criteria li{margin-bottom:4px}
+.criteria p{margin:6px 0 0}
+
+/* ── 꼬리말 ───────────────────────────────── */
+footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--grid);
+  color:var(--muted);font-size:11.5px;line-height:1.7}
+footer b{color:var(--ink2);font-weight:600}
+.errbox{background:var(--surface);border:1px solid var(--border);border-radius:10px;
+  padding:10px 12px;margin-top:10px}
+.errbox li{margin-left:-12px}
+
+/* ── 아카이브 ─────────────────────────────── */
+.arch{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:6px}
+.arch a{display:flex;justify-content:space-between;gap:12px;text-decoration:none;
+  background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:11px 13px}
+.arch a:hover{border-color:var(--muted)}
+.arch .d{font-weight:600;font-size:14px}
+.arch .s{color:var(--muted);font-size:12px;text-align:right}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div>
+      <h1 class="title">핵심 뉴스 모음</h1>
+      <div class="sub">매일 새로 들어온 뉴스 중 시장에 영향이 큰 것만 모았습니다 · 27건</div>
+    </div>
+    <div class="navlinks">
+      <a href="index.html">오늘</a>
+      <a href="archive.html">지난 글</a>
+      <button class="btn" id="themebtn" type="button">◐</button>
+    </div>
+  </div>
+
+  <details class="criteria">
+    <summary>어떤 기준으로 골랐나요?</summary>
+    <ol>
+      <li><b>거시경제</b> — 연준·한은의 결정과 발언, CPI·PCE·고용·소비심리 같은 핵심 지표, 국채금리·환율의 큰 움직임. 시장 전체의 방향을 바꾸는 변수입니다.</li>
+      <li><b>정책·무역</b> — 미중 협상, 관세, 반도체 수출규제, 증시 수급을 바꾸는 금융 규제처럼 대형 업종이나 시장 전체에 직접 닿는 정책.</li>
+      <li><b>산업·실적</b> — 시가총액 큰 기업의 실적·투자·공급 차질, 금융 시스템 리스크(대규모 청산, 부채 문제 등).</li>
+      <li><b>관심종목</b> — 페이지 관심종목이나 모의 자동매매가 보유·감시 중인 종목에 직접 관련된 기사.</li>
+    </ol>
+    <p>생활·사회·스포츠 기사, 한 회사만의 작은 일, 이미 고른 기사와 같은 내용의 반복 기사는 뺍니다. 하루 3~7건 정도로 추립니다. 판단은 Claude(AI)가 기사 제목과 RSS 요약만 보고 한 것이라 참고용입니다.</p>
+  </details>  <section>
+    <div class="shead"><h2>2026-09-26 (토)</h2>
+      <span class="note">6건 · <a href="posts/2026-09-26.html">그날 페이지</a></span></div><div class="keycard">
+  <div class="khead"><span class="ktag">거시경제</span>    <a href="https://www.hankyung.com/article/202609256104i" target="_blank" rel="noopener">美 PCE 물가 0.2%P 낮아진다…통화정책 경로에 미칠 영향은 [심성미의 중앙은행 워치]</a>
+  </div>
+  <div class="ksrc">한국경제 · 09/26 07:00</div>  <div class="arow"><span class="alabel why">왜 중요</span>연준이 가장 중시하는 PCE 물가가 낮아지면 금리 인상 부담이 줄어 성장주에 직접 호재</div>  <div class="arow"><span class="alabel">요약</span>미국 PCE 물가가 0.2%p 낮아질 전망이라며 연준 통화정책 경로에 미칠 영향을 분석</div>
+  <div class="arow"><span class="alabel">영향</span>물가가 예상보다 낮으면 추가 금리 인상 부담이 줄어 성장주에 숨통</div>
+  <div class="arow"><span class="alabel">관련</span>미국 국채금리, 나스닥 기술주, 달러</div>
+</div><div class="keycard">
+  <div class="khead"><span class="ktag">거시경제</span>    <a href="https://www.hankyung.com/article/202609232798i" target="_blank" rel="noopener">금리 올려도 안 풀리는 엔캐리…최대 2조달러 &#39;청산 시한폭탄&#39; 커지나 [김주완의 글로벌머니 X파일]</a>
+  </div>
+  <div class="ksrc">한국경제 · 09/26 07:00</div>  <div class="arow"><span class="alabel why">왜 중요</span>최대 2조 달러 엔캐리 청산이 한꺼번에 일어나면 2024년 8월 같은 글로벌 급락이 재현될 수 있는 위험</div>  <div class="arow"><span class="alabel">요약</span>일본이 금리를 올렸는데도 엔캐리 트레이드가 풀리지 않아 최대 2조 달러 규모의 청산 위험이 커지고 있다는 분석</div>
+  <div class="arow"><span class="alabel">영향</span>엔캐리 청산이 한꺼번에 일어나면 글로벌 증시 급락을 부를 수 있는 잠재 리스크</div>
+  <div class="arow"><span class="alabel">관련</span>엔/달러 환율, 나스닥·코스피 등 위험자산 전반</div>
+</div><div class="keycard">
+  <div class="khead"><span class="ktag">산업·실적</span>    <a href="https://www.yna.co.kr/view/AKR20260922164700001" target="_blank" rel="noopener">&#34;4년새 저축은행 자영업자 대출잔액 절반 되고 연체율은 3.6배&#34;</a>
+  </div>
+  <div class="ksrc">연합뉴스 경제 · 09/26 06:00</div>  <div class="arow"><span class="alabel why">왜 중요</span>저축은행 자영업자 연체율 3.6배 급등은 국내 2금융권 부실과 내수 경기 악화를 보여주는 경고등</div>  <div class="arow"><span class="alabel">요약</span>저축은행 자영업자 대출 잔액은 4년 새 절반으로 줄었지만 연체율은 3.6배로 뜀</div>
+  <div class="arow"><span class="alabel">영향</span>자영업자 부실이 커지고 있다는 신호로 2금융권 건전성 우려</div>
+  <div class="arow"><span class="alabel">관련</span>저축은행·2금융권, 내수 경기</div>
+</div><div class="keycard">
+  <div class="khead"><span class="ktag">정책·무역</span>    <a href="https://www.nytimes.com/2026/09/25/business/china-trump-xi-truce.html" target="_blank" rel="noopener">China’s Truce With Trump Buys It Valuable Time</a>
+  </div>
+  <div class="ksrc">NYT Business · 09/26 01:38</div>  <div class="arow"><span class="alabel why">왜 중요</span>미중 휴전이 이어질 가능성이 커져 관세 리스크가 줄고 수출·반도체주에 우호적</div>  <div class="arow"><span class="alabel">요약</span>트럼프와의 무역 휴전으로 중국이 내부 경제 문제를 해결할 시간을 벌었다는 분석</div>
+  <div class="arow"><span class="alabel">영향</span>미중 갈등 완화가 당분간 이어질 가능성이 커져 위험자산에 우호적</div>
+  <div class="arow"><span class="alabel">관련</span>미중 무역 민감주, 반도체·수출주</div>
+</div><div class="keycard">
+  <div class="khead"><span class="ktag">산업·실적</span>    <a href="https://www.hankyung.com/article/202609266127i" target="_blank" rel="noopener">국채 고금리? &#34;정상화 과정&#34;…AI 채권은 &#34;비중 축소&#34; [박신영의 개장전 요것만]</a>
+  </div>
+  <div class="ksrc">한국경제 · 09/26 00:48</div>  <div class="arow"><span class="alabel why">왜 중요</span>AI 기업 회사채 비중 축소 권고는 AI 설비투자 자금줄에 대한 경계 신호</div>  <div class="arow"><span class="alabel">요약</span>국채 고금리는 &#39;정상화 과정&#39;이라는 시각과 함께 AI 기업 채권은 비중을 줄이라는 조언</div>
+  <div class="arow"><span class="alabel">영향</span>AI 기업의 대규모 차입에 대한 경계가 커지는 신호</div>
+  <div class="arow"><span class="alabel">관련</span>AI 인프라 기업 회사채, 미국 국채</div>
+</div><div class="keycard">
+  <div class="khead"><span class="ktag">거시경제</span>    <a href="https://www.nytimes.com/2026/09/25/business/fed-interest-rates-midterms.html" target="_blank" rel="noopener">Fed Faces Prospect of Another Interest Rate Increase Just Before Midterm Elections</a>
+  </div>
+  <div class="ksrc">NYT Business · 09/26 00:38</div>  <div class="arow"><span class="alabel why">왜 중요</span>시장이 10월 금리 인상 확률을 약 70%로 보고 있어 결정 전까지 기술주 변동성이 커질 수 있음</div>  <div class="arow"><span class="alabel">요약</span>시장이 연준의 10월 말 금리 인상 가능성을 약 70%로 보고 있음</div>
+  <div class="arow"><span class="alabel">영향</span>금리 인상이 현실화되면 고평가 기술주에 부담, 이미 상당 부분 가격에 반영됐을 수도 있음</div>
+  <div class="arow"><span class="alabel">관련</span>나스닥 대형 기술주(NVDA·MSFT 등), 달러, 원/달러 환율</div>
+</div>  </section>  <section>
+    <div class="shead"><h2>2026-09-25 (금)</h2>
+      <span class="note">4건 · <a href="posts/2026-09-25.html">그날 페이지</a></span></div><div class="keycard">
+  <div class="khead"><span class="ktag">거시경제</span>    <a href="https://www.yna.co.kr/view/AKR20260925030000073" target="_blank" rel="noopener">다시 고개 든 엔저…日 &#34;트럼프, 우려 표명&#34; 이례적 공개</a>
+  </div>
+  <div class="ksrc">연합뉴스 경제 · 09/25 14:24</div>  <div class="arow"><span class="alabel why">왜 중요</span>미국이 엔저를 견제하고 나서 엔/달러와 원/달러 환율이 함께 크게 움직일 수 있음</div>  <div class="arow"><span class="alabel">요약</span>엔화 약세가 다시 시작되자 일본 정부가 트럼프 대통령이 우려를 표명했다고 이례적으로 공개</div>
+  <div class="arow"><span class="alabel">영향</span>미국의 엔저 견제가 부각되면 추가 환율 개입 가능성, 원/엔·원/달러 변동성 요인</div>
+  <div class="arow"><span class="alabel">관련</span>엔/달러 환율, 원화, 일본과 경쟁하는 국내 수출주(자동차 등)</div>
+</div><div class="keycard">
+  <div class="khead"><span class="ktag">거시경제</span>    <a href="https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html" target="_blank" rel="noopener">Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed</a>
+  </div>
+  <div class="ksrc">CNBC Economy · 09/25 11:38</div>  <div class="arow"><span class="alabel why">왜 중요</span>국채금리 급등이 연준 금리 결정을 더 어렵게 만들어 금리 경로 불확실성이 커짐</div>  <div class="arow"><span class="alabel">요약</span>미국 국채금리 급등으로 시장은 연준이 인플레이션에 더 강하게 대응할 것으로 예상하지만, 금리 인상에도 부담이 따른다는 분석</div>
+  <div class="arow"><span class="alabel">영향</span>추가 금리 인상 기대가 커지면 고평가 기술주·성장주에 부담</div>
+  <div class="arow"><span class="alabel">관련</span>나스닥 대형 기술주, 미국 국채, 달러</div>
+</div><div class="keycard">
+  <div class="khead"><span class="ktag">거시경제</span>    <a href="https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html" target="_blank" rel="noopener">Philadelphia Fed&#39;s Anna Paulson says &#39;modest&#39; rate moves likely ahead to tame inflation</a>
+  </div>
+  <div class="ksrc">CNBC Finance · 09/25 02:12</div>  <div class="arow"><span class="alabel why">왜 중요</span>연준 인사가 추가 금리 인상을 공개적으로 언급해 기술주에 직접 부담</div>  <div class="arow"><span class="alabel">요약</span>애나 폴슨 필라델피아 연은 총재가 인플레이션을 잡기 위해 &#39;완만한&#39; 추가 금리 인상이 필요할 수 있다고 언급</div>
+  <div class="arow"><span class="alabel">영향</span>연준 인사가 인상 가능성을 공개적으로 언급해 금리 상승 압력이 커짐</div>
+  <div class="arow"><span class="alabel">관련</span>미국 국채금리, 성장주·기술주, 달러</div>
+</div><div class="keycard">
+  <div class="khead"><span class="ktag">정책·무역</span>    <a href="https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html" target="_blank" rel="noopener">China confirms first AI talks with U.S. have taken place, hints at trade truce extension</a>
+  </div>
+  <div class="ksrc">CNBC Finance · 09/24 23:16</div>  <div class="arow"><span class="alabel why">왜 중요</span>중국이 미국과 첫 AI 협의와 무역휴전 연장을 시사해 반도체 수출규제 완화 기대로 이어질 수 있음</div>  <div class="arow"><span class="alabel">요약</span>중국이 미국과 첫 AI 협의가 있었다고 확인하고 무역 휴전 연장 가능성을 시사</div>
+  <div class="arow"><span class="alabel">영향</span>미중 관계 안정 기대가 커지며 위험자산에 우호적 요인</div>
+  <div class="arow"><span class="alabel">관련</span>반도체·AI 관련 수출주, 미중 무역 민감주</div>
+</div>  </section>  <section>
+    <div class="shead"><h2>2026-09-24 (목)</h2>
+      <span class="note">4건 · <a href="posts/2026-09-24.html">그날 페이지</a></span></div><div class="keycard">
+  <div class="khead"><span class="ktag">거시경제</span>    <a href="https://www.yna.co.kr/view/AKR20260924038600002" target="_blank" rel="noopener">[외환] 원/달러 환율 7.6원 오른 1,366.0원(15:30 기준가)</a>
+  </div>
+  <div class="ksrc">연합뉴스 경제 · 09/24 15:32</div>  <div class="arow"><span class="alabel why">왜 중요</span>원/달러 1,366원으로 하루 7.6원 급등, 미국 금리 상승이 곧바로 원화 약세로 번짐</div>  <div class="arow"><span class="alabel">요약</span>원/달러 환율이 7.6원 오른 1,366.0원에 마감</div>
+  <div class="arow"><span class="alabel">영향</span>미 국채금리 급등에 따른 달러 강세가 반영된 것으로 보이며, 원화 약세는 외국인 수급에 부담 요인</div>
+  <div class="arow"><span class="alabel">관련</span>원/달러 환율, 코스피 외국인 수급, 수출주(환율 상승은 수출주엔 일부 우호적)</div>
+</div><div class="keycard">
+  <div class="khead"><span class="ktag">정책·무역</span>    <a href="https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html" target="_blank" rel="noopener">U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit</a>
+  </div>
+  <div class="ksrc">CNBC Finance · 09/24 13:55</div>  <div class="arow"><span class="alabel why">왜 중요</span>미중 무역휴전 2개월 연장으로 당장의 관세 충돌 위험이 줄어 반도체·수출주에 우호적</div>  <div class="arow"><span class="alabel">요약</span>베선트 재무장관이 11월 만료 예정이던 미중 무역 휴전을 1월 10일까지 두 달 연장한다고 발표</div>
+  <div class="arow"><span class="alabel">영향</span>단기적으로 관세 충돌 리스크가 줄어 위험자산에 우호적, 다만 중국의 이행 여부 조건이 붙어 불확실성은 남음</div>
+  <div class="arow"><span class="alabel">관련</span>반도체·수출주, 미중 무역 민감주, 애플(AAPL)·테슬라(TSLA) 등 중국 비중 큰 기업</div>
+</div><div class="keycard">
+  <div class="khead"><span class="ktag">거시경제</span>    <a href="https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html" target="_blank" rel="noopener">Here&#39;s what happens to the economy when Treasury yields soar like they are now</a>
+  </div>
+  <div class="ksrc">CNBC Economy · 09/24 11:50</div>  <div class="arow"><span class="alabel why">왜 중요</span>미국 국채금리 급등은 성장주 밸류에이션과 대출·주택 경기를 동시에 누르는 핵심 변수</div>  <div class="arow"><span class="alabel">요약</span>미국 국채금리가 급등하는 상황이 경제에 어떤 영향을 주는지 설명하는 기사</div>
+  <div class="arow"><span class="alabel">영향</span>금리 급등은 대출·주택·기업 조달비용을 높이고 성장주 밸류에이션을 누르는 요인</div>
+  <div class="arow"><span class="alabel">관련</span>나스닥 등 성장주, 미국 주택·부동산, 달러 강세</div>
+</div><div class="keycard">
+  <div class="khead"><span class="ktag">거시경제</span>    <a href="http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&amp;menuNo=4010100&amp;searchNttId=MOSF_000000000079441" target="_blank" rel="noopener">[보도참고] 경제협력개발기구, 9월 중간 경제전망 발표</a>
+  </div>
+  <div class="ksrc">재정경제부 보도자료 · 09/24 02:00</div>  <div class="arow"><span class="alabel why">왜 중요</span>OECD 중간 경제전망은 한국과 세계 성장률 기대를 바꾸는 공식 수치</div>  <div class="arow"><span class="alabel">요약</span>OECD가 9월 중간 경제전망을 발표(기재부 참고자료)</div>
+  <div class="arow"><span class="alabel">영향</span>한국·세계 성장률 전망치 조정 내용에 따라 경기 기대에 참고가 될 수 있음</div>
+  <div class="arow"><span class="alabel">관련</span>국내 경기 전망, 코스피 거시 심리</div>
+</div>  </section>  <section>
+    <div class="shead"><h2>2026-09-23 (수)</h2>
+      <span class="note">4건 · <a href="posts/2026-09-23.html">그날 페이지</a></span></div><div class="keycard">
+  <div class="khead"><span class="ktag">거시경제</span>    <a href="https://www.yna.co.kr/view/AKR20260923151000002" target="_blank" rel="noopener">환율, 1,340원대 찍고 반등해 1,360원선 접근</a>
+  </div>
+  <div class="ksrc">연합뉴스 경제 · 09/23 16:06</div>  <div class="arow"><span class="alabel why">왜 중요</span>환율이 하루 새 1,340원대에서 1,360원 근처로 되돌아가 외국인 수급과 수출주 실적 계산이 바뀜</div>  <div class="arow"><span class="alabel">요약</span>원/달러 환율이 미국-이란 협상 소식에 장중 1,340원대까지 떨어졌다가 저가매수세로 1,360원선까지 반등</div>
+  <div class="arow"><span class="alabel">영향</span>환율 변동성이 커지고 있어 수출입 기업 실적과 외국인 수급에 영향 가능</div>
+  <div class="arow"><span class="alabel">관련</span>원/달러 환율, 수출 관련주</div>
+</div><div class="keycard">
+  <div class="khead"><span class="ktag">정책·무역</span>    <a href="https://www.hankyung.com/article/2026092338486" target="_blank" rel="noopener">금투협, 종투사 신용공여 한도 90%로 축소…신용융자 관리 강화</a>
+  </div>
+  <div class="ksrc">한국경제 · 09/23 15:29</div>  <div class="arow"><span class="alabel why">왜 중요</span>증권사 신용공여 한도 축소는 개인 빚투(레버리지) 수급을 줄여 국내 증시 단기 수급에 직접 영향</div>  <div class="arow"><span class="alabel">요약</span>금융투자협회가 종합금융투자사업자의 신용공여 한도를 90%로 축소하며 신용융자 관리를 강화</div>
+  <div class="arow"><span class="alabel">영향</span>신용거래 규제 강화로 증권사 관련 수익과 개인 레버리지 투자에 부담 요인</div>
+  <div class="arow"><span class="alabel">관련</span>국내 증권주, 신용융자 활용 개인투자자 심리</div>
+</div><div class="keycard">
+  <div class="khead"><span class="ktag">거시경제</span>    <a href="https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Rich nations must cut debt as global shocks push up borrowing costs, IMF chief tells BBC</a>
+  </div>
+  <div class="ksrc">BBC Business · 09/23 08:01</div>  <div class="arow"><span class="alabel why">왜 중요</span>IMF가 선진국 부채 감축을 경고해 국채금리 상승 압력이 커지는 배경</div>  <div class="arow"><span class="alabel">요약</span>IMF 총재가 글로벌 충격으로 차입비용이 오르는 가운데 선진국들이 부채를 줄여야 한다고 경고</div>
+  <div class="arow"><span class="alabel">영향</span>선진국 재정건전성 경고로 국채금리·글로벌 유동성에 대한 우려 요인이 될 수 있음</div>
+  <div class="arow"><span class="alabel">관련</span>선진국 국채금리, 글로벌 위험자산 심리</div>
+</div><div class="keycard">
+  <div class="khead"><span class="ktag">정책·무역</span>    <a href="https://www.nytimes.com/2026/09/22/business/energy-environment/trump-diesel-exports-iran-war.html" target="_blank" rel="noopener">Trump Says He Supports Banning Diesel Exports to Bring Down Prices</a>
+  </div>
+  <div class="ksrc">NYT Business · 09/23 06:12</div>  <div class="arow"><span class="alabel why">왜 중요</span>미국 경유 수출 금지가 현실화되면 국제 유가와 국내 정유사 마진이 크게 흔들릴 수 있음</div>  <div class="arow"><span class="alabel">요약</span>트럼프 대통령이 경유 가격 인하를 위해 미국산 경유 수출 금지를 지지한다고 밝힘</div>
+  <div class="arow"><span class="alabel">영향</span>수출 제한 시 글로벌 경유 공급에 영향, 유가·정유업체 마진에 변수</div>
+  <div class="arow"><span class="alabel">관련</span>국제 유가·정유 관련주, 물류·운송업 원가</div>
+</div>  </section>  <section>
+    <div class="shead"><h2>2026-09-22 (화)</h2>
+      <span class="note">5건 · <a href="posts/2026-09-22.html">그날 페이지</a></span></div><div class="keycard">
+  <div class="khead"><span class="ktag">거시경제</span>    <a href="https://www.hankyung.com/article/2026092211497" target="_blank" rel="noopener">한은 &#34;환율 하락 속도 빠른 건 사실…원화 강세는 되돌림 과정&#34;</a>
+  </div>
+  <div class="ksrc">한국경제 · 09/22 15:08</div>  <div class="arow"><span class="alabel why">왜 중요</span>한은이 원화 강세 속도를 직접 언급해 외환당국 개입 가능성과 환율 방향을 가늠할 수 있음</div>  <div class="arow"><span class="alabel">요약</span>한국은행이 최근 원화 강세(환율 하락) 속도가 빠르다는 점은 인정하면서도 이를 되돌림 과정으로 평가</div>
+  <div class="arow"><span class="alabel">영향</span>급격한 원화 강세에 대한 당국 시각을 보여주는 발언으로 환율 변동성에 참고 포인트</div>
+  <div class="arow"><span class="alabel">관련</span>원/달러 환율, 수출 관련주</div>
+</div><div class="keycard">
+  <div class="khead"><span class="ktag">산업·실적</span>    <a href="https://www.hankyung.com/article/2026092209727" target="_blank" rel="noopener">[속보] 우버, 배민 인수 본격화…공정위 기업결합 사전심사 개시</a>
+  </div>
+  <div class="ksrc">한국경제 · 09/22 14:05</div>  <div class="arow"><span class="alabel why">왜 중요</span>국내 1위 배달앱의 해외 매각이 공정위 심사 단계에 들어가 플랫폼 업계 구도가 바뀔 수 있음</div>  <div class="arow"><span class="alabel">요약</span>우버의 배달의민족 인수가 본격화되며 공정거래위원회 기업결합 사전심사가 시작됨</div>
+  <div class="arow"><span class="alabel">영향</span>인수 성사 여부와 규제 심사 결과에 따라 국내 배달 플랫폼 시장 구도가 크게 바뀔 수 있음</div>
+  <div class="arow"><span class="alabel">관련</span>배달의민족(우아한형제들), 국내 배달 플랫폼 경쟁구도</div>
+</div><div class="keycard">
+  <div class="khead"><span class="ktag">산업·실적</span>    <a href="https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html" target="_blank" rel="noopener">Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year</a>
+  </div>
+  <div class="ksrc">CNBC Finance · 09/22 10:30</div>  <div class="arow"><span class="alabel why">왜 중요</span>빅테크 AI 설비투자 1조 달러 전망은 반도체(엔비디아·SK하이닉스·삼성전자) 수요의 핵심 근거</div>  <div class="arow"><span class="alabel">요약</span>JP모건 CEO 제이미 다이먼이 내년 하이퍼스케일러들의 AI 투자 규모가 1조 달러에 달할 수 있다고 발언</div>
+  <div class="arow"><span class="alabel">영향</span>AI 인프라 투자 확대 전망이 재확인되며 AI 관련주 투자심리에 우호적일 수 있음</div>
+  <div class="arow"><span class="alabel">관련</span>엔비디아 등 AI 반도체·인프라 관련주, 국내 HBM·메모리 관련주</div>
+</div><div class="keycard">
+  <div class="khead"><span class="ktag">정책·무역</span>    <a href="https://www.nytimes.com/2026/09/21/business/economy/trump-xi-china-trade.html" target="_blank" rel="noopener">Trump and Xi Meet Amid an Uneasy U.S.-China Trade Truce</a>
+  </div>
+  <div class="ksrc">NYT Business · 09/22 10:03</div>  <div class="arow"><span class="alabel why">왜 중요</span>미중 정상회담 결과가 관세·수출규제를 통해 한·미 반도체와 수출주 전체에 영향</div>  <div class="arow"><span class="alabel">요약</span>트럼프와 시진핑이 정상회담을 가졌으나 양국은 여전히 상호 견제성 조치를 주고받는 불안정한 무역 휴전 상태</div>
+  <div class="arow"><span class="alabel">영향</span>관계 안정 기대와 불확실성이 공존해 위험자산 심리 변동성 확대 가능</div>
+  <div class="arow"><span class="alabel">관련</span>반도체·수출주, 미중 무역 민감주, 코스피·나스닥 전반 투자심리</div>
+</div><div class="keycard">
+  <div class="khead"><span class="ktag">산업·실적</span>    <a href="https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html" target="_blank" rel="noopener">Wall Street Is Growing Skeptical of the Data Center Boom</a>
+  </div>
+  <div class="ksrc">NYT Business · 09/22 05:04</div>  <div class="arow"><span class="alabel why">왜 중요</span>월가에서 AI 데이터센터 과열론이 커지면 지금 증시를 이끄는 AI 대형주 밸류에이션이 흔들릴 수 있음</div>  <div class="arow"><span class="alabel">요약</span>데이터센터 관련 기업들이 에너지 소비 논란 속에 IPO를 연기하며 월가의 회의론이 커지고 있음</div>
+  <div class="arow"><span class="alabel">영향</span>AI 데이터센터 투자 붐에 대한 과열 우려가 부각되면 관련주 밸류에이션에 부담 요인이 될 수 있음</div>
+  <div class="arow"><span class="alabel">관련</span>AI 인프라·데이터센터 관련주, 엔비디아 등 AI 밸류체인 심리</div>
+</div>  </section>  <section>
+    <div class="shead"><h2>2026-09-21 (월)</h2>
+      <span class="note">4건 · <a href="posts/2026-09-21.html">그날 페이지</a></span></div><div class="keycard">
+  <div class="khead"><span class="ktag">정책·무역</span>    <a href="https://www.yna.co.kr/view/AKR20260921126051003" target="_blank" rel="noopener">웨스팅하우스 지분율 등 상업적 합리성 암초…대미투자 &#39;위태&#39;(종합)</a>
+  </div>
+  <div class="ksrc">연합뉴스 경제 · 09/21 19:20</div>  <div class="arow"><span class="alabel why">왜 중요</span>한미 대미투자 패키지가 흔들리면 원/달러 환율과 원전·조선 등 관련 대형주가 함께 움직일 수 있는 사안</div>  <div class="arow"><span class="alabel">요약</span>한국의 대미 원전(웨스팅하우스) 투자 협상이 지분율 등 이견으로 난항</div>
+  <div class="arow"><span class="alabel">영향</span>한미 투자 패키지 불확실성이 재부각되면 환율·관련주 변동성 요인</div>
+  <div class="arow"><span class="alabel">관련</span>원/달러 환율, 원전·에너지 관련주</div>
+</div><div class="keycard">
+  <div class="khead"><span class="ktag">정책·무역</span>    <a href="https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">US and China discuss AI safety plan ahead of Trump-Xi summit</a>
+  </div>
+  <div class="ksrc">BBC Business · 09/21 14:50</div>  <div class="arow"><span class="alabel why">왜 중요</span>미중 정상회담 직전 AI 안전 논의는 반도체 수출규제 방향을 가늠할 첫 신호</div>  <div class="arow"><span class="alabel">요약</span>트럼프-시진핑 정상회담을 앞두고 미중이 AI 안전 협력 방안 논의</div>
+  <div class="arow"><span class="alabel">영향</span>미중 관계 개선 신호로 해석되면 위험자산 선호에 긍정적, 합의 불발 시 불확실성 재부각</div>
+  <div class="arow"><span class="alabel">관련</span>반도체·수출주, 위험자산 전반</div>
+</div><div class="keycard">
+  <div class="khead"><span class="ktag">거시경제</span>    <a href="https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html" target="_blank" rel="noopener">Why Japan’s markets flipped the usual script after central bank rate hike</a>
+  </div>
+  <div class="ksrc">CNBC Economy · 09/21 10:02</div>  <div class="arow"><span class="alabel why">왜 중요</span>일본 금리 인상 뒤 시장 반응이 예상과 달라 엔캐리 청산 여부가 한·미 증시 변동성의 변수</div>  <div class="arow"><span class="alabel">요약</span>일본은행 금리 인상에도 일본 증시가 기존 통념과 다르게 반응</div>
+  <div class="arow"><span class="alabel">영향</span>엔화·일본 금리 경로 해석 변화로 엔캐리 트레이드, 아시아 증시 파급 가능</div>
+  <div class="arow"><span class="alabel">관련</span>엔/달러 환율, 코스피 외국인 수급, 아시아 증시</div>
+</div><div class="keycard">
+  <div class="khead"><span class="ktag">거시경제</span>    <a href="https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html" target="_blank" rel="noopener">Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames &#39;lower happiness&#39;</a>
+  </div>
+  <div class="ksrc">CNBC Economy · 09/19 21:50</div>  <div class="arow"><span class="alabel why">왜 중요</span>미국 소비자심리 부진이 이어지면 소비 둔화로 미국 경기와 증시 전반에 부담</div>  <div class="arow"><span class="alabel">요약</span>경제지표는 견조하지만 미국 소비자심리는 낮은 수준, 골드만삭스는 &#39;행복도 저하&#39;를 원인으로 지목</div>
+  <div class="arow"><span class="alabel">영향</span>소비자심리 위축 장기화 시 소비 지출 둔화로 이어져 경기·증시에 부담 가능</div>
+  <div class="arow"><span class="alabel">관련</span>미국 소비재·유통주, S&amp;P500·나스닥 투자심리</div>
+</div>  </section>
+  <footer>
+    해설과 중요도 판단은 Claude(AI)가 작성한 참고용 해석이며 투자 조언이 아닙니다. 원문 저작권은 각 매체에 있습니다.
+  </footer>
+</div>
+<script>
+(function(){
+  var k='econ-theme', b=document.getElementById('themebtn');
+  try{ var v=localStorage.getItem(k); if(v){ document.documentElement.dataset.theme=v; } }catch(e){}
+  b && b.addEventListener('click', function(){
+    var cur=document.documentElement.dataset.theme;
+    var isDark = cur ? cur==='dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+    document.documentElement.dataset.theme = isDark ? 'light' : 'dark';
+    try{ localStorage.setItem(k, document.documentElement.dataset.theme); }catch(e){}
+  });
+})();
+</script>
+</body>
+</html>

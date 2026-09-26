@@ -347,7 +347,10 @@
    "analysis": {
     "summary": "미국 PCE 물가가 0.2%p 낮아질 전망이라며 연준 통화정책 경로에 미칠 영향을 분석",
     "impact": "물가가 예상보다 낮으면 추가 금리 인상 부담이 줄어 성장주에 숨통",
-    "affected": "미국 국채금리, 나스닥 기술주, 달러"
+    "affected": "미국 국채금리, 나스닥 기술주, 달러",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "연준이 가장 중시하는 PCE 물가가 낮아지면 금리 인상 부담이 줄어 성장주에 직접 호재"
    }
   },
   {
@@ -401,7 +404,10 @@
    "analysis": {
     "summary": "일본이 금리를 올렸는데도 엔캐리 트레이드가 풀리지 않아 최대 2조 달러 규모의 청산 위험이 커지고 있다는 분석",
     "impact": "엔캐리 청산이 한꺼번에 일어나면 글로벌 증시 급락을 부를 수 있는 잠재 리스크",
-    "affected": "엔/달러 환율, 나스닥·코스피 등 위험자산 전반"
+    "affected": "엔/달러 환율, 나스닥·코스피 등 위험자산 전반",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "최대 2조 달러 엔캐리 청산이 한꺼번에 일어나면 2024년 8월 같은 글로벌 급락이 재현될 수 있는 위험"
    }
   },
   {
@@ -545,7 +551,10 @@
    "analysis": {
     "summary": "저축은행 자영업자 대출 잔액은 4년 새 절반으로 줄었지만 연체율은 3.6배로 뜀",
     "impact": "자영업자 부실이 커지고 있다는 신호로 2금융권 건전성 우려",
-    "affected": "저축은행·2금융권, 내수 경기"
+    "affected": "저축은행·2금융권, 내수 경기",
+    "important": true,
+    "important_tag": "산업·실적",
+    "why_important": "저축은행 자영업자 연체율 3.6배 급등은 국내 2금융권 부실과 내수 경기 악화를 보여주는 경고등"
    }
   },
   {
@@ -671,7 +680,10 @@
    "analysis": {
     "summary": "트럼프와의 무역 휴전으로 중국이 내부 경제 문제를 해결할 시간을 벌었다는 분석",
     "impact": "미중 갈등 완화가 당분간 이어질 가능성이 커져 위험자산에 우호적",
-    "affected": "미중 무역 민감주, 반도체·수출주"
+    "affected": "미중 무역 민감주, 반도체·수출주",
+    "important": true,
+    "important_tag": "정책·무역",
+    "why_important": "미중 휴전이 이어질 가능성이 커져 관세 리스크가 줄고 수출·반도체주에 우호적"
    }
   },
   {
@@ -725,7 +737,10 @@
    "analysis": {
     "summary": "국채 고금리는 '정상화 과정'이라는 시각과 함께 AI 기업 채권은 비중을 줄이라는 조언",
     "impact": "AI 기업의 대규모 차입에 대한 경계가 커지는 신호",
-    "affected": "AI 인프라 기업 회사채, 미국 국채"
+    "affected": "AI 인프라 기업 회사채, 미국 국채",
+    "important": true,
+    "important_tag": "산업·실적",
+    "why_important": "AI 기업 회사채 비중 축소 권고는 AI 설비투자 자금줄에 대한 경계 신호"
    }
   },
   {
@@ -743,7 +758,10 @@
    "analysis": {
     "summary": "시장이 연준의 10월 말 금리 인상 가능성을 약 70%로 보고 있음",
     "impact": "금리 인상이 현실화되면 고평가 기술주에 부담, 이미 상당 부분 가격에 반영됐을 수도 있음",
-    "affected": "나스닥 대형 기술주(NVDA·MSFT 등), 달러, 원/달러 환율"
+    "affected": "나스닥 대형 기술주(NVDA·MSFT 등), 달러, 원/달러 환율",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "시장이 10월 금리 인상 확률을 약 70%로 보고 있어 결정 전까지 기술주 변동성이 커질 수 있음"
    }
   },
   {
@@ -765,24 +783,6 @@
    }
   },
   {
-   "id": "ba0ba6febe",
-   "title": "Here's who attended the Trump-Xi state dinner",
-   "url": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
-   "source": "CNBC Finance",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "09/25 23:41",
-   "published_iso": "2026-09-25T23:41:24+09:00",
-   "sort_key": 1790347284.0,
-   "excerpt": "U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping.",
-   "matched": [],
-   "analysis": {
-    "summary": "트럼프-시진핑 국빈 만찬 참석자 명단 정리 기사",
-    "impact": "시장 영향은 제한적, 참석 기업 관련 관심 정도",
-    "affected": "해당 없음(제한적)"
-   }
-  },
-  {
    "id": "3b0173afb9",
    "title": "Special agents' blood and urine test results stolen in FBI hack",
    "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
@@ -798,24 +798,6 @@
     "summary": "FBI 해킹으로 특수요원들의 혈액·소변 검사 결과가 유출됨",
     "impact": "시장 영향은 사실상 없음(사이버보안 경각심 이슈)",
     "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "fdb08c3d90",
-   "title": "Here's what happens to the economy when Treasury yields soar like they are now",
-   "url": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
-   "source": "CNBC Economy",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "09/25 22:48",
-   "published_iso": "2026-09-25T22:48:19+09:00",
-   "sort_key": 1790344099.0,
-   "excerpt": "Government debt costs leaped higher Wednesday, the product of multiple factors.",
-   "matched": [],
-   "analysis": {
-    "summary": "미국 국채금리가 급등하는 상황이 경제에 어떤 영향을 주는지 설명하는 기사",
-    "impact": "금리 급등은 대출·주택·기업 조달비용을 높이고 성장주 밸류에이션을 누르는 요인",
-    "affected": "나스닥 등 성장주, 미국 주택·부동산, 달러 강세"
    }
   },
   {
@@ -870,24 +852,6 @@
     "summary": "시진핑 국빈 방문이 화려했지만 AI 등 실질 의제에서는 성과가 적었다는 평가",
     "impact": "구체적 합의가 없으면 반도체 수출규제 불확실성이 계속됨",
     "affected": "엔비디아 등 AI 반도체, 빅테크"
-   }
-  },
-  {
-   "id": "a7081174a8",
-   "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
-   "url": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
-   "source": "CNBC Economy",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "09/25 20:08",
-   "published_iso": "2026-09-25T20:08:05+09:00",
-   "sort_key": 1790334485.0,
-   "excerpt": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
-   "matched": [],
-   "analysis": {
-    "summary": "미국 국채금리 급등으로 시장은 연준이 인플레이션에 더 강하게 대응할 것으로 예상하지만, 금리 인상에도 부담이 따른다는 분석",
-    "impact": "추가 금리 인상 기대가 커지면 고평가 기술주·성장주에 부담",
-    "affected": "나스닥 대형 기술주, 미국 국채, 달러"
    }
   },
   {
@@ -961,312 +925,6 @@
     "impact": "시장 영향은 사실상 없음",
     "affected": "해당 없음"
    }
-  },
-  {
-   "id": "adcb67c463",
-   "title": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
-   "url": "https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html",
-   "source": "CNBC Finance",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "09/25 15:13",
-   "published_iso": "2026-09-25T15:13:35+09:00",
-   "sort_key": 1790316815.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "가상자산 거래소 비트겟이 3억5,200만 달러 해킹의 배후로 북한을 의심",
-    "impact": "대형 해킹은 가상자산 시장 신뢰와 거래소 보안 규제 강화 논의에 부담",
-    "affected": "가상자산 시장, 거래소 관련주"
-   }
-  },
-  {
-   "id": "f7bbe8359e",
-   "title": "Farmers down 240 million litres of milk after heat",
-   "url": "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "09/25 14:30",
-   "published_iso": "2026-09-25T14:30:13+09:00",
-   "sort_key": 1790314213.0,
-   "excerpt": "Milk yield was affected by a series of extreme heatwaves which led to poor grazing conditions, researchers say.",
-   "matched": [],
-   "analysis": {
-    "summary": "폭염으로 목초 상태가 나빠지며 영국 우유 생산량이 2억4천만 리터 줄어듦",
-    "impact": "국내 시장과 직접 관련 낮음",
-    "affected": "해당 없음(유럽 농산물)"
-   }
-  },
-  {
-   "id": "aafe76a392",
-   "title": "China's Xi urges U.S. to cooperate on AI",
-   "url": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
-   "source": "CNBC Finance",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "09/25 10:22",
-   "published_iso": "2026-09-25T10:22:17+09:00",
-   "sort_key": 1790299337.0,
-   "excerpt": "U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.",
-   "matched": [],
-   "analysis": {
-    "summary": "시진핑 주석이 백악관에서 미국에 AI 분야 협력을 촉구",
-    "impact": "AI 협력 논의가 이어지면 반도체 수출규제 완화 기대로 이어질 수 있으나 불확실",
-    "affected": "엔비디아(NVDA) 등 AI 반도체, 반도체 수출규제 민감주"
-   }
-  },
-  {
-   "id": "922e940651",
-   "title": "X-planes: Are they needed in the new era of drones?",
-   "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "09/25 08:03",
-   "published_iso": "2026-09-25T08:03:53+09:00",
-   "sort_key": 1790291033.0,
-   "excerpt": "Where do America's X-plane projects fit in an era of cheap drones?",
-   "matched": [],
-   "analysis": {
-    "summary": "저가 드론 시대에 미국의 실험용 항공기(X-plane) 사업이 여전히 필요한지 다룬 기사",
-    "impact": "시장 영향은 제한적",
-    "affected": "해당 없음(방산 트렌드 참고)"
-   }
-  },
-  {
-   "id": "9971dd222b",
-   "title": "'We're all broke': Would you chase a friend for £5?",
-   "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "09/25 08:00",
-   "published_iso": "2026-09-25T08:00:45+09:00",
-   "sort_key": 1790290845.0,
-   "excerpt": "What's the smallest amount of money you would ask a friend to pay you back?",
-   "matched": [],
-   "analysis": {
-    "summary": "친구에게 얼마부터 돈을 돌려달라고 할지 다룬 영국 생활 기사",
-    "impact": "시장 영향은 사실상 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "a09909ffdb",
-   "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
-   "source": "연준(Fed) 보도자료",
-   "group": "중앙은행·국제기구",
-   "lang": "en",
-   "published_kst": "09/25 03:30",
-   "published_iso": "2026-09-25T03:30:00+09:00",
-   "sort_key": 1790274600.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "연준이 GENIUS법에 따른 스테이블코인 발행사 감독 체계 제안 2건에 대해 의견 수렴을 시작",
-    "impact": "스테이블코인 제도권 편입이 구체화되는 신호로 관련 업계엔 규제 명확성 확보",
-    "affected": "스테이블코인·디지털자산 관련주, 국내 스테이블코인 테마주 참고"
-   }
-  },
-  {
-   "id": "9bd3557d0e",
-   "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
-   "url": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
-   "source": "CNBC Finance",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "09/25 02:12",
-   "published_iso": "2026-09-25T02:12:04+09:00",
-   "sort_key": 1790269924.0,
-   "excerpt": "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.",
-   "matched": [],
-   "analysis": {
-    "summary": "애나 폴슨 필라델피아 연은 총재가 인플레이션을 잡기 위해 '완만한' 추가 금리 인상이 필요할 수 있다고 언급",
-    "impact": "연준 인사가 인상 가능성을 공개적으로 언급해 금리 상승 압력이 커짐",
-    "affected": "미국 국채금리, 성장주·기술주, 달러"
-   }
-  },
-  {
-   "id": "4369d45eef",
-   "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
-   "source": "연준(Fed) 보도자료",
-   "group": "중앙은행·국제기구",
-   "lang": "en",
-   "published_kst": "09/25 00:00",
-   "published_iso": "2026-09-25T00:00:00+09:00",
-   "sort_key": 1790262000.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "연준이 샌디스프링은행 전 직원에 대한 제재 조치를 발표",
-    "impact": "개별 제재로 시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "2d25858973",
-   "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
-   "url": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
-   "source": "CNBC Finance",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "09/24 23:16",
-   "published_iso": "2026-09-24T23:16:27+09:00",
-   "sort_key": 1790259387.0,
-   "excerpt": "Chinese confirmation of the AI discussions came just hours before President Xi Jinping was scheduled to begin talks with U.S. President Donald Trump.",
-   "matched": [],
-   "analysis": {
-    "summary": "중국이 미국과 첫 AI 협의가 있었다고 확인하고 무역 휴전 연장 가능성을 시사",
-    "impact": "미중 관계 안정 기대가 커지며 위험자산에 우호적 요인",
-    "affected": "반도체·AI 관련 수출주, 미중 무역 민감주"
-   }
-  },
-  {
-   "id": "a3f17a038f",
-   "title": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
-   "source": "유럽중앙은행(ECB)",
-   "group": "중앙은행·국제기구",
-   "lang": "en",
-   "published_kst": "09/24 21:00",
-   "published_iso": "2026-09-24T21:00:00+09:00",
-   "sort_key": 1790251200.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "이자벨 슈나벨 ECB 집행이사가 IMF 고위직으로 옮기기 위해 사임",
-    "impact": "ECB 내 매파(긴축 선호) 인사 교체로 유럽 통화정책 성향에 변화 가능성",
-    "affected": "유로화, 유럽 국채금리"
-   }
-  },
-  {
-   "id": "c58fb0f4ce",
-   "title": "Switzerland is keeping rates at 0% — for now",
-   "url": "https://www.cnbc.com/2026/09/24/swiss-national-bank-interest-rates-inflation.html",
-   "source": "CNBC Economy",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "09/24 20:34",
-   "published_iso": "2026-09-24T20:34:56+09:00",
-   "sort_key": 1790249696.0,
-   "excerpt": "The Swiss National Bank held rates at 0% as low inflation and a strong franc enable it to diverge from other central banks, though markets expect hikes ahead.",
-   "matched": [],
-   "analysis": {
-    "summary": "스위스중앙은행이 물가가 낮고 프랑 강세가 이어지자 기준금리를 0%로 동결",
-    "impact": "다른 중앙은행과 다른 행보지만 시장은 향후 인상을 예상, 국내 영향은 제한적",
-    "affected": "스위스프랑"
-   }
-  },
-  {
-   "id": "e5f751f093",
-   "title": "Philip R. Lane: The outlook for the euro area economy",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf",
-   "source": "유럽중앙은행(ECB)",
-   "group": "중앙은행·국제기구",
-   "lang": "en",
-   "published_kst": "09/24 18:00",
-   "published_iso": "2026-09-24T18:00:00+09:00",
-   "sort_key": 1790240400.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "ECB 수석 이코노미스트 필립 레인이 유로존 경제 전망에 대해 연설",
-    "impact": "유로존 성장·물가 전망에 대한 ECB 시각을 보여주는 자료, 금리 경로 판단에 참고",
-    "affected": "유로화, 유럽 국채금리"
-   }
-  },
-  {
-   "id": "7c4792f6eb",
-   "title": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'",
-   "url": "https://www.cnbc.com/2026/09/24/global-debt-bond-yields-inflation.html",
-   "source": "CNBC Economy",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "09/24 17:13",
-   "published_iso": "2026-09-24T17:13:01+09:00",
-   "sort_key": 1790237581.0,
-   "excerpt": "More is being paid out by advanced economies in debt interest than the whole world spends on AI, defense or clean technology.",
-   "matched": [],
-   "analysis": {
-    "summary": "전 세계 부채가 365조 달러를 넘어서며 선진국 이자 지출이 AI·국방·청정기술 투자보다 많다는 경고",
-    "impact": "고금리 속 부채 부담이 커져 재정·금리 리스크를 키우는 배경 요인",
-    "affected": "선진국 국채금리, 글로벌 위험자산 심리"
-   }
-  },
-  {
-   "id": "01780b0c6a",
-   "title": "France's fresh budget battle threatens to topple another government",
-   "url": "https://www.cnbc.com/2026/09/24/france-budget-debt-deficit-government.html",
-   "source": "CNBC Economy",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "09/24 15:21",
-   "published_iso": "2026-09-24T15:21:00+09:00",
-   "sort_key": 1790230860.0,
-   "excerpt": "Time is not on the side of French government bonds, strategists have warned, as the nation's deficit balloons.",
-   "matched": [],
-   "analysis": {
-    "summary": "프랑스가 재정적자 확대 속 예산안 갈등으로 또다시 정부 붕괴 위기에 몰림",
-    "impact": "프랑스 국채 금리 상승 압력과 유로존 정치 불안 요인",
-    "affected": "프랑스 국채, 유로화, 유럽 증시"
-   }
-  },
-  {
-   "id": "81c6bc7bff",
-   "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
-   "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
-   "source": "CNBC Finance",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "09/24 13:55",
-   "published_iso": "2026-09-24T13:55:59+09:00",
-   "sort_key": 1790225759.0,
-   "excerpt": "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.",
-   "matched": [],
-   "analysis": {
-    "summary": "베선트 재무장관이 11월 만료 예정이던 미중 무역 휴전을 1월 10일까지 두 달 연장한다고 발표",
-    "impact": "단기적으로 관세 충돌 리스크가 줄어 위험자산에 우호적, 다만 중국의 이행 여부 조건이 붙어 불확실성은 남음",
-    "affected": "반도체·수출주, 미중 무역 민감주, 애플(AAPL)·테슬라(TSLA) 등 중국 비중 큰 기업"
-   }
-  },
-  {
-   "id": "85433b00bf",
-   "title": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
-   "url": "https://www.cnbc.com/2026/09/24/hormuz-blacksea-ukraine-iran-food-security-united-nations-.html",
-   "source": "CNBC Economy",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "09/24 13:02",
-   "published_iso": "2026-09-24T13:02:26+09:00",
-   "sort_key": 1790222546.0,
-   "excerpt": "Climate shocks, conflict and a global fuel crisis, on top of surging interest rates and donor cuts, leave agencies less able to help those facing higher food prices.",
-   "matched": [],
-   "analysis": {
-    "summary": "미국 원조 삭감으로 유엔 식량기구가 위축되면서 세계가 식량위기에 대응할 능력을 잃고 있다는 경고",
-    "impact": "국제 곡물가격 불안과 신흥국 리스크를 키우는 배경 요인, 국내 시장 직접 영향은 제한적",
-    "affected": "국제 곡물·식품 가격"
-   }
-  },
-  {
-   "id": "b2b8a9dd19",
-   "title": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
-   "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html",
-   "source": "CNBC Finance",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "09/24 10:44",
-   "published_iso": "2026-09-24T10:44:14+09:00",
-   "sort_key": 1790214254.0,
-   "excerpt": "Persistent growth of Chinese exports to the U.S. is helping the world's second-largest economy ride out ongoing domestic challenges.",
-   "matched": [],
-   "analysis": {
-    "summary": "중국의 대미 수출이 꾸준히 늘며 자급 능력이 커진 점이 트럼프-시진핑 협상 구도를 바꾸고 있다는 분석",
-    "impact": "중국의 협상력이 커졌다는 해석이 퍼지면 미국 측 양보나 협상 장기화 가능성, 미중 관련주 변동성 요인",
-    "affected": "미중 무역 민감주, 반도체·수출주"
-   }
   }
  ],
  "news_groups": {
@@ -1282,7 +940,12 @@
     "published_iso": "2026-09-26T07:00:07+09:00",
     "sort_key": 1790373607.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "미국 PCE 물가가 0.2%p 낮아질 전망이라며 연준 통화정책 경로에 미칠 영향을 분석",
+     "impact": "물가가 예상보다 낮으면 추가 금리 인상 부담이 줄어 성장주에 숨통",
+     "affected": "미국 국채금리, 나스닥 기술주, 달러"
+    }
    },
    {
     "id": "d482b29464",
@@ -1295,7 +958,12 @@
     "published_iso": "2026-09-26T07:00:05+09:00",
     "sort_key": 1790373605.0,
     "excerpt": "(서울=연합뉴스) 김유향 기자 = 국내 증시가 7월 급락장 이후 지루한 박스권 장세를 이어가는 가운데 가격제한폭까지 치솟는 종목의 수가 연초의 ...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "7월 급락 이후 국내 증시가 박스권에 갇히며 상한가·52주 신고가 종목 수가 크게 줄어듦",
+     "impact": "뚜렷한 방향 없는 장세가 이어져 개별 종목 모멘텀이 약해진 상태",
+     "affected": "코스피·코스닥 전반, 개인 투자심리"
+    }
    },
    {
     "id": "d68567196c",
@@ -1308,7 +976,12 @@
     "published_iso": "2026-09-26T07:00:05+09:00",
     "sort_key": 1790373605.0,
     "excerpt": "(서울=연합뉴스) 윤민혁 기자 = 한국공항공사 산하 공항에서 영업하는 일부 입주업체가 매출의 30%가 넘는 금액을 임대료로 부담하는 것으로 나타...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "공항 입점 업체가 매출의 30% 넘는 임대료를 내며 이를 이용객 가격에 전가",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "18d71a3925",
@@ -1321,7 +994,12 @@
     "published_iso": "2026-09-26T07:00:04+09:00",
     "sort_key": 1790373604.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "일본이 금리를 올렸는데도 엔캐리 트레이드가 풀리지 않아 최대 2조 달러 규모의 청산 위험이 커지고 있다는 분석",
+     "impact": "엔캐리 청산이 한꺼번에 일어나면 글로벌 증시 급락을 부를 수 있는 잠재 리스크",
+     "affected": "엔/달러 환율, 나스닥·코스피 등 위험자산 전반"
+    }
    },
    {
     "id": "4fc87286ec",
@@ -1334,7 +1012,12 @@
     "published_iso": "2026-09-26T07:00:01+09:00",
     "sort_key": 1790373601.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "여의도 상권의 주 소비층이 중년 남성에서 여성으로 바뀌고 있다는 트렌드 기사",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "07fbfdc3a9",
@@ -1347,7 +1030,12 @@
     "published_iso": "2026-09-26T06:11:01+09:00",
     "sort_key": 1790370661.0,
     "excerpt": "(세종=연합뉴스) 오진송 기자 = 아파트 건설 기술이 좋아졌다지만 균열이나 누수 등을 두고 입주자가 하자심사를 신청해 실제 하자로 인정받은 건수...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "아파트 하자 판정 건수가 3년 새 2.4배로 늘어남",
+     "impact": "건설사 품질 관리 비용과 평판 리스크 요인",
+     "affected": "국내 건설주"
+    }
    },
    {
     "id": "15c76a8c95",
@@ -1360,7 +1048,12 @@
     "published_iso": "2026-09-26T06:10:00+09:00",
     "sort_key": 1790370600.0,
     "excerpt": "(서울=연합뉴스) 이상서 기자 = 중소벤처기업부가 지난 6년간 추진한 지원사업에서 보조금 부정수급 91건이 적발됐으며, 금액은 26억원에 달하는...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "중기부 지원사업에서 6년간 보조금 부정수급 26억원이 적발됨",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "313017814a",
@@ -1373,7 +1066,12 @@
     "published_iso": "2026-09-26T06:01:02+09:00",
     "sort_key": 1790370062.0,
     "excerpt": "(서울=연합뉴스) 옥성구 기자 = 육아휴직을 마친 직원이 1년 뒤에도 회사에 계속 다니는 비율이 기업 규모별로 격차가 큰 것으로 나타났다.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "육아휴직 뒤 1년간 계속 근무하는 비율이 중소기업은 70%에 그쳐 대기업과 격차가 큼",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "07816b3328",
@@ -1386,7 +1084,12 @@
     "published_iso": "2026-09-26T06:01:00+09:00",
     "sort_key": 1790370060.0,
     "excerpt": "(세종=연합뉴스) 오진송 기자 = 다음 주에는 전국에서 3천641가구가 청약을 진행한다.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "다음 주 전국에서 3,641가구가 청약을 진행",
+     "impact": "분양 일정 안내로 시장 영향은 제한적",
+     "affected": "건설·분양 관련주 참고"
+    }
    },
    {
     "id": "15fcd9fbae",
@@ -1399,7 +1102,12 @@
     "published_iso": "2026-09-26T06:00:05+09:00",
     "sort_key": 1790370005.0,
     "excerpt": "(서울=연합뉴스) 권희원 기자 = 헬스장·필라테스 업체의 이른바 &apos;먹튀 폐업&apos; 피해 사례가 3년 만에 7배 이상 늘어나 안전장치 마련이 시급하다...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "헬스장·필라테스 '먹튀 폐업' 피해구제가 3년 새 7배 넘게 늘어남",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "102bfe6231",
@@ -1412,7 +1120,12 @@
     "published_iso": "2026-09-26T06:00:02+09:00",
     "sort_key": 1790370002.0,
     "excerpt": "(서울=연합뉴스) 류미나 기자 = 저축은행의 개인사업자대출 잔액이 4년여 만에 절반 수준으로 줄어든 반면 연체율은 3.6 배로 뛰어오른 것으로 ...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "저축은행 자영업자 대출 잔액은 4년 새 절반으로 줄었지만 연체율은 3.6배로 뜀",
+     "impact": "자영업자 부실이 커지고 있다는 신호로 2금융권 건전성 우려",
+     "affected": "저축은행·2금융권, 내수 경기"
+    }
    },
    {
     "id": "78c19b52d5",
@@ -1425,7 +1138,12 @@
     "published_iso": "2026-09-26T06:00:01+09:00",
     "sort_key": 1790370001.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "30년 넘게 코딩을 해온 개발자의 직업 이야기",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "9d4fd66a02",
@@ -1438,7 +1156,12 @@
     "published_iso": "2026-09-26T00:48:29+09:00",
     "sort_key": 1790351309.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "국채 고금리는 '정상화 과정'이라는 시각과 함께 AI 기업 채권은 비중을 줄이라는 조언",
+     "impact": "AI 기업의 대규모 차입에 대한 경계가 커지는 신호",
+     "affected": "AI 인프라 기업 회사채, 미국 국채"
+    }
    },
    {
     "id": "4f9c0b78f2",
@@ -1451,7 +1174,12 @@
     "published_iso": "2026-09-26T00:33:42+09:00",
     "sort_key": 1790350422.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "저커버그가 다마고치 같은 AI 기기를 들고 나온 속내를 분석",
+     "impact": "메타의 AI 하드웨어 전략 참고 기사, 시장 영향은 제한적",
+     "affected": "메타(META)"
+    }
    },
    {
     "id": "3839c9b3ec",
@@ -1464,7 +1192,12 @@
     "published_iso": "2026-09-25T21:16:49+09:00",
     "sort_key": 1790338609.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "중국 은행권에 64조 위안 규모의 예금 만기가 몰려오며 비상이 걸림",
+     "impact": "중국 은행의 자금 조달 부담과 금리 인하 압박 요인, 중국 경기 불확실성",
+     "affected": "중국 금융주, 위안화, 중국 관련 수출주"
+    }
    },
    {
     "id": "b8f2f57eea",
@@ -1477,7 +1210,12 @@
     "published_iso": "2026-09-25T18:24:25+09:00",
     "sort_key": 1790328265.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "2명이 3분 만에 대형 박물관에서 도난을 저지른 사건",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
    }
   ],
   "해외 경제언론": [
@@ -1492,7 +1230,12 @@
     "published_iso": "2026-09-26T06:41:18+09:00",
     "sort_key": 1790372478.0,
     "excerpt": "The decision is the second in less than a month by an appeals court that states have a role in regulating sports-related event contracts.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "항소법원이 주 정부가 칼시의 스포츠 예측시장을 규제할 수 있다고 판결",
+     "impact": "예측시장 플랫폼의 규제 부담이 커지는 흐름",
+     "affected": "예측시장 플랫폼(칼시 등)"
+    }
    },
    {
     "id": "a4f8403ee1",
@@ -1505,7 +1248,12 @@
     "published_iso": "2026-09-26T05:11:12+09:00",
     "sort_key": 1790367072.0,
     "excerpt": "Manchester City have been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "맨체스터시티가 프리미어리그 재정 규정 115건 중 대부분을 위반한 것으로 판정됨",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "590f91f346",
@@ -1518,7 +1266,12 @@
     "published_iso": "2026-09-26T04:55:36+09:00",
     "sort_key": 1790366136.0,
     "excerpt": "Israel condemned the database of firms tied to activity in the occupied West Bank as a “political tool” to advance “a smear campaign.”",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "유엔이 이스라엘 정착촌과 거래하는 기업 명단을 새로 공개하자 이스라엘이 반발",
+     "impact": "명단에 오른 기업의 평판·ESG 리스크 요인, 시장 전체 영향은 제한적",
+     "affected": "명단 포함 글로벌 기업"
+    }
    },
    {
     "id": "05d37784fb",
@@ -1531,7 +1284,12 @@
     "published_iso": "2026-09-26T04:31:20+09:00",
     "sort_key": 1790364680.0,
     "excerpt": "Star Meat Delivery did not complete the requirements necessary to process food, the Agriculture Department said.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "리콜된 육류 유통업체가 수년간 필요한 허가 없이 영업해 온 것으로 드러남",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "77476bd04a",
@@ -1544,7 +1302,12 @@
     "published_iso": "2026-09-26T03:49:17+09:00",
     "sort_key": 1790362157.0,
     "excerpt": "The jelly candies were a staple at bar and bat mitzvahs and other Jewish celebrations for generations.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "미국의 전통 젤리 사탕 '선키스트 프루트 젬스'가 단종됨",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "ecddcd4085",
@@ -1557,7 +1320,12 @@
     "published_iso": "2026-09-26T01:38:21+09:00",
     "sort_key": 1790354301.0,
     "excerpt": "Easing tensions with Washington gives Beijing room to tackle economic troubles at home while reducing its vulnerability to American pressure.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "트럼프와의 무역 휴전으로 중국이 내부 경제 문제를 해결할 시간을 벌었다는 분석",
+     "impact": "미중 갈등 완화가 당분간 이어질 가능성이 커져 위험자산에 우호적",
+     "affected": "미중 무역 민감주, 반도체·수출주"
+    }
    },
    {
     "id": "78777f04a7",
@@ -1570,7 +1338,12 @@
     "published_iso": "2026-09-26T01:29:26+09:00",
     "sort_key": 1790353766.0,
     "excerpt": "Crews from CBS and CNN covered two events on Friday with President Trump and the Chinese leader, Xi Jinping.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "CNN과 CBS가 백악관 취재를 재개",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "79852bbd1d",
@@ -1583,7 +1356,12 @@
     "published_iso": "2026-09-26T01:00:44+09:00",
     "sort_key": 1790352044.0,
     "excerpt": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "데이비드 베컴이 광고 계약으로 3,850만 파운드의 배당을 받음",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "1b05be479c",
@@ -1596,20 +1374,12 @@
     "published_iso": "2026-09-26T00:38:16+09:00",
     "sort_key": 1790350696.0,
     "excerpt": "Financial markets are placing nearly 70 percent odds on the Federal Reserve raising interest rates in late October.",
-    "matched": []
-   },
-   {
-    "id": "ba0ba6febe",
-    "title": "Here's who attended the Trump-Xi state dinner",
-    "url": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
-    "source": "CNBC Finance",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "09/25 23:41",
-    "published_iso": "2026-09-25T23:41:24+09:00",
-    "sort_key": 1790347284.0,
-    "excerpt": "U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "시장이 연준의 10월 말 금리 인상 가능성을 약 70%로 보고 있음",
+     "impact": "금리 인상이 현실화되면 고평가 기술주에 부담, 이미 상당 부분 가격에 반영됐을 수도 있음",
+     "affected": "나스닥 대형 기술주(NVDA·MSFT 등), 달러, 원/달러 환율"
+    }
    },
    {
     "id": "3b0173afb9",
@@ -1622,20 +1392,12 @@
     "published_iso": "2026-09-25T22:56:16+09:00",
     "sort_key": 1790344576.0,
     "excerpt": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-    "matched": []
-   },
-   {
-    "id": "fdb08c3d90",
-    "title": "Here's what happens to the economy when Treasury yields soar like they are now",
-    "url": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
-    "source": "CNBC Economy",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "09/25 22:48",
-    "published_iso": "2026-09-25T22:48:19+09:00",
-    "sort_key": 1790344099.0,
-    "excerpt": "Government debt costs leaped higher Wednesday, the product of multiple factors.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "FBI 해킹으로 특수요원들의 혈액·소변 검사 결과가 유출됨",
+     "impact": "시장 영향은 사실상 없음(사이버보안 경각심 이슈)",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "6bbbfef9b6",
@@ -1648,7 +1410,12 @@
     "published_iso": "2026-09-25T22:26:05+09:00",
     "sort_key": 1790342765.0,
     "excerpt": "Unlike health insurance, a parent’s auto policy has no age limit on when a child has to be removed. But it’s good to know the options.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "자녀를 자동차보험에 추가할 때 보험료를 줄이는 방법 안내",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "77e9f1ea11",
@@ -1661,20 +1428,12 @@
     "published_iso": "2026-09-25T20:25:13+09:00",
     "sort_key": 1790335513.0,
     "excerpt": "The state visit by Xi Jinping, China’s top leader, so far has been long on pomp but short on substance on issues like artificial intelligence.",
-    "matched": []
-   },
-   {
-    "id": "a7081174a8",
-    "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
-    "url": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
-    "source": "CNBC Economy",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "09/25 20:08",
-    "published_iso": "2026-09-25T20:08:05+09:00",
-    "sort_key": 1790334485.0,
-    "excerpt": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "시진핑 국빈 방문이 화려했지만 AI 등 실질 의제에서는 성과가 적었다는 평가",
+     "impact": "구체적 합의가 없으면 반도체 수출규제 불확실성이 계속됨",
+     "affected": "엔비디아 등 AI 반도체, 빅테크"
+    }
    },
    {
     "id": "99e72daa69",
@@ -1687,7 +1446,12 @@
     "published_iso": "2026-09-25T19:50:49+09:00",
     "sort_key": 1790333449.0,
     "excerpt": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "영국 경유 가격이 리터당 198.32펜스로 사상 최고치에 근접",
+     "impact": "국내 시장과 직접 관련은 낮으나 에너지 가격 부담 지속 신호",
+     "affected": "국제 경유·유가"
+    }
    },
    {
     "id": "121f4bf9fd",
@@ -1700,7 +1464,12 @@
     "published_iso": "2026-09-25T19:25:01+09:00",
     "sort_key": 1790331901.0,
     "excerpt": "A private survey shows a rebound in China's exports to the U.S. as companies position for continued stability between the world's two largest economies.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "미중 정상회담을 앞두고 중국의 대미 수출 주문이 예상 밖으로 늘었다는 민간 조사 결과",
+     "impact": "양국 관계 안정 기대가 실물 교역에 반영되기 시작한 신호",
+     "affected": "중국 수출 관련주, 글로벌 해운·물류"
+    }
    },
    {
     "id": "7ebd7eb2a0",
@@ -1713,176 +1482,12 @@
     "published_iso": "2026-09-25T18:48:33+09:00",
     "sort_key": 1790329713.0,
     "excerpt": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
-    "matched": []
-   },
-   {
-    "id": "adcb67c463",
-    "title": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
-    "url": "https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html",
-    "source": "CNBC Finance",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "09/25 15:13",
-    "published_iso": "2026-09-25T15:13:35+09:00",
-    "sort_key": 1790316815.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "f7bbe8359e",
-    "title": "Farmers down 240 million litres of milk after heat",
-    "url": "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "09/25 14:30",
-    "published_iso": "2026-09-25T14:30:13+09:00",
-    "sort_key": 1790314213.0,
-    "excerpt": "Milk yield was affected by a series of extreme heatwaves which led to poor grazing conditions, researchers say.",
-    "matched": []
-   },
-   {
-    "id": "aafe76a392",
-    "title": "China's Xi urges U.S. to cooperate on AI",
-    "url": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
-    "source": "CNBC Finance",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "09/25 10:22",
-    "published_iso": "2026-09-25T10:22:17+09:00",
-    "sort_key": 1790299337.0,
-    "excerpt": "U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.",
-    "matched": []
-   },
-   {
-    "id": "922e940651",
-    "title": "X-planes: Are they needed in the new era of drones?",
-    "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "09/25 08:03",
-    "published_iso": "2026-09-25T08:03:53+09:00",
-    "sort_key": 1790291033.0,
-    "excerpt": "Where do America's X-plane projects fit in an era of cheap drones?",
-    "matched": []
-   },
-   {
-    "id": "9971dd222b",
-    "title": "'We're all broke': Would you chase a friend for £5?",
-    "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "09/25 08:00",
-    "published_iso": "2026-09-25T08:00:45+09:00",
-    "sort_key": 1790290845.0,
-    "excerpt": "What's the smallest amount of money you would ask a friend to pay you back?",
-    "matched": []
-   },
-   {
-    "id": "9bd3557d0e",
-    "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
-    "url": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
-    "source": "CNBC Finance",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "09/25 02:12",
-    "published_iso": "2026-09-25T02:12:04+09:00",
-    "sort_key": 1790269924.0,
-    "excerpt": "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.",
-    "matched": []
-   },
-   {
-    "id": "2d25858973",
-    "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
-    "url": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
-    "source": "CNBC Finance",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "09/24 23:16",
-    "published_iso": "2026-09-24T23:16:27+09:00",
-    "sort_key": 1790259387.0,
-    "excerpt": "Chinese confirmation of the AI discussions came just hours before President Xi Jinping was scheduled to begin talks with U.S. President Donald Trump.",
-    "matched": []
-   },
-   {
-    "id": "c58fb0f4ce",
-    "title": "Switzerland is keeping rates at 0% — for now",
-    "url": "https://www.cnbc.com/2026/09/24/swiss-national-bank-interest-rates-inflation.html",
-    "source": "CNBC Economy",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "09/24 20:34",
-    "published_iso": "2026-09-24T20:34:56+09:00",
-    "sort_key": 1790249696.0,
-    "excerpt": "The Swiss National Bank held rates at 0% as low inflation and a strong franc enable it to diverge from other central banks, though markets expect hikes ahead.",
-    "matched": []
-   },
-   {
-    "id": "7c4792f6eb",
-    "title": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'",
-    "url": "https://www.cnbc.com/2026/09/24/global-debt-bond-yields-inflation.html",
-    "source": "CNBC Economy",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "09/24 17:13",
-    "published_iso": "2026-09-24T17:13:01+09:00",
-    "sort_key": 1790237581.0,
-    "excerpt": "More is being paid out by advanced economies in debt interest than the whole world spends on AI, defense or clean technology.",
-    "matched": []
-   },
-   {
-    "id": "01780b0c6a",
-    "title": "France's fresh budget battle threatens to topple another government",
-    "url": "https://www.cnbc.com/2026/09/24/france-budget-debt-deficit-government.html",
-    "source": "CNBC Economy",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "09/24 15:21",
-    "published_iso": "2026-09-24T15:21:00+09:00",
-    "sort_key": 1790230860.0,
-    "excerpt": "Time is not on the side of French government bonds, strategists have warned, as the nation's deficit balloons.",
-    "matched": []
-   },
-   {
-    "id": "81c6bc7bff",
-    "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
-    "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
-    "source": "CNBC Finance",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "09/24 13:55",
-    "published_iso": "2026-09-24T13:55:59+09:00",
-    "sort_key": 1790225759.0,
-    "excerpt": "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.",
-    "matched": []
-   },
-   {
-    "id": "85433b00bf",
-    "title": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
-    "url": "https://www.cnbc.com/2026/09/24/hormuz-blacksea-ukraine-iran-food-security-united-nations-.html",
-    "source": "CNBC Economy",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "09/24 13:02",
-    "published_iso": "2026-09-24T13:02:26+09:00",
-    "sort_key": 1790222546.0,
-    "excerpt": "Climate shocks, conflict and a global fuel crisis, on top of surging interest rates and donor cuts, leave agencies less able to help those facing higher food prices.",
-    "matched": []
-   },
-   {
-    "id": "b2b8a9dd19",
-    "title": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
-    "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html",
-    "source": "CNBC Finance",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "09/24 10:44",
-    "published_iso": "2026-09-24T10:44:14+09:00",
-    "sort_key": 1790214254.0,
-    "excerpt": "Persistent growth of Chinese exports to the U.S. is helping the world's second-largest economy ride out ongoing domestic challenges.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "미국이 X(옛 트위터)에 대한 EU의 1억2천만 유로 벌금 취소 소송을 지지",
+     "impact": "미국-EU 간 빅테크 규제 갈등 확대 요인",
+     "affected": "미국 빅테크의 EU 규제 리스크"
+    }
    }
   ],
   "중앙은행·국제기구": [
@@ -1897,59 +1502,12 @@
     "published_iso": "2026-09-26T05:30:00+09:00",
     "sort_key": 1790368200.0,
     "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "a09909ffdb",
-    "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
-    "source": "연준(Fed) 보도자료",
-    "group": "중앙은행·국제기구",
-    "lang": "en",
-    "published_kst": "09/25 03:30",
-    "published_iso": "2026-09-25T03:30:00+09:00",
-    "sort_key": 1790274600.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "4369d45eef",
-    "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
-    "source": "연준(Fed) 보도자료",
-    "group": "중앙은행·국제기구",
-    "lang": "en",
-    "published_kst": "09/25 00:00",
-    "published_iso": "2026-09-25T00:00:00+09:00",
-    "sort_key": 1790262000.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "a3f17a038f",
-    "title": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
-    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
-    "source": "유럽중앙은행(ECB)",
-    "group": "중앙은행·국제기구",
-    "lang": "en",
-    "published_kst": "09/24 21:00",
-    "published_iso": "2026-09-24T21:00:00+09:00",
-    "sort_key": 1790251200.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "e5f751f093",
-    "title": "Philip R. Lane: The outlook for the euro area economy",
-    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf",
-    "source": "유럽중앙은행(ECB)",
-    "group": "중앙은행·국제기구",
-    "lang": "en",
-    "published_kst": "09/24 18:00",
-    "published_iso": "2026-09-24T18:00:00+09:00",
-    "sort_key": 1790240400.0,
-    "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "연준이 피플스뱅코프의 신청을 승인",
+     "impact": "개별 지방은행 행정 절차로 시장 영향 미미",
+     "affected": "해당 없음"
+    }
    }
   ]
  },
@@ -1958,7 +1516,7 @@
   "indices_total": 8,
   "stocks_ok": 9,
   "stocks_total": 9,
-  "news": 52
+  "news": 32
  },
  "errors": []
 }

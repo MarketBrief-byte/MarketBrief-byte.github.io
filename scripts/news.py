@@ -81,11 +81,22 @@ def fetch_feed(feed: dict[str, Any], cfg: dict[str, Any]) -> tuple[list[dict], s
     return items, None
 
 
-def collect(cfg: dict[str, Any]) -> tuple[list[dict], list[dict]]:
+def title_key(title: str) -> str:
+    """같은 기사가 매체·시각만 바꿔 다시 올라와도 한 건으로 보기 위한 정규화 키."""
+    return re.sub(r"[^0-9a-z가-힣]", "", (title or "").lower())[:60]
+
+
+def collect(cfg: dict[str, Any], skip_urls: set[str] | None = None,
+            skip_titles: set[str] | None = None) -> tuple[list[dict], list[dict]]:
+    """피드를 모두 읽어 새 기사만 돌려준다.
+
+    skip_urls / skip_titles 에 든 기사(앞선 날짜나 오늘 앞선 실행에서 이미 실은 것)는 뺀다.
+    max_total_items 제한은 이렇게 걸러낸 '새 기사'에만 적용된다.
+    """
     all_items: list[dict] = []
     errors: list[dict] = []
-    seen_urls: set[str] = set()
-    seen_titles: set[str] = set()
+    seen_urls: set[str] = set(skip_urls or ())
+    seen_titles: set[str] = set(skip_titles or ())
 
     for feed in cfg.get("feeds", []):
         items, err = fetch_feed(feed, cfg)
@@ -93,7 +104,7 @@ def collect(cfg: dict[str, Any]) -> tuple[list[dict], list[dict]]:
             errors.append({"stage": "news", "target": feed["name"], "message": err})
             continue
         for it in items:
-            tkey = re.sub(r"[^0-9a-z가-힣]", "", it["title"].lower())[:60]
+            tkey = title_key(it["title"])
             if it["url"] in seen_urls or tkey in seen_titles:
                 continue
             seen_urls.add(it["url"])

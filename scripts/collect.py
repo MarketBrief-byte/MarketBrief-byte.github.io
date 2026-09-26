@@ -28,8 +28,26 @@ def load_config() -> dict:
         return yaml.safe_load(fh)
 
 
-def build_payload(cfg: dict) -> dict:
+def load_day(data_dir: Path, date: str) -> dict | None:
+    path = data_dir / f"{date}.json"
+    if not path.exists():
+        return None
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def previous_news(data_dir: Path, today: str, days: int) -> list[dict]:
+    """오늘 이전의 최근 `days`개 날짜 파일에 실린 뉴스 전부."""
+    paths = sorted(p for p in data_dir.glob("*.json") if p.stem < today)[-days:] if days > 0 else []
+    out: list[dict] = []
+    for p in paths:
+        out.extend(json.loads(p.read_text(encoding="utf-8")).get("news", []))
+    return out
+
+
+def build_payload(cfg: dict, data_dir: Path | None = None) -> dict:
     now = dt.datetime.now(KST)
+    today = now.strftime("%Y-%m-%d")
+    data_dir = data_dir or ROOT / "data"
     qcfg = cfg.get("quotes", {})
     errors: list[dict] = []
 
@@ -55,8 +73,23 @@ def build_payload(cfg: dict) -> dict:
             errors.append({"stage": "quote", "target": item["name"],
                            "message": " / ".join(q["attempts"][-2:]) or "실패"})
 
-    items, news_errors = news_mod.collect(cfg.get("news", {}))
+    # 뉴스는 '새 기사만' 싣는다.
+    #  - 최근 며칠(dedup_days) 페이지에 이미 실린 기사는 뺀다.
+    #  - 오늘 파일이 이미 있으면(오후 재수집) 덮어쓰지 않고 새 기사만 덧붙인다.
+    #    그래서 아침에 달린 해설(analysis)도 그대로 남는다.
+    ncfg = cfg.get("news", {})
+    earlier = previous_news(data_dir, today, int(ncfg.get("dedup_days", 3)))
+    existing = (load_day(data_dir, today) or {}).get("news", [])
+    for it in existing:
+        it["matched"] = []  # 관심종목 연결은 아래에서 다시 계산
+    skip = earlier + existing
+    new_items, news_errors = news_mod.collect(
+        ncfg,
+        skip_urls={x["url"] for x in skip},
+        skip_titles={news_mod.title_key(x["title"]) for x in skip},
+    )
     errors.extend(news_errors)
+    items = sorted(existing + new_items, key=lambda x: x.get("sort_key", 0.0), reverse=True)
     news_mod.match_watchlist(items, watchlist)
 
     groups: dict[str, list] = {}
@@ -64,7 +97,7 @@ def build_payload(cfg: dict) -> dict:
         groups.setdefault(it["group"], []).append(it)
 
     return {
-        "date": now.strftime("%Y-%m-%d"),
+        "date": today,
         "generated_at": now.strftime("%Y-%m-%d %H:%M"),
         "weekday": "월화수목금토일"[now.weekday()],
         "site": cfg.get("site", {}),
@@ -78,6 +111,7 @@ def build_payload(cfg: dict) -> dict:
             "stocks_ok": sum(1 for x in watchlist if x["ok"]),
             "stocks_total": len(watchlist),
             "news": len(items),
+            "news_new": len(new_items),
         },
         "errors": errors,
     }
@@ -127,7 +161,7 @@ def main() -> int:
     c = payload["counts"]
     print(f"저장: {path.relative_to(ROOT)}")
     print(f"  지수 {c['indices_ok']}/{c['indices_total']} · "
-          f"종목 {c['stocks_ok']}/{c['stocks_total']} · 뉴스 {c['news']}건 · "
+          f"종목 {c['stocks_ok']}/{c['stocks_total']} · 뉴스 {c['news']}건(이번에 새로 {c['news_new']}건) · "
           f"오류 {len(payload['errors'])}건")
     for e in payload["errors"]:
         print(f"  - [{e['stage']}] {e['target']}: {e['message'][:90]}")
