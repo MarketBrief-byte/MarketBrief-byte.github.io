@@ -343,7 +343,15 @@
    "published_iso": "2026-09-27T07:15:02+09:00",
    "sort_key": 1790460902.0,
    "excerpt": "(서울=연합뉴스) 이민영 기자 = 국내 상장사들의 3분기 실적 전망이 기업별로 크게 엇갈리고 있다. 절반 이상은 최근 영업이익 눈높이가 높아진 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "국내 상장사 3분기 실적 전망이 기업별로 엇갈리는 가운데 삼성전자·SK하이닉스 전망치는 상향 조정됨",
+    "impact": "반도체 대형주 실적 눈높이가 올라가 코스피 상승을 받쳐주는 요인, 다른 업종과의 격차는 확대",
+    "affected": "삼성전자, SK하이닉스, 코스피 전반",
+    "important": true,
+    "important_tag": "산업·실적",
+    "why_important": "코스피 시총 1·2위의 실적 전망 상향은 연휴 뒤 지수 방향을 좌우하는 가장 큰 변수"
+   }
   },
   {
    "id": "4142c11eef",
@@ -356,7 +364,12 @@
    "published_iso": "2026-09-27T07:01:04+09:00",
    "sort_key": 1790460064.0,
    "excerpt": "(수원=연합뉴스) 최찬흥 기자 = 경기도는 국토교통부의 내년도 개발제한구역(그린벨트) 주민지원사업과 관련해 국비 123억원을 확보했다고 27일 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "경기도가 내년 그린벨트 주민지원사업 국비 123억원을 확보",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "8f0f394e7e",
@@ -369,7 +382,12 @@
    "published_iso": "2026-09-27T07:00:05+09:00",
    "sort_key": 1790460005.0,
    "excerpt": "(서울=연합뉴스) 한주홍 기자 = 가축방역을 담당하는 수의직 공무원의 결원율이 지난해 34%를 넘어선 것으로 나타났다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "가축방역을 맡는 수의직 공무원 결원율이 지난해 34%를 넘음",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "94bdc13f65",
@@ -382,7 +400,12 @@
    "published_iso": "2026-09-27T07:00:03+09:00",
    "sort_key": 1790460003.0,
    "excerpt": "(서울=연합뉴스) 황철환 기자 = 이번 주 국내 주식시장은 추석 연휴 기간 발생한 글로벌 증시 관련 이벤트를 소화하며 방향성 탐색으로 한 주를 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "추석 연휴 동안 쌓인 글로벌 증시 이벤트를 소화하며 이번 주 국내 증시가 방향을 탐색할 것이라는 전망",
+    "impact": "연휴 중 미국 금리 급등·미중 휴전 등이 한꺼번에 반영되며 개장 초 변동성이 커질 수 있음",
+    "affected": "코스피·코스닥, 원/달러 환율"
+   }
   },
   {
    "id": "f888e76b31",
@@ -395,7 +418,12 @@
    "published_iso": "2026-09-27T06:35:53+09:00",
    "sort_key": 1790458553.0,
    "excerpt": "There’s growing pressure to move beyond the billable hour. But big firms aren’t ready to blow up their trusted business model.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "AI로 로펌 업무가 효율화되자 고객들이 수임료 할인을 요구하기 시작",
+    "impact": "AI가 전문 서비스 가격 구조를 바꾸는 사례, 시장 영향은 제한적",
+    "affected": "해당 없음(AI 활용 트렌드 참고)"
+   }
   },
   {
    "id": "c28c1f85f5",
@@ -408,7 +436,12 @@
    "published_iso": "2026-09-27T06:30:01+09:00",
    "sort_key": 1790458201.0,
    "excerpt": "(서울=연합뉴스) 김세린 기자 = 반려동물과의 이별에 따른 상실감을 뜻하는 &apos;펫로스&apos;에 대한 지원이 사별 이후보다 반려동물이 나이가 드는 노령기...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "반려동물 상실감(펫로스) 지원은 노령기부터 필요하다는 제언",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "a34cf68071",
@@ -421,7 +454,12 @@
    "published_iso": "2026-09-27T06:01:02+09:00",
    "sort_key": 1790456462.0,
    "excerpt": "(서울=연합뉴스) 홍국기 기자 = 지난해 농림축산식품부의 &apos;농식품글로벌성장패키지&apos; 지원 기업 가운데 절반 넘게 수출액이 감소한 것으로 나타났다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "지난해 360억원을 들인 K푸드 수출 지원사업에서 지원 기업 절반 이상의 수출이 줄어듦",
+    "impact": "정책 효과 점검 이슈로 시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "9fed7b4b99",
@@ -434,7 +472,12 @@
    "published_iso": "2026-09-27T06:01:01+09:00",
    "sort_key": 1790456461.0,
    "excerpt": "(서울=연합뉴스) 김지연 기자 = 대작 &apos;오디세이&apos;와 &apos;스파이더맨: 브랜드 뉴 데이&apos;(스파이더맨 4)가 연달아 극장가를 강타했던 지난달 4명에 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "8월 대작 영화 연속 개봉으로 관객 4명 중 1명이 2회 이상 관람",
+    "impact": "극장 업황 회복 신호이나 시장 전체 영향은 제한적",
+    "affected": "CJ CGV 등 극장·영화 관련주 참고"
+   }
   },
   {
    "id": "cabc849e88",
@@ -447,7 +490,12 @@
    "published_iso": "2026-09-27T06:00:45+09:00",
    "sort_key": 1790456445.0,
    "excerpt": "(서울=연합뉴스) 조다운 기자 = 한중 자유무역협정(FTA)의 경제적 효과가 정부 예상치의 4분의 1 수준에 불과한 것으로 나타났다고 국민의힘 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한중 FTA 10년의 경제 효과가 정부 예상치의 4분의 1에 그쳤다는 지적",
+    "impact": "정치권 문제 제기 수준으로 시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "77011a11f5",
@@ -460,7 +508,12 @@
    "published_iso": "2026-09-27T00:00:01+09:00",
    "sort_key": 1790434801.0,
    "excerpt": "Matthews Asia portfolio manager Andrew Mattock delivers a strategy that revolves around the world's second largest economy.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "AI 투자 비중을 늘리려는 투자자에게 중국 시장이 '빠진 조각'이 될 수 있다는 운용사 전략",
+    "impact": "중국 AI 관련주에 대한 관심 환기, 시장 영향은 제한적",
+    "affected": "중국 기술주 참고"
+   }
   },
   {
    "id": "f77ca44ec6",
@@ -473,7 +526,12 @@
    "published_iso": "2026-09-26T23:16:46+09:00",
    "sort_key": 1790432206.0,
    "excerpt": "CNN won’t be able to join President Trump on a Saturday trip to Tennessee. He had banned CNN and two other news outlets from the White House, but a court order on Thursday restored their access.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "백악관이 트럼프 대통령의 테네시 방문 취재에서 CNN을 배제",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "0a065731ab",
@@ -486,7 +544,15 @@
    "published_iso": "2026-09-26T22:30:06+09:00",
    "sort_key": 1790429406.0,
    "excerpt": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 10년물 국채금리가 끈적한 물가, 국채 대량 발행, AI 투자 붐 영향으로 19년 만의 최고치로 오름",
+    "impact": "장기금리 고공행진은 성장주 밸류에이션을 누르고 달러 강세·원화 약세 압력으로 이어짐",
+    "affected": "나스닥 대형 기술주, 미국 국채, 원/달러 환율",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "미국 10년물 금리 19년 만의 최고치는 전 세계 주식 가치 평가의 기준이 되는 금리라 한·미 증시 모두에 직접 부담"
+   }
   },
   {
    "id": "527f6da3d2",
@@ -499,7 +565,12 @@
    "published_iso": "2026-09-26T22:30:01+09:00",
    "sort_key": 1790429401.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "삼성전자·SK하이닉스가 중국에 뺏기지 않으려고 동시에 공략에 나선 해외 시장 관련 기사",
+    "impact": "반도체 해외 수요처 확대 경쟁 기사로 단기 영향은 제한적",
+    "affected": "삼성전자, SK하이닉스"
+   }
   },
   {
    "id": "aaf7944e43",
@@ -512,7 +583,12 @@
    "published_iso": "2026-09-26T22:19:26+09:00",
    "sort_key": 1790428766.0,
    "excerpt": "As the Trump administration scrambles to increase the production of munitions, these special screws are expensive and hard to source.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미사일·항공기에 필요한 특수 나사 공급이 부족해 구매에 수년이 걸린다는 기사",
+    "impact": "방산 공급망 병목을 보여주는 사례로 방산 부품 업체에 관심 요인",
+    "affected": "방산·항공 부품 업종 참고"
+   }
   },
   {
    "id": "7bb4e8af63",
@@ -525,7 +601,12 @@
    "published_iso": "2026-09-26T19:05:36+09:00",
    "sort_key": 1790417136.0,
    "excerpt": "Employees and recruiters weigh into the online debate around interview etiquette.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "면접에 아이스커피를 들고 가도 되는지를 두고 벌어진 온라인 논쟁",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "e6b200e79a",
@@ -538,7 +619,12 @@
    "published_iso": "2026-09-26T19:00:03+09:00",
    "sort_key": 1790416803.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연금 상품을 수익률 1위만 보고 골랐다가 손실을 본 투자자 사례와 주의점",
+    "impact": "개인 연금 투자 참고 기사로 시장 영향은 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "105768490a",
@@ -551,7 +637,12 @@
    "published_iso": "2026-09-26T18:03:11+09:00",
    "sort_key": 1790413391.0,
    "excerpt": "An abrupt decree, a network boycott, a legal intervention and an uneasy détente: This was no typical battle between a president and his press corps.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프와 언론 간 7일간의 대치가 남긴 의미를 정리",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "c7a2a83046",
@@ -564,7 +655,12 @@
    "published_iso": "2026-09-26T18:02:06+09:00",
    "sort_key": 1790413326.0,
    "excerpt": "As the president extolled the strength of the economy on the global stage, Americans continued to feel the sting of rising prices stemming from the war in Iran.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "이란 전쟁 여파로 휘발유값과 모기지 금리가 올라 중간선거를 앞둔 트럼프에게 부담",
+    "impact": "물가 부담이 정치 이슈가 되면 에너지·금리 관련 정책 개입 가능성이 커짐",
+    "affected": "국제 유가, 미국 주택·소비 관련주"
+   }
   },
   {
    "id": "3472a60a6e",
@@ -577,7 +673,12 @@
    "published_iso": "2026-09-26T17:29:08+09:00",
    "sort_key": 1790411348.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "삼성전자·SK하이닉스 호황 속에 성과급 잔치보다 투자에 집중해야 한다며 이건희 회장의 과거 승부수가 소환됨",
+    "impact": "투자 여력 논쟁 수준으로 주가 영향은 제한적",
+    "affected": "삼성전자 투자심리 참고"
+   }
   },
   {
    "id": "ff969a2e31",
@@ -590,7 +691,12 @@
    "published_iso": "2026-09-26T16:18:12+09:00",
    "sort_key": 1790407092.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "조용한 SUV를 만든 자동차 연구원의 역발상 개발 이야기",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "67c9418b7a",
@@ -603,7 +709,12 @@
    "published_iso": "2026-09-26T15:00:07+09:00",
    "sort_key": 1790402407.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "AI 시대 보험사 경쟁력이 특허 확보에 달렸다는 분석",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음(보험업 트렌드 참고)"
+   }
   },
   {
    "id": "701cac8e22",
@@ -616,7 +727,12 @@
    "published_iso": "2026-09-26T15:00:04+09:00",
    "sort_key": 1790402404.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연령대별 은퇴 자산관리 방법 정리",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "591ecc632e",
@@ -629,7 +745,12 @@
    "published_iso": "2026-09-26T14:59:48+09:00",
    "sort_key": 1790402388.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한국 식품이 네덜란드 마트에서 인기를 끌고 있다는 현장 기사",
+    "impact": "K푸드 수출 확대 사례로 시장 영향은 제한적",
+    "affected": "음식료 수출 기업 참고"
+   }
   },
   {
    "id": "14c525793d",
@@ -642,7 +763,12 @@
    "published_iso": "2026-09-26T14:03:45+09:00",
    "sort_key": 1790399025.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "10년 전 1억원을 투자했다면 지금 가장 수익률이 높았을 자산을 비교",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "7fd5cedea0",
@@ -655,7 +781,12 @@
    "published_iso": "2026-09-26T14:00:01+09:00",
    "sort_key": 1790398801.0,
    "excerpt": "In May, Chinese President Xi Jinping asked U.S. President Donald Trump whether the countries could avoid destructive rivalry. Now, it seems, he thinks they can",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "시진핑이 미중이 '투키디데스의 함정'(패권 충돌)을 피할 수 있다고 보고 있다는 분석",
+    "impact": "미중 관계 안정 기대를 이어가는 분위기로 위험자산에 우호적",
+    "affected": "미중 무역 민감주, 반도체·수출주"
+   }
   },
   {
    "id": "d22a199399",
@@ -668,7 +799,12 @@
    "published_iso": "2026-09-26T11:50:56+09:00",
    "sort_key": 1790391056.0,
    "excerpt": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "오픈AI가 테스트 중 자사 봇이 여러 미국 정부기관 사이트의 공개 데이터에 접근했다고 밝힘",
+    "impact": "AI 에이전트 규제 논의에 힘이 실릴 수 있음",
+    "affected": "마이크로소프트 등 AI 기업 규제 리스크"
+   }
   },
   {
    "id": "fec4440cbd",
@@ -681,7 +817,12 @@
    "published_iso": "2026-09-26T08:01:44+09:00",
    "sort_key": 1790377304.0,
    "excerpt": "Cattle industry groups in Texas, Oklahoma and Kansas and two Republican senators said the Trump administration’s immigration enforcement actions were hurting operations.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "소 사육 지역의 이민단속으로 인력이 줄어 쇠고기 가격이 오를 수 있다는 우려",
+    "impact": "미국 식품 물가 상승 요인 중 하나, 시장 전체 영향은 제한적",
+    "affected": "미국 육류 가공업체"
+   }
   },
   {
    "id": "1a7c8f9942",
@@ -694,7 +835,12 @@
    "published_iso": "2026-09-26T05:13:53+09:00",
    "sort_key": 1790367233.0,
    "excerpt": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "맨시티 재정 규정 위반 판정 뒤 다른 구단들이 손해배상 청구를 위해 법률 자문을 구함",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   }
  ],
  "news_groups": {
