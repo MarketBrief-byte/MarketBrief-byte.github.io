@@ -545,7 +545,10 @@
    "analysis": {
     "summary": "한국은행이 최근 원화 강세(환율 하락) 속도가 빠르다는 점은 인정하면서도 이를 되돌림 과정으로 평가",
     "impact": "급격한 원화 강세에 대한 당국 시각을 보여주는 발언으로 환율 변동성에 참고 포인트",
-    "affected": "원/달러 환율, 수출 관련주"
+    "affected": "원/달러 환율, 수출 관련주",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "한은이 원화 강세 속도를 직접 언급해 외환당국 개입 가능성과 환율 방향을 가늠할 수 있음"
    }
   },
   {
@@ -674,7 +677,10 @@
    "analysis": {
     "summary": "우버의 배달의민족 인수가 본격화되며 공정거래위원회 기업결합 사전심사가 시작됨",
     "impact": "인수 성사 여부와 규제 심사 결과에 따라 국내 배달 플랫폼 시장 구도가 크게 바뀔 수 있음",
-    "affected": "배달의민족(우아한형제들), 국내 배달 플랫폼 경쟁구도"
+    "affected": "배달의민족(우아한형제들), 국내 배달 플랫폼 경쟁구도",
+    "important": true,
+    "important_tag": "산업·실적",
+    "why_important": "국내 1위 배달앱의 해외 매각이 공정위 심사 단계에 들어가 플랫폼 업계 구도가 바뀔 수 있음"
    }
   },
   {
@@ -764,7 +770,10 @@
    "analysis": {
     "summary": "JP모건 CEO 제이미 다이먼이 내년 하이퍼스케일러들의 AI 투자 규모가 1조 달러에 달할 수 있다고 발언",
     "impact": "AI 인프라 투자 확대 전망이 재확인되며 AI 관련주 투자심리에 우호적일 수 있음",
-    "affected": "엔비디아 등 AI 반도체·인프라 관련주, 국내 HBM·메모리 관련주"
+    "affected": "엔비디아 등 AI 반도체·인프라 관련주, 국내 HBM·메모리 관련주",
+    "important": true,
+    "important_tag": "산업·실적",
+    "why_important": "빅테크 AI 설비투자 1조 달러 전망은 반도체(엔비디아·SK하이닉스·삼성전자) 수요의 핵심 근거"
    }
   },
   {
@@ -782,7 +791,10 @@
    "analysis": {
     "summary": "트럼프와 시진핑이 정상회담을 가졌으나 양국은 여전히 상호 견제성 조치를 주고받는 불안정한 무역 휴전 상태",
     "impact": "관계 안정 기대와 불확실성이 공존해 위험자산 심리 변동성 확대 가능",
-    "affected": "반도체·수출주, 미중 무역 민감주, 코스피·나스닥 전반 투자심리"
+    "affected": "반도체·수출주, 미중 무역 민감주, 코스피·나스닥 전반 투자심리",
+    "important": true,
+    "important_tag": "정책·무역",
+    "why_important": "미중 정상회담 결과가 관세·수출규제를 통해 한·미 반도체와 수출주 전체에 영향"
    }
   },
   {
@@ -962,25 +974,10 @@
    "analysis": {
     "summary": "데이터센터 관련 기업들이 에너지 소비 논란 속에 IPO를 연기하며 월가의 회의론이 커지고 있음",
     "impact": "AI 데이터센터 투자 붐에 대한 과열 우려가 부각되면 관련주 밸류에이션에 부담 요인이 될 수 있음",
-    "affected": "AI 인프라·데이터센터 관련주, 엔비디아 등 AI 밸류체인 심리"
-   }
-  },
-  {
-   "id": "22ab9aa0af",
-   "title": "[보도참고] 2026년 추석 차례상 비용 하락",
-   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079410",
-   "source": "재정경제부 보도자료",
-   "group": "국내 정책당국",
-   "lang": "ko",
-   "published_kst": "09/22 01:42",
-   "published_iso": "2026-09-22T01:42:18+09:00",
-   "sort_key": 1790008938.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "올해 추석 차례상 비용이 작년보다 낮게 집계됨",
-    "impact": "소비자물가 안정 신호로 해석될 수 있음",
-    "affected": "국내 소비자물가(CPI), 유통·식품주"
+    "affected": "AI 인프라·데이터센터 관련주, 엔비디아 등 AI 밸류체인 심리",
+    "important": true,
+    "important_tag": "산업·실적",
+    "why_important": "월가에서 AI 데이터센터 과열론이 커지면 지금 증시를 이끄는 AI 대형주 밸류에이션이 흔들릴 수 있음"
    }
   },
   {
@@ -1002,24 +999,6 @@
    }
   },
   {
-   "id": "35b003da4f",
-   "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-   "url": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
-   "source": "CNBC Finance",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "09/22 00:04",
-   "published_iso": "2026-09-22T00:04:04+09:00",
-   "sort_key": 1790003044.0,
-   "excerpt": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
-   "matched": [],
-   "analysis": {
-    "summary": "관세·유가 상승·고금리가 맞물려 미국 기업 수익성이 악화되고 있다는 보도",
-    "impact": "미국 기업 실적 둔화 우려가 커지면 미 증시·위험자산 전반에 부담",
-    "affected": "S&P500·나스닥 등 미국 증시, 관세 민감 수출주"
-   }
-  },
-  {
    "id": "43b79c1268",
    "title": "Bessent and China Hail Progress on A.I. Talks. Now Comes the Hard Part.",
    "url": "https://www.nytimes.com/2026/09/21/business/dealbook/bessent-china-ai-talks.html",
@@ -1035,96 +1014,6 @@
     "summary": "베선트와 중국이 AI 관련 논의에서 진전을 이뤘다고 밝혔으나 본격적인 난관은 아직 남아있음",
     "impact": "미중 AI 협력 기대감이 있지만 불확실성도 공존, 단기 변동성 요인",
     "affected": "반도체·AI 수출주, 미중 무역 민감주"
-   }
-  },
-  {
-   "id": "6c68de0de2",
-   "title": "What are my rights if my flight is cancelled or delayed?",
-   "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "09/21 19:28",
-   "published_iso": "2026-09-21T19:28:17+09:00",
-   "sort_key": 1789986497.0,
-   "excerpt": "Flights are affected again owing to air traffic control problems, so what are your rights if you're affected?",
-   "matched": [],
-   "analysis": {
-    "summary": "항공관제 문제로 인한 항공편 지연 시 소비자 권리 안내",
-    "impact": "시장에 미치는 영향은 사실상 없음",
-    "affected": "해당 없음(소비자 정보성)"
-   }
-  },
-  {
-   "id": "1517bc7279",
-   "title": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes",
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html",
-   "source": "유럽중앙은행(ECB)",
-   "group": "중앙은행·국제기구",
-   "lang": "en",
-   "published_kst": "09/21 19:00",
-   "published_iso": "2026-09-21T19:00:00+09:00",
-   "sort_key": 1789984800.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "유럽중앙은행이 보유자산 일부를 토큰화 증권에 투자하기로 함",
-    "impact": "직접 충격은 제한적이나 중앙은행의 토큰화 자산 수용이라는 상징적 신호",
-    "affected": "유럽 핀테크주, 국내 STO 테마주 심리"
-   }
-  },
-  {
-   "id": "7e4fe81db1",
-   "title": "Eurosystem brings central bank money to tokenised finance",
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
-   "source": "유럽중앙은행(ECB)",
-   "group": "중앙은행·국제기구",
-   "lang": "en",
-   "published_kst": "09/21 19:00",
-   "published_iso": "2026-09-21T19:00:00+09:00",
-   "sort_key": 1789984800.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "유로시스템이 토큰화 금융에 중앙은행 결제시스템을 연결",
-    "impact": "유럽 디지털자산 인프라 확대 신호, 직접적 충격은 제한적",
-    "affected": "유럽 은행·핀테크, 국내 STO 테마주 참고"
-   }
-  },
-  {
-   "id": "c7573a46b5",
-   "title": "Why Japan’s markets flipped the usual script after central bank rate hike",
-   "url": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
-   "source": "CNBC Economy",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "09/21 10:02",
-   "published_iso": "2026-09-21T10:02:25+09:00",
-   "sort_key": 1789952545.0,
-   "excerpt": "The yen weakened past 157 against the dollar, the yield on the 10-year Japanese Government Bond slipped, while the Nikkei 225 gained 1.5%.",
-   "matched": [],
-   "analysis": {
-    "summary": "일본은행 금리 인상에도 엔화는 약세, 10년물 국채금리는 하락, 니케이지수는 1.5% 상승하는 이례적 반응이 나타남",
-    "impact": "엔화·일본 금리 경로 해석 변화로 엔캐리 트레이드, 아시아 증시 파급 가능",
-    "affected": "엔/달러 환율, 코스피 외국인 수급, 아시아 증시 전반"
-   }
-  },
-  {
-   "id": "08b3c9bd62",
-   "title": "전략경제자문단 반도체 현장방문",
-   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079400",
-   "source": "재정경제부 보도자료",
-   "group": "국내 정책당국",
-   "lang": "ko",
-   "published_kst": "09/21 09:00",
-   "published_iso": "2026-09-21T09:00:00+09:00",
-   "sort_key": 1789948800.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "정부 전략경제자문단이 반도체 업계 현장을 방문해 애로사항 청취",
-    "impact": "정부의 반도체 지원 의지를 재확인하는 신호, 직접 충격은 제한적",
-    "affected": "국내 반도체 업종 정책 기대감"
    }
   }
  ],
@@ -1143,7 +1032,12 @@
     "excerpt": "(군산=연합뉴스) 임채두 기자 = 새만금개발청은 새만금 1산단 7공구에 예정된 현대차그룹의 인공지능(AI) 데이터센터 건축 계획안에 대한 건축 ...",
     "matched": [
      "005380.KS"
-    ]
+    ],
+    "analysis": {
+     "summary": "현대차그룹이 새만금 산업단지에 AI 데이터센터를 짓기 위한 건축 심의가 시작됨",
+     "impact": "현대차의 AI 인프라 투자 확대 신호로 중장기 사업 다각화에 긍정적일 수 있음",
+     "affected": "현대차그룹 관련주, 국내 AI 데이터센터·전력 인프라 관련주"
+    }
    },
    {
     "id": "3b71a04e7e",
@@ -1156,7 +1050,12 @@
     "published_iso": "2026-09-22T16:16:25+09:00",
     "sort_key": 1790061385.0,
     "excerpt": "(서울=연합뉴스) 김유향 기자 = 코스피는 22일 미국 반도체 관련주 강세 등에 힘입어 장 초반 강세를 나타냈지만 이후 상승폭을 줄인 채 강보합...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "코스피가 미국 반도체 관련주 강세에 힘입어 장 초반 2%대 급등했으나 상승폭을 줄이며 강보합 마감, 7000선은 지켜냄",
+     "impact": "반도체 주도 상승 모멘텀은 유효하나 후반 매수세 약화로 단기 변동성 유의",
+     "affected": "코스피 전반, 반도체 대형주(삼성전자·SK하이닉스)"
+    }
    },
    {
     "id": "018852a080",
@@ -1169,7 +1068,12 @@
     "published_iso": "2026-09-22T16:13:11+09:00",
     "sort_key": 1790061191.0,
     "excerpt": "(서울=연합뉴스) 신창용 김연정 조다운 기자 = 정부가 대미 투자 3대 프로젝트의 추진 속도를 사업별 수익성과 위험도에 따라 차별화하기로 했다....",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "정부가 대미 투자 3대 프로젝트의 추진 속도를 사업성·위험도에 따라 차별화하기로 했으나 수익성은 여전히 불투명",
+     "impact": "대미 투자 프로젝트의 불확실성이 지속되면 관련주·환율에 변동성 요인",
+     "affected": "대미 투자 관련 대기업(원전·반도체 등), 원/달러 환율"
+    }
    },
    {
     "id": "b931128dec",
@@ -1182,7 +1086,12 @@
     "published_iso": "2026-09-22T16:11:28+09:00",
     "sort_key": 1790061088.0,
     "excerpt": "(서울=연합뉴스) 한주홍 기자 = 쿠팡이츠가 매장의 배달 가능 범위를 반경 1㎞ 이내로 제한할 경우 제한 사유를 알리도록 하는 등 관련 기준을 ...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "쿠팡이츠가 배달 가능 범위를 1㎞로 제한할 경우 그 사유를 통지하도록 하는 기준을 다음 달부터 시행",
+     "impact": "플랫폼 규제 강화 흐름 속 운영 방식 변화, 직접적 주가 충격은 제한적",
+     "affected": "쿠팡(CPNG) 배달 사업 운영 이슈"
+    }
    },
    {
     "id": "019869530c",
@@ -1195,7 +1104,12 @@
     "published_iso": "2026-09-22T16:08:50+09:00",
     "sort_key": 1790060930.0,
     "excerpt": "(서울=연합뉴스) 이민영 기자 = 국내 증시가 장 초반 상승하면서 증권주들이 22일 줄줄이 올랐으나, 장중 증시 상승폭이 줄어들면서 덩달아 오름...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "코스피 상승폭이 장중 줄어들면서 국내 증권주들도 함께 오름폭을 반납",
+     "impact": "지수 모멘텀 약화가 증권주 투자심리에도 그대로 반영됨",
+     "affected": "국내 증권주(미래에셋·NH투자증권 등)"
+    }
    },
    {
     "id": "3ad97a49a8",
@@ -1210,7 +1124,12 @@
     "excerpt": "(서울=연합뉴스) 황철환 기자 = 22일 장 초반 한때 3% 넘게 급등했던 삼성전자[005930]가 오름폭을 대부분 반납한 채 정규장 거래를 마...",
     "matched": [
      "000660.KS"
-    ]
+    ],
+    "analysis": {
+     "summary": "삼성전자가 장 초반 3% 넘게 급등했다가 오름폭 대부분을 반납했고, SK하이닉스는 하락 마감",
+     "impact": "반도체 대형주의 장중 변동성이 커, 상승 모멘텀이 아직 확고하지 않음을 시사",
+     "affected": "삼성전자, SK하이닉스, 코스피 반도체 섹터"
+    }
    },
    {
     "id": "1d471588b6",
@@ -1223,7 +1142,12 @@
     "published_iso": "2026-09-22T15:57:27+09:00",
     "sort_key": 1790060247.0,
     "excerpt": "▲ NH투자증권[005940]은 자산보관 전문기업 볼트1932와 퇴직연금 고객 대상 개인금고 서비스 제공을 위한 제휴 협약을 체결했다고 22일 ...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "NH투자증권이 퇴직연금 고객 대상 개인금고 할인 서비스를 제휴 출시",
+     "impact": "시장 영향은 사실상 없음(고객 서비스성 뉴스)",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "f30344da47",
@@ -1236,7 +1160,12 @@
     "published_iso": "2026-09-22T15:54:17+09:00",
     "sort_key": 1790060057.0,
     "excerpt": "(서울=연합뉴스) 김세린 기자 = KT&amp;amp;G[033780]는 22일 이사회를 열고 주주가치 제고를 위해 약 3천600억원 규모의 자사주 2...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "KT&G가 주주가치 제고를 위해 약 3,600억원 규모의 자사주 매입·소각을 결정",
+     "impact": "자사주 소각은 주당가치 희석 방지·주주환원 강화로 통상 주가에 긍정적 요인",
+     "affected": "KT&G 개별주가"
+    }
    },
    {
     "id": "6eec5ca105",
@@ -1249,7 +1178,12 @@
     "published_iso": "2026-09-22T15:08:51+09:00",
     "sort_key": 1790057331.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "한국은행이 최근 원화 강세(환율 하락) 속도가 빠르다는 점은 인정하면서도 이를 되돌림 과정으로 평가",
+     "impact": "급격한 원화 강세에 대한 당국 시각을 보여주는 발언으로 환율 변동성에 참고 포인트",
+     "affected": "원/달러 환율, 수출 관련주"
+    }
    },
    {
     "id": "4439ae71c7",
@@ -1265,7 +1199,12 @@
     "matched": [
      "373220.KS",
      "NVDA"
-    ]
+    ],
+    "analysis": {
+     "summary": "LG에너지솔루션이 전 세계 배터리 회사 중 유일하게 엔비디아와 협력관계를 맺음",
+     "impact": "AI 인프라·데이터센터向 배터리 수요와 연결된 협력으로 긍정적 모멘텀 가능",
+     "affected": "LG에너지솔루션 주가, 이차전지 업종"
+    }
    },
    {
     "id": "98ae572293",
@@ -1278,7 +1217,12 @@
     "published_iso": "2026-09-22T15:01:06+09:00",
     "sort_key": 1790056866.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "한국의 흔한 문구점 브랜드가 일본에서 큰 인기를 끌며 사업 확장에 성공",
+     "impact": "개별 소비재 브랜드의 해외 진출 성공 사례, 지수 전체 영향은 제한적",
+     "affected": "해당 브랜드·국내 소비재 프랜차이즈 관련주 심리"
+    }
    },
    {
     "id": "82e4aa17ba",
@@ -1291,7 +1235,12 @@
     "published_iso": "2026-09-22T14:45:01+09:00",
     "sort_key": 1790055901.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "폐모터에서 희토류를 재활용해 연간 15톤을 확보하는 사업이 주목받음",
+     "impact": "희토류 공급망 다변화 이슈와 맞물려 관련 재활용·소재 기업에 긍정적 신호",
+     "affected": "희토류 재활용·2차전지 소재 관련주"
+    }
    },
    {
     "id": "5ca3a0a47d",
@@ -1304,7 +1253,12 @@
     "published_iso": "2026-09-22T14:43:49+09:00",
     "sort_key": 1790055829.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "과거 배달의민족과 경쟁에서 밀렸던 우버가 이번엔 배민 인수를 추진 중",
+     "impact": "국내 배달 플랫폼 시장 재편 가능성으로 업계 경쟁구도에 큰 변화 요인",
+     "affected": "배달의민족(우아한형제들), 국내 배달 플랫폼 업종"
+    }
    },
    {
     "id": "b1d3349386",
@@ -1317,7 +1271,12 @@
     "published_iso": "2026-09-22T14:33:20+09:00",
     "sort_key": 1790055200.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "월가의 유명 투자자 스탠리 드러켄밀러가 투자처 물색을 위해 원익IPS를 방문",
+     "impact": "글로벌 대형 투자자의 관심이 부각되면 단기 수급 모멘텀으로 작용할 수 있음",
+     "affected": "원익IPS 개별주가, 반도체 장비 업종 관심"
+    }
    },
    {
     "id": "715521bd50",
@@ -1330,7 +1289,12 @@
     "published_iso": "2026-09-22T14:17:55+09:00",
     "sort_key": 1790054275.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "면도기 업체 도루코가 새 CI로 레드닷 디자인 본상을 수상",
+     "impact": "브랜드 이미지 개선 요인이나 직접적 주가 영향은 제한적",
+     "affected": "도루코 브랜드 이미지"
+    }
    },
    {
     "id": "b0ce5da90c",
@@ -1343,7 +1307,12 @@
     "published_iso": "2026-09-22T14:05:22+09:00",
     "sort_key": 1790053522.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "우버의 배달의민족 인수가 본격화되며 공정거래위원회 기업결합 사전심사가 시작됨",
+     "impact": "인수 성사 여부와 규제 심사 결과에 따라 국내 배달 플랫폼 시장 구도가 크게 바뀔 수 있음",
+     "affected": "배달의민족(우아한형제들), 국내 배달 플랫폼 경쟁구도"
+    }
    }
   ],
   "해외 경제언론": [
@@ -1358,7 +1327,12 @@
     "published_iso": "2026-09-22T16:07:46+09:00",
     "sort_key": 1790060866.0,
     "excerpt": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "8월 영국 정부 차입이 예상보다 크게 늘며 예산안을 앞두고 재무장관에 압박이 커짐",
+     "impact": "영국 재정건전성 우려가 커지면 파운드화·영국 국채에 부담 요인",
+     "affected": "파운드화, 영국 국채"
+    }
    },
    {
     "id": "973c2799c0",
@@ -1371,7 +1345,12 @@
     "published_iso": "2026-09-22T11:41:10+09:00",
     "sort_key": 1790044870.0,
     "excerpt": "Very little is known about which Chinese business executives, if any, are expected to attend.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "트럼프-시진핑 만찬에 참석할 것으로 알려진 인사들을 정리한 기사",
+     "impact": "시장 영향은 제한적, 정상회담 세부 동향 참고용",
+     "affected": "해당 없음(제한적)"
+    }
    },
    {
     "id": "5501188365",
@@ -1384,7 +1363,12 @@
     "published_iso": "2026-09-22T11:00:06+09:00",
     "sort_key": 1790042406.0,
     "excerpt": "Manufacturers are struggling with constrained supplies as U.S. and Chinese officials negotiate over export restrictions with consequences for global industry.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "중국의 희토류 수출 통제가 지속되면서 트럼프-시진핑 회담에서 핵심 쟁점으로 부각됨",
+     "impact": "공급 제약이 이어지면 관련 제조업 원가 부담, 협상 결과에 따라 변동성 확대 가능",
+     "affected": "희토류 의존 제조업(전기차·반도체 등), 미중 무역 민감주"
+    }
    },
    {
     "id": "421d58a455",
@@ -1397,7 +1381,12 @@
     "published_iso": "2026-09-22T10:36:54+09:00",
     "sort_key": 1790041014.0,
     "excerpt": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "케이블 절단으로 지연됐던 미국 주요 공항 항공편 운항이 복구되어 정상화됨",
+     "impact": "일시적 이슈가 해소되어 시장 영향은 이미 제한적이었던 수준에서 소멸",
+     "affected": "해당 없음(해소됨)"
+    }
    },
    {
     "id": "080c6c5640",
@@ -1410,7 +1399,12 @@
     "published_iso": "2026-09-22T10:30:01+09:00",
     "sort_key": 1790040601.0,
     "excerpt": "JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "JP모건 CEO 제이미 다이먼이 내년 하이퍼스케일러들의 AI 투자 규모가 1조 달러에 달할 수 있다고 발언",
+     "impact": "AI 인프라 투자 확대 전망이 재확인되며 AI 관련주 투자심리에 우호적일 수 있음",
+     "affected": "엔비디아 등 AI 반도체·인프라 관련주, 국내 HBM·메모리 관련주"
+    }
    },
    {
     "id": "136f92420c",
@@ -1423,7 +1417,12 @@
     "published_iso": "2026-09-22T10:03:49+09:00",
     "sort_key": 1790039029.0,
     "excerpt": "Beyond warm meetings between their leaders, the countries are engaging in tit-for-tat measures that call into question the stability of their arrangement.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "트럼프와 시진핑이 정상회담을 가졌으나 양국은 여전히 상호 견제성 조치를 주고받는 불안정한 무역 휴전 상태",
+     "impact": "관계 안정 기대와 불확실성이 공존해 위험자산 심리 변동성 확대 가능",
+     "affected": "반도체·수출주, 미중 무역 민감주, 코스피·나스닥 전반 투자심리"
+    }
    },
    {
     "id": "554628cc9c",
@@ -1436,7 +1435,12 @@
     "published_iso": "2026-09-22T08:50:09+09:00",
     "sort_key": 1790034609.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "특정 이슈에 대한 실시간 업데이트 모음(제목만으로는 구체적 내용 파악 어려움)",
+     "impact": "판단 불가",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "6d900a4818",
@@ -1449,7 +1453,12 @@
     "published_iso": "2026-09-22T08:01:26+09:00",
     "sort_key": 1790031686.0,
     "excerpt": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "은퇴자들이 자녀 상속분 대신 여행 등에 돈을 쓰는 소비 트렌드를 다룬 기사",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "183f1681dd",
@@ -1462,7 +1471,12 @@
     "published_iso": "2026-09-22T08:01:18+09:00",
     "sort_key": 1790031678.0,
     "excerpt": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "영국에서 수의사 처방료 상한 등 규정 변경이 시행됨",
+     "impact": "국내 시장과 직접 관련 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "54c32db6d9",
@@ -1475,7 +1489,12 @@
     "published_iso": "2026-09-22T07:04:39+09:00",
     "sort_key": 1790028279.0,
     "excerpt": "By resolving a lawsuit filed by a group of states, the media mogul David Ellison removed the last major hurdle he faced in buying Warner Bros. Discovery.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "패러마운트가 주정부들과의 소송을 해결하면서 워너브러더스 디스커버리 인수(약 1,100억 달러)의 마지막 걸림돌을 제거함",
+     "impact": "대형 미디어 M&A가 실제로 성사될 가능성이 높아진 신호",
+     "affected": "미디어·엔터테인먼트 관련주(파라마운트, 워너브러더스 디스커버리 등)"
+    }
    },
    {
     "id": "7fe04fd00a",
@@ -1488,7 +1507,12 @@
     "published_iso": "2026-09-22T06:56:00+09:00",
     "sort_key": 1790027760.0,
     "excerpt": "The looming ownership of the network by David Ellison has caused anxiety in its newsroom for months.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "데이비드 엘리슨의 CNN 인수를 앞두고 편집 감독위원회를 신설하기로 함",
+     "impact": "미디어 지배구조 변화 이슈, 직접적 시장 충격은 제한적",
+     "affected": "미디어주 심리에 소폭(워너브러더스 디스커버리 관련)"
+    }
    },
    {
     "id": "5c613a7596",
@@ -1501,7 +1525,12 @@
     "published_iso": "2026-09-22T06:34:32+09:00",
     "sort_key": 1790026472.0,
     "excerpt": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "패러마운트-워너브러더스 1,100억 달러 합병을 가로막던 미국 주정부 소송이 합의로 해결됨(연 30편 영화 제작 조건 포함)",
+     "impact": "대형 미디어 M&A 성사 가능성 확대",
+     "affected": "미디어·엔터테인먼트 관련주"
+    }
    },
    {
     "id": "0c8479798e",
@@ -1514,7 +1543,12 @@
     "published_iso": "2026-09-22T05:37:58+09:00",
     "sort_key": 1790023078.0,
     "excerpt": "By barring CNN, the White House has thrown a staple of TV news coverage into disarray.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "백악관이 CNN을 언론 풀단에서 배제한 배경을 설명하는 해설 기사",
+     "impact": "시장 영향은 제한적, 언론 자유 관련 정치 리스크로만 남을 가능성",
+     "affected": "미디어주 심리에 소폭"
+    }
    },
    {
     "id": "e895a98a0b",
@@ -1527,7 +1561,12 @@
     "published_iso": "2026-09-22T05:21:18+09:00",
     "sort_key": 1790022078.0,
     "excerpt": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "영국 항공관제 시스템에 두 번째 장애가 발생해 항공편 차질이 확대되며 항공사들이 비판",
+     "impact": "단기 운항 차질로 항공사 실적에 부담 요인",
+     "affected": "유럽 항공사 관련주"
+    }
    },
    {
     "id": "77bc309a41",
@@ -1540,7 +1579,12 @@
     "published_iso": "2026-09-22T05:04:39+09:00",
     "sort_key": 1790021079.0,
     "excerpt": "Several companies tied to the data center industry have delayed their initial public offerings amid the increasing public backlash to these energy guzzling facilities.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "데이터센터 관련 기업들이 에너지 소비 논란 속에 IPO를 연기하며 월가의 회의론이 커지고 있음",
+     "impact": "AI 데이터센터 투자 붐에 대한 과열 우려가 부각되면 관련주 밸류에이션에 부담 요인이 될 수 있음",
+     "affected": "AI 인프라·데이터센터 관련주, 엔비디아 등 AI 밸류체인 심리"
+    }
    },
    {
     "id": "48b9c9063d",
@@ -1553,20 +1597,12 @@
     "published_iso": "2026-09-22T01:39:01+09:00",
     "sort_key": 1790008741.0,
     "excerpt": "The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.",
-    "matched": []
-   },
-   {
-    "id": "35b003da4f",
-    "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-    "url": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
-    "source": "CNBC Finance",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "09/22 00:04",
-    "published_iso": "2026-09-22T00:04:04+09:00",
-    "sort_key": 1790003044.0,
-    "excerpt": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "반복되는 영국 항공관제 장애가 개별 사고인지 구조적 문제인지 우려하는 분석",
+     "impact": "항공 인프라 신뢰도 우려가 커지면 관련 운영에 부담",
+     "affected": "유럽 항공·공항 운영 관련주"
+    }
    },
    {
     "id": "43b79c1268",
@@ -1579,33 +1615,12 @@
     "published_iso": "2026-09-21T21:01:03+09:00",
     "sort_key": 1789992063.0,
     "excerpt": "Artificial intelligence and more are expected to be big issues at this week’s summit between President Trump and Xi Jinping, China’s top leader.",
-    "matched": []
-   },
-   {
-    "id": "6c68de0de2",
-    "title": "What are my rights if my flight is cancelled or delayed?",
-    "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "09/21 19:28",
-    "published_iso": "2026-09-21T19:28:17+09:00",
-    "sort_key": 1789986497.0,
-    "excerpt": "Flights are affected again owing to air traffic control problems, so what are your rights if you're affected?",
-    "matched": []
-   },
-   {
-    "id": "c7573a46b5",
-    "title": "Why Japan’s markets flipped the usual script after central bank rate hike",
-    "url": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
-    "source": "CNBC Economy",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "09/21 10:02",
-    "published_iso": "2026-09-21T10:02:25+09:00",
-    "sort_key": 1789952545.0,
-    "excerpt": "The yen weakened past 157 against the dollar, the yield on the 10-year Japanese Government Bond slipped, while the Nikkei 225 gained 1.5%.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "베선트와 중국이 AI 관련 논의에서 진전을 이뤘다고 밝혔으나 본격적인 난관은 아직 남아있음",
+     "impact": "미중 AI 협력 기대감이 있지만 불확실성도 공존, 단기 변동성 요인",
+     "affected": "반도체·AI 수출주, 미중 무역 민감주"
+    }
    }
   ],
   "중앙은행·국제기구": [
@@ -1620,33 +1635,12 @@
     "published_iso": "2026-09-22T14:00:00+09:00",
     "sort_key": 1790053200.0,
     "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "1517bc7279",
-    "title": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes",
-    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html",
-    "source": "유럽중앙은행(ECB)",
-    "group": "중앙은행·국제기구",
-    "lang": "en",
-    "published_kst": "09/21 19:00",
-    "published_iso": "2026-09-21T19:00:00+09:00",
-    "sort_key": 1789984800.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "7e4fe81db1",
-    "title": "Eurosystem brings central bank money to tokenised finance",
-    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
-    "source": "유럽중앙은행(ECB)",
-    "group": "중앙은행·국제기구",
-    "lang": "en",
-    "published_kst": "09/21 19:00",
-    "published_iso": "2026-09-21T19:00:00+09:00",
-    "sort_key": 1789984800.0,
-    "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "ECB 수석 이코노미스트 필립 레인이 르탕(Le Temps)과 진행한 인터뷰",
+     "impact": "구체적 내용에 따라 유로존 금리 전망에 참고가 될 수 있으나 제목만으로는 방향성 판단 어려움",
+     "affected": "유로화, 유럽 금리 관련 자산"
+    }
    }
   ],
   "국내 정책당국": [
@@ -1661,33 +1655,12 @@
     "published_iso": "2026-09-22T09:00:00+09:00",
     "sort_key": 1790035200.0,
     "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "22ab9aa0af",
-    "title": "[보도참고] 2026년 추석 차례상 비용 하락",
-    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079410",
-    "source": "재정경제부 보도자료",
-    "group": "국내 정책당국",
-    "lang": "ko",
-    "published_kst": "09/22 01:42",
-    "published_iso": "2026-09-22T01:42:18+09:00",
-    "sort_key": 1790008938.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "08b3c9bd62",
-    "title": "전략경제자문단 반도체 현장방문",
-    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079400",
-    "source": "재정경제부 보도자료",
-    "group": "국내 정책당국",
-    "lang": "ko",
-    "published_kst": "09/21 09:00",
-    "published_iso": "2026-09-21T09:00:00+09:00",
-    "sort_key": 1789948800.0,
-    "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "정부가 2026년 제4차 조달정책심의위원회를 개최해 조달 관련 정책을 논의",
+     "impact": "시장 영향은 사실상 없음(정책 회의성 뉴스)",
+     "affected": "해당 없음"
+    }
    }
   ]
  },
@@ -1696,7 +1669,7 @@
   "indices_total": 8,
   "stocks_ok": 9,
   "stocks_total": 9,
-  "news": 42
+  "news": 35
  },
  "errors": [
   {

@@ -15,6 +15,7 @@
     </div>
     <div class="navlinks">
       <a href="index.html">오늘</a>
+      <a href="important.html">핵심 뉴스 모음</a>
       <button class="btn" id="themebtn" type="button">◐</button>
     </div>
   </div>
@@ -23,7 +24,7 @@
       {%- for p in posts %}
       <li><a href="posts/{{ p.date }}.html">
         <span class="d">{{ p.date }} ({{ p.weekday }})</span>
-        <span class="s">지수 {{ p.counts.indices_ok }}/{{ p.counts.indices_total }} · 뉴스 {{ p.counts.news }}건</span>
+        <span class="s">지수 {{ p.counts.indices_ok }}/{{ p.counts.indices_total }} · 뉴스 {{ p.counts.news }}건{% if p.top %} · 핵심 {{ p.top }}건{% endif %}</span>
       </a></li>
       {%- endfor %}
     </ul>

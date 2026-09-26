@@ -16,6 +16,7 @@
       <div class="sub">{{ d.site.subtitle | default("") }}</div>
     </div>
     <div class="navlinks">
+      <a href="{{ root }}important.html">핵심 뉴스 모음</a>
       <a href="{{ root }}archive.html">지난 글</a>
       <button class="btn" id="themebtn" type="button">◐</button>
     </div>
@@ -26,7 +27,8 @@
     <span>갱신 {{ d.generated_at }} KST</span>
     <span>지수 {{ d.counts.indices_ok }}/{{ d.counts.indices_total }}</span>
     <span>종목 {{ d.counts.stocks_ok }}/{{ d.counts.stocks_total }}</span>
-    <span>뉴스 {{ d.counts.news }}건</span>
+    <span>새 뉴스 {{ d.counts.news }}건</span>
+    {%- if d.top_news %}<span>핵심 {{ d.top_news|length }}건</span>{% endif %}
   </div>
 
   <!-- 1. 지수 -->
@@ -48,6 +50,17 @@
       {%- endfor %}
     </div>
   </section>
+
+  <!-- 1-2. 오늘의 핵심 뉴스 -->
+  {%- if d.top_news %}
+  <section>
+    <div class="shead"><h2>오늘의 핵심 뉴스</h2>
+      <span class="note">시장 전체 방향에 영향 줄 만한 기사만 골라 모음 · <a href="{{ root }}important.html">전체 모음 보기</a></span></div>
+    {%- for n in d.top_news %}
+    {% include "keycard.html.j2" %}
+    {%- endfor %}
+  </section>
+  {%- endif %}
 
   <!-- 2. 관심종목 + 연결된 뉴스 -->
   <section>
@@ -80,7 +93,7 @@
   <!-- 3. 뉴스 -->
   <section>
     <div class="shead"><h2>경제 뉴스</h2>
-      <span class="note">출처별 · 최신순 · 제목 클릭 시 원문</span></div>
+      <span class="note">최근 3일 페이지에 이미 실린 기사는 빼고 새 기사만 · 출처별 최신순 · ★ 핵심 뉴스</span></div>
     {%- for gname, items in d.news_groups.items() %}
     <div class="group">
       <div class="gname"><span class="dot"></span>{{ gname }} <span style="color:var(--muted);font-weight:400">({{ items|length }})</span></div>
@@ -89,7 +102,7 @@
         <li>
           <div class="nhead">
             <span class="t">{{ n.published_kst or '—' }}</span>
-            <span><a href="{{ n.url }}" target="_blank" rel="noopener">{{ n.title }}</a><span class="tag">{{ n.source }}</span></span>
+            <span>{% if n.analysis and n.analysis.important %}<span class="star" title="핵심 뉴스">★</span>{% endif %}<a href="{{ n.url }}" target="_blank" rel="noopener">{{ n.title }}</a><span class="tag">{{ n.source }}</span></span>
           </div>
           {%- if n.analysis %}
           <div class="analysis">

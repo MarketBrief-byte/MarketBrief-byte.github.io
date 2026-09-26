@@ -44,7 +44,9 @@ h1,h2,h3{margin:0;font-weight:650;letter-spacing:-.01em}
 .btn{background:var(--surface);color:var(--ink2);border:1px solid var(--border);
   border-radius:8px;padding:6px 10px;font-size:12px;cursor:pointer;font-family:inherit}
 .btn:hover{border-color:var(--muted)}
-.navlinks{display:flex;gap:8px}
+.navlinks{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:6px}
+.navlinks a,.navlinks .btn{white-space:nowrap}
+@media(max-width:480px){.top{flex-direction:column}.navlinks{justify-content:flex-start}}
 .navlinks a{text-decoration:none;font-size:12px;color:var(--ink2);
   border:1px solid var(--border);border-radius:8px;padding:6px 10px;background:var(--surface)}
 
@@ -107,6 +109,25 @@ section{margin-top:30px}
   border:1px solid var(--accent);border-radius:4px;padding:0 4px;
   margin-right:6px;white-space:nowrap}
 
+/* ── 핵심 뉴스 ───────────────────────────── */
+.keycard{background:var(--surface);border:1px solid var(--border);border-left:3px solid var(--up);
+  border-radius:10px;padding:11px 13px;margin-bottom:8px;display:flex;flex-direction:column;gap:3px}
+.khead{font-size:14px;font-weight:600;line-height:1.45}
+.khead a{text-decoration:none}
+.khead a:hover{text-decoration:underline}
+.ktag{font-size:10.5px;font-weight:700;color:var(--up);border:1px solid var(--up);
+  border-radius:4px;padding:0 5px;margin-right:7px;white-space:nowrap;vertical-align:1px}
+.ksrc{color:var(--muted);font-size:11.5px;margin-bottom:3px}
+.alabel.why{color:var(--up);border-color:var(--up)}
+.star{color:var(--up);margin-right:4px}
+.shead .note a{color:var(--accent)}
+.criteria{background:var(--surface);border:1px solid var(--border);border-radius:10px;
+  padding:10px 13px;margin-top:16px;font-size:12.5px;color:var(--ink2)}
+.criteria summary{cursor:pointer;font-weight:600;color:var(--ink)}
+.criteria ol{padding-left:18px;margin:8px 0}
+.criteria li{margin-bottom:4px}
+.criteria p{margin:6px 0 0}
+
 /* ── 꼬리말 ───────────────────────────────── */
 footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--grid);
   color:var(--muted);font-size:11.5px;line-height:1.7}
@@ -133,28 +154,29 @@ footer b{color:var(--ink2);font-weight:600}
     </div>
     <div class="navlinks">
       <a href="index.html">오늘</a>
+      <a href="important.html">핵심 뉴스 모음</a>
       <button class="btn" id="themebtn" type="button">◐</button>
     </div>
   </div>
   <section>
     <ul class="arch">      <li><a href="posts/2026-09-26.html">
         <span class="d">2026-09-26 (토)</span>
-        <span class="s">지수 8/8 · 뉴스 52건</span>
+        <span class="s">지수 8/8 · 뉴스 32건 · 핵심 6건</span>
       </a></li>      <li><a href="posts/2026-09-25.html">
         <span class="d">2026-09-25 (금)</span>
-        <span class="s">지수 8/8 · 뉴스 51건</span>
+        <span class="s">지수 8/8 · 뉴스 41건 · 핵심 4건</span>
       </a></li>      <li><a href="posts/2026-09-24.html">
         <span class="d">2026-09-24 (목)</span>
-        <span class="s">지수 8/8 · 뉴스 53건</span>
+        <span class="s">지수 8/8 · 뉴스 48건 · 핵심 4건</span>
       </a></li>      <li><a href="posts/2026-09-23.html">
         <span class="d">2026-09-23 (수)</span>
-        <span class="s">지수 8/8 · 뉴스 46건</span>
+        <span class="s">지수 8/8 · 뉴스 38건 · 핵심 4건</span>
       </a></li>      <li><a href="posts/2026-09-22.html">
         <span class="d">2026-09-22 (화)</span>
-        <span class="s">지수 8/8 · 뉴스 42건</span>
+        <span class="s">지수 8/8 · 뉴스 35건 · 핵심 5건</span>
       </a></li>      <li><a href="posts/2026-09-21.html">
         <span class="d">2026-09-21 (월)</span>
-        <span class="s">지수 8/8 · 뉴스 43건</span>
+        <span class="s">지수 8/8 · 뉴스 43건 · 핵심 4건</span>
       </a></li>    </ul>
   </section>
 </div>

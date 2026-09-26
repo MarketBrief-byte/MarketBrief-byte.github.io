@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="ko" data-theme="">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>핵심 뉴스 모음 · {{ site.title | default("오늘의 경제 한 장") }}</title>
+<meta name="description" content="날짜별로 시장에 영향이 큰 경제 뉴스만 모아 둔 페이지">
+<style>{{ css }}</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div>
+      <h1 class="title">핵심 뉴스 모음</h1>
+      <div class="sub">매일 새로 들어온 뉴스 중 시장에 영향이 큰 것만 모았습니다 · {{ total }}건</div>
+    </div>
+    <div class="navlinks">
+      <a href="index.html">오늘</a>
+      <a href="archive.html">지난 글</a>
+      <button class="btn" id="themebtn" type="button">◐</button>
+    </div>
+  </div>
+
+  <details class="criteria">
+    <summary>어떤 기준으로 골랐나요?</summary>
+    <ol>
+      <li><b>거시경제</b> — 연준·한은의 결정과 발언, CPI·PCE·고용·소비심리 같은 핵심 지표, 국채금리·환율의 큰 움직임. 시장 전체의 방향을 바꾸는 변수입니다.</li>
+      <li><b>정책·무역</b> — 미중 협상, 관세, 반도체 수출규제, 증시 수급을 바꾸는 금융 규제처럼 대형 업종이나 시장 전체에 직접 닿는 정책.</li>
+      <li><b>산업·실적</b> — 시가총액 큰 기업의 실적·투자·공급 차질, 금융 시스템 리스크(대규모 청산, 부채 문제 등).</li>
+      <li><b>관심종목</b> — 페이지 관심종목이나 모의 자동매매가 보유·감시 중인 종목에 직접 관련된 기사.</li>
+    </ol>
+    <p>생활·사회·스포츠 기사, 한 회사만의 작은 일, 이미 고른 기사와 같은 내용의 반복 기사는 뺍니다. 하루 3~7건 정도로 추립니다. 판단은 Claude(AI)가 기사 제목과 RSS 요약만 보고 한 것이라 참고용입니다.</p>
+  </details>
+
+  {%- for day in days %}
+  <section>
+    <div class="shead"><h2>{{ day.date }} ({{ day.weekday }})</h2>
+      <span class="note">{{ day.news|length }}건 · <a href="posts/{{ day.date }}.html">그날 페이지</a></span></div>
+    {%- for n in day.news %}
+    {% include "keycard.html.j2" %}
+    {%- endfor %}
+  </section>
+  {%- endfor %}
+  {%- if not days %}
+  <section><div class="nonews">아직 모인 핵심 뉴스가 없습니다.</div></section>
+  {%- endif %}
+
+  <footer>
+    해설과 중요도 판단은 Claude(AI)가 작성한 참고용 해석이며 투자 조언이 아닙니다. 원문 저작권은 각 매체에 있습니다.
+  </footer>
+</div>
+<script>
+(function(){
+  var k='econ-theme', b=document.getElementById('themebtn');
+  try{ var v=localStorage.getItem(k); if(v){ document.documentElement.dataset.theme=v; } }catch(e){}
+  b && b.addEventListener('click', function(){
+    var cur=document.documentElement.dataset.theme;
+    var isDark = cur ? cur==='dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+    document.documentElement.dataset.theme = isDark ? 'light' : 'dark';
+    try{ localStorage.setItem(k, document.documentElement.dataset.theme); }catch(e){}
+  });
+})();
+</script>
+</body>
+</html>

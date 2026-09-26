@@ -1,0 +1,13 @@
+<div class="keycard">
+  <div class="khead">
+    {%- if n.analysis.important_tag %}<span class="ktag">{{ n.analysis.important_tag }}</span>{% endif %}
+    <a href="{{ n.url }}" target="_blank" rel="noopener">{{ n.title }}</a>
+  </div>
+  <div class="ksrc">{{ n.source }}{% if n.published_kst %} · {{ n.published_kst }}{% endif %}</div>
+  {%- if n.analysis.why_important %}
+  <div class="arow"><span class="alabel why">왜 중요</span>{{ n.analysis.why_important }}</div>
+  {%- endif %}
+  <div class="arow"><span class="alabel">요약</span>{{ n.analysis.summary }}</div>
+  <div class="arow"><span class="alabel">영향</span>{{ n.analysis.impact }}</div>
+  <div class="arow"><span class="alabel">관련</span>{{ n.analysis.affected }}</div>
+</div>
