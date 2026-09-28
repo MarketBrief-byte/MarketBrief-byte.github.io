@@ -1,6 +1,6 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28 07:22",
+ "generated_at": "2026-09-28 16:26",
  "weekday": "월",
  "site": {
   "title": "오늘의 경제 한 장",
@@ -17,13 +17,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 7080.92,
-   "prev_close": 6717.97,
-   "change": 362.95,
-   "change_pct": 5.4,
+   "price": 6889.74,
+   "prev_close": 6715.41,
+   "change": 174.33,
+   "change_pct": 2.6,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1790161540,
+   "asof_epoch": 1790577160,
    "asof_date": null
   },
   {
@@ -33,13 +33,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 844.48,
-   "prev_close": 815.98,
-   "change": 28.5,
-   "change_pct": 3.49,
+   "price": 846.58,
+   "prev_close": 822.18,
+   "change": 24.4,
+   "change_pct": 2.97,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1790161540,
+   "asof_epoch": 1790577160,
    "asof_date": null
   },
   {
@@ -81,13 +81,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 1354.85,
-   "prev_close": 1384.86,
-   "change": -30.01,
-   "change_pct": -2.17,
+   "price": 1361.78,
+   "prev_close": 1373.68,
+   "change": -11.9,
+   "change_pct": -0.87,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1790547680,
+   "asof_epoch": 1790580394,
    "asof_date": null
   },
   {
@@ -113,13 +113,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 93.18,
-   "prev_close": 94.59,
-   "change": -1.41,
-   "change_pct": -1.49,
+   "price": 94.34,
+   "prev_close": 92.16,
+   "change": 2.18,
+   "change_pct": 2.37,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1790547137,
+   "asof_epoch": 1790579789,
    "asof_date": null
   },
   {
@@ -129,13 +129,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 4309.3,
-   "prev_close": 4376.4,
-   "change": -67.1,
-   "change_pct": -1.53,
+   "price": 4196.6,
+   "prev_close": 4318.4,
+   "change": -121.8,
+   "change_pct": -2.82,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1790547135,
+   "asof_epoch": 1790579791,
    "asof_date": null
   }
  ],
@@ -151,13 +151,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 285500.0,
-   "prev_close": 253500.0,
-   "change": 32000.0,
-   "change_pct": 12.62,
+   "price": 270000.0,
+   "prev_close": 252500.0,
+   "change": 17500.0,
+   "change_pct": 6.93,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1790145006,
+   "asof_epoch": 1790577004,
    "asof_date": null,
    "news": []
   },
@@ -173,13 +173,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 1862000.0,
-   "prev_close": 1759000.0,
-   "change": 103000.0,
-   "change_pct": 5.86,
+   "price": 1768000.0,
+   "prev_close": 1745000.0,
+   "change": 23000.0,
+   "change_pct": 1.32,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1790145008,
+   "asof_epoch": 1790577006,
    "asof_date": null,
    "news": []
   },
@@ -194,13 +194,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 353500.0,
-   "prev_close": 362000.0,
+   "price": 354500.0,
+   "prev_close": 363000.0,
    "change": -8500.0,
-   "change_pct": -2.35,
+   "change_pct": -2.34,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1790145024,
+   "asof_epoch": 1790577013,
    "asof_date": null,
    "news": []
   },
@@ -216,13 +216,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 351500.0,
-   "prev_close": 367000.0,
-   "change": -15500.0,
-   "change_pct": -4.22,
+   "price": 364000.0,
+   "prev_close": 365000.0,
+   "change": -1000.0,
+   "change_pct": -0.27,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1790145018,
+   "asof_epoch": 1790577023,
    "asof_date": null,
    "news": []
   },
@@ -236,13 +236,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 194700.0,
-   "prev_close": 201500.0,
-   "change": -6800.0,
-   "change_pct": -3.37,
+   "price": 197700.0,
+   "prev_close": 199000.0,
+   "change": -1300.0,
+   "change_pct": -0.65,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1790145018,
+   "asof_epoch": 1790577012,
    "asof_date": null,
    "news": []
   },
@@ -265,7 +265,15 @@
    "source": "yahoo",
    "asof_epoch": 1790366400,
    "asof_date": null,
-   "news": []
+   "news": [
+    {
+     "id": "11a89ac969",
+     "title": "[특징주] LG전자, 엔비디아 공식 파트너 선정에 상승 마감(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20260928053251008",
+     "source": "연합뉴스 경제",
+     "published_kst": "09/28 15:52"
+    }
+   ]
   },
   {
    "name": "애플",
@@ -307,7 +315,15 @@
    "source": "yahoo",
    "asof_epoch": 1790366400,
    "asof_date": null,
-   "news": []
+   "news": [
+    {
+     "id": "000c48de78",
+     "title": "\"물량 못 대서 라인 또 늘린다\"…구글·테슬라 줄 서는 LS전선 구미공장",
+     "url": "https://www.hankyung.com/article/202609289575i",
+     "source": "한국경제",
+     "published_kst": "09/28 15:08"
+    }
+   ]
   },
   {
    "name": "마이크로소프트",
@@ -332,6 +348,348 @@
   }
  ],
  "news": [
+  {
+   "id": "46fe69a72f",
+   "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
+   "url": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
+   "source": "CNBC Finance",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "09/28 16:22",
+   "published_iso": "2026-09-28T16:22:06+09:00",
+   "sort_key": 1790580126.0,
+   "excerpt": "U.S. President Donald Trump and Chinese President Xi Jinping met in Washington, D.C., last week and signaled plans to meet two more times this year.",
+   "matched": []
+  },
+  {
+   "id": "43c798d8de",
+   "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
+   "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "09/28 16:19",
+   "published_iso": "2026-09-28T16:19:48+09:00",
+   "sort_key": 1790579988.0,
+   "excerpt": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
+   "matched": []
+  },
+  {
+   "id": "c0de5fa820",
+   "title": "연휴서 돌아온 코스피, 美금리 악재에 2.7%↓…다시 '7천피' 밑으로(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20260928124200008",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "09/28 16:19",
+   "published_iso": "2026-09-28T16:19:35+09:00",
+   "sort_key": 1790579975.0,
+   "excerpt": "(서울=연합뉴스) 김유아 기자 = 추석 연휴를 마치고 재개된 코스피가 28일 2%대의 하락률을 기록했다.",
+   "matched": []
+  },
+  {
+   "id": "16b579b682",
+   "title": "[동포의 창] 내년 세계한상대회 개최지 경주로 결정",
+   "url": "https://www.yna.co.kr/view/AKR20260928127900371",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "09/28 16:19",
+   "published_iso": "2026-09-28T16:19:14+09:00",
+   "sort_key": 1790579954.0,
+   "excerpt": "(인천=연합뉴스) 강성철 기자 = 내년도 세계한상대회 개최지가 경주시로 결정됐다.",
+   "matched": []
+  },
+  {
+   "id": "00b22d1353",
+   "title": "Why the PM could finally drop the triple lock pension pledge",
+   "url": "https://www.bbc.co.uk/news/articles/c6jdvmy1287yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "09/28 16:18",
+   "published_iso": "2026-09-28T16:18:19+09:00",
+   "sort_key": 1790579899.0,
+   "excerpt": "Andy Burnham said that he would make tough decisions to fund a new national care service.",
+   "matched": []
+  },
+  {
+   "id": "7381e9a419",
+   "title": "추미애 \"신도시 선교통·후입주, 현재 제도로 불가능\"",
+   "url": "https://www.yna.co.kr/view/AKR20260928125200061",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "09/28 16:13",
+   "published_iso": "2026-09-28T16:13:17+09:00",
+   "sort_key": 1790579597.0,
+   "excerpt": "(수원=연합뉴스) 최종호 기자 = 추미애 경기도지사는 신도시 사업에서 교통대책을 먼저 마련한 뒤에 입주를 시작하는 &apos;선교통·후입주&apos;가 현재 상황...",
+   "matched": []
+  },
+  {
+   "id": "8c348235e5",
+   "title": "李대통령 \"亞서 가장 매력적인 시장 만들기 최선\"…최대IR 개막(종합2보)",
+   "url": "https://www.yna.co.kr/view/AKR20260927047752002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "09/28 16:10",
+   "published_iso": "2026-09-28T16:10:08+09:00",
+   "sort_key": 1790579408.0,
+   "excerpt": "(서울=연합뉴스) 배영경 강류나 기자 = 올해 처음 출범하는 국내 최대 자본시장 기업설명(IR) 행사 &apos;코리아 프리미엄 위크(Korea Prem...",
+   "matched": []
+  },
+  {
+   "id": "1df81e61b3",
+   "title": "삼전·닉스, 5%대 급락…외국인·기관, 동반 '팔자'(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20260928034551008",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "09/28 15:57",
+   "published_iso": "2026-09-28T15:57:36+09:00",
+   "sort_key": 1790578656.0,
+   "excerpt": "(서울=연합뉴스) 황철환 기자 = 추석 연휴 이후 첫 거래일인 28일 삼성전자[005930]와 SK하이닉스[000660]가 5% 넘게 급락한 채...",
+   "matched": []
+  },
+  {
+   "id": "e613b3d7e0",
+   "title": "추석 연휴 美국채 금리 급등에…환율 1,360원대 중반으로",
+   "url": "https://www.yna.co.kr/view/AKR20260928120000002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "09/28 15:53",
+   "published_iso": "2026-09-28T15:53:12+09:00",
+   "sort_key": 1790578392.0,
+   "excerpt": "(세종=연합뉴스) 김수현 기자 = 원/달러 환율은 추석 연휴 기간 미국 국채 금리 급등을 반영해 28일 1,360원대로 올라섰다.",
+   "matched": []
+  },
+  {
+   "id": "11a89ac969",
+   "title": "[특징주] LG전자, 엔비디아 공식 파트너 선정에 상승 마감(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20260928053251008",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "09/28 15:52",
+   "published_iso": "2026-09-28T15:52:59+09:00",
+   "sort_key": 1790578379.0,
+   "excerpt": "(서울=연합뉴스) 이민영 기자 = LG전자[066570]가 엔비디아의 공식 파트너로 선정된 가운데 28일 강세를 보였다.",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "2ecd0d7e1d",
+   "title": "ISC \"반도체 테스트소켓 계열사에 297억원 출자\"",
+   "url": "https://www.yna.co.kr/view/AKR20260928120300008",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "09/28 15:51",
+   "published_iso": "2026-09-28T15:51:10+09:00",
+   "sort_key": 1790578270.0,
+   "excerpt": "(서울=연합뉴스) 코스닥 상장사 ISC[095340]는 반도체 테스트소켓 생산 계열사(ISC VINA MANUFACTURING)에 약 297억원...",
+   "matched": []
+  },
+  {
+   "id": "7c570595ba",
+   "title": "불법사금융 피해구제 신청 3분의 2는 '30대 이하 청년'",
+   "url": "https://www.hankyung.com/article/202609289689i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "09/28 15:36",
+   "published_iso": "2026-09-28T15:36:58+09:00",
+   "sort_key": 1790577418.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "aeb7133081",
+   "title": "iM금융, 차기 회장 레이스 막 올랐다…황병우 연임 도전하나",
+   "url": "https://www.hankyung.com/article/202609289552i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "09/28 15:29",
+   "published_iso": "2026-09-28T15:29:41+09:00",
+   "sort_key": 1790576981.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "0b6825415c",
+   "title": "\"외식 몇 번 했을 뿐인데\"…역대급 식비에 서민들 '한숨'",
+   "url": "https://www.hankyung.com/article/202609289559g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "09/28 15:27",
+   "published_iso": "2026-09-28T15:27:37+09:00",
+   "sort_key": 1790576857.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "4da819614e",
+   "title": "[단독] 유럽서 시작된 전기차의 반격…휘발유·경유차보다 더 팔렸다",
+   "url": "https://www.hankyung.com/article/202609289687i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "09/28 15:27",
+   "published_iso": "2026-09-28T15:27:22+09:00",
+   "sort_key": 1790576842.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "fee967fb5b",
+   "title": "\"모든 기업이 디지털자산 사용하게 될 것\" [이스트포인트 : 서울 2026]",
+   "url": "https://www.hankyung.com/article/202609289672i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "09/28 15:19",
+   "published_iso": "2026-09-28T15:19:55+09:00",
+   "sort_key": 1790576395.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "3d91a5fb77",
+   "title": "기관 자금, 디지털자산으로 끌어오려면…\"유동성·위험관리 갖춰야\" [이스트포인트 : 서울 2026]",
+   "url": "https://www.hankyung.com/article/202609289666i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "09/28 15:17",
+   "published_iso": "2026-09-28T15:17:43+09:00",
+   "sort_key": 1790576263.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "000c48de78",
+   "title": "\"물량 못 대서 라인 또 늘린다\"…구글·테슬라 줄 서는 LS전선 구미공장",
+   "url": "https://www.hankyung.com/article/202609289575i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "09/28 15:08",
+   "published_iso": "2026-09-28T15:08:47+09:00",
+   "sort_key": 1790575727.0,
+   "excerpt": "",
+   "matched": [
+    "TSLA"
+   ]
+  },
+  {
+   "id": "5c5cdf58d7",
+   "title": "'최연소 장관' 이소영 \"다른 의견 있으면 바로 말해달라\"",
+   "url": "https://www.hankyung.com/article/202609289551i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "09/28 14:56",
+   "published_iso": "2026-09-28T14:56:02+09:00",
+   "sort_key": 1790574962.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "c7d0849f8b",
+   "title": "Tourism tax needs to be more flexible in Wales, warns expert",
+   "url": "https://www.bbc.co.uk/news/articles/cm4glxn32zypo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "09/28 14:04",
+   "published_iso": "2026-09-28T14:04:54+09:00",
+   "sort_key": 1790571894.0,
+   "excerpt": "Anglesey, Conwy and Gwynedd councils have all put a pause on introducing the nightly tourist tax.",
+   "matched": []
+  },
+  {
+   "id": "8385dd8afc",
+   "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
+   "url": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
+   "source": "CNBC Economy",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "09/28 13:04",
+   "published_iso": "2026-09-28T13:04:16+09:00",
+   "sort_key": 1790568256.0,
+   "excerpt": "Economists expect Beijing to lean harder on stimulus to stabilize corporate profitability, as consolidation accelerates in sectors facing sluggish demand and fierce competition.",
+   "matched": []
+  },
+  {
+   "id": "2666435b20",
+   "title": "Avanti West Coast services to be nationalised from March",
+   "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "09/28 12:05",
+   "published_iso": "2026-09-28T12:05:50+09:00",
+   "sort_key": 1790564750.0,
+   "excerpt": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers.",
+   "matched": []
+  },
+  {
+   "id": "673716a06e",
+   "title": "이형일 부총리, 첫 경제현안간담회 개최",
+   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079450",
+   "source": "재정경제부 보도자료",
+   "group": "국내 정책당국",
+   "lang": "ko",
+   "published_kst": "09/28 09:00",
+   "published_iso": "2026-09-28T09:00:00+09:00",
+   "sort_key": 1790553600.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "14b3b0c6d7",
+   "title": "이형일 부총리, 한국은행 방문 및 신현송 한은총재 면담",
+   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079454",
+   "source": "재정경제부 보도자료",
+   "group": "국내 정책당국",
+   "lang": "ko",
+   "published_kst": "09/28 09:00",
+   "published_iso": "2026-09-28T09:00:00+09:00",
+   "sort_key": 1790553600.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "888caaafff",
+   "title": "You need £17,000 for a first home - here's how to do it",
+   "url": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "09/28 08:20",
+   "published_iso": "2026-09-28T08:20:43+09:00",
+   "sort_key": 1790551243.0,
+   "excerpt": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
+   "matched": []
+  },
+  {
+   "id": "487aece96d",
+   "title": "My hometown shows that high streets have to change or die",
+   "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "09/28 08:05",
+   "published_iso": "2026-09-28T08:05:53+09:00",
+   "sort_key": 1790550353.0,
+   "excerpt": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+   "matched": []
+  },
   {
    "id": "226090fccf",
    "title": "\"나는 차면 욕먹지만 장윤정은\"…도경완도 벌벌 떤 시계 정체",
@@ -847,217 +1205,111 @@
   }
  ],
  "news_groups": {
-  "국내 경제언론": [
-   {
-    "id": "226090fccf",
-    "title": "\"나는 차면 욕먹지만 장윤정은\"…도경완도 벌벌 떤 시계 정체",
-    "url": "https://www.hankyung.com/article/202609288026H",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "09/28 07:14",
-    "published_iso": "2026-09-28T07:14:11+09:00",
-    "sort_key": 1790547251.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "3579209567",
-    "title": "\"장애인고용공단서 성비위·금품 문제…윤리감시기구 작동안해\"",
-    "url": "https://www.yna.co.kr/view/AKR20260925039700001",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "09/28 07:03",
-    "published_iso": "2026-09-28T07:03:01+09:00",
-    "sort_key": 1790546581.0,
-    "excerpt": "(서울=연합뉴스) 김연정 기자 = 장애인의 권익 보호와 고용 확대를 담당하는 한국장애인고용공단 내부에서 최근 3년간 성 비위와 청렴성 문제가 잇...",
-    "matched": []
-   },
-   {
-    "id": "58cac43724",
-    "title": "[아프리카 녹색전환] ④'광물주권' 앞세운 자원국들…한국의 그린 파트너로",
-    "url": "https://www.yna.co.kr/view/AKR20260911059200898",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "09/28 07:00",
-    "published_iso": "2026-09-28T07:00:16+09:00",
-    "sort_key": 1790546416.0,
-    "excerpt": "(서울=연합뉴스) 박세진 기자 = 전 세계적인 녹색 산업 전환 과정에서 핵심 광물이 풍부한 아프리카 국가들이 원광을 헐값에 수출하던 경제구조에서...",
-    "matched": []
-   },
-   {
-    "id": "72efe6d11e",
-    "title": "[아프리카 녹색전환] ②\"소리 없이 바뀐다\"…현지서 본 전기차 혁명",
-    "url": "https://www.yna.co.kr/view/AKR20260923165500099",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "09/28 07:00",
-    "published_iso": "2026-09-28T07:00:07+09:00",
-    "sort_key": 1790546407.0,
-    "excerpt": "(요하네스버그=연합뉴스) 나확진 특파원 = &quot;전기차(EV) 판매량은 매달 증가하고 있습니다. 전기차는 이제 남아공에서도 상당히 좋은 평가를 받는...",
-    "matched": []
-   },
-   {
-    "id": "4ba8406205",
-    "title": "美는 중국 AI칩 막는데…월가는 中테크 172억달러 조달 [김주완의 글로벌머니 X파일]",
-    "url": "https://www.hankyung.com/article/202609277393i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "09/28 07:00",
-    "published_iso": "2026-09-28T07:00:02+09:00",
-    "sort_key": 1790546402.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "61629ff84f",
-    "title": "보험료는 꼬박꼬박 받아가더니…\"계약자에 '5억' 안 줬다\"",
-    "url": "https://www.hankyung.com/article/2026092880047",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "09/28 06:46",
-    "published_iso": "2026-09-28T06:46:02+09:00",
-    "sort_key": 1790545562.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "28e5b3658d",
-    "title": "미국서 '싼타페' 인기 폭발하더니…22년 만에 '깜짝 결과'",
-    "url": "https://www.hankyung.com/article/2026092879917",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "09/28 06:32",
-    "published_iso": "2026-09-28T06:32:23+09:00",
-    "sort_key": 1790544743.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "f2fb8ccf3c",
-    "title": "\"다주택 규제 피하자\"…집합건물 다소유자 7년9개월만에 최저",
-    "url": "https://www.yna.co.kr/view/AKR20260926024500003",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "09/28 06:01",
-    "published_iso": "2026-09-28T06:01:02+09:00",
-    "sort_key": 1790542862.0,
-    "excerpt": "(서울=연합뉴스) 서미숙 기자 = 지난달 전국에 집합건물(아파트, 오피스텔, 연립주택 등)을 2채 이상 보유한 다소유자 비율이 7년 9개월 만에...",
-    "matched": []
-   },
-   {
-    "id": "d9bf1f28d5",
-    "title": "상가 8곳 중 1곳은 비어있다…공실률, 2021년 이후 최고치",
-    "url": "https://www.yna.co.kr/view/AKR20260927038100003",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "09/28 06:01",
-    "published_iso": "2026-09-28T06:01:01+09:00",
-    "sort_key": 1790542861.0,
-    "excerpt": "(서울=연합뉴스) 임기창 기자 = 전국 일반상가 평균 공실률이 13%대를 넘어서고 17개 시·도 중 16곳의 공실률이 5년 전 대비 상승한 것으...",
-    "matched": []
-   },
-   {
-    "id": "0e36e4444c",
-    "title": "단체급식장에 무알코올 맥주 증가세…군부대·구내식당서도 인기",
-    "url": "https://www.yna.co.kr/view/AKR20260927040800030",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "09/28 06:01",
-    "published_iso": "2026-09-28T06:01:00+09:00",
-    "sort_key": 1790542860.0,
-    "excerpt": "(서울=연합뉴스) 홍국기 기자 = 과거 일반 탄산음료나 주스가 중심이었던 단체 급식장의 음료 선택지에 무알코올 맥주가 더해지고 있다.",
-    "matched": []
-   },
-   {
-    "id": "fedb88a3e1",
-    "title": "서울시, 공시가격 검증지원센터 세미나…지자체 역할 확대 논의",
-    "url": "https://www.yna.co.kr/view/AKR20260927017800004",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "09/28 06:00",
-    "published_iso": "2026-09-28T06:00:08+09:00",
-    "sort_key": 1790542808.0,
-    "excerpt": "(서울=연합뉴스) 김준태 기자 = 서울시는 지난 18일 서울시청에서 &apos;부동산공시가격 검증지원센터를 통한 지자체의 역할·역량강화&apos; 정책세미나를 열...",
-    "matched": []
-   },
-   {
-    "id": "1bc03bd754",
-    "title": "중동 긴장 재고조에…기업 경기전망 한달만에 다시 '부정적'",
-    "url": "https://www.yna.co.kr/view/AKR20260927029600003",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "09/28 06:00",
-    "published_iso": "2026-09-28T06:00:05+09:00",
-    "sort_key": 1790542805.0,
-    "excerpt": "(서울=연합뉴스) 장하나 기자 = 중동 긴장 재고조 등의 여파로 국내기업의 경기 전망이 한 달 만에 다시 부정적으로 돌아섰다.",
-    "matched": []
-   },
-   {
-    "id": "8a552aa368",
-    "title": "이형일, 첫 경제현안간담회…전기차 정책 논의",
-    "url": "https://www.hankyung.com/article/202609277830i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "09/27 21:00",
-    "published_iso": "2026-09-27T21:00:37+09:00",
-    "sort_key": 1790510437.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "3c0c760adf",
-    "title": "車업계 휴머노이드 대전…中 샤오펑·둥펑 연내 공장 투입",
-    "url": "https://www.hankyung.com/article/2026092776581",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "09/27 17:57",
-    "published_iso": "2026-09-27T17:57:24+09:00",
-    "sort_key": 1790499444.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "73f9904d51",
-    "title": "외환시장 24시간 개방에도…오전 2~9시 거래는 1%뿐",
-    "url": "https://www.hankyung.com/article/2026092776121",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "09/27 17:52",
-    "published_iso": "2026-09-27T17:52:58+09:00",
-    "sort_key": 1790499178.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "da3c375682",
-    "title": "공정위 퇴직 공무원 86명, 대형 로펌行",
-    "url": "https://www.hankyung.com/article/2026092776151",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "09/27 17:52",
-    "published_iso": "2026-09-27T17:52:43+09:00",
-    "sort_key": 1790499163.0,
-    "excerpt": "",
-    "matched": []
-   }
-  ],
   "해외 경제언론": [
+   {
+    "id": "46fe69a72f",
+    "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
+    "url": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
+    "source": "CNBC Finance",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "09/28 16:22",
+    "published_iso": "2026-09-28T16:22:06+09:00",
+    "sort_key": 1790580126.0,
+    "excerpt": "U.S. President Donald Trump and Chinese President Xi Jinping met in Washington, D.C., last week and signaled plans to meet two more times this year.",
+    "matched": []
+   },
+   {
+    "id": "43c798d8de",
+    "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
+    "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "09/28 16:19",
+    "published_iso": "2026-09-28T16:19:48+09:00",
+    "sort_key": 1790579988.0,
+    "excerpt": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
+    "matched": []
+   },
+   {
+    "id": "00b22d1353",
+    "title": "Why the PM could finally drop the triple lock pension pledge",
+    "url": "https://www.bbc.co.uk/news/articles/c6jdvmy1287yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "09/28 16:18",
+    "published_iso": "2026-09-28T16:18:19+09:00",
+    "sort_key": 1790579899.0,
+    "excerpt": "Andy Burnham said that he would make tough decisions to fund a new national care service.",
+    "matched": []
+   },
+   {
+    "id": "c7d0849f8b",
+    "title": "Tourism tax needs to be more flexible in Wales, warns expert",
+    "url": "https://www.bbc.co.uk/news/articles/cm4glxn32zypo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "09/28 14:04",
+    "published_iso": "2026-09-28T14:04:54+09:00",
+    "sort_key": 1790571894.0,
+    "excerpt": "Anglesey, Conwy and Gwynedd councils have all put a pause on introducing the nightly tourist tax.",
+    "matched": []
+   },
+   {
+    "id": "8385dd8afc",
+    "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
+    "url": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
+    "source": "CNBC Economy",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "09/28 13:04",
+    "published_iso": "2026-09-28T13:04:16+09:00",
+    "sort_key": 1790568256.0,
+    "excerpt": "Economists expect Beijing to lean harder on stimulus to stabilize corporate profitability, as consolidation accelerates in sectors facing sluggish demand and fierce competition.",
+    "matched": []
+   },
+   {
+    "id": "2666435b20",
+    "title": "Avanti West Coast services to be nationalised from March",
+    "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "09/28 12:05",
+    "published_iso": "2026-09-28T12:05:50+09:00",
+    "sort_key": 1790564750.0,
+    "excerpt": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers.",
+    "matched": []
+   },
+   {
+    "id": "888caaafff",
+    "title": "You need £17,000 for a first home - here's how to do it",
+    "url": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "09/28 08:20",
+    "published_iso": "2026-09-28T08:20:43+09:00",
+    "sort_key": 1790551243.0,
+    "excerpt": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
+    "matched": []
+   },
+   {
+    "id": "487aece96d",
+    "title": "My hometown shows that high streets have to change or die",
+    "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "09/28 08:05",
+    "published_iso": "2026-09-28T08:05:53+09:00",
+    "sort_key": 1790550353.0,
+    "excerpt": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+    "matched": []
+   },
    {
     "id": "d5bdd86040",
     "title": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN",
@@ -1069,7 +1321,12 @@
     "published_iso": "2026-09-28T05:23:35+09:00",
     "sort_key": 1790540615.0,
     "excerpt": "The White House TV pool went dark this past week amid a standoff between CNN and the president. Network leaders, however, believe an indefinite suspension may be untenable.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "백악관이 CNN을 계속 배제하는 가운데 다른 TV 방송사들은 트럼프 취재를 재개하기로 함",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "e27557e6d8",
@@ -1082,7 +1339,12 @@
     "published_iso": "2026-09-28T02:41:18+09:00",
     "sort_key": 1790530878.0,
     "excerpt": "As the first director of the troupe, she helped transform it from a high school squad into a global phenomenon.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "댈러스 카우보이스 치어리더를 만든 디 브록 별세",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "695a86eb0b",
@@ -1095,7 +1357,12 @@
     "published_iso": "2026-09-28T02:23:18+09:00",
     "sort_key": 1790529798.0,
     "excerpt": "Countless independent acts in every genre — punk, hip-hop, church choir — relied on him to create small runs of high-quality records and CDs.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "인디 음악가들의 음반 제작을 도운 모리스 발렌 별세",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "94dfe2e76b",
@@ -1108,7 +1375,15 @@
     "published_iso": "2026-09-28T00:35:34+09:00",
     "sort_key": 1790523334.0,
     "excerpt": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "국채금리 급등으로 대규모 차입에 의존하는 AI 기업들의 조달 비용과 위험이 커지고 있다는 분석",
+     "impact": "AI 인프라 투자가 계속되더라도 비용이 늘어 수익성과 밸류에이션에 부담",
+     "affected": "AI 데이터센터·클라우드 기업, AI 회사채, 반도체 수요 기대",
+     "important": true,
+     "important_tag": "산업·실적",
+     "why_important": "지금 증시를 이끄는 AI 투자가 빚으로 굴러가는데 금리가 오르면 투자 속도가 꺾일 수 있어 반도체·AI주 전반의 핵심 변수"
+    }
    },
    {
     "id": "5ef0b4c735",
@@ -1121,7 +1396,12 @@
     "published_iso": "2026-09-28T00:06:20+09:00",
     "sort_key": 1790521580.0,
     "excerpt": "As a group of players from an all-women’s baseball league in the 1940s and ’50s gathered at a recent reunion, the future of women’s baseball looks bright again.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "1940~50년대 여자 프로야구 선수들의 재회와 여자 야구의 미래를 다룬 기사",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "a898f907ac",
@@ -1134,7 +1414,12 @@
     "published_iso": "2026-09-27T20:22:48+09:00",
     "sort_key": 1790508168.0,
     "excerpt": "The gap between technology and policymaking has gotten wider than ever with artificial intelligence, leaving a global policy vacuum as A.I. models rapidly advance.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "AI 발전 속도를 정책이 따라가지 못해 전 세계적 규제 공백이 커지고 있다는 분석",
+     "impact": "규제 공백은 단기적으로 AI 기업에 유리하나 향후 급격한 규제 리스크를 키움",
+     "affected": "AI 관련 빅테크 규제 리스크"
+    }
    },
    {
     "id": "a678851991",
@@ -1147,7 +1432,12 @@
     "published_iso": "2026-09-27T20:22:32+09:00",
     "sort_key": 1790508152.0,
     "excerpt": "Andy Burnham said he would wait for the results of a consultation on a scheme estimated to cost £33bn",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "앤디 버넘이 히스로 공항 제3활주로 지지를 유보",
+     "impact": "영국 인프라 정책 이슈로 국내 시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "2c0570090d",
@@ -1160,7 +1450,12 @@
     "published_iso": "2026-09-27T18:01:43+09:00",
     "sort_key": 1790499703.0,
     "excerpt": "Plus: What to do when your boss is nit-picking your work.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "동료들이 생일을 챙기지 않는 고민 등 직장 상담 칼럼",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "e0221e677a",
@@ -1173,7 +1468,12 @@
     "published_iso": "2026-09-27T18:01:00+09:00",
     "sort_key": 1790499660.0,
     "excerpt": "Use of the generic title has risen by 50 percent in the last year among employees at Anthropic, OpenAI and other A.I. companies, an analysis found.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "AI 기업들 사이에서 직함 대신 '기술직 구성원'이라는 일반 호칭 사용이 1년 새 50% 늘었다는 분석",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "d30fd15a0e",
@@ -1186,7 +1486,12 @@
     "published_iso": "2026-09-27T18:00:34+09:00",
     "sort_key": 1790499634.0,
     "excerpt": "Fresh pies. Book groups. Puzzle challenges. Developers of master-planned communities see fear of social isolation and desire for friends as a business opportunity. Welcome to Amity Lane.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "대규모 계획도시 개발사들이 '외로움 해소'를 내세워 공동체 프로그램을 판매 포인트로 삼는 트렌드",
+     "impact": "시장 영향은 제한적",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "60a11c0db8",
@@ -1199,7 +1504,12 @@
     "published_iso": "2026-09-27T08:00:42+09:00",
     "sort_key": 1790463642.0,
     "excerpt": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "이란 전쟁발 경제 압박이 얼마나 오래갈지와 약한 낙관을 어떻게 유지할지가 영국 재무장관의 두 가지 큰 결정이라는 분석",
+     "impact": "영국 재정정책 이슈로 국내 영향은 제한적",
+     "affected": "파운드화, 영국 국채"
+    }
    },
    {
     "id": "251f85fb1c",
@@ -1212,6 +1522,547 @@
     "published_iso": "2026-09-27T01:32:42+09:00",
     "sort_key": 1790440362.0,
     "excerpt": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
+    "matched": [],
+    "analysis": {
+     "summary": "히스로 공항이 제3활주로 완공이 정부 목표(2035년)보다 최대 4년 늦어질 수 있다고 경고",
+     "impact": "국내 시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   }
+  ],
+  "국내 경제언론": [
+   {
+    "id": "c0de5fa820",
+    "title": "연휴서 돌아온 코스피, 美금리 악재에 2.7%↓…다시 '7천피' 밑으로(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20260928124200008",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 16:19",
+    "published_iso": "2026-09-28T16:19:35+09:00",
+    "sort_key": 1790579975.0,
+    "excerpt": "(서울=연합뉴스) 김유아 기자 = 추석 연휴를 마치고 재개된 코스피가 28일 2%대의 하락률을 기록했다.",
+    "matched": []
+   },
+   {
+    "id": "16b579b682",
+    "title": "[동포의 창] 내년 세계한상대회 개최지 경주로 결정",
+    "url": "https://www.yna.co.kr/view/AKR20260928127900371",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 16:19",
+    "published_iso": "2026-09-28T16:19:14+09:00",
+    "sort_key": 1790579954.0,
+    "excerpt": "(인천=연합뉴스) 강성철 기자 = 내년도 세계한상대회 개최지가 경주시로 결정됐다.",
+    "matched": []
+   },
+   {
+    "id": "7381e9a419",
+    "title": "추미애 \"신도시 선교통·후입주, 현재 제도로 불가능\"",
+    "url": "https://www.yna.co.kr/view/AKR20260928125200061",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 16:13",
+    "published_iso": "2026-09-28T16:13:17+09:00",
+    "sort_key": 1790579597.0,
+    "excerpt": "(수원=연합뉴스) 최종호 기자 = 추미애 경기도지사는 신도시 사업에서 교통대책을 먼저 마련한 뒤에 입주를 시작하는 &apos;선교통·후입주&apos;가 현재 상황...",
+    "matched": []
+   },
+   {
+    "id": "8c348235e5",
+    "title": "李대통령 \"亞서 가장 매력적인 시장 만들기 최선\"…최대IR 개막(종합2보)",
+    "url": "https://www.yna.co.kr/view/AKR20260927047752002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 16:10",
+    "published_iso": "2026-09-28T16:10:08+09:00",
+    "sort_key": 1790579408.0,
+    "excerpt": "(서울=연합뉴스) 배영경 강류나 기자 = 올해 처음 출범하는 국내 최대 자본시장 기업설명(IR) 행사 &apos;코리아 프리미엄 위크(Korea Prem...",
+    "matched": []
+   },
+   {
+    "id": "1df81e61b3",
+    "title": "삼전·닉스, 5%대 급락…외국인·기관, 동반 '팔자'(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20260928034551008",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 15:57",
+    "published_iso": "2026-09-28T15:57:36+09:00",
+    "sort_key": 1790578656.0,
+    "excerpt": "(서울=연합뉴스) 황철환 기자 = 추석 연휴 이후 첫 거래일인 28일 삼성전자[005930]와 SK하이닉스[000660]가 5% 넘게 급락한 채...",
+    "matched": []
+   },
+   {
+    "id": "e613b3d7e0",
+    "title": "추석 연휴 美국채 금리 급등에…환율 1,360원대 중반으로",
+    "url": "https://www.yna.co.kr/view/AKR20260928120000002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 15:53",
+    "published_iso": "2026-09-28T15:53:12+09:00",
+    "sort_key": 1790578392.0,
+    "excerpt": "(세종=연합뉴스) 김수현 기자 = 원/달러 환율은 추석 연휴 기간 미국 국채 금리 급등을 반영해 28일 1,360원대로 올라섰다.",
+    "matched": []
+   },
+   {
+    "id": "11a89ac969",
+    "title": "[특징주] LG전자, 엔비디아 공식 파트너 선정에 상승 마감(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20260928053251008",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 15:52",
+    "published_iso": "2026-09-28T15:52:59+09:00",
+    "sort_key": 1790578379.0,
+    "excerpt": "(서울=연합뉴스) 이민영 기자 = LG전자[066570]가 엔비디아의 공식 파트너로 선정된 가운데 28일 강세를 보였다.",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "2ecd0d7e1d",
+    "title": "ISC \"반도체 테스트소켓 계열사에 297억원 출자\"",
+    "url": "https://www.yna.co.kr/view/AKR20260928120300008",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 15:51",
+    "published_iso": "2026-09-28T15:51:10+09:00",
+    "sort_key": 1790578270.0,
+    "excerpt": "(서울=연합뉴스) 코스닥 상장사 ISC[095340]는 반도체 테스트소켓 생산 계열사(ISC VINA MANUFACTURING)에 약 297억원...",
+    "matched": []
+   },
+   {
+    "id": "7c570595ba",
+    "title": "불법사금융 피해구제 신청 3분의 2는 '30대 이하 청년'",
+    "url": "https://www.hankyung.com/article/202609289689i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 15:36",
+    "published_iso": "2026-09-28T15:36:58+09:00",
+    "sort_key": 1790577418.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "aeb7133081",
+    "title": "iM금융, 차기 회장 레이스 막 올랐다…황병우 연임 도전하나",
+    "url": "https://www.hankyung.com/article/202609289552i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 15:29",
+    "published_iso": "2026-09-28T15:29:41+09:00",
+    "sort_key": 1790576981.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "0b6825415c",
+    "title": "\"외식 몇 번 했을 뿐인데\"…역대급 식비에 서민들 '한숨'",
+    "url": "https://www.hankyung.com/article/202609289559g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 15:27",
+    "published_iso": "2026-09-28T15:27:37+09:00",
+    "sort_key": 1790576857.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "4da819614e",
+    "title": "[단독] 유럽서 시작된 전기차의 반격…휘발유·경유차보다 더 팔렸다",
+    "url": "https://www.hankyung.com/article/202609289687i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 15:27",
+    "published_iso": "2026-09-28T15:27:22+09:00",
+    "sort_key": 1790576842.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "fee967fb5b",
+    "title": "\"모든 기업이 디지털자산 사용하게 될 것\" [이스트포인트 : 서울 2026]",
+    "url": "https://www.hankyung.com/article/202609289672i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 15:19",
+    "published_iso": "2026-09-28T15:19:55+09:00",
+    "sort_key": 1790576395.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "3d91a5fb77",
+    "title": "기관 자금, 디지털자산으로 끌어오려면…\"유동성·위험관리 갖춰야\" [이스트포인트 : 서울 2026]",
+    "url": "https://www.hankyung.com/article/202609289666i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 15:17",
+    "published_iso": "2026-09-28T15:17:43+09:00",
+    "sort_key": 1790576263.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "000c48de78",
+    "title": "\"물량 못 대서 라인 또 늘린다\"…구글·테슬라 줄 서는 LS전선 구미공장",
+    "url": "https://www.hankyung.com/article/202609289575i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 15:08",
+    "published_iso": "2026-09-28T15:08:47+09:00",
+    "sort_key": 1790575727.0,
+    "excerpt": "",
+    "matched": [
+     "TSLA"
+    ]
+   },
+   {
+    "id": "5c5cdf58d7",
+    "title": "'최연소 장관' 이소영 \"다른 의견 있으면 바로 말해달라\"",
+    "url": "https://www.hankyung.com/article/202609289551i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 14:56",
+    "published_iso": "2026-09-28T14:56:02+09:00",
+    "sort_key": 1790574962.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "226090fccf",
+    "title": "\"나는 차면 욕먹지만 장윤정은\"…도경완도 벌벌 떤 시계 정체",
+    "url": "https://www.hankyung.com/article/202609288026H",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 07:14",
+    "published_iso": "2026-09-28T07:14:11+09:00",
+    "sort_key": 1790547251.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "연예인 부부가 착용한 고가 명품 시계를 다룬 가십성 기사",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "3579209567",
+    "title": "\"장애인고용공단서 성비위·금품 문제…윤리감시기구 작동안해\"",
+    "url": "https://www.yna.co.kr/view/AKR20260925039700001",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 07:03",
+    "published_iso": "2026-09-28T07:03:01+09:00",
+    "sort_key": 1790546581.0,
+    "excerpt": "(서울=연합뉴스) 김연정 기자 = 장애인의 권익 보호와 고용 확대를 담당하는 한국장애인고용공단 내부에서 최근 3년간 성 비위와 청렴성 문제가 잇...",
+    "matched": [],
+    "analysis": {
+     "summary": "한국장애인고용공단 내부에서 3년간 성 비위·금품 문제가 이어졌지만 윤리감시기구가 작동하지 않았다는 지적",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "58cac43724",
+    "title": "[아프리카 녹색전환] ④'광물주권' 앞세운 자원국들…한국의 그린 파트너로",
+    "url": "https://www.yna.co.kr/view/AKR20260911059200898",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 07:00",
+    "published_iso": "2026-09-28T07:00:16+09:00",
+    "sort_key": 1790546416.0,
+    "excerpt": "(서울=연합뉴스) 박세진 기자 = 전 세계적인 녹색 산업 전환 과정에서 핵심 광물이 풍부한 아프리카 국가들이 원광을 헐값에 수출하던 경제구조에서...",
+    "matched": [],
+    "analysis": {
+     "summary": "핵심 광물이 풍부한 아프리카 국가들이 '광물 주권'을 내세우며 원광 수출 대신 가공 산업 육성에 나서고, 한국과 협력 기회가 있다는 기획 기사",
+     "impact": "중장기 광물 공급망 이슈로 단기 시장 영향은 제한적",
+     "affected": "2차전지 소재·광물 관련주 참고"
+    }
+   },
+   {
+    "id": "72efe6d11e",
+    "title": "[아프리카 녹색전환] ②\"소리 없이 바뀐다\"…현지서 본 전기차 혁명",
+    "url": "https://www.yna.co.kr/view/AKR20260923165500099",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 07:00",
+    "published_iso": "2026-09-28T07:00:07+09:00",
+    "sort_key": 1790546407.0,
+    "excerpt": "(요하네스버그=연합뉴스) 나확진 특파원 = &quot;전기차(EV) 판매량은 매달 증가하고 있습니다. 전기차는 이제 남아공에서도 상당히 좋은 평가를 받는...",
+    "matched": [],
+    "analysis": {
+     "summary": "남아공 등 아프리카에서도 전기차 판매가 매달 늘고 있다는 현지 기획 기사",
+     "impact": "신흥국 전기차 수요 확대 신호, 단기 영향은 제한적",
+     "affected": "전기차·배터리 업종 참고"
+    }
+   },
+   {
+    "id": "4ba8406205",
+    "title": "美는 중국 AI칩 막는데…월가는 中테크 172억달러 조달 [김주완의 글로벌머니 X파일]",
+    "url": "https://www.hankyung.com/article/202609277393i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 07:00",
+    "published_iso": "2026-09-28T07:00:02+09:00",
+    "sort_key": 1790546402.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "미국이 중국 AI 칩을 막는 가운데 월가는 중국 기술기업의 172억 달러 자금 조달을 도왔다는 분석",
+     "impact": "미중 기술 규제와 자본 흐름이 따로 움직이는 모순이 부각되면 추가 규제(투자 제한) 논의로 번질 수 있음",
+     "affected": "중국 기술주, 미국 투자은행, 반도체 수출규제 민감주",
+     "important": true,
+     "important_tag": "정책·무역",
+     "why_important": "미국이 반도체 수출규제에 이어 대중 투자까지 막으면 중국 기술주와 관련 공급망 전반의 불확실성이 커짐"
+    }
+   },
+   {
+    "id": "61629ff84f",
+    "title": "보험료는 꼬박꼬박 받아가더니…\"계약자에 '5억' 안 줬다\"",
+    "url": "https://www.hankyung.com/article/2026092880047",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 06:46",
+    "published_iso": "2026-09-28T06:46:02+09:00",
+    "sort_key": 1790545562.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "보험사가 계약자에게 줘야 할 5억원을 지급하지 않은 사례",
+     "impact": "개별 분쟁으로 시장 영향은 제한적",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "28e5b3658d",
+    "title": "미국서 '싼타페' 인기 폭발하더니…22년 만에 '깜짝 결과'",
+    "url": "https://www.hankyung.com/article/2026092879917",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 06:32",
+    "published_iso": "2026-09-28T06:32:23+09:00",
+    "sort_key": 1790544743.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "미국에서 싼타페 판매가 크게 늘며 22년 만에 의미 있는 기록을 세웠다는 기사",
+     "impact": "현대차 미국 판매 호조 신호로 실적 기대에 우호적",
+     "affected": "현대차·기아"
+    }
+   },
+   {
+    "id": "f2fb8ccf3c",
+    "title": "\"다주택 규제 피하자\"…집합건물 다소유자 7년9개월만에 최저",
+    "url": "https://www.yna.co.kr/view/AKR20260926024500003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 06:01",
+    "published_iso": "2026-09-28T06:01:02+09:00",
+    "sort_key": 1790542862.0,
+    "excerpt": "(서울=연합뉴스) 서미숙 기자 = 지난달 전국에 집합건물(아파트, 오피스텔, 연립주택 등)을 2채 이상 보유한 다소유자 비율이 7년 9개월 만에...",
+    "matched": [],
+    "analysis": {
+     "summary": "다주택 규제를 피하려는 움직임에 아파트 등 집합건물을 2채 이상 가진 사람의 비율이 7년 9개월 만에 최저",
+     "impact": "규제 효과로 다주택 수요가 줄어드는 흐름, 시장 전체 영향은 제한적",
+     "affected": "국내 부동산 정책"
+    }
+   },
+   {
+    "id": "d9bf1f28d5",
+    "title": "상가 8곳 중 1곳은 비어있다…공실률, 2021년 이후 최고치",
+    "url": "https://www.yna.co.kr/view/AKR20260927038100003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 06:01",
+    "published_iso": "2026-09-28T06:01:01+09:00",
+    "sort_key": 1790542861.0,
+    "excerpt": "(서울=연합뉴스) 임기창 기자 = 전국 일반상가 평균 공실률이 13%대를 넘어서고 17개 시·도 중 16곳의 공실률이 5년 전 대비 상승한 것으...",
+    "matched": [],
+    "analysis": {
+     "summary": "전국 상가 공실률이 13%를 넘어 2021년 이후 최고, 17개 시·도 중 16곳이 5년 전보다 상승",
+     "impact": "내수 침체와 자영업 부진을 보여주는 지표로 상업용 부동산에 부담",
+     "affected": "상업용 부동산, 리츠, 내수 경기"
+    }
+   },
+   {
+    "id": "0e36e4444c",
+    "title": "단체급식장에 무알코올 맥주 증가세…군부대·구내식당서도 인기",
+    "url": "https://www.yna.co.kr/view/AKR20260927040800030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 06:01",
+    "published_iso": "2026-09-28T06:01:00+09:00",
+    "sort_key": 1790542860.0,
+    "excerpt": "(서울=연합뉴스) 홍국기 기자 = 과거 일반 탄산음료나 주스가 중심이었던 단체 급식장의 음료 선택지에 무알코올 맥주가 더해지고 있다.",
+    "matched": [],
+    "analysis": {
+     "summary": "군부대·구내식당 등 단체급식장에서 무알코올 맥주 판매가 늘고 있음",
+     "impact": "시장 영향은 제한적",
+     "affected": "주류 업체 참고"
+    }
+   },
+   {
+    "id": "fedb88a3e1",
+    "title": "서울시, 공시가격 검증지원센터 세미나…지자체 역할 확대 논의",
+    "url": "https://www.yna.co.kr/view/AKR20260927017800004",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 06:00",
+    "published_iso": "2026-09-28T06:00:08+09:00",
+    "sort_key": 1790542808.0,
+    "excerpt": "(서울=연합뉴스) 김준태 기자 = 서울시는 지난 18일 서울시청에서 &apos;부동산공시가격 검증지원센터를 통한 지자체의 역할·역량강화&apos; 정책세미나를 열...",
+    "matched": [],
+    "analysis": {
+     "summary": "서울시가 부동산 공시가격 검증에서 지자체 역할을 넓히는 방안을 논의",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "1bc03bd754",
+    "title": "중동 긴장 재고조에…기업 경기전망 한달만에 다시 '부정적'",
+    "url": "https://www.yna.co.kr/view/AKR20260927029600003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/28 06:00",
+    "published_iso": "2026-09-28T06:00:05+09:00",
+    "sort_key": 1790542805.0,
+    "excerpt": "(서울=연합뉴스) 장하나 기자 = 중동 긴장 재고조 등의 여파로 국내기업의 경기 전망이 한 달 만에 다시 부정적으로 돌아섰다.",
+    "matched": [],
+    "analysis": {
+     "summary": "중동 긴장이 다시 높아지면서 국내 기업의 경기 전망이 한 달 만에 다시 부정적으로 돌아섬",
+     "impact": "기업 체감 경기 악화는 투자·고용 위축과 실적 전망 하향으로 이어질 수 있음",
+     "affected": "코스피 경기민감주, 내수·제조업 전반",
+     "important": true,
+     "important_tag": "거시경제",
+     "why_important": "기업 경기전망은 실적보다 먼저 움직이는 지표라, 한 달 만의 부정 전환은 4분기 국내 실적 눈높이가 낮아질 수 있다는 신호"
+    }
+   },
+   {
+    "id": "8a552aa368",
+    "title": "이형일, 첫 경제현안간담회…전기차 정책 논의",
+    "url": "https://www.hankyung.com/article/202609277830i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/27 21:00",
+    "published_iso": "2026-09-27T21:00:37+09:00",
+    "sort_key": 1790510437.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "이형일 차관이 첫 경제현안간담회를 열고 전기차 정책을 논의",
+     "impact": "전기차 지원 정책 방향에 따라 관련 업종에 영향 가능, 현재는 논의 단계",
+     "affected": "전기차·배터리 업종"
+    }
+   },
+   {
+    "id": "3c0c760adf",
+    "title": "車업계 휴머노이드 대전…中 샤오펑·둥펑 연내 공장 투입",
+    "url": "https://www.hankyung.com/article/2026092776581",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/27 17:57",
+    "published_iso": "2026-09-27T17:57:24+09:00",
+    "sort_key": 1790499444.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "중국 샤오펑·둥펑이 연내 휴머노이드 로봇을 자동차 공장에 투입하는 등 자동차업계의 휴머노이드 경쟁이 본격화",
+     "impact": "로봇 도입 경쟁이 빨라지며 로봇·부품 업종에 관심 요인",
+     "affected": "로봇·휴머노이드 관련주, 현대차(보스턴다이내믹스)"
+    }
+   },
+   {
+    "id": "73f9904d51",
+    "title": "외환시장 24시간 개방에도…오전 2~9시 거래는 1%뿐",
+    "url": "https://www.hankyung.com/article/2026092776121",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/27 17:52",
+    "published_iso": "2026-09-27T17:52:58+09:00",
+    "sort_key": 1790499178.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "외환시장을 24시간 열었지만 오전 2~9시 거래는 전체의 1%에 불과",
+     "impact": "시장 제도 운영 참고, 환율 영향은 제한적",
+     "affected": "원/달러 외환시장"
+    }
+   },
+   {
+    "id": "da3c375682",
+    "title": "공정위 퇴직 공무원 86명, 대형 로펌行",
+    "url": "https://www.hankyung.com/article/2026092776151",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "09/27 17:52",
+    "published_iso": "2026-09-27T17:52:43+09:00",
+    "sort_key": 1790499163.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "공정위 퇴직 공무원 86명이 대형 로펌으로 이직",
+     "impact": "시장 영향은 사실상 없음",
+     "affected": "해당 없음"
+    }
+   }
+  ],
+  "국내 정책당국": [
+   {
+    "id": "673716a06e",
+    "title": "이형일 부총리, 첫 경제현안간담회 개최",
+    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079450",
+    "source": "재정경제부 보도자료",
+    "group": "국내 정책당국",
+    "lang": "ko",
+    "published_kst": "09/28 09:00",
+    "published_iso": "2026-09-28T09:00:00+09:00",
+    "sort_key": 1790553600.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "14b3b0c6d7",
+    "title": "이형일 부총리, 한국은행 방문 및 신현송 한은총재 면담",
+    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079454",
+    "source": "재정경제부 보도자료",
+    "group": "국내 정책당국",
+    "lang": "ko",
+    "published_kst": "09/28 09:00",
+    "published_iso": "2026-09-28T09:00:00+09:00",
+    "sort_key": 1790553600.0,
+    "excerpt": "",
     "matched": []
    }
   ]
@@ -1221,14 +2072,14 @@
   "indices_total": 8,
   "stocks_ok": 9,
   "stocks_total": 9,
-  "news": 28,
-  "news_new": 28
+  "news": 54,
+  "news_new": 26
  },
  "errors": [
   {
    "stage": "news",
    "target": "금융위원회 보도자료",
-   "message": "기사 0건 (주소가 RSS가 아니거나 차단됨)"
+   "message": "ReadTimeout: HTTPSConnectionPool(host='www.fsc.go.kr', port=443): Read timed out. (read timeout=20)"
   }
  ]
 }
