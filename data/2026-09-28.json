@@ -359,7 +359,15 @@
    "published_iso": "2026-09-28T16:22:06+09:00",
    "sort_key": 1790580126.0,
    "excerpt": "U.S. President Donald Trump and Chinese President Xi Jinping met in Washington, D.C., last week and signaled plans to meet two more times this year.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프·시진핑이 올해 두 번 더 만나기로 했지만, 무역휴전이 유지되려면 '구체적 성과'가 필요하다는 분석",
+    "impact": "합의 이행 여부에 따라 관세·수출규제 불확실성이 다시 커질 수 있음",
+    "affected": "반도체·수출주, 미중 무역 민감주",
+    "important": true,
+    "important_tag": "정책·무역",
+    "why_important": "휴전 연장이 말뿐이면 관세 리스크가 재점화될 수 있어, 남은 두 차례 회담이 반도체·수출주의 다음 분기 방향을 좌우"
+   }
   },
   {
    "id": "43c798d8de",
@@ -372,7 +380,12 @@
    "published_iso": "2026-09-28T16:19:48+09:00",
    "sort_key": 1790579988.0,
    "excerpt": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 재무장관이 조선업 육성 등 '새로운 산업화 시대' 정책을 발표할 예정",
+    "impact": "영국 산업정책 이슈로 국내 영향은 제한적, 조선 협력 수요는 참고",
+    "affected": "국내 조선주 참고"
+   }
   },
   {
    "id": "c0de5fa820",
@@ -385,7 +398,15 @@
    "published_iso": "2026-09-28T16:19:35+09:00",
    "sort_key": 1790579975.0,
    "excerpt": "(서울=연합뉴스) 김유아 기자 = 추석 연휴를 마치고 재개된 코스피가 28일 2%대의 하락률을 기록했다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "추석 연휴 뒤 첫 거래일 코스피가 미국 금리 급등 여파로 2.7% 하락하며 7천 선 아래로 밀림",
+    "impact": "연휴 중 쌓인 미국 금리 상승 부담이 한꺼번에 반영, 외국인 매도가 이어지면 추가 조정 가능",
+    "affected": "코스피 전반, 반도체 대형주, 원/달러 환율",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "미국 10년물 금리 19년 만의 최고치가 국내 증시에 실제로 2%대 급락으로 번졌다는 확인 — 금리 방향이 당분간 지수를 좌우"
+   }
   },
   {
    "id": "16b579b682",
@@ -398,7 +419,12 @@
    "published_iso": "2026-09-28T16:19:14+09:00",
    "sort_key": 1790579954.0,
    "excerpt": "(인천=연합뉴스) 강성철 기자 = 내년도 세계한상대회 개최지가 경주시로 결정됐다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "내년 세계한상대회 개최지가 경주로 결정",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "00b22d1353",
@@ -411,7 +437,12 @@
    "published_iso": "2026-09-28T16:18:19+09:00",
    "sort_key": 1790579899.0,
    "excerpt": "Andy Burnham said that he would make tough decisions to fund a new national care service.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 총리가 연금 '트리플 락' 공약을 폐기할 수 있다는 분석",
+    "impact": "영국 재정 이슈로 국내 영향은 제한적",
+    "affected": "파운드화, 영국 국채"
+   }
   },
   {
    "id": "7381e9a419",
@@ -424,7 +455,12 @@
    "published_iso": "2026-09-28T16:13:17+09:00",
    "sort_key": 1790579597.0,
    "excerpt": "(수원=연합뉴스) 최종호 기자 = 추미애 경기도지사는 신도시 사업에서 교통대책을 먼저 마련한 뒤에 입주를 시작하는 &apos;선교통·후입주&apos;가 현재 상황...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "추미애 경기도지사가 신도시 '선교통·후입주'는 현 제도로 불가능하다고 언급",
+    "impact": "부동산 정책 논의 수준으로 시장 영향은 제한적",
+    "affected": "수도권 신도시 개발·건설주 참고"
+   }
   },
   {
    "id": "8c348235e5",
@@ -437,7 +473,12 @@
    "published_iso": "2026-09-28T16:10:08+09:00",
    "sort_key": 1790579408.0,
    "excerpt": "(서울=연합뉴스) 배영경 강류나 기자 = 올해 처음 출범하는 국내 최대 자본시장 기업설명(IR) 행사 &apos;코리아 프리미엄 위크(Korea Prem...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "국내 최대 자본시장 IR 행사 '코리아 프리미엄 위크'가 개막했고 대통령이 아시아에서 가장 매력적인 시장을 만들겠다고 언급",
+    "impact": "코리아 디스카운트 해소 정책 기대를 이어가는 신호, 단기 영향은 제한적",
+    "affected": "외국인 수급, 밸류업 관련주"
+   }
   },
   {
    "id": "1df81e61b3",
@@ -450,7 +491,12 @@
    "published_iso": "2026-09-28T15:57:36+09:00",
    "sort_key": 1790578656.0,
    "excerpt": "(서울=연합뉴스) 황철환 기자 = 추석 연휴 이후 첫 거래일인 28일 삼성전자[005930]와 SK하이닉스[000660]가 5% 넘게 급락한 채...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연휴 뒤 첫 거래일 삼성전자·SK하이닉스가 외국인·기관 동반 매도에 5% 넘게 급락",
+    "impact": "지수를 이끌던 반도체 대형주가 금리 부담에 가장 크게 흔들려 지수 변동성 확대",
+    "affected": "삼성전자, SK하이닉스, 반도체 장비·소재주"
+   }
   },
   {
    "id": "e613b3d7e0",
@@ -463,7 +509,12 @@
    "published_iso": "2026-09-28T15:53:12+09:00",
    "sort_key": 1790578392.0,
    "excerpt": "(세종=연합뉴스) 김수현 기자 = 원/달러 환율은 추석 연휴 기간 미국 국채 금리 급등을 반영해 28일 1,360원대로 올라섰다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연휴 중 미국 국채금리 급등이 반영되며 원/달러 환율이 1,360원대 중반으로 상승",
+    "impact": "원화 약세가 이어지면 외국인 매도 압력과 수입물가 부담이 커짐",
+    "affected": "원/달러 환율, 외국인 수급, 수입 비중 큰 업종"
+   }
   },
   {
    "id": "11a89ac969",
@@ -478,7 +529,12 @@
    "excerpt": "(서울=연합뉴스) 이민영 기자 = LG전자[066570]가 엔비디아의 공식 파트너로 선정된 가운데 28일 강세를 보였다.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "LG전자가 엔비디아 공식 파트너로 선정되며 주가 상승 마감",
+    "impact": "AI 데이터센터 냉각·전력 사업 기대로 개별 호재",
+    "affected": "LG전자"
+   }
   },
   {
    "id": "2ecd0d7e1d",
@@ -491,7 +547,12 @@
    "published_iso": "2026-09-28T15:51:10+09:00",
    "sort_key": 1790578270.0,
    "excerpt": "(서울=연합뉴스) 코스닥 상장사 ISC[095340]는 반도체 테스트소켓 생산 계열사(ISC VINA MANUFACTURING)에 약 297억원...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "ISC가 베트남 반도체 테스트소켓 생산 계열사에 약 297억원 출자",
+    "impact": "생산능력 확대로 중장기 긍정적, 시장 전체 영향은 제한적",
+    "affected": "ISC, 반도체 테스트 부품주"
+   }
   },
   {
    "id": "7c570595ba",
@@ -504,7 +565,12 @@
    "published_iso": "2026-09-28T15:36:58+09:00",
    "sort_key": 1790577418.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "불법사금융 피해구제 신청의 3분의 2가 30대 이하 청년",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "aeb7133081",
@@ -517,7 +583,12 @@
    "published_iso": "2026-09-28T15:29:41+09:00",
    "sort_key": 1790576981.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "iM금융이 차기 회장 선임 절차에 들어갔고 황병우 회장의 연임 도전 여부가 관심",
+    "impact": "지배구조 이슈로 단기 영향은 제한적",
+    "affected": "iM금융지주"
+   }
   },
   {
    "id": "0b6825415c",
@@ -530,7 +601,12 @@
    "published_iso": "2026-09-28T15:27:37+09:00",
    "sort_key": 1790576857.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "외식비가 역대급으로 올라 서민 부담이 커졌다는 기사",
+    "impact": "체감 물가 부담이 소비 위축으로 이어질 수 있는 신호",
+    "affected": "외식·내수 소비주"
+   }
   },
   {
    "id": "4da819614e",
@@ -543,7 +619,12 @@
    "published_iso": "2026-09-28T15:27:22+09:00",
    "sort_key": 1790576842.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "유럽에서 전기차 판매가 휘발유·경유차를 앞질렀다는 단독 기사",
+    "impact": "유럽 전기차 수요 회복 신호로 배터리 업종에 우호적",
+    "affected": "LG에너지솔루션·삼성SDI 등 2차전지주"
+   }
   },
   {
    "id": "fee967fb5b",
@@ -556,7 +637,12 @@
    "published_iso": "2026-09-28T15:19:55+09:00",
    "sort_key": 1790576395.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "모든 기업이 디지털자산을 쓰게 될 것이라는 업계 행사 발언",
+    "impact": "시장 영향은 제한적",
+    "affected": "디지털자산 관련주 참고"
+   }
   },
   {
    "id": "3d91a5fb77",
@@ -569,7 +655,12 @@
    "published_iso": "2026-09-28T15:17:43+09:00",
    "sort_key": 1790576263.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "기관 자금을 디지털자산으로 끌어오려면 유동성과 위험관리 체계가 필요하다는 논의",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "000c48de78",
@@ -584,7 +675,12 @@
    "excerpt": "",
    "matched": [
     "TSLA"
-   ]
+   ],
+   "analysis": {
+    "summary": "구글·테슬라 주문이 몰려 LS전선 구미공장이 생산라인을 또 늘림",
+    "impact": "AI 데이터센터·전력 인프라 수요 호조로 전선 업종 실적에 우호적",
+    "affected": "LS전선(LS), 전선·전력기기주"
+   }
   },
   {
    "id": "5c5cdf58d7",
@@ -597,7 +693,12 @@
    "published_iso": "2026-09-28T14:56:02+09:00",
    "sort_key": 1790574962.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "최연소 장관 이소영이 취임 후 소통을 강조",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "c7d0849f8b",
@@ -610,7 +711,12 @@
    "published_iso": "2026-09-28T14:04:54+09:00",
    "sort_key": 1790571894.0,
    "excerpt": "Anglesey, Conwy and Gwynedd councils have all put a pause on introducing the nightly tourist tax.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "웨일스 관광세 도입을 유연하게 해야 한다는 전문가 의견",
+    "impact": "국내 시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "8385dd8afc",
@@ -623,7 +729,15 @@
    "published_iso": "2026-09-28T13:04:16+09:00",
    "sort_key": 1790568256.0,
    "excerpt": "Economists expect Beijing to lean harder on stimulus to stabilize corporate profitability, as consolidation accelerates in sectors facing sluggish demand and fierce competition.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중국 8월 산업이익 증가율이 4.2%로 올해 가장 낮았고 추가 부양책이 예상됨",
+    "impact": "중국 경기 둔화가 이어지면 한국 대중 수출과 소재·화학 업종에 부담, 부양책은 기대 요인",
+    "affected": "중국 관련 수출주, 화학·철강, 위안화",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "한국 최대 수출국인 중국의 기업 이익이 올해 가장 약해 4분기 대중 수출과 경기민감주 실적에 직접적인 변수"
+   }
   },
   {
    "id": "2666435b20",
@@ -636,7 +750,12 @@
    "published_iso": "2026-09-28T12:05:50+09:00",
    "sort_key": 1790564750.0,
    "excerpt": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 에이번티 웨스트코스트 철도가 내년 3월부터 국유화",
+    "impact": "국내 시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "673716a06e",
@@ -649,7 +768,12 @@
    "published_iso": "2026-09-28T09:00:00+09:00",
    "sort_key": 1790553600.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "이형일 부총리가 첫 경제현안간담회를 개최",
+    "impact": "정책 방향 확인 단계로 시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "14b3b0c6d7",
@@ -662,7 +786,12 @@
    "published_iso": "2026-09-28T09:00:00+09:00",
    "sort_key": 1790553600.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "이형일 부총리가 한국은행을 방문해 신현송 총재와 면담",
+    "impact": "정부·한은 정책 공조 신호, 금리 결정에 대한 직접 신호는 아님",
+    "affected": "국내 금리·환율 참고"
+   }
   },
   {
    "id": "888caaafff",
@@ -675,7 +804,12 @@
    "published_iso": "2026-09-28T08:20:43+09:00",
    "sort_key": 1790551243.0,
    "excerpt": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국에서 첫 집 계약금 1만7천 파운드를 모으는 방법 안내",
+    "impact": "시장 영향은 사실상 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "487aece96d",
@@ -688,7 +822,12 @@
    "published_iso": "2026-09-28T08:05:53+09:00",
    "sort_key": 1790550353.0,
    "excerpt": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 애버딘이 쇠퇴한 도심 상권 재생에 나선 사례",
+    "impact": "국내 시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "226090fccf",
