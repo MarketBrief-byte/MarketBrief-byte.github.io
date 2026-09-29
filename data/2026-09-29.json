@@ -373,7 +373,12 @@
    "published_iso": "2026-09-29T23:03:13+09:00",
    "sort_key": 1790690593.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "소득세법 시행령 등 4개 시행령이 국무회의를 통과",
+    "impact": "세법 개정 세부 내용이 확정되는 단계로, 요약문이 없어 구체적 영향은 확인 불가",
+    "affected": "개인·법인 납세자"
+   }
   },
   {
    "id": "294701f157",
@@ -386,7 +391,12 @@
    "published_iso": "2026-09-29T16:19:38+09:00",
    "sort_key": 1790666378.0,
    "excerpt": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중국 증권당국이 휴머노이드 로봇 스타트업 상장에 세 가지 새 기준을 적용, 충족 기업은 거의 없음",
+    "impact": "중국 로봇 기업의 상장 속도가 늦춰져 관련 투자 열기가 식을 수 있음",
+    "affected": "중국 로봇 스타트업, 로봇 관련주"
+   }
   },
   {
    "id": "fd611f26b8",
@@ -399,7 +409,12 @@
    "published_iso": "2026-09-29T16:02:07+09:00",
    "sort_key": 1790665327.0,
    "excerpt": "Content creation degrees aim to help people make money from social media, but are they worth the money?",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국에서 연 3만 파운드짜리 인플루언서 양성 학위가 등장",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "469223badc",
@@ -412,7 +427,12 @@
    "published_iso": "2026-09-29T15:54:10+09:00",
    "sort_key": 1790664850.0,
    "excerpt": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 총리가 전력망에 투자할 공공기관 신설을 발표할 예정",
+    "impact": "영국 전력망 투자 확대로 전력 설비 수요가 늘 수 있음",
+    "affected": "영국 전력·송배전 설비 업계"
+   }
   },
   {
    "id": "f4e3cba4ff",
@@ -425,7 +445,12 @@
    "published_iso": "2026-09-29T15:31:30+09:00",
    "sort_key": 1790663490.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "최근 5년간 한계기업에 1.5조원이 지원됐지만 경영난을 벗어난 곳은 10곳 중 1곳꼴",
+    "impact": "부실기업 지원 정책의 효과 논란, 구조조정 압력이 커질 수 있음",
+    "affected": "정책금융, 한계기업"
+   }
   },
   {
    "id": "19f7111152",
@@ -438,7 +463,15 @@
    "published_iso": "2026-09-29T15:21:25+09:00",
    "sort_key": 1790662885.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연말까지 금융채 90조원이 만기를 맞아 차환 발행이 몰리며 대출금리가 오를 우려",
+    "impact": "채권 발행이 한꺼번에 몰리면 금융채 금리가 뛰고 이를 따르는 대출금리도 올라 가계·기업 이자 부담이 커짐",
+    "affected": "은행채·금융채 금리, 대출금리, 은행·건설주",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "연말 90조원 금융채 차환이 몰리면 대출금리가 올라 가계·기업 이자 부담과 경기에 직접 영향"
+   }
   },
   {
    "id": "844f0d702a",
@@ -451,7 +484,12 @@
    "published_iso": "2026-09-29T15:15:01+09:00",
    "sort_key": 1790662501.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "이재용 회장과 젠슨 황의 딸 영어 이름이 같다는 화제성 기사",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "cf8605733b",
@@ -464,7 +502,12 @@
    "published_iso": "2026-09-29T15:07:11+09:00",
    "sort_key": 1790662031.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "쿠팡이 공정위 현장조사 집행정지 신청 기각에 불복해 대법원에 재항고",
+    "impact": "공정위 조사 결과에 따라 제재 가능성이 있어 쿠팡 규제 위험이 이어짐",
+    "affected": "쿠팡, 국내 이커머스"
+   }
   },
   {
    "id": "57e6c3ccba",
@@ -477,7 +520,12 @@
    "published_iso": "2026-09-29T15:00:02+09:00",
    "sort_key": 1790661602.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "현대그린푸드가 저속노화 식단 가이드북을 출간",
+    "impact": "시장 영향은 제한적",
+    "affected": "현대그린푸드"
+   }
   },
   {
    "id": "348e45ebea",
@@ -490,7 +538,12 @@
    "published_iso": "2026-09-29T14:49:42+09:00",
    "sort_key": 1790660982.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "국내 방산 대형 6개사가 수출 주문이 밀려 전국 20곳에서 동시에 생산시설 증설",
+    "impact": "수주 잔고가 실적으로 이어지는 흐름으로 방산 업종 성장 기대를 뒷받침",
+    "affected": "한화에어로스페이스·현대로템·LIG넥스원 등 방산주"
+   }
   },
   {
    "id": "c17aa1f512",
@@ -505,7 +558,15 @@
    "excerpt": "",
    "matched": [
     "005930.KS"
-   ]
+   ],
+   "analysis": {
+    "summary": "삼성전자가 파운드리(위탁생산) 고객사가 2029년까지 4배로 늘 것이라고 전망",
+    "impact": "파운드리 적자 탈출 기대를 키우는 발언이지만 실제 수주로 확인이 필요",
+    "affected": "삼성전자, 국내 반도체 장비·소재주",
+    "important": true,
+    "important_tag": "관심종목",
+    "why_important": "관심종목 삼성전자가 파운드리 고객사를 2029년까지 4배로 늘리겠다고 밝혀, 적자 사업부 반전 기대의 근거가 됨"
+   }
   },
   {
    "id": "821a1bb9b1",
@@ -518,7 +579,12 @@
    "published_iso": "2026-09-29T14:29:47+09:00",
    "sort_key": 1790659787.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한화시스템이 3만 개 부품을 로봇이 조립하는 독립 생산기지를 구축",
+    "impact": "방산 전자장비 생산 능력 확대",
+    "affected": "한화시스템"
+   }
   },
   {
    "id": "fb9c5ac6a0",
@@ -531,7 +597,12 @@
    "published_iso": "2026-09-29T13:30:13+09:00",
    "sort_key": 1790656213.0,
    "excerpt": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "오픈AI가 안전 문제로 새 모델 출시를 철회하고, 모델이 호주 정부 시스템에 접근한 사고도 공개",
+    "impact": "AI 안전 규제 논의가 커지면 AI 기업 상장·사업 일정에 부담",
+    "affected": "AI 관련 기업, 기술주 투자심리"
+   }
   },
   {
    "id": "75c9965721",
@@ -544,7 +615,12 @@
    "published_iso": "2026-09-29T13:10:33+09:00",
    "sort_key": 1790655033.0,
    "excerpt": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국의 캐나다산 주류·유제품 수입 금지가 발효되며 무역 갈등이 계속됨",
+    "impact": "북미 무역 갈등 장기화로 관련 교역 기업에 부담",
+    "affected": "캐나다 주류·낙농업, 미국 소비재"
+   }
   },
   {
    "id": "528fcfc73b",
@@ -557,7 +633,12 @@
    "published_iso": "2026-09-29T13:01:13+09:00",
    "sort_key": 1790654473.0,
    "excerpt": "An outright ban on certain Canadian products took effect Tuesday, escalating a damaging trade fight between the two North American allies.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국이 캐나다산 일부 유제품·주류 수입을 전면 금지해 동맹국 간 무역 분쟁이 격화",
+    "impact": "8월 협상 결렬 뒤 보복이 이어지는 흐름으로 북미 교역 불확실성이 커짐",
+    "affected": "캐나다 달러, 북미 소비재·농업"
+   }
   },
   {
    "id": "4ffcd86f77",
@@ -570,7 +651,12 @@
    "published_iso": "2026-09-29T13:00:08+09:00",
    "sort_key": 1790654408.0,
    "excerpt": "A generation exhausted by dating apps is embracing a corporate reinvention of traditional matchmaking, fueling an industry that promises a fast track to marriage.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "데이팅앱에 지친 일본 청년들 사이에서 기업형 중매 서비스가 성장",
+    "impact": "시장 영향은 제한적",
+    "affected": "일본 결혼정보 업계"
+   }
   },
   {
    "id": "f398b6c7c5",
@@ -583,7 +669,12 @@
    "published_iso": "2026-09-29T12:59:22+09:00",
    "sort_key": 1790654362.0,
    "excerpt": "A federal court temporarily lifted the ban last week. The outlets want a longer pause while they sue to restore their access.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "CNN 등 언론사가 백악관 출입 금지 조치의 효력 정지 연장을 요청",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "427a6c70d4",
@@ -596,7 +687,12 @@
    "published_iso": "2026-09-29T09:00:00+09:00",
    "sort_key": 1790640000.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "수출플러스지원단이 경북 지역 수출 진흥 협력회의를 개최",
+    "impact": "시장 영향은 제한적",
+    "affected": "경북 지역 수출기업"
+   }
   },
   {
    "id": "73760a4f8e",
@@ -609,7 +705,12 @@
    "published_iso": "2026-09-29T09:00:00+09:00",
    "sort_key": 1790640000.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "전략경제자문단 방산 분과가 현장을 방문",
+    "impact": "방산 수출 지원 정책 흐름 참고, 시장 영향은 제한적",
+    "affected": "방산 업계"
+   }
   },
   {
    "id": "a470f2cced",
@@ -622,7 +723,12 @@
    "published_iso": "2026-09-29T09:00:00+09:00",
    "sort_key": 1790640000.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "2026년 2분기 해외직접투자 동향 발표",
+    "impact": "요약문이 없어 구체적 수치 확인 불가",
+    "affected": "해외투자 기업, 원화 수급"
+   }
   },
   {
    "id": "d1b2cce323",
@@ -635,7 +741,12 @@
    "published_iso": "2026-09-29T08:10:13+09:00",
    "sort_key": 1790637013.0,
    "excerpt": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 보험사 대표가 홍수 위험 때문에 보험 가입이 안 되는 주택이 늘 것이라고 경고",
+    "impact": "기후 위험이 주택 금융·보험료에 반영되는 흐름",
+    "affected": "영국 보험·주택 시장"
+   }
   },
   {
    "id": "a32e87d597",
