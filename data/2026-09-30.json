@@ -343,7 +343,12 @@
    "published_iso": "2026-09-30T07:07:00+09:00",
    "sort_key": 1790719620.0,
    "excerpt": "(서울=연합뉴스) 한승호 선임기자 = 금융산업 노사가 내년 4월부터 은행 점포 영업시간을 30분 줄이기로 잠정 합의했다. 개점 시간을 현행 오전...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "금융 노사가 내년 4월부터 은행 점포 영업시간을 30분 줄이기로 잠정 합의",
+    "impact": "은행 이용 편의가 줄 수 있으나 시장 영향은 제한적",
+    "affected": "은행 이용자, 은행 인건비"
+   }
   },
   {
    "id": "079a25e859",
@@ -356,7 +361,12 @@
    "published_iso": "2026-09-30T07:06:18+09:00",
    "sort_key": 1790719578.0,
    "excerpt": "Sam Altman spoke in San Francisco during OpenAI’s yearly event for tech developers.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "오픈AI가 에이전트 기능을 'dots'로 이름을 바꾸고, 안전 문제로 새 모델 출시는 미룸",
+    "impact": "AI 안전 문제로 제품 일정이 밀리는 흐름이 이어짐",
+    "affected": "AI 관련 기업, 기술주 투자심리"
+   }
   },
   {
    "id": "266de5c6b0",
@@ -369,7 +379,12 @@
    "published_iso": "2026-09-30T07:01:01+09:00",
    "sort_key": 1790719261.0,
    "excerpt": "(부산=연합뉴스) 이영재 기자 = 부산 북항 친수공원 인공 수로에 들어와 열흘 넘게 체류 중인 상어 &apos;부캉이&apos;가 전국적인 명물로 떠올랐지만, 그...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "부산 북항에 들어온 상어를 계기로 기후변화에 따른 해양생태계 변화를 다룬 기사",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "a8f1fabcff",
@@ -382,7 +397,12 @@
    "published_iso": "2026-09-30T07:01:00+09:00",
    "sort_key": 1790719260.0,
    "excerpt": "(서울=연합뉴스) 장하나 기자 = 중국 자동차 업계가 내수 부진을 타개하기 위해 수출뿐 아니라 유럽 등에서 해외 현지 생산을 늘리며 시장 점유율...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "내수 부진에 중국 완성차 업체들이 수출과 유럽 등 해외 현지생산을 늘림",
+    "impact": "해외 시장에서 중국차와의 가격 경쟁이 더 치열해질 수 있음",
+    "affected": "현대차·기아 등 완성차, 유럽 자동차 업계"
+   }
   },
   {
    "id": "8125d386d6",
@@ -395,7 +415,12 @@
    "published_iso": "2026-09-30T06:33:00+09:00",
    "sort_key": 1790717580.0,
    "excerpt": "(서울=연합뉴스) 권하영 기자 = 대형 인공지능(AI) 데이터센터 1곳을 구축할 경우 산업 전반에서 최대 3조5천억원의 생산창출효과가 발생할 수...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "대형 AI 데이터센터 1곳이 산업 전반에 최대 3.5조원 생산효과를 낸다는 분석",
+    "impact": "데이터센터 투자가 전력·건설·반도체 수요를 끌어올리는 근거",
+    "affected": "전력 설비, 건설, 메모리 반도체"
+   }
   },
   {
    "id": "a682e926c9",
@@ -408,7 +433,12 @@
    "published_iso": "2026-09-30T06:30:02+09:00",
    "sort_key": 1790717402.0,
    "excerpt": "(서울=연합뉴스) 한주홍 기자 = 농수산물 온라인 도매시장에서 이뤄진 거래 4건 중 1건 이상이 비전형적인 이상·특이거래로 분류된 것으로 나타났...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "농수산물 온라인 도매시장 거래 4건 중 1건 이상이 이상·특이거래로 분류됨",
+    "impact": "거래 감독 강화 가능성, 시장 영향은 제한적",
+    "affected": "농수산물 유통"
+   }
   },
   {
    "id": "000c69d210",
@@ -421,7 +451,12 @@
    "published_iso": "2026-09-30T06:26:17+09:00",
    "sort_key": 1790717177.0,
    "excerpt": "(울산=연합뉴스) 김근주 기자 = HD현대중공업 노사가 30일 월 기본급 12만원(호봉승급분 포함) 인상을 골자로 한 올해 임금 및 단체협약(임...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "HD현대중공업 노사가 기본급 12만원 인상 등 임단협에 잠정 합의",
+    "impact": "파업 위험이 줄어 조선 생산 차질 우려가 낮아짐",
+    "affected": "HD현대중공업, 조선주"
+   }
   },
   {
    "id": "05d5990b8b",
@@ -434,7 +469,12 @@
    "published_iso": "2026-09-30T06:07:01+09:00",
    "sort_key": 1790716021.0,
    "excerpt": "(서울=연합뉴스) 서미숙 기자 = 한국토지주택공사(LH)가 발주한 건설사업관리(CM) 공사에서 입찰 담합으로 적발된 업체들이 지난해 공정거래위원...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "입찰 담합으로 적발된 업체들이 LH 사업을 3천억원 가까이 수주한 것으로 드러남",
+    "impact": "공공 발주 제재 강화 논의로 이어질 수 있음",
+    "affected": "건설사업관리 업계, LH"
+   }
   },
   {
    "id": "6019c18b43",
@@ -447,7 +487,15 @@
    "published_iso": "2026-09-30T06:03:56+09:00",
    "sort_key": 1790715836.0,
    "excerpt": "More tankers are moving through the Strait of Hormuz as shippers gain confidence, but the global supply of oil is still below demand.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "호르무즈 해협을 지나는 유조선이 늘며 중동 원유 수출이 회복, 다만 공급은 여전히 수요보다 부족",
+    "impact": "공급 차질이 풀리기 시작하면 유가 급등세가 진정될 수 있지만 아직 가격은 높은 수준",
+    "affected": "국제유가, 정유·항공·해운주, 물가",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "호르무즈 해협 원유 수출이 회복되기 시작해, 최근 유가 급등이 진정될지 가늠하는 신호"
+   }
   },
   {
    "id": "781c92b45f",
@@ -460,7 +508,12 @@
    "published_iso": "2026-09-30T06:01:01+09:00",
    "sort_key": 1790715661.0,
    "excerpt": "(서울=연합뉴스) 한혜원 기자 = 비정규직 근로자의 낮은 생활 만족도가 고용 형태 자체보다 사회보험 배제와 낮은 경제적 보상이라는 구조적 조건에...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "비정규직의 낮은 생활만족도는 고용보험 배제와 낮은 임금 등 구조적 조건 때문이라는 분석",
+    "impact": "시장 영향은 제한적",
+    "affected": "노동 정책"
+   }
   },
   {
    "id": "608282a65e",
@@ -473,7 +526,12 @@
    "published_iso": "2026-09-30T06:00:09+09:00",
    "sort_key": 1790715609.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "반도체에 경제가 쏠린 한국과 대만이 다른 업종은 부진한 양극화를 함께 고민",
+    "impact": "반도체 호황이 경제 전반으로 퍼지지 않는 구조적 한계",
+    "affected": "한국·대만 증시, 내수 업종"
+   }
   },
   {
    "id": "20777a3c2b",
@@ -486,7 +544,12 @@
    "published_iso": "2026-09-30T05:50:10+09:00",
    "sort_key": 1790715010.0,
    "excerpt": "The Goldman Sachs board has reportedly discussed replacing CEO David Solomon, 64, with president John Waldron, 57, as early as next year.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "골드만삭스 이사회가 솔로몬 CEO 후임으로 월드론 사장을 내년에 앉히는 방안을 논의했다는 보도",
+    "impact": "경영진 교체 시기 관련 불확실성, 시장 영향은 제한적",
+    "affected": "골드만삭스"
+   }
   },
   {
    "id": "4816ab1686",
@@ -499,7 +562,12 @@
    "published_iso": "2026-09-30T05:33:08+09:00",
    "sort_key": 1790713988.0,
    "excerpt": "The higher-than-consensus expectations are a bet that the U.S. had another strong month of job growth.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "예측시장 참여자들은 미국 9월 일자리 증가가 경제학자 예상보다 많을 것으로 베팅",
+    "impact": "고용이 강하면 금리 인하 기대가 줄어들 수 있음",
+    "affected": "미국 국채금리, 달러"
+   }
   },
   {
    "id": "1478a16716",
@@ -512,7 +580,12 @@
    "published_iso": "2026-09-30T05:00:00+09:00",
    "sort_key": 1790712000.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연준 등 감독당국이 15개 대형 은행그룹의 정리계획(파산 대비 계획) 평가 결과를 공개",
+    "impact": "대형 은행의 자본·유동성 관리 부담 참고, 시장 영향은 제한적",
+    "affected": "미국 대형 은행"
+   }
   },
   {
    "id": "d2612f2fb5",
@@ -525,7 +598,12 @@
    "published_iso": "2026-09-30T04:59:11+09:00",
    "sort_key": 1790711951.0,
    "excerpt": "Saudi authorities had taken the pipeline offline this month after it was damaged in a drone attack by an Iranian-backed Iraqi militia.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "이란 지원 세력의 드론 공격으로 멈췄던 사우디 송유관에서 다시 원유 선적이 시작됨",
+    "impact": "원유 공급 차질이 일부 풀려 유가 부담을 덜어줄 수 있음",
+    "affected": "국제유가, 정유주"
+   }
   },
   {
    "id": "1d4e4d47c7",
@@ -538,7 +616,12 @@
    "published_iso": "2026-09-30T04:10:06+09:00",
    "sort_key": 1790709006.0,
    "excerpt": "A former chef contacted Hackney Council after complaining to managers at the members' club.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 회원제 클럽 소호하우스 매장이 식품 안전 문제로 조사를 받음",
+    "impact": "시장 영향은 제한적",
+    "affected": "소호하우스"
+   }
   },
   {
    "id": "9bf441aa06",
@@ -551,7 +634,12 @@
    "published_iso": "2026-09-30T02:39:06+09:00",
    "sort_key": 1790703546.0,
    "excerpt": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 총리가 간병 재원 마련을 위해 연금 '트리플 락'을 2030년에 끝내겠다고 발표",
+    "impact": "영국 재정 부담 완화 신호로 국채에는 우호적일 수 있으나 정치적 반발 예상",
+    "affected": "영국 국채·연금 수급자"
+   }
   },
   {
    "id": "6c23dfafec",
@@ -564,7 +652,12 @@
    "published_iso": "2026-09-30T02:17:07+09:00",
    "sort_key": 1790702227.0,
    "excerpt": "The wearable technology company had been expected to list its shares in the US.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "웨어러블 기업 오우라가 발표 며칠 만에 150억달러 규모 미국 상장을 철회",
+    "impact": "기술기업 상장 시장 분위기가 아직 불안하다는 신호",
+    "affected": "기술주 상장(IPO) 시장"
+   }
   },
   {
    "id": "9d609dedac",
@@ -577,7 +670,12 @@
    "published_iso": "2026-09-30T02:15:02+09:00",
    "sort_key": 1790702102.0,
    "excerpt": "A new “propaganda playbook” aims to demystify common techniques used to target Black Americans, long a powerful voting bloc, with election-related disinformation.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 중간선거를 앞두고 흑인 유권자 대상 허위정보에 대비하는 움직임",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "bc8d78bfb3",
@@ -590,7 +688,12 @@
    "published_iso": "2026-09-30T02:09:46+09:00",
    "sort_key": 1790701786.0,
    "excerpt": "The triple lock guarantees that the state pension is not overtaken by inflation or wage increases.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 연금 인상 보장 제도 '트리플 락'이 무엇인지 설명한 해설",
+    "impact": "시장 영향은 제한적",
+    "affected": "영국 연금 수급자"
+   }
   },
   {
    "id": "8fad0e89c2",
@@ -603,7 +706,12 @@
    "published_iso": "2026-09-30T01:43:39+09:00",
    "sort_key": 1790700219.0,
    "excerpt": "I had expected him to try to forge a political consensus on this thorny issue at this stage, but he has gone further than that.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 총리의 트리플 락 폐지 발표는 의미 있지만 정치적 도박이라는 분석",
+    "impact": "영국 재정 정책 불확실성",
+    "affected": "영국 국채"
+   }
   },
   {
    "id": "db2d9458ad",
@@ -616,7 +724,15 @@
    "published_iso": "2026-09-30T01:05:38+09:00",
    "sort_key": 1790697938.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 30년 만기 국채 금리가 5.609%로 2002년 이후 가장 높아짐",
+    "impact": "장기 금리 급등은 주택담보대출·기업 자금 비용을 올리고 성장주 가치평가를 크게 누름",
+    "affected": "미국 국채, 기술·성장주, 부동산, 한국 증시",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "미국 30년물 금리가 24년 만의 최고로 오르면 전 세계 자금 비용과 성장주 가치평가에 직접 부담"
+   }
   },
   {
    "id": "13c9d2de79",
@@ -629,7 +745,15 @@
    "published_iso": "2026-09-30T00:41:19+09:00",
    "sort_key": 1790696479.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "마이크론의 순이익이 940% 급증할 것으로 예상돼 메모리 '정점 도달' 우려를 잠재울지 주목",
+    "impact": "실적이 기대를 넘으면 메모리 업황 확장 기대가 이어져 국내 메모리주에도 영향",
+    "affected": "마이크론, 삼성전자, SK하이닉스",
+    "important": true,
+    "important_tag": "산업·실적",
+    "why_important": "마이크론 실적은 메모리 업황의 선행 지표라 관심종목 삼성전자·SK하이닉스 주가 방향과 직결"
+   }
   },
   {
    "id": "6c3e404036",
@@ -642,7 +766,12 @@
    "published_iso": "2026-09-30T00:31:45+09:00",
    "sort_key": 1790695905.0,
    "excerpt": "Dorm Room Fund, a program that lets college students invest in their peers, raised a new $50 million fund as the competition for young founders ramps up.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "대학생이 동료 창업자에게 투자하는 펀드가 5천만달러를 새로 모집, AI 투자 열풍 반영",
+    "impact": "시장 영향은 제한적",
+    "affected": "초기 스타트업 투자"
+   }
   },
   {
    "id": "90a739be7e",
@@ -655,7 +784,15 @@
    "published_iso": "2026-09-30T00:29:03+09:00",
    "sort_key": 1790695743.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 9월 소비자신뢰지수가 12년 만에 최저로 떨어지며 생활비 부담이 커짐",
+    "impact": "소비 위축이 경기 둔화로 이어질 수 있어 소비 관련주와 금리 전망에 영향",
+    "affected": "미국 소비·유통주, 국채금리",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "소비자신뢰가 12년 만의 최저로 떨어져 미국 경기 둔화 우려와 금리 전망을 바꿀 수 있는 핵심 지표"
+   }
   },
   {
    "id": "14f1b9c0bb",
@@ -668,7 +805,12 @@
    "published_iso": "2026-09-29T23:50:51+09:00",
    "sort_key": 1790693451.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "앤트로픽은 '안전', 메타는 '확장'에 무게를 둔 서로 다른 AI 전략 비교",
+    "impact": "시장 영향은 제한적",
+    "affected": "AI 관련 기업"
+   }
   },
   {
    "id": "e6957bd510",
@@ -681,7 +823,12 @@
    "published_iso": "2026-09-29T23:37:07+09:00",
    "sort_key": 1790692627.0,
    "excerpt": "President Donald Trump disclosed municipal bond holdings worth $300 million to $1 billion, including debt tied to issuers affected by federal policy.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프 대통령이 연방 정책의 영향을 받는 발행처를 포함해 최대 10억달러 지방채를 보유한 것으로 공개",
+    "impact": "이해충돌 논란 소지, 시장 영향은 제한적",
+    "affected": "미국 지방채"
+   }
   },
   {
    "id": "fd5927402f",
@@ -694,7 +841,12 @@
    "published_iso": "2026-09-29T23:34:46+09:00",
    "sort_key": 1790692486.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 8월 구인공고가 710만건으로 예상보다 적음",
+    "impact": "노동 수요가 식는 신호로 금리 인하 기대를 키울 수 있음",
+    "affected": "미국 국채금리, 달러"
+   }
   },
   {
    "id": "9ce4998ce3",
@@ -707,7 +859,12 @@
    "published_iso": "2026-09-29T23:15:47+09:00",
    "sort_key": 1790691347.0,
    "excerpt": "The new question, included on a draft version of the primary tax form, comes as part of an anti-immigrant turn at an agency that long prioritized tax administration.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 국세청이 세금 신고서에 시민권 여부를 묻는 항목을 추가하려고 준비",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "a662ecbccf",
@@ -720,7 +877,12 @@
    "published_iso": "2026-09-29T22:48:25+09:00",
    "sort_key": 1790689705.0,
    "excerpt": "The company said that Candyrific of Louisville, Ky., will produce the jelly candy that comes in a rainbow of colors and citrus flavors and is used in Jewish traditions.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "단종됐던 선키스트 젤리 사탕이 다른 업체를 통해 다시 생산됨",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "5b1b37703b",
@@ -733,7 +895,12 @@
    "published_iso": "2026-09-29T22:47:19+09:00",
    "sort_key": 1790689639.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중국 알리바바·딥시크의 AI 에이전트에서도 속이거나 위조하는 행동이 확인됨",
+    "impact": "AI 안전성 논란이 중국 AI 기업으로도 번짐",
+    "affected": "중국 AI 기업"
+   }
   },
   {
    "id": "a0f3c01358",
@@ -746,7 +913,12 @@
    "published_iso": "2026-09-29T22:00:01+09:00",
    "sort_key": 1790686801.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "떡볶이 한 품목으로 매출 2,700억원을 낸 창업 성공 사례",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "50020e5e0c",
@@ -759,7 +931,12 @@
    "published_iso": "2026-09-29T21:00:33+09:00",
    "sort_key": 1790683233.0,
    "excerpt": "Lisa Mantil, after a nearly three-decade run at Goldman, will join the prediction market's team to attract institutional traders.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "예측시장 폴리마켓이 월가 기관 자금 유치를 위해 골드만삭스 출신 임원을 영입",
+    "impact": "시장 영향은 제한적",
+    "affected": "예측시장 업계"
+   }
   },
   {
    "id": "b5393a1a18",
@@ -772,7 +949,12 @@
    "published_iso": "2026-09-29T20:58:36+09:00",
    "sort_key": 1790683116.0,
    "excerpt": "The artificial intelligence giant reportedly believes that it’s on track for a record-breaking stock market listing, according to a prospectus seen by Reuters.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "앤트로픽 상장 신청서 내용 — 사상 최대 규모 상장을 예상한다는 보도",
+    "impact": "대형 AI 기업 상장은 AI 관련주 전반의 가치평가 기준이 될 수 있음",
+    "affected": "AI 관련 기업, 기술주 상장 시장"
+   }
   },
   {
    "id": "2dc2346464",
@@ -785,7 +967,12 @@
    "published_iso": "2026-09-29T17:00:00+09:00",
    "sort_key": 1790668800.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "유럽중앙은행이 정기 점검의 일환으로 통화정책 운용 지침을 개정",
+    "impact": "요약문이 없어 세부 내용 확인 불가, 시장 영향은 제한적",
+    "affected": "유로화, 유럽 단기금리"
+   }
   },
   {
    "id": "6a62097786",
@@ -798,7 +985,12 @@
    "published_iso": "2026-09-29T09:00:00+09:00",
    "sort_key": 1790640000.0,
    "excerpt": "합동대응단은 명문대 경영동아리 출신 정보카르텔을 적발하여 압수수색을 실시하고 혐의자 재산을 동결하였습니다.&nbsp; -금융위&middot;금감원&middot;거래소 ｢주가조작 근절 합동대응단｣(단장 황선오)은 상장사 공개매수 등 지배구조 개편 또는 M&amp;A 정보를 이용하여 200억원 이상의 부당이득을 취한 미공개정보 이용세력을 적발하였습니다. &nbsp; &nbsp; - 본 사건의 핵심 혐의자들은 명문대 경영동아리, 글로벌 컨설팅회사 출신으로 일종의 &lsquo;정보카르텔&rsquo;을 형성하고, 상장사 내부정보를 공유하며 ",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "주가조작 합동대응단이 M&A 미공개정보로 200억원 넘게 부당이득을 챙긴 명문대 동아리 출신 일당을 적발",
+    "impact": "불공정거래 단속 강화 흐름",
+    "affected": "한국 증시 투자자 보호"
+   }
   },
   {
    "id": "6ec35c7b17",
@@ -811,7 +1003,12 @@
    "published_iso": "2026-09-29T09:00:00+09:00",
    "sort_key": 1790640000.0,
    "excerpt": "[코리아 프리미엄 위크 2026]&nbsp; &nbsp; 이억원 금융위원장 일본 금융청장 면담&nbsp; &nbsp; - 한-일 금융시장 정책‧동향을 공유하고, &nbsp; &nbsp;&nbsp;&nbsp;양국 간 지속적인 금융 협력 강화를 약속 -&nbsp; &nbsp; &nbsp; &nbsp; 이억원 금융위원장은 9월 29일(화) 이토 유타카(Ito Yutaka) 일본 금융청장과 면담하였다. 이토 금융청장은 전일 코리아 프리미엄 위크 개막식에 참석하여 그간 한국 정부가 자본시장 체질 개선을 위해 지속해 온 다각적인 정책 노력을 ",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "금융위원장이 일본 금융청장과 만나 양국 금융시장 협력 강화를 약속",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   }
  ],
  "news_groups": {
