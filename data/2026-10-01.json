@@ -359,7 +359,12 @@
    "published_iso": "2026-10-01T07:21:27+09:00",
    "sort_key": 1790806887.0,
    "excerpt": "Kashkari will sit down with CNBC's Steve Liesman for an exclusive conversation Wednesday night.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "카시카리 미니애폴리스 연은 총재가 8월 물가(PCE)가 예상보다 낮았는데도 인플레이션이 여전히 너무 높다고 발언",
+    "impact": "연준 인사들이 금리 인하에 신중하다는 신호로 금리 인하 기대를 누를 수 있음",
+    "affected": "미국 국채금리, 성장주"
+   }
   },
   {
    "id": "fbbe3ba9e5",
@@ -372,7 +377,12 @@
    "published_iso": "2026-10-01T07:17:00+09:00",
    "sort_key": 1790806620.0,
    "excerpt": "(부천=연합뉴스) 최은지 기자 = 급전이 필요한 여성들을 노린 성착취 형태의 불법 사금융 범죄가 기승을 부리고 있다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "급전이 필요한 여성을 노린 성착취형 불법 사금융 범죄가 늘고 있음",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "af174e68da",
@@ -385,7 +395,12 @@
    "published_iso": "2026-10-01T07:12:50+09:00",
    "sort_key": 1790806370.0,
    "excerpt": "Beneath the S&amp;P 500’s 2 percent gain in the third quarter, the rise in oil prices and bond yields led some investors to become more cautious about the outlook for A.I. profits.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "3분기 S&P 500이 2% 오르며 최고치를 경신했지만, 유가·국채금리 상승에 투자자들이 AI 전망에 신중해짐",
+    "impact": "상승장 속에서도 금리·유가 부담으로 변동성이 커질 수 있음",
+    "affected": "미국 증시, AI 관련주"
+   }
   },
   {
    "id": "5753868917",
@@ -398,7 +413,12 @@
    "published_iso": "2026-10-01T07:11:33+09:00",
    "sort_key": 1790806293.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "밥값·교통비가 부족해 빚으로 버티는 대학생이 늘고 있다는 기사",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "59ed0829a9",
@@ -411,7 +431,12 @@
    "published_iso": "2026-10-01T07:10:00+09:00",
    "sort_key": 1790806200.0,
    "excerpt": "(서울=연합뉴스) 조다운 기자 = 전국 주유소 중 기름값이 가장 저렴한 주유소는 한국도로공사가 운영하는 고속도로 알뜰주유소(EX-OIL), 기름...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "전국 주유소 중 SK에너지가 가장 비싸고 고속도로 알뜰주유소가 가장 싸다는 조사",
+    "impact": "시장 영향은 제한적",
+    "affected": "정유·주유소 업계"
+   }
   },
   {
    "id": "c3fc9ccff3",
@@ -426,7 +451,12 @@
    "excerpt": "",
    "matched": [
     "005380.KS"
-   ]
+   ],
+   "analysis": {
+    "summary": "신차 공백기에 현대차가 인기 모델 개선판으로 승부수를 던짐",
+    "impact": "판매 방어 전략, 시장 영향은 제한적",
+    "affected": "현대차"
+   }
   },
   {
    "id": "0afcf1ecdf",
@@ -439,7 +469,12 @@
    "published_iso": "2026-10-01T07:00:12+09:00",
    "sort_key": 1790805612.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "블랙록이 AI 투자 확대로 데이터센터에 이어 발전사까지 사들이며 전기료 논란",
+    "impact": "AI 데이터센터 전력 수요가 전력 인프라 가치를 끌어올리는 흐름",
+    "affected": "전력·유틸리티, 데이터센터 관련주"
+   }
   },
   {
    "id": "17ad3ad2e9",
@@ -452,7 +487,12 @@
    "published_iso": "2026-10-01T07:00:04+09:00",
    "sort_key": 1790805604.0,
    "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "말라위 창고 사업이 식량난 극복에 도움이 된 사례를 다룬 아프리카 개발협력 칼럼",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "252bbaa067",
@@ -465,7 +505,12 @@
    "published_iso": "2026-10-01T06:57:00+09:00",
    "sort_key": 1790805420.0,
    "excerpt": "(세종=연합뉴스) 이대희 기자 = 어려운 납세자의 세금 불복 절차를 돕는 국세청 국선대리인의 지원 실적이 2년 연속 감소한 것으로 집계됐다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영세 납세자의 세금 불복을 돕는 국선대리인 지원이 2년 새 18% 줄어듦",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "5e0c6816de",
@@ -478,7 +523,12 @@
    "published_iso": "2026-10-01T06:36:24+09:00",
    "sort_key": 1790804184.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "삼성전자·SK하이닉스 호남 사업장 직원 주거비에 세금 2,000억원을 지원하는 방안이 논란",
+    "impact": "반도체 지역 투자 지원 정책 논쟁, 시장 영향은 제한적",
+    "affected": "삼성전자, SK하이닉스"
+   }
   },
   {
    "id": "be8972b6b9",
@@ -491,7 +541,12 @@
    "published_iso": "2026-10-01T06:30:04+09:00",
    "sort_key": 1790803804.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "3분기 증시 거래대금이 크게 줄며 코스피가 6,800선에서 마감, 4분기 전망 분석",
+    "impact": "거래대금 감소는 상승 동력이 약해졌다는 신호일 수 있음",
+    "affected": "코스피, 증권주"
+   }
   },
   {
    "id": "b53af536fb",
@@ -506,7 +561,12 @@
    "excerpt": "(서울=연합뉴스) 권혜진 기자 = &quot;집 청소하다가 보조배터리가 이렇게 부푼 것을 발견했어요. 조금만 건드려도 터질 것 같은데 어떻게 해야하나요....",
    "matched": [
     "373220.KS"
-   ]
+   ],
+   "analysis": {
+    "summary": "부풀어 오른 보조배터리를 소금물에 넣으라는 속설이 맞는지 확인한 팩트체크",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "0c5bccb3d6",
@@ -519,7 +579,12 @@
    "published_iso": "2026-10-01T06:18:56+09:00",
    "sort_key": 1790803136.0,
    "excerpt": "100 Zeros, a collaboration between Google and Range Media Partners, aims to give the tech giant a foothold in movies, TV and emerging forms of entertainment.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "구글이 영화·방송 업계와 손잡고 엔터테인먼트 분야에 진출하려는 협업을 추진",
+    "impact": "시장 영향은 제한적",
+    "affected": "구글, 콘텐츠 업계"
+   }
   },
   {
    "id": "3b504776e8",
@@ -532,7 +597,12 @@
    "published_iso": "2026-10-01T06:09:42+09:00",
    "sort_key": 1790802582.0,
    "excerpt": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "칼시·폴리마켓 등 예측시장 일부 상품의 이상한 거래량에 부풀리기 의혹",
+    "impact": "예측시장 규제 강화 가능성",
+    "affected": "예측시장 업계"
+   }
   },
   {
    "id": "0910ba16b2",
@@ -545,7 +615,15 @@
    "published_iso": "2026-10-01T06:09:34+09:00",
    "sort_key": 1790802574.0,
    "excerpt": "(서울=연합뉴스) 신창용 장보인 기자 = 도널드 트럼프 미국 행정부의 추가 관세 발표가 임박한 가운데 통상 당국이 미국 측으로부터 기존 관세 합...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "산업장관이 미국 추가 관세 발표를 앞두고 대미 투자는 관세 압박 관리용이며 관세 15% 상한을 미국과 재확인했다고 밝힘",
+    "impact": "한국 수출품 관세가 15%를 넘지 않는다는 확인은 수출기업 불확실성을 줄여줌",
+    "affected": "자동차·반도체 등 대미 수출주",
+    "important": true,
+    "important_tag": "정책·무역",
+    "why_important": "트럼프 추가 관세 발표를 앞두고 한국산 관세 15% 상한을 재확인 — 자동차·반도체 수출 불확실성을 줄이는 소식"
+   }
   },
   {
    "id": "99240bda8c",
@@ -558,7 +636,12 @@
    "published_iso": "2026-10-01T06:07:03+09:00",
    "sort_key": 1790802423.0,
    "excerpt": "(서울=연합뉴스) 장보인 기자 = 한국과 미국 정부의 길고 치열한 협상 끝에 대미투자 프로젝트는 에너지 분야 사업으로 추려졌다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한미 협상 끝에 대미 투자 사업이 가스발전·원전·알래스카 에너지 사업으로 정리됨",
+    "impact": "에너지 설비·건설 기업에 수주 기회",
+    "affected": "원전·발전설비·LNG 관련주"
+   }
   },
   {
    "id": "557f6c995f",
@@ -571,7 +654,12 @@
    "published_iso": "2026-10-01T06:07:02+09:00",
    "sort_key": 1790802422.0,
    "excerpt": "(서울=연합뉴스) 옥성구 기자 = 오는 2일부터 전국 노동감독관 5천여명이 검사의 지휘 없이 임금체불·산업재해 등 사건을 수사하게 되는 가운데 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "노동감독관 5천여명이 검사 지휘 없이 임금체불·산재 사건을 수사하게 되지만 전문자격 보유자는 17명뿐",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "76cffb83fd",
@@ -584,7 +672,12 @@
    "published_iso": "2026-10-01T06:05:13+09:00",
    "sort_key": 1790802313.0,
    "excerpt": "Roger Lynch, who has led the publisher for more than seven years, will become the chief executive of the toy company, he said Wednesday.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "콘데나스트 최고경영자가 장난감 회사 마텔의 새 CEO로 이동",
+    "impact": "경영진 교체, 시장 영향은 제한적",
+    "affected": "마텔"
+   }
   },
   {
    "id": "1cf9391d04",
@@ -597,7 +690,12 @@
    "published_iso": "2026-10-01T06:00:12+09:00",
    "sort_key": 1790802012.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "5만원에 집안 가전 34종을 수리해 주는 서비스 등장",
+    "impact": "시장 영향은 제한적",
+    "affected": "가전 서비스 업계"
+   }
   },
   {
    "id": "5c1043b414",
@@ -610,7 +708,12 @@
    "published_iso": "2026-10-01T05:17:19+09:00",
    "sort_key": 1790799439.0,
    "excerpt": "A securities filing laid out the terms of the deal between Truth Social’s parent company and TAE Technologies, which was formally announced in December.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프 미디어와 핵융합 기업 TAE의 합병 조건이 공시되며 성사에 가까워짐",
+    "impact": "시장 영향은 제한적",
+    "affected": "트럼프 미디어"
+   }
   },
   {
    "id": "28e517c196",
@@ -623,7 +726,12 @@
    "published_iso": "2026-10-01T05:16:46+09:00",
    "sort_key": 1790799406.0,
    "excerpt": "A new report by the Federal Reserve’s independent inspector general concluded that a nearly $2.5 billion construction project was poorly managed but made no referrals to the U.S. attorney general.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연준 감사관이 25억달러 청사 리모델링에서 위법 행위는 없었다고 결론",
+    "impact": "연준 독립성 공방과 관련된 이슈, 시장 영향은 제한적",
+    "affected": "연준"
+   }
   },
   {
    "id": "b76319f40c",
@@ -636,7 +744,12 @@
    "published_iso": "2026-10-01T04:25:06+09:00",
    "sort_key": 1790796306.0,
    "excerpt": "Epic’s engineers deployed an Anthropic tool that exposed security risks that could allow undetected access to millions of patient records.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "의료기록 기업 에픽이 앤트로픽 AI 도구로 수백만 명 환자기록 접근 위험을 찾아냄",
+    "impact": "AI를 활용한 보안 점검 사례, 시장 영향은 제한적",
+    "affected": "의료 IT, AI 보안"
+   }
   },
   {
    "id": "4a99f26350",
@@ -649,7 +762,12 @@
    "published_iso": "2026-10-01T03:17:41+09:00",
    "sort_key": 1790792261.0,
    "excerpt": "The Equal Employment Opportunity Commission filed a lawsuit asking a judge to compel the university to provide information on hiring practices that the agency said discriminated against white men.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 고용평등위원회가 채용 다양성 자료 제출을 요구하며 하버드대를 제소",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "1b0f79c60a",
@@ -662,7 +780,12 @@
    "published_iso": "2026-10-01T02:00:00+09:00",
    "sort_key": 1790787600.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "라가르드 유럽중앙은행 총재의 프랑스 언론 인터뷰",
+    "impact": "요약문이 없어 발언 내용 확인 불가",
+    "affected": "유로화, 유럽 국채"
+   }
   },
   {
    "id": "7aa36ab4e2",
@@ -675,7 +798,12 @@
    "published_iso": "2026-10-01T01:50:28+09:00",
    "sort_key": 1790787028.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 8월 PCE 물가가 예상치를 밑돎",
+    "impact": "물가 둔화는 금리 인하 기대를 살릴 수 있음",
+    "affected": "미국 국채금리, 성장주"
+   }
   },
   {
    "id": "9e3a13c4de",
@@ -688,7 +816,12 @@
    "published_iso": "2026-10-01T00:45:00+09:00",
    "sort_key": 1790783100.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "슈나벨 유럽중앙은행 이사의 '여러 충격이 겹친 세계의 통화정책' 연설",
+    "impact": "요약문이 없어 내용 확인 불가",
+    "affected": "유럽 금리"
+   }
   },
   {
    "id": "21da30a4e9",
@@ -701,7 +834,12 @@
    "published_iso": "2026-10-01T00:14:40+09:00",
    "sort_key": 1790781280.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프의 60개국 대상 '강제노동' 관세도 법원 판단을 받게 됨",
+    "impact": "관세 조치의 법적 불확실성 확대",
+    "affected": "대미 수출국 기업"
+   }
   },
   {
    "id": "e9cb682ca4",
@@ -714,7 +852,12 @@
    "published_iso": "2026-10-01T00:03:22+09:00",
    "sort_key": 1790780602.0,
    "excerpt": "The company says it needs to \"keep evolving alongside changing customer expectations\".",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 제과 체인 그렉스가 공장 4곳을 닫고 740명을 감원",
+    "impact": "시장 영향은 제한적",
+    "affected": "영국 식품·유통"
+   }
   },
   {
    "id": "640cdc2291",
@@ -727,7 +870,15 @@
    "published_iso": "2026-09-30T23:38:12+09:00",
    "sort_key": 1790779092.0,
    "excerpt": "The Personal Consumption Expenditures price index showed little sign of easing in August, though revised data showed inflation had been slightly cooler than previously believed.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연준이 중시하는 PCE 물가가 8월에도 거의 둔화되지 않았지만, 과거 수치는 소폭 낮게 수정됨",
+    "impact": "물가 압력이 남아 있어 연준이 금리 인하를 서두르지 않을 수 있음",
+    "affected": "미국 국채금리, 달러, 성장주",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "연준이 가장 중시하는 PCE 물가가 거의 둔화되지 않아 금리 인하 시기와 성장주 가치평가에 직접 영향"
+   }
   },
   {
    "id": "905968209b",
@@ -740,7 +891,12 @@
    "published_iso": "2026-09-30T23:00:33+09:00",
    "sort_key": 1790776833.0,
    "excerpt": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "베일리 영란은행 총재가 AI는 규제보다 철저한 시험과 안전장치가 먼저라고 발언",
+    "impact": "시장 영향은 제한적",
+    "affected": "AI 관련 기업"
+   }
   },
   {
    "id": "975ec4f251",
@@ -753,7 +909,12 @@
    "published_iso": "2026-09-30T22:00:00+09:00",
    "sort_key": 1790773200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연준이 스트레스 테스트의 투명성을 높이고 관련 자본 요구 변동을 줄이는 개편안을 확정",
+    "impact": "대형 은행의 자본 부담 예측 가능성이 높아져 주주환원 여력에 우호적",
+    "affected": "미국 대형 은행주"
+   }
   },
   {
    "id": "84ab4c1f0a",
@@ -766,7 +927,12 @@
    "published_iso": "2026-09-30T20:25:12+09:00",
    "sort_key": 1790767512.0,
    "excerpt": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "아프리카 최고 부자 단고테가 토지 시위 속에서도 케냐 정유공장 사업을 시작",
+    "impact": "시장 영향은 제한적",
+    "affected": "아프리카 정유"
+   }
   },
   {
    "id": "31f8d574d3",
@@ -779,7 +945,12 @@
    "published_iso": "2026-09-30T17:45:42+09:00",
    "sort_key": 1790757942.0,
    "excerpt": "Singapore state investor Temasek plans to open offices in Riyadh and Abu Dhabi by the first half of 2027, its most significant Mideast expansion to date.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "싱가포르 국부펀드 테마섹이 아부다비·리야드에 사무소를 열며 중동 진출 확대",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "6476b0c169",
@@ -792,7 +963,12 @@
    "published_iso": "2026-09-30T09:00:00+09:00",
    "sort_key": 1790726400.0,
    "excerpt": "*자세한 내용은 첨부파일을 확인하세요",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "2차 국민참여성장펀드 판매 결과와 잔여 물량 현황",
+    "impact": "요약문이 없어 수치 확인 불가",
+    "affected": "한국 증시"
+   }
   },
   {
    "id": "2c5a64b297",
@@ -805,7 +981,12 @@
    "published_iso": "2026-09-30T09:00:00+09:00",
    "sort_key": 1790726400.0,
    "excerpt": "은행업감독규정 규정변경예고 실시&nbsp; ※예고기간 &lsquo;26.9.30일 ~ 11.9일 &nbsp; ✓ ➊인터넷은행 대면업무 범위의 합리적 조정, ➋외화결제계좌의 신용공여 제외, ➌부동산PF 신용공여한도 도입, ➍특수은행 경영실태평가 개편 등을 위한 은행업감독규정 개정 추진&nbsp; &nbsp; ✓ 규정변경예고(&rsquo;26.9.30일~11.9일)를 통해 의견수렴 후 금융위원회 의결(&rsquo;26.12.2일잠정)을 거쳐 시행*&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;* 부동산PF 신용공여한도 규제는",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "인터넷은행 대면업무 조정, 부동산 PF 신용공여 한도 도입 등 은행업감독규정 개정 예고",
+    "impact": "부동산 PF 대출 한도가 생기면 은행의 PF 위험 관리가 강화됨",
+    "affected": "은행, 건설·부동산 PF"
+   }
   }
  ],
  "news_groups": {
