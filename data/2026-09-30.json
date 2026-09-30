@@ -343,7 +343,12 @@
    "published_iso": "2026-09-30T21:10:00+09:00",
    "sort_key": 1790770200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "외환·자본시장 제도 개선을 설명하고 현장 정착을 점검하는 해외 핵심 투자자 협의체 2차 회의 개최",
+    "impact": "외국인 투자 환경 개선 노력, 시장 영향은 제한적",
+    "affected": "외국인 수급, 원화"
+   }
   },
   {
    "id": "0f1ddbc27c",
@@ -356,7 +361,12 @@
    "published_iso": "2026-09-30T16:27:11+09:00",
    "sort_key": 1790753231.0,
    "excerpt": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "전통적으로 남성 중심이던 집수리·배관 분야로 직업을 바꾸는 사람들 이야기",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "de348a675b",
@@ -369,7 +379,12 @@
    "published_iso": "2026-09-30T16:21:23+09:00",
    "sort_key": 1790752883.0,
    "excerpt": "(서울=연합뉴스) 이지헌 기자 = 중동 지역의 원유 수출량이 최근 들어 미·이란 전쟁 발발 이전의 정상 수준을 거의 회복했다고 미 CNN 방송이...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중동 원유 수출량이 미·이란 전쟁 전의 98% 수준까지 회복됐다는 보도",
+    "impact": "원유 공급 정상화로 유가 급등세가 누그러질 수 있음",
+    "affected": "국제유가, 정유·항공주"
+   }
   },
   {
    "id": "13d7556e10",
@@ -382,7 +397,12 @@
    "published_iso": "2026-09-30T16:20:46+09:00",
    "sort_key": 1790752846.0,
    "excerpt": "(춘천=연합뉴스) 양지웅 기자 = 2027학년도 강원지역 중등교사 선발 규모가 258명으로 정해졌다. 이는 올해보다 46명 늘어난 수치다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "내년 강원 중등교사 선발 인원이 258명으로 46명 늘어남",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "ed79120799",
@@ -395,7 +415,12 @@
    "published_iso": "2026-09-30T16:20:44+09:00",
    "sort_key": 1790752844.0,
    "excerpt": "(서울=연합뉴스) 강수지 기자 = 현대트랜시스(AA-)의 무보증사채 수요예측에서 모집예정액의 5배 자금이 몰렸다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "현대트랜시스 회사채 수요예측에 모집액의 5배인 7,500억원이 몰림",
+    "impact": "우량 회사채 수요가 탄탄하다는 신호",
+    "affected": "회사채 시장, 현대차그룹 계열사"
+   }
   },
   {
    "id": "b7dc47bb3e",
@@ -408,7 +433,12 @@
    "published_iso": "2026-09-30T16:20:22+09:00",
    "sort_key": 1790752822.0,
    "excerpt": "(안산=연합뉴스) 최해민 기자 = 유망 로봇 스타트업 &apos;에이로봇&apos;이 경기 안산사이언스밸리(ASV)에 400억 원을 투자해 산업용 휴머노이드 로봇...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "휴머노이드 로봇 스타트업 에이로봇이 안산에 400억원을 들여 신사옥 건립",
+    "impact": "국내 로봇 산업 투자 흐름, 시장 영향은 제한적",
+    "affected": "로봇 관련주"
+   }
   },
   {
    "id": "d63b0ea0b9",
@@ -421,7 +451,12 @@
    "published_iso": "2026-09-30T16:16:30+09:00",
    "sort_key": 1790752590.0,
    "excerpt": "(서울=연합뉴스) 김유아 기자 = 30일 코스피가 미국 국채금리 급등 부담과 주요 경제 지표와 마이크론의 실적 발표를 앞두고 커진 경계 심리 등...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "코스피가 미국 금리 급등 부담과 마이크론 실적 발표 전 경계감에 0.4% 내려 사흘 연속 하락",
+    "impact": "미국 장기금리가 계속 오르면 외국인 자금 이탈 압력이 이어질 수 있음",
+    "affected": "코스피, 외국인 수급"
+   }
   },
   {
    "id": "ed4111f851",
@@ -434,7 +469,12 @@
    "published_iso": "2026-09-30T16:12:58+09:00",
    "sort_key": 1790752378.0,
    "excerpt": "(춘천=연합뉴스) 양지웅 기자 = 농협 강원본부는 지역인재에게 일자리를 제공해 취업난 해소를 돕고자 올 하반기 농축협 신규직원 동시 채용을 진행...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "농협 강원본부가 하반기 신규직원 60여명을 채용",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "2af7912678",
@@ -447,7 +487,12 @@
    "published_iso": "2026-09-30T16:08:05+09:00",
    "sort_key": 1790752085.0,
    "excerpt": "(서울=연합뉴스) 코스닥 상장사 파인디앤씨[049120]는 전자제품 부품 제조 및 판매 종속회사(VINA DNC)에 약 136억원을 출자한다고 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "코스닥 상장사 파인디앤씨가 베트남 자회사에 136억원을 출자",
+    "impact": "회사 단위의 작은 투자로 시장 영향은 제한적",
+    "affected": "파인디앤씨"
+   }
   },
   {
    "id": "7fab15b93d",
@@ -460,7 +505,12 @@
    "published_iso": "2026-09-30T16:06:45+09:00",
    "sort_key": 1790752005.0,
    "excerpt": "(포항=연합뉴스) 손대성 기자 = 경북 포항시와 금융기관이 손잡고 자금 조달에 어려움을 겪는 소상공인을 위해 300억원 규모의 돈을 빌려준다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "포항시와 금융기관이 소상공인에게 최대 1억원을 빌려주는 300억원 규모 특례보증 협약",
+    "impact": "지역 소상공인 자금난 완화, 시장 영향은 제한적",
+    "affected": "지역 소상공인"
+   }
   },
   {
    "id": "f8e3de0d9e",
@@ -473,7 +523,15 @@
    "published_iso": "2026-09-30T15:32:33+09:00",
    "sort_key": 1790749953.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "성장률 방어가 급해진 중국이 주택 구매자 이자 지원 등 부양책을 총동원",
+    "impact": "중국 내수가 살아나면 한국의 대중 수출과 소재·산업재 수요에 우호적",
+    "affected": "중국 부동산·소비, 한국 대중 수출주, 원자재",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "성장률 방어를 위해 중국이 부양책을 총동원 — 한국 최대 수출시장의 수요 회복 여부를 가르는 변수"
+   }
   },
   {
    "id": "31cb6714af",
@@ -486,7 +544,12 @@
    "published_iso": "2026-09-30T15:19:32+09:00",
    "sort_key": 1790749172.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "최대 연 12% 수익률의 개인투자용 국채가 10월에 2,300억원 발행",
+    "impact": "안전자산 선호 개인 수요를 흡수",
+    "affected": "개인 투자자, 국채 시장"
+   }
   },
   {
    "id": "df542f1375",
@@ -499,7 +562,12 @@
    "published_iso": "2026-09-30T15:12:54+09:00",
    "sort_key": 1790748774.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "검색 대신 AI가 답을 주는 '제로클릭' 시대에 쇼핑몰 방문이 줄며 데이터 사업이 주목받는다는 기사",
+    "impact": "온라인 유통의 고객 유입 구조 변화",
+    "affected": "이커머스, 데이터 기업"
+   }
   },
   {
    "id": "ca0afd8e16",
@@ -512,7 +580,12 @@
    "published_iso": "2026-09-30T15:08:54+09:00",
    "sort_key": 1790748534.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "베트남 틱톡 스타가 안동 탈춤 영상을 찍는다는 화제성 기사",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "8521d5d21a",
@@ -525,7 +598,12 @@
    "published_iso": "2026-09-30T14:59:41+09:00",
    "sort_key": 1790747981.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "300만원대 초고가 아이폰이 600만대 팔릴 것이라는 전망",
+    "impact": "애플 고가 제품 수요가 탄탄하다는 신호",
+    "affected": "애플, 부품 공급사"
+   }
   },
   {
    "id": "16d9160d9d",
@@ -538,7 +616,12 @@
    "published_iso": "2026-09-30T14:53:39+09:00",
    "sort_key": 1790747619.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "우리금융이 연 9% 적금과 ETF 선물 등으로 10월 특판 경쟁에 나섬",
+    "impact": "은행권 예금 유치 경쟁이 조달 비용을 올릴 수 있음",
+    "affected": "은행주"
+   }
   },
   {
    "id": "721e4a1a3e",
@@ -551,7 +634,12 @@
    "published_iso": "2026-09-30T14:43:17+09:00",
    "sort_key": 1790746997.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "식품 담합에 과징금 2조원이 부과됐지만 제재 실효성 논란",
+    "impact": "식품 기업 비용 부담과 가격 정책에 영향",
+    "affected": "식품주"
+   }
   },
   {
    "id": "365cb92d2e",
@@ -564,7 +652,12 @@
    "published_iso": "2026-09-30T14:37:22+09:00",
    "sort_key": 1790746642.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "일본도 포기한 18조원 규모 사업에 한국이 나섰다는 기사",
+    "impact": "요약문이 없어 구체적 내용 확인 불가",
+    "affected": "확인 불가"
+   }
   },
   {
    "id": "c515b49eee",
@@ -577,7 +670,12 @@
    "published_iso": "2026-09-30T14:27:23+09:00",
    "sort_key": 1790746043.0,
    "excerpt": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 가계 에너지 요금이 내년 1월 연 1,999파운드로 4년 만에 가장 크게 오를 전망",
+    "impact": "영국 물가 재상승 압력으로 금리 인하가 늦어질 수 있음",
+    "affected": "영국 물가·국채, 에너지 기업"
+   }
   },
   {
    "id": "b4989f4ae8",
@@ -590,7 +688,12 @@
    "published_iso": "2026-09-30T13:01:52+09:00",
    "sort_key": 1790740912.0,
    "excerpt": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "백악관 '초지능' 정상회의의 세 가지 요점 — AI 규제 강화 요구 속 개최",
+    "impact": "AI 규제 방향에 대한 불확실성",
+    "affected": "AI 관련 기업"
+   }
   },
   {
    "id": "6f0060921f",
@@ -603,7 +706,15 @@
    "published_iso": "2026-09-30T12:39:08+09:00",
    "sort_key": 1790739548.0,
    "excerpt": "China must \"respond firmly\" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중국 상무부가 유럽연합이 중국 기업·제품을 규제하면 강하게 보복하겠다고 경고",
+    "impact": "중·유럽 무역 갈등이 커지면 세계 교역과 공급망에 부담",
+    "affected": "중국·유럽 수출기업, 전기차·배터리 업계",
+    "important": true,
+    "important_tag": "정책·무역",
+    "why_important": "중국이 유럽의 규제에 보복을 예고해 미중에 이어 중·유럽 무역 갈등으로 번질 위험"
+   }
   },
   {
    "id": "03ee9f9a0a",
@@ -616,7 +727,12 @@
    "published_iso": "2026-09-30T11:20:00+09:00",
    "sort_key": 1790734800.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "유럽중앙은행 이사의 은행 감독 효율성 관련 연설",
+    "impact": "요약문이 없어 내용 확인 불가, 시장 영향은 제한적",
+    "affected": "유럽 은행"
+   }
   },
   {
    "id": "332734009e",
@@ -629,7 +745,12 @@
    "published_iso": "2026-09-30T09:10:27+09:00",
    "sort_key": 1790727027.0,
    "excerpt": "The health secretary, Vice President JD Vance and other top officials addressed a conference sponsored by corporations, including A.I. companies and others with business before the government.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 보건장관이 AI가 의사보다 정보가 많다고 발언한 업계 후원 행사 소식",
+    "impact": "시장 영향은 제한적",
+    "affected": "의료 AI"
+   }
   },
   {
    "id": "2a1ba2f87e",
@@ -642,7 +763,12 @@
    "published_iso": "2026-09-30T09:00:00+09:00",
    "sort_key": 1790726400.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "개인투자용 국채 10월 2,300억원 발행 예정 공지",
+    "impact": "안전자산 선호 개인 수요 흡수",
+    "affected": "개인 투자자, 국채 시장"
+   }
   },
   {
    "id": "492dfc325c",
@@ -655,7 +781,12 @@
    "published_iso": "2026-09-30T09:00:00+09:00",
    "sort_key": 1790726400.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "올해 국세수입이 478.6조원으로 전망됨",
+    "impact": "세수 전망은 재정 여력과 국채 발행 규모에 영향",
+    "affected": "국채 시장, 재정 정책"
+   }
   },
   {
    "id": "2cbfa041e3",
@@ -668,7 +799,12 @@
    "published_iso": "2026-09-30T09:00:00+09:00",
    "sort_key": 1790726400.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "2026년 8월 산업활동동향(생산·소비·투자) 발표",
+    "impact": "요약문이 없어 수치 확인 불가 — 경기 흐름을 보여주는 지표",
+    "affected": "한국 경기, 내수주"
+   }
   },
   {
    "id": "b4219c5502",
@@ -681,7 +817,12 @@
    "published_iso": "2026-09-30T09:00:00+09:00",
    "sort_key": 1790726400.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "확대 거시재정금융간담회 개최",
+    "impact": "요약문이 없어 논의 내용 확인 불가",
+    "affected": "금융시장 전반"
+   }
   },
   {
    "id": "80394e7059",
@@ -694,7 +835,12 @@
    "published_iso": "2026-09-30T09:00:00+09:00",
    "sort_key": 1790726400.0,
    "excerpt": "전남광주에서 서민&middot;취약계층과 소상공인을 위한 &nbsp; 희망사다리를 놓겠습니다&nbsp; &nbsp; - 이억원 금융위원장, 「전남광주 서민금융 복합지원센터」 개소식 &nbsp; 및 지역 소상공인 현장 간담회 참석 -&nbsp; &nbsp; 민&middot;관 협업을 통해 금융-고용-복지 복합지원과 지역 민간금융을 한 곳에서 아우르는 「서민금융 복합지원센터」를 전국 2번째로 전남광주에서 개소&nbsp; &nbsp; &nbsp;- 광주은행과 협업하여 복합지원 이용 주민과 소상공인 대상 금리 우대 등 특화 대출&midd",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "전남광주 서민금융 복합지원센터 개소와 소상공인 간담회",
+    "impact": "시장 영향은 제한적",
+    "affected": "서민·소상공인"
+   }
   },
   {
    "id": "8023411cfd",
@@ -707,7 +853,12 @@
    "published_iso": "2026-09-30T09:00:00+09:00",
    "sort_key": 1790726400.0,
    "excerpt": "&nbsp; 10월 7일부터 2차 가입신청 시작!&nbsp; 청년미래적금 가입 전 &nbsp; 달라진 절차와 주요일정을 확인하세요.&nbsp; &nbsp;▪10월 7~16일(토&middot;일&middot;공휴일 제외)까지 가입신청, 가입심사 통과자는 11월 16~27일(토&middot;일 제외) 중 계좌개설&nbsp; &nbsp;▪소상공인으로 가입신청을 하는 경우, 운영 중인 모든 사업장의 &lsquo;소상공인확인서&rsquo;를 청년미래적금 가입신청 전에 발급할 필요&nbsp; &nbsp;▪청년도약계좌 가입자의 청년미래적금 &l",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "청년미래적금 2차 가입신청이 10월 7일부터 시작",
+    "impact": "시장 영향은 제한적",
+    "affected": "청년층, 은행"
+   }
   },
   {
    "id": "3e383f0dc7",
@@ -720,7 +871,12 @@
    "published_iso": "2026-09-30T09:00:00+09:00",
    "sort_key": 1790726400.0,
    "excerpt": "권대영 부위원장, 제2차 국민참여성장펀드 출시 첫날 펀드가입 및 현장점검&nbsp; &nbsp; &nbsp; 권대영 금융위 부위원장은 9월 30일(수), 제2차 국민참여형 국민성장펀드(이하 &lsquo;국민참여성장펀드&rsquo;) 판매처 중 하나인 NH농협은행 정부서울청사지점을 방문해 펀드에 가입하였다.&nbsp; &nbsp; &nbsp;&nbsp;※ 국민참여성장펀드 주요내용은 &lt;붙임&gt; 참조&nbsp; &nbsp; &nbsp;권 부위원장은 일반 국민들이 펀드 가입 시 거치게 되는 투자자 성향 분석, 펀드 중요사항 확인(",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "금융위 부위원장이 2차 국민참여성장펀드 출시 첫날 가입과 현장 점검",
+    "impact": "정책 펀드를 통한 증시 자금 유입 기대, 규모는 제한적",
+    "affected": "한국 증시"
+   }
   },
   {
    "id": "e0f85b25a6",
@@ -733,7 +889,12 @@
    "published_iso": "2026-09-30T09:00:00+09:00",
    "sort_key": 1790726400.0,
    "excerpt": "의료계&middot;플랫폼 협력으로 &ldquo;실손24&rdquo; 연계율 제고 나선다.&nbsp; ◈ 소비자가 앱으로 요청하면 병원이 실손보험금 청구서류를 보험회사로 자동으로 보내주는 실손보험 청구전산화 시행(&lsquo;24.10.25일) 2년이 경과&nbsp; &nbsp; &nbsp;ㅇ매년 수천억원에 달하는 未청구 실손보험금을 국민께 돌려드릴 수 있는 제도로, 현재 전국 약 5만개 병&middot;의원 및 약국에서 사용 가능&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* 현재 전체 의료기관 ",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "병원이 실손보험 청구서류를 자동으로 보내주는 '실손24' 연계율을 높이기 위해 의료계·플랫폼 협력",
+    "impact": "보험금 청구가 늘어 보험사 지급 부담이 커질 수 있음",
+    "affected": "손해보험사"
+   }
   },
   {
    "id": "880c79e1dc",
@@ -746,7 +907,12 @@
    "published_iso": "2026-09-30T09:00:00+09:00",
    "sort_key": 1790726400.0,
    "excerpt": "[코리아 프리미엄 위크 2026] &nbsp; &nbsp; 이억원 금융위원장, 글로벌 증시 핵심 인프라 기관 &nbsp; 美 나스닥(Nasdaq), 美 DTCC*, 홍콩거래소(HKEX) 면담&nbsp; &nbsp; &nbsp; * 美 증권예탁결제원(Depository Trust &amp; Clearing Corporation)&nbsp; - 토큰증권 발전방향, 결제주기 단축(T+1일) 등 미래 자본시장 과제와, 세그먼트 분리, 상장폐지 등 시장 역동성 제고를 위한 주요 정책에 대한 美‧홍콩의 경험과 동향을 공유하고 향후 협력 방안을",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "금융위원장이 나스닥·미국 예탁결제원·홍콩거래소 관계자와 면담",
+    "impact": "한국 증시 해외 홍보 노력, 시장 영향은 제한적",
+    "affected": "한국 증시"
+   }
   },
   {
    "id": "a2a8510859",
@@ -759,7 +925,12 @@
    "published_iso": "2026-09-30T08:15:29+09:00",
    "sort_key": 1790723729.0,
    "excerpt": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중국 AI 모델이 안전장치를 우회해 생물무기 제조법을 알려줬다는 조사 결과",
+    "impact": "AI 안전 규제 논의가 커질 수 있음",
+    "affected": "AI 기업"
+   }
   },
   {
    "id": "1b02c6267c",
@@ -772,7 +943,12 @@
    "published_iso": "2026-09-30T08:06:50+09:00",
    "sort_key": 1790723210.0,
    "excerpt": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 현지 재료로 나트륨이온 배터리를 만들려는 스타트업들",
+    "impact": "리튬 의존을 줄이는 대체 배터리 기술 흐름",
+    "affected": "배터리 업계"
+   }
   },
   {
    "id": "f7c6960ffb",
@@ -785,7 +961,12 @@
    "published_iso": "2026-09-30T08:06:06+09:00",
    "sort_key": 1790723166.0,
    "excerpt": "The advertising watchdog said that viewers could assume from the ad that replacing all normal food with Huel was \"nutritionally appropriate\".",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "대체식 브랜드 휴엘의 광고가 '일반 식사를 모두 대체할 수 있다'는 인상을 줘 금지됨",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "a8c762e5ce",
@@ -798,7 +979,12 @@
    "published_iso": "2026-09-30T07:54:37+09:00",
    "sort_key": 1790722477.0,
    "excerpt": "The ride at Magic Mountain near Los Angeles has fueled lawsuits claiming that it had caused brain injuries, including two that were fatal.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "부상 소송이 이어진 식스플래그 롤러코스터 X2가 운영을 종료",
+    "impact": "시장 영향은 제한적",
+    "affected": "식스플래그"
+   }
   },
   {
    "id": "b6a5f2713e",
@@ -811,7 +997,12 @@
    "published_iso": "2026-09-30T07:30:02+09:00",
    "sort_key": 1790721002.0,
    "excerpt": "Cindy Holland’s departure clears the way for Casey Bloys, the HBO chairman, to have a leading role in the combined company’s streaming services.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "워너브러더스 합병을 앞두고 파라마운트 스트리밍 대표가 물러남",
+    "impact": "합병 뒤 경영진 재편 흐름, 시장 영향은 제한적",
+    "affected": "파라마운트, 워너브러더스"
+   }
   },
   {
    "id": "2c374ebc01",
@@ -1502,7 +1693,12 @@
    "published_iso": "2026-09-29T09:00:00+09:00",
    "sort_key": 1790640000.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "제11회 아시아인프라투자은행 연차총회 참석 결과",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   }
  ],
  "news_groups": {
