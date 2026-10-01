@@ -351,7 +351,12 @@
    "published_iso": "2026-10-02T07:21:16+09:00",
    "sort_key": 1790893276.0,
    "excerpt": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프가 경유 수출 금지를 위협하자 미국 정부가 유럽에 연료 공급 대비를 요구",
+    "impact": "유럽 연료 수급 불안이 커지며 경유 가격 상승 압력",
+    "affected": "경유·정유주, 유럽 물가"
+   }
   },
   {
    "id": "f0141f3fdc",
@@ -364,7 +369,12 @@
    "published_iso": "2026-10-02T06:31:18+09:00",
    "sort_key": 1790890278.0,
    "excerpt": "The Trump administration may have just signed up your child — and more than 60 million others — for a 530A savings account (if you haven’t already done so).",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 아동 6천만 명 이상이 '트럼프 계좌'(530A 저축계좌)에 자동 가입됨",
+    "impact": "장기적으로 증시 자금 유입 경로가 될 수 있으나 당장 영향은 제한적",
+    "affected": "미국 증시 장기 수급"
+   }
   },
   {
    "id": "4e756299d5",
@@ -377,7 +387,12 @@
    "published_iso": "2026-10-02T06:26:59+09:00",
    "sort_key": 1790890019.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "경윳값이 치솟자 트럼프가 유럽을 향해 비축 경유 방출을 압박",
+    "impact": "유럽 비축유가 풀리면 단기 가격 안정, 아니면 경유 공급난 심화",
+    "affected": "경유·정유주"
+   }
   },
   {
    "id": "f362896bd8",
@@ -390,7 +405,12 @@
    "published_iso": "2026-10-02T06:21:44+09:00",
    "sort_key": 1790889704.0,
    "excerpt": "David Ellison is negotiating to keep CNN’s chief executive, Mark Thompson, in place without oversight from Bari Weiss, the CBS editor in chief, when the networks’ parent companies merge.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "CNN의 현 CEO를 유임시키려는 데이비드 엘리슨의 구상",
+    "impact": "시장 영향은 제한적",
+    "affected": "파라마운트·워너브러더스"
+   }
   },
   {
    "id": "c3063f9f8f",
@@ -403,7 +423,12 @@
    "published_iso": "2026-10-02T06:00:42+09:00",
    "sort_key": 1790888442.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "14개월에 걸친 한미 협상이 마무리됐으니 이제 미국에서 실제 수익으로 성과를 증명해야 한다는 사설",
+    "impact": "대미 투자가 수익으로 이어지는지가 앞으로의 관건",
+    "affected": "대미 투자 기업"
+   }
   },
   {
    "id": "04e8e52cee",
@@ -416,7 +441,12 @@
    "published_iso": "2026-10-02T06:00:10+09:00",
    "sort_key": 1790888410.0,
    "excerpt": "(서울=연합뉴스) 김준태 기자 = 서울시는 지난달 30일 서울글로벌센터에서 &apos;제2회 외국인 창업경진대회&apos;를 개최하고 우수 창업팀 3곳을 선정했다...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "낙상을 미리 감지하는 AI 기술이 서울시 외국인 창업경진대회 대상 수상",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "11c5dab564",
@@ -429,7 +459,12 @@
    "published_iso": "2026-10-02T06:00:09+09:00",
    "sort_key": 1790888409.0,
    "excerpt": "◇ 임원 선임",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "예금보험공사 임원 선임",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "4f631bbc0c",
@@ -442,7 +477,12 @@
    "published_iso": "2026-10-02T06:00:06+09:00",
    "sort_key": 1790888406.0,
    "excerpt": "(서울=연합뉴스) 구정모 기자 = 중소벤처기업부와 지식재산처는 &apos;중소기업 K-브랜드 지식재산 보호 협의체&apos;를 구성해 해외 상표 무단 선점과 위조...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중기부와 지식재산처가 해외의 K-브랜드 상표 무단 선점·위조에 공동 대응",
+    "impact": "수출 중소기업 브랜드 보호, 시장 영향은 제한적",
+    "affected": "K-브랜드 수출 중소기업"
+   }
   },
   {
    "id": "6d7456c907",
@@ -455,7 +495,12 @@
    "published_iso": "2026-10-02T06:00:04+09:00",
    "sort_key": 1790888404.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "단맛으로 재구매가 폭발한 과일을 소개한 기사",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "b1174d3fed",
@@ -468,7 +513,12 @@
    "published_iso": "2026-10-02T06:00:03+09:00",
    "sort_key": 1790888403.0,
    "excerpt": "(서울=연합뉴스) 강류나 기자 = 금융감독원은 2일 노인의 날을 맞아 금융권과 함께 고령층의 디지털 금융 소외와 사기 피해를 막기 위해 집중 금...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "노인의 날을 맞아 금감원과 금융권이 고령층 대상 금융교육 제공",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "9af191b01c",
@@ -481,7 +531,12 @@
    "published_iso": "2026-10-02T06:00:02+09:00",
    "sort_key": 1790888402.0,
    "excerpt": "(서울=연합뉴스) 강수련 기자 = 올해 상반기 주식시장 호황으로 국내 파생결합증권(ELS·DLS) 상환액이 발행액을 웃돌며 잔액이 소폭 감소했다...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "증시 호황으로 ELS가 대거 상환되며 상반기 파생결합증권 잔액이 소폭 감소",
+    "impact": "증시 호조로 조기 상환이 늘어난 결과, 시장 영향은 제한적",
+    "affected": "증권사 파생상품 사업"
+   }
   },
   {
    "id": "3f2add38d7",
@@ -494,7 +549,12 @@
    "published_iso": "2026-10-02T06:00:00+09:00",
    "sort_key": 1790888400.0,
    "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울신용보증재단(서울신보)은 지난달 29일 &apos;2026년 지방공공기관 혁신 우수사례 공모&apos;에서 행정안전부 장관상...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "서울신용보증재단이 지방공공기관 혁신 우수기관으로 선정",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "b1bbfe46d1",
@@ -507,7 +567,12 @@
    "published_iso": "2026-10-02T05:51:09+09:00",
    "sort_key": 1790887869.0,
    "excerpt": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "나이키가 스스로 만든 실수들로 경쟁력을 잃은 과정을 분석",
+    "impact": "나이키 회복 지연은 스포츠용품 업계 경쟁 구도에 영향",
+    "affected": "나이키, 스포츠의류 업계"
+   }
   },
   {
    "id": "9db0072880",
@@ -520,7 +585,12 @@
    "published_iso": "2026-10-02T05:51:00+09:00",
    "sort_key": 1790887860.0,
    "excerpt": "(서울=연합뉴스) 김지연 기자 = 국민참여형 뉴딜펀드의 만기 청산된 자펀드 절반 가까이가 마이너스 수익률을 기록한 것으로 나타났다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "국민참여형 뉴딜펀드 만기 청산 자펀드의 절반이 손실, 재정 부담 139억원",
+    "impact": "정책 펀드 실효성 논란이 커질 수 있음",
+    "affected": "정책 펀드"
+   }
   },
   {
    "id": "c4355374c2",
@@ -533,7 +603,12 @@
    "published_iso": "2026-10-02T05:23:38+09:00",
    "sort_key": 1790886218.0,
    "excerpt": "The higher yields, which are pressuring consumer and corporate borrowers and increasingly weighing on certain corners of the stock market, are unlikely to dissipate soon.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 국채 금리가 2002년 이후 최고로 올라 가계·기업 대출 부담과 일부 증시 업종을 압박",
+    "impact": "고금리가 쉽게 풀리지 않을 전망이라 성장주·부동산에 부담 지속",
+    "affected": "미국 국채, 성장주, 부동산"
+   }
   },
   {
    "id": "e1173d47d2",
@@ -546,7 +621,15 @@
    "published_iso": "2026-10-02T05:22:03+09:00",
    "sort_key": 1790886123.0,
    "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 1일(현지시간) 국제유가가 급등했다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중국의 석유제품 수출 중단과 미국의 추가 파병 소식에 브렌트유가 4% 넘게 급등",
+    "impact": "유가 재급등은 물가·금리 부담을 다시 키워 증시에 하방 압력",
+    "affected": "국제유가, 정유·항공·해운주, 물가",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "중국 석유제품 수출 중단과 미국 추가 파병으로 유가가 다시 4% 넘게 급등 — 물가·금리 부담을 다시 키우는 변수"
+   }
   },
   {
    "id": "96fd757e02",
@@ -559,7 +642,15 @@
    "published_iso": "2026-10-02T03:58:48+09:00",
    "sort_key": 1790881128.0,
    "excerpt": "A reduction in refineries has already driven the price of diesel to record highs, threatening economies. An U.S. export ban would be “tremendous shock and blow.”",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "정유소 감소로 경유값이 사상 최고인 가운데 트럼프의 경유 수출 금지 위협에 세계가 긴장",
+    "impact": "실제 금지 시 세계 경유 공급에 큰 충격",
+    "affected": "경유·정유주, 운송·물류업",
+    "important": true,
+    "important_tag": "정책·무역",
+    "why_important": "미국의 경유 수출 금지 위협이 실행되면 세계 연료 공급과 물가에 큰 충격"
+   }
   },
   {
    "id": "b8dc19b51d",
@@ -572,7 +663,12 @@
    "published_iso": "2026-10-02T03:38:22+09:00",
    "sort_key": 1790879902.0,
    "excerpt": "Campaigners and Green Party leader Zack Polanski raise concerns about Rosebank's ties to an Israeli firm.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 로즈뱅크 유전이 이스라엘 기업과 연관돼 제재 위반 소지가 있다는 경고",
+    "impact": "시장 영향은 제한적",
+    "affected": "영국 에너지 업계"
+   }
   },
   {
    "id": "e8cdcc62e7",
@@ -585,7 +681,12 @@
    "published_iso": "2026-10-02T03:21:22+09:00",
    "sort_key": 1790878882.0,
    "excerpt": "The Treasury Committee, which is responsible for overseeing HMRC, has urged the body to scrutinise tax implications of the Manchester City verdict.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "맨체스터 시티 판결의 세금 문제를 국세청이 살펴야 한다는 영국 의회 위원회 요구",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "360b1f5d2b",
@@ -598,7 +699,12 @@
    "published_iso": "2026-10-02T03:18:36+09:00",
    "sort_key": 1790878716.0,
    "excerpt": "The average 30-year, fixed-rate home loan rose to 7.28 percent, up from 6.34 percent a year ago. More buyers are now turning to adjustable-rate mortgages.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 30년 고정 주택담보대출 금리가 7.28%로 2023년 이후 최고, 변동금리 대출로 몰림",
+    "impact": "주택 구매 수요 위축과 주택 경기 둔화 우려",
+    "affected": "미국 주택·건설주, 은행"
+   }
   },
   {
    "id": "599a6d7187",
@@ -611,7 +717,12 @@
    "published_iso": "2026-10-02T03:09:16+09:00",
    "sort_key": 1790878156.0,
    "excerpt": "The firm has apologised to the family.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "템스워터가 14만5천 파운드 요금 청구 실수에 사과",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "ab614daac8",
@@ -624,7 +735,12 @@
    "published_iso": "2026-10-02T02:35:20+09:00",
    "sort_key": 1790876120.0,
    "excerpt": "The move follows recent reports detailing how A7, a Russian financial firm, used shell companies around the world to move funds on behalf of restricted Russian businesses.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국이 러시아의 제재 회피를 도운 금융회사 A7을 제재",
+    "impact": "대러 제재 강화 흐름, 시장 영향은 제한적",
+    "affected": "러시아 관련 교역"
+   }
   },
   {
    "id": "a5372fa11b",
@@ -637,7 +753,12 @@
    "published_iso": "2026-10-02T01:14:50+09:00",
    "sort_key": 1790871290.0,
    "excerpt": "An ad produced by the manufacturing company SKF Group featured a digital version of the Swedish American actress, who died in 1990. Not all viewers found the replica convincing.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "스웨덴 기업 SKF가 광고에 고 그레타 가르보의 AI 복제 모습을 사용",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "f8a21640cf",
@@ -652,7 +773,12 @@
    "excerpt": "",
    "matched": [
     "005380.KS"
-   ]
+   ],
+   "analysis": {
+    "summary": "기름값 부담에 미국 소비자가 하이브리드로 몰리며 현대차가 3분기 판매에서 포드를 제침",
+    "impact": "고유가가 하이브리드 강점이 있는 현대차·기아에 우호적",
+    "affected": "현대차·기아"
+   }
   },
   {
    "id": "406c6781f2",
@@ -665,7 +791,12 @@
    "published_iso": "2026-10-02T00:30:00+09:00",
    "sort_key": 1790868600.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "슈나벨 유럽중앙은행 이사의 블록체인 기반 중앙은행 업무 관련 연설",
+    "impact": "요약문이 없어 내용 확인 불가",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "4a76c8875d",
@@ -678,7 +809,12 @@
    "published_iso": "2026-10-01T23:32:16+09:00",
    "sort_key": 1790865136.0,
    "excerpt": "The inquiry by the Commodity Futures Trading Commission centers on bets the former congressman made on Kalshi in the weeks before he was pardoned in January 2025.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 상품선물거래위원회가 전 의원의 사면 관련 칼시 베팅을 조사",
+    "impact": "예측시장 규제 강화 가능성",
+    "affected": "예측시장 업계"
+   }
   },
   {
    "id": "053e6bfdd6",
@@ -691,7 +827,15 @@
    "published_iso": "2026-10-01T23:27:11+09:00",
    "sort_key": 1790864831.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 9월 ISM 제조업지수가 54.5로 확장을 이어갔지만 비용 상승에 속도는 둔화",
+    "impact": "제조업 경기는 견조하나 비용 상승이 물가 부담으로 이어질 수 있음",
+    "affected": "미국 제조업, 국채금리, 경기민감주",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "미국 제조업 경기가 확장을 이어갔지만 비용 상승이 커져 물가와 금리 경로에 영향을 주는 핵심 지표"
+   }
   },
   {
    "id": "b9a53bbf04",
@@ -704,7 +848,12 @@
    "published_iso": "2026-10-01T23:00:54+09:00",
    "sort_key": 1790863254.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "구글 AI 칩(TPU)이 스페이스X 로켓으로 우주에 올라 우주 데이터센터 첫 시험",
+    "impact": "장기 기술 실험 단계로 당장 시장 영향은 제한적",
+    "affected": "구글, 우주 관련주"
+   }
   },
   {
    "id": "42eddb2151",
@@ -717,7 +866,12 @@
    "published_iso": "2026-10-01T22:30:00+09:00",
    "sort_key": 1790861400.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "라가르드 유럽중앙은행 총재의 AI 위험 관련 연설",
+    "impact": "요약문이 없어 내용 확인 불가",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "f985a02148",
@@ -730,7 +884,12 @@
    "published_iso": "2026-10-01T22:00:17+09:00",
    "sort_key": 1790859617.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "밀·옥수수·대두 가격이 3분기에 13% 올라 4분기 식탁 물가 상승 우려",
+    "impact": "곡물가 상승이 가공식품 가격으로 번지면 물가 부담",
+    "affected": "식품주, 소비자물가"
+   }
   },
   {
    "id": "70459534d9",
@@ -743,7 +902,12 @@
    "published_iso": "2026-10-01T20:57:16+09:00",
    "sort_key": 1790855836.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "오픈AI가 중국 문샷이 자사 모델의 추론 정보를 빼내려 했다고 주장",
+    "impact": "미중 AI 기술 경쟁과 규제 강화 흐름",
+    "affected": "AI 기업"
+   }
   },
   {
    "id": "7256ec82b4",
@@ -756,7 +920,12 @@
    "published_iso": "2026-10-01T20:37:46+09:00",
    "sort_key": 1790854666.0,
    "excerpt": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프가 AI를 '초지능(SI)'으로 부르자 같은 약자의 슬로베니아 도메인 수요가 폭증",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "6d3890fb5e",
@@ -769,7 +938,12 @@
    "published_iso": "2026-10-01T09:00:00+09:00",
    "sort_key": 1790812800.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "재정경제부 유관기관 간담회 개최",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "c146fae1d9",
@@ -782,7 +956,12 @@
    "published_iso": "2026-10-01T09:00:00+09:00",
    "sort_key": 1790812800.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "10월 국고채·재정증권·원화표시 외평채 발행 계획 발표",
+    "impact": "요약문이 없어 발행 규모 확인 불가 — 국채 공급량은 시장금리에 영향",
+    "affected": "국채 시장, 금리"
+   }
   }
  ],
  "news_groups": {
