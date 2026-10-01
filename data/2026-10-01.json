@@ -359,7 +359,12 @@
    "published_iso": "2026-10-01T17:27:50+09:00",
    "sort_key": 1790843270.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "비상경제본부 회의 겸 경제관계장관회의 개최",
+    "impact": "요약문이 없어 논의 내용 확인 불가",
+    "affected": "정책 전반"
+   }
   },
   {
    "id": "1b3c722deb",
@@ -372,7 +377,12 @@
    "published_iso": "2026-10-01T16:22:50+09:00",
    "sort_key": 1790839370.0,
    "excerpt": "(서울=연합뉴스) 장하나 기자 = 경영계는 사망사고 발생 사업장에 과징금을 부과하고 근로자 작업중지 요건을 완화하는 내용의 산업안전보건법 개정안...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "사망사고 사업장에 영업이익 5% 과징금을 매기는 산업안전보건법 개정안 통과에 경영계가 우려 표명",
+    "impact": "건설·제조업 등 사고 위험 업종의 비용·규제 부담이 커짐",
+    "affected": "건설·조선·제조업"
+   }
   },
   {
    "id": "62ee07a68c",
@@ -385,7 +395,15 @@
    "published_iso": "2026-10-01T16:20:19+09:00",
    "sort_key": 1790839219.0,
    "excerpt": "(서울·세종=연합뉴스) 신창용 장보인 기자 = 알래스카 액화천연가스(LNG) 개발 프로젝트가 한국과 미국 간 대미 투자 프로젝트 추후 협상에서 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "알래스카 LNG 개발이 한미 대미투자 후속 협상의 새 쟁점으로 떠오름 — 미국은 500억달러 투자를 원하고 한국은 미정",
+    "impact": "투자 규모가 커지면 한국 기업 부담이 늘고 관세 협상과도 얽힐 수 있음",
+    "affected": "가스공사, 에너지·건설·조선(LNG선)",
+    "important": true,
+    "important_tag": "정책·무역",
+    "why_important": "알래스카 LNG 투자 규모를 두고 한미 이견이 커지면 관세 협상 전체에 불확실성이 생김"
+   }
   },
   {
    "id": "68cfc48b75",
@@ -398,7 +416,12 @@
    "published_iso": "2026-10-01T16:19:16+09:00",
    "sort_key": 1790839156.0,
    "excerpt": "▲ 새마을금고중앙회가 인구감소 지역 내 고령층을 대상으로 한 금융사기를 예방하기 위해 한국노인인력개발원과 업무협약을 체결했다고 1일 밝혔다. 이...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "새마을금고가 고령층 금융사기 예방을 위해 노인인력개발원과 협약",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "7ee6331cd4",
@@ -411,7 +434,12 @@
    "published_iso": "2026-10-01T16:14:08+09:00",
    "sort_key": 1790838848.0,
    "excerpt": "(서울=연합뉴스) 강수지 기자 = 한국금융지주[071050](AA-)의 무보증사채 수요예측에서 모집예정액의 7배 이상 자금이 몰렸다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한국금융지주 회사채 수요예측에 모집액의 7배가 넘는 1.8조원이 몰림",
+    "impact": "우량 회사채 수요가 탄탄함",
+    "affected": "회사채 시장, 증권주"
+   }
   },
   {
    "id": "d6cd09a65f",
@@ -424,7 +452,12 @@
    "published_iso": "2026-10-01T16:12:48+09:00",
    "sort_key": 1790838768.0,
    "excerpt": "◇ 임원 승진",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한화자산운용 임원 인사",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "2571a216b4",
@@ -437,7 +470,12 @@
    "published_iso": "2026-10-01T16:12:32+09:00",
    "sort_key": 1790838752.0,
    "excerpt": "(서울=연합뉴스) 김유향 기자 = 미국에 한국형 대형 원전 건설을 추진할 수 있는 길이 트였다는 소식에 한전기술 주가가 1일 상승했다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한미 원전 협력 틀 합의로 미국에 한국형 원전 건설 길이 열리며 한전기술 주가 상승",
+    "impact": "원전 수출 기대가 커져 원전 관련주에 우호적",
+    "affected": "한전기술·두산에너빌리티 등 원전주"
+   }
   },
   {
    "id": "a0c34302d2",
@@ -450,7 +488,15 @@
    "published_iso": "2026-10-01T16:11:56+09:00",
    "sort_key": 1790838716.0,
    "excerpt": "(서울=연합뉴스) 김유아 기자 = 1일 코스피가 4거래일 만에 상승, 7,000선 턱밑에서 마감했다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "마이크론 호실적과 반도체 수출 호조로 코스피가 4거래일 만에 반등해 7,000선 턱밑, 코스닥은 4.48% 급등",
+    "impact": "반도체 업황 기대가 다시 살아나며 증시 전반 투자심리 개선",
+    "affected": "코스피·코스닥, 삼성전자·SK하이닉스, 반도체 장비주",
+    "important": true,
+    "important_tag": "산업·실적",
+    "why_important": "마이크론 호실적이 반도체 업황 기대를 되살리며 코스닥 4.5% 급등 — 관심종목 삼성전자·SK하이닉스에 직접 영향"
+   }
   },
   {
    "id": "3300e9116b",
@@ -463,7 +509,12 @@
    "published_iso": "2026-10-01T16:10:25+09:00",
    "sort_key": 1790838625.0,
    "excerpt": "(서울=연합뉴스) 이상현 기자 = 국무총리비서실은 1일 나승철 민정실장 주재로 관계기관 회의를 열어 위기 채무자 지원 방안을 논의했다고 밝혔다....",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "법률구조공단과 신용회복위원회가 개인회생·파산 업무 연계를 강화",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "72d697f951",
@@ -476,7 +527,12 @@
    "published_iso": "2026-10-01T16:08:22+09:00",
    "sort_key": 1790838502.0,
    "excerpt": "Household energy bills have risen again but there are ways to keep a lid on your expenditure.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 가계 에너지 요금이 연 60파운드 오르며 절약 방법을 정리한 기사",
+    "impact": "시장 영향은 제한적",
+    "affected": "영국 가계"
+   }
   },
   {
    "id": "534393f902",
@@ -489,7 +545,12 @@
    "published_iso": "2026-10-01T16:07:20+09:00",
    "sort_key": 1790838440.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "무림페이퍼가 가족 종이비행기대회를 개최",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "29650e1628",
@@ -502,7 +563,12 @@
    "published_iso": "2026-10-01T16:07:08+09:00",
    "sort_key": 1790838428.0,
    "excerpt": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 보고서 저자가 초등학생부터 직업 교육을 해야 한다고 제안",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "552cc259b1",
@@ -515,7 +581,12 @@
    "published_iso": "2026-10-01T15:56:03+09:00",
    "sort_key": 1790837763.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "가을 수확이 시작되며 곡물·과일·건어물 가격 흐름이 엇갈림",
+    "impact": "농산물 가격 안정 여부는 소비자물가에 영향",
+    "affected": "식품 물가"
+   }
   },
   {
    "id": "19283c4002",
@@ -528,7 +599,12 @@
    "published_iso": "2026-10-01T15:49:50+09:00",
    "sort_key": 1790837390.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "iM금융이 미국 자산운용사 얼라이언스번스틴과 협력 강화",
+    "impact": "시장 영향은 제한적",
+    "affected": "iM금융"
+   }
   },
   {
    "id": "594f26abd0",
@@ -541,7 +617,12 @@
    "published_iso": "2026-10-01T15:27:03+09:00",
    "sort_key": 1790836023.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "이녹스에코엠 신임 대표이사 선임",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "7e47187a34",
@@ -554,7 +635,12 @@
    "published_iso": "2026-10-01T15:18:18+09:00",
    "sort_key": 1790835498.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "에어비앤비가 친구가 다녀온 여행지를 보여주는 지도 기능을 공개",
+    "impact": "시장 영향은 제한적",
+    "affected": "에어비앤비"
+   }
   },
   {
    "id": "804a1373f2",
@@ -567,7 +653,12 @@
    "published_iso": "2026-10-01T15:16:27+09:00",
    "sort_key": 1790835387.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 금리가 치솟는데도 원화가 강해진 이유를 분석한 기사",
+    "impact": "금리차보다 다른 요인(수출 호조·외국인 자금 등)이 환율을 움직이고 있다는 신호",
+    "affected": "원/달러 환율, 수출주"
+   }
   },
   {
    "id": "fa9c786b83",
@@ -580,7 +671,12 @@
    "published_iso": "2026-10-01T15:00:07+09:00",
    "sort_key": 1790834407.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미소금융의 장기 연체채권도 새도약기금으로 넘긴다는 단독 보도",
+    "impact": "서민금융 부실채권 정리, 시장 영향은 제한적",
+    "affected": "서민금융"
+   }
   },
   {
    "id": "0d41f593cd",
@@ -593,7 +689,12 @@
    "published_iso": "2026-10-01T14:58:12+09:00",
    "sort_key": 1790834292.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "불닭볶음면에 이어 삼양식품의 다른 성과를 분석한 기사",
+    "impact": "삼양식품 성장 기대 관련, 시장 영향은 제한적",
+    "affected": "삼양식품, 식품주"
+   }
   },
   {
    "id": "e9650d363a",
@@ -606,7 +707,12 @@
    "published_iso": "2026-10-01T13:03:17+09:00",
    "sort_key": 1790827397.0,
    "excerpt": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영란은행 총재가 AI 투자 열풍이 시장 충격을 부를 수 있다고 경고",
+    "impact": "AI 관련주 고평가 우려를 키울 수 있음",
+    "affected": "AI·기술주"
+   }
   },
   {
    "id": "63aae7505f",
@@ -619,7 +725,12 @@
    "published_iso": "2026-10-01T09:00:00+09:00",
    "sort_key": 1790812800.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한미 전략투자 프로젝트 추진 계획 발표",
+    "impact": "요약문이 없어 세부 내용 확인 불가 — 대미 투자 협상 결과의 구체화",
+    "affected": "에너지·원전·조선"
+   }
   },
   {
    "id": "9bd40d4780",
@@ -632,7 +743,12 @@
    "published_iso": "2026-10-01T09:00:00+09:00",
    "sort_key": 1790812800.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "재경부 차관이 뉴욕한인금융인협회 한국 포럼에서 축사",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "0542730f9d",
@@ -645,7 +761,12 @@
    "published_iso": "2026-10-01T09:00:00+09:00",
    "sort_key": 1790812800.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중앙-지방 국유재산정책협의회 개최",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "8d30da7208",
@@ -658,7 +779,12 @@
    "published_iso": "2026-10-01T09:00:00+09:00",
    "sort_key": 1790812800.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "막힌 기업 투자를 풀고 현장 애로를 해소하는 2차 기업투자·혁신 지원방안 발표",
+    "impact": "요약문이 없어 세부 내용 확인 불가, 규제 완화가 포함되면 투자 활성화에 우호적",
+    "affected": "국내 기업 투자 전반"
+   }
   },
   {
    "id": "c8515fcd54",
@@ -671,7 +797,12 @@
    "published_iso": "2026-10-01T08:21:18+09:00",
    "sort_key": 1790810478.0,
    "excerpt": "The Treasury Secretary had previously taken a position on his taxes that contradicted the views of the tax agency that he now oversees.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "베선트 재무장관이 국세청과 다퉜던 본인 세금 문제를 정리",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "fa3f05d946",
@@ -684,7 +815,12 @@
    "published_iso": "2026-10-01T08:02:21+09:00",
    "sort_key": 1790809341.0,
    "excerpt": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "과일 수확 시기를 알려주는 AI 도구를 농부들이 받아들일지 다룬 기사",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "8a506c57c7",
@@ -697,7 +833,12 @@
    "published_iso": "2026-10-01T08:02:11+09:00",
    "sort_key": 1790809331.0,
    "excerpt": "Vaping is about to becoming more expensive due to a new tax on products.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국에서 새 세금 도입으로 전자담배 가격이 오름",
+    "impact": "시장 영향은 제한적",
+    "affected": "영국 담배 업계"
+   }
   },
   {
    "id": "11431a7c8d",
@@ -710,7 +851,12 @@
    "published_iso": "2026-10-01T07:40:55+09:00",
    "sort_key": 1790808055.0,
    "excerpt": "Ynon Kreiz, who will work alongside David Ellison at the merged company, helped turn Barbie into a blockbuster movie.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "마텔 CEO가 파라마운트·워너브러더스 합병 회사의 공동 CEO로 선임",
+    "impact": "합병 회사 경영진 확정, 시장 영향은 제한적",
+    "affected": "파라마운트, 워너브러더스, 마텔"
+   }
   },
   {
    "id": "d68a69c483",
@@ -723,7 +869,12 @@
    "published_iso": "2026-10-01T07:32:46+09:00",
    "sort_key": 1790807566.0,
    "excerpt": "The long-delayed project, which the developer has not yet formally greenlit, would deliver Alaskan gas to Asian markets but take several years to construct.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프가 알래스카 가스 사업을 한국 투자 패키지의 일부로 제시 — 개발사는 아직 사업 확정 전",
+    "impact": "건설에 수년이 걸리는 불확실한 사업이라 한국 투자 부담 논란 소지",
+    "affected": "에너지·LNG 관련주"
+   }
   },
   {
    "id": "4d886c6bcd",
