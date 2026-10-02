@@ -359,7 +359,12 @@
    "published_iso": "2026-10-02T22:11:43+09:00",
    "sort_key": 1790946703.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "정부가 시장상황점검회의를 열어 금융시장 동향을 점검",
+    "impact": "요약문이 없어 논의 내용 확인 불가",
+    "affected": "금융시장 전반"
+   }
   },
   {
    "id": "1562ceb6be",
@@ -372,7 +377,12 @@
    "published_iso": "2026-10-02T19:06:34+09:00",
    "sort_key": 1790935594.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "국정감사에서 반복 지적된 사항을 전면 점검",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "764b5ed34c",
@@ -385,7 +395,12 @@
    "published_iso": "2026-10-02T16:17:52+09:00",
    "sort_key": 1790925472.0,
    "excerpt": "(서울=연합뉴스) 김병규 기자 = 올해 상반기 전 세계에서 판매된 신차 중 순수 가솔린차가 차지하는 비중이 사상 처음으로 50% 밑으로 내려왔다...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "올해 상반기 전 세계 신차 중 순수 가솔린차 비중이 처음으로 50% 아래로 떨어짐 — 고유가 영향",
+    "impact": "하이브리드·전기차 전환이 빨라지는 흐름",
+    "affected": "완성차·배터리 업계, 현대차·기아"
+   }
   },
   {
    "id": "271c3a5e01",
@@ -398,7 +413,12 @@
    "published_iso": "2026-10-02T16:15:59+09:00",
    "sort_key": 1790925359.0,
    "excerpt": "(서울=연합뉴스) 강성철 기자 = 사단법인 글로벌한인드림재단(이사장 김점배)은 지난달 30일 &apos;세계한상대회&apos;가 열린 인천 송도컨벤시아에서 인천 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "글로벌한인드림재단이 인천 지역 인재에게 장학금 전달",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "4c017b94b6",
@@ -411,7 +431,12 @@
    "published_iso": "2026-10-02T16:11:58+09:00",
    "sort_key": 1790925118.0,
    "excerpt": "(세종=연합뉴스) 김수현 기자 = 2일 원/달러 환율은 장 초반 글로벌 달러 강세를 반영해 1,360원대 중반까지 올랐다가 이후 수출업체의 달러...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "원/달러 환율이 달러 강세로 1,366원까지 올랐다가 수출업체 달러 매도에 1,340원대로 내려옴",
+    "impact": "수출업체 달러 매도가 환율 상단을 막고 있음",
+    "affected": "원/달러 환율, 수출주"
+   }
   },
   {
    "id": "e2b12d5ee4",
@@ -424,7 +449,12 @@
    "published_iso": "2026-10-02T16:11:07+09:00",
    "sort_key": 1790925067.0,
    "excerpt": "(서울=연합뉴스) 김유아 기자 = 2일 코스피가 상승 마감하며 5거래일 만에 7,000선(7천피)을 탈환했다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "코스피가 0.46% 올라 5거래일 만에 7,000선을 되찾았지만 연휴를 앞두고 관망세",
+    "impact": "연휴 동안 해외 변수(유가·금리)를 지켜보려는 분위기",
+    "affected": "코스피 전반"
+   }
   },
   {
    "id": "d69e6cc7b7",
@@ -437,7 +467,15 @@
    "published_iso": "2026-10-02T16:09:30+09:00",
    "sort_key": 1790924970.0,
    "excerpt": "(서울=연합뉴스) 채새롬 기자 = 신한은행에 이어 KB국민은행도 인공지능(AI) 해킹 공격으로 고객정보가 유출되는 사고가 발생하면서 신뢰가 생명...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "신한은행에 이어 KB국민은행도 AI 해킹으로 고객정보가 유출돼 금융권 보안에 비상",
+    "impact": "은행 신뢰도 하락과 보안 투자·제재 비용 증가 가능성",
+    "affected": "은행주, 보안 관련주",
+    "important": true,
+    "important_tag": "산업·실적",
+    "why_important": "국내 1·2위 은행이 잇따라 AI 해킹으로 고객정보가 유출돼 금융 시스템 신뢰와 은행 비용에 영향"
+   }
   },
   {
    "id": "11bc63325f",
@@ -450,7 +488,12 @@
    "published_iso": "2026-10-02T16:04:37+09:00",
    "sort_key": 1790924677.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "최태원 회장이 SK 지분 2.3%(약 9,440억원)를 매각하기로 결정",
+    "impact": "대규모 지분 매각은 단기적으로 SK 주가에 매물 부담",
+    "affected": "SK, SK그룹 계열사"
+   }
   },
   {
    "id": "286b3eae61",
@@ -463,7 +506,12 @@
    "published_iso": "2026-10-02T16:03:48+09:00",
    "sort_key": 1790924628.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한국기계전기전자시험연구원 신임 원장 선임",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "104e416b1a",
@@ -476,7 +524,12 @@
    "published_iso": "2026-10-02T16:00:08+09:00",
    "sort_key": 1790924408.0,
    "excerpt": "In thousands of reviews, Mike Hale developed a reputation for being thoughtful yet brutally honest.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "17년간 활동한 뉴욕타임스 TV 평론가가 은퇴",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "6d8bca42e5",
@@ -489,7 +542,12 @@
    "published_iso": "2026-10-02T16:00:01+09:00",
    "sort_key": 1790924401.0,
    "excerpt": "(서울=연합뉴스) 김세린 기자 = 2일 낮 12시 30분께 서울 성동구 성수동. 동물복지 팝업스토어 &apos;오늘은 1004&apos; 입구에는 시민들이 길게 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "농식품부가 성수동에서 '동물보호의 날' 팝업 행사 개최",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "b250e0101a",
@@ -502,7 +560,12 @@
    "published_iso": "2026-10-02T15:59:42+09:00",
    "sort_key": 1790924382.0,
    "excerpt": "(동해=연합뉴스) 류호준 기자 = 강원 동해시는 주요 현안 사업 추진 상황을 현장에서 점검하고 사업별 미진 사항과 개선과제를 발굴한다고 2일 밝...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "동해시가 주요 현안 사업 현장을 점검",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "045c46a760",
@@ -517,7 +580,12 @@
    "excerpt": "(서울=연합뉴스) 황철환 기자 = 삼성전자[005930]가 2일 장중 내내 등락을 거듭하다 보합으로 정규장 거래를 마무리했다. SK하이닉스는 소...",
    "matched": [
     "005930.KS"
-   ]
+   ],
+   "analysis": {
+    "summary": "자사주 매입 종료 우려 등으로 삼성전자가 등락 끝에 보합 마감, SK하이닉스는 소폭 변동",
+    "impact": "자사주 매입이 끝나면 수급 지지가 약해질 수 있다는 우려",
+    "affected": "삼성전자, SK하이닉스"
+   }
   },
   {
    "id": "bfba77760a",
@@ -530,7 +598,12 @@
    "published_iso": "2026-10-02T15:54:18+09:00",
    "sort_key": 1790924058.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "보스턴다이내믹스가 아틀라스 로봇용 차세대 로봇 손을 공개",
+    "impact": "로봇 기술 경쟁력 강화, 현대차그룹 로봇 사업 기대",
+    "affected": "현대차그룹, 로봇 관련주"
+   }
   },
   {
    "id": "6e25ac4314",
@@ -543,7 +616,12 @@
    "published_iso": "2026-10-02T15:08:06+09:00",
    "sort_key": 1790921286.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "조원태 한진그룹 회장이 '올해의 아시아 항공사 경영자상' 수상",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "2689f6f793",
@@ -556,7 +634,12 @@
    "published_iso": "2026-10-02T15:03:23+09:00",
    "sort_key": 1790921003.0,
    "excerpt": "Bitget has frozen a tiny fraction of the $387.5 million stolen in last week’s hack, and restored much of its protection fund.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "가상자산 거래소 비트겟 CEO가 3억8,800만달러 해킹 피해를 대부분 되찾기 어렵다고 밝힘",
+    "impact": "가상자산 거래소 보안 우려 확대",
+    "affected": "가상자산 시장"
+   }
   },
   {
    "id": "a9f32429a6",
@@ -569,7 +652,12 @@
    "published_iso": "2026-10-02T14:46:24+09:00",
    "sort_key": 1790919984.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중국 시장 진출을 노리는 기업 6천 명이 몰리는 행사를 소개한 기사",
+    "impact": "시장 영향은 제한적",
+    "affected": "대중 수출기업"
+   }
   },
   {
    "id": "d5521d82a9",
@@ -582,7 +670,12 @@
    "published_iso": "2026-10-02T14:44:55+09:00",
    "sort_key": 1790919895.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "하나금융이 14년 만에 청라 '하나금융타운'을 완성하고 본사를 옮김",
+    "impact": "시장 영향은 제한적",
+    "affected": "하나금융"
+   }
   },
   {
    "id": "13fadac445",
@@ -595,7 +688,12 @@
    "published_iso": "2026-10-02T14:43:13+09:00",
    "sort_key": 1790919793.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "외국인 관광객이 늘어도 수원 행궁 상인들이 어려움을 호소한 이유를 다룬 기사",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "5f9d28598b",
@@ -608,7 +706,12 @@
    "published_iso": "2026-10-02T14:39:35+09:00",
    "sort_key": 1790919575.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "인쇄업계가 담합 피해로 4년간 영업이익 2년치를 잃었다며 지원을 호소",
+    "impact": "시장 영향은 제한적",
+    "affected": "인쇄업계"
+   }
   },
   {
    "id": "47338c90f3",
@@ -621,7 +724,12 @@
    "published_iso": "2026-10-02T10:34:56+09:00",
    "sort_key": 1790904896.0,
    "excerpt": "The former employees were investigated for sharing data with an outside AI evaluation group.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "오픈AI가 외부 AI 평가 단체와 민감한 정보를 공유한 직원들을 해고",
+    "impact": "AI 기업 내부 통제 이슈, 시장 영향은 제한적",
+    "affected": "AI 기업"
+   }
   },
   {
    "id": "7ae98a22ed",
@@ -634,7 +742,15 @@
    "published_iso": "2026-10-02T09:00:00+09:00",
    "sort_key": 1790899200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "2026년 9월 소비자물가 동향 발표",
+    "impact": "요약문이 없어 수치 확인 불가 — 고유가가 물가에 얼마나 반영됐는지가 관건",
+    "affected": "한국 국채금리, 한은 통화정책",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "고유가가 국내 물가에 얼마나 반영됐는지 보여주는 지표로, 한은 금리 결정과 국채금리에 직결"
+   }
   },
   {
    "id": "07727dea16",
@@ -647,7 +763,12 @@
    "published_iso": "2026-10-02T09:00:00+09:00",
    "sort_key": 1790899200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "물가관계부처회의와 민생침해 범정부 합동대응반 회의 개최",
+    "impact": "물가 안정 대책 논의, 시장 영향은 제한적",
+    "affected": "생활물가"
+   }
   },
   {
    "id": "57d5fed870",
@@ -660,7 +781,12 @@
    "published_iso": "2026-10-02T08:45:06+09:00",
    "sort_key": 1790898306.0,
    "excerpt": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "가상자산을 노린 강도가 가정집에 침입해 폭행·협박한 사건",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "4fbd3a8c9f",
@@ -673,7 +799,12 @@
    "published_iso": "2026-10-02T08:00:06+09:00",
    "sort_key": 1790895606.0,
    "excerpt": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "생활비 부담에 영국 청년층이 연금 가입을 포기하는 사례가 늘어남",
+    "impact": "시장 영향은 제한적",
+    "affected": "영국 연금"
+   }
   },
   {
    "id": "9265c9a73d",
@@ -686,7 +817,12 @@
    "published_iso": "2026-10-02T08:00:05+09:00",
    "sort_key": 1790895605.0,
    "excerpt": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "쿠바 정권 교체를 기다리는 미국 내 쿠바계 부유층 이야기",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "b284a09678",
