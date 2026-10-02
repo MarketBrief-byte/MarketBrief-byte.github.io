@@ -351,7 +351,12 @@
    "published_iso": "2026-10-03T07:11:20+09:00",
    "sort_key": 1790979080.0,
    "excerpt": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in a grower’s field or processing facility in northeastern Mexico.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미 식품의약국이 멕시코 테일러팜스 시설 점검에서 기생충(사이클로스포라)을 발견해 여름 식중독 발원지 증거 확보",
+    "impact": "식품 공급업체 리콜·소송 위험, 시장 영향은 제한적",
+    "affected": "미국 식품 유통"
+   }
   },
   {
    "id": "7966fd8ba8",
@@ -364,7 +369,12 @@
    "published_iso": "2026-10-03T07:01:01+09:00",
    "sort_key": 1790978461.0,
    "excerpt": "(서울=연합뉴스) 강태우 기자 = 전국 주유소 기름값이 전주 대비 소폭 내리며 20주 연속 하락세를 이어갔다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "국내 휘발유·경유 가격이 20주 연속 소폭 하락하며 1,800원대 유지",
+    "impact": "국내 기름값은 아직 안정적이지만 국제유가 급등이 시차를 두고 반영될 수 있음",
+    "affected": "정유주, 국내 물가"
+   }
   },
   {
    "id": "217ab18856",
@@ -377,7 +387,12 @@
    "published_iso": "2026-10-03T07:00:04+09:00",
    "sort_key": 1790978404.0,
    "excerpt": "▲ 에뛰드는 스킨케어와 자외선 차단, 메이크업 프렙 기능을 하나로 담은 신제품 &apos;님프 듀이 젤리 프렙&apos;을 출시했다고 3일 밝혔다. 이 제품은 호...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "에뛰드·네파 등 이번 주 신제품 소개",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "87b0c67f8e",
@@ -390,7 +405,12 @@
    "published_iso": "2026-10-03T07:00:03+09:00",
    "sort_key": 1790978403.0,
    "excerpt": "(서울=연합뉴스) 박재하 기자 = 한국토지주택공사(LH)가 가진 사업용 토지 가운데 민간에 팔지 못한 미매각 토지의 규모가 4년 만에 약 2.5...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "LH가 팔지 못한 사업용 토지가 21.9조원으로 4년 만에 약 2.5배 늘어남",
+    "impact": "부동산 경기 부진과 LH 재무 부담을 보여주는 신호",
+    "affected": "LH, 건설·부동산"
+   }
   },
   {
    "id": "450f054561",
@@ -403,7 +423,12 @@
    "published_iso": "2026-10-03T07:00:00+09:00",
    "sort_key": 1790978400.0,
    "excerpt": "▲ 농심[004370]은 라면 &apos;너구리&apos;와 스낵 &apos;양파링&apos;을 결합한 스낵 신제품 &apos;너구링&apos;을 출시했다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "농심 '너구링', 롯데칠성 '칠성사이다 리치' 등 신제품 소개",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "42cf7cb231",
@@ -416,7 +441,12 @@
    "published_iso": "2026-10-03T06:33:00+09:00",
    "sort_key": 1790976780.0,
    "excerpt": "(서울=연합뉴스) 심재훈 기자 = 최근 인공지능(AI)을 동원한 대규모 계정 탈취 공격이 신한은행과 KB국민은행, 하나은행 등 국내 주요 시중은...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "신한·KB국민·하나은행 등에서 AI 해킹 계정 탈취가 잇따르며 개인 보안 수칙을 정리",
+    "impact": "은행권 보안 이슈 지속",
+    "affected": "은행주, 보안 관련주"
+   }
   },
   {
    "id": "0825d2d218",
@@ -429,7 +459,12 @@
    "published_iso": "2026-10-03T06:30:01+09:00",
    "sort_key": 1790976601.0,
    "excerpt": "(대구=연합뉴스) 대구공공시설관리공단은 지역 청년 일자리 지원 등을 위해 모두 155명의 직원을 공개 채용한다고 3일 밝혔다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "대구공공시설관리공단이 직원 155명을 공개 채용",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "7ed90fef0c",
@@ -442,7 +477,12 @@
    "published_iso": "2026-10-03T06:01:01+09:00",
    "sort_key": 1790974861.0,
    "excerpt": "(서울=연합뉴스) 한지훈 기자 = 새마을금고가 지방자치단체 금고 시장에 진입하기 위해 재무 요건 완화와 은행과의 공동 참여를 골자로 한 제도 개...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "새마을금고가 재무 요건 완화 등 제도 개선을 요구하며 지자체 금고 시장 진출을 추진",
+    "impact": "농협 등 기존 금고 은행과 경쟁 심화",
+    "affected": "지역 금융기관"
+   }
   },
   {
    "id": "54d72689dc",
@@ -455,7 +495,12 @@
    "published_iso": "2026-10-03T06:00:10+09:00",
    "sort_key": 1790974810.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "명동 빌딩을 팔고 한옥을 지은 60대의 15년 이야기",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "fa291c5f70",
@@ -468,7 +513,12 @@
    "published_iso": "2026-10-03T06:00:01+09:00",
    "sort_key": 1790974801.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "반려묘 치료비 카드 결제 내역에 놀랐다는 사연",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "aaed9413ea",
@@ -481,7 +531,12 @@
    "published_iso": "2026-10-03T06:00:00+09:00",
    "sort_key": 1790974800.0,
    "excerpt": "(세종=연합뉴스) 오진송 기자 = 다음 주에는 전국 2곳에서 총 185가구가 분양에 나선다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "다음 주 부산 등 전국 2곳에서 185가구 분양",
+    "impact": "분양 물량이 적어 시장 영향은 제한적",
+    "affected": "부동산"
+   }
   },
   {
    "id": "cadde35138",
@@ -494,7 +549,12 @@
    "published_iso": "2026-10-03T05:45:00+09:00",
    "sort_key": 1790973900.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연준이 플뢰르캐피털의 신청을 승인",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "55bcc68635",
@@ -507,7 +567,12 @@
    "published_iso": "2026-10-03T05:25:19+09:00",
    "sort_key": 1790972719.0,
    "excerpt": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프의 경유 수출 금지 위협 뒤 G7이 원유·경유 1억 배럴 방출을 결정",
+    "impact": "공동 비축유 방출로 유가 급등세를 누그러뜨리고 미국의 수출 금지를 피하려는 조치",
+    "affected": "국제유가, 정유주, 물가"
+   }
   },
   {
    "id": "fe551cc7e9",
@@ -520,7 +585,12 @@
    "published_iso": "2026-10-03T05:00:00+09:00",
    "sort_key": 1790971200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연준이 내부자 대출 규정(레귤레이션 O) 개정안 의견 수렴 기간을 11월 4일까지 연장",
+    "impact": "시장 영향 없음",
+    "affected": "미국 은행"
+   }
   },
   {
    "id": "aa02be815f",
@@ -533,7 +603,12 @@
    "published_iso": "2026-10-03T04:56:28+09:00",
    "sort_key": 1790970988.0,
    "excerpt": "David Ellison, the tech scion who will run the combined company, borrowed the name of his original entertainment company that reflects his love of aviation. On Friday, the C.E.O.s of Warner Bros. were told they would not stay on once the companies merged.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "파라마운트와 워너브러더스 합병 회사 이름이 '스카이댄스'로 결정",
+    "impact": "합병 회사 출범 준비, 시장 영향은 제한적",
+    "affected": "파라마운트, 워너브러더스"
+   }
   },
   {
    "id": "40bcdb8ee8",
@@ -546,7 +621,12 @@
    "published_iso": "2026-10-03T03:49:03+09:00",
    "sort_key": 1790966943.0,
    "excerpt": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "월가에서 AI 에이전트를 조율하는 기술 수요가 1,721% 급증",
+    "impact": "금융업 AI 도입 가속, 시장 영향은 제한적",
+    "affected": "AI 인력·소프트웨어"
+   }
   },
   {
    "id": "384d0df8fb",
@@ -559,7 +639,15 @@
    "published_iso": "2026-10-03T03:28:16+09:00",
    "sort_key": 1790965696.0,
    "excerpt": "The Group of 7, which includes Britain, France and Japan, announced the release of 100 million barrels over four months, effective immediately.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국·프랑스·일본 등 G7이 경유 가격 급등에 4개월간 1억 배럴 비축유를 즉시 방출하기로 합의",
+    "impact": "공급 불안을 진정시켜 유가·경유 가격 상승세를 꺾을 수 있음",
+    "affected": "국제유가, 정유·항공·운송주, 물가",
+    "important": true,
+    "important_tag": "정책·무역",
+    "why_important": "G7이 비축유 1억 배럴을 즉시 방출하기로 해 유가 급등세와 미국의 경유 수출 금지 가능성을 함께 누그러뜨리는 조치"
+   }
   },
   {
    "id": "482c508173",
@@ -572,7 +660,12 @@
    "published_iso": "2026-10-03T03:07:44+09:00",
    "sort_key": 1790964464.0,
    "excerpt": "Sales of big pickup trucks and sport utility vehicles have dipped as more Americans buy hybrids and smaller cars.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "기름값 급등으로 미국 대형 픽업·SUV 판매가 줄고 하이브리드·소형차로 수요 이동",
+    "impact": "고연비 차량 강점이 있는 업체에 유리한 흐름",
+    "affected": "현대차·기아, 미국 완성차"
+   }
   },
   {
    "id": "9a2442c25d",
@@ -585,7 +678,12 @@
    "published_iso": "2026-10-03T02:38:59+09:00",
    "sort_key": 1790962739.0,
    "excerpt": "Women outnumbered men in the workforce for eight straight months as of September, according to one analysis.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 노동시장에서 9월까지 8개월 연속 여성 취업자가 남성보다 많음",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "b50b92d4d9",
@@ -598,7 +696,12 @@
    "published_iso": "2026-10-03T02:12:41+09:00",
    "sort_key": 1790961161.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "최악의 9월을 지나 10월 반등 가능성과 AI 에이전트 시대 투자 방향을 다룬 기사",
+    "impact": "시장 전망 참고용",
+    "affected": "미국 증시"
+   }
   },
   {
    "id": "e597650bcf",
@@ -613,7 +716,12 @@
    "excerpt": "",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "엔비디아와 월가가 GPU의 담보 가치를 두고 힘겨루기",
+    "impact": "GPU 담보 대출 가치평가는 AI 인프라 자금조달 비용에 영향",
+    "affected": "엔비디아, AI 데이터센터 금융"
+   }
   },
   {
    "id": "0bef84b47a",
@@ -626,7 +734,12 @@
    "published_iso": "2026-10-03T01:41:44+09:00",
    "sort_key": 1790959304.0,
    "excerpt": "Economists had taken a recent drop in Black unemployment as a hopeful sign that job gains were lifting a broad share of workers.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "9월 고용보고서에서 흑인 실업률이 크게 오름",
+    "impact": "노동시장 약화가 취약계층부터 나타나는 신호",
+    "affected": "미국 노동시장"
+   }
   },
   {
    "id": "7436c30cb0",
@@ -639,7 +752,12 @@
    "published_iso": "2026-10-03T00:59:17+09:00",
    "sort_key": 1790956757.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "뉴욕타임스 최신 소식 모음",
+    "impact": "내용 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "8ef7814aa0",
@@ -652,7 +770,12 @@
    "published_iso": "2026-10-03T00:50:14+09:00",
    "sort_key": 1790956214.0,
    "excerpt": "The odds of an interest rate change at the Federal Reserve’s meeting in late October have dropped following a softer jobs report and strong signaling from bank officials.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "9월 고용이 부진하자 연준이 10월 금리 인상을 건너뛸 것이라는 시장 베팅이 커짐",
+    "impact": "금리 인상 부담이 줄어 성장주·채권에 우호적",
+    "affected": "미국 국채금리, 성장주, 달러"
+   }
   },
   {
    "id": "40e2db69f7",
@@ -665,7 +788,12 @@
    "published_iso": "2026-10-03T00:50:05+09:00",
    "sort_key": 1790956205.0,
    "excerpt": "The rise in global oil prices has been pushing up the pump prices of petrol and diesel in the UK.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "국제유가 상승으로 영국 경유 가격이 처음으로 리터당 2파운드를 넘음",
+    "impact": "영국 물가 재상승 압력",
+    "affected": "영국 물가, 운송업"
+   }
   },
   {
    "id": "59322cafa4",
@@ -678,7 +806,12 @@
    "published_iso": "2026-10-03T00:00:00+09:00",
    "sort_key": 1790953200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연준이 온타리오 뱅코퍼레이션에 제재 조치",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "ee3cb6425c",
@@ -691,7 +824,12 @@
    "published_iso": "2026-10-02T23:30:48+09:00",
    "sort_key": 1790951448.0,
    "excerpt": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중간선거를 한 달 앞두고 미국 고용시장이 급격히 둔화하며 실업률 소폭 상승",
+    "impact": "경기 둔화 우려와 금리 정책 변화 가능성",
+    "affected": "미국 국채금리, 증시"
+   }
   },
   {
    "id": "980f93f442",
@@ -704,7 +842,12 @@
    "published_iso": "2026-10-02T23:20:32+09:00",
    "sort_key": 1790950832.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 9월 비농업 고용 쇼크로 추가 금리 인상에 제동이 걸릴지 주목",
+    "impact": "금리 인상 중단 기대가 커지면 성장주에 우호적",
+    "affected": "미국 국채금리, 성장주"
+   }
   },
   {
    "id": "1a22f0a20f",
@@ -717,7 +860,12 @@
    "published_iso": "2026-10-02T23:11:15+09:00",
    "sort_key": 1790950275.0,
    "excerpt": "Cheap labor and global supply chains are among the obstacles to President Trump’s plan to bring generic drug manufacturing back home.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국이 복제약 생산을 늘리려 하지만 인도 사례가 보여주듯 쉽지 않다는 분석",
+    "impact": "제약 공급망 재편 난항",
+    "affected": "제약·바이오"
+   }
   },
   {
    "id": "a2041a17ec",
@@ -730,7 +878,12 @@
    "published_iso": "2026-10-02T22:58:35+09:00",
    "sort_key": 1790949515.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "경쟁률 10대 1을 뚫은 첫 '경복궁 결혼식'의 주인공은 유튜버",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "501516cc74",
@@ -743,7 +896,12 @@
    "published_iso": "2026-10-02T22:53:32+09:00",
    "sort_key": 1790949212.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "2금융권 예가람저축은행에서도 해킹으로 고객 개인정보 유출",
+    "impact": "금융권 보안 사고가 2금융권으로 번짐",
+    "affected": "저축은행, 금융 보안"
+   }
   },
   {
    "id": "514bcfb29f",
@@ -756,7 +914,15 @@
    "published_iso": "2026-10-02T22:45:58+09:00",
    "sort_key": 1790948758.0,
    "excerpt": "Nonfarm payrolls rose by just 29,000 in September, well below the 84,000 forecast, and the unemployment rate rose to 4.2%, the Bureau of Labor Statistics said.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 9월 비농업 고용이 2만9천 명 늘어 예상(8만4천 명)을 크게 밑돌고 실업률은 4.2%로 상승",
+    "impact": "고용 둔화가 뚜렷해 연준의 추가 금리 인상 가능성이 낮아지고 경기 둔화 우려가 커짐",
+    "affected": "미국 국채금리, 달러, 성장주, 한국 증시",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "미국 9월 일자리가 예상의 3분의 1 수준에 그치고 실업률이 4.2%로 올라 연준 금리 경로와 경기 판단을 바꾸는 핵심 지표"
+   }
   },
   {
    "id": "99e72daa69",
@@ -769,7 +935,12 @@
    "published_iso": "2026-10-02T22:38:22+09:00",
    "sort_key": 1790948302.0,
    "excerpt": "The average price of a litre of diesel at the pump stands at an all-time high of 200.01p, according to the RAC motoring body.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 경유 가격이 리터당 2파운드를 넘은 이유를 설명한 해설",
+    "impact": "영국 물가 압력",
+    "affected": "영국 물가"
+   }
   },
   {
    "id": "f34789707c",
@@ -782,7 +953,12 @@
    "published_iso": "2026-10-02T22:29:27+09:00",
    "sort_key": 1790947767.0,
    "excerpt": "Odds tumbled after a jobs report showed a soft labor market, leading more traders to lower the the chances of a fed funds rate increase this month.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "고용 부진 뒤 트레이더들이 10월 연준 금리 인상 가능성을 거의 없다고 봄",
+    "impact": "금리 경로 기대 변화로 채권금리 하락 압력",
+    "affected": "미국 국채금리, 성장주"
+   }
   },
   {
    "id": "128975d682",
@@ -795,7 +971,12 @@
    "published_iso": "2026-10-02T22:17:05+09:00",
    "sort_key": 1790947025.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "일본을 좋아하던 중국인 여행객들이 다른 나라로 몰리는 흐름",
+    "impact": "관광 수요 이동, 시장 영향은 제한적",
+    "affected": "여행·면세"
+   }
   },
   {
    "id": "cb6784f470",
@@ -808,7 +989,12 @@
    "published_iso": "2026-10-02T22:00:00+09:00",
    "sort_key": 1790946000.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "유럽중앙은행 정책위원회의 금리 외 결정 사항 공지",
+    "impact": "요약문이 없어 내용 확인 불가",
+    "affected": "유럽 금융"
+   }
   },
   {
    "id": "8e0117d016",
@@ -821,7 +1007,12 @@
    "published_iso": "2026-10-02T20:30:00+09:00",
    "sort_key": 1790940600.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "부이치치 유럽중앙은행 정책위원의 유럽 은행업 미래 관련 연설",
+    "impact": "시장 영향은 제한적",
+    "affected": "유럽 은행"
+   }
   },
   {
    "id": "6c6e1f20a6",
@@ -834,7 +1025,12 @@
    "published_iso": "2026-10-02T20:03:31+09:00",
    "sort_key": 1790939011.0,
    "excerpt": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "월가 은행들이 AI 에이전트 조율 기술을 가진 인재 채용을 크게 늘림",
+    "impact": "시장 영향은 제한적",
+    "affected": "AI 인력"
+   }
   },
   {
    "id": "b911c3591e",
@@ -847,7 +1043,12 @@
    "published_iso": "2026-10-02T19:47:07+09:00",
    "sort_key": 1790938027.0,
    "excerpt": "Restrictions are being put on products with high sugar, fat and salt content, but the meal deal lives on.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "스코틀랜드 마트에서 당·지방·소금이 많은 제품의 진열 제한 규정 시행",
+    "impact": "시장 영향은 제한적",
+    "affected": "영국 식품 유통"
+   }
   },
   {
    "id": "bb4383747f",
@@ -860,7 +1061,12 @@
    "published_iso": "2026-10-02T10:54:51+09:00",
    "sort_key": 1790906091.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연구기관장 간담회 개최",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "2a19f83efc",
@@ -873,7 +1079,12 @@
    "published_iso": "2026-10-02T03:55:02+09:00",
    "sort_key": 1790880902.0,
    "excerpt": "Wall Street is looking for job growth of 84,000 to close out the summer.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "9월 고용보고서 발표를 앞두고 8만4천 명 증가를 예상한 사전 기사",
+    "impact": "결과 발표 전 예상치 기사로 시장 영향 없음",
+    "affected": "해당 없음"
+   }
   }
  ],
  "news_groups": {
