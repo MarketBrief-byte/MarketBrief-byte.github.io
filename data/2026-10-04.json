@@ -343,7 +343,12 @@
    "published_iso": "2026-10-04T09:09:00+09:00",
    "sort_key": 1791072540.0,
    "excerpt": "(시흥=연합뉴스) 최해민 기자 = 앞으로 경기 시흥시에 본사나 연구소 등을 신설하거나 일정 규모 이상의 직원을 신규 채용하는 기업은 최대 6억원...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "시흥시가 본사·연구소를 새로 짓거나 신규 채용하는 기업에 최대 6억원 보조금 지원",
+    "impact": "지역 투자 유치책, 시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "dfab224cc0",
@@ -356,7 +361,12 @@
    "published_iso": "2026-10-04T09:00:13+09:00",
    "sort_key": 1791072013.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "TMC가 미국 AI 인프라 투자 붐을 타고 광·전력 케이블로 매출 5천억원을 노림",
+    "impact": "AI 데이터센터 투자가 국내 전선·케이블 업체 수요로 이어지는 흐름",
+    "affected": "전선·케이블 관련주"
+   }
   },
   {
    "id": "6f4f42b119",
@@ -369,7 +379,12 @@
    "published_iso": "2026-10-04T09:00:07+09:00",
    "sort_key": 1791072007.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한국인 관광객이 많던 사이판을 이제는 찾지 않는 이유를 다룬 기사",
+    "impact": "시장 영향은 제한적",
+    "affected": "여행업"
+   }
   },
   {
    "id": "05acf7a8be",
@@ -382,7 +397,12 @@
    "published_iso": "2026-10-04T09:00:02+09:00",
    "sort_key": 1791072002.0,
    "excerpt": "(서울=연합뉴스) 이밝음 기자 = 지속해서 적자를 내는 회사의 비상장주식으로 상속세를 대신 내겠다는 신청을 세무당국이 거부한 것은 적법하다는 법...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "적자 회사 비상장주식으로 상속세를 내겠다는 신청을 세무당국이 거부한 것은 적법하다는 판결",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "e95c24494a",
@@ -395,7 +415,12 @@
    "published_iso": "2026-10-04T09:00:02+09:00",
    "sort_key": 1791072002.0,
    "excerpt": "(서울=연합뉴스) 한지훈 기자 = 신한은행은 자본재공제조합과 &apos;자본재 산업 상생 발전을 위한 플랫폼 기반 금융지원 업무협약&apos;을 체결했다고 4일 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "신한은행이 자본재공제조합과 기계·부품·소재 기업 금융지원 협약",
+    "impact": "시장 영향은 제한적",
+    "affected": "중소 제조업"
+   }
   },
   {
    "id": "1c397227fa",
@@ -408,7 +433,12 @@
    "published_iso": "2026-10-04T09:00:01+09:00",
    "sort_key": 1791072001.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "반도체 쏠림을 우려한 직장인들이 연금 자산을 다른 곳으로 옮기는 흐름",
+    "impact": "개인 연금 자금의 분산 투자 흐름, 시장 영향은 제한적",
+    "affected": "연금·펀드 시장"
+   }
   },
   {
    "id": "dae7edc5e2",
@@ -421,7 +451,12 @@
    "published_iso": "2026-10-04T08:44:35+09:00",
    "sort_key": 1791071075.0,
    "excerpt": "The film, starring Tom Cruise, grossed an estimated $8 million in its opening weekend. That could put the movie on track to lose at least $125 million.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "워너브러더스의 합병 전 마지막 개봉작 '디거'가 첫 주말 800만달러에 그쳐 큰 손실 예상",
+    "impact": "합병 앞둔 워너브러더스에 실적 부담",
+    "affected": "워너브러더스·파라마운트"
+   }
   },
   {
    "id": "4d23687270",
@@ -434,7 +469,12 @@
    "published_iso": "2026-10-04T08:35:09+09:00",
    "sort_key": 1791070509.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "컵밥 등 간편식 가격이 크게 올라 부담이 커졌다는 기사",
+    "impact": "식품 물가 부담, 시장 영향은 제한적",
+    "affected": "식품주, 소비자물가"
+   }
   },
   {
    "id": "71b3bb02df",
@@ -447,7 +487,12 @@
    "published_iso": "2026-10-04T08:32:40+09:00",
    "sort_key": 1791070360.0,
    "excerpt": "(서울=연합뉴스) 조민정 기자 = 국내 펫푸드 시장이 2조5천억원 규모로 성장했지만 정부가 국내 시장에서 수입산 제품이 차지하는 비중조차 파악하...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "국내 펫푸드 시장이 2.5조원으로 커졌지만 수입산 점유율 통계는 없음",
+    "impact": "시장 영향은 제한적",
+    "affected": "반려동물 산업"
+   }
   },
   {
    "id": "2cc058f899",
@@ -460,7 +505,12 @@
    "published_iso": "2026-10-04T08:01:01+09:00",
    "sort_key": 1791068461.0,
    "excerpt": "(부산=연합뉴스) 이영재 기자 = 지난 5년간 국내 어선 사고에 따른 사망자와 실종자가 478명에 달하는 것으로 나타났다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "최근 5년간 어선 사고 사망·실종자가 478명, 지난해만 110명",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "9f611901cc",
@@ -473,7 +523,12 @@
    "published_iso": "2026-10-04T08:00:11+09:00",
    "sort_key": 1791068411.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "화장품을 최대 90% 싸게 파는 새 유통 채널이 올리브영을 위협",
+    "impact": "화장품 유통 경쟁 심화",
+    "affected": "화장품 유통·브랜드"
+   }
   },
   {
    "id": "6c536d6515",
@@ -486,7 +541,12 @@
    "published_iso": "2026-10-04T07:11:01+09:00",
    "sort_key": 1791065461.0,
    "excerpt": "(서울=연합뉴스) 오예진 기자 = 국토교통부의 내년도 싱크홀 예방 지반탐사 지원사업이 전국 수요의 절반도 충족하지 못하는 것으로 나타났다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "싱크홀 예방 지반탐사 지원사업이 전국 수요의 절반도 채우지 못함",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "291bee487f",
@@ -499,7 +559,15 @@
    "published_iso": "2026-10-04T07:10:00+09:00",
    "sort_key": 1791065400.0,
    "excerpt": "(서울=연합뉴스) 조민정 기자 = 가공식품 가격이 전반적으로 오름세를 보이면서 소비자들의 장바구니 부담이 커지고 있다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "가공식품 26개 품목 중 24개가 1년 새 값이 올라 국·탕·컵밥 등 장바구니 부담 증가",
+    "impact": "식품 가격 상승이 이어지면 소비자물가를 끌어올리고 한은 금리 판단에 부담",
+    "affected": "식품주, 소비자물가, 국채금리",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "가공식품 대부분이 1년 새 값이 올라 체감 물가 부담이 커짐 — 고유가와 겹치면 한은 금리 판단에 영향"
+   }
   },
   {
    "id": "b3e30a4e2a",
@@ -512,7 +580,12 @@
    "published_iso": "2026-10-04T07:03:00+09:00",
    "sort_key": 1791064980.0,
    "excerpt": "(서울=연합뉴스) 임기창 기자 = 최근 5년간 전국 민간아파트 분양 현장에서 1천700건 가까운 부정청약이 적발된 것으로 나타났다. 부양가족을 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "최근 5년간 민간아파트 부정청약 1,699건 적발, 83%가 위장전입",
+    "impact": "시장 영향은 제한적",
+    "affected": "부동산"
+   }
   },
   {
    "id": "a463abfa67",
@@ -525,7 +598,12 @@
    "published_iso": "2026-10-04T06:01:02+09:00",
    "sort_key": 1791061262.0,
    "excerpt": "Salata Dressings initiated the recall of its Jalapeño Avocado Dressing in August over concerns about possible salmonella contamination.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미 식품의약국이 살모넬라 우려 샐러드드레싱 리콜을 최고 위험 등급으로 분류",
+    "impact": "시장 영향은 제한적",
+    "affected": "식품 업체"
+   }
   },
   {
    "id": "720f17cb2a",
@@ -538,7 +616,12 @@
    "published_iso": "2026-10-04T06:00:12+09:00",
    "sort_key": 1791061212.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "사과빵으로 인기를 끈 빵집이 30~40대에게 인기",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "d1e9046b6e",
@@ -551,7 +634,12 @@
    "published_iso": "2026-10-04T05:57:01+09:00",
    "sort_key": 1791061021.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한국 대신 중국 청년들이 몰리는 중국 내 특정 동네를 다룬 기사",
+    "impact": "중국인 관광 수요가 국내로 옮겨가는 흐름은 국내 면세·여행업에 부담",
+    "affected": "면세·여행업"
+   }
   },
   {
    "id": "037d4d9a94",
@@ -564,7 +652,12 @@
    "published_iso": "2026-10-04T05:10:04+09:00",
    "sort_key": 1791058204.0,
    "excerpt": "Faced with bots immune to traditional marketing tactics, marketers are racing to win them over with logic and data.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "AI 쇼핑 에이전트가 늘면서 브랜드들이 감성보다 논리·데이터로 마케팅 방식을 바꿈",
+    "impact": "온라인 유통과 광고 산업의 변화",
+    "affected": "이커머스, 광고"
+   }
   },
   {
    "id": "f7812f3ee1",
@@ -577,7 +670,12 @@
    "published_iso": "2026-10-03T22:12:27+09:00",
    "sort_key": 1791033147.0,
    "excerpt": "With the first round of Brazil's presidential election taking place Sunday, Wall Street is gearing up with starkly different market predictions.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "브라질 대선 1차 투표를 앞두고 룰라·보우소나루 결과에 따라 월가 전망이 크게 갈림",
+    "impact": "결과에 따라 브라질 자산과 신흥국 투자심리가 크게 움직일 수 있음",
+    "affected": "브라질 증시·헤알화, 신흥국 자산"
+   }
   },
   {
    "id": "e2d3b4137e",
@@ -590,7 +688,12 @@
    "published_iso": "2026-10-03T21:44:43+09:00",
    "sort_key": 1791031483.0,
    "excerpt": "Fewer orders and higher costs are squeezing restaurants big and small as people on the weight-loss drugs eat and drink less when dining out.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "비만치료제 복용자가 외식에서 덜 먹으면서 식당 매출과 수익성이 압박받음",
+    "impact": "외식업 수요 구조 변화",
+    "affected": "외식업, 식품 업체"
+   }
   },
   {
    "id": "f956667004",
@@ -603,7 +706,12 @@
    "published_iso": "2026-10-03T21:12:46+09:00",
    "sort_key": 1791029566.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "요즘 가장 많이 쓰이는 신용카드 순위를 다룬 기사",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "3b840d9d50",
@@ -616,7 +724,12 @@
    "published_iso": "2026-10-03T18:03:53+09:00",
    "sort_key": 1791018233.0,
    "excerpt": "The president, who had hoped to tout a growing economy on the campaign trail, has found it hard to break through as workers’ wages fail to keep up.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "물가 부담과 고용 둔화 속에 트럼프가 경제에 '홍보 문제'가 있다고 발언",
+    "impact": "중간선거를 앞둔 정책 변화 가능성",
+    "affected": "미국 정책"
+   }
   },
   {
    "id": "73e89b0417",
@@ -629,7 +742,12 @@
    "published_iso": "2026-10-03T17:58:44+09:00",
    "sort_key": 1791017924.0,
    "excerpt": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 에너지 공급업체들이 겨울 요금 부담 완화를 위한 정부의 즉각 조치를 요구",
+    "impact": "시장 영향은 제한적",
+    "affected": "영국 에너지 업계"
+   }
   },
   {
    "id": "a921efadba",
@@ -642,7 +760,12 @@
    "published_iso": "2026-10-03T11:29:40+09:00",
    "sort_key": 1790994580.0,
    "excerpt": "The Trump administration again defended the decision to bar CNN, MS NOW and Politico from the White House and to exclude journalists from the pool that covers the president in small spaces.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "백악관이 대통령에게 특정 언론사 출입을 막을 권한이 있다고 법원에 주장",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   }
  ],
  "news_groups": {
