@@ -1,2367 +1,2486 @@
 {
- "date": "2026-10-15",
- "generated_at": "2026-10-15 16:45",
- "weekday": "목",
- "site": {
-  "title": "오늘의 경제 한 장",
-  "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
-  "author": "asqwkl3215",
-  "timezone_label": "KST",
-  "base_url": "https://marketbrief-byte.github.io"
- },
- "indices": [
-  {
-   "name": "코스피",
-   "symbol": "^KS11",
-   "unit": "pt",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 5554.22,
-   "prev_close": 6803.9,
-   "change": -1249.68,
-   "change_pct": -18.37,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1792045980,
-   "asof_date": null
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15 16:45",
+  "weekday": "목",
+  "site": {
+    "title": "오늘의 경제 한 장",
+    "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
+    "author": "asqwkl3215",
+    "timezone_label": "KST",
+    "base_url": "https://marketbrief-byte.github.io"
   },
-  {
-   "name": "코스닥",
-   "symbol": "^KQ11",
-   "unit": "pt",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 760.82,
-   "prev_close": 898.43,
-   "change": -137.61,
-   "change_pct": -15.32,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1792045980,
-   "asof_date": null
-  },
-  {
-   "name": "S&P 500",
-   "symbol": "^GSPC",
-   "unit": "pt",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 7718.94,
-   "prev_close": 7801.77,
-   "change": -82.83,
-   "change_pct": -1.06,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1792010168,
-   "asof_date": null
-  },
-  {
-   "name": "나스닥",
-   "symbol": "^IXIC",
-   "unit": "pt",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 26692.87,
-   "prev_close": 27538.69,
-   "change": -845.82,
-   "change_pct": -3.07,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1792012559,
-   "asof_date": null
-  },
-  {
-   "name": "원/달러",
-   "symbol": "KRW=X",
-   "unit": "원",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 1342.56,
-   "prev_close": 1342.99,
-   "change": -0.43,
-   "change_pct": -0.03,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1792050296,
-   "asof_date": null
-  },
-  {
-   "name": "미 10년 국채",
-   "symbol": "^TNX",
-   "unit": "%",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 5.19,
-   "prev_close": 5.231,
-   "change": -0.041,
-   "change_pct": -0.78,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1792004394,
-   "asof_date": null
-  },
-  {
-   "name": "WTI 유가",
-   "symbol": "CL=F",
-   "unit": "$",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 94.02,
-   "prev_close": 93.74,
-   "change": 0.28,
-   "change_pct": 0.3,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1792049696,
-   "asof_date": null
-  },
-  {
-   "name": "금",
-   "symbol": "GC=F",
-   "unit": "$",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 4163.0,
-   "prev_close": 4190.6,
-   "change": -27.6,
-   "change_pct": -0.66,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1792049702,
-   "asof_date": null
-  }
- ],
- "watchlist": [
-  {
-   "name": "삼성전자",
-   "symbol": "005930.KS",
-   "unit": "",
-   "keywords": [
-    "삼성전자",
-    "Samsung Electronics",
-    "삼성 반도체"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 210000.0,
-   "prev_close": 268500.0,
-   "change": -58500.0,
-   "change_pct": -21.79,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1792045801,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "SK하이닉스",
-   "symbol": "000660.KS",
-   "unit": "",
-   "keywords": [
-    "SK하이닉스",
-    "SK Hynix",
-    "하이닉스",
-    "HBM"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 1262000.0,
-   "prev_close": 1723000.0,
-   "change": -461000.0,
-   "change_pct": -26.76,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1792045822,
-   "asof_date": null,
-   "news": [
+  "indices": [
     {
-     "id": "12917f52ac",
-     "title": "中에 우회수출 막는 美… \"HBM 등 공급망 통제 심화될 것\"",
-     "url": "https://www.hankyung.com/article/202610141985i",
-     "source": "한국경제",
-     "published_kst": "10/15 15:00"
+      "name": "코스피",
+      "symbol": "^KS11",
+      "unit": "pt",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 5554.22,
+      "prev_close": 6803.9,
+      "change": -1249.68,
+      "change_pct": -18.37,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1792045980,
+      "asof_date": null
+    },
+    {
+      "name": "코스닥",
+      "symbol": "^KQ11",
+      "unit": "pt",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 760.82,
+      "prev_close": 898.43,
+      "change": -137.61,
+      "change_pct": -15.32,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1792045980,
+      "asof_date": null
+    },
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "unit": "pt",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 7718.94,
+      "prev_close": 7801.77,
+      "change": -82.83,
+      "change_pct": -1.06,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1792010168,
+      "asof_date": null
+    },
+    {
+      "name": "나스닥",
+      "symbol": "^IXIC",
+      "unit": "pt",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 26692.87,
+      "prev_close": 27538.69,
+      "change": -845.82,
+      "change_pct": -3.07,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1792012559,
+      "asof_date": null
+    },
+    {
+      "name": "원/달러",
+      "symbol": "KRW=X",
+      "unit": "원",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 1342.56,
+      "prev_close": 1342.99,
+      "change": -0.43,
+      "change_pct": -0.03,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1792050296,
+      "asof_date": null
+    },
+    {
+      "name": "미 10년 국채",
+      "symbol": "^TNX",
+      "unit": "%",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 5.19,
+      "prev_close": 5.231,
+      "change": -0.041,
+      "change_pct": -0.78,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1792004394,
+      "asof_date": null
+    },
+    {
+      "name": "WTI 유가",
+      "symbol": "CL=F",
+      "unit": "$",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 94.02,
+      "prev_close": 93.74,
+      "change": 0.28,
+      "change_pct": 0.3,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1792049696,
+      "asof_date": null
+    },
+    {
+      "name": "금",
+      "symbol": "GC=F",
+      "unit": "$",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 4163.0,
+      "prev_close": 4190.6,
+      "change": -27.6,
+      "change_pct": -0.66,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1792049702,
+      "asof_date": null
     }
-   ]
-  },
-  {
-   "name": "현대차",
-   "symbol": "005380.KS",
-   "unit": "",
-   "keywords": [
-    "현대차",
-    "현대자동차",
-    "Hyundai Motor"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 295500.0,
-   "prev_close": 336000.0,
-   "change": -40500.0,
-   "change_pct": -12.05,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1792045810,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "LG에너지솔루션",
-   "symbol": "373220.KS",
-   "unit": "",
-   "keywords": [
-    "LG에너지솔루션",
-    "LG Energy Solution",
-    "이차전지",
-    "배터리"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 402500.0,
-   "prev_close": 391000.0,
-   "change": 11500.0,
-   "change_pct": 2.94,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1792045828,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "NAVER",
-   "symbol": "035420.KS",
-   "unit": "",
-   "keywords": [
-    "네이버",
-    "NAVER"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 173600.0,
-   "prev_close": 189000.0,
-   "change": -15400.0,
-   "change_pct": -8.15,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1792045827,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "엔비디아",
-   "symbol": "NVDA",
-   "unit": "",
-   "keywords": [
-    "엔비디아",
-    "Nvidia",
-    "NVDA"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 221.3,
-   "prev_close": 237.47,
-   "change": -16.17,
-   "change_pct": -6.81,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1792008000,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "애플",
-   "symbol": "AAPL",
-   "unit": "",
-   "keywords": [
-    "애플",
-    "Apple",
-    "AAPL"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 342.96,
-   "prev_close": 336.67,
-   "change": 6.29,
-   "change_pct": 1.87,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1792008001,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "테슬라",
-   "symbol": "TSLA",
-   "unit": "",
-   "keywords": [
-    "테슬라",
-    "Tesla",
-    "TSLA"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 367.16,
-   "prev_close": 377.81,
-   "change": -10.65,
-   "change_pct": -2.82,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1792008001,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "마이크로소프트",
-   "symbol": "MSFT",
-   "unit": "",
-   "keywords": [
-    "마이크로소프트",
-    "Microsoft",
-    "MSFT"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 533.69,
-   "prev_close": 529.76,
-   "change": 3.93,
-   "change_pct": 0.74,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1792008001,
-   "asof_date": null,
-   "news": []
-  }
- ],
- "news": [
-  {
-   "id": "3e8e2aed8d",
-   "title": "\"지역 농축협 연체액 21조원 육박…외국인 연체금도 11배 급증\"(종합)",
-   "url": "https://www.yna.co.kr/view/AKR20261015061251030",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 16:40",
-   "published_iso": "2026-10-15T16:40:50+09:00",
-   "sort_key": 1792050050.0,
-   "excerpt": "(서울=연합뉴스) 한주홍 김세린 기자 = 지역 농축협의 대출 연체액이 21조원에 육박하고 적자를 기록한 조합도 5곳 중 1곳에 달하는 것으로 나...",
-   "matched": []
-  },
-  {
-   "id": "4909c283aa",
-   "title": "국고채 금리 일제히 하락…3년물 연 3.867%",
-   "url": "https://www.yna.co.kr/view/AKR20261015150300008",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 16:40",
-   "published_iso": "2026-10-15T16:40:49+09:00",
-   "sort_key": 1792050049.0,
-   "excerpt": "(서울=연합뉴스) 15일 국고채 금리가 일제히 하락했다.",
-   "matched": []
-  },
-  {
-   "id": "576005fc2e",
-   "title": "증시 '휘청'에 국내 상장사 시총 하루새 400조원 이상 '증발'(종합)",
-   "url": "https://www.yna.co.kr/view/AKR20261015073251008",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 16:40",
-   "published_iso": "2026-10-15T16:40:32+09:00",
-   "sort_key": 1792050032.0,
-   "excerpt": "(서울=연합뉴스) 김유향 기자 = 국내 증시가 15일 급락하면서 코스피·코스닥 시장의 몸집이 전날보다 무려 400조원 넘게 쪼그라들었다.",
-   "matched": []
-  },
-  {
-   "id": "3e64b01355",
-   "title": "UK economy sees surprise growth in August ahead of Healey's first Budget",
-   "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/15 16:40",
-   "published_iso": "2026-10-15T16:40:27+09:00",
-   "sort_key": 1792050027.0,
-   "excerpt": "The uptick helped the economy grow by 0.7% over the three months to August, official figures show.",
-   "matched": []
-  },
-  {
-   "id": "391d2970be",
-   "title": "동해시장, 해수부에 동해신항 4∼7선석 국가재정 전환 건의",
-   "url": "https://www.yna.co.kr/view/AKR20261015149200062",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 16:38",
-   "published_iso": "2026-10-15T16:38:34+09:00",
-   "sort_key": 1792049914.0,
-   "excerpt": "(동해=연합뉴스) 유형재 기자 = 이정학 강원 동해시장은 15일 해양수산부를 방문해 동해신항 4∼7번 선석의 국가재정사업 전환과 제5차 항만배후...",
-   "matched": []
-  },
-  {
-   "id": "87be21e9b0",
-   "title": "창원시·창원상의, '1직원 1사 전담제' 운영 활성화 협약",
-   "url": "https://www.yna.co.kr/view/AKR20261015148500052",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 16:33",
-   "published_iso": "2026-10-15T16:33:28+09:00",
-   "sort_key": 1792049608.0,
-   "excerpt": "(창원=연합뉴스) 김선경 기자 = 경남 창원시와 창원상공회의소는 15일 시청 제3회의실에서 &apos;1직원 1사 전담제&apos; 운영 활성화를 위한 업무협약을...",
-   "matched": []
-  },
-  {
-   "id": "d21bc47809",
-   "title": "코스피 급락에 '변동성지수' 57선 넘어…나흘새 50% 급등(종합)",
-   "url": "https://www.yna.co.kr/view/AKR20261015073451008",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 16:32",
-   "published_iso": "2026-10-15T16:32:27+09:00",
-   "sort_key": 1792049547.0,
-   "excerpt": "(서울=연합뉴스) 정회인 기자 = 코스피가 외국인의 대규모 매도세에 급락한 15일 &apos;한국형 공포지수&apos;로 불리는 코스피200 변동성지수(VKOSP...",
-   "matched": []
-  },
-  {
-   "id": "8f0392f4cc",
-   "title": "농식품부, 포도 수출 1억달러 달성 추진…표준계약서 도입",
-   "url": "https://www.yna.co.kr/view/AKR20261015108800030",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 16:30",
-   "published_iso": "2026-10-15T16:30:00+09:00",
-   "sort_key": 1792049400.0,
-   "excerpt": "(서울=연합뉴스) 한주홍 기자 = 농림축산식품부가 포도 수출 1억달러(약 1천351억원) 달성을 위해 생산자와 수출업체 간 표준거래계약서를 도입...",
-   "matched": []
-  },
-  {
-   "id": "9b0762d1aa",
-   "title": "외국인 이달에만 18조원 투매…8거래일 내리 '팔자'(종합)",
-   "url": "https://www.yna.co.kr/view/AKR20261015084451008",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 16:29",
-   "published_iso": "2026-10-15T16:29:25+09:00",
-   "sort_key": 1792049365.0,
-   "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 유가증권시장(코스피)에서 외국인이 이달 들어서만 18조원 가까이 순매도했다.",
-   "matched": []
-  },
-  {
-   "id": "ebce4d43dc",
-   "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
-   "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/15 16:20",
-   "published_iso": "2026-10-15T16:20:45+09:00",
-   "sort_key": 1792048845.0,
-   "excerpt": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-   "matched": []
-  },
-  {
-   "id": "09bea371b1",
-   "title": "한솔제지, 122억원 규모 'AI 공장' 구축…에너지 절감·고장 예측",
-   "url": "https://www.hankyung.com/article/202610154483i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 16:15",
-   "published_iso": "2026-10-15T16:15:45+09:00",
-   "sort_key": 1792048545.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "5d925dfb32",
-   "title": "UK economy grew 0.1% in August, beating expectations",
-   "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
-   "source": "CNBC Economy",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/15 16:15",
-   "published_iso": "2026-10-15T16:15:28+09:00",
-   "sort_key": 1792048528.0,
-   "excerpt": "The U.K. is grappling with a cost-of-living crisis sparked by sticky inflation and surging energy costs.",
-   "matched": []
-  },
-  {
-   "id": "efef2fcbda",
-   "title": "신한카드 올해 두 번째 희망퇴직…인력 구조조정 속도 낸다",
-   "url": "https://www.hankyung.com/article/202610154439i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 16:05",
-   "published_iso": "2026-10-15T16:05:34+09:00",
-   "sort_key": 1792047934.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "7cf02a37d5",
-   "title": "[단독] 채무조정 신청자 15만명 눈앞…22년 만에 최대치",
-   "url": "https://www.hankyung.com/article/202610154123i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 16:00",
-   "published_iso": "2026-10-15T16:00:02+09:00",
-   "sort_key": 1792047602.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "6bc94dbe65",
-   "title": "[속보] 공포의 '검은 목요일'…코스피·코스닥 7%대 급락 마감",
-   "url": "https://www.hankyung.com/article/2026101543357",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 15:35",
-   "published_iso": "2026-10-15T15:35:03+09:00",
-   "sort_key": 1792046103.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "88f136f3f7",
-   "title": "[단독] 서민 주택대출 연체, 4년간 네 배 넘게 뛰었다",
-   "url": "https://www.hankyung.com/article/202610154045i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 15:30",
-   "published_iso": "2026-10-15T15:30:02+09:00",
-   "sort_key": 1792045802.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "12917f52ac",
-   "title": "中에 우회수출 막는 美… \"HBM 등 공급망 통제 심화될 것\"",
-   "url": "https://www.hankyung.com/article/202610141985i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 15:00",
-   "published_iso": "2026-10-15T15:00:12+09:00",
-   "sort_key": 1792044012.0,
-   "excerpt": "",
-   "matched": [
-    "000660.KS"
-   ]
-  },
-  {
-   "id": "a118d91a04",
-   "title": "[속보] TSMC 3분기 순익 69% 급증·사상 최대…시장 예상 상회",
-   "url": "https://www.hankyung.com/article/2026101542027",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 14:56",
-   "published_iso": "2026-10-15T14:56:35+09:00",
-   "sort_key": 1792043795.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "dace6c90fb",
-   "title": "\"AI 합성 아냐?\"…프랑스서 붉은 망토 두른 백화점 직원 정체 [씬메이커]",
-   "url": "https://www.hankyung.com/article/202610153133g",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 14:49",
-   "published_iso": "2026-10-15T14:49:20+09:00",
-   "sort_key": 1792043360.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "87cd317dee",
-   "title": "How backlash against data centres could shape the US midterm elections",
-   "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/15 08:02",
-   "published_iso": "2026-10-15T08:02:57+09:00",
-   "sort_key": 1792018977.0,
-   "excerpt": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
-   "matched": []
-  },
-  {
-   "id": "e9db7b2bc5",
-   "title": "How a Chinese-made toy gets to a US retailer",
-   "url": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/15 08:01",
-   "published_iso": "2026-10-15T08:01:28+09:00",
-   "sort_key": 1792018888.0,
-   "excerpt": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
-   "matched": []
-  },
-  {
-   "id": "b7f0a53f88",
-   "title": "How much is the minimum wage?",
-   "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/15 08:01",
-   "published_iso": "2026-10-15T08:01:11+09:00",
-   "sort_key": 1792018871.0,
-   "excerpt": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
-   "matched": []
-  },
-  {
-   "id": "163bf2145e",
-   "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
-   "url": "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/15 07:20",
-   "published_iso": "2026-10-15T07:20:50+09:00",
-   "sort_key": 1792016450.0,
-   "excerpt": "For years, Ukraine’s armed forces have relied on satellite communication services developed by Elon Musk’s SpaceX. Recent restrictions have hampered its war effort.",
-   "matched": [],
-   "analysis": {
-    "summary": "우크라이나군이 의존하는 스페이스X의 군용 위성 인터넷 '스타실드' 설명",
-    "impact": "시장 영향은 제한적",
-    "affected": "스페이스X, 방산"
-   }
-  },
-  {
-   "id": "6a515559e0",
-   "title": "'의심 선별'에도 정상 우편물로 분류된 마약…이튿날 회수",
-   "url": "https://www.yna.co.kr/view/AKR20261014158300065",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 07:17",
-   "published_iso": "2026-10-15T07:17:00+09:00",
-   "sort_key": 1792016220.0,
-   "excerpt": "(인천=연합뉴스) 김상연 기자 = 인천공항세관 국제우편통관센터에서 적발된 마약이 정상 우편물로 분류됐다가 이튿날 급히 회수되는 일이 벌어졌다.",
-   "matched": [],
-   "analysis": {
-    "summary": "인천공항 세관에서 적발된 마약이 정상 우편물로 분류됐다가 다음 날 회수",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "11580f4ff7",
-   "title": "1억원 들었는데…\"HUG '부동산 금융' 용역, 기존 저작물 짜깁기\"",
-   "url": "https://www.yna.co.kr/view/AKR20261014170200001",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 07:10",
-   "published_iso": "2026-10-15T07:10:01+09:00",
-   "sort_key": 1792015801.0,
-   "excerpt": "(서울=연합뉴스) 안정훈 기자 = 주택도시보증공사(HUG)가 2023년 수의계약을 통해 1억원을 들여 진행한 연구용역이 기존 저작물을 개정한 수...",
-   "matched": [],
-   "analysis": {
-    "summary": "HUG가 1억원을 들인 부동산 금융 연구용역이 기존 저작물 짜깁기라는 지적",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "7edee91c8b",
-   "title": "\"AI로 돈 쓸어 담는다더니\"…IMF가 경고한 이유 [분석+]",
-   "url": "https://www.hankyung.com/article/202610140981g",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 07:00",
-   "published_iso": "2026-10-15T07:00:32+09:00",
-   "sort_key": 1792015232.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "AI로 큰돈을 벌 것이라는 기대에 IMF가 경고한 이유 분석",
-    "impact": "AI 쏠림 위험 경계",
-    "affected": "AI 관련주"
-   }
-  },
-  {
-   "id": "79ce39c867",
-   "title": "[우분투칼럼] 챗GPT가 전부는 아니다…아프리카의 다른 AI 혁명",
-   "url": "https://www.yna.co.kr/view/AKR20260929074200898",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 07:00",
-   "published_iso": "2026-10-15T07:00:16+09:00",
-   "sort_key": 1792015216.0,
-   "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
-   "matched": [],
-   "analysis": {
-    "summary": "아프리카에서 챗GPT 외에 일어나는 다른 AI 혁명을 다룬 칼럼",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "8f49edd7a8",
-   "title": "[인터뷰] 경남상의협 회장 \"지방살아야 수도권도 숨통…법인세 차등 필요\"",
-   "url": "https://www.yna.co.kr/view/AKR20261014164100052",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 07:00",
-   "published_iso": "2026-10-15T07:00:14+09:00",
-   "sort_key": 1792015214.0,
-   "excerpt": "(창원=연합뉴스) 김선경 기자 = 최재호 경남상공회의소협의회 회장(창원상공회의소 회장)은 &quot;지방 기업들은 이미 기울어진 운동장에서 경쟁하고 있다...",
-   "matched": [],
-   "analysis": {
-    "summary": "경남상의협 회장이 지방 기업에 법인세 차등 적용이 필요하다고 주장",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "0c6c7d3439",
-   "title": "Stocks Tumble as Concerns Over Inflation and A.I. Investments Grow",
-   "url": "https://www.nytimes.com/2026/10/14/business/stocks-500-index-ai.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/15 06:30",
-   "published_iso": "2026-10-15T06:30:57+09:00",
-   "sort_key": 1792013457.0,
-   "excerpt": "The S&amp;P 500 fell 1.1 percent on Wednesday, the steepest drop in more than two months.",
-   "matched": [],
-   "analysis": {
-    "summary": "물가와 AI 투자 우려가 커지며 S&P 500이 1.1% 하락, 두 달여 만에 최대 낙폭",
-    "impact": "미국 증시 조정 신호 — 금리 부담과 AI 거품 우려가 겹침",
-    "affected": "미국 증시, 기술주",
-    "important": true,
-    "important_tag": "거시경제",
-    "why_important": "물가·AI 투자 우려로 S&P 500 1.1% 하락, 두 달여 만에 최대 낙폭"
-   }
-  },
-  {
-   "id": "8ef4e9974d",
-   "title": "주택·상가 임대차 분쟁 5년 새 2.3배로…조정은 6건 중 1건뿐",
-   "url": "https://www.yna.co.kr/view/AKR20261014163900003",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 06:30",
-   "published_iso": "2026-10-15T06:30:02+09:00",
-   "sort_key": 1792013402.0,
-   "excerpt": "(서울=연합뉴스) 오예진 기자 = 한국부동산원이 접수하는 주택과 상가 임대차 분쟁 건수가 가파르게 늘고 있지만 조정 실적은 미흡하다는 지적이 제...",
-   "matched": [],
-   "analysis": {
-    "summary": "주택·상가 임대차 분쟁이 5년 새 2.3배로 늘었지만 조정 성사는 6건 중 1건",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "c05eaf3518",
-   "title": "Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs",
-   "url": "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/15 06:25",
-   "published_iso": "2026-10-15T06:25:25+09:00",
-   "sort_key": 1792013125.0,
-   "excerpt": "President Trump’s deal with Russia will probably not lower diesel prices that have soared because of his war with Iran and Ukrainian attacks on Russian refineries.",
-   "matched": [],
-   "analysis": {
-    "summary": "트럼프의 러시아산 경유 거래로는 연료비가 내려가기 어렵다는 분석",
-    "impact": "고유가 지속 가능성",
-    "affected": "국제 경유 가격, 운송"
-   }
-  },
-  {
-   "id": "39c98c27cb",
-   "title": "Battle Over the Pierre Ends in Defeat for the Buyer Pushed by Lutnick",
-   "url": "https://www.nytimes.com/2026/10/14/business/pierre-buyer-lutnick.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/15 06:23",
-   "published_iso": "2026-10-15T06:23:45+09:00",
-   "sort_key": 1792013025.0,
-   "excerpt": "Motasem Khashoggi, who hails from a prominent Saudi family, missed a Tuesday deadline to deliver a $100 million deposit to purchase the Manhattan landmark.",
-   "matched": [],
-   "analysis": {
-    "summary": "러트닉이 밀던 사우디 출신 매수자가 맨해튼 피에르 호텔 부지 계약금을 내지 못해 거래 무산",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "34337c1035",
-   "title": "거래 끝났는데 계속 광고…서울 부동산 허위 매물 조치율 최저",
-   "url": "https://www.yna.co.kr/view/AKR20261014131300003",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 06:11",
-   "published_iso": "2026-10-15T06:11:01+09:00",
-   "sort_key": 1792012261.0,
-   "excerpt": "(세종=연합뉴스) 오진송 기자 = 거래가 끝난 뒤에도 온라인에 광고가 남아 있는 것으로 의심되는 부동산 매물이 최근 4년 7개월간 117만건을 ...",
-   "matched": [],
-   "analysis": {
-    "summary": "거래가 끝난 뒤에도 광고가 남는 서울 부동산 허위 매물 조치율이 최저",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "c3c0fb121c",
-   "title": "서울 아파트 토허신청 5개월만에 반등…강북·서남권 상승폭 확대",
-   "url": "https://www.yna.co.kr/view/AKR20261014161900004",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 06:00",
-   "published_iso": "2026-10-15T06:00:08+09:00",
-   "sort_key": 1792011608.0,
-   "excerpt": "(서울=연합뉴스) 유한주 기자 = 지난달 서울 아파트 토지거래허가(토허) 신규 신청 건수가 5개월 만에 소폭 반등한 것으로 나타났다.",
-   "matched": [],
-   "analysis": {
-    "summary": "서울 아파트 토지거래허가 신청이 5개월 만에 반등, 강북·서남권 상승폭 확대",
-    "impact": "서울 주택 거래 회복 조짐",
-    "affected": "서울 부동산, 건설"
-   }
-  },
-  {
-   "id": "8b25934650",
-   "title": "한중 FTA 서비스·투자 협상 속도 낸다…서울서 17차 협상",
-   "url": "https://www.yna.co.kr/view/AKR20261014167600003",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 06:00",
-   "published_iso": "2026-10-15T06:00:05+09:00",
-   "sort_key": 1792011605.0,
-   "excerpt": "(서울=연합뉴스) 신창용 기자 = 한·중 자유무역협정(FTA)에서 서비스·투자 부문 개방을 확대하기 위한 제17차 후속 협상이 서울에서 진행 중...",
-   "matched": [],
-   "analysis": {
-    "summary": "한중 FTA 서비스·투자 개방 확대를 위한 17차 후속 협상이 서울에서 진행",
-    "impact": "한중 교역 확대 기대, 시장 영향은 제한적",
-    "affected": "중국 진출 서비스 기업"
-   }
-  },
-  {
-   "id": "d62ebbb78a",
-   "title": "\"비싼 돈 주고 포르쉐 샀는데\"…5년 만에 벌어진 일 [프라이스&]",
-   "url": "https://www.hankyung.com/article/202610142514i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/15 06:00",
-   "published_iso": "2026-10-15T06:00:01+09:00",
-   "sort_key": 1792011601.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "비싸게 산 포르쉐 중고값이 5년 만에 크게 떨어진 사례",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "3ca96ac041",
-   "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-   "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-   "source": "CNBC Finance",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/15 05:22",
-   "published_iso": "2026-10-15T05:22:09+09:00",
-   "sort_key": 1792009329.0,
-   "excerpt": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
-   "matched": [],
-   "analysis": {
-    "summary": "모건스탠리 3분기 실적이 예상을 웃돔, 주식 트레이딩 매출이 예상보다 9억 달러 많음",
-    "impact": "증시 변동성이 투자은행 실적을 키움",
-    "affected": "모건스탠리, 미국 은행주"
-   }
-  },
-  {
-   "id": "f39a16a4a8",
-   "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-   "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-   "source": "CNBC Finance",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/15 05:20",
-   "published_iso": "2026-10-15T05:20:46+09:00",
-   "sort_key": 1792009246.0,
-   "excerpt": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
-   "matched": [],
-   "analysis": {
-    "summary": "뱅크오브아메리카가 트레이딩 매출 부진과 12억 달러 벌금으로 주가 하락",
-    "impact": "대형 은행 실적 엇갈림",
-    "affected": "뱅크오브아메리카"
-   }
-  },
-  {
-   "id": "9783a99f47",
-   "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-   "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-   "source": "CNBC Finance",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/15 05:06",
-   "published_iso": "2026-10-15T05:06:28+09:00",
-   "sort_key": 1792008388.0,
-   "excerpt": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
-   "matched": [],
-   "analysis": {
-    "summary": "뱅크오브아메리카가 AI 모델이 찾아낸 소프트웨어 취약점을 고치려 외주 인력 1,000명 고용",
-    "impact": "AI 시대 보안 비용 증가",
-    "affected": "은행, 보안 업체"
-   }
-  },
-  {
-   "id": "ef63b9c728",
-   "title": "Energy Department Order Takes Aim at Mid-Atlantic Blackout Risk",
-   "url": "https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/15 04:06",
-   "published_iso": "2026-10-15T04:06:35+09:00",
-   "sort_key": 1792004795.0,
-   "excerpt": "The order as a precaution allows grid operators to use backup generation this week. There were no widespread outages reported.",
-   "matched": [],
-   "analysis": {
-    "summary": "미 에너지부가 중부 대서양 지역 정전 위험에 대비해 예비 발전 사용을 허용",
-    "impact": "전력망 부족 문제 부각",
-    "affected": "전력·유틸리티"
-   }
-  },
-  {
-   "id": "c596e6898e",
-   "title": "[보도참고] 공급망안정화기금은 공급망 위기 대응을 위한 금융지원을 확대해 왔으며, 앞으로 중소·중견기업 지원도 강화하겠습니다.",
-   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079639",
-   "source": "재정경제부 보도자료",
-   "group": "국내 정책당국",
-   "lang": "ko",
-   "published_kst": "10/15 02:47",
-   "published_iso": "2026-10-15T02:47:15+09:00",
-   "sort_key": 1792000035.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "공급망안정화기금이 중소·중견기업 지원도 강화하겠다는 해명 자료",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "f7570566a2",
-   "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
-   "url": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/15 02:46",
-   "published_iso": "2026-10-15T02:46:30+09:00",
-   "sort_key": 1791999990.0,
-   "excerpt": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
-   "matched": [],
-   "analysis": {
-    "summary": "영국 공항 하차 요금이 급등해 정부가 검토 착수",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "455fff5af7",
-   "title": "Netflix, Facing Slowing Growth, Cuts 6% of Its Work Force",
-   "url": "https://www.nytimes.com/2026/10/14/business/media/netflix-layoffs-ted-sarandos.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/15 02:21",
-   "published_iso": "2026-10-15T02:21:26+09:00",
-   "sort_key": 1791998486.0,
-   "excerpt": "The streamer’s share price is down more than 40 percent over the last year as the company has struggled with stalling engagement.",
-   "matched": [],
-   "analysis": {
-    "summary": "성장 둔화를 겪는 넷플릭스가 인력 6% 감축, 주가는 1년 새 40% 넘게 하락",
-    "impact": "스트리밍 산업 성장 한계 신호",
-    "affected": "넷플릭스, 스트리밍 업계"
-   }
-  },
-  {
-   "id": "481e35200b",
-   "title": "How high inflation became a 'fact of life' in the U.S.",
-   "url": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
-   "source": "CNBC Economy",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/15 02:20",
-   "published_iso": "2026-10-15T02:20:23+09:00",
-   "sort_key": 1791998423.0,
-   "excerpt": "U.S. inflation has stayed elevated for years, raising concern at the Federal Reserve that consumers may come to expect stubbornly high prices.",
-   "matched": [],
-   "analysis": {
-    "summary": "미국에서 높은 물가가 '일상'이 된 과정 — 연준은 기대 인플레이션 고착을 우려",
-    "impact": "물가 고착화 우려가 금리 인상 근거",
-    "affected": "미국 국채, 연준"
-   }
-  },
-  {
-   "id": "fad7741422",
-   "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-   "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/15 01:47",
-   "published_iso": "2026-10-15T01:47:32+09:00",
-   "sort_key": 1791996452.0,
-   "excerpt": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
-   "matched": [],
-   "analysis": {
-    "summary": "넷플릭스가 2022년 이후 최대인 1,000명 감원(앞 기사와 같은 내용)",
-    "impact": "스트리밍 업계 구조조정",
-    "affected": "넷플릭스"
-   }
-  },
-  {
-   "id": "32f880d6d5",
-   "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-   "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/15 00:54",
-   "published_iso": "2026-10-15T00:54:04+09:00",
-   "sort_key": 1791993244.0,
-   "excerpt": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
-   "matched": [],
-   "analysis": {
-    "summary": "OpenAI 사우디 출신 엔지니어 체포 사건 정리",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "928277f3a9",
-   "title": "US inflation rises more than expected - here's what is happening with prices",
-   "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/15 00:26",
-   "published_iso": "2026-10-15T00:26:14+09:00",
-   "sort_key": 1791991574.0,
-   "excerpt": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-   "matched": [],
-   "analysis": {
-    "summary": "미국 9월 물가가 연료비 상승으로 3.7% 올라 예상을 웃돎(앞 기사와 같은 내용)",
-    "impact": "추가 금리 인상 압력",
-    "affected": "미국 국채, 달러"
-   }
-  },
-  {
-   "id": "76a686bc3c",
-   "title": "Democrats Blame Trump After CPI Report Shows Energy Prices Drove Up Inflation",
-   "url": "https://www.nytimes.com/2026/10/14/business/economy/inflation-trump-democrats-midterms-energy.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/15 00:25",
-   "published_iso": "2026-10-15T00:25:31+09:00",
-   "sort_key": 1791991531.0,
-   "excerpt": "Inflation and economic frustrations have expanded the map of competitive midterm election districts deep into Republican territory.",
-   "matched": [],
-   "analysis": {
-    "summary": "소비자물가 보고서에서 에너지가 물가를 끌어올리자 민주당이 트럼프 책임론 제기",
-    "impact": "중간선거 앞 물가 정치 쟁점화",
-    "affected": "미국 정치"
-   }
-  },
-  {
-   "id": "a74a0109a2",
-   "title": "5 Costs Americans Are Paying More for as Inflation Rises",
-   "url": "https://www.nytimes.com/2026/10/14/business/prices-inflation-food-airfare-car-rentals.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/14 23:52",
-   "published_iso": "2026-10-14T23:52:43+09:00",
-   "sort_key": 1791989563.0,
-   "excerpt": "Consumers are paying more for everyday goods and services, like food, computers and streaming.",
-   "matched": [],
-   "analysis": {
-    "summary": "물가 상승으로 미국인이 더 많이 내는 생활비 5가지",
-    "impact": "소비 여력 약화",
-    "affected": "소비주"
-   }
-  },
-  {
-   "id": "b79ac8bbaa",
-   "title": "예상 웃돈 CPI 여파에 美국채 투매…주가 하락·달러 연중최고",
-   "url": "https://www.hankyung.com/article/202610142609i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/14 23:45",
-   "published_iso": "2026-10-14T23:45:56+09:00",
-   "sort_key": 1791989156.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "예상을 웃돈 물가에 미국 국채 투매, 주가 하락, 달러는 연중 최고",
-    "impact": "금리·달러 동반 상승 — 신흥국 통화와 주식에 부담",
-    "affected": "미국 국채, 달러, 원/달러 환율, 신흥국",
-    "important": true,
-    "important_tag": "거시경제",
-    "why_important": "예상 웃돈 물가에 미국 국채 투매·달러 연중 최고 — 원화 약세와 신흥국 자금 이탈 압력"
-   }
-  },
-  {
-   "id": "0e2d0adb90",
-   "title": "美 9월 소비자 물가 3.7% 상승…고유가에 인플레이션 압력",
-   "url": "https://www.hankyung.com/article/202610142600i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/14 23:03",
-   "published_iso": "2026-10-14T23:03:55+09:00",
-   "sort_key": 1791986635.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "미국 9월 소비자물가 3.7% 상승, 고유가로 물가 압력(앞 기사와 같은 내용)",
-    "impact": "추가 금리 인상 압력",
-    "affected": "미국 국채"
-   }
-  },
-  {
-   "id": "b8d785fa3d",
-   "title": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
-   "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
-   "source": "CNBC Economy",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/14 22:53",
-   "published_iso": "2026-10-14T22:53:28+09:00",
-   "sort_key": 1791986008.0,
-   "excerpt": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
-   "matched": [],
-   "analysis": {
-    "summary": "미국 9월 소비자물가가 휘발유값 급등으로 3.7% 올라 예상(3.6%)을 웃돎",
-    "impact": "물가가 다시 빨라짐 — 연준 연내 추가 인상이 더 확실해짐",
-    "affected": "미국 국채, 달러, 성장주",
-    "important": true,
-    "important_tag": "거시경제",
-    "why_important": "미국 9월 소비자물가 3.7%로 예상(3.6%) 상회 — 연준 연내 추가 금리 인상이 더 확실해짐"
-   }
-  },
-  {
-   "id": "594dedfd7c",
-   "title": "Driving test waits fall to two-year low - but still average 20 weeks",
-   "url": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/14 22:45",
-   "published_iso": "2026-10-14T22:45:34+09:00",
-   "sort_key": 1791985534.0,
-   "excerpt": "Learner drivers in September had to wait an average of 19.7 weeks, or around five months, for a practical test.",
-   "matched": [],
-   "analysis": {
-    "summary": "영국 운전면허 시험 대기가 2년 만에 가장 짧아졌지만 여전히 평균 20주",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "3744b1cbb6",
-   "title": "美 9월 소비자물가 3.7% 상승 예상치 상회…\"금리인상 압력\"",
-   "url": "https://www.hankyung.com/article/2026101425871",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/14 22:36",
-   "published_iso": "2026-10-14T22:36:36+09:00",
-   "sort_key": 1791984996.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "미국 9월 물가 3.7%로 예상 상회, 금리 인상 압력(앞 기사와 같은 내용)",
-    "impact": "추가 금리 인상 압력",
-    "affected": "미국 국채"
-   }
-  },
-  {
-   "id": "93cf60e8c0",
-   "title": "\"금리 동결 믿었는데\"…9월 물가 충격에 연준 셈법 복잡해져",
-   "url": "https://www.hankyung.com/article/202610142568i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/14 22:26",
-   "published_iso": "2026-10-14T22:26:48+09:00",
-   "sort_key": 1791984408.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "금리 동결을 기대했는데 9월 물가 충격으로 연준 판단이 복잡해짐",
-    "impact": "금리 인상 가능성 커짐",
-    "affected": "미국 국채, 성장주"
-   }
-  },
-  {
-   "id": "938bbc2c52",
-   "title": "[속보] 美 9월 소비자물가, 전년대비 3.7% 상승",
-   "url": "https://www.hankyung.com/article/202610142545i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/14 21:33",
-   "published_iso": "2026-10-14T21:33:10+09:00",
-   "sort_key": 1791981190.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "미국 9월 소비자물가 3.7% 상승 속보(앞 기사와 같은 내용)",
-    "impact": "추가 금리 인상 압력",
-    "affected": "미국 국채"
-   }
-  },
-  {
-   "id": "184ed16968",
-   "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
-   "url": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/14 20:57",
-   "published_iso": "2026-10-14T20:57:22+09:00",
-   "sort_key": 1791979042.0,
-   "excerpt": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
-   "matched": [],
-   "analysis": {
-    "summary": "영국 공무원이 분장으로 아픈 척하며 5개 직장을 겸업한 혐의로 재판",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "e849d9defb",
-   "title": "\"3만9000원? 여기선 2000원\"…다이소 또 '난리' 뭐길래",
-   "url": "https://www.hankyung.com/article/2026101424707",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/14 20:35",
-   "published_iso": "2026-10-14T20:35:27+09:00",
-   "sort_key": 1791977727.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "다이소에서 3만 9천원짜리와 비슷한 상품을 2천원에 팔아 인기",
-    "impact": "가성비 소비 확산",
-    "affected": "저가 유통"
-   }
-  },
-  {
-   "id": "aae7dc9798",
-   "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
-   "url": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/14 20:04",
-   "published_iso": "2026-10-14T20:04:12+09:00",
-   "sort_key": 1791975852.0,
-   "excerpt": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
-   "matched": [],
-   "analysis": {
-    "summary": "IMF가 영국의 재정 적자 축소 계획을 칭찬한 의미",
-    "impact": "시장 영향은 제한적",
-    "affected": "영국 국채"
-   }
-  },
-  {
-   "id": "81e2cc6a2a",
-   "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
-   "source": "유럽중앙은행(ECB)",
-   "group": "중앙은행·국제기구",
-   "lang": "en",
-   "published_kst": "10/14 09:00",
-   "published_iso": "2026-10-14T09:00:00+09:00",
-   "sort_key": 1791936000.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "ECB 엘더슨 이사가 불확실성 속 금융 회복력 확보를 강조",
-    "impact": "시장 영향은 제한적",
-    "affected": "유럽 금융"
-   }
-  },
-  {
-   "id": "259a0db9b6",
-   "title": "이형일 부총리, 국제통화기금(IMF)·세계은행 연차 총회 및 주요 20개국(G20), 주요 7개국(G7) 재무장관회의 참석 위해 출국",
-   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079629",
-   "source": "재정경제부 보도자료",
-   "group": "국내 정책당국",
-   "lang": "ko",
-   "published_kst": "10/14 09:00",
-   "published_iso": "2026-10-14T09:00:00+09:00",
-   "sort_key": 1791936000.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "부총리가 IMF·세계은행 연차총회와 G20·G7 재무장관회의 참석차 출국",
-    "impact": "시장 영향은 제한적",
-    "affected": "해당 없음"
-   }
-  }
- ],
- "news_groups": {
-  "국내 경제언론": [
-   {
-    "id": "3e8e2aed8d",
-    "title": "\"지역 농축협 연체액 21조원 육박…외국인 연체금도 11배 급증\"(종합)",
-    "url": "https://www.yna.co.kr/view/AKR20261015061251030",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 16:40",
-    "published_iso": "2026-10-15T16:40:50+09:00",
-    "sort_key": 1792050050.0,
-    "excerpt": "(서울=연합뉴스) 한주홍 김세린 기자 = 지역 농축협의 대출 연체액이 21조원에 육박하고 적자를 기록한 조합도 5곳 중 1곳에 달하는 것으로 나...",
-    "matched": []
-   },
-   {
-    "id": "4909c283aa",
-    "title": "국고채 금리 일제히 하락…3년물 연 3.867%",
-    "url": "https://www.yna.co.kr/view/AKR20261015150300008",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 16:40",
-    "published_iso": "2026-10-15T16:40:49+09:00",
-    "sort_key": 1792050049.0,
-    "excerpt": "(서울=연합뉴스) 15일 국고채 금리가 일제히 하락했다.",
-    "matched": []
-   },
-   {
-    "id": "576005fc2e",
-    "title": "증시 '휘청'에 국내 상장사 시총 하루새 400조원 이상 '증발'(종합)",
-    "url": "https://www.yna.co.kr/view/AKR20261015073251008",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 16:40",
-    "published_iso": "2026-10-15T16:40:32+09:00",
-    "sort_key": 1792050032.0,
-    "excerpt": "(서울=연합뉴스) 김유향 기자 = 국내 증시가 15일 급락하면서 코스피·코스닥 시장의 몸집이 전날보다 무려 400조원 넘게 쪼그라들었다.",
-    "matched": []
-   },
-   {
-    "id": "391d2970be",
-    "title": "동해시장, 해수부에 동해신항 4∼7선석 국가재정 전환 건의",
-    "url": "https://www.yna.co.kr/view/AKR20261015149200062",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 16:38",
-    "published_iso": "2026-10-15T16:38:34+09:00",
-    "sort_key": 1792049914.0,
-    "excerpt": "(동해=연합뉴스) 유형재 기자 = 이정학 강원 동해시장은 15일 해양수산부를 방문해 동해신항 4∼7번 선석의 국가재정사업 전환과 제5차 항만배후...",
-    "matched": []
-   },
-   {
-    "id": "87be21e9b0",
-    "title": "창원시·창원상의, '1직원 1사 전담제' 운영 활성화 협약",
-    "url": "https://www.yna.co.kr/view/AKR20261015148500052",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 16:33",
-    "published_iso": "2026-10-15T16:33:28+09:00",
-    "sort_key": 1792049608.0,
-    "excerpt": "(창원=연합뉴스) 김선경 기자 = 경남 창원시와 창원상공회의소는 15일 시청 제3회의실에서 &apos;1직원 1사 전담제&apos; 운영 활성화를 위한 업무협약을...",
-    "matched": []
-   },
-   {
-    "id": "d21bc47809",
-    "title": "코스피 급락에 '변동성지수' 57선 넘어…나흘새 50% 급등(종합)",
-    "url": "https://www.yna.co.kr/view/AKR20261015073451008",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 16:32",
-    "published_iso": "2026-10-15T16:32:27+09:00",
-    "sort_key": 1792049547.0,
-    "excerpt": "(서울=연합뉴스) 정회인 기자 = 코스피가 외국인의 대규모 매도세에 급락한 15일 &apos;한국형 공포지수&apos;로 불리는 코스피200 변동성지수(VKOSP...",
-    "matched": []
-   },
-   {
-    "id": "8f0392f4cc",
-    "title": "농식품부, 포도 수출 1억달러 달성 추진…표준계약서 도입",
-    "url": "https://www.yna.co.kr/view/AKR20261015108800030",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 16:30",
-    "published_iso": "2026-10-15T16:30:00+09:00",
-    "sort_key": 1792049400.0,
-    "excerpt": "(서울=연합뉴스) 한주홍 기자 = 농림축산식품부가 포도 수출 1억달러(약 1천351억원) 달성을 위해 생산자와 수출업체 간 표준거래계약서를 도입...",
-    "matched": []
-   },
-   {
-    "id": "9b0762d1aa",
-    "title": "외국인 이달에만 18조원 투매…8거래일 내리 '팔자'(종합)",
-    "url": "https://www.yna.co.kr/view/AKR20261015084451008",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 16:29",
-    "published_iso": "2026-10-15T16:29:25+09:00",
-    "sort_key": 1792049365.0,
-    "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 유가증권시장(코스피)에서 외국인이 이달 들어서만 18조원 가까이 순매도했다.",
-    "matched": []
-   },
-   {
-    "id": "09bea371b1",
-    "title": "한솔제지, 122억원 규모 'AI 공장' 구축…에너지 절감·고장 예측",
-    "url": "https://www.hankyung.com/article/202610154483i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 16:15",
-    "published_iso": "2026-10-15T16:15:45+09:00",
-    "sort_key": 1792048545.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "efef2fcbda",
-    "title": "신한카드 올해 두 번째 희망퇴직…인력 구조조정 속도 낸다",
-    "url": "https://www.hankyung.com/article/202610154439i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 16:05",
-    "published_iso": "2026-10-15T16:05:34+09:00",
-    "sort_key": 1792047934.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "7cf02a37d5",
-    "title": "[단독] 채무조정 신청자 15만명 눈앞…22년 만에 최대치",
-    "url": "https://www.hankyung.com/article/202610154123i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 16:00",
-    "published_iso": "2026-10-15T16:00:02+09:00",
-    "sort_key": 1792047602.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "6bc94dbe65",
-    "title": "[속보] 공포의 '검은 목요일'…코스피·코스닥 7%대 급락 마감",
-    "url": "https://www.hankyung.com/article/2026101543357",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 15:35",
-    "published_iso": "2026-10-15T15:35:03+09:00",
-    "sort_key": 1792046103.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "88f136f3f7",
-    "title": "[단독] 서민 주택대출 연체, 4년간 네 배 넘게 뛰었다",
-    "url": "https://www.hankyung.com/article/202610154045i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 15:30",
-    "published_iso": "2026-10-15T15:30:02+09:00",
-    "sort_key": 1792045802.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "12917f52ac",
-    "title": "中에 우회수출 막는 美… \"HBM 등 공급망 통제 심화될 것\"",
-    "url": "https://www.hankyung.com/article/202610141985i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 15:00",
-    "published_iso": "2026-10-15T15:00:12+09:00",
-    "sort_key": 1792044012.0,
-    "excerpt": "",
-    "matched": [
-     "000660.KS"
+  ],
+  "watchlist": [
+    {
+      "name": "삼성전자",
+      "symbol": "005930.KS",
+      "unit": "",
+      "keywords": [
+        "삼성전자",
+        "Samsung Electronics",
+        "삼성 반도체"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 210000.0,
+      "prev_close": 268500.0,
+      "change": -58500.0,
+      "change_pct": -21.79,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1792045801,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "SK하이닉스",
+      "symbol": "000660.KS",
+      "unit": "",
+      "keywords": [
+        "SK하이닉스",
+        "SK Hynix",
+        "하이닉스",
+        "HBM"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 1262000.0,
+      "prev_close": 1723000.0,
+      "change": -461000.0,
+      "change_pct": -26.76,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1792045822,
+      "asof_date": null,
+      "news": [
+        {
+          "id": "12917f52ac",
+          "title": "中에 우회수출 막는 美… \"HBM 등 공급망 통제 심화될 것\"",
+          "url": "https://www.hankyung.com/article/202610141985i",
+          "source": "한국경제",
+          "published_kst": "10/15 15:00"
+        }
+      ]
+    },
+    {
+      "name": "현대차",
+      "symbol": "005380.KS",
+      "unit": "",
+      "keywords": [
+        "현대차",
+        "현대자동차",
+        "Hyundai Motor"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 295500.0,
+      "prev_close": 336000.0,
+      "change": -40500.0,
+      "change_pct": -12.05,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1792045810,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "LG에너지솔루션",
+      "symbol": "373220.KS",
+      "unit": "",
+      "keywords": [
+        "LG에너지솔루션",
+        "LG Energy Solution",
+        "이차전지",
+        "배터리"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 402500.0,
+      "prev_close": 391000.0,
+      "change": 11500.0,
+      "change_pct": 2.94,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1792045828,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "NAVER",
+      "symbol": "035420.KS",
+      "unit": "",
+      "keywords": [
+        "네이버",
+        "NAVER"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 173600.0,
+      "prev_close": 189000.0,
+      "change": -15400.0,
+      "change_pct": -8.15,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1792045827,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "엔비디아",
+      "symbol": "NVDA",
+      "unit": "",
+      "keywords": [
+        "엔비디아",
+        "Nvidia",
+        "NVDA"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 221.3,
+      "prev_close": 237.47,
+      "change": -16.17,
+      "change_pct": -6.81,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1792008000,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "애플",
+      "symbol": "AAPL",
+      "unit": "",
+      "keywords": [
+        "애플",
+        "Apple",
+        "AAPL"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 342.96,
+      "prev_close": 336.67,
+      "change": 6.29,
+      "change_pct": 1.87,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1792008001,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "테슬라",
+      "symbol": "TSLA",
+      "unit": "",
+      "keywords": [
+        "테슬라",
+        "Tesla",
+        "TSLA"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 367.16,
+      "prev_close": 377.81,
+      "change": -10.65,
+      "change_pct": -2.82,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1792008001,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "마이크로소프트",
+      "symbol": "MSFT",
+      "unit": "",
+      "keywords": [
+        "마이크로소프트",
+        "Microsoft",
+        "MSFT"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 533.69,
+      "prev_close": 529.76,
+      "change": 3.93,
+      "change_pct": 0.74,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1792008001,
+      "asof_date": null,
+      "news": []
+    }
+  ],
+  "news": [
+    {
+      "id": "3e8e2aed8d",
+      "title": "\"지역 농축협 연체액 21조원 육박…외국인 연체금도 11배 급증\"(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261015061251030",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 16:40",
+      "published_iso": "2026-10-15T16:40:50+09:00",
+      "sort_key": 1792050050.0,
+      "excerpt": "(서울=연합뉴스) 한주홍 김세린 기자 = 지역 농축협의 대출 연체액이 21조원에 육박하고 적자를 기록한 조합도 5곳 중 1곳에 달하는 것으로 나...",
+      "matched": [],
+      "analysis": {
+        "summary": "지역 농축협 대출 연체액이 21조원에 육박하고 5곳 중 1곳이 적자, 외국인 연체금도 11배 급증",
+        "impact": "상호금융권 건전성 악화 — 부실 확산 시 금융 불안 요인",
+        "affected": "상호금융, 지방 부동산"
+      }
+    },
+    {
+      "id": "4909c283aa",
+      "title": "국고채 금리 일제히 하락…3년물 연 3.867%",
+      "url": "https://www.yna.co.kr/view/AKR20261015150300008",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 16:40",
+      "published_iso": "2026-10-15T16:40:49+09:00",
+      "sort_key": 1792050049.0,
+      "excerpt": "(서울=연합뉴스) 15일 국고채 금리가 일제히 하락했다.",
+      "matched": [],
+      "analysis": {
+        "summary": "국고채 금리가 일제히 하락해 3년물 연 3.867%",
+        "impact": "증시 급락에 안전자산 선호",
+        "affected": "국고채"
+      }
+    },
+    {
+      "id": "576005fc2e",
+      "title": "증시 '휘청'에 국내 상장사 시총 하루새 400조원 이상 '증발'(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261015073251008",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 16:40",
+      "published_iso": "2026-10-15T16:40:32+09:00",
+      "sort_key": 1792050032.0,
+      "excerpt": "(서울=연합뉴스) 김유향 기자 = 국내 증시가 15일 급락하면서 코스피·코스닥 시장의 몸집이 전날보다 무려 400조원 넘게 쪼그라들었다.",
+      "matched": [],
+      "analysis": {
+        "summary": "국내 증시 급락으로 코스피·코스닥 시가총액이 하루 새 400조원 넘게 증발",
+        "impact": "투자 심리 급랭",
+        "affected": "국내 증시 전반"
+      }
+    },
+    {
+      "id": "3e64b01355",
+      "title": "UK economy sees surprise growth in August ahead of Healey's first Budget",
+      "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/15 16:40",
+      "published_iso": "2026-10-15T16:40:27+09:00",
+      "sort_key": 1792050027.0,
+      "excerpt": "The uptick helped the economy grow by 0.7% over the three months to August, official figures show.",
+      "matched": [],
+      "analysis": {
+        "summary": "영국 8월 경제가 예상 밖 성장, 3개월간 0.7% 성장",
+        "impact": "시장 영향은 제한적",
+        "affected": "영국 경제, 파운드"
+      }
+    },
+    {
+      "id": "391d2970be",
+      "title": "동해시장, 해수부에 동해신항 4∼7선석 국가재정 전환 건의",
+      "url": "https://www.yna.co.kr/view/AKR20261015149200062",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 16:38",
+      "published_iso": "2026-10-15T16:38:34+09:00",
+      "sort_key": 1792049914.0,
+      "excerpt": "(동해=연합뉴스) 유형재 기자 = 이정학 강원 동해시장은 15일 해양수산부를 방문해 동해신항 4∼7번 선석의 국가재정사업 전환과 제5차 항만배후...",
+      "matched": [],
+      "analysis": {
+        "summary": "동해시장이 해수부에 동해신항 선석의 국가재정 전환을 건의",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "87be21e9b0",
+      "title": "창원시·창원상의, '1직원 1사 전담제' 운영 활성화 협약",
+      "url": "https://www.yna.co.kr/view/AKR20261015148500052",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 16:33",
+      "published_iso": "2026-10-15T16:33:28+09:00",
+      "sort_key": 1792049608.0,
+      "excerpt": "(창원=연합뉴스) 김선경 기자 = 경남 창원시와 창원상공회의소는 15일 시청 제3회의실에서 &apos;1직원 1사 전담제&apos; 운영 활성화를 위한 업무협약을...",
+      "matched": [],
+      "analysis": {
+        "summary": "창원시·창원상의가 '1직원 1사 전담제' 활성화 협약",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "d21bc47809",
+      "title": "코스피 급락에 '변동성지수' 57선 넘어…나흘새 50% 급등(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261015073451008",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 16:32",
+      "published_iso": "2026-10-15T16:32:27+09:00",
+      "sort_key": 1792049547.0,
+      "excerpt": "(서울=연합뉴스) 정회인 기자 = 코스피가 외국인의 대규모 매도세에 급락한 15일 &apos;한국형 공포지수&apos;로 불리는 코스피200 변동성지수(VKOSP...",
+      "matched": [],
+      "analysis": {
+        "summary": "코스피 급락으로 공포지수(VKOSPI)가 57을 넘어 나흘 새 50% 급등",
+        "impact": "극심한 불안 심리 — 변동성 확대 국면",
+        "affected": "코스피"
+      }
+    },
+    {
+      "id": "8f0392f4cc",
+      "title": "농식품부, 포도 수출 1억달러 달성 추진…표준계약서 도입",
+      "url": "https://www.yna.co.kr/view/AKR20261015108800030",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 16:30",
+      "published_iso": "2026-10-15T16:30:00+09:00",
+      "sort_key": 1792049400.0,
+      "excerpt": "(서울=연합뉴스) 한주홍 기자 = 농림축산식품부가 포도 수출 1억달러(약 1천351억원) 달성을 위해 생산자와 수출업체 간 표준거래계약서를 도입...",
+      "matched": [],
+      "analysis": {
+        "summary": "농식품부가 포도 수출 1억 달러 달성을 위해 표준계약서 도입",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "9b0762d1aa",
+      "title": "외국인 이달에만 18조원 투매…8거래일 내리 '팔자'(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261015084451008",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 16:29",
+      "published_iso": "2026-10-15T16:29:25+09:00",
+      "sort_key": 1792049365.0,
+      "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 유가증권시장(코스피)에서 외국인이 이달 들어서만 18조원 가까이 순매도했다.",
+      "matched": [],
+      "analysis": {
+        "summary": "외국인이 이달에만 코스피에서 18조원 가까이 순매도, 8거래일 연속 매도",
+        "impact": "외국인 이탈이 하락의 주원인",
+        "affected": "코스피, 원/달러 환율"
+      }
+    },
+    {
+      "id": "ebce4d43dc",
+      "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/15 16:20",
+      "published_iso": "2026-10-15T16:20:45+09:00",
+      "sort_key": 1792048845.0,
+      "excerpt": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+      "matched": [],
+      "analysis": {
+        "summary": "Anthropic이 상장을 앞두고 투자자들에게 매출 급증을 알림",
+        "impact": "AI 인프라 지출 우려 속 AI 기업 상장 열기",
+        "affected": "AI 업계"
+      }
+    },
+    {
+      "id": "09bea371b1",
+      "title": "한솔제지, 122억원 규모 'AI 공장' 구축…에너지 절감·고장 예측",
+      "url": "https://www.hankyung.com/article/202610154483i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 16:15",
+      "published_iso": "2026-10-15T16:15:45+09:00",
+      "sort_key": 1792048545.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "한솔제지가 122억원 규모 AI 공장 구축",
+        "impact": "시장 영향은 제한적",
+        "affected": "한솔제지"
+      }
+    },
+    {
+      "id": "5d925dfb32",
+      "title": "UK economy grew 0.1% in August, beating expectations",
+      "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
+      "source": "CNBC Economy",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/15 16:15",
+      "published_iso": "2026-10-15T16:15:28+09:00",
+      "sort_key": 1792048528.0,
+      "excerpt": "The U.K. is grappling with a cost-of-living crisis sparked by sticky inflation and surging energy costs.",
+      "matched": [],
+      "analysis": {
+        "summary": "영국 8월 경제가 0.1% 성장해 예상을 웃돎(앞 기사와 같은 내용)",
+        "impact": "시장 영향은 제한적",
+        "affected": "영국 경제"
+      }
+    },
+    {
+      "id": "efef2fcbda",
+      "title": "신한카드 올해 두 번째 희망퇴직…인력 구조조정 속도 낸다",
+      "url": "https://www.hankyung.com/article/202610154439i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 16:05",
+      "published_iso": "2026-10-15T16:05:34+09:00",
+      "sort_key": 1792047934.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "신한카드가 올해 두 번째 희망퇴직을 실시",
+        "impact": "카드업계 비용 절감 구조조정",
+        "affected": "신한지주, 카드사"
+      }
+    },
+    {
+      "id": "7cf02a37d5",
+      "title": "[단독] 채무조정 신청자 15만명 눈앞…22년 만에 최대치",
+      "url": "https://www.hankyung.com/article/202610154123i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 16:00",
+      "published_iso": "2026-10-15T16:00:02+09:00",
+      "sort_key": 1792047602.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "채무조정 신청자가 15만 명에 육박해 22년 만에 최대",
+        "impact": "가계 빚 부담 심화 — 소비 둔화 요인",
+        "affected": "은행, 소비"
+      }
+    },
+    {
+      "id": "6bc94dbe65",
+      "title": "[속보] 공포의 '검은 목요일'…코스피·코스닥 7%대 급락 마감",
+      "url": "https://www.hankyung.com/article/2026101543357",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 15:35",
+      "published_iso": "2026-10-15T15:35:03+09:00",
+      "sort_key": 1792046103.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "'검은 목요일' 코스피·코스닥이 7%대 급락 마감",
+        "impact": "외국인 대량 매도·공포 확산 — 국내 증시 최대 충격",
+        "affected": "코스피, 코스닥, 국내 증시 전반",
+        "important": true,
+        "important_tag": "거시경제",
+        "why_important": "코스피·코스닥 7%대 폭락 '검은 목요일' — 외국인 이달 18조원 매도, 공포지수 나흘 새 50% 급등"
+      }
+    },
+    {
+      "id": "88f136f3f7",
+      "title": "[단독] 서민 주택대출 연체, 4년간 네 배 넘게 뛰었다",
+      "url": "https://www.hankyung.com/article/202610154045i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 15:30",
+      "published_iso": "2026-10-15T15:30:02+09:00",
+      "sort_key": 1792045802.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "서민 주택대출 연체가 4년간 네 배 넘게 늘어남",
+        "impact": "가계 대출 부실 확대",
+        "affected": "은행, 부동산"
+      }
+    },
+    {
+      "id": "12917f52ac",
+      "title": "中에 우회수출 막는 美… \"HBM 등 공급망 통제 심화될 것\"",
+      "url": "https://www.hankyung.com/article/202610141985i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 15:00",
+      "published_iso": "2026-10-15T15:00:12+09:00",
+      "sort_key": 1792044012.0,
+      "excerpt": "",
+      "matched": [
+        "000660.KS"
+      ],
+      "analysis": {
+        "summary": "미국이 중국 우회 수출을 막으며 HBM 등 반도체 공급망 통제가 더 심해질 전망",
+        "impact": "한국 메모리 업체의 중국 판매에 제약",
+        "affected": "SK하이닉스, 삼성전자, 반도체",
+        "important": true,
+        "important_tag": "정책·무역",
+        "why_important": "미국이 중국 우회 수출 차단 — HBM 등 한국 반도체의 중국 공급망 통제 강화"
+      }
+    },
+    {
+      "id": "a118d91a04",
+      "title": "[속보] TSMC 3분기 순익 69% 급증·사상 최대…시장 예상 상회",
+      "url": "https://www.hankyung.com/article/2026101542027",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 14:56",
+      "published_iso": "2026-10-15T14:56:35+09:00",
+      "sort_key": 1792043795.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "TSMC 3분기 순이익이 69% 급증해 사상 최대, 예상 상회",
+        "impact": "AI 반도체 수요가 실제 실적으로 확인됨",
+        "affected": "TSMC, 반도체 장비, AI 반도체",
+        "important": true,
+        "important_tag": "산업·실적",
+        "why_important": "TSMC 3분기 순이익 69% 급증·사상 최대 — AI 반도체 수요가 실적으로 확인"
+      }
+    },
+    {
+      "id": "dace6c90fb",
+      "title": "\"AI 합성 아냐?\"…프랑스서 붉은 망토 두른 백화점 직원 정체 [씬메이커]",
+      "url": "https://www.hankyung.com/article/202610153133g",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 14:49",
+      "published_iso": "2026-10-15T14:49:20+09:00",
+      "sort_key": 1792043360.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "프랑스 백화점의 붉은 망토 직원 화제",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "87cd317dee",
+      "title": "How backlash against data centres could shape the US midterm elections",
+      "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/15 08:02",
+      "published_iso": "2026-10-15T08:02:57+09:00",
+      "sort_key": 1792018977.0,
+      "excerpt": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+      "matched": [],
+      "analysis": {
+        "summary": "미국에서 여야 모두 데이터센터 건설 반대 목소리가 커져 중간선거 쟁점으로",
+        "impact": "데이터센터 건설 지연 위험",
+        "affected": "데이터센터, 전력·유틸리티"
+      }
+    },
+    {
+      "id": "e9db7b2bc5",
+      "title": "How a Chinese-made toy gets to a US retailer",
+      "url": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/15 08:01",
+      "published_iso": "2026-10-15T08:01:28+09:00",
+      "sort_key": 1792018888.0,
+      "excerpt": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
+      "matched": [],
+      "analysis": {
+        "summary": "중국산 장난감이 미국 매장에 오기까지의 과정",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "b7f0a53f88",
+      "title": "How much is the minimum wage?",
+      "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/15 08:01",
+      "published_iso": "2026-10-15T08:01:11+09:00",
+      "sort_key": 1792018871.0,
+      "excerpt": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
+      "matched": [],
+      "analysis": {
+        "summary": "영국 최저임금 제도 설명",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "163bf2145e",
+      "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
+      "url": "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/15 07:20",
+      "published_iso": "2026-10-15T07:20:50+09:00",
+      "sort_key": 1792016450.0,
+      "excerpt": "For years, Ukraine’s armed forces have relied on satellite communication services developed by Elon Musk’s SpaceX. Recent restrictions have hampered its war effort.",
+      "matched": [],
+      "analysis": {
+        "summary": "우크라이나군이 의존하는 스페이스X의 군용 위성 인터넷 '스타실드' 설명",
+        "impact": "시장 영향은 제한적",
+        "affected": "스페이스X, 방산"
+      }
+    },
+    {
+      "id": "6a515559e0",
+      "title": "'의심 선별'에도 정상 우편물로 분류된 마약…이튿날 회수",
+      "url": "https://www.yna.co.kr/view/AKR20261014158300065",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 07:17",
+      "published_iso": "2026-10-15T07:17:00+09:00",
+      "sort_key": 1792016220.0,
+      "excerpt": "(인천=연합뉴스) 김상연 기자 = 인천공항세관 국제우편통관센터에서 적발된 마약이 정상 우편물로 분류됐다가 이튿날 급히 회수되는 일이 벌어졌다.",
+      "matched": [],
+      "analysis": {
+        "summary": "인천공항 세관에서 적발된 마약이 정상 우편물로 분류됐다가 다음 날 회수",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "11580f4ff7",
+      "title": "1억원 들었는데…\"HUG '부동산 금융' 용역, 기존 저작물 짜깁기\"",
+      "url": "https://www.yna.co.kr/view/AKR20261014170200001",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 07:10",
+      "published_iso": "2026-10-15T07:10:01+09:00",
+      "sort_key": 1792015801.0,
+      "excerpt": "(서울=연합뉴스) 안정훈 기자 = 주택도시보증공사(HUG)가 2023년 수의계약을 통해 1억원을 들여 진행한 연구용역이 기존 저작물을 개정한 수...",
+      "matched": [],
+      "analysis": {
+        "summary": "HUG가 1억원을 들인 부동산 금융 연구용역이 기존 저작물 짜깁기라는 지적",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "7edee91c8b",
+      "title": "\"AI로 돈 쓸어 담는다더니\"…IMF가 경고한 이유 [분석+]",
+      "url": "https://www.hankyung.com/article/202610140981g",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 07:00",
+      "published_iso": "2026-10-15T07:00:32+09:00",
+      "sort_key": 1792015232.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "AI로 큰돈을 벌 것이라는 기대에 IMF가 경고한 이유 분석",
+        "impact": "AI 쏠림 위험 경계",
+        "affected": "AI 관련주"
+      }
+    },
+    {
+      "id": "79ce39c867",
+      "title": "[우분투칼럼] 챗GPT가 전부는 아니다…아프리카의 다른 AI 혁명",
+      "url": "https://www.yna.co.kr/view/AKR20260929074200898",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 07:00",
+      "published_iso": "2026-10-15T07:00:16+09:00",
+      "sort_key": 1792015216.0,
+      "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
+      "matched": [],
+      "analysis": {
+        "summary": "아프리카에서 챗GPT 외에 일어나는 다른 AI 혁명을 다룬 칼럼",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "8f49edd7a8",
+      "title": "[인터뷰] 경남상의협 회장 \"지방살아야 수도권도 숨통…법인세 차등 필요\"",
+      "url": "https://www.yna.co.kr/view/AKR20261014164100052",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 07:00",
+      "published_iso": "2026-10-15T07:00:14+09:00",
+      "sort_key": 1792015214.0,
+      "excerpt": "(창원=연합뉴스) 김선경 기자 = 최재호 경남상공회의소협의회 회장(창원상공회의소 회장)은 &quot;지방 기업들은 이미 기울어진 운동장에서 경쟁하고 있다...",
+      "matched": [],
+      "analysis": {
+        "summary": "경남상의협 회장이 지방 기업에 법인세 차등 적용이 필요하다고 주장",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "0c6c7d3439",
+      "title": "Stocks Tumble as Concerns Over Inflation and A.I. Investments Grow",
+      "url": "https://www.nytimes.com/2026/10/14/business/stocks-500-index-ai.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/15 06:30",
+      "published_iso": "2026-10-15T06:30:57+09:00",
+      "sort_key": 1792013457.0,
+      "excerpt": "The S&amp;P 500 fell 1.1 percent on Wednesday, the steepest drop in more than two months.",
+      "matched": [],
+      "analysis": {
+        "summary": "물가와 AI 투자 우려가 커지며 S&P 500이 1.1% 하락, 두 달여 만에 최대 낙폭",
+        "impact": "미국 증시 조정 신호 — 금리 부담과 AI 거품 우려가 겹침",
+        "affected": "미국 증시, 기술주",
+        "important": true,
+        "important_tag": "거시경제",
+        "why_important": "물가·AI 투자 우려로 S&P 500 1.1% 하락, 두 달여 만에 최대 낙폭"
+      }
+    },
+    {
+      "id": "8ef4e9974d",
+      "title": "주택·상가 임대차 분쟁 5년 새 2.3배로…조정은 6건 중 1건뿐",
+      "url": "https://www.yna.co.kr/view/AKR20261014163900003",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 06:30",
+      "published_iso": "2026-10-15T06:30:02+09:00",
+      "sort_key": 1792013402.0,
+      "excerpt": "(서울=연합뉴스) 오예진 기자 = 한국부동산원이 접수하는 주택과 상가 임대차 분쟁 건수가 가파르게 늘고 있지만 조정 실적은 미흡하다는 지적이 제...",
+      "matched": [],
+      "analysis": {
+        "summary": "주택·상가 임대차 분쟁이 5년 새 2.3배로 늘었지만 조정 성사는 6건 중 1건",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "c05eaf3518",
+      "title": "Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs",
+      "url": "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/15 06:25",
+      "published_iso": "2026-10-15T06:25:25+09:00",
+      "sort_key": 1792013125.0,
+      "excerpt": "President Trump’s deal with Russia will probably not lower diesel prices that have soared because of his war with Iran and Ukrainian attacks on Russian refineries.",
+      "matched": [],
+      "analysis": {
+        "summary": "트럼프의 러시아산 경유 거래로는 연료비가 내려가기 어렵다는 분석",
+        "impact": "고유가 지속 가능성",
+        "affected": "국제 경유 가격, 운송"
+      }
+    },
+    {
+      "id": "39c98c27cb",
+      "title": "Battle Over the Pierre Ends in Defeat for the Buyer Pushed by Lutnick",
+      "url": "https://www.nytimes.com/2026/10/14/business/pierre-buyer-lutnick.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/15 06:23",
+      "published_iso": "2026-10-15T06:23:45+09:00",
+      "sort_key": 1792013025.0,
+      "excerpt": "Motasem Khashoggi, who hails from a prominent Saudi family, missed a Tuesday deadline to deliver a $100 million deposit to purchase the Manhattan landmark.",
+      "matched": [],
+      "analysis": {
+        "summary": "러트닉이 밀던 사우디 출신 매수자가 맨해튼 피에르 호텔 부지 계약금을 내지 못해 거래 무산",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "34337c1035",
+      "title": "거래 끝났는데 계속 광고…서울 부동산 허위 매물 조치율 최저",
+      "url": "https://www.yna.co.kr/view/AKR20261014131300003",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 06:11",
+      "published_iso": "2026-10-15T06:11:01+09:00",
+      "sort_key": 1792012261.0,
+      "excerpt": "(세종=연합뉴스) 오진송 기자 = 거래가 끝난 뒤에도 온라인에 광고가 남아 있는 것으로 의심되는 부동산 매물이 최근 4년 7개월간 117만건을 ...",
+      "matched": [],
+      "analysis": {
+        "summary": "거래가 끝난 뒤에도 광고가 남는 서울 부동산 허위 매물 조치율이 최저",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "c3c0fb121c",
+      "title": "서울 아파트 토허신청 5개월만에 반등…강북·서남권 상승폭 확대",
+      "url": "https://www.yna.co.kr/view/AKR20261014161900004",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 06:00",
+      "published_iso": "2026-10-15T06:00:08+09:00",
+      "sort_key": 1792011608.0,
+      "excerpt": "(서울=연합뉴스) 유한주 기자 = 지난달 서울 아파트 토지거래허가(토허) 신규 신청 건수가 5개월 만에 소폭 반등한 것으로 나타났다.",
+      "matched": [],
+      "analysis": {
+        "summary": "서울 아파트 토지거래허가 신청이 5개월 만에 반등, 강북·서남권 상승폭 확대",
+        "impact": "서울 주택 거래 회복 조짐",
+        "affected": "서울 부동산, 건설"
+      }
+    },
+    {
+      "id": "8b25934650",
+      "title": "한중 FTA 서비스·투자 협상 속도 낸다…서울서 17차 협상",
+      "url": "https://www.yna.co.kr/view/AKR20261014167600003",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 06:00",
+      "published_iso": "2026-10-15T06:00:05+09:00",
+      "sort_key": 1792011605.0,
+      "excerpt": "(서울=연합뉴스) 신창용 기자 = 한·중 자유무역협정(FTA)에서 서비스·투자 부문 개방을 확대하기 위한 제17차 후속 협상이 서울에서 진행 중...",
+      "matched": [],
+      "analysis": {
+        "summary": "한중 FTA 서비스·투자 개방 확대를 위한 17차 후속 협상이 서울에서 진행",
+        "impact": "한중 교역 확대 기대, 시장 영향은 제한적",
+        "affected": "중국 진출 서비스 기업"
+      }
+    },
+    {
+      "id": "d62ebbb78a",
+      "title": "\"비싼 돈 주고 포르쉐 샀는데\"…5년 만에 벌어진 일 [프라이스&]",
+      "url": "https://www.hankyung.com/article/202610142514i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/15 06:00",
+      "published_iso": "2026-10-15T06:00:01+09:00",
+      "sort_key": 1792011601.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "비싸게 산 포르쉐 중고값이 5년 만에 크게 떨어진 사례",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "3ca96ac041",
+      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+      "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+      "source": "CNBC Finance",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/15 05:22",
+      "published_iso": "2026-10-15T05:22:09+09:00",
+      "sort_key": 1792009329.0,
+      "excerpt": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
+      "matched": [],
+      "analysis": {
+        "summary": "모건스탠리 3분기 실적이 예상을 웃돔, 주식 트레이딩 매출이 예상보다 9억 달러 많음",
+        "impact": "증시 변동성이 투자은행 실적을 키움",
+        "affected": "모건스탠리, 미국 은행주"
+      }
+    },
+    {
+      "id": "f39a16a4a8",
+      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
+      "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "source": "CNBC Finance",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/15 05:20",
+      "published_iso": "2026-10-15T05:20:46+09:00",
+      "sort_key": 1792009246.0,
+      "excerpt": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
+      "matched": [],
+      "analysis": {
+        "summary": "뱅크오브아메리카가 트레이딩 매출 부진과 12억 달러 벌금으로 주가 하락",
+        "impact": "대형 은행 실적 엇갈림",
+        "affected": "뱅크오브아메리카"
+      }
+    },
+    {
+      "id": "9783a99f47",
+      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+      "source": "CNBC Finance",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/15 05:06",
+      "published_iso": "2026-10-15T05:06:28+09:00",
+      "sort_key": 1792008388.0,
+      "excerpt": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
+      "matched": [],
+      "analysis": {
+        "summary": "뱅크오브아메리카가 AI 모델이 찾아낸 소프트웨어 취약점을 고치려 외주 인력 1,000명 고용",
+        "impact": "AI 시대 보안 비용 증가",
+        "affected": "은행, 보안 업체"
+      }
+    },
+    {
+      "id": "ef63b9c728",
+      "title": "Energy Department Order Takes Aim at Mid-Atlantic Blackout Risk",
+      "url": "https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/15 04:06",
+      "published_iso": "2026-10-15T04:06:35+09:00",
+      "sort_key": 1792004795.0,
+      "excerpt": "The order as a precaution allows grid operators to use backup generation this week. There were no widespread outages reported.",
+      "matched": [],
+      "analysis": {
+        "summary": "미 에너지부가 중부 대서양 지역 정전 위험에 대비해 예비 발전 사용을 허용",
+        "impact": "전력망 부족 문제 부각",
+        "affected": "전력·유틸리티"
+      }
+    },
+    {
+      "id": "c596e6898e",
+      "title": "[보도참고] 공급망안정화기금은 공급망 위기 대응을 위한 금융지원을 확대해 왔으며, 앞으로 중소·중견기업 지원도 강화하겠습니다.",
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079639",
+      "source": "재정경제부 보도자료",
+      "group": "국내 정책당국",
+      "lang": "ko",
+      "published_kst": "10/15 02:47",
+      "published_iso": "2026-10-15T02:47:15+09:00",
+      "sort_key": 1792000035.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "공급망안정화기금이 중소·중견기업 지원도 강화하겠다는 해명 자료",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "f7570566a2",
+      "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
+      "url": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/15 02:46",
+      "published_iso": "2026-10-15T02:46:30+09:00",
+      "sort_key": 1791999990.0,
+      "excerpt": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
+      "matched": [],
+      "analysis": {
+        "summary": "영국 공항 하차 요금이 급등해 정부가 검토 착수",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "455fff5af7",
+      "title": "Netflix, Facing Slowing Growth, Cuts 6% of Its Work Force",
+      "url": "https://www.nytimes.com/2026/10/14/business/media/netflix-layoffs-ted-sarandos.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/15 02:21",
+      "published_iso": "2026-10-15T02:21:26+09:00",
+      "sort_key": 1791998486.0,
+      "excerpt": "The streamer’s share price is down more than 40 percent over the last year as the company has struggled with stalling engagement.",
+      "matched": [],
+      "analysis": {
+        "summary": "성장 둔화를 겪는 넷플릭스가 인력 6% 감축, 주가는 1년 새 40% 넘게 하락",
+        "impact": "스트리밍 산업 성장 한계 신호",
+        "affected": "넷플릭스, 스트리밍 업계"
+      }
+    },
+    {
+      "id": "481e35200b",
+      "title": "How high inflation became a 'fact of life' in the U.S.",
+      "url": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
+      "source": "CNBC Economy",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/15 02:20",
+      "published_iso": "2026-10-15T02:20:23+09:00",
+      "sort_key": 1791998423.0,
+      "excerpt": "U.S. inflation has stayed elevated for years, raising concern at the Federal Reserve that consumers may come to expect stubbornly high prices.",
+      "matched": [],
+      "analysis": {
+        "summary": "미국에서 높은 물가가 '일상'이 된 과정 — 연준은 기대 인플레이션 고착을 우려",
+        "impact": "물가 고착화 우려가 금리 인상 근거",
+        "affected": "미국 국채, 연준"
+      }
+    },
+    {
+      "id": "fad7741422",
+      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/15 01:47",
+      "published_iso": "2026-10-15T01:47:32+09:00",
+      "sort_key": 1791996452.0,
+      "excerpt": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
+      "matched": [],
+      "analysis": {
+        "summary": "넷플릭스가 2022년 이후 최대인 1,000명 감원(앞 기사와 같은 내용)",
+        "impact": "스트리밍 업계 구조조정",
+        "affected": "넷플릭스"
+      }
+    },
+    {
+      "id": "32f880d6d5",
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/15 00:54",
+      "published_iso": "2026-10-15T00:54:04+09:00",
+      "sort_key": 1791993244.0,
+      "excerpt": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+      "matched": [],
+      "analysis": {
+        "summary": "OpenAI 사우디 출신 엔지니어 체포 사건 정리",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "928277f3a9",
+      "title": "US inflation rises more than expected - here's what is happening with prices",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/15 00:26",
+      "published_iso": "2026-10-15T00:26:14+09:00",
+      "sort_key": 1791991574.0,
+      "excerpt": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+      "matched": [],
+      "analysis": {
+        "summary": "미국 9월 물가가 연료비 상승으로 3.7% 올라 예상을 웃돎(앞 기사와 같은 내용)",
+        "impact": "추가 금리 인상 압력",
+        "affected": "미국 국채, 달러"
+      }
+    },
+    {
+      "id": "76a686bc3c",
+      "title": "Democrats Blame Trump After CPI Report Shows Energy Prices Drove Up Inflation",
+      "url": "https://www.nytimes.com/2026/10/14/business/economy/inflation-trump-democrats-midterms-energy.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/15 00:25",
+      "published_iso": "2026-10-15T00:25:31+09:00",
+      "sort_key": 1791991531.0,
+      "excerpt": "Inflation and economic frustrations have expanded the map of competitive midterm election districts deep into Republican territory.",
+      "matched": [],
+      "analysis": {
+        "summary": "소비자물가 보고서에서 에너지가 물가를 끌어올리자 민주당이 트럼프 책임론 제기",
+        "impact": "중간선거 앞 물가 정치 쟁점화",
+        "affected": "미국 정치"
+      }
+    },
+    {
+      "id": "a74a0109a2",
+      "title": "5 Costs Americans Are Paying More for as Inflation Rises",
+      "url": "https://www.nytimes.com/2026/10/14/business/prices-inflation-food-airfare-car-rentals.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/14 23:52",
+      "published_iso": "2026-10-14T23:52:43+09:00",
+      "sort_key": 1791989563.0,
+      "excerpt": "Consumers are paying more for everyday goods and services, like food, computers and streaming.",
+      "matched": [],
+      "analysis": {
+        "summary": "물가 상승으로 미국인이 더 많이 내는 생활비 5가지",
+        "impact": "소비 여력 약화",
+        "affected": "소비주"
+      }
+    },
+    {
+      "id": "b79ac8bbaa",
+      "title": "예상 웃돈 CPI 여파에 美국채 투매…주가 하락·달러 연중최고",
+      "url": "https://www.hankyung.com/article/202610142609i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/14 23:45",
+      "published_iso": "2026-10-14T23:45:56+09:00",
+      "sort_key": 1791989156.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "예상을 웃돈 물가에 미국 국채 투매, 주가 하락, 달러는 연중 최고",
+        "impact": "금리·달러 동반 상승 — 신흥국 통화와 주식에 부담",
+        "affected": "미국 국채, 달러, 원/달러 환율, 신흥국",
+        "important": true,
+        "important_tag": "거시경제",
+        "why_important": "예상 웃돈 물가에 미국 국채 투매·달러 연중 최고 — 원화 약세와 신흥국 자금 이탈 압력"
+      }
+    },
+    {
+      "id": "0e2d0adb90",
+      "title": "美 9월 소비자 물가 3.7% 상승…고유가에 인플레이션 압력",
+      "url": "https://www.hankyung.com/article/202610142600i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/14 23:03",
+      "published_iso": "2026-10-14T23:03:55+09:00",
+      "sort_key": 1791986635.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "미국 9월 소비자물가 3.7% 상승, 고유가로 물가 압력(앞 기사와 같은 내용)",
+        "impact": "추가 금리 인상 압력",
+        "affected": "미국 국채"
+      }
+    },
+    {
+      "id": "b8d785fa3d",
+      "title": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
+      "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+      "source": "CNBC Economy",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/14 22:53",
+      "published_iso": "2026-10-14T22:53:28+09:00",
+      "sort_key": 1791986008.0,
+      "excerpt": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
+      "matched": [],
+      "analysis": {
+        "summary": "미국 9월 소비자물가가 휘발유값 급등으로 3.7% 올라 예상(3.6%)을 웃돎",
+        "impact": "물가가 다시 빨라짐 — 연준 연내 추가 인상이 더 확실해짐",
+        "affected": "미국 국채, 달러, 성장주",
+        "important": true,
+        "important_tag": "거시경제",
+        "why_important": "미국 9월 소비자물가 3.7%로 예상(3.6%) 상회 — 연준 연내 추가 금리 인상이 더 확실해짐"
+      }
+    },
+    {
+      "id": "594dedfd7c",
+      "title": "Driving test waits fall to two-year low - but still average 20 weeks",
+      "url": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/14 22:45",
+      "published_iso": "2026-10-14T22:45:34+09:00",
+      "sort_key": 1791985534.0,
+      "excerpt": "Learner drivers in September had to wait an average of 19.7 weeks, or around five months, for a practical test.",
+      "matched": [],
+      "analysis": {
+        "summary": "영국 운전면허 시험 대기가 2년 만에 가장 짧아졌지만 여전히 평균 20주",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "3744b1cbb6",
+      "title": "美 9월 소비자물가 3.7% 상승 예상치 상회…\"금리인상 압력\"",
+      "url": "https://www.hankyung.com/article/2026101425871",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/14 22:36",
+      "published_iso": "2026-10-14T22:36:36+09:00",
+      "sort_key": 1791984996.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "미국 9월 물가 3.7%로 예상 상회, 금리 인상 압력(앞 기사와 같은 내용)",
+        "impact": "추가 금리 인상 압력",
+        "affected": "미국 국채"
+      }
+    },
+    {
+      "id": "93cf60e8c0",
+      "title": "\"금리 동결 믿었는데\"…9월 물가 충격에 연준 셈법 복잡해져",
+      "url": "https://www.hankyung.com/article/202610142568i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/14 22:26",
+      "published_iso": "2026-10-14T22:26:48+09:00",
+      "sort_key": 1791984408.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "금리 동결을 기대했는데 9월 물가 충격으로 연준 판단이 복잡해짐",
+        "impact": "금리 인상 가능성 커짐",
+        "affected": "미국 국채, 성장주"
+      }
+    },
+    {
+      "id": "938bbc2c52",
+      "title": "[속보] 美 9월 소비자물가, 전년대비 3.7% 상승",
+      "url": "https://www.hankyung.com/article/202610142545i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/14 21:33",
+      "published_iso": "2026-10-14T21:33:10+09:00",
+      "sort_key": 1791981190.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "미국 9월 소비자물가 3.7% 상승 속보(앞 기사와 같은 내용)",
+        "impact": "추가 금리 인상 압력",
+        "affected": "미국 국채"
+      }
+    },
+    {
+      "id": "184ed16968",
+      "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/14 20:57",
+      "published_iso": "2026-10-14T20:57:22+09:00",
+      "sort_key": 1791979042.0,
+      "excerpt": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
+      "matched": [],
+      "analysis": {
+        "summary": "영국 공무원이 분장으로 아픈 척하며 5개 직장을 겸업한 혐의로 재판",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "e849d9defb",
+      "title": "\"3만9000원? 여기선 2000원\"…다이소 또 '난리' 뭐길래",
+      "url": "https://www.hankyung.com/article/2026101424707",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/14 20:35",
+      "published_iso": "2026-10-14T20:35:27+09:00",
+      "sort_key": 1791977727.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "다이소에서 3만 9천원짜리와 비슷한 상품을 2천원에 팔아 인기",
+        "impact": "가성비 소비 확산",
+        "affected": "저가 유통"
+      }
+    },
+    {
+      "id": "aae7dc9798",
+      "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+      "url": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/14 20:04",
+      "published_iso": "2026-10-14T20:04:12+09:00",
+      "sort_key": 1791975852.0,
+      "excerpt": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
+      "matched": [],
+      "analysis": {
+        "summary": "IMF가 영국의 재정 적자 축소 계획을 칭찬한 의미",
+        "impact": "시장 영향은 제한적",
+        "affected": "영국 국채"
+      }
+    },
+    {
+      "id": "81e2cc6a2a",
+      "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
+      "source": "유럽중앙은행(ECB)",
+      "group": "중앙은행·국제기구",
+      "lang": "en",
+      "published_kst": "10/14 09:00",
+      "published_iso": "2026-10-14T09:00:00+09:00",
+      "sort_key": 1791936000.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "ECB 엘더슨 이사가 불확실성 속 금융 회복력 확보를 강조",
+        "impact": "시장 영향은 제한적",
+        "affected": "유럽 금융"
+      }
+    },
+    {
+      "id": "259a0db9b6",
+      "title": "이형일 부총리, 국제통화기금(IMF)·세계은행 연차 총회 및 주요 20개국(G20), 주요 7개국(G7) 재무장관회의 참석 위해 출국",
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079629",
+      "source": "재정경제부 보도자료",
+      "group": "국내 정책당국",
+      "lang": "ko",
+      "published_kst": "10/14 09:00",
+      "published_iso": "2026-10-14T09:00:00+09:00",
+      "sort_key": 1791936000.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "부총리가 IMF·세계은행 연차총회와 G20·G7 재무장관회의 참석차 출국",
+        "impact": "시장 영향은 제한적",
+        "affected": "해당 없음"
+      }
+    }
+  ],
+  "news_groups": {
+    "국내 경제언론": [
+      {
+        "id": "3e8e2aed8d",
+        "title": "\"지역 농축협 연체액 21조원 육박…외국인 연체금도 11배 급증\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261015061251030",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 16:40",
+        "published_iso": "2026-10-15T16:40:50+09:00",
+        "sort_key": 1792050050.0,
+        "excerpt": "(서울=연합뉴스) 한주홍 김세린 기자 = 지역 농축협의 대출 연체액이 21조원에 육박하고 적자를 기록한 조합도 5곳 중 1곳에 달하는 것으로 나...",
+        "matched": []
+      },
+      {
+        "id": "4909c283aa",
+        "title": "국고채 금리 일제히 하락…3년물 연 3.867%",
+        "url": "https://www.yna.co.kr/view/AKR20261015150300008",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 16:40",
+        "published_iso": "2026-10-15T16:40:49+09:00",
+        "sort_key": 1792050049.0,
+        "excerpt": "(서울=연합뉴스) 15일 국고채 금리가 일제히 하락했다.",
+        "matched": []
+      },
+      {
+        "id": "576005fc2e",
+        "title": "증시 '휘청'에 국내 상장사 시총 하루새 400조원 이상 '증발'(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261015073251008",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 16:40",
+        "published_iso": "2026-10-15T16:40:32+09:00",
+        "sort_key": 1792050032.0,
+        "excerpt": "(서울=연합뉴스) 김유향 기자 = 국내 증시가 15일 급락하면서 코스피·코스닥 시장의 몸집이 전날보다 무려 400조원 넘게 쪼그라들었다.",
+        "matched": []
+      },
+      {
+        "id": "391d2970be",
+        "title": "동해시장, 해수부에 동해신항 4∼7선석 국가재정 전환 건의",
+        "url": "https://www.yna.co.kr/view/AKR20261015149200062",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 16:38",
+        "published_iso": "2026-10-15T16:38:34+09:00",
+        "sort_key": 1792049914.0,
+        "excerpt": "(동해=연합뉴스) 유형재 기자 = 이정학 강원 동해시장은 15일 해양수산부를 방문해 동해신항 4∼7번 선석의 국가재정사업 전환과 제5차 항만배후...",
+        "matched": []
+      },
+      {
+        "id": "87be21e9b0",
+        "title": "창원시·창원상의, '1직원 1사 전담제' 운영 활성화 협약",
+        "url": "https://www.yna.co.kr/view/AKR20261015148500052",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 16:33",
+        "published_iso": "2026-10-15T16:33:28+09:00",
+        "sort_key": 1792049608.0,
+        "excerpt": "(창원=연합뉴스) 김선경 기자 = 경남 창원시와 창원상공회의소는 15일 시청 제3회의실에서 &apos;1직원 1사 전담제&apos; 운영 활성화를 위한 업무협약을...",
+        "matched": []
+      },
+      {
+        "id": "d21bc47809",
+        "title": "코스피 급락에 '변동성지수' 57선 넘어…나흘새 50% 급등(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261015073451008",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 16:32",
+        "published_iso": "2026-10-15T16:32:27+09:00",
+        "sort_key": 1792049547.0,
+        "excerpt": "(서울=연합뉴스) 정회인 기자 = 코스피가 외국인의 대규모 매도세에 급락한 15일 &apos;한국형 공포지수&apos;로 불리는 코스피200 변동성지수(VKOSP...",
+        "matched": []
+      },
+      {
+        "id": "8f0392f4cc",
+        "title": "농식품부, 포도 수출 1억달러 달성 추진…표준계약서 도입",
+        "url": "https://www.yna.co.kr/view/AKR20261015108800030",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 16:30",
+        "published_iso": "2026-10-15T16:30:00+09:00",
+        "sort_key": 1792049400.0,
+        "excerpt": "(서울=연합뉴스) 한주홍 기자 = 농림축산식품부가 포도 수출 1억달러(약 1천351억원) 달성을 위해 생산자와 수출업체 간 표준거래계약서를 도입...",
+        "matched": []
+      },
+      {
+        "id": "9b0762d1aa",
+        "title": "외국인 이달에만 18조원 투매…8거래일 내리 '팔자'(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261015084451008",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 16:29",
+        "published_iso": "2026-10-15T16:29:25+09:00",
+        "sort_key": 1792049365.0,
+        "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 유가증권시장(코스피)에서 외국인이 이달 들어서만 18조원 가까이 순매도했다.",
+        "matched": []
+      },
+      {
+        "id": "09bea371b1",
+        "title": "한솔제지, 122억원 규모 'AI 공장' 구축…에너지 절감·고장 예측",
+        "url": "https://www.hankyung.com/article/202610154483i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 16:15",
+        "published_iso": "2026-10-15T16:15:45+09:00",
+        "sort_key": 1792048545.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "efef2fcbda",
+        "title": "신한카드 올해 두 번째 희망퇴직…인력 구조조정 속도 낸다",
+        "url": "https://www.hankyung.com/article/202610154439i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 16:05",
+        "published_iso": "2026-10-15T16:05:34+09:00",
+        "sort_key": 1792047934.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "7cf02a37d5",
+        "title": "[단독] 채무조정 신청자 15만명 눈앞…22년 만에 최대치",
+        "url": "https://www.hankyung.com/article/202610154123i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 16:00",
+        "published_iso": "2026-10-15T16:00:02+09:00",
+        "sort_key": 1792047602.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "6bc94dbe65",
+        "title": "[속보] 공포의 '검은 목요일'…코스피·코스닥 7%대 급락 마감",
+        "url": "https://www.hankyung.com/article/2026101543357",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 15:35",
+        "published_iso": "2026-10-15T15:35:03+09:00",
+        "sort_key": 1792046103.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "88f136f3f7",
+        "title": "[단독] 서민 주택대출 연체, 4년간 네 배 넘게 뛰었다",
+        "url": "https://www.hankyung.com/article/202610154045i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 15:30",
+        "published_iso": "2026-10-15T15:30:02+09:00",
+        "sort_key": 1792045802.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "12917f52ac",
+        "title": "中에 우회수출 막는 美… \"HBM 등 공급망 통제 심화될 것\"",
+        "url": "https://www.hankyung.com/article/202610141985i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 15:00",
+        "published_iso": "2026-10-15T15:00:12+09:00",
+        "sort_key": 1792044012.0,
+        "excerpt": "",
+        "matched": [
+          "000660.KS"
+        ]
+      },
+      {
+        "id": "a118d91a04",
+        "title": "[속보] TSMC 3분기 순익 69% 급증·사상 최대…시장 예상 상회",
+        "url": "https://www.hankyung.com/article/2026101542027",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 14:56",
+        "published_iso": "2026-10-15T14:56:35+09:00",
+        "sort_key": 1792043795.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "dace6c90fb",
+        "title": "\"AI 합성 아냐?\"…프랑스서 붉은 망토 두른 백화점 직원 정체 [씬메이커]",
+        "url": "https://www.hankyung.com/article/202610153133g",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 14:49",
+        "published_iso": "2026-10-15T14:49:20+09:00",
+        "sort_key": 1792043360.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "6a515559e0",
+        "title": "'의심 선별'에도 정상 우편물로 분류된 마약…이튿날 회수",
+        "url": "https://www.yna.co.kr/view/AKR20261014158300065",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 07:17",
+        "published_iso": "2026-10-15T07:17:00+09:00",
+        "sort_key": 1792016220.0,
+        "excerpt": "(인천=연합뉴스) 김상연 기자 = 인천공항세관 국제우편통관센터에서 적발된 마약이 정상 우편물로 분류됐다가 이튿날 급히 회수되는 일이 벌어졌다.",
+        "matched": [],
+        "analysis": {
+          "summary": "인천공항 세관에서 적발된 마약이 정상 우편물로 분류됐다가 다음 날 회수",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "11580f4ff7",
+        "title": "1억원 들었는데…\"HUG '부동산 금융' 용역, 기존 저작물 짜깁기\"",
+        "url": "https://www.yna.co.kr/view/AKR20261014170200001",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 07:10",
+        "published_iso": "2026-10-15T07:10:01+09:00",
+        "sort_key": 1792015801.0,
+        "excerpt": "(서울=연합뉴스) 안정훈 기자 = 주택도시보증공사(HUG)가 2023년 수의계약을 통해 1억원을 들여 진행한 연구용역이 기존 저작물을 개정한 수...",
+        "matched": [],
+        "analysis": {
+          "summary": "HUG가 1억원을 들인 부동산 금융 연구용역이 기존 저작물 짜깁기라는 지적",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "7edee91c8b",
+        "title": "\"AI로 돈 쓸어 담는다더니\"…IMF가 경고한 이유 [분석+]",
+        "url": "https://www.hankyung.com/article/202610140981g",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 07:00",
+        "published_iso": "2026-10-15T07:00:32+09:00",
+        "sort_key": 1792015232.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "AI로 큰돈을 벌 것이라는 기대에 IMF가 경고한 이유 분석",
+          "impact": "AI 쏠림 위험 경계",
+          "affected": "AI 관련주"
+        }
+      },
+      {
+        "id": "79ce39c867",
+        "title": "[우분투칼럼] 챗GPT가 전부는 아니다…아프리카의 다른 AI 혁명",
+        "url": "https://www.yna.co.kr/view/AKR20260929074200898",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 07:00",
+        "published_iso": "2026-10-15T07:00:16+09:00",
+        "sort_key": 1792015216.0,
+        "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
+        "matched": [],
+        "analysis": {
+          "summary": "아프리카에서 챗GPT 외에 일어나는 다른 AI 혁명을 다룬 칼럼",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "8f49edd7a8",
+        "title": "[인터뷰] 경남상의협 회장 \"지방살아야 수도권도 숨통…법인세 차등 필요\"",
+        "url": "https://www.yna.co.kr/view/AKR20261014164100052",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 07:00",
+        "published_iso": "2026-10-15T07:00:14+09:00",
+        "sort_key": 1792015214.0,
+        "excerpt": "(창원=연합뉴스) 김선경 기자 = 최재호 경남상공회의소협의회 회장(창원상공회의소 회장)은 &quot;지방 기업들은 이미 기울어진 운동장에서 경쟁하고 있다...",
+        "matched": [],
+        "analysis": {
+          "summary": "경남상의협 회장이 지방 기업에 법인세 차등 적용이 필요하다고 주장",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "8ef4e9974d",
+        "title": "주택·상가 임대차 분쟁 5년 새 2.3배로…조정은 6건 중 1건뿐",
+        "url": "https://www.yna.co.kr/view/AKR20261014163900003",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 06:30",
+        "published_iso": "2026-10-15T06:30:02+09:00",
+        "sort_key": 1792013402.0,
+        "excerpt": "(서울=연합뉴스) 오예진 기자 = 한국부동산원이 접수하는 주택과 상가 임대차 분쟁 건수가 가파르게 늘고 있지만 조정 실적은 미흡하다는 지적이 제...",
+        "matched": [],
+        "analysis": {
+          "summary": "주택·상가 임대차 분쟁이 5년 새 2.3배로 늘었지만 조정 성사는 6건 중 1건",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "34337c1035",
+        "title": "거래 끝났는데 계속 광고…서울 부동산 허위 매물 조치율 최저",
+        "url": "https://www.yna.co.kr/view/AKR20261014131300003",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 06:11",
+        "published_iso": "2026-10-15T06:11:01+09:00",
+        "sort_key": 1792012261.0,
+        "excerpt": "(세종=연합뉴스) 오진송 기자 = 거래가 끝난 뒤에도 온라인에 광고가 남아 있는 것으로 의심되는 부동산 매물이 최근 4년 7개월간 117만건을 ...",
+        "matched": [],
+        "analysis": {
+          "summary": "거래가 끝난 뒤에도 광고가 남는 서울 부동산 허위 매물 조치율이 최저",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "c3c0fb121c",
+        "title": "서울 아파트 토허신청 5개월만에 반등…강북·서남권 상승폭 확대",
+        "url": "https://www.yna.co.kr/view/AKR20261014161900004",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 06:00",
+        "published_iso": "2026-10-15T06:00:08+09:00",
+        "sort_key": 1792011608.0,
+        "excerpt": "(서울=연합뉴스) 유한주 기자 = 지난달 서울 아파트 토지거래허가(토허) 신규 신청 건수가 5개월 만에 소폭 반등한 것으로 나타났다.",
+        "matched": [],
+        "analysis": {
+          "summary": "서울 아파트 토지거래허가 신청이 5개월 만에 반등, 강북·서남권 상승폭 확대",
+          "impact": "서울 주택 거래 회복 조짐",
+          "affected": "서울 부동산, 건설"
+        }
+      },
+      {
+        "id": "8b25934650",
+        "title": "한중 FTA 서비스·투자 협상 속도 낸다…서울서 17차 협상",
+        "url": "https://www.yna.co.kr/view/AKR20261014167600003",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 06:00",
+        "published_iso": "2026-10-15T06:00:05+09:00",
+        "sort_key": 1792011605.0,
+        "excerpt": "(서울=연합뉴스) 신창용 기자 = 한·중 자유무역협정(FTA)에서 서비스·투자 부문 개방을 확대하기 위한 제17차 후속 협상이 서울에서 진행 중...",
+        "matched": [],
+        "analysis": {
+          "summary": "한중 FTA 서비스·투자 개방 확대를 위한 17차 후속 협상이 서울에서 진행",
+          "impact": "한중 교역 확대 기대, 시장 영향은 제한적",
+          "affected": "중국 진출 서비스 기업"
+        }
+      },
+      {
+        "id": "d62ebbb78a",
+        "title": "\"비싼 돈 주고 포르쉐 샀는데\"…5년 만에 벌어진 일 [프라이스&]",
+        "url": "https://www.hankyung.com/article/202610142514i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/15 06:00",
+        "published_iso": "2026-10-15T06:00:01+09:00",
+        "sort_key": 1792011601.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "비싸게 산 포르쉐 중고값이 5년 만에 크게 떨어진 사례",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "b79ac8bbaa",
+        "title": "예상 웃돈 CPI 여파에 美국채 투매…주가 하락·달러 연중최고",
+        "url": "https://www.hankyung.com/article/202610142609i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/14 23:45",
+        "published_iso": "2026-10-14T23:45:56+09:00",
+        "sort_key": 1791989156.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "예상을 웃돈 물가에 미국 국채 투매, 주가 하락, 달러는 연중 최고",
+          "impact": "금리·달러 동반 상승 — 신흥국 통화와 주식에 부담",
+          "affected": "미국 국채, 달러, 원/달러 환율, 신흥국",
+          "important": true,
+          "important_tag": "거시경제",
+          "why_important": "예상 웃돈 물가에 미국 국채 투매·달러 연중 최고 — 원화 약세와 신흥국 자금 이탈 압력"
+        }
+      },
+      {
+        "id": "0e2d0adb90",
+        "title": "美 9월 소비자 물가 3.7% 상승…고유가에 인플레이션 압력",
+        "url": "https://www.hankyung.com/article/202610142600i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/14 23:03",
+        "published_iso": "2026-10-14T23:03:55+09:00",
+        "sort_key": 1791986635.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "미국 9월 소비자물가 3.7% 상승, 고유가로 물가 압력(앞 기사와 같은 내용)",
+          "impact": "추가 금리 인상 압력",
+          "affected": "미국 국채"
+        }
+      },
+      {
+        "id": "3744b1cbb6",
+        "title": "美 9월 소비자물가 3.7% 상승 예상치 상회…\"금리인상 압력\"",
+        "url": "https://www.hankyung.com/article/2026101425871",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/14 22:36",
+        "published_iso": "2026-10-14T22:36:36+09:00",
+        "sort_key": 1791984996.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "미국 9월 물가 3.7%로 예상 상회, 금리 인상 압력(앞 기사와 같은 내용)",
+          "impact": "추가 금리 인상 압력",
+          "affected": "미국 국채"
+        }
+      },
+      {
+        "id": "93cf60e8c0",
+        "title": "\"금리 동결 믿었는데\"…9월 물가 충격에 연준 셈법 복잡해져",
+        "url": "https://www.hankyung.com/article/202610142568i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/14 22:26",
+        "published_iso": "2026-10-14T22:26:48+09:00",
+        "sort_key": 1791984408.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "금리 동결을 기대했는데 9월 물가 충격으로 연준 판단이 복잡해짐",
+          "impact": "금리 인상 가능성 커짐",
+          "affected": "미국 국채, 성장주"
+        }
+      },
+      {
+        "id": "938bbc2c52",
+        "title": "[속보] 美 9월 소비자물가, 전년대비 3.7% 상승",
+        "url": "https://www.hankyung.com/article/202610142545i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/14 21:33",
+        "published_iso": "2026-10-14T21:33:10+09:00",
+        "sort_key": 1791981190.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "미국 9월 소비자물가 3.7% 상승 속보(앞 기사와 같은 내용)",
+          "impact": "추가 금리 인상 압력",
+          "affected": "미국 국채"
+        }
+      },
+      {
+        "id": "e849d9defb",
+        "title": "\"3만9000원? 여기선 2000원\"…다이소 또 '난리' 뭐길래",
+        "url": "https://www.hankyung.com/article/2026101424707",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/14 20:35",
+        "published_iso": "2026-10-14T20:35:27+09:00",
+        "sort_key": 1791977727.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "다이소에서 3만 9천원짜리와 비슷한 상품을 2천원에 팔아 인기",
+          "impact": "가성비 소비 확산",
+          "affected": "저가 유통"
+        }
+      }
+    ],
+    "해외 경제언론": [
+      {
+        "id": "3e64b01355",
+        "title": "UK economy sees surprise growth in August ahead of Healey's first Budget",
+        "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/15 16:40",
+        "published_iso": "2026-10-15T16:40:27+09:00",
+        "sort_key": 1792050027.0,
+        "excerpt": "The uptick helped the economy grow by 0.7% over the three months to August, official figures show.",
+        "matched": []
+      },
+      {
+        "id": "ebce4d43dc",
+        "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/15 16:20",
+        "published_iso": "2026-10-15T16:20:45+09:00",
+        "sort_key": 1792048845.0,
+        "excerpt": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+        "matched": []
+      },
+      {
+        "id": "5d925dfb32",
+        "title": "UK economy grew 0.1% in August, beating expectations",
+        "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
+        "source": "CNBC Economy",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/15 16:15",
+        "published_iso": "2026-10-15T16:15:28+09:00",
+        "sort_key": 1792048528.0,
+        "excerpt": "The U.K. is grappling with a cost-of-living crisis sparked by sticky inflation and surging energy costs.",
+        "matched": []
+      },
+      {
+        "id": "87cd317dee",
+        "title": "How backlash against data centres could shape the US midterm elections",
+        "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/15 08:02",
+        "published_iso": "2026-10-15T08:02:57+09:00",
+        "sort_key": 1792018977.0,
+        "excerpt": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+        "matched": []
+      },
+      {
+        "id": "e9db7b2bc5",
+        "title": "How a Chinese-made toy gets to a US retailer",
+        "url": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/15 08:01",
+        "published_iso": "2026-10-15T08:01:28+09:00",
+        "sort_key": 1792018888.0,
+        "excerpt": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
+        "matched": []
+      },
+      {
+        "id": "b7f0a53f88",
+        "title": "How much is the minimum wage?",
+        "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/15 08:01",
+        "published_iso": "2026-10-15T08:01:11+09:00",
+        "sort_key": 1792018871.0,
+        "excerpt": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
+        "matched": []
+      },
+      {
+        "id": "163bf2145e",
+        "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
+        "url": "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/15 07:20",
+        "published_iso": "2026-10-15T07:20:50+09:00",
+        "sort_key": 1792016450.0,
+        "excerpt": "For years, Ukraine’s armed forces have relied on satellite communication services developed by Elon Musk’s SpaceX. Recent restrictions have hampered its war effort.",
+        "matched": [],
+        "analysis": {
+          "summary": "우크라이나군이 의존하는 스페이스X의 군용 위성 인터넷 '스타실드' 설명",
+          "impact": "시장 영향은 제한적",
+          "affected": "스페이스X, 방산"
+        }
+      },
+      {
+        "id": "0c6c7d3439",
+        "title": "Stocks Tumble as Concerns Over Inflation and A.I. Investments Grow",
+        "url": "https://www.nytimes.com/2026/10/14/business/stocks-500-index-ai.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/15 06:30",
+        "published_iso": "2026-10-15T06:30:57+09:00",
+        "sort_key": 1792013457.0,
+        "excerpt": "The S&amp;P 500 fell 1.1 percent on Wednesday, the steepest drop in more than two months.",
+        "matched": [],
+        "analysis": {
+          "summary": "물가와 AI 투자 우려가 커지며 S&P 500이 1.1% 하락, 두 달여 만에 최대 낙폭",
+          "impact": "미국 증시 조정 신호 — 금리 부담과 AI 거품 우려가 겹침",
+          "affected": "미국 증시, 기술주",
+          "important": true,
+          "important_tag": "거시경제",
+          "why_important": "물가·AI 투자 우려로 S&P 500 1.1% 하락, 두 달여 만에 최대 낙폭"
+        }
+      },
+      {
+        "id": "c05eaf3518",
+        "title": "Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs",
+        "url": "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/15 06:25",
+        "published_iso": "2026-10-15T06:25:25+09:00",
+        "sort_key": 1792013125.0,
+        "excerpt": "President Trump’s deal with Russia will probably not lower diesel prices that have soared because of his war with Iran and Ukrainian attacks on Russian refineries.",
+        "matched": [],
+        "analysis": {
+          "summary": "트럼프의 러시아산 경유 거래로는 연료비가 내려가기 어렵다는 분석",
+          "impact": "고유가 지속 가능성",
+          "affected": "국제 경유 가격, 운송"
+        }
+      },
+      {
+        "id": "39c98c27cb",
+        "title": "Battle Over the Pierre Ends in Defeat for the Buyer Pushed by Lutnick",
+        "url": "https://www.nytimes.com/2026/10/14/business/pierre-buyer-lutnick.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/15 06:23",
+        "published_iso": "2026-10-15T06:23:45+09:00",
+        "sort_key": 1792013025.0,
+        "excerpt": "Motasem Khashoggi, who hails from a prominent Saudi family, missed a Tuesday deadline to deliver a $100 million deposit to purchase the Manhattan landmark.",
+        "matched": [],
+        "analysis": {
+          "summary": "러트닉이 밀던 사우디 출신 매수자가 맨해튼 피에르 호텔 부지 계약금을 내지 못해 거래 무산",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "3ca96ac041",
+        "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+        "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+        "source": "CNBC Finance",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/15 05:22",
+        "published_iso": "2026-10-15T05:22:09+09:00",
+        "sort_key": 1792009329.0,
+        "excerpt": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
+        "matched": [],
+        "analysis": {
+          "summary": "모건스탠리 3분기 실적이 예상을 웃돔, 주식 트레이딩 매출이 예상보다 9억 달러 많음",
+          "impact": "증시 변동성이 투자은행 실적을 키움",
+          "affected": "모건스탠리, 미국 은행주"
+        }
+      },
+      {
+        "id": "f39a16a4a8",
+        "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
+        "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+        "source": "CNBC Finance",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/15 05:20",
+        "published_iso": "2026-10-15T05:20:46+09:00",
+        "sort_key": 1792009246.0,
+        "excerpt": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
+        "matched": [],
+        "analysis": {
+          "summary": "뱅크오브아메리카가 트레이딩 매출 부진과 12억 달러 벌금으로 주가 하락",
+          "impact": "대형 은행 실적 엇갈림",
+          "affected": "뱅크오브아메리카"
+        }
+      },
+      {
+        "id": "9783a99f47",
+        "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+        "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+        "source": "CNBC Finance",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/15 05:06",
+        "published_iso": "2026-10-15T05:06:28+09:00",
+        "sort_key": 1792008388.0,
+        "excerpt": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
+        "matched": [],
+        "analysis": {
+          "summary": "뱅크오브아메리카가 AI 모델이 찾아낸 소프트웨어 취약점을 고치려 외주 인력 1,000명 고용",
+          "impact": "AI 시대 보안 비용 증가",
+          "affected": "은행, 보안 업체"
+        }
+      },
+      {
+        "id": "ef63b9c728",
+        "title": "Energy Department Order Takes Aim at Mid-Atlantic Blackout Risk",
+        "url": "https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/15 04:06",
+        "published_iso": "2026-10-15T04:06:35+09:00",
+        "sort_key": 1792004795.0,
+        "excerpt": "The order as a precaution allows grid operators to use backup generation this week. There were no widespread outages reported.",
+        "matched": [],
+        "analysis": {
+          "summary": "미 에너지부가 중부 대서양 지역 정전 위험에 대비해 예비 발전 사용을 허용",
+          "impact": "전력망 부족 문제 부각",
+          "affected": "전력·유틸리티"
+        }
+      },
+      {
+        "id": "f7570566a2",
+        "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
+        "url": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/15 02:46",
+        "published_iso": "2026-10-15T02:46:30+09:00",
+        "sort_key": 1791999990.0,
+        "excerpt": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
+        "matched": [],
+        "analysis": {
+          "summary": "영국 공항 하차 요금이 급등해 정부가 검토 착수",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "455fff5af7",
+        "title": "Netflix, Facing Slowing Growth, Cuts 6% of Its Work Force",
+        "url": "https://www.nytimes.com/2026/10/14/business/media/netflix-layoffs-ted-sarandos.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/15 02:21",
+        "published_iso": "2026-10-15T02:21:26+09:00",
+        "sort_key": 1791998486.0,
+        "excerpt": "The streamer’s share price is down more than 40 percent over the last year as the company has struggled with stalling engagement.",
+        "matched": [],
+        "analysis": {
+          "summary": "성장 둔화를 겪는 넷플릭스가 인력 6% 감축, 주가는 1년 새 40% 넘게 하락",
+          "impact": "스트리밍 산업 성장 한계 신호",
+          "affected": "넷플릭스, 스트리밍 업계"
+        }
+      },
+      {
+        "id": "481e35200b",
+        "title": "How high inflation became a 'fact of life' in the U.S.",
+        "url": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
+        "source": "CNBC Economy",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/15 02:20",
+        "published_iso": "2026-10-15T02:20:23+09:00",
+        "sort_key": 1791998423.0,
+        "excerpt": "U.S. inflation has stayed elevated for years, raising concern at the Federal Reserve that consumers may come to expect stubbornly high prices.",
+        "matched": [],
+        "analysis": {
+          "summary": "미국에서 높은 물가가 '일상'이 된 과정 — 연준은 기대 인플레이션 고착을 우려",
+          "impact": "물가 고착화 우려가 금리 인상 근거",
+          "affected": "미국 국채, 연준"
+        }
+      },
+      {
+        "id": "fad7741422",
+        "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+        "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/15 01:47",
+        "published_iso": "2026-10-15T01:47:32+09:00",
+        "sort_key": 1791996452.0,
+        "excerpt": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
+        "matched": [],
+        "analysis": {
+          "summary": "넷플릭스가 2022년 이후 최대인 1,000명 감원(앞 기사와 같은 내용)",
+          "impact": "스트리밍 업계 구조조정",
+          "affected": "넷플릭스"
+        }
+      },
+      {
+        "id": "32f880d6d5",
+        "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+        "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/15 00:54",
+        "published_iso": "2026-10-15T00:54:04+09:00",
+        "sort_key": 1791993244.0,
+        "excerpt": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+        "matched": [],
+        "analysis": {
+          "summary": "OpenAI 사우디 출신 엔지니어 체포 사건 정리",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "928277f3a9",
+        "title": "US inflation rises more than expected - here's what is happening with prices",
+        "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/15 00:26",
+        "published_iso": "2026-10-15T00:26:14+09:00",
+        "sort_key": 1791991574.0,
+        "excerpt": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+        "matched": [],
+        "analysis": {
+          "summary": "미국 9월 물가가 연료비 상승으로 3.7% 올라 예상을 웃돎(앞 기사와 같은 내용)",
+          "impact": "추가 금리 인상 압력",
+          "affected": "미국 국채, 달러"
+        }
+      },
+      {
+        "id": "76a686bc3c",
+        "title": "Democrats Blame Trump After CPI Report Shows Energy Prices Drove Up Inflation",
+        "url": "https://www.nytimes.com/2026/10/14/business/economy/inflation-trump-democrats-midterms-energy.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/15 00:25",
+        "published_iso": "2026-10-15T00:25:31+09:00",
+        "sort_key": 1791991531.0,
+        "excerpt": "Inflation and economic frustrations have expanded the map of competitive midterm election districts deep into Republican territory.",
+        "matched": [],
+        "analysis": {
+          "summary": "소비자물가 보고서에서 에너지가 물가를 끌어올리자 민주당이 트럼프 책임론 제기",
+          "impact": "중간선거 앞 물가 정치 쟁점화",
+          "affected": "미국 정치"
+        }
+      },
+      {
+        "id": "a74a0109a2",
+        "title": "5 Costs Americans Are Paying More for as Inflation Rises",
+        "url": "https://www.nytimes.com/2026/10/14/business/prices-inflation-food-airfare-car-rentals.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/14 23:52",
+        "published_iso": "2026-10-14T23:52:43+09:00",
+        "sort_key": 1791989563.0,
+        "excerpt": "Consumers are paying more for everyday goods and services, like food, computers and streaming.",
+        "matched": [],
+        "analysis": {
+          "summary": "물가 상승으로 미국인이 더 많이 내는 생활비 5가지",
+          "impact": "소비 여력 약화",
+          "affected": "소비주"
+        }
+      },
+      {
+        "id": "b8d785fa3d",
+        "title": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
+        "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+        "source": "CNBC Economy",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/14 22:53",
+        "published_iso": "2026-10-14T22:53:28+09:00",
+        "sort_key": 1791986008.0,
+        "excerpt": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
+        "matched": [],
+        "analysis": {
+          "summary": "미국 9월 소비자물가가 휘발유값 급등으로 3.7% 올라 예상(3.6%)을 웃돎",
+          "impact": "물가가 다시 빨라짐 — 연준 연내 추가 인상이 더 확실해짐",
+          "affected": "미국 국채, 달러, 성장주",
+          "important": true,
+          "important_tag": "거시경제",
+          "why_important": "미국 9월 소비자물가 3.7%로 예상(3.6%) 상회 — 연준 연내 추가 금리 인상이 더 확실해짐"
+        }
+      },
+      {
+        "id": "594dedfd7c",
+        "title": "Driving test waits fall to two-year low - but still average 20 weeks",
+        "url": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/14 22:45",
+        "published_iso": "2026-10-14T22:45:34+09:00",
+        "sort_key": 1791985534.0,
+        "excerpt": "Learner drivers in September had to wait an average of 19.7 weeks, or around five months, for a practical test.",
+        "matched": [],
+        "analysis": {
+          "summary": "영국 운전면허 시험 대기가 2년 만에 가장 짧아졌지만 여전히 평균 20주",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "184ed16968",
+        "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
+        "url": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/14 20:57",
+        "published_iso": "2026-10-14T20:57:22+09:00",
+        "sort_key": 1791979042.0,
+        "excerpt": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
+        "matched": [],
+        "analysis": {
+          "summary": "영국 공무원이 분장으로 아픈 척하며 5개 직장을 겸업한 혐의로 재판",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "aae7dc9798",
+        "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/14 20:04",
+        "published_iso": "2026-10-14T20:04:12+09:00",
+        "sort_key": 1791975852.0,
+        "excerpt": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
+        "matched": [],
+        "analysis": {
+          "summary": "IMF가 영국의 재정 적자 축소 계획을 칭찬한 의미",
+          "impact": "시장 영향은 제한적",
+          "affected": "영국 국채"
+        }
+      }
+    ],
+    "국내 정책당국": [
+      {
+        "id": "c596e6898e",
+        "title": "[보도참고] 공급망안정화기금은 공급망 위기 대응을 위한 금융지원을 확대해 왔으며, 앞으로 중소·중견기업 지원도 강화하겠습니다.",
+        "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079639",
+        "source": "재정경제부 보도자료",
+        "group": "국내 정책당국",
+        "lang": "ko",
+        "published_kst": "10/15 02:47",
+        "published_iso": "2026-10-15T02:47:15+09:00",
+        "sort_key": 1792000035.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "공급망안정화기금이 중소·중견기업 지원도 강화하겠다는 해명 자료",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "259a0db9b6",
+        "title": "이형일 부총리, 국제통화기금(IMF)·세계은행 연차 총회 및 주요 20개국(G20), 주요 7개국(G7) 재무장관회의 참석 위해 출국",
+        "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079629",
+        "source": "재정경제부 보도자료",
+        "group": "국내 정책당국",
+        "lang": "ko",
+        "published_kst": "10/14 09:00",
+        "published_iso": "2026-10-14T09:00:00+09:00",
+        "sort_key": 1791936000.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "부총리가 IMF·세계은행 연차총회와 G20·G7 재무장관회의 참석차 출국",
+          "impact": "시장 영향은 제한적",
+          "affected": "해당 없음"
+        }
+      }
+    ],
+    "중앙은행·국제기구": [
+      {
+        "id": "81e2cc6a2a",
+        "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
+        "source": "유럽중앙은행(ECB)",
+        "group": "중앙은행·국제기구",
+        "lang": "en",
+        "published_kst": "10/14 09:00",
+        "published_iso": "2026-10-14T09:00:00+09:00",
+        "sort_key": 1791936000.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "ECB 엘더슨 이사가 불확실성 속 금융 회복력 확보를 강조",
+          "impact": "시장 영향은 제한적",
+          "affected": "유럽 금융"
+        }
+      }
     ]
-   },
-   {
-    "id": "a118d91a04",
-    "title": "[속보] TSMC 3분기 순익 69% 급증·사상 최대…시장 예상 상회",
-    "url": "https://www.hankyung.com/article/2026101542027",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 14:56",
-    "published_iso": "2026-10-15T14:56:35+09:00",
-    "sort_key": 1792043795.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "dace6c90fb",
-    "title": "\"AI 합성 아냐?\"…프랑스서 붉은 망토 두른 백화점 직원 정체 [씬메이커]",
-    "url": "https://www.hankyung.com/article/202610153133g",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 14:49",
-    "published_iso": "2026-10-15T14:49:20+09:00",
-    "sort_key": 1792043360.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "6a515559e0",
-    "title": "'의심 선별'에도 정상 우편물로 분류된 마약…이튿날 회수",
-    "url": "https://www.yna.co.kr/view/AKR20261014158300065",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 07:17",
-    "published_iso": "2026-10-15T07:17:00+09:00",
-    "sort_key": 1792016220.0,
-    "excerpt": "(인천=연합뉴스) 김상연 기자 = 인천공항세관 국제우편통관센터에서 적발된 마약이 정상 우편물로 분류됐다가 이튿날 급히 회수되는 일이 벌어졌다.",
-    "matched": [],
-    "analysis": {
-     "summary": "인천공항 세관에서 적발된 마약이 정상 우편물로 분류됐다가 다음 날 회수",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
+  },
+  "counts": {
+    "indices_ok": 8,
+    "indices_total": 8,
+    "stocks_ok": 9,
+    "stocks_total": 9,
+    "news": 61,
+    "news_new": 22
+  },
+  "errors": [
+    {
+      "stage": "news",
+      "target": "금융위원회 보도자료",
+      "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
     }
-   },
-   {
-    "id": "11580f4ff7",
-    "title": "1억원 들었는데…\"HUG '부동산 금융' 용역, 기존 저작물 짜깁기\"",
-    "url": "https://www.yna.co.kr/view/AKR20261014170200001",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 07:10",
-    "published_iso": "2026-10-15T07:10:01+09:00",
-    "sort_key": 1792015801.0,
-    "excerpt": "(서울=연합뉴스) 안정훈 기자 = 주택도시보증공사(HUG)가 2023년 수의계약을 통해 1억원을 들여 진행한 연구용역이 기존 저작물을 개정한 수...",
-    "matched": [],
-    "analysis": {
-     "summary": "HUG가 1억원을 들인 부동산 금융 연구용역이 기존 저작물 짜깁기라는 지적",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "7edee91c8b",
-    "title": "\"AI로 돈 쓸어 담는다더니\"…IMF가 경고한 이유 [분석+]",
-    "url": "https://www.hankyung.com/article/202610140981g",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 07:00",
-    "published_iso": "2026-10-15T07:00:32+09:00",
-    "sort_key": 1792015232.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "AI로 큰돈을 벌 것이라는 기대에 IMF가 경고한 이유 분석",
-     "impact": "AI 쏠림 위험 경계",
-     "affected": "AI 관련주"
-    }
-   },
-   {
-    "id": "79ce39c867",
-    "title": "[우분투칼럼] 챗GPT가 전부는 아니다…아프리카의 다른 AI 혁명",
-    "url": "https://www.yna.co.kr/view/AKR20260929074200898",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 07:00",
-    "published_iso": "2026-10-15T07:00:16+09:00",
-    "sort_key": 1792015216.0,
-    "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
-    "matched": [],
-    "analysis": {
-     "summary": "아프리카에서 챗GPT 외에 일어나는 다른 AI 혁명을 다룬 칼럼",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "8f49edd7a8",
-    "title": "[인터뷰] 경남상의협 회장 \"지방살아야 수도권도 숨통…법인세 차등 필요\"",
-    "url": "https://www.yna.co.kr/view/AKR20261014164100052",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 07:00",
-    "published_iso": "2026-10-15T07:00:14+09:00",
-    "sort_key": 1792015214.0,
-    "excerpt": "(창원=연합뉴스) 김선경 기자 = 최재호 경남상공회의소협의회 회장(창원상공회의소 회장)은 &quot;지방 기업들은 이미 기울어진 운동장에서 경쟁하고 있다...",
-    "matched": [],
-    "analysis": {
-     "summary": "경남상의협 회장이 지방 기업에 법인세 차등 적용이 필요하다고 주장",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "8ef4e9974d",
-    "title": "주택·상가 임대차 분쟁 5년 새 2.3배로…조정은 6건 중 1건뿐",
-    "url": "https://www.yna.co.kr/view/AKR20261014163900003",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 06:30",
-    "published_iso": "2026-10-15T06:30:02+09:00",
-    "sort_key": 1792013402.0,
-    "excerpt": "(서울=연합뉴스) 오예진 기자 = 한국부동산원이 접수하는 주택과 상가 임대차 분쟁 건수가 가파르게 늘고 있지만 조정 실적은 미흡하다는 지적이 제...",
-    "matched": [],
-    "analysis": {
-     "summary": "주택·상가 임대차 분쟁이 5년 새 2.3배로 늘었지만 조정 성사는 6건 중 1건",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "34337c1035",
-    "title": "거래 끝났는데 계속 광고…서울 부동산 허위 매물 조치율 최저",
-    "url": "https://www.yna.co.kr/view/AKR20261014131300003",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 06:11",
-    "published_iso": "2026-10-15T06:11:01+09:00",
-    "sort_key": 1792012261.0,
-    "excerpt": "(세종=연합뉴스) 오진송 기자 = 거래가 끝난 뒤에도 온라인에 광고가 남아 있는 것으로 의심되는 부동산 매물이 최근 4년 7개월간 117만건을 ...",
-    "matched": [],
-    "analysis": {
-     "summary": "거래가 끝난 뒤에도 광고가 남는 서울 부동산 허위 매물 조치율이 최저",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "c3c0fb121c",
-    "title": "서울 아파트 토허신청 5개월만에 반등…강북·서남권 상승폭 확대",
-    "url": "https://www.yna.co.kr/view/AKR20261014161900004",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 06:00",
-    "published_iso": "2026-10-15T06:00:08+09:00",
-    "sort_key": 1792011608.0,
-    "excerpt": "(서울=연합뉴스) 유한주 기자 = 지난달 서울 아파트 토지거래허가(토허) 신규 신청 건수가 5개월 만에 소폭 반등한 것으로 나타났다.",
-    "matched": [],
-    "analysis": {
-     "summary": "서울 아파트 토지거래허가 신청이 5개월 만에 반등, 강북·서남권 상승폭 확대",
-     "impact": "서울 주택 거래 회복 조짐",
-     "affected": "서울 부동산, 건설"
-    }
-   },
-   {
-    "id": "8b25934650",
-    "title": "한중 FTA 서비스·투자 협상 속도 낸다…서울서 17차 협상",
-    "url": "https://www.yna.co.kr/view/AKR20261014167600003",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 06:00",
-    "published_iso": "2026-10-15T06:00:05+09:00",
-    "sort_key": 1792011605.0,
-    "excerpt": "(서울=연합뉴스) 신창용 기자 = 한·중 자유무역협정(FTA)에서 서비스·투자 부문 개방을 확대하기 위한 제17차 후속 협상이 서울에서 진행 중...",
-    "matched": [],
-    "analysis": {
-     "summary": "한중 FTA 서비스·투자 개방 확대를 위한 17차 후속 협상이 서울에서 진행",
-     "impact": "한중 교역 확대 기대, 시장 영향은 제한적",
-     "affected": "중국 진출 서비스 기업"
-    }
-   },
-   {
-    "id": "d62ebbb78a",
-    "title": "\"비싼 돈 주고 포르쉐 샀는데\"…5년 만에 벌어진 일 [프라이스&]",
-    "url": "https://www.hankyung.com/article/202610142514i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/15 06:00",
-    "published_iso": "2026-10-15T06:00:01+09:00",
-    "sort_key": 1792011601.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "비싸게 산 포르쉐 중고값이 5년 만에 크게 떨어진 사례",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "b79ac8bbaa",
-    "title": "예상 웃돈 CPI 여파에 美국채 투매…주가 하락·달러 연중최고",
-    "url": "https://www.hankyung.com/article/202610142609i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/14 23:45",
-    "published_iso": "2026-10-14T23:45:56+09:00",
-    "sort_key": 1791989156.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "예상을 웃돈 물가에 미국 국채 투매, 주가 하락, 달러는 연중 최고",
-     "impact": "금리·달러 동반 상승 — 신흥국 통화와 주식에 부담",
-     "affected": "미국 국채, 달러, 원/달러 환율, 신흥국",
-     "important": true,
-     "important_tag": "거시경제",
-     "why_important": "예상 웃돈 물가에 미국 국채 투매·달러 연중 최고 — 원화 약세와 신흥국 자금 이탈 압력"
-    }
-   },
-   {
-    "id": "0e2d0adb90",
-    "title": "美 9월 소비자 물가 3.7% 상승…고유가에 인플레이션 압력",
-    "url": "https://www.hankyung.com/article/202610142600i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/14 23:03",
-    "published_iso": "2026-10-14T23:03:55+09:00",
-    "sort_key": 1791986635.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "미국 9월 소비자물가 3.7% 상승, 고유가로 물가 압력(앞 기사와 같은 내용)",
-     "impact": "추가 금리 인상 압력",
-     "affected": "미국 국채"
-    }
-   },
-   {
-    "id": "3744b1cbb6",
-    "title": "美 9월 소비자물가 3.7% 상승 예상치 상회…\"금리인상 압력\"",
-    "url": "https://www.hankyung.com/article/2026101425871",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/14 22:36",
-    "published_iso": "2026-10-14T22:36:36+09:00",
-    "sort_key": 1791984996.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "미국 9월 물가 3.7%로 예상 상회, 금리 인상 압력(앞 기사와 같은 내용)",
-     "impact": "추가 금리 인상 압력",
-     "affected": "미국 국채"
-    }
-   },
-   {
-    "id": "93cf60e8c0",
-    "title": "\"금리 동결 믿었는데\"…9월 물가 충격에 연준 셈법 복잡해져",
-    "url": "https://www.hankyung.com/article/202610142568i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/14 22:26",
-    "published_iso": "2026-10-14T22:26:48+09:00",
-    "sort_key": 1791984408.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "금리 동결을 기대했는데 9월 물가 충격으로 연준 판단이 복잡해짐",
-     "impact": "금리 인상 가능성 커짐",
-     "affected": "미국 국채, 성장주"
-    }
-   },
-   {
-    "id": "938bbc2c52",
-    "title": "[속보] 美 9월 소비자물가, 전년대비 3.7% 상승",
-    "url": "https://www.hankyung.com/article/202610142545i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/14 21:33",
-    "published_iso": "2026-10-14T21:33:10+09:00",
-    "sort_key": 1791981190.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "미국 9월 소비자물가 3.7% 상승 속보(앞 기사와 같은 내용)",
-     "impact": "추가 금리 인상 압력",
-     "affected": "미국 국채"
-    }
-   },
-   {
-    "id": "e849d9defb",
-    "title": "\"3만9000원? 여기선 2000원\"…다이소 또 '난리' 뭐길래",
-    "url": "https://www.hankyung.com/article/2026101424707",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/14 20:35",
-    "published_iso": "2026-10-14T20:35:27+09:00",
-    "sort_key": 1791977727.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "다이소에서 3만 9천원짜리와 비슷한 상품을 2천원에 팔아 인기",
-     "impact": "가성비 소비 확산",
-     "affected": "저가 유통"
-    }
-   }
-  ],
-  "해외 경제언론": [
-   {
-    "id": "3e64b01355",
-    "title": "UK economy sees surprise growth in August ahead of Healey's first Budget",
-    "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/15 16:40",
-    "published_iso": "2026-10-15T16:40:27+09:00",
-    "sort_key": 1792050027.0,
-    "excerpt": "The uptick helped the economy grow by 0.7% over the three months to August, official figures show.",
-    "matched": []
-   },
-   {
-    "id": "ebce4d43dc",
-    "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
-    "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/15 16:20",
-    "published_iso": "2026-10-15T16:20:45+09:00",
-    "sort_key": 1792048845.0,
-    "excerpt": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-    "matched": []
-   },
-   {
-    "id": "5d925dfb32",
-    "title": "UK economy grew 0.1% in August, beating expectations",
-    "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
-    "source": "CNBC Economy",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/15 16:15",
-    "published_iso": "2026-10-15T16:15:28+09:00",
-    "sort_key": 1792048528.0,
-    "excerpt": "The U.K. is grappling with a cost-of-living crisis sparked by sticky inflation and surging energy costs.",
-    "matched": []
-   },
-   {
-    "id": "87cd317dee",
-    "title": "How backlash against data centres could shape the US midterm elections",
-    "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/15 08:02",
-    "published_iso": "2026-10-15T08:02:57+09:00",
-    "sort_key": 1792018977.0,
-    "excerpt": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
-    "matched": []
-   },
-   {
-    "id": "e9db7b2bc5",
-    "title": "How a Chinese-made toy gets to a US retailer",
-    "url": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/15 08:01",
-    "published_iso": "2026-10-15T08:01:28+09:00",
-    "sort_key": 1792018888.0,
-    "excerpt": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
-    "matched": []
-   },
-   {
-    "id": "b7f0a53f88",
-    "title": "How much is the minimum wage?",
-    "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/15 08:01",
-    "published_iso": "2026-10-15T08:01:11+09:00",
-    "sort_key": 1792018871.0,
-    "excerpt": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
-    "matched": []
-   },
-   {
-    "id": "163bf2145e",
-    "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
-    "url": "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/15 07:20",
-    "published_iso": "2026-10-15T07:20:50+09:00",
-    "sort_key": 1792016450.0,
-    "excerpt": "For years, Ukraine’s armed forces have relied on satellite communication services developed by Elon Musk’s SpaceX. Recent restrictions have hampered its war effort.",
-    "matched": [],
-    "analysis": {
-     "summary": "우크라이나군이 의존하는 스페이스X의 군용 위성 인터넷 '스타실드' 설명",
-     "impact": "시장 영향은 제한적",
-     "affected": "스페이스X, 방산"
-    }
-   },
-   {
-    "id": "0c6c7d3439",
-    "title": "Stocks Tumble as Concerns Over Inflation and A.I. Investments Grow",
-    "url": "https://www.nytimes.com/2026/10/14/business/stocks-500-index-ai.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/15 06:30",
-    "published_iso": "2026-10-15T06:30:57+09:00",
-    "sort_key": 1792013457.0,
-    "excerpt": "The S&amp;P 500 fell 1.1 percent on Wednesday, the steepest drop in more than two months.",
-    "matched": [],
-    "analysis": {
-     "summary": "물가와 AI 투자 우려가 커지며 S&P 500이 1.1% 하락, 두 달여 만에 최대 낙폭",
-     "impact": "미국 증시 조정 신호 — 금리 부담과 AI 거품 우려가 겹침",
-     "affected": "미국 증시, 기술주",
-     "important": true,
-     "important_tag": "거시경제",
-     "why_important": "물가·AI 투자 우려로 S&P 500 1.1% 하락, 두 달여 만에 최대 낙폭"
-    }
-   },
-   {
-    "id": "c05eaf3518",
-    "title": "Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs",
-    "url": "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/15 06:25",
-    "published_iso": "2026-10-15T06:25:25+09:00",
-    "sort_key": 1792013125.0,
-    "excerpt": "President Trump’s deal with Russia will probably not lower diesel prices that have soared because of his war with Iran and Ukrainian attacks on Russian refineries.",
-    "matched": [],
-    "analysis": {
-     "summary": "트럼프의 러시아산 경유 거래로는 연료비가 내려가기 어렵다는 분석",
-     "impact": "고유가 지속 가능성",
-     "affected": "국제 경유 가격, 운송"
-    }
-   },
-   {
-    "id": "39c98c27cb",
-    "title": "Battle Over the Pierre Ends in Defeat for the Buyer Pushed by Lutnick",
-    "url": "https://www.nytimes.com/2026/10/14/business/pierre-buyer-lutnick.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/15 06:23",
-    "published_iso": "2026-10-15T06:23:45+09:00",
-    "sort_key": 1792013025.0,
-    "excerpt": "Motasem Khashoggi, who hails from a prominent Saudi family, missed a Tuesday deadline to deliver a $100 million deposit to purchase the Manhattan landmark.",
-    "matched": [],
-    "analysis": {
-     "summary": "러트닉이 밀던 사우디 출신 매수자가 맨해튼 피에르 호텔 부지 계약금을 내지 못해 거래 무산",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "3ca96ac041",
-    "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-    "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-    "source": "CNBC Finance",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/15 05:22",
-    "published_iso": "2026-10-15T05:22:09+09:00",
-    "sort_key": 1792009329.0,
-    "excerpt": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
-    "matched": [],
-    "analysis": {
-     "summary": "모건스탠리 3분기 실적이 예상을 웃돔, 주식 트레이딩 매출이 예상보다 9억 달러 많음",
-     "impact": "증시 변동성이 투자은행 실적을 키움",
-     "affected": "모건스탠리, 미국 은행주"
-    }
-   },
-   {
-    "id": "f39a16a4a8",
-    "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-    "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-    "source": "CNBC Finance",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/15 05:20",
-    "published_iso": "2026-10-15T05:20:46+09:00",
-    "sort_key": 1792009246.0,
-    "excerpt": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
-    "matched": [],
-    "analysis": {
-     "summary": "뱅크오브아메리카가 트레이딩 매출 부진과 12억 달러 벌금으로 주가 하락",
-     "impact": "대형 은행 실적 엇갈림",
-     "affected": "뱅크오브아메리카"
-    }
-   },
-   {
-    "id": "9783a99f47",
-    "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-    "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-    "source": "CNBC Finance",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/15 05:06",
-    "published_iso": "2026-10-15T05:06:28+09:00",
-    "sort_key": 1792008388.0,
-    "excerpt": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
-    "matched": [],
-    "analysis": {
-     "summary": "뱅크오브아메리카가 AI 모델이 찾아낸 소프트웨어 취약점을 고치려 외주 인력 1,000명 고용",
-     "impact": "AI 시대 보안 비용 증가",
-     "affected": "은행, 보안 업체"
-    }
-   },
-   {
-    "id": "ef63b9c728",
-    "title": "Energy Department Order Takes Aim at Mid-Atlantic Blackout Risk",
-    "url": "https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/15 04:06",
-    "published_iso": "2026-10-15T04:06:35+09:00",
-    "sort_key": 1792004795.0,
-    "excerpt": "The order as a precaution allows grid operators to use backup generation this week. There were no widespread outages reported.",
-    "matched": [],
-    "analysis": {
-     "summary": "미 에너지부가 중부 대서양 지역 정전 위험에 대비해 예비 발전 사용을 허용",
-     "impact": "전력망 부족 문제 부각",
-     "affected": "전력·유틸리티"
-    }
-   },
-   {
-    "id": "f7570566a2",
-    "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
-    "url": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/15 02:46",
-    "published_iso": "2026-10-15T02:46:30+09:00",
-    "sort_key": 1791999990.0,
-    "excerpt": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
-    "matched": [],
-    "analysis": {
-     "summary": "영국 공항 하차 요금이 급등해 정부가 검토 착수",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "455fff5af7",
-    "title": "Netflix, Facing Slowing Growth, Cuts 6% of Its Work Force",
-    "url": "https://www.nytimes.com/2026/10/14/business/media/netflix-layoffs-ted-sarandos.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/15 02:21",
-    "published_iso": "2026-10-15T02:21:26+09:00",
-    "sort_key": 1791998486.0,
-    "excerpt": "The streamer’s share price is down more than 40 percent over the last year as the company has struggled with stalling engagement.",
-    "matched": [],
-    "analysis": {
-     "summary": "성장 둔화를 겪는 넷플릭스가 인력 6% 감축, 주가는 1년 새 40% 넘게 하락",
-     "impact": "스트리밍 산업 성장 한계 신호",
-     "affected": "넷플릭스, 스트리밍 업계"
-    }
-   },
-   {
-    "id": "481e35200b",
-    "title": "How high inflation became a 'fact of life' in the U.S.",
-    "url": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
-    "source": "CNBC Economy",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/15 02:20",
-    "published_iso": "2026-10-15T02:20:23+09:00",
-    "sort_key": 1791998423.0,
-    "excerpt": "U.S. inflation has stayed elevated for years, raising concern at the Federal Reserve that consumers may come to expect stubbornly high prices.",
-    "matched": [],
-    "analysis": {
-     "summary": "미국에서 높은 물가가 '일상'이 된 과정 — 연준은 기대 인플레이션 고착을 우려",
-     "impact": "물가 고착화 우려가 금리 인상 근거",
-     "affected": "미국 국채, 연준"
-    }
-   },
-   {
-    "id": "fad7741422",
-    "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-    "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/15 01:47",
-    "published_iso": "2026-10-15T01:47:32+09:00",
-    "sort_key": 1791996452.0,
-    "excerpt": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
-    "matched": [],
-    "analysis": {
-     "summary": "넷플릭스가 2022년 이후 최대인 1,000명 감원(앞 기사와 같은 내용)",
-     "impact": "스트리밍 업계 구조조정",
-     "affected": "넷플릭스"
-    }
-   },
-   {
-    "id": "32f880d6d5",
-    "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-    "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/15 00:54",
-    "published_iso": "2026-10-15T00:54:04+09:00",
-    "sort_key": 1791993244.0,
-    "excerpt": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
-    "matched": [],
-    "analysis": {
-     "summary": "OpenAI 사우디 출신 엔지니어 체포 사건 정리",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "928277f3a9",
-    "title": "US inflation rises more than expected - here's what is happening with prices",
-    "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/15 00:26",
-    "published_iso": "2026-10-15T00:26:14+09:00",
-    "sort_key": 1791991574.0,
-    "excerpt": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-    "matched": [],
-    "analysis": {
-     "summary": "미국 9월 물가가 연료비 상승으로 3.7% 올라 예상을 웃돎(앞 기사와 같은 내용)",
-     "impact": "추가 금리 인상 압력",
-     "affected": "미국 국채, 달러"
-    }
-   },
-   {
-    "id": "76a686bc3c",
-    "title": "Democrats Blame Trump After CPI Report Shows Energy Prices Drove Up Inflation",
-    "url": "https://www.nytimes.com/2026/10/14/business/economy/inflation-trump-democrats-midterms-energy.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/15 00:25",
-    "published_iso": "2026-10-15T00:25:31+09:00",
-    "sort_key": 1791991531.0,
-    "excerpt": "Inflation and economic frustrations have expanded the map of competitive midterm election districts deep into Republican territory.",
-    "matched": [],
-    "analysis": {
-     "summary": "소비자물가 보고서에서 에너지가 물가를 끌어올리자 민주당이 트럼프 책임론 제기",
-     "impact": "중간선거 앞 물가 정치 쟁점화",
-     "affected": "미국 정치"
-    }
-   },
-   {
-    "id": "a74a0109a2",
-    "title": "5 Costs Americans Are Paying More for as Inflation Rises",
-    "url": "https://www.nytimes.com/2026/10/14/business/prices-inflation-food-airfare-car-rentals.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/14 23:52",
-    "published_iso": "2026-10-14T23:52:43+09:00",
-    "sort_key": 1791989563.0,
-    "excerpt": "Consumers are paying more for everyday goods and services, like food, computers and streaming.",
-    "matched": [],
-    "analysis": {
-     "summary": "물가 상승으로 미국인이 더 많이 내는 생활비 5가지",
-     "impact": "소비 여력 약화",
-     "affected": "소비주"
-    }
-   },
-   {
-    "id": "b8d785fa3d",
-    "title": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
-    "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
-    "source": "CNBC Economy",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/14 22:53",
-    "published_iso": "2026-10-14T22:53:28+09:00",
-    "sort_key": 1791986008.0,
-    "excerpt": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
-    "matched": [],
-    "analysis": {
-     "summary": "미국 9월 소비자물가가 휘발유값 급등으로 3.7% 올라 예상(3.6%)을 웃돎",
-     "impact": "물가가 다시 빨라짐 — 연준 연내 추가 인상이 더 확실해짐",
-     "affected": "미국 국채, 달러, 성장주",
-     "important": true,
-     "important_tag": "거시경제",
-     "why_important": "미국 9월 소비자물가 3.7%로 예상(3.6%) 상회 — 연준 연내 추가 금리 인상이 더 확실해짐"
-    }
-   },
-   {
-    "id": "594dedfd7c",
-    "title": "Driving test waits fall to two-year low - but still average 20 weeks",
-    "url": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/14 22:45",
-    "published_iso": "2026-10-14T22:45:34+09:00",
-    "sort_key": 1791985534.0,
-    "excerpt": "Learner drivers in September had to wait an average of 19.7 weeks, or around five months, for a practical test.",
-    "matched": [],
-    "analysis": {
-     "summary": "영국 운전면허 시험 대기가 2년 만에 가장 짧아졌지만 여전히 평균 20주",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "184ed16968",
-    "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
-    "url": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/14 20:57",
-    "published_iso": "2026-10-14T20:57:22+09:00",
-    "sort_key": 1791979042.0,
-    "excerpt": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
-    "matched": [],
-    "analysis": {
-     "summary": "영국 공무원이 분장으로 아픈 척하며 5개 직장을 겸업한 혐의로 재판",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "aae7dc9798",
-    "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
-    "url": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/14 20:04",
-    "published_iso": "2026-10-14T20:04:12+09:00",
-    "sort_key": 1791975852.0,
-    "excerpt": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
-    "matched": [],
-    "analysis": {
-     "summary": "IMF가 영국의 재정 적자 축소 계획을 칭찬한 의미",
-     "impact": "시장 영향은 제한적",
-     "affected": "영국 국채"
-    }
-   }
-  ],
-  "국내 정책당국": [
-   {
-    "id": "c596e6898e",
-    "title": "[보도참고] 공급망안정화기금은 공급망 위기 대응을 위한 금융지원을 확대해 왔으며, 앞으로 중소·중견기업 지원도 강화하겠습니다.",
-    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079639",
-    "source": "재정경제부 보도자료",
-    "group": "국내 정책당국",
-    "lang": "ko",
-    "published_kst": "10/15 02:47",
-    "published_iso": "2026-10-15T02:47:15+09:00",
-    "sort_key": 1792000035.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "공급망안정화기금이 중소·중견기업 지원도 강화하겠다는 해명 자료",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "259a0db9b6",
-    "title": "이형일 부총리, 국제통화기금(IMF)·세계은행 연차 총회 및 주요 20개국(G20), 주요 7개국(G7) 재무장관회의 참석 위해 출국",
-    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079629",
-    "source": "재정경제부 보도자료",
-    "group": "국내 정책당국",
-    "lang": "ko",
-    "published_kst": "10/14 09:00",
-    "published_iso": "2026-10-14T09:00:00+09:00",
-    "sort_key": 1791936000.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "부총리가 IMF·세계은행 연차총회와 G20·G7 재무장관회의 참석차 출국",
-     "impact": "시장 영향은 제한적",
-     "affected": "해당 없음"
-    }
-   }
-  ],
-  "중앙은행·국제기구": [
-   {
-    "id": "81e2cc6a2a",
-    "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
-    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
-    "source": "유럽중앙은행(ECB)",
-    "group": "중앙은행·국제기구",
-    "lang": "en",
-    "published_kst": "10/14 09:00",
-    "published_iso": "2026-10-14T09:00:00+09:00",
-    "sort_key": 1791936000.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "ECB 엘더슨 이사가 불확실성 속 금융 회복력 확보를 강조",
-     "impact": "시장 영향은 제한적",
-     "affected": "유럽 금융"
-    }
-   }
   ]
- },
- "counts": {
-  "indices_ok": 8,
-  "indices_total": 8,
-  "stocks_ok": 9,
-  "stocks_total": 9,
-  "news": 61,
-  "news_new": 22
- },
- "errors": [
-  {
-   "stage": "news",
-   "target": "금융위원회 보도자료",
-   "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
-  }
- ]
 }
