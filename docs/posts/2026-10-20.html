@@ -1,0 +1,412 @@
+<!doctype html>
+<html lang="ko" data-theme="">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026-10-20 · 오늘의 경제 한 장</title>
+<meta name="description" content="2026-10-20 지수·관심종목 등락과 공신력 있는 경제뉴스 한 페이지 정리">
+<style>:root{
+  color-scheme: light;
+  --surface:#fcfcfb; --plane:#f9f9f7; --ink:#0b0b0b; --ink2:#52514e;
+  --muted:#898781; --grid:#e1e0d9; --border:rgba(11,11,11,.10);
+  --up:#d03b3b; --down:#1c5cab; --flat:#898781; --accent:#2a78d6;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme=&#34;light&#34;]){
+    color-scheme: dark;
+    --surface:#1a1a19; --plane:#0d0d0d; --ink:#ffffff; --ink2:#c3c2b7;
+    --muted:#898781; --grid:#2c2c2a; --border:rgba(255,255,255,.10);
+    --up:#e66767; --down:#3987e5; --flat:#898781; --accent:#3987e5;
+  }
+}
+:root[data-theme=&#34;dark&#34;]{
+  color-scheme: dark;
+  --surface:#1a1a19; --plane:#0d0d0d; --ink:#ffffff; --ink2:#c3c2b7;
+  --muted:#898781; --grid:#2c2c2a; --border:rgba(255,255,255,.10);
+  --up:#e66767; --down:#3987e5; --flat:#898781; --accent:#3987e5;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  background:var(--plane); color:var(--ink);
+  font-family:system-ui,-apple-system,&#34;Segoe UI&#34;,&#34;Apple SD Gothic Neo&#34;,&#34;Noto Sans KR&#34;,sans-serif;
+  line-height:1.55; -webkit-text-size-adjust:100%;
+}
+.wrap{max-width:860px;margin:0 auto;padding:20px 16px 56px}
+a{color:inherit}
+h1,h2,h3{margin:0;font-weight:650;letter-spacing:-.01em}
+
+/* ── 머리말 ───────────────────────────────── */
+.top{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;margin-bottom:6px}
+.title{font-size:23px}
+.sub{color:var(--ink2);font-size:13px;margin-top:4px}
+.meta{color:var(--muted);font-size:12px;margin-top:10px;
+  display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center}
+.btn{background:var(--surface);color:var(--ink2);border:1px solid var(--border);
+  border-radius:8px;padding:6px 10px;font-size:12px;cursor:pointer;font-family:inherit}
+.btn:hover{border-color:var(--muted)}
+.navlinks{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:6px}
+.navlinks a,.navlinks .btn{white-space:nowrap}
+@media(max-width:480px){.top{flex-direction:column}.navlinks{justify-content:flex-start}}
+.navlinks a{text-decoration:none;font-size:12px;color:var(--ink2);
+  border:1px solid var(--border);border-radius:8px;padding:6px 10px;background:var(--surface)}
+
+/* ── 섹션 ─────────────────────────────────── */
+section{margin-top:30px}
+.shead{display:flex;align-items:baseline;flex-wrap:wrap;gap:4px 10px;margin-bottom:12px;
+  padding-bottom:8px;border-bottom:1px solid var(--grid)}
+.shead h2{font-size:15px;white-space:nowrap}
+.shead .note{color:var(--muted);font-size:12px}
+
+/* ── 지수 타일 ────────────────────────────── */
+.tiles{display:grid;grid-template-columns:repeat(2,1fr);gap:8px}
+@media(min-width:620px){.tiles{grid-template-columns:repeat(4,1fr)}}
+.tile{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:12px 13px}
+.tile .n{font-size:12px;color:var(--ink2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tile .v{font-size:19px;font-weight:650;margin-top:5px;letter-spacing:-.02em}
+.tile .d{font-size:12.5px;font-weight:600;margin-top:2px;font-variant-numeric:tabular-nums}
+.up{color:var(--up)} .down{color:var(--down)} .flat{color:var(--flat)}
+.tile.dead .v{color:var(--muted);font-size:14px;font-weight:500}
+
+/* ── 종목 표 ──────────────────────────────── */
+.stock{background:var(--surface);border:1px solid var(--border);border-radius:12px;
+  padding:12px 13px;margin-bottom:8px}
+.srow{display:flex;align-items:center;gap:10px}
+.sname{font-weight:650;font-size:14.5px;flex:1;min-width:0}
+.scode{color:var(--muted);font-size:11.5px;font-weight:400;margin-left:6px}
+.sprice{font-size:14.5px;font-variant-numeric:tabular-nums}
+.schg{font-size:13px;font-weight:650;min-width:74px;text-align:right;font-variant-numeric:tabular-nums}
+.snews{margin:10px 0 0;padding:10px 0 0;border-top:1px dashed var(--grid);
+  list-style:none;display:flex;flex-direction:column;gap:7px}
+.snews li{font-size:13px;line-height:1.45}
+.snews a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--grid)}
+.snews a:hover{border-bottom-color:var(--accent)}
+.snews .src{color:var(--muted);font-size:11.5px;margin-left:6px;white-space:nowrap}
+.nonews{color:var(--muted);font-size:12px;margin-top:8px}
+
+/* ── 뉴스 ─────────────────────────────────── */
+.group{margin-bottom:22px}
+.gname{font-size:12.5px;color:var(--ink2);font-weight:650;margin-bottom:8px;
+  display:flex;align-items:center;gap:7px}
+.dot{width:7px;height:7px;border-radius:50%;background:var(--accent);flex:none}
+.nlist{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}
+.nlist li{font-size:13.5px;line-height:1.45;padding-bottom:10px;border-bottom:1px dashed var(--grid)}
+.nlist li:last-child{border-bottom:none;padding-bottom:0}
+.nhead{display:flex;gap:9px;align-items:baseline;flex-wrap:wrap}
+.nlist .t{color:var(--muted);font-size:11.5px;white-space:nowrap;
+  font-variant-numeric:tabular-nums;min-width:74px}
+.nlist a{text-decoration:none}
+.nlist a:hover{text-decoration:underline}
+.tag{font-size:10.5px;border:1px solid var(--border);border-radius:5px;
+  padding:1px 5px;color:var(--ink2);margin-left:6px;white-space:nowrap}
+
+/* ── AI 뉴스 해설 ─────────────────────────── */
+.analysis{margin:7px 0 0 83px;padding:8px 10px;background:var(--surface);
+  border:1px solid var(--border);border-radius:8px;
+  display:flex;flex-direction:column;gap:3px}
+@media(max-width:480px){.analysis{margin-left:0}}
+.arow{font-size:12px;color:var(--ink2);line-height:1.5}
+.alabel{font-size:10px;font-weight:700;color:var(--accent);
+  border:1px solid var(--accent);border-radius:4px;padding:0 4px;
+  margin-right:6px;white-space:nowrap}
+
+/* ── 핵심 뉴스 ───────────────────────────── */
+.keycard{background:var(--surface);border:1px solid var(--border);border-left:3px solid var(--up);
+  border-radius:10px;padding:11px 13px;margin-bottom:8px;display:flex;flex-direction:column;gap:3px}
+.khead{font-size:14px;font-weight:600;line-height:1.45}
+.khead a{text-decoration:none}
+.khead a:hover{text-decoration:underline}
+.ktag{font-size:10.5px;font-weight:700;color:var(--up);border:1px solid var(--up);
+  border-radius:4px;padding:0 5px;margin-right:7px;white-space:nowrap;vertical-align:1px}
+.ksrc{color:var(--muted);font-size:11.5px;margin-bottom:3px}
+.alabel.why{color:var(--up);border-color:var(--up)}
+.star{color:var(--up);margin-right:4px}
+.shead .note a{color:var(--accent)}
+.criteria{background:var(--surface);border:1px solid var(--border);border-radius:10px;
+  padding:10px 13px;margin-top:16px;font-size:12.5px;color:var(--ink2)}
+.criteria summary{cursor:pointer;font-weight:600;color:var(--ink)}
+.criteria ol{padding-left:18px;margin:8px 0}
+.criteria li{margin-bottom:4px}
+.criteria p{margin:6px 0 0}
+
+/* ── 꼬리말 ───────────────────────────────── */
+footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--grid);
+  color:var(--muted);font-size:11.5px;line-height:1.7}
+footer b{color:var(--ink2);font-weight:600}
+.errbox{background:var(--surface);border:1px solid var(--border);border-radius:10px;
+  padding:10px 12px;margin-top:10px}
+.errbox li{margin-left:-12px}
+
+/* ── 아카이브 ─────────────────────────────── */
+.arch{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:6px}
+.arch a{display:flex;justify-content:space-between;gap:12px;text-decoration:none;
+  background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:11px 13px}
+.arch a:hover{border-color:var(--muted)}
+.arch .d{font-weight:600;font-size:14px}
+.arch .s{color:var(--muted);font-size:12px;text-align:right}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="top">
+    <div>
+      <h1 class="title">오늘의 경제 한 장</h1>
+      <div class="sub">지수 · 관심종목 · 공신력 있는 경제 뉴스</div>
+    </div>
+    <div class="navlinks">
+      <a href="../important.html">핵심 뉴스 모음</a>
+      <a href="../archive.html">지난 글</a>
+      <button class="btn" id="themebtn" type="button">◐</button>
+    </div>
+  </div>
+
+  <div class="meta">
+    <span><b style="color:var(--ink)">2026-10-20 (화)</b></span>
+    <span>갱신 2026-10-20 07:35 KST</span>
+    <span>지수 8/8</span>
+    <span>종목 9/9</span>
+    <span>새 뉴스 33건</span>  </div>
+
+  <!-- 1. 지수 -->
+  <section>
+    <div class="shead"><h2>지수 · 환율 · 원자재</h2>
+      <span class="note">전일 종가 대비</span></div>
+    <div class="tiles">      <div class="tile">
+        <div class="n">코스피</div>        <div class="v">5,768</div>
+        <div class="d down">▼ −616.2 (−9.65%)</div>      </div>      <div class="tile">
+        <div class="n">코스닥</div>        <div class="v">808.9</div>
+        <div class="d down">▼ −40.30 (−4.75%)</div>      </div>      <div class="tile">
+        <div class="n">S&amp;P 500</div>        <div class="v">7,691</div>
+        <div class="d down">▼ −116.5 (−1.49%)</div>      </div>      <div class="tile">
+        <div class="n">나스닥</div>        <div class="v">26,431</div>
+        <div class="d down">▼ −815.0 (−2.99%)</div>      </div>      <div class="tile">
+        <div class="n">원/달러</div>        <div class="v">1,331<span style="font-size:12px;color:var(--ink2)"> 원</span></div>
+        <div class="d down">▼ −3.51 (−0.26%)</div>      </div>      <div class="tile">
+        <div class="n">미 10년 국채</div>        <div class="v">5.14<span style="font-size:12px;color:var(--ink2)"> %</span></div>
+        <div class="d down">▼ −0.08 (−1.55%)</div>      </div>      <div class="tile">
+        <div class="n">WTI 유가</div>        <div class="v">98.13<span style="font-size:12px;color:var(--ink2)"> $</span></div>
+        <div class="d up">▲ +3.04 (+3.20%)</div>      </div>      <div class="tile">
+        <div class="n">금</div>        <div class="v">4,160<span style="font-size:12px;color:var(--ink2)"> $</span></div>
+        <div class="d up">▲ +51.60 (+1.26%)</div>      </div>    </div>
+  </section>
+
+  <!-- 1-2. 오늘의 핵심 뉴스 -->
+  <!-- 2. 관심종목 + 연결된 뉴스 -->
+  <section>
+    <div class="shead"><h2>관심종목과 관련 뉴스</h2>
+      <span class="note">제목에 종목명이 들어간 기사를 자동 연결</span></div>    <div class="stock">
+      <div class="srow">
+        <div class="sname">삼성전자<span class="scode">005930.KS</span></div>        <div class="sprice">218,000</div>
+        <div class="schg down">▼ −12.97%</div>      </div>      <div class="nonews">오늘 수집된 관련 기사 없음</div>    </div>    <div class="stock">
+      <div class="srow">
+        <div class="sname">SK하이닉스<span class="scode">000660.KS</span></div>        <div class="sprice">1,277,000</div>
+        <div class="schg down">▼ −20.44%</div>      </div>      <div class="nonews">오늘 수집된 관련 기사 없음</div>    </div>    <div class="stock">
+      <div class="srow">
+        <div class="sname">현대차<span class="scode">005380.KS</span></div>        <div class="sprice">326,000</div>
+        <div class="schg up">▲ +1.88%</div>      </div>      <div class="nonews">오늘 수집된 관련 기사 없음</div>    </div>    <div class="stock">
+      <div class="srow">
+        <div class="sname">LG에너지솔루션<span class="scode">373220.KS</span></div>        <div class="sprice">432,000</div>
+        <div class="schg up">▲ +8.54%</div>      </div>      <div class="nonews">오늘 수집된 관련 기사 없음</div>    </div>    <div class="stock">
+      <div class="srow">
+        <div class="sname">NAVER<span class="scode">035420.KS</span></div>        <div class="sprice">182,900</div>
+        <div class="schg up">▲ +1.33%</div>      </div>      <div class="nonews">오늘 수집된 관련 기사 없음</div>    </div>    <div class="stock">
+      <div class="srow">
+        <div class="sname">엔비디아<span class="scode">NVDA</span></div>        <div class="sprice">217.1</div>
+        <div class="schg down">▼ −4.08%</div>      </div>      <ul class="snews">        <li><a href="https://www.hankyung.com/article/202610191823i" target="_blank" rel="noopener">&#34;엔비디아의 진짜 해자 CUDA에 도전&#34;…아마존,AI칩 소프트웨어 공개</a><span class="src">한국경제 · 10/20 00:11</span></li>      </ul>    </div>    <div class="stock">
+      <div class="srow">
+        <div class="sname">애플<span class="scode">AAPL</span></div>        <div class="sprice">342.9</div>
+        <div class="schg up">▲ +0.58%</div>      </div>      <div class="nonews">오늘 수집된 관련 기사 없음</div>    </div>    <div class="stock">
+      <div class="srow">
+        <div class="sname">테슬라<span class="scode">TSLA</span></div>        <div class="sprice">368.1</div>
+        <div class="schg down">▼ −2.64%</div>      </div>      <div class="nonews">오늘 수집된 관련 기사 없음</div>    </div>    <div class="stock">
+      <div class="srow">
+        <div class="sname">마이크로소프트<span class="scode">MSFT</span></div>        <div class="sprice">533.5</div>
+        <div class="schg down">▼ −1.41%</div>      </div>      <div class="nonews">오늘 수집된 관련 기사 없음</div>    </div>  </section>
+
+  <!-- 3. 뉴스 -->
+  <section>
+    <div class="shead"><h2>경제 뉴스</h2>
+      <span class="note">최근 3일 페이지에 이미 실린 기사는 빼고 새 기사만 · 출처별 최신순 · ★ 핵심 뉴스</span></div>    <div class="group">
+      <div class="gname"><span class="dot"></span>국내 경제언론 <span style="color:var(--muted);font-weight:400">(16)</span></div>
+      <ul class="nlist">        <li>
+          <div class="nhead">
+            <span class="t">10/20 07:30</span>
+            <span><a href="https://www.yna.co.kr/view/AKR20261020012700011" target="_blank" rel="noopener">[연합뉴스 이 시각 헤드라인] - 07:30</a><span class="tag">연합뉴스 경제</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 07:00</span>
+            <span><a href="https://www.yna.co.kr/view/AKR20261001038900898" target="_blank" rel="noopener">[우분투칼럼] 아프리카 알고보면(20) 기념품이 된 짐바브웨 화폐</a><span class="tag">연합뉴스 경제</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 06:22</span>
+            <span><a href="https://www.hankyung.com/article/2026102019227" target="_blank" rel="noopener">&#34;잘나가면 1년에 10억도 우습다&#34;…유튜버 수입 뜯어봤더니</a><span class="tag">한국경제</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 06:03</span>
+            <span><a href="https://www.yna.co.kr/view/AKR20261019158700030" target="_blank" rel="noopener">중기중앙회장 주요 후보자, 리더스포럼 불참키로…공정성 불만도</a><span class="tag">연합뉴스 경제</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 06:00</span>
+            <span><a href="https://www.hankyung.com/article/2026101915661" target="_blank" rel="noopener">&#34;이수만은 언제 감 잃나&#34;…3년 만에 돌아온 74세 노장의 반격</a><span class="tag">한국경제</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 06:00</span>
+            <span><a href="https://www.hankyung.com/article/202610191172i" target="_blank" rel="noopener">&#34;하루 8만개씩 팔렸다&#34;…SNS서 난리난 &#39;초코 츄러스&#39; 뭐길래 [권용훈의 트렌드워치]</a><span class="tag">한국경제</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 06:00</span>
+            <span><a href="https://www.hankyung.com/article/202610190657g" target="_blank" rel="noopener">&#34;없어서 못 판다는 9000만원 전기車&#34;…한국서 &#39;자존심 대결&#39;</a><span class="tag">한국경제</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 06:00</span>
+            <span><a href="https://www.yna.co.kr/view/AKR20261019165800003" target="_blank" rel="noopener">[게시판] 산업부·코트라, 수출기업 대상 9개국 비관세장벽 대응 설명회</a><span class="tag">연합뉴스 경제</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 05:55</span>
+            <span><a href="https://www.yna.co.kr/view/AKR20261019159000003" target="_blank" rel="noopener">1∼9월 서울 아파트 월세 비중 50% 첫 돌파…전세 급감 여파</a><span class="tag">연합뉴스 경제</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 05:55</span>
+            <span><a href="https://www.yna.co.kr/view/AKR20261019176600002" target="_blank" rel="noopener">5년여간 10대 증권사 주식매매규정 위반제재 97명…30%는 퇴직자</a><span class="tag">연합뉴스 경제</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 05:53</span>
+            <span><a href="https://www.yna.co.kr/view/AKR20261019163200002" target="_blank" rel="noopener">돈 넣고 잊은 계좌 3억4천만개…&#39;잠자는&#39; 금융자산 14조원</a><span class="tag">연합뉴스 경제</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 05:51</span>
+            <span><a href="https://www.yna.co.kr/view/AKR20261019161100002" target="_blank" rel="noopener">&#34;유튜버 법인 상위 10%가 신고 수입 76% 차지…집중 더 심화&#34;</a><span class="tag">연합뉴스 경제</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 00:11</span>
+            <span><a href="https://www.hankyung.com/article/202610191823i" target="_blank" rel="noopener">&#34;엔비디아의 진짜 해자 CUDA에 도전&#34;…아마존,AI칩 소프트웨어 공개</a><span class="tag">한국경제</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/19 23:13</span>
+            <span><a href="https://www.hankyung.com/article/202610191800i" target="_blank" rel="noopener">美 증시, AI 관련 주식 저가 매수에 나스닥 반등</a><span class="tag">한국경제</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/19 22:36</span>
+            <span><a href="https://www.hankyung.com/article/2026101917897" target="_blank" rel="noopener">&#34;월급 빼고 다 오르는데&#34;…폭스바겐 2030년까지 임금 동결 추진</a><span class="tag">한국경제</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/19 22:15</span>
+            <span><a href="https://www.hankyung.com/article/202610191780i" target="_blank" rel="noopener">&#34;돈 풀면 국가부도, 돈 줄이면 폭동&#34;…진퇴양난 프랑스 국가부채</a><span class="tag">한국경제</span></span>
+          </div>        </li>      </ul>
+    </div>    <div class="group">
+      <div class="gname"><span class="dot"></span>해외 경제언론 <span style="color:var(--muted);font-weight:400">(17)</span></div>
+      <ul class="nlist">        <li>
+          <div class="nhead">
+            <span class="t">10/20 07:22</span>
+            <span><a href="https://www.nytimes.com/2026/10/19/business/black-unemployment-job-market.html" target="_blank" rel="noopener">Black Unemployment Hints at a Job Market in Worse Shape Than It Seems</a><span class="tag">NYT Business</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 07:12</span>
+            <span><a href="https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html" target="_blank" rel="noopener">Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’</a><span class="tag">NYT Business</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 06:31</span>
+            <span><a href="https://www.nytimes.com/2026/10/19/business/media/cnn-christiane-amanpour.html" target="_blank" rel="noopener">Christiane Amanpour Says She Is Leaving CNN After 43 Years</a><span class="tag">NYT Business</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 06:30</span>
+            <span><a href="https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Burnham vows end to &#39;rip-off parking charges&#39; under new rules</a><span class="tag">BBC Business</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 06:12</span>
+            <span><a href="https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Ex-OpenAI worker accused of planting device had Saudi support, says court filing</a><span class="tag">BBC Business</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 04:04</span>
+            <span><a href="https://www.nytimes.com/2026/10/19/style/victorias-secret-fantasy-bra-sexy.html" target="_blank" rel="noopener">At Victoria’s Secret’s 2026 Fashion Show, an Old Stereotype of Sexy</a><span class="tag">NYT Business</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 03:36</span>
+            <span><a href="https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html" target="_blank" rel="noopener">Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why</a><span class="tag">CNBC Economy</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 03:30</span>
+            <span><a href="https://www.nytimes.com/2026/10/19/business/media/jon-stewart-daily-show.html" target="_blank" rel="noopener">Jon Stewart to Stay at ‘The Daily Show’ Through the 2028 Election</a><span class="tag">NYT Business</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 03:21</span>
+            <span><a href="https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">US bans DeepSeek AI from government use as tech tension with China continues</a><span class="tag">BBC Business</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 03:21</span>
+            <span><a href="https://www.nytimes.com/2026/10/19/business/saudi-investment-fii-houthis.html" target="_blank" rel="noopener">Saudi Arabia Postpones Its FII Investment Event After Houthi Attacks</a><span class="tag">NYT Business</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 01:46</span>
+            <span><a href="https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Vinted blocks French looters listing stolen goods for sale</a><span class="tag">BBC Business</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 01:42</span>
+            <span><a href="https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html" target="_blank" rel="noopener">Anthropic is AI trade&#39;s last big hope for a major IPO this year</a><span class="tag">CNBC Finance</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 00:44</span>
+            <span><a href="https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Bikes &#39;not for jousting,&#39; says Lime after duel video</a><span class="tag">BBC Business</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/20 00:38</span>
+            <span><a href="https://www.nytimes.com/2026/10/19/world/americas/gilbert-bigio-dead.html" target="_blank" rel="noopener">Gilbert Bigio, Haitian Tycoon Linked to Gangs, Dies at 91</a><span class="tag">NYT Business</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/19 21:34</span>
+            <span><a href="https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html" target="_blank" rel="noopener">Robot factories and hypersonic missiles: JPMorgan Chase&#39;s first $5 billion of defense investments</a><span class="tag">CNBC Finance</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/19 21:16</span>
+            <span><a href="https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener">Bereaved families could face &#39;unjust&#39; tax bill after civil service pension delays</a><span class="tag">BBC Business</span></span>
+          </div>        </li>        <li>
+          <div class="nhead">
+            <span class="t">10/19 20:47</span>
+            <span><a href="https://www.nytimes.com/2026/10/19/business/dealbook/anthropic-ipo-charity.html" target="_blank" rel="noopener">Anthropic’s I.P.O. Charity</a><span class="tag">NYT Business</span></span>
+          </div>        </li>      </ul>
+    </div>  </section>
+
+  <footer>
+    <b>데이터 출처</b> · 시세: Yahoo Finance / 뉴스: 각 기관·언론사 공식 RSS (제목과 링크만 인용, 원문 저작권은 각 매체에 있음)<br>
+    <b>수집 방식</b> · 시세·뉴스 원자료는 자동 수집됩니다. 뉴스의 "요약·영향·관련" 해설은 Claude(AI)가 기사 제목만 보고 작성한 참고용 해석이며, 투자 조언이 아닙니다. 실제 영향은 다를 수 있습니다.<br>
+    <b>유의</b> · 시세는 지연될 수 있고 오류가 있을 수 있습니다. 투자 판단과 그 결과는 본인 책임입니다.    <div class="errbox"><b>오늘 수집 실패 1건</b>
+      <ul><li>[news] 금융위원회 보도자료 — HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111</li></ul>
+    </div>  </footer>
+
+  <section id="comments">
+    <div class="shead"><h2>의견 남기기</h2>
+      <span class="note">GitHub 계정으로 로그인 후 댓글 가능</span></div>
+    <script src="https://giscus.app/client.js"
+            data-repo="MarketBrief-byte/MarketBrief-byte.github.io"
+            data-repo-id="R_kgDOUiftVw"
+            data-category="Announcements"
+            data-category-id="DIC_kwDOUiftV84DGFTO"
+            data-mapping="pathname"
+            data-strict="0"
+            data-reactions-enabled="1"
+            data-emit-metadata="0"
+            data-input-position="bottom"
+            data-theme="preferred_color_scheme"
+            data-lang="ko"
+            crossorigin="anonymous"
+            async>
+    </script>
+  </section>
+</div>
+
+<script>
+(function(){
+  var k='econ-theme', b=document.getElementById('themebtn');
+  try{ var v=localStorage.getItem(k); if(v){ document.documentElement.dataset.theme=v; } }catch(e){}
+  b && b.addEventListener('click', function(){
+    var cur=document.documentElement.dataset.theme;
+    var isDark = cur ? cur==='dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+    var next = isDark ? 'light' : 'dark';
+    document.documentElement.dataset.theme=next;
+    try{ localStorage.setItem(k,next); }catch(e){}
+  });
+})();
+</script>
+</body>
+</html>
