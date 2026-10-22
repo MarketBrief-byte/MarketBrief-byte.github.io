@@ -1,2197 +1,2313 @@
 {
- "date": "2026-10-22",
- "generated_at": "2026-10-22 18:00",
- "weekday": "목",
- "site": {
-  "title": "오늘의 경제 한 장",
-  "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
-  "author": "asqwkl3215",
-  "timezone_label": "KST",
-  "base_url": "https://marketbrief-byte.github.io"
- },
- "indices": [
-  {
-   "name": "코스피",
-   "symbol": "^KS11",
-   "unit": "pt",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 5533.77,
-   "prev_close": 5554.22,
-   "change": -20.45,
-   "change_pct": -0.37,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1792650760,
-   "asof_date": null
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22 18:00",
+  "weekday": "목",
+  "site": {
+    "title": "오늘의 경제 한 장",
+    "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
+    "author": "asqwkl3215",
+    "timezone_label": "KST",
+    "base_url": "https://marketbrief-byte.github.io"
   },
-  {
-   "name": "코스닥",
-   "symbol": "^KQ11",
-   "unit": "pt",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 764.1,
-   "prev_close": 760.82,
-   "change": 3.28,
-   "change_pct": 0.43,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1792650780,
-   "asof_date": null
-  },
-  {
-   "name": "S&P 500",
-   "symbol": "^GSPC",
-   "unit": "pt",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 7757.17,
-   "prev_close": 7718.94,
-   "change": 38.23,
-   "change_pct": 0.5,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1792614681,
-   "asof_date": null
-  },
-  {
-   "name": "나스닥",
-   "symbol": "^IXIC",
-   "unit": "pt",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 26702.857,
-   "prev_close": 26692.87,
-   "change": 9.987,
-   "change_pct": 0.04,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1792617359,
-   "asof_date": null
-  },
-  {
-   "name": "원/달러",
-   "symbol": "KRW=X",
-   "unit": "원",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 1321.68,
-   "prev_close": 1340.95,
-   "change": -19.27,
-   "change_pct": -1.44,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1792659619,
-   "asof_date": null
-  },
-  {
-   "name": "미 10년 국채",
-   "symbol": "^TNX",
-   "unit": "%",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 5.146,
-   "prev_close": 5.089,
-   "change": 0.057,
-   "change_pct": 1.12,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1792609194,
-   "asof_date": null
-  },
-  {
-   "name": "WTI 유가",
-   "symbol": "CL=F",
-   "unit": "$",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 99.88,
-   "prev_close": 103.66,
-   "change": -3.78,
-   "change_pct": -3.65,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1792659025,
-   "asof_date": null
-  },
-  {
-   "name": "금",
-   "symbol": "GC=F",
-   "unit": "$",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 4105.6,
-   "prev_close": 4160.1,
-   "change": -54.5,
-   "change_pct": -1.31,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1792659024,
-   "asof_date": null
-  }
- ],
- "watchlist": [
-  {
-   "name": "삼성전자",
-   "symbol": "005930.KS",
-   "unit": "",
-   "keywords": [
-    "삼성전자",
-    "Samsung Electronics",
-    "삼성 반도체"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 214500.0,
-   "prev_close": 210000.0,
-   "change": 4500.0,
-   "change_pct": 2.14,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1792650611,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "SK하이닉스",
-   "symbol": "000660.KS",
-   "unit": "",
-   "keywords": [
-    "SK하이닉스",
-    "SK Hynix",
-    "하이닉스",
-    "HBM"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 1223000.0,
-   "prev_close": 1262000.0,
-   "change": -39000.0,
-   "change_pct": -3.09,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1792650604,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "현대차",
-   "symbol": "005380.KS",
-   "unit": "",
-   "keywords": [
-    "현대차",
-    "현대자동차",
-    "Hyundai Motor"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 301500.0,
-   "prev_close": 295500.0,
-   "change": 6000.0,
-   "change_pct": 2.03,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1792650601,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "LG에너지솔루션",
-   "symbol": "373220.KS",
-   "unit": "",
-   "keywords": [
-    "LG에너지솔루션",
-    "LG Energy Solution",
-    "이차전지",
-    "배터리"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 390000.0,
-   "prev_close": 402500.0,
-   "change": -12500.0,
-   "change_pct": -3.11,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1792650608,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "NAVER",
-   "symbol": "035420.KS",
-   "unit": "",
-   "keywords": [
-    "네이버",
-    "NAVER"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 176400.0,
-   "prev_close": 173600.0,
-   "change": 2800.0,
-   "change_pct": 1.61,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1792650608,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "엔비디아",
-   "symbol": "NVDA",
-   "unit": "",
-   "keywords": [
-    "엔비디아",
-    "Nvidia",
-    "NVDA"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 221.97,
-   "prev_close": 221.3,
-   "change": 0.67,
-   "change_pct": 0.3,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1792612800,
-   "asof_date": null,
-   "news": [
+  "indices": [
     {
-     "id": "76cd94a7fa",
-     "title": "삼성전기, 테슬라·엔비디아서 3.6조 투자 받는다",
-     "url": "https://www.hankyung.com/article/2026102294211",
-     "source": "한국경제",
-     "published_kst": "10/22 17:37"
+      "name": "코스피",
+      "symbol": "^KS11",
+      "unit": "pt",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 5533.77,
+      "prev_close": 5554.22,
+      "change": -20.45,
+      "change_pct": -0.37,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1792650760,
+      "asof_date": null
     },
     {
-     "id": "7182998032",
-     "title": "LG이노텍, 엔비디아와 '로봇 눈' 솔루션 개발",
-     "url": "https://www.hankyung.com/article/2026102294201",
-     "source": "한국경제",
-     "published_kst": "10/22 17:36"
+      "name": "코스닥",
+      "symbol": "^KQ11",
+      "unit": "pt",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 764.1,
+      "prev_close": 760.82,
+      "change": 3.28,
+      "change_pct": 0.43,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1792650780,
+      "asof_date": null
     },
     {
-     "id": "32145f13e8",
-     "title": "[특징주] 삼성전기, 엔비디아와 파트너십 구축에 장 초반 5%대↑",
-     "url": "https://www.yna.co.kr/view/AKR20261022040800008",
-     "source": "연합뉴스 경제",
-     "published_kst": "10/22 09:20"
-    }
-   ]
-  },
-  {
-   "name": "애플",
-   "symbol": "AAPL",
-   "unit": "",
-   "keywords": [
-    "애플",
-    "Apple",
-    "AAPL"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 343.99,
-   "prev_close": 342.96,
-   "change": 1.03,
-   "change_pct": 0.3,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1792612801,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "테슬라",
-   "symbol": "TSLA",
-   "unit": "",
-   "keywords": [
-    "테슬라",
-    "Tesla",
-    "TSLA"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 386.47,
-   "prev_close": 367.16,
-   "change": 19.31,
-   "change_pct": 5.26,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1792612800,
-   "asof_date": null,
-   "news": [
-    {
-     "id": "76cd94a7fa",
-     "title": "삼성전기, 테슬라·엔비디아서 3.6조 투자 받는다",
-     "url": "https://www.hankyung.com/article/2026102294211",
-     "source": "한국경제",
-     "published_kst": "10/22 17:37"
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "unit": "pt",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 7757.17,
+      "prev_close": 7718.94,
+      "change": 38.23,
+      "change_pct": 0.5,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1792614681,
+      "asof_date": null
     },
     {
-     "id": "a7d61d6d5e",
-     "title": "\"테슬라·지커·BYD 제쳤다\"…독일서 실력 입증한 기아 전기차",
-     "url": "https://www.hankyung.com/article/202610227551g",
-     "source": "한국경제",
-     "published_kst": "10/22 08:55"
+      "name": "나스닥",
+      "symbol": "^IXIC",
+      "unit": "pt",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 26702.857,
+      "prev_close": 26692.87,
+      "change": 9.987,
+      "change_pct": 0.04,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1792617359,
+      "asof_date": null
     },
     {
-     "id": "ae8d482c13",
-     "title": "테슬라, 3분기 매출 281억 달러…시장 예상치 상회",
-     "url": "https://www.hankyung.com/article/202610227590i",
-     "source": "한국경제",
-     "published_kst": "10/22 08:52"
+      "name": "원/달러",
+      "symbol": "KRW=X",
+      "unit": "원",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 1321.68,
+      "prev_close": 1340.95,
+      "change": -19.27,
+      "change_pct": -1.44,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1792659619,
+      "asof_date": null
     },
     {
-     "id": "33c6899cb1",
-     "title": "Tesla Profit Slumps as Elon Musk’s Car Company Considers Merging With SpaceX",
-     "url": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html",
-     "source": "NYT Business",
-     "published_kst": "10/22 08:06"
+      "name": "미 10년 국채",
+      "symbol": "^TNX",
+      "unit": "%",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 5.146,
+      "prev_close": 5.089,
+      "change": 0.057,
+      "change_pct": 1.12,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1792609194,
+      "asof_date": null
     },
     {
-     "id": "6cc7b11761",
-     "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
-     "url": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
-     "source": "NYT Business",
-     "published_kst": "10/22 05:57"
+      "name": "WTI 유가",
+      "symbol": "CL=F",
+      "unit": "$",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 99.88,
+      "prev_close": 103.66,
+      "change": -3.78,
+      "change_pct": -3.65,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1792659025,
+      "asof_date": null
+    },
+    {
+      "name": "금",
+      "symbol": "GC=F",
+      "unit": "$",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 4105.6,
+      "prev_close": 4160.1,
+      "change": -54.5,
+      "change_pct": -1.31,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1792659024,
+      "asof_date": null
     }
-   ]
-  },
-  {
-   "name": "마이크로소프트",
-   "symbol": "MSFT",
-   "unit": "",
-   "keywords": [
-    "마이크로소프트",
-    "Microsoft",
-    "MSFT"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 532.95,
-   "prev_close": 533.69,
-   "change": -0.74,
-   "change_pct": -0.14,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1792612801,
-   "asof_date": null,
-   "news": []
-  }
- ],
- "news": [
-  {
-   "id": "e3189419e5",
-   "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-   "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/22 17:58",
-   "published_iso": "2026-10-22T17:58:08+09:00",
-   "sort_key": 1792659488.0,
-   "excerpt": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
-   "matched": []
-  },
-  {
-   "id": "cac21597a8",
-   "title": "엑스페릭스, 20억 제3자배정 유상증자",
-   "url": "https://www.yna.co.kr/view/AKR20261022177400008",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 17:54",
-   "published_iso": "2026-10-22T17:54:48+09:00",
-   "sort_key": 1792659288.0,
-   "excerpt": "(서울=연합뉴스) 코스닥 상장사 엑스페릭스[317770]는 타법인증권취득자금 등 약 20억원을 조달하고자 제3자배정 유상증자를 결정했다고 22일...",
-   "matched": []
-  },
-  {
-   "id": "656ba441e8",
-   "title": "휴맥스 \"알티모빌리티 주식 108억원에 추가취득…지분율 58.3%\"",
-   "url": "https://www.yna.co.kr/view/AKR20261022173700008",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 17:53",
-   "published_iso": "2026-10-22T17:53:03+09:00",
-   "sort_key": 1792659183.0,
-   "excerpt": "(서울=연합뉴스) 코스닥 상장사 휴맥스[115160]는 유무선통신기기 및 방송장비 개발, 제작, 생산. 유통서비스업 업체 알티모빌리티의 주식 2...",
-   "matched": []
-  },
-  {
-   "id": "00590a4bfb",
-   "title": "이찬진 '스페이스X 0주' 野 보상촉구에…\"공감, 제재절차 진행\"",
-   "url": "https://www.yna.co.kr/view/AKR20261022171200002",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 17:52",
-   "published_iso": "2026-10-22T17:52:14+09:00",
-   "sort_key": 1792659134.0,
-   "excerpt": "(서울=연합뉴스) 배영경 강류나 기자 = 이찬진 금융감독원장은 &apos;스페이스X 0주 배정&apos; 사태로 진행해온 미래에셋증권[006800] 현장검사가 2...",
-   "matched": []
-  },
-  {
-   "id": "fa01ef6428",
-   "title": "BNK금융, AI 플랫폼 구축 우선협상대상자에 삼성SDS",
-   "url": "https://www.yna.co.kr/view/AKR20261022175900051",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 17:45",
-   "published_iso": "2026-10-22T17:45:07+09:00",
-   "sort_key": 1792658707.0,
-   "excerpt": "(부산=연합뉴스) 이영재 기자 = BNK금융그룹은 그룹 차원의 디지털 혁신과 업무 생산성 향상을 위해 추진 중인 &apos;그룹 공동 생성형 인공지능(A...",
-   "matched": []
-  },
-  {
-   "id": "42be126aaf",
-   "title": "보험사 해약환급금준비금 64조 '역대 최대'",
-   "url": "https://www.hankyung.com/article/2026102293921",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 17:41",
-   "published_iso": "2026-10-22T17:41:02+09:00",
-   "sort_key": 1792658462.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "96a65054ad",
-   "title": "이재용, UAE 찾아 중동사업 현장 경영",
-   "url": "https://www.hankyung.com/article/2026102294231",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 17:37",
-   "published_iso": "2026-10-22T17:37:58+09:00",
-   "sort_key": 1792658278.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "bda8b8b0dc",
-   "title": "김동선, 한화M&S 1000만주 공개매수",
-   "url": "https://www.hankyung.com/article/2026102294181",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 17:37",
-   "published_iso": "2026-10-22T17:37:43+09:00",
-   "sort_key": 1792658263.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "76cd94a7fa",
-   "title": "삼성전기, 테슬라·엔비디아서 3.6조 투자 받는다",
-   "url": "https://www.hankyung.com/article/2026102294211",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 17:37",
-   "published_iso": "2026-10-22T17:37:13+09:00",
-   "sort_key": 1792658233.0,
-   "excerpt": "",
-   "matched": [
-    "NVDA",
-    "TSLA"
-   ]
-  },
-  {
-   "id": "7182998032",
-   "title": "LG이노텍, 엔비디아와 '로봇 눈' 솔루션 개발",
-   "url": "https://www.hankyung.com/article/2026102294201",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 17:36",
-   "published_iso": "2026-10-22T17:36:55+09:00",
-   "sort_key": 1792658215.0,
-   "excerpt": "",
-   "matched": [
-    "NVDA"
-   ]
-  },
-  {
-   "id": "827eef925c",
-   "title": "삼성E&A, 수주·영업익 모두 연간 목표 초과 달성",
-   "url": "https://www.hankyung.com/article/2026102294171",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 17:36",
-   "published_iso": "2026-10-22T17:36:36+09:00",
-   "sort_key": 1792658196.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "fc7c0019f7",
-   "title": "국세청, 신세계 세무조사…오너 친인척 '특혜 거래' 의혹",
-   "url": "https://www.hankyung.com/article/202610229303g",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 17:32",
-   "published_iso": "2026-10-22T17:32:24+09:00",
-   "sort_key": 1792657944.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "7f474ca776",
-   "title": "[단독] HD현대, 美 키윗과 합작법인 세운다… '마스가 1호 펀드' 수혜 유력",
-   "url": "https://www.hankyung.com/article/202610229024i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 17:31",
-   "published_iso": "2026-10-22T17:31:55+09:00",
-   "sort_key": 1792657915.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "ecaf449cd3",
-   "title": "이억원 \"가계부채 리스크에 총량 규제 필요…방법 보완 검토\"",
-   "url": "https://www.yna.co.kr/view/AKR20261022169300002",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 17:28",
-   "published_iso": "2026-10-22T17:28:10+09:00",
-   "sort_key": 1792657690.0,
-   "excerpt": "(서울=연합뉴스) 강수련 강류나 기자 = 이억원 금융위원장은 22일 가계대출 총량 규제의 필요성을 강조하면서도, 은행권 &apos;자율&apos;에 맡기는 규제 ...",
-   "matched": []
-  },
-  {
-   "id": "6a843576ad",
-   "title": "금융위원장 \"산업은행 부산 이전, 국회에서 결정할것\"(종합)",
-   "url": "https://www.yna.co.kr/view/AKR20261022163951051",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 17:25",
-   "published_iso": "2026-10-22T17:25:23+09:00",
-   "sort_key": 1792657523.0,
-   "excerpt": "(부산·서울=연합뉴스) 민영규 김지연 기자 = 이억원 금융위원장은 22일 한국산업은행 부산 이전 문제를 두고 &quot;국회에서 결정할 사항...",
-   "matched": []
-  },
-  {
-   "id": "b972167f6a",
-   "title": "[게시판] 전국 대학 6곳서 '찾아가는 소방 인재 채용설명회' 개최",
-   "url": "https://www.yna.co.kr/view/AKR20261022170300530",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 17:20",
-   "published_iso": "2026-10-22T17:20:24+09:00",
-   "sort_key": 1792657224.0,
-   "excerpt": "▲ 소방청은 22일 덕성여대를 시작으로 전국 대학 6곳에서 소방공무원 채용에 관한 생생한 정보를 전하는 &apos;찾아가는 소방 인재 채용설명회&apos;를 개최...",
-   "matched": []
-  },
-  {
-   "id": "039764be6a",
-   "title": "강호동 농협회장 \"농민단체 요구만으론 직선제 수용 안 했을 것\"",
-   "url": "https://www.yna.co.kr/view/AKR20261022168300030",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 17:16",
-   "published_iso": "2026-10-22T17:16:39+09:00",
-   "sort_key": 1792656999.0,
-   "excerpt": "(서울=연합뉴스) 김세린 기자 = 강호동 농협중앙회장은 22일 회장 선출 방식을 전체 조합원 직선제로 바꾸는 농협법 개정안과 관련해 농민단체의 ...",
-   "matched": []
-  },
-  {
-   "id": "c75360ac72",
-   "title": "What is PHP and why did it spark a global cyber-security scramble?",
-   "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/22 15:24",
-   "published_iso": "2026-10-22T15:24:59+09:00",
-   "sort_key": 1792650299.0,
-   "excerpt": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-   "matched": []
-  },
-  {
-   "id": "65a5b1875b",
-   "title": "Is an 'AI war' complicating your job search?",
-   "url": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/22 14:01",
-   "published_iso": "2026-10-22T14:01:31+09:00",
-   "sort_key": 1792645291.0,
-   "excerpt": "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?",
-   "matched": []
-  },
-  {
-   "id": "d761895002",
-   "title": "No order, no seat: Starbucks China rolls out new store policy",
-   "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/22 13:02",
-   "published_iso": "2026-10-22T13:02:29+09:00",
-   "sort_key": 1792641749.0,
-   "excerpt": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
-   "matched": []
-  },
-  {
-   "id": "2a3370c579",
-   "title": "Looted Goods From French Stores Appear on Resale Sites After Riots",
-   "url": "https://www.nytimes.com/2026/10/22/business/france-riots-looting-resale.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/22 13:00",
-   "published_iso": "2026-10-22T13:00:06+09:00",
-   "sort_key": 1792641606.0,
-   "excerpt": "Officials in France are pressing online platforms like eBay and Vinted to remove items that were stolen during public disturbances over the weekend.",
-   "matched": []
-  },
-  {
-   "id": "527c8c44f7",
-   "title": "특성화고 졸업 후 취업…안산시, '직업교육 혁신지구' 협약",
-   "url": "https://www.yna.co.kr/view/AKR20261022047600061",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 09:35",
-   "published_iso": "2026-10-22T09:35:03+09:00",
-   "sort_key": 1792629303.0,
-   "excerpt": "(안산=연합뉴스) 최해민 기자 = 경기 안산시는 관내 기업 50곳, 특성화고등학교 6곳 등과 &apos;안산루트 직업교육 혁신지구 업무협약&apos;을 체결했다고...",
-   "matched": [],
-   "analysis": {
-    "summary": "안산시가 기업 50곳·특성화고 6곳과 직업교육 혁신지구 협약",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "8f26206c53",
-   "title": "[게시판] 토스뱅크 '키워봐요 31일 적금' 60만좌 넘게 가입",
-   "url": "https://www.yna.co.kr/view/AKR20261022047100002",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 09:34",
-   "published_iso": "2026-10-22T09:34:41+09:00",
-   "sort_key": 1792629281.0,
-   "excerpt": "▲ 토스뱅크는 지난 8월 출시한 &apos;키워봐요 31일 적금&apos;의 누적 개설 계좌가 60만좌를 넘겼다고 22일 밝혔다. &apos;키워봐요 31일적금&apos;은 31일...",
-   "matched": [],
-   "analysis": {
-    "summary": "토스뱅크 '키워봐요 31일 적금' 가입 60만 계좌 돌파",
-    "impact": "시장 영향은 제한적",
-    "affected": "인터넷은행"
-   }
-  },
-  {
-   "id": "069c28a808",
-   "title": "하나은행·카드, 동국제강과 철강재 구매기업 금융 지원",
-   "url": "https://www.yna.co.kr/view/AKR20261022046000002",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 09:33",
-   "published_iso": "2026-10-22T09:33:58+09:00",
-   "sort_key": 1792629238.0,
-   "excerpt": "(서울=연합뉴스) 채새롬 기자 = 하나은행과 하나카드는 동국제강[460860]과 철강재 구매기업의 공급망 금융 지원 강화를 위한 업무협약을 체결...",
-   "matched": [],
-   "analysis": {
-    "summary": "하나은행·카드가 동국제강과 철강재 구매기업 금융 지원 협약",
-    "impact": "시장 영향은 제한적",
-    "affected": "하나금융, 동국제강"
-   }
-  },
-  {
-   "id": "eb235e289c",
-   "title": "GS건설, 호주 오스넷과 손잡고 에너지 인프라 사업 확대",
-   "url": "https://www.yna.co.kr/view/AKR20261022042000003",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 09:32",
-   "published_iso": "2026-10-22T09:32:13+09:00",
-   "sort_key": 1792629133.0,
-   "excerpt": "(세종=연합뉴스) 오진송 기자 = GS건설이 호주 전력망 운영사 오스넷(AusNet)과 손잡고 현지 에너지 인프라 사업 확대에 나선다.",
-   "matched": [],
-   "analysis": {
-    "summary": "GS건설이 호주 전력망 운영사 오스넷과 에너지 인프라 사업 확대",
-    "impact": "해외 수주 기대, 영향은 제한적",
-    "affected": "GS건설"
-   }
-  },
-  {
-   "id": "e7bfa9d42c",
-   "title": "한투부동산신탁, 양평동4가 도심복합개발사업 운영위와 MOU",
-   "url": "https://www.yna.co.kr/view/AKR20261022045300008",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 09:29",
-   "published_iso": "2026-10-22T09:29:09+09:00",
-   "sort_key": 1792628949.0,
-   "excerpt": "(서울=연합뉴스) 임은진 기자 = 한국금융지주[071050]의 자회사인 한국투자부동산신탁은 서울 영등포구 양평동4가 247번지 일대에 추진 중인...",
-   "matched": [],
-   "analysis": {
-    "summary": "한국투자부동산신탁이 양평동 도심복합개발사업 운영위와 업무협약",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "e3666fbc65",
-   "title": "넥스트증권, 글로벌 차트플랫폼 '트레이딩뷰'와 파트너십",
-   "url": "https://www.yna.co.kr/view/AKR20261022042600008",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 09:23",
-   "published_iso": "2026-10-22T09:23:59+09:00",
-   "sort_key": 1792628639.0,
-   "excerpt": "(서울=연합뉴스) 김유향 기자 = 넥스트증권은 글로벌 차트 플랫폼인 트레이딩뷰(TradingView)와 차트 제공을 위한 파트너십을 체결했다고 ...",
-   "matched": [],
-   "analysis": {
-    "summary": "넥스트증권이 차트 플랫폼 트레이딩뷰와 파트너십",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "ad356acf40",
-   "title": "'단종의 밥상' 세계에 알린다…29일 영월서 글로벌 한식포럼",
-   "url": "https://www.yna.co.kr/view/AKR20261022038100371",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 09:22",
-   "published_iso": "2026-10-22T09:22:09+09:00",
-   "sort_key": 1792628529.0,
-   "excerpt": "(서울=연합뉴스) 박현수 기자 = 조선 비운의 임금 단종의 역사를 품은 강원 영월의 향토 음식이 세계인의 식탁에 오르기 위한 도전에 나선다.",
-   "matched": [],
-   "analysis": {
-    "summary": "영월 향토 음식을 알리는 글로벌 한식포럼 개최",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "32145f13e8",
-   "title": "[특징주] 삼성전기, 엔비디아와 파트너십 구축에 장 초반 5%대↑",
-   "url": "https://www.yna.co.kr/view/AKR20261022040800008",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 09:20",
-   "published_iso": "2026-10-22T09:20:02+09:00",
-   "sort_key": 1792628402.0,
-   "excerpt": "(서울=연합뉴스) 황철환 기자 = 삼성전기[009150]가 22일 장 초반 5%대의 상승세를 보인다.",
-   "matched": [
-    "NVDA"
-   ],
-   "analysis": {
-    "summary": "삼성전기가 엔비디아와 파트너십 구축 소식에 장 초반 5%대 상승",
-    "impact": "AI 부품 공급 기대",
-    "affected": "삼성전기, 엔비디아 공급망"
-   }
-  },
-  {
-   "id": "0bd8d64f92",
-   "title": "(보도설명) 정부는 할당관세의 물가안정 효과를 높이기 위한 제도개선을 지속 추진 중입니다.",
-   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079736",
-   "source": "재정경제부 보도자료",
-   "group": "국내 정책당국",
-   "lang": "ko",
-   "published_kst": "10/22 09:00",
-   "published_iso": "2026-10-22T09:00:00+09:00",
-   "sort_key": 1792627200.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "a7d61d6d5e",
-   "title": "\"테슬라·지커·BYD 제쳤다\"…독일서 실력 입증한 기아 전기차",
-   "url": "https://www.hankyung.com/article/202610227551g",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 08:55",
-   "published_iso": "2026-10-22T08:55:42+09:00",
-   "sort_key": 1792626942.0,
-   "excerpt": "",
-   "matched": [
-    "TSLA"
-   ],
-   "analysis": {
-    "summary": "기아 전기차가 독일 평가에서 테슬라·BYD 등을 제침",
-    "impact": "시장 영향은 제한적",
-    "affected": "기아"
-   }
-  },
-  {
-   "id": "cb282809d1",
-   "title": "3시간 만에 티켓 동났다…6500명 몰린 성수동 '이곳'",
-   "url": "https://www.hankyung.com/article/202610227537g",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 08:52",
-   "published_iso": "2026-10-22T08:52:32+09:00",
-   "sort_key": 1792626752.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "성수동 팝업 행사 티켓이 3시간 만에 매진",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "ae8d482c13",
-   "title": "테슬라, 3분기 매출 281억 달러…시장 예상치 상회",
-   "url": "https://www.hankyung.com/article/202610227590i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 08:52",
-   "published_iso": "2026-10-22T08:52:10+09:00",
-   "sort_key": 1792626730.0,
-   "excerpt": "",
-   "matched": [
-    "TSLA"
-   ],
-   "analysis": {
-    "summary": "테슬라 3분기 매출 281억 달러로 시장 예상 상회",
-    "impact": "매출은 예상보다 좋았지만 이익은 별도로 확인 필요",
-    "affected": "테슬라"
-   }
-  },
-  {
-   "id": "5be04f9e06",
-   "title": "중동 원유 수출 하루 2460만 배럴…전쟁 전 수준 회복",
-   "url": "https://www.hankyung.com/article/202610227543i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 08:39",
-   "published_iso": "2026-10-22T08:39:33+09:00",
-   "sort_key": 1792625973.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "중동 원유 수출이 하루 2,460만 배럴로 전쟁 전 수준 회복",
-    "impact": "원유 공급 정상화 — 유가 하락 압력, 물가 부담 완화",
-    "affected": "국제 유가, 정유·항공, 물가",
-    "important": true,
-    "important_tag": "거시경제",
-    "why_important": "중동 원유 수출이 전쟁 전 수준 회복 — 유가 하락으로 물가 부담이 줄어들 수 있음"
-   }
-  },
-  {
-   "id": "97ef03399b",
-   "title": "\"5명 중 1명 첫 결제\"…여기어때 '비밀 무기' 통했다",
-   "url": "https://www.hankyung.com/article/202610227456g",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 08:32",
-   "published_iso": "2026-10-22T08:32:13+09:00",
-   "sort_key": 1792625533.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "여기어때가 첫 결제 고객을 늘린 마케팅 사례",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "ea74be411b",
-   "title": "25년 전 뺑소니가 발목…32년 연금 날릴 뻔한 사연 [일확연금 노후부자]",
-   "url": "https://www.hankyung.com/article/202610189098i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 08:31",
-   "published_iso": "2026-10-22T08:31:03+09:00",
-   "sort_key": 1792625463.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "25년 전 뺑소니 기록 때문에 연금을 잃을 뻔한 사연",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "ff86e658f1",
-   "title": "The \"trillion pound\" oil fund the government believes Britain could have built",
-   "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/22 08:27",
-   "published_iso": "2026-10-22T08:27:05+09:00",
-   "sort_key": 1792625225.0,
-   "excerpt": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
-   "matched": [],
-   "analysis": {
-    "summary": "영국이 북해 석유 수익을 국부펀드로 굴렸다면 1조 파운드였을 거라는 재무부 계산",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "995f1f94f0",
-   "title": "빈폴골프, 여성 점퍼 매출 336% '껑충'…시착 마케팅 강화",
-   "url": "https://www.hankyung.com/article/202610227448g",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 08:26",
-   "published_iso": "2026-10-22T08:26:29+09:00",
-   "sort_key": 1792625189.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "빈폴골프 여성 점퍼 매출이 336% 증가",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "059632669e",
-   "title": "한 달 만에 16만개 동났다…편의점 점령한 일본 과자",
-   "url": "https://www.hankyung.com/article/202610227415g",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/22 08:14",
-   "published_iso": "2026-10-22T08:14:48+09:00",
-   "sort_key": 1792624488.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "일본 과자가 한 달 만에 편의점에서 16만 개 팔림",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "b2e6ea5705",
-   "title": "The grads ditching the UK for a fresh start abroad",
-   "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/22 08:12",
-   "published_iso": "2026-10-22T08:12:06+09:00",
-   "sort_key": 1792624326.0,
-   "excerpt": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
-   "matched": [],
-   "analysis": {
-    "summary": "영국 대졸 일자리가 부족해 해외로 떠나려는 청년이 늘어남",
-    "impact": "영국 청년 고용 부진 신호",
-    "affected": "영국 고용"
-   }
-  },
-  {
-   "id": "33c6899cb1",
-   "title": "Tesla Profit Slumps as Elon Musk’s Car Company Considers Merging With SpaceX",
-   "url": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/22 08:06",
-   "published_iso": "2026-10-22T08:06:24+09:00",
-   "sort_key": 1792623984.0,
-   "excerpt": "The carmaker, which is controlled by Elon Musk and is considering merging with another of his companies, SpaceX, spent heavily on artificial intelligence and other new technologies.",
-   "matched": [
-    "TSLA"
-   ],
-   "analysis": {
-    "summary": "테슬라 이익이 크게 줄어듦 — AI 등 신기술에 많이 쓰는 와중에 스페이스X와 합병 검토",
-    "impact": "이익 감소와 합병 불확실성으로 주가 변동성 확대",
-    "affected": "테슬라",
-    "important": true,
-    "important_tag": "관심종목",
-    "why_important": "관심종목 테슬라 — 3분기 매출은 예상 이상이지만 이익이 크게 줄어듦, 스페이스X 합병도 검토 중"
-   }
-  },
-  {
-   "id": "db9fc146b7",
-   "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-   "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/22 07:54",
-   "published_iso": "2026-10-22T07:54:58+09:00",
-   "sort_key": 1792623298.0,
-   "excerpt": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
-   "matched": [],
-   "analysis": {
-    "summary": "에어비앤비가 숙박객에게 침구 정리·설거지를 요구하지 못하게 규정 변경",
-    "impact": "시장 영향 없음",
-    "affected": "에어비앤비"
-   }
-  },
-  {
-   "id": "b12f081e1b",
-   "title": "Meta fined $25bn for 'lies' over user data privacy",
-   "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/22 06:49",
-   "published_iso": "2026-10-22T06:49:07+09:00",
-   "sort_key": 1792619347.0,
-   "excerpt": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-   "matched": [],
-   "analysis": {
-    "summary": "메타가 개인정보 관련 '거짓말'로 역대 최대 250억 달러 벌금",
-    "impact": "빅테크 규제 비용 급증 — 이익에 직접 타격",
-    "affected": "메타, 빅테크",
-    "important": true,
-    "important_tag": "산업·실적",
-    "why_important": "메타에 역대 최대 250억 달러 벌금 — 빅테크 규제 비용이 이익을 직접 깎는 수준으로 커짐"
-   }
-  },
-  {
-   "id": "6cc7b11761",
-   "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
-   "url": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/22 05:57",
-   "published_iso": "2026-10-22T05:57:22+09:00",
-   "sort_key": 1792616242.0,
-   "excerpt": "A deal would consolidate Elon Musk’s holdings in rockets, cars and artificial intelligence into a company worth well over $3 trillion.",
-   "matched": [
-    "TSLA"
-   ],
-   "analysis": {
-    "summary": "머스크가 스페이스X·테슬라 합병을 검토 중이라고 확인 — 합치면 3조 달러 이상(앞 기사와 비슷한 내용)",
-    "impact": "테슬라 변동성 확대",
-    "affected": "테슬라"
-   }
-  },
-  {
-   "id": "de60c5d9a9",
-   "title": "France Riots Expose the Rage Aimed at Dior, Hermès and Other Luxury Brands",
-   "url": "https://www.nytimes.com/2026/10/21/style/france-riots-luxury-dior-hermes.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/22 05:03",
-   "published_iso": "2026-10-22T05:03:25+09:00",
-   "sort_key": 1792613005.0,
-   "excerpt": "The looting of stores belonging to brands like Dior, Celine and Hermès has exposed a crack in the glossy facade.",
-   "matched": [],
-   "analysis": {
-    "summary": "프랑스 시위에서 디올·에르메스 매장이 약탈당하며 명품 브랜드에 대한 분노가 드러남",
-    "impact": "유럽 명품 업체 단기 부담",
-    "affected": "유럽 명품주"
-   }
-  },
-  {
-   "id": "e3dbce13ab",
-   "title": "Websites taken down worldwide as critical cyber-security update issued",
-   "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/22 04:54",
-   "published_iso": "2026-10-22T04:54:57+09:00",
-   "sort_key": 1792612497.0,
-   "excerpt": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
-   "matched": [],
-   "analysis": {
-    "summary": "PHP 언어에서 AI가 찾은 역대급 보안 취약점으로 전 세계 웹사이트가 내려가고 긴급 업데이트",
-    "impact": "인터넷 서비스 장애·보안 비용 증가",
-    "affected": "웹 호스팅, 보안 업체",
-    "important": true,
-    "important_tag": "산업·실적",
-    "why_important": "PHP에서 역대급 보안 취약점 — 전 세계 웹사이트가 내려가 인터넷 서비스 전반에 영향"
-   }
-  },
-  {
-   "id": "0c85670029",
-   "title": "U.S. to Tap Heating Oil Reserves Ahead of Midterm Elections",
-   "url": "https://www.nytimes.com/2026/10/21/business/heating-oil-emergency-reserve-prices.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/22 04:50",
-   "published_iso": "2026-10-22T04:50:08+09:00",
-   "sort_key": 1792612208.0,
-   "excerpt": "The Trump administration will release 315,000 barrels of heating oil, but analysts say the amount is too small to make much of a difference.",
-   "matched": [],
-   "analysis": {
-    "summary": "미국이 중간선거 앞두고 난방유 비축분 31.5만 배럴 방출 — 양이 적어 효과는 미미하다는 평가",
-    "impact": "시장 영향은 제한적",
-    "affected": "난방유 가격"
-   }
-  },
-  {
-   "id": "75bbc9e754",
-   "title": "GM Aims to Bring ‘Eyes-Off’ Driving to AI-Powered Cars Within 2 Years",
-   "url": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/22 03:23",
-   "published_iso": "2026-10-22T03:23:52+09:00",
-   "sort_key": 1792607032.0,
-   "excerpt": "General Motors is seeking help from artificial intelligence to keep up with Chinese companies that introduce vehicles very quickly.",
-   "matched": [],
-   "analysis": {
-    "summary": "GM이 2년 안에 '눈을 떼도 되는' 자율주행을 AI로 도입하겠다고 발표",
-    "impact": "자율주행 경쟁 가속",
-    "affected": "GM, 자율주행"
-   }
-  },
-  {
-   "id": "beb3a5aedb",
-   "title": "Alaska’s Journalists Join Forces to Cover the Midterms",
-   "url": "https://www.nytimes.com/2026/10/21/business/media/alaska-journalists-sullivan-peltola-senate.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/22 01:20",
-   "published_iso": "2026-10-22T01:20:25+09:00",
-   "sort_key": 1792599625.0,
-   "excerpt": "The state’s challenging geography and newspapers’ broader economic struggles have stretched reporters in Alaska, just as its competitive U.S. Senate race has grabbed national attention.",
-   "matched": [],
-   "analysis": {
-    "summary": "알래스카 언론사들이 중간선거 취재에 힘을 모음",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "ede60000a8",
-   "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-   "url": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-   "source": "CNBC Finance",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/22 00:30",
-   "published_iso": "2026-10-22T00:30:50+09:00",
-   "sort_key": 1792596650.0,
-   "excerpt": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
-   "matched": [],
-   "analysis": {
-    "summary": "골드만삭스·JP모건·모건스탠리가 올해 주식 거래 수익 520억 달러로 시장의 80% 차지",
-    "impact": "대형 투자은행 실적 호조, 헤지펀드 신용 거래 증가는 위험 신호",
-    "affected": "대형 투자은행"
-   }
-  },
-  {
-   "id": "7f3e7607f2",
-   "title": "SpaceX Boosts the A.I. Rally",
-   "url": "https://www.nytimes.com/2026/10/21/business/dealbook/spacex-musk-tesla.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/21 22:37",
-   "published_iso": "2026-10-21T22:37:04+09:00",
-   "sort_key": 1792589824.0,
-   "excerpt": "Tech stocks are up after the rocket and artificial intelligence company beat earnings estimates — and Elon Musk confirmed it is weighing a deal with Tesla.",
-   "matched": [],
-   "analysis": {
-    "summary": "스페이스X 실적이 예상을 넘고 테슬라 합병 검토가 확인되며 기술주 상승",
-    "impact": "AI·기술주 상승 흐름 강화",
-    "affected": "기술주, 테슬라"
-   }
-  },
-  {
-   "id": "77a2eff440",
-   "title": "How The New York Times Reports on A.I. Images",
-   "url": "https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/21 22:21",
-   "published_iso": "2026-10-21T22:21:54+09:00",
-   "sort_key": 1792588914.0,
-   "excerpt": "A Times reporter and editors discuss the challenges of sifting through what’s real and what’s not in pursuit of the news.",
-   "matched": [],
-   "analysis": {
-    "summary": "뉴욕타임스가 AI 이미지를 어떻게 검증해 보도하는지 소개",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "f21574e7ce",
-   "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
-   "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/21 19:20",
-   "published_iso": "2026-10-21T19:20:15+09:00",
-   "sort_key": 1792578015.0,
-   "excerpt": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
-   "matched": [],
-   "analysis": {
-    "summary": "영국 물가·재정 적자 지표가 재무장관 예산안의 제약을 보여줌",
-    "impact": "영국 재정 긴축 압력",
-    "affected": "영국 국채, 파운드화"
-   }
-  },
-  {
-   "id": "c89c45c477",
-   "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
-   "source": "유럽중앙은행(ECB)",
-   "group": "중앙은행·국제기구",
-   "lang": "en",
-   "published_kst": "10/21 17:00",
-   "published_iso": "2026-10-21T17:00:00+09:00",
-   "sort_key": 1792569600.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "ECB 치폴로네 이사가 은행 결제 인프라 관련 연설",
-    "impact": "시장 영향은 제한적",
-    "affected": "유럽 은행"
-   }
-  }
- ],
- "news_groups": {
-  "해외 경제언론": [
-   {
-    "id": "e3189419e5",
-    "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-    "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/22 17:58",
-    "published_iso": "2026-10-22T17:58:08+09:00",
-    "sort_key": 1792659488.0,
-    "excerpt": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
-    "matched": []
-   },
-   {
-    "id": "c75360ac72",
-    "title": "What is PHP and why did it spark a global cyber-security scramble?",
-    "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/22 15:24",
-    "published_iso": "2026-10-22T15:24:59+09:00",
-    "sort_key": 1792650299.0,
-    "excerpt": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-    "matched": []
-   },
-   {
-    "id": "65a5b1875b",
-    "title": "Is an 'AI war' complicating your job search?",
-    "url": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/22 14:01",
-    "published_iso": "2026-10-22T14:01:31+09:00",
-    "sort_key": 1792645291.0,
-    "excerpt": "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?",
-    "matched": []
-   },
-   {
-    "id": "d761895002",
-    "title": "No order, no seat: Starbucks China rolls out new store policy",
-    "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/22 13:02",
-    "published_iso": "2026-10-22T13:02:29+09:00",
-    "sort_key": 1792641749.0,
-    "excerpt": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
-    "matched": []
-   },
-   {
-    "id": "2a3370c579",
-    "title": "Looted Goods From French Stores Appear on Resale Sites After Riots",
-    "url": "https://www.nytimes.com/2026/10/22/business/france-riots-looting-resale.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/22 13:00",
-    "published_iso": "2026-10-22T13:00:06+09:00",
-    "sort_key": 1792641606.0,
-    "excerpt": "Officials in France are pressing online platforms like eBay and Vinted to remove items that were stolen during public disturbances over the weekend.",
-    "matched": []
-   },
-   {
-    "id": "ff86e658f1",
-    "title": "The \"trillion pound\" oil fund the government believes Britain could have built",
-    "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/22 08:27",
-    "published_iso": "2026-10-22T08:27:05+09:00",
-    "sort_key": 1792625225.0,
-    "excerpt": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
-    "matched": [],
-    "analysis": {
-     "summary": "영국이 북해 석유 수익을 국부펀드로 굴렸다면 1조 파운드였을 거라는 재무부 계산",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "b2e6ea5705",
-    "title": "The grads ditching the UK for a fresh start abroad",
-    "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/22 08:12",
-    "published_iso": "2026-10-22T08:12:06+09:00",
-    "sort_key": 1792624326.0,
-    "excerpt": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
-    "matched": [],
-    "analysis": {
-     "summary": "영국 대졸 일자리가 부족해 해외로 떠나려는 청년이 늘어남",
-     "impact": "영국 청년 고용 부진 신호",
-     "affected": "영국 고용"
-    }
-   },
-   {
-    "id": "33c6899cb1",
-    "title": "Tesla Profit Slumps as Elon Musk’s Car Company Considers Merging With SpaceX",
-    "url": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/22 08:06",
-    "published_iso": "2026-10-22T08:06:24+09:00",
-    "sort_key": 1792623984.0,
-    "excerpt": "The carmaker, which is controlled by Elon Musk and is considering merging with another of his companies, SpaceX, spent heavily on artificial intelligence and other new technologies.",
-    "matched": [
-     "TSLA"
-    ],
-    "analysis": {
-     "summary": "테슬라 이익이 크게 줄어듦 — AI 등 신기술에 많이 쓰는 와중에 스페이스X와 합병 검토",
-     "impact": "이익 감소와 합병 불확실성으로 주가 변동성 확대",
-     "affected": "테슬라",
-     "important": true,
-     "important_tag": "관심종목",
-     "why_important": "관심종목 테슬라 — 3분기 매출은 예상 이상이지만 이익이 크게 줄어듦, 스페이스X 합병도 검토 중"
-    }
-   },
-   {
-    "id": "db9fc146b7",
-    "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-    "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/22 07:54",
-    "published_iso": "2026-10-22T07:54:58+09:00",
-    "sort_key": 1792623298.0,
-    "excerpt": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
-    "matched": [],
-    "analysis": {
-     "summary": "에어비앤비가 숙박객에게 침구 정리·설거지를 요구하지 못하게 규정 변경",
-     "impact": "시장 영향 없음",
-     "affected": "에어비앤비"
-    }
-   },
-   {
-    "id": "b12f081e1b",
-    "title": "Meta fined $25bn for 'lies' over user data privacy",
-    "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/22 06:49",
-    "published_iso": "2026-10-22T06:49:07+09:00",
-    "sort_key": 1792619347.0,
-    "excerpt": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-    "matched": [],
-    "analysis": {
-     "summary": "메타가 개인정보 관련 '거짓말'로 역대 최대 250억 달러 벌금",
-     "impact": "빅테크 규제 비용 급증 — 이익에 직접 타격",
-     "affected": "메타, 빅테크",
-     "important": true,
-     "important_tag": "산업·실적",
-     "why_important": "메타에 역대 최대 250억 달러 벌금 — 빅테크 규제 비용이 이익을 직접 깎는 수준으로 커짐"
-    }
-   },
-   {
-    "id": "6cc7b11761",
-    "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
-    "url": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/22 05:57",
-    "published_iso": "2026-10-22T05:57:22+09:00",
-    "sort_key": 1792616242.0,
-    "excerpt": "A deal would consolidate Elon Musk’s holdings in rockets, cars and artificial intelligence into a company worth well over $3 trillion.",
-    "matched": [
-     "TSLA"
-    ],
-    "analysis": {
-     "summary": "머스크가 스페이스X·테슬라 합병을 검토 중이라고 확인 — 합치면 3조 달러 이상(앞 기사와 비슷한 내용)",
-     "impact": "테슬라 변동성 확대",
-     "affected": "테슬라"
-    }
-   },
-   {
-    "id": "de60c5d9a9",
-    "title": "France Riots Expose the Rage Aimed at Dior, Hermès and Other Luxury Brands",
-    "url": "https://www.nytimes.com/2026/10/21/style/france-riots-luxury-dior-hermes.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/22 05:03",
-    "published_iso": "2026-10-22T05:03:25+09:00",
-    "sort_key": 1792613005.0,
-    "excerpt": "The looting of stores belonging to brands like Dior, Celine and Hermès has exposed a crack in the glossy facade.",
-    "matched": [],
-    "analysis": {
-     "summary": "프랑스 시위에서 디올·에르메스 매장이 약탈당하며 명품 브랜드에 대한 분노가 드러남",
-     "impact": "유럽 명품 업체 단기 부담",
-     "affected": "유럽 명품주"
-    }
-   },
-   {
-    "id": "e3dbce13ab",
-    "title": "Websites taken down worldwide as critical cyber-security update issued",
-    "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/22 04:54",
-    "published_iso": "2026-10-22T04:54:57+09:00",
-    "sort_key": 1792612497.0,
-    "excerpt": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
-    "matched": [],
-    "analysis": {
-     "summary": "PHP 언어에서 AI가 찾은 역대급 보안 취약점으로 전 세계 웹사이트가 내려가고 긴급 업데이트",
-     "impact": "인터넷 서비스 장애·보안 비용 증가",
-     "affected": "웹 호스팅, 보안 업체",
-     "important": true,
-     "important_tag": "산업·실적",
-     "why_important": "PHP에서 역대급 보안 취약점 — 전 세계 웹사이트가 내려가 인터넷 서비스 전반에 영향"
-    }
-   },
-   {
-    "id": "0c85670029",
-    "title": "U.S. to Tap Heating Oil Reserves Ahead of Midterm Elections",
-    "url": "https://www.nytimes.com/2026/10/21/business/heating-oil-emergency-reserve-prices.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/22 04:50",
-    "published_iso": "2026-10-22T04:50:08+09:00",
-    "sort_key": 1792612208.0,
-    "excerpt": "The Trump administration will release 315,000 barrels of heating oil, but analysts say the amount is too small to make much of a difference.",
-    "matched": [],
-    "analysis": {
-     "summary": "미국이 중간선거 앞두고 난방유 비축분 31.5만 배럴 방출 — 양이 적어 효과는 미미하다는 평가",
-     "impact": "시장 영향은 제한적",
-     "affected": "난방유 가격"
-    }
-   },
-   {
-    "id": "75bbc9e754",
-    "title": "GM Aims to Bring ‘Eyes-Off’ Driving to AI-Powered Cars Within 2 Years",
-    "url": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/22 03:23",
-    "published_iso": "2026-10-22T03:23:52+09:00",
-    "sort_key": 1792607032.0,
-    "excerpt": "General Motors is seeking help from artificial intelligence to keep up with Chinese companies that introduce vehicles very quickly.",
-    "matched": [],
-    "analysis": {
-     "summary": "GM이 2년 안에 '눈을 떼도 되는' 자율주행을 AI로 도입하겠다고 발표",
-     "impact": "자율주행 경쟁 가속",
-     "affected": "GM, 자율주행"
-    }
-   },
-   {
-    "id": "beb3a5aedb",
-    "title": "Alaska’s Journalists Join Forces to Cover the Midterms",
-    "url": "https://www.nytimes.com/2026/10/21/business/media/alaska-journalists-sullivan-peltola-senate.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/22 01:20",
-    "published_iso": "2026-10-22T01:20:25+09:00",
-    "sort_key": 1792599625.0,
-    "excerpt": "The state’s challenging geography and newspapers’ broader economic struggles have stretched reporters in Alaska, just as its competitive U.S. Senate race has grabbed national attention.",
-    "matched": [],
-    "analysis": {
-     "summary": "알래스카 언론사들이 중간선거 취재에 힘을 모음",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "ede60000a8",
-    "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-    "url": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-    "source": "CNBC Finance",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/22 00:30",
-    "published_iso": "2026-10-22T00:30:50+09:00",
-    "sort_key": 1792596650.0,
-    "excerpt": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
-    "matched": [],
-    "analysis": {
-     "summary": "골드만삭스·JP모건·모건스탠리가 올해 주식 거래 수익 520억 달러로 시장의 80% 차지",
-     "impact": "대형 투자은행 실적 호조, 헤지펀드 신용 거래 증가는 위험 신호",
-     "affected": "대형 투자은행"
-    }
-   },
-   {
-    "id": "7f3e7607f2",
-    "title": "SpaceX Boosts the A.I. Rally",
-    "url": "https://www.nytimes.com/2026/10/21/business/dealbook/spacex-musk-tesla.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/21 22:37",
-    "published_iso": "2026-10-21T22:37:04+09:00",
-    "sort_key": 1792589824.0,
-    "excerpt": "Tech stocks are up after the rocket and artificial intelligence company beat earnings estimates — and Elon Musk confirmed it is weighing a deal with Tesla.",
-    "matched": [],
-    "analysis": {
-     "summary": "스페이스X 실적이 예상을 넘고 테슬라 합병 검토가 확인되며 기술주 상승",
-     "impact": "AI·기술주 상승 흐름 강화",
-     "affected": "기술주, 테슬라"
-    }
-   },
-   {
-    "id": "77a2eff440",
-    "title": "How The New York Times Reports on A.I. Images",
-    "url": "https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/21 22:21",
-    "published_iso": "2026-10-21T22:21:54+09:00",
-    "sort_key": 1792588914.0,
-    "excerpt": "A Times reporter and editors discuss the challenges of sifting through what’s real and what’s not in pursuit of the news.",
-    "matched": [],
-    "analysis": {
-     "summary": "뉴욕타임스가 AI 이미지를 어떻게 검증해 보도하는지 소개",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "f21574e7ce",
-    "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
-    "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/21 19:20",
-    "published_iso": "2026-10-21T19:20:15+09:00",
-    "sort_key": 1792578015.0,
-    "excerpt": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
-    "matched": [],
-    "analysis": {
-     "summary": "영국 물가·재정 적자 지표가 재무장관 예산안의 제약을 보여줌",
-     "impact": "영국 재정 긴축 압력",
-     "affected": "영국 국채, 파운드화"
-    }
-   }
   ],
-  "국내 경제언론": [
-   {
-    "id": "cac21597a8",
-    "title": "엑스페릭스, 20억 제3자배정 유상증자",
-    "url": "https://www.yna.co.kr/view/AKR20261022177400008",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 17:54",
-    "published_iso": "2026-10-22T17:54:48+09:00",
-    "sort_key": 1792659288.0,
-    "excerpt": "(서울=연합뉴스) 코스닥 상장사 엑스페릭스[317770]는 타법인증권취득자금 등 약 20억원을 조달하고자 제3자배정 유상증자를 결정했다고 22일...",
-    "matched": []
-   },
-   {
-    "id": "656ba441e8",
-    "title": "휴맥스 \"알티모빌리티 주식 108억원에 추가취득…지분율 58.3%\"",
-    "url": "https://www.yna.co.kr/view/AKR20261022173700008",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 17:53",
-    "published_iso": "2026-10-22T17:53:03+09:00",
-    "sort_key": 1792659183.0,
-    "excerpt": "(서울=연합뉴스) 코스닥 상장사 휴맥스[115160]는 유무선통신기기 및 방송장비 개발, 제작, 생산. 유통서비스업 업체 알티모빌리티의 주식 2...",
-    "matched": []
-   },
-   {
-    "id": "00590a4bfb",
-    "title": "이찬진 '스페이스X 0주' 野 보상촉구에…\"공감, 제재절차 진행\"",
-    "url": "https://www.yna.co.kr/view/AKR20261022171200002",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 17:52",
-    "published_iso": "2026-10-22T17:52:14+09:00",
-    "sort_key": 1792659134.0,
-    "excerpt": "(서울=연합뉴스) 배영경 강류나 기자 = 이찬진 금융감독원장은 &apos;스페이스X 0주 배정&apos; 사태로 진행해온 미래에셋증권[006800] 현장검사가 2...",
-    "matched": []
-   },
-   {
-    "id": "fa01ef6428",
-    "title": "BNK금융, AI 플랫폼 구축 우선협상대상자에 삼성SDS",
-    "url": "https://www.yna.co.kr/view/AKR20261022175900051",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 17:45",
-    "published_iso": "2026-10-22T17:45:07+09:00",
-    "sort_key": 1792658707.0,
-    "excerpt": "(부산=연합뉴스) 이영재 기자 = BNK금융그룹은 그룹 차원의 디지털 혁신과 업무 생산성 향상을 위해 추진 중인 &apos;그룹 공동 생성형 인공지능(A...",
-    "matched": []
-   },
-   {
-    "id": "42be126aaf",
-    "title": "보험사 해약환급금준비금 64조 '역대 최대'",
-    "url": "https://www.hankyung.com/article/2026102293921",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 17:41",
-    "published_iso": "2026-10-22T17:41:02+09:00",
-    "sort_key": 1792658462.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "96a65054ad",
-    "title": "이재용, UAE 찾아 중동사업 현장 경영",
-    "url": "https://www.hankyung.com/article/2026102294231",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 17:37",
-    "published_iso": "2026-10-22T17:37:58+09:00",
-    "sort_key": 1792658278.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "bda8b8b0dc",
-    "title": "김동선, 한화M&S 1000만주 공개매수",
-    "url": "https://www.hankyung.com/article/2026102294181",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 17:37",
-    "published_iso": "2026-10-22T17:37:43+09:00",
-    "sort_key": 1792658263.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "76cd94a7fa",
-    "title": "삼성전기, 테슬라·엔비디아서 3.6조 투자 받는다",
-    "url": "https://www.hankyung.com/article/2026102294211",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 17:37",
-    "published_iso": "2026-10-22T17:37:13+09:00",
-    "sort_key": 1792658233.0,
-    "excerpt": "",
-    "matched": [
-     "NVDA",
-     "TSLA"
+  "watchlist": [
+    {
+      "name": "삼성전자",
+      "symbol": "005930.KS",
+      "unit": "",
+      "keywords": [
+        "삼성전자",
+        "Samsung Electronics",
+        "삼성 반도체"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 214500.0,
+      "prev_close": 210000.0,
+      "change": 4500.0,
+      "change_pct": 2.14,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1792650611,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "SK하이닉스",
+      "symbol": "000660.KS",
+      "unit": "",
+      "keywords": [
+        "SK하이닉스",
+        "SK Hynix",
+        "하이닉스",
+        "HBM"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 1223000.0,
+      "prev_close": 1262000.0,
+      "change": -39000.0,
+      "change_pct": -3.09,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1792650604,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "현대차",
+      "symbol": "005380.KS",
+      "unit": "",
+      "keywords": [
+        "현대차",
+        "현대자동차",
+        "Hyundai Motor"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 301500.0,
+      "prev_close": 295500.0,
+      "change": 6000.0,
+      "change_pct": 2.03,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1792650601,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "LG에너지솔루션",
+      "symbol": "373220.KS",
+      "unit": "",
+      "keywords": [
+        "LG에너지솔루션",
+        "LG Energy Solution",
+        "이차전지",
+        "배터리"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 390000.0,
+      "prev_close": 402500.0,
+      "change": -12500.0,
+      "change_pct": -3.11,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1792650608,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "NAVER",
+      "symbol": "035420.KS",
+      "unit": "",
+      "keywords": [
+        "네이버",
+        "NAVER"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 176400.0,
+      "prev_close": 173600.0,
+      "change": 2800.0,
+      "change_pct": 1.61,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1792650608,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "엔비디아",
+      "symbol": "NVDA",
+      "unit": "",
+      "keywords": [
+        "엔비디아",
+        "Nvidia",
+        "NVDA"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 221.97,
+      "prev_close": 221.3,
+      "change": 0.67,
+      "change_pct": 0.3,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1792612800,
+      "asof_date": null,
+      "news": [
+        {
+          "id": "76cd94a7fa",
+          "title": "삼성전기, 테슬라·엔비디아서 3.6조 투자 받는다",
+          "url": "https://www.hankyung.com/article/2026102294211",
+          "source": "한국경제",
+          "published_kst": "10/22 17:37"
+        },
+        {
+          "id": "7182998032",
+          "title": "LG이노텍, 엔비디아와 '로봇 눈' 솔루션 개발",
+          "url": "https://www.hankyung.com/article/2026102294201",
+          "source": "한국경제",
+          "published_kst": "10/22 17:36"
+        },
+        {
+          "id": "32145f13e8",
+          "title": "[특징주] 삼성전기, 엔비디아와 파트너십 구축에 장 초반 5%대↑",
+          "url": "https://www.yna.co.kr/view/AKR20261022040800008",
+          "source": "연합뉴스 경제",
+          "published_kst": "10/22 09:20"
+        }
+      ]
+    },
+    {
+      "name": "애플",
+      "symbol": "AAPL",
+      "unit": "",
+      "keywords": [
+        "애플",
+        "Apple",
+        "AAPL"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 343.99,
+      "prev_close": 342.96,
+      "change": 1.03,
+      "change_pct": 0.3,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1792612801,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "테슬라",
+      "symbol": "TSLA",
+      "unit": "",
+      "keywords": [
+        "테슬라",
+        "Tesla",
+        "TSLA"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 386.47,
+      "prev_close": 367.16,
+      "change": 19.31,
+      "change_pct": 5.26,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1792612800,
+      "asof_date": null,
+      "news": [
+        {
+          "id": "76cd94a7fa",
+          "title": "삼성전기, 테슬라·엔비디아서 3.6조 투자 받는다",
+          "url": "https://www.hankyung.com/article/2026102294211",
+          "source": "한국경제",
+          "published_kst": "10/22 17:37"
+        },
+        {
+          "id": "a7d61d6d5e",
+          "title": "\"테슬라·지커·BYD 제쳤다\"…독일서 실력 입증한 기아 전기차",
+          "url": "https://www.hankyung.com/article/202610227551g",
+          "source": "한국경제",
+          "published_kst": "10/22 08:55"
+        },
+        {
+          "id": "ae8d482c13",
+          "title": "테슬라, 3분기 매출 281억 달러…시장 예상치 상회",
+          "url": "https://www.hankyung.com/article/202610227590i",
+          "source": "한국경제",
+          "published_kst": "10/22 08:52"
+        },
+        {
+          "id": "33c6899cb1",
+          "title": "Tesla Profit Slumps as Elon Musk’s Car Company Considers Merging With SpaceX",
+          "url": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html",
+          "source": "NYT Business",
+          "published_kst": "10/22 08:06"
+        },
+        {
+          "id": "6cc7b11761",
+          "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
+          "url": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
+          "source": "NYT Business",
+          "published_kst": "10/22 05:57"
+        }
+      ]
+    },
+    {
+      "name": "마이크로소프트",
+      "symbol": "MSFT",
+      "unit": "",
+      "keywords": [
+        "마이크로소프트",
+        "Microsoft",
+        "MSFT"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 532.95,
+      "prev_close": 533.69,
+      "change": -0.74,
+      "change_pct": -0.14,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1792612801,
+      "asof_date": null,
+      "news": []
+    }
+  ],
+  "news": [
+    {
+      "id": "e3189419e5",
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/22 17:58",
+      "published_iso": "2026-10-22T17:58:08+09:00",
+      "sort_key": 1792659488.0,
+      "excerpt": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+      "matched": [],
+      "analysis": {
+        "summary": "영국 바클레이스 은행이 AI 활용을 늘리며 직원 5%인 5,000명 감원",
+        "impact": "AI로 금융권 인력 감축 흐름 확산",
+        "affected": "바클레이스, 유럽 은행"
+      }
+    },
+    {
+      "id": "cac21597a8",
+      "title": "엑스페릭스, 20억 제3자배정 유상증자",
+      "url": "https://www.yna.co.kr/view/AKR20261022177400008",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 17:54",
+      "published_iso": "2026-10-22T17:54:48+09:00",
+      "sort_key": 1792659288.0,
+      "excerpt": "(서울=연합뉴스) 코스닥 상장사 엑스페릭스[317770]는 타법인증권취득자금 등 약 20억원을 조달하고자 제3자배정 유상증자를 결정했다고 22일...",
+      "matched": [],
+      "analysis": {
+        "summary": "코스닥 엑스페릭스가 20억 원 제3자 배정 유상증자 결정",
+        "impact": "시장 영향은 제한적",
+        "affected": "엑스페릭스"
+      }
+    },
+    {
+      "id": "656ba441e8",
+      "title": "휴맥스 \"알티모빌리티 주식 108억원에 추가취득…지분율 58.3%\"",
+      "url": "https://www.yna.co.kr/view/AKR20261022173700008",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 17:53",
+      "published_iso": "2026-10-22T17:53:03+09:00",
+      "sort_key": 1792659183.0,
+      "excerpt": "(서울=연합뉴스) 코스닥 상장사 휴맥스[115160]는 유무선통신기기 및 방송장비 개발, 제작, 생산. 유통서비스업 업체 알티모빌리티의 주식 2...",
+      "matched": [],
+      "analysis": {
+        "summary": "휴맥스가 알티모빌리티 주식 108억 원어치를 추가 취득해 지분 58.3% 확보",
+        "impact": "시장 영향은 제한적",
+        "affected": "휴맥스"
+      }
+    },
+    {
+      "id": "00590a4bfb",
+      "title": "이찬진 '스페이스X 0주' 野 보상촉구에…\"공감, 제재절차 진행\"",
+      "url": "https://www.yna.co.kr/view/AKR20261022171200002",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 17:52",
+      "published_iso": "2026-10-22T17:52:14+09:00",
+      "sort_key": 1792659134.0,
+      "excerpt": "(서울=연합뉴스) 배영경 강류나 기자 = 이찬진 금융감독원장은 &apos;스페이스X 0주 배정&apos; 사태로 진행해온 미래에셋증권[006800] 현장검사가 2...",
+      "matched": [],
+      "analysis": {
+        "summary": "금감원장이 미래에셋증권 '스페이스X 0주 배정' 사태에 제재 절차 진행 중이라고 밝힘",
+        "impact": "증권사 제재 위험",
+        "affected": "미래에셋증권"
+      }
+    },
+    {
+      "id": "fa01ef6428",
+      "title": "BNK금융, AI 플랫폼 구축 우선협상대상자에 삼성SDS",
+      "url": "https://www.yna.co.kr/view/AKR20261022175900051",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 17:45",
+      "published_iso": "2026-10-22T17:45:07+09:00",
+      "sort_key": 1792658707.0,
+      "excerpt": "(부산=연합뉴스) 이영재 기자 = BNK금융그룹은 그룹 차원의 디지털 혁신과 업무 생산성 향상을 위해 추진 중인 &apos;그룹 공동 생성형 인공지능(A...",
+      "matched": [],
+      "analysis": {
+        "summary": "BNK금융이 그룹 AI 플랫폼 구축 우선협상대상자로 삼성SDS 선정",
+        "impact": "시장 영향은 제한적",
+        "affected": "삼성SDS, BNK금융"
+      }
+    },
+    {
+      "id": "42be126aaf",
+      "title": "보험사 해약환급금준비금 64조 '역대 최대'",
+      "url": "https://www.hankyung.com/article/2026102293921",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 17:41",
+      "published_iso": "2026-10-22T17:41:02+09:00",
+      "sort_key": 1792658462.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "보험사 해약환급금준비금이 64조 원으로 역대 최대",
+        "impact": "보험사 배당 여력 제약 요인",
+        "affected": "보험주"
+      }
+    },
+    {
+      "id": "96a65054ad",
+      "title": "이재용, UAE 찾아 중동사업 현장 경영",
+      "url": "https://www.hankyung.com/article/2026102294231",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 17:37",
+      "published_iso": "2026-10-22T17:37:58+09:00",
+      "sort_key": 1792658278.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "이재용 회장이 UAE를 찾아 중동 사업 현장 점검",
+        "impact": "시장 영향은 제한적",
+        "affected": "삼성그룹"
+      }
+    },
+    {
+      "id": "bda8b8b0dc",
+      "title": "김동선, 한화M&S 1000만주 공개매수",
+      "url": "https://www.hankyung.com/article/2026102294181",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 17:37",
+      "published_iso": "2026-10-22T17:37:43+09:00",
+      "sort_key": 1792658263.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "김동선 부사장이 한화M&S 주식 1,000만 주 공개매수",
+        "impact": "시장 영향은 제한적",
+        "affected": "한화그룹"
+      }
+    },
+    {
+      "id": "76cd94a7fa",
+      "title": "삼성전기, 테슬라·엔비디아서 3.6조 투자 받는다",
+      "url": "https://www.hankyung.com/article/2026102294211",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 17:37",
+      "published_iso": "2026-10-22T17:37:13+09:00",
+      "sort_key": 1792658233.0,
+      "excerpt": "",
+      "matched": [
+        "NVDA",
+        "TSLA"
+      ],
+      "analysis": {
+        "summary": "삼성전기가 테슬라·엔비디아로부터 3.6조 원 투자를 받기로 함",
+        "impact": "AI·전기차 부품 공급 확대 기대 — 대형 고객 확보",
+        "affected": "삼성전기, 테슬라, 엔비디아",
+        "important": true,
+        "important_tag": "관심종목",
+        "why_important": "관심종목 테슬라·엔비디아가 삼성전기에 3.6조 원 투자 — AI·전기차 핵심 부품 공급망을 직접 확보"
+      }
+    },
+    {
+      "id": "7182998032",
+      "title": "LG이노텍, 엔비디아와 '로봇 눈' 솔루션 개발",
+      "url": "https://www.hankyung.com/article/2026102294201",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 17:36",
+      "published_iso": "2026-10-22T17:36:55+09:00",
+      "sort_key": 1792658215.0,
+      "excerpt": "",
+      "matched": [
+        "NVDA"
+      ],
+      "analysis": {
+        "summary": "LG이노텍이 엔비디아와 로봇용 '눈'(카메라 센서) 솔루션 개발",
+        "impact": "로봇 부품 시장 진출 기대",
+        "affected": "LG이노텍, 엔비디아"
+      }
+    },
+    {
+      "id": "827eef925c",
+      "title": "삼성E&A, 수주·영업익 모두 연간 목표 초과 달성",
+      "url": "https://www.hankyung.com/article/2026102294171",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 17:36",
+      "published_iso": "2026-10-22T17:36:36+09:00",
+      "sort_key": 1792658196.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "삼성E&A가 수주·영업이익 모두 연간 목표를 넘어섬",
+        "impact": "실적 개선",
+        "affected": "삼성E&A"
+      }
+    },
+    {
+      "id": "fc7c0019f7",
+      "title": "국세청, 신세계 세무조사…오너 친인척 '특혜 거래' 의혹",
+      "url": "https://www.hankyung.com/article/202610229303g",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 17:32",
+      "published_iso": "2026-10-22T17:32:24+09:00",
+      "sort_key": 1792657944.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "국세청이 신세계 세무조사 — 오너 친인척 특혜 거래 의혹",
+        "impact": "지배구조 우려",
+        "affected": "신세계"
+      }
+    },
+    {
+      "id": "7f474ca776",
+      "title": "[단독] HD현대, 美 키윗과 합작법인 세운다… '마스가 1호 펀드' 수혜 유력",
+      "url": "https://www.hankyung.com/article/202610229024i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 17:31",
+      "published_iso": "2026-10-22T17:31:55+09:00",
+      "sort_key": 1792657915.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "HD현대가 미국 건설사 키윗과 합작법인 설립 추진 — 한미 조선 협력 펀드 수혜 기대",
+        "impact": "미국 조선 사업 확대 기대",
+        "affected": "HD현대, 조선주"
+      }
+    },
+    {
+      "id": "ecaf449cd3",
+      "title": "이억원 \"가계부채 리스크에 총량 규제 필요…방법 보완 검토\"",
+      "url": "https://www.yna.co.kr/view/AKR20261022169300002",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 17:28",
+      "published_iso": "2026-10-22T17:28:10+09:00",
+      "sort_key": 1792657690.0,
+      "excerpt": "(서울=연합뉴스) 강수련 강류나 기자 = 이억원 금융위원장은 22일 가계대출 총량 규제의 필요성을 강조하면서도, 은행권 &apos;자율&apos;에 맡기는 규제 ...",
+      "matched": [],
+      "analysis": {
+        "summary": "금융위원장이 가계부채 위험 때문에 대출 총량 규제가 필요하다며 방법 보완을 검토",
+        "impact": "가계대출 증가 억제 — 부동산·은행 대출 성장에 부담",
+        "affected": "은행주, 부동산",
+        "important": true,
+        "important_tag": "정책·무역",
+        "why_important": "금융위원장이 가계대출 총량 규제 필요성 강조 — 대출 증가를 묶으면 부동산·은행 실적에 영향"
+      }
+    },
+    {
+      "id": "6a843576ad",
+      "title": "금융위원장 \"산업은행 부산 이전, 국회에서 결정할것\"(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261022163951051",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 17:25",
+      "published_iso": "2026-10-22T17:25:23+09:00",
+      "sort_key": 1792657523.0,
+      "excerpt": "(부산·서울=연합뉴스) 민영규 김지연 기자 = 이억원 금융위원장은 22일 한국산업은행 부산 이전 문제를 두고 &quot;국회에서 결정할 사항...",
+      "matched": [],
+      "analysis": {
+        "summary": "금융위원장이 산업은행 부산 이전은 국회가 결정할 일이라고 언급",
+        "impact": "시장 영향은 제한적",
+        "affected": "산업은행"
+      }
+    },
+    {
+      "id": "b972167f6a",
+      "title": "[게시판] 전국 대학 6곳서 '찾아가는 소방 인재 채용설명회' 개최",
+      "url": "https://www.yna.co.kr/view/AKR20261022170300530",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 17:20",
+      "published_iso": "2026-10-22T17:20:24+09:00",
+      "sort_key": 1792657224.0,
+      "excerpt": "▲ 소방청은 22일 덕성여대를 시작으로 전국 대학 6곳에서 소방공무원 채용에 관한 생생한 정보를 전하는 &apos;찾아가는 소방 인재 채용설명회&apos;를 개최...",
+      "matched": [],
+      "analysis": {
+        "summary": "소방청이 전국 대학 6곳에서 채용설명회 개최",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "039764be6a",
+      "title": "강호동 농협회장 \"농민단체 요구만으론 직선제 수용 안 했을 것\"",
+      "url": "https://www.yna.co.kr/view/AKR20261022168300030",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 17:16",
+      "published_iso": "2026-10-22T17:16:39+09:00",
+      "sort_key": 1792656999.0,
+      "excerpt": "(서울=연합뉴스) 김세린 기자 = 강호동 농협중앙회장은 22일 회장 선출 방식을 전체 조합원 직선제로 바꾸는 농협법 개정안과 관련해 농민단체의 ...",
+      "matched": [],
+      "analysis": {
+        "summary": "농협회장이 회장 직선제 수용 배경을 설명",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "c75360ac72",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/22 15:24",
+      "published_iso": "2026-10-22T15:24:59+09:00",
+      "sort_key": 1792650299.0,
+      "excerpt": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "matched": [],
+      "analysis": {
+        "summary": "PHP가 무엇이고 왜 전 세계 보안 비상이 걸렸는지 설명한 기사(아침 기사와 같은 내용)",
+        "impact": "인터넷 서비스 보안 비용 증가",
+        "affected": "웹 호스팅, 보안 업체"
+      }
+    },
+    {
+      "id": "65a5b1875b",
+      "title": "Is an 'AI war' complicating your job search?",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/22 14:01",
+      "published_iso": "2026-10-22T14:01:31+09:00",
+      "sort_key": 1792645291.0,
+      "excerpt": "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?",
+      "matched": [],
+      "analysis": {
+        "summary": "AI 채용 도구가 구직을 더 어렵게 만드는지 다룬 기사",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "d761895002",
+      "title": "No order, no seat: Starbucks China rolls out new store policy",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/22 13:02",
+      "published_iso": "2026-10-22T13:02:29+09:00",
+      "sort_key": 1792641749.0,
+      "excerpt": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+      "matched": [],
+      "analysis": {
+        "summary": "스타벅스 중국이 '주문해야 좌석 이용' 정책 도입 — 현지 경쟁사와 경쟁 심화",
+        "impact": "스타벅스 중국 사업 경쟁 압박",
+        "affected": "스타벅스"
+      }
+    },
+    {
+      "id": "2a3370c579",
+      "title": "Looted Goods From French Stores Appear on Resale Sites After Riots",
+      "url": "https://www.nytimes.com/2026/10/22/business/france-riots-looting-resale.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/22 13:00",
+      "published_iso": "2026-10-22T13:00:06+09:00",
+      "sort_key": 1792641606.0,
+      "excerpt": "Officials in France are pressing online platforms like eBay and Vinted to remove items that were stolen during public disturbances over the weekend.",
+      "matched": [],
+      "analysis": {
+        "summary": "프랑스 시위 때 약탈된 물건이 중고 거래 사이트에 올라옴",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "527c8c44f7",
+      "title": "특성화고 졸업 후 취업…안산시, '직업교육 혁신지구' 협약",
+      "url": "https://www.yna.co.kr/view/AKR20261022047600061",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 09:35",
+      "published_iso": "2026-10-22T09:35:03+09:00",
+      "sort_key": 1792629303.0,
+      "excerpt": "(안산=연합뉴스) 최해민 기자 = 경기 안산시는 관내 기업 50곳, 특성화고등학교 6곳 등과 &apos;안산루트 직업교육 혁신지구 업무협약&apos;을 체결했다고...",
+      "matched": [],
+      "analysis": {
+        "summary": "안산시가 기업 50곳·특성화고 6곳과 직업교육 혁신지구 협약",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "8f26206c53",
+      "title": "[게시판] 토스뱅크 '키워봐요 31일 적금' 60만좌 넘게 가입",
+      "url": "https://www.yna.co.kr/view/AKR20261022047100002",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 09:34",
+      "published_iso": "2026-10-22T09:34:41+09:00",
+      "sort_key": 1792629281.0,
+      "excerpt": "▲ 토스뱅크는 지난 8월 출시한 &apos;키워봐요 31일 적금&apos;의 누적 개설 계좌가 60만좌를 넘겼다고 22일 밝혔다. &apos;키워봐요 31일적금&apos;은 31일...",
+      "matched": [],
+      "analysis": {
+        "summary": "토스뱅크 '키워봐요 31일 적금' 가입 60만 계좌 돌파",
+        "impact": "시장 영향은 제한적",
+        "affected": "인터넷은행"
+      }
+    },
+    {
+      "id": "069c28a808",
+      "title": "하나은행·카드, 동국제강과 철강재 구매기업 금융 지원",
+      "url": "https://www.yna.co.kr/view/AKR20261022046000002",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 09:33",
+      "published_iso": "2026-10-22T09:33:58+09:00",
+      "sort_key": 1792629238.0,
+      "excerpt": "(서울=연합뉴스) 채새롬 기자 = 하나은행과 하나카드는 동국제강[460860]과 철강재 구매기업의 공급망 금융 지원 강화를 위한 업무협약을 체결...",
+      "matched": [],
+      "analysis": {
+        "summary": "하나은행·카드가 동국제강과 철강재 구매기업 금융 지원 협약",
+        "impact": "시장 영향은 제한적",
+        "affected": "하나금융, 동국제강"
+      }
+    },
+    {
+      "id": "eb235e289c",
+      "title": "GS건설, 호주 오스넷과 손잡고 에너지 인프라 사업 확대",
+      "url": "https://www.yna.co.kr/view/AKR20261022042000003",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 09:32",
+      "published_iso": "2026-10-22T09:32:13+09:00",
+      "sort_key": 1792629133.0,
+      "excerpt": "(세종=연합뉴스) 오진송 기자 = GS건설이 호주 전력망 운영사 오스넷(AusNet)과 손잡고 현지 에너지 인프라 사업 확대에 나선다.",
+      "matched": [],
+      "analysis": {
+        "summary": "GS건설이 호주 전력망 운영사 오스넷과 에너지 인프라 사업 확대",
+        "impact": "해외 수주 기대, 영향은 제한적",
+        "affected": "GS건설"
+      }
+    },
+    {
+      "id": "e7bfa9d42c",
+      "title": "한투부동산신탁, 양평동4가 도심복합개발사업 운영위와 MOU",
+      "url": "https://www.yna.co.kr/view/AKR20261022045300008",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 09:29",
+      "published_iso": "2026-10-22T09:29:09+09:00",
+      "sort_key": 1792628949.0,
+      "excerpt": "(서울=연합뉴스) 임은진 기자 = 한국금융지주[071050]의 자회사인 한국투자부동산신탁은 서울 영등포구 양평동4가 247번지 일대에 추진 중인...",
+      "matched": [],
+      "analysis": {
+        "summary": "한국투자부동산신탁이 양평동 도심복합개발사업 운영위와 업무협약",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "e3666fbc65",
+      "title": "넥스트증권, 글로벌 차트플랫폼 '트레이딩뷰'와 파트너십",
+      "url": "https://www.yna.co.kr/view/AKR20261022042600008",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 09:23",
+      "published_iso": "2026-10-22T09:23:59+09:00",
+      "sort_key": 1792628639.0,
+      "excerpt": "(서울=연합뉴스) 김유향 기자 = 넥스트증권은 글로벌 차트 플랫폼인 트레이딩뷰(TradingView)와 차트 제공을 위한 파트너십을 체결했다고 ...",
+      "matched": [],
+      "analysis": {
+        "summary": "넥스트증권이 차트 플랫폼 트레이딩뷰와 파트너십",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "ad356acf40",
+      "title": "'단종의 밥상' 세계에 알린다…29일 영월서 글로벌 한식포럼",
+      "url": "https://www.yna.co.kr/view/AKR20261022038100371",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 09:22",
+      "published_iso": "2026-10-22T09:22:09+09:00",
+      "sort_key": 1792628529.0,
+      "excerpt": "(서울=연합뉴스) 박현수 기자 = 조선 비운의 임금 단종의 역사를 품은 강원 영월의 향토 음식이 세계인의 식탁에 오르기 위한 도전에 나선다.",
+      "matched": [],
+      "analysis": {
+        "summary": "영월 향토 음식을 알리는 글로벌 한식포럼 개최",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "32145f13e8",
+      "title": "[특징주] 삼성전기, 엔비디아와 파트너십 구축에 장 초반 5%대↑",
+      "url": "https://www.yna.co.kr/view/AKR20261022040800008",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 09:20",
+      "published_iso": "2026-10-22T09:20:02+09:00",
+      "sort_key": 1792628402.0,
+      "excerpt": "(서울=연합뉴스) 황철환 기자 = 삼성전기[009150]가 22일 장 초반 5%대의 상승세를 보인다.",
+      "matched": [
+        "NVDA"
+      ],
+      "analysis": {
+        "summary": "삼성전기가 엔비디아와 파트너십 구축 소식에 장 초반 5%대 상승",
+        "impact": "AI 부품 공급 기대",
+        "affected": "삼성전기, 엔비디아 공급망"
+      }
+    },
+    {
+      "id": "0bd8d64f92",
+      "title": "(보도설명) 정부는 할당관세의 물가안정 효과를 높이기 위한 제도개선을 지속 추진 중입니다.",
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079736",
+      "source": "재정경제부 보도자료",
+      "group": "국내 정책당국",
+      "lang": "ko",
+      "published_kst": "10/22 09:00",
+      "published_iso": "2026-10-22T09:00:00+09:00",
+      "sort_key": 1792627200.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "정부가 할당관세의 물가 안정 효과를 높이도록 제도 개선을 추진 중이라고 설명",
+        "impact": "시장 영향은 제한적",
+        "affected": "수입 물가"
+      }
+    },
+    {
+      "id": "a7d61d6d5e",
+      "title": "\"테슬라·지커·BYD 제쳤다\"…독일서 실력 입증한 기아 전기차",
+      "url": "https://www.hankyung.com/article/202610227551g",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 08:55",
+      "published_iso": "2026-10-22T08:55:42+09:00",
+      "sort_key": 1792626942.0,
+      "excerpt": "",
+      "matched": [
+        "TSLA"
+      ],
+      "analysis": {
+        "summary": "기아 전기차가 독일 평가에서 테슬라·BYD 등을 제침",
+        "impact": "시장 영향은 제한적",
+        "affected": "기아"
+      }
+    },
+    {
+      "id": "cb282809d1",
+      "title": "3시간 만에 티켓 동났다…6500명 몰린 성수동 '이곳'",
+      "url": "https://www.hankyung.com/article/202610227537g",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 08:52",
+      "published_iso": "2026-10-22T08:52:32+09:00",
+      "sort_key": 1792626752.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "성수동 팝업 행사 티켓이 3시간 만에 매진",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "ae8d482c13",
+      "title": "테슬라, 3분기 매출 281억 달러…시장 예상치 상회",
+      "url": "https://www.hankyung.com/article/202610227590i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 08:52",
+      "published_iso": "2026-10-22T08:52:10+09:00",
+      "sort_key": 1792626730.0,
+      "excerpt": "",
+      "matched": [
+        "TSLA"
+      ],
+      "analysis": {
+        "summary": "테슬라 3분기 매출 281억 달러로 시장 예상 상회",
+        "impact": "매출은 예상보다 좋았지만 이익은 별도로 확인 필요",
+        "affected": "테슬라"
+      }
+    },
+    {
+      "id": "5be04f9e06",
+      "title": "중동 원유 수출 하루 2460만 배럴…전쟁 전 수준 회복",
+      "url": "https://www.hankyung.com/article/202610227543i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 08:39",
+      "published_iso": "2026-10-22T08:39:33+09:00",
+      "sort_key": 1792625973.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "중동 원유 수출이 하루 2,460만 배럴로 전쟁 전 수준 회복",
+        "impact": "원유 공급 정상화 — 유가 하락 압력, 물가 부담 완화",
+        "affected": "국제 유가, 정유·항공, 물가",
+        "important": true,
+        "important_tag": "거시경제",
+        "why_important": "중동 원유 수출이 전쟁 전 수준 회복 — 유가 하락으로 물가 부담이 줄어들 수 있음"
+      }
+    },
+    {
+      "id": "97ef03399b",
+      "title": "\"5명 중 1명 첫 결제\"…여기어때 '비밀 무기' 통했다",
+      "url": "https://www.hankyung.com/article/202610227456g",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 08:32",
+      "published_iso": "2026-10-22T08:32:13+09:00",
+      "sort_key": 1792625533.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "여기어때가 첫 결제 고객을 늘린 마케팅 사례",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "ea74be411b",
+      "title": "25년 전 뺑소니가 발목…32년 연금 날릴 뻔한 사연 [일확연금 노후부자]",
+      "url": "https://www.hankyung.com/article/202610189098i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 08:31",
+      "published_iso": "2026-10-22T08:31:03+09:00",
+      "sort_key": 1792625463.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "25년 전 뺑소니 기록 때문에 연금을 잃을 뻔한 사연",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "ff86e658f1",
+      "title": "The \"trillion pound\" oil fund the government believes Britain could have built",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/22 08:27",
+      "published_iso": "2026-10-22T08:27:05+09:00",
+      "sort_key": 1792625225.0,
+      "excerpt": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+      "matched": [],
+      "analysis": {
+        "summary": "영국이 북해 석유 수익을 국부펀드로 굴렸다면 1조 파운드였을 거라는 재무부 계산",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "995f1f94f0",
+      "title": "빈폴골프, 여성 점퍼 매출 336% '껑충'…시착 마케팅 강화",
+      "url": "https://www.hankyung.com/article/202610227448g",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 08:26",
+      "published_iso": "2026-10-22T08:26:29+09:00",
+      "sort_key": 1792625189.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "빈폴골프 여성 점퍼 매출이 336% 증가",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "059632669e",
+      "title": "한 달 만에 16만개 동났다…편의점 점령한 일본 과자",
+      "url": "https://www.hankyung.com/article/202610227415g",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/22 08:14",
+      "published_iso": "2026-10-22T08:14:48+09:00",
+      "sort_key": 1792624488.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "일본 과자가 한 달 만에 편의점에서 16만 개 팔림",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "b2e6ea5705",
+      "title": "The grads ditching the UK for a fresh start abroad",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/22 08:12",
+      "published_iso": "2026-10-22T08:12:06+09:00",
+      "sort_key": 1792624326.0,
+      "excerpt": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
+      "matched": [],
+      "analysis": {
+        "summary": "영국 대졸 일자리가 부족해 해외로 떠나려는 청년이 늘어남",
+        "impact": "영국 청년 고용 부진 신호",
+        "affected": "영국 고용"
+      }
+    },
+    {
+      "id": "33c6899cb1",
+      "title": "Tesla Profit Slumps as Elon Musk’s Car Company Considers Merging With SpaceX",
+      "url": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/22 08:06",
+      "published_iso": "2026-10-22T08:06:24+09:00",
+      "sort_key": 1792623984.0,
+      "excerpt": "The carmaker, which is controlled by Elon Musk and is considering merging with another of his companies, SpaceX, spent heavily on artificial intelligence and other new technologies.",
+      "matched": [
+        "TSLA"
+      ],
+      "analysis": {
+        "summary": "테슬라 이익이 크게 줄어듦 — AI 등 신기술에 많이 쓰는 와중에 스페이스X와 합병 검토",
+        "impact": "이익 감소와 합병 불확실성으로 주가 변동성 확대",
+        "affected": "테슬라",
+        "important": true,
+        "important_tag": "관심종목",
+        "why_important": "관심종목 테슬라 — 3분기 매출은 예상 이상이지만 이익이 크게 줄어듦, 스페이스X 합병도 검토 중"
+      }
+    },
+    {
+      "id": "db9fc146b7",
+      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+      "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/22 07:54",
+      "published_iso": "2026-10-22T07:54:58+09:00",
+      "sort_key": 1792623298.0,
+      "excerpt": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+      "matched": [],
+      "analysis": {
+        "summary": "에어비앤비가 숙박객에게 침구 정리·설거지를 요구하지 못하게 규정 변경",
+        "impact": "시장 영향 없음",
+        "affected": "에어비앤비"
+      }
+    },
+    {
+      "id": "b12f081e1b",
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/22 06:49",
+      "published_iso": "2026-10-22T06:49:07+09:00",
+      "sort_key": 1792619347.0,
+      "excerpt": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+      "matched": [],
+      "analysis": {
+        "summary": "메타가 개인정보 관련 '거짓말'로 역대 최대 250억 달러 벌금",
+        "impact": "빅테크 규제 비용 급증 — 이익에 직접 타격",
+        "affected": "메타, 빅테크",
+        "important": true,
+        "important_tag": "산업·실적",
+        "why_important": "메타에 역대 최대 250억 달러 벌금 — 빅테크 규제 비용이 이익을 직접 깎는 수준으로 커짐"
+      }
+    },
+    {
+      "id": "6cc7b11761",
+      "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
+      "url": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/22 05:57",
+      "published_iso": "2026-10-22T05:57:22+09:00",
+      "sort_key": 1792616242.0,
+      "excerpt": "A deal would consolidate Elon Musk’s holdings in rockets, cars and artificial intelligence into a company worth well over $3 trillion.",
+      "matched": [
+        "TSLA"
+      ],
+      "analysis": {
+        "summary": "머스크가 스페이스X·테슬라 합병을 검토 중이라고 확인 — 합치면 3조 달러 이상(앞 기사와 비슷한 내용)",
+        "impact": "테슬라 변동성 확대",
+        "affected": "테슬라"
+      }
+    },
+    {
+      "id": "de60c5d9a9",
+      "title": "France Riots Expose the Rage Aimed at Dior, Hermès and Other Luxury Brands",
+      "url": "https://www.nytimes.com/2026/10/21/style/france-riots-luxury-dior-hermes.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/22 05:03",
+      "published_iso": "2026-10-22T05:03:25+09:00",
+      "sort_key": 1792613005.0,
+      "excerpt": "The looting of stores belonging to brands like Dior, Celine and Hermès has exposed a crack in the glossy facade.",
+      "matched": [],
+      "analysis": {
+        "summary": "프랑스 시위에서 디올·에르메스 매장이 약탈당하며 명품 브랜드에 대한 분노가 드러남",
+        "impact": "유럽 명품 업체 단기 부담",
+        "affected": "유럽 명품주"
+      }
+    },
+    {
+      "id": "e3dbce13ab",
+      "title": "Websites taken down worldwide as critical cyber-security update issued",
+      "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/22 04:54",
+      "published_iso": "2026-10-22T04:54:57+09:00",
+      "sort_key": 1792612497.0,
+      "excerpt": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+      "matched": [],
+      "analysis": {
+        "summary": "PHP 언어에서 AI가 찾은 역대급 보안 취약점으로 전 세계 웹사이트가 내려가고 긴급 업데이트",
+        "impact": "인터넷 서비스 장애·보안 비용 증가",
+        "affected": "웹 호스팅, 보안 업체",
+        "important": true,
+        "important_tag": "산업·실적",
+        "why_important": "PHP에서 역대급 보안 취약점 — 전 세계 웹사이트가 내려가 인터넷 서비스 전반에 영향"
+      }
+    },
+    {
+      "id": "0c85670029",
+      "title": "U.S. to Tap Heating Oil Reserves Ahead of Midterm Elections",
+      "url": "https://www.nytimes.com/2026/10/21/business/heating-oil-emergency-reserve-prices.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/22 04:50",
+      "published_iso": "2026-10-22T04:50:08+09:00",
+      "sort_key": 1792612208.0,
+      "excerpt": "The Trump administration will release 315,000 barrels of heating oil, but analysts say the amount is too small to make much of a difference.",
+      "matched": [],
+      "analysis": {
+        "summary": "미국이 중간선거 앞두고 난방유 비축분 31.5만 배럴 방출 — 양이 적어 효과는 미미하다는 평가",
+        "impact": "시장 영향은 제한적",
+        "affected": "난방유 가격"
+      }
+    },
+    {
+      "id": "75bbc9e754",
+      "title": "GM Aims to Bring ‘Eyes-Off’ Driving to AI-Powered Cars Within 2 Years",
+      "url": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/22 03:23",
+      "published_iso": "2026-10-22T03:23:52+09:00",
+      "sort_key": 1792607032.0,
+      "excerpt": "General Motors is seeking help from artificial intelligence to keep up with Chinese companies that introduce vehicles very quickly.",
+      "matched": [],
+      "analysis": {
+        "summary": "GM이 2년 안에 '눈을 떼도 되는' 자율주행을 AI로 도입하겠다고 발표",
+        "impact": "자율주행 경쟁 가속",
+        "affected": "GM, 자율주행"
+      }
+    },
+    {
+      "id": "beb3a5aedb",
+      "title": "Alaska’s Journalists Join Forces to Cover the Midterms",
+      "url": "https://www.nytimes.com/2026/10/21/business/media/alaska-journalists-sullivan-peltola-senate.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/22 01:20",
+      "published_iso": "2026-10-22T01:20:25+09:00",
+      "sort_key": 1792599625.0,
+      "excerpt": "The state’s challenging geography and newspapers’ broader economic struggles have stretched reporters in Alaska, just as its competitive U.S. Senate race has grabbed national attention.",
+      "matched": [],
+      "analysis": {
+        "summary": "알래스카 언론사들이 중간선거 취재에 힘을 모음",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "ede60000a8",
+      "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+      "url": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+      "source": "CNBC Finance",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/22 00:30",
+      "published_iso": "2026-10-22T00:30:50+09:00",
+      "sort_key": 1792596650.0,
+      "excerpt": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
+      "matched": [],
+      "analysis": {
+        "summary": "골드만삭스·JP모건·모건스탠리가 올해 주식 거래 수익 520억 달러로 시장의 80% 차지",
+        "impact": "대형 투자은행 실적 호조, 헤지펀드 신용 거래 증가는 위험 신호",
+        "affected": "대형 투자은행"
+      }
+    },
+    {
+      "id": "7f3e7607f2",
+      "title": "SpaceX Boosts the A.I. Rally",
+      "url": "https://www.nytimes.com/2026/10/21/business/dealbook/spacex-musk-tesla.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/21 22:37",
+      "published_iso": "2026-10-21T22:37:04+09:00",
+      "sort_key": 1792589824.0,
+      "excerpt": "Tech stocks are up after the rocket and artificial intelligence company beat earnings estimates — and Elon Musk confirmed it is weighing a deal with Tesla.",
+      "matched": [],
+      "analysis": {
+        "summary": "스페이스X 실적이 예상을 넘고 테슬라 합병 검토가 확인되며 기술주 상승",
+        "impact": "AI·기술주 상승 흐름 강화",
+        "affected": "기술주, 테슬라"
+      }
+    },
+    {
+      "id": "77a2eff440",
+      "title": "How The New York Times Reports on A.I. Images",
+      "url": "https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/21 22:21",
+      "published_iso": "2026-10-21T22:21:54+09:00",
+      "sort_key": 1792588914.0,
+      "excerpt": "A Times reporter and editors discuss the challenges of sifting through what’s real and what’s not in pursuit of the news.",
+      "matched": [],
+      "analysis": {
+        "summary": "뉴욕타임스가 AI 이미지를 어떻게 검증해 보도하는지 소개",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "f21574e7ce",
+      "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/21 19:20",
+      "published_iso": "2026-10-21T19:20:15+09:00",
+      "sort_key": 1792578015.0,
+      "excerpt": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
+      "matched": [],
+      "analysis": {
+        "summary": "영국 물가·재정 적자 지표가 재무장관 예산안의 제약을 보여줌",
+        "impact": "영국 재정 긴축 압력",
+        "affected": "영국 국채, 파운드화"
+      }
+    },
+    {
+      "id": "c89c45c477",
+      "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
+      "source": "유럽중앙은행(ECB)",
+      "group": "중앙은행·국제기구",
+      "lang": "en",
+      "published_kst": "10/21 17:00",
+      "published_iso": "2026-10-21T17:00:00+09:00",
+      "sort_key": 1792569600.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "ECB 치폴로네 이사가 은행 결제 인프라 관련 연설",
+        "impact": "시장 영향은 제한적",
+        "affected": "유럽 은행"
+      }
+    }
+  ],
+  "news_groups": {
+    "해외 경제언론": [
+      {
+        "id": "e3189419e5",
+        "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/22 17:58",
+        "published_iso": "2026-10-22T17:58:08+09:00",
+        "sort_key": 1792659488.0,
+        "excerpt": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+        "matched": []
+      },
+      {
+        "id": "c75360ac72",
+        "title": "What is PHP and why did it spark a global cyber-security scramble?",
+        "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/22 15:24",
+        "published_iso": "2026-10-22T15:24:59+09:00",
+        "sort_key": 1792650299.0,
+        "excerpt": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+        "matched": []
+      },
+      {
+        "id": "65a5b1875b",
+        "title": "Is an 'AI war' complicating your job search?",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/22 14:01",
+        "published_iso": "2026-10-22T14:01:31+09:00",
+        "sort_key": 1792645291.0,
+        "excerpt": "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?",
+        "matched": []
+      },
+      {
+        "id": "d761895002",
+        "title": "No order, no seat: Starbucks China rolls out new store policy",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/22 13:02",
+        "published_iso": "2026-10-22T13:02:29+09:00",
+        "sort_key": 1792641749.0,
+        "excerpt": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+        "matched": []
+      },
+      {
+        "id": "2a3370c579",
+        "title": "Looted Goods From French Stores Appear on Resale Sites After Riots",
+        "url": "https://www.nytimes.com/2026/10/22/business/france-riots-looting-resale.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/22 13:00",
+        "published_iso": "2026-10-22T13:00:06+09:00",
+        "sort_key": 1792641606.0,
+        "excerpt": "Officials in France are pressing online platforms like eBay and Vinted to remove items that were stolen during public disturbances over the weekend.",
+        "matched": []
+      },
+      {
+        "id": "ff86e658f1",
+        "title": "The \"trillion pound\" oil fund the government believes Britain could have built",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/22 08:27",
+        "published_iso": "2026-10-22T08:27:05+09:00",
+        "sort_key": 1792625225.0,
+        "excerpt": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+        "matched": [],
+        "analysis": {
+          "summary": "영국이 북해 석유 수익을 국부펀드로 굴렸다면 1조 파운드였을 거라는 재무부 계산",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "b2e6ea5705",
+        "title": "The grads ditching the UK for a fresh start abroad",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/22 08:12",
+        "published_iso": "2026-10-22T08:12:06+09:00",
+        "sort_key": 1792624326.0,
+        "excerpt": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
+        "matched": [],
+        "analysis": {
+          "summary": "영국 대졸 일자리가 부족해 해외로 떠나려는 청년이 늘어남",
+          "impact": "영국 청년 고용 부진 신호",
+          "affected": "영국 고용"
+        }
+      },
+      {
+        "id": "33c6899cb1",
+        "title": "Tesla Profit Slumps as Elon Musk’s Car Company Considers Merging With SpaceX",
+        "url": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/22 08:06",
+        "published_iso": "2026-10-22T08:06:24+09:00",
+        "sort_key": 1792623984.0,
+        "excerpt": "The carmaker, which is controlled by Elon Musk and is considering merging with another of his companies, SpaceX, spent heavily on artificial intelligence and other new technologies.",
+        "matched": [
+          "TSLA"
+        ],
+        "analysis": {
+          "summary": "테슬라 이익이 크게 줄어듦 — AI 등 신기술에 많이 쓰는 와중에 스페이스X와 합병 검토",
+          "impact": "이익 감소와 합병 불확실성으로 주가 변동성 확대",
+          "affected": "테슬라",
+          "important": true,
+          "important_tag": "관심종목",
+          "why_important": "관심종목 테슬라 — 3분기 매출은 예상 이상이지만 이익이 크게 줄어듦, 스페이스X 합병도 검토 중"
+        }
+      },
+      {
+        "id": "db9fc146b7",
+        "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+        "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/22 07:54",
+        "published_iso": "2026-10-22T07:54:58+09:00",
+        "sort_key": 1792623298.0,
+        "excerpt": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+        "matched": [],
+        "analysis": {
+          "summary": "에어비앤비가 숙박객에게 침구 정리·설거지를 요구하지 못하게 규정 변경",
+          "impact": "시장 영향 없음",
+          "affected": "에어비앤비"
+        }
+      },
+      {
+        "id": "b12f081e1b",
+        "title": "Meta fined $25bn for 'lies' over user data privacy",
+        "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/22 06:49",
+        "published_iso": "2026-10-22T06:49:07+09:00",
+        "sort_key": 1792619347.0,
+        "excerpt": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+        "matched": [],
+        "analysis": {
+          "summary": "메타가 개인정보 관련 '거짓말'로 역대 최대 250억 달러 벌금",
+          "impact": "빅테크 규제 비용 급증 — 이익에 직접 타격",
+          "affected": "메타, 빅테크",
+          "important": true,
+          "important_tag": "산업·실적",
+          "why_important": "메타에 역대 최대 250억 달러 벌금 — 빅테크 규제 비용이 이익을 직접 깎는 수준으로 커짐"
+        }
+      },
+      {
+        "id": "6cc7b11761",
+        "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
+        "url": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/22 05:57",
+        "published_iso": "2026-10-22T05:57:22+09:00",
+        "sort_key": 1792616242.0,
+        "excerpt": "A deal would consolidate Elon Musk’s holdings in rockets, cars and artificial intelligence into a company worth well over $3 trillion.",
+        "matched": [
+          "TSLA"
+        ],
+        "analysis": {
+          "summary": "머스크가 스페이스X·테슬라 합병을 검토 중이라고 확인 — 합치면 3조 달러 이상(앞 기사와 비슷한 내용)",
+          "impact": "테슬라 변동성 확대",
+          "affected": "테슬라"
+        }
+      },
+      {
+        "id": "de60c5d9a9",
+        "title": "France Riots Expose the Rage Aimed at Dior, Hermès and Other Luxury Brands",
+        "url": "https://www.nytimes.com/2026/10/21/style/france-riots-luxury-dior-hermes.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/22 05:03",
+        "published_iso": "2026-10-22T05:03:25+09:00",
+        "sort_key": 1792613005.0,
+        "excerpt": "The looting of stores belonging to brands like Dior, Celine and Hermès has exposed a crack in the glossy facade.",
+        "matched": [],
+        "analysis": {
+          "summary": "프랑스 시위에서 디올·에르메스 매장이 약탈당하며 명품 브랜드에 대한 분노가 드러남",
+          "impact": "유럽 명품 업체 단기 부담",
+          "affected": "유럽 명품주"
+        }
+      },
+      {
+        "id": "e3dbce13ab",
+        "title": "Websites taken down worldwide as critical cyber-security update issued",
+        "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/22 04:54",
+        "published_iso": "2026-10-22T04:54:57+09:00",
+        "sort_key": 1792612497.0,
+        "excerpt": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+        "matched": [],
+        "analysis": {
+          "summary": "PHP 언어에서 AI가 찾은 역대급 보안 취약점으로 전 세계 웹사이트가 내려가고 긴급 업데이트",
+          "impact": "인터넷 서비스 장애·보안 비용 증가",
+          "affected": "웹 호스팅, 보안 업체",
+          "important": true,
+          "important_tag": "산업·실적",
+          "why_important": "PHP에서 역대급 보안 취약점 — 전 세계 웹사이트가 내려가 인터넷 서비스 전반에 영향"
+        }
+      },
+      {
+        "id": "0c85670029",
+        "title": "U.S. to Tap Heating Oil Reserves Ahead of Midterm Elections",
+        "url": "https://www.nytimes.com/2026/10/21/business/heating-oil-emergency-reserve-prices.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/22 04:50",
+        "published_iso": "2026-10-22T04:50:08+09:00",
+        "sort_key": 1792612208.0,
+        "excerpt": "The Trump administration will release 315,000 barrels of heating oil, but analysts say the amount is too small to make much of a difference.",
+        "matched": [],
+        "analysis": {
+          "summary": "미국이 중간선거 앞두고 난방유 비축분 31.5만 배럴 방출 — 양이 적어 효과는 미미하다는 평가",
+          "impact": "시장 영향은 제한적",
+          "affected": "난방유 가격"
+        }
+      },
+      {
+        "id": "75bbc9e754",
+        "title": "GM Aims to Bring ‘Eyes-Off’ Driving to AI-Powered Cars Within 2 Years",
+        "url": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/22 03:23",
+        "published_iso": "2026-10-22T03:23:52+09:00",
+        "sort_key": 1792607032.0,
+        "excerpt": "General Motors is seeking help from artificial intelligence to keep up with Chinese companies that introduce vehicles very quickly.",
+        "matched": [],
+        "analysis": {
+          "summary": "GM이 2년 안에 '눈을 떼도 되는' 자율주행을 AI로 도입하겠다고 발표",
+          "impact": "자율주행 경쟁 가속",
+          "affected": "GM, 자율주행"
+        }
+      },
+      {
+        "id": "beb3a5aedb",
+        "title": "Alaska’s Journalists Join Forces to Cover the Midterms",
+        "url": "https://www.nytimes.com/2026/10/21/business/media/alaska-journalists-sullivan-peltola-senate.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/22 01:20",
+        "published_iso": "2026-10-22T01:20:25+09:00",
+        "sort_key": 1792599625.0,
+        "excerpt": "The state’s challenging geography and newspapers’ broader economic struggles have stretched reporters in Alaska, just as its competitive U.S. Senate race has grabbed national attention.",
+        "matched": [],
+        "analysis": {
+          "summary": "알래스카 언론사들이 중간선거 취재에 힘을 모음",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "ede60000a8",
+        "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+        "url": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+        "source": "CNBC Finance",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/22 00:30",
+        "published_iso": "2026-10-22T00:30:50+09:00",
+        "sort_key": 1792596650.0,
+        "excerpt": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
+        "matched": [],
+        "analysis": {
+          "summary": "골드만삭스·JP모건·모건스탠리가 올해 주식 거래 수익 520억 달러로 시장의 80% 차지",
+          "impact": "대형 투자은행 실적 호조, 헤지펀드 신용 거래 증가는 위험 신호",
+          "affected": "대형 투자은행"
+        }
+      },
+      {
+        "id": "7f3e7607f2",
+        "title": "SpaceX Boosts the A.I. Rally",
+        "url": "https://www.nytimes.com/2026/10/21/business/dealbook/spacex-musk-tesla.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/21 22:37",
+        "published_iso": "2026-10-21T22:37:04+09:00",
+        "sort_key": 1792589824.0,
+        "excerpt": "Tech stocks are up after the rocket and artificial intelligence company beat earnings estimates — and Elon Musk confirmed it is weighing a deal with Tesla.",
+        "matched": [],
+        "analysis": {
+          "summary": "스페이스X 실적이 예상을 넘고 테슬라 합병 검토가 확인되며 기술주 상승",
+          "impact": "AI·기술주 상승 흐름 강화",
+          "affected": "기술주, 테슬라"
+        }
+      },
+      {
+        "id": "77a2eff440",
+        "title": "How The New York Times Reports on A.I. Images",
+        "url": "https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/21 22:21",
+        "published_iso": "2026-10-21T22:21:54+09:00",
+        "sort_key": 1792588914.0,
+        "excerpt": "A Times reporter and editors discuss the challenges of sifting through what’s real and what’s not in pursuit of the news.",
+        "matched": [],
+        "analysis": {
+          "summary": "뉴욕타임스가 AI 이미지를 어떻게 검증해 보도하는지 소개",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "f21574e7ce",
+        "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/21 19:20",
+        "published_iso": "2026-10-21T19:20:15+09:00",
+        "sort_key": 1792578015.0,
+        "excerpt": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
+        "matched": [],
+        "analysis": {
+          "summary": "영국 물가·재정 적자 지표가 재무장관 예산안의 제약을 보여줌",
+          "impact": "영국 재정 긴축 압력",
+          "affected": "영국 국채, 파운드화"
+        }
+      }
+    ],
+    "국내 경제언론": [
+      {
+        "id": "cac21597a8",
+        "title": "엑스페릭스, 20억 제3자배정 유상증자",
+        "url": "https://www.yna.co.kr/view/AKR20261022177400008",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 17:54",
+        "published_iso": "2026-10-22T17:54:48+09:00",
+        "sort_key": 1792659288.0,
+        "excerpt": "(서울=연합뉴스) 코스닥 상장사 엑스페릭스[317770]는 타법인증권취득자금 등 약 20억원을 조달하고자 제3자배정 유상증자를 결정했다고 22일...",
+        "matched": []
+      },
+      {
+        "id": "656ba441e8",
+        "title": "휴맥스 \"알티모빌리티 주식 108억원에 추가취득…지분율 58.3%\"",
+        "url": "https://www.yna.co.kr/view/AKR20261022173700008",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 17:53",
+        "published_iso": "2026-10-22T17:53:03+09:00",
+        "sort_key": 1792659183.0,
+        "excerpt": "(서울=연합뉴스) 코스닥 상장사 휴맥스[115160]는 유무선통신기기 및 방송장비 개발, 제작, 생산. 유통서비스업 업체 알티모빌리티의 주식 2...",
+        "matched": []
+      },
+      {
+        "id": "00590a4bfb",
+        "title": "이찬진 '스페이스X 0주' 野 보상촉구에…\"공감, 제재절차 진행\"",
+        "url": "https://www.yna.co.kr/view/AKR20261022171200002",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 17:52",
+        "published_iso": "2026-10-22T17:52:14+09:00",
+        "sort_key": 1792659134.0,
+        "excerpt": "(서울=연합뉴스) 배영경 강류나 기자 = 이찬진 금융감독원장은 &apos;스페이스X 0주 배정&apos; 사태로 진행해온 미래에셋증권[006800] 현장검사가 2...",
+        "matched": []
+      },
+      {
+        "id": "fa01ef6428",
+        "title": "BNK금융, AI 플랫폼 구축 우선협상대상자에 삼성SDS",
+        "url": "https://www.yna.co.kr/view/AKR20261022175900051",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 17:45",
+        "published_iso": "2026-10-22T17:45:07+09:00",
+        "sort_key": 1792658707.0,
+        "excerpt": "(부산=연합뉴스) 이영재 기자 = BNK금융그룹은 그룹 차원의 디지털 혁신과 업무 생산성 향상을 위해 추진 중인 &apos;그룹 공동 생성형 인공지능(A...",
+        "matched": []
+      },
+      {
+        "id": "42be126aaf",
+        "title": "보험사 해약환급금준비금 64조 '역대 최대'",
+        "url": "https://www.hankyung.com/article/2026102293921",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 17:41",
+        "published_iso": "2026-10-22T17:41:02+09:00",
+        "sort_key": 1792658462.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "96a65054ad",
+        "title": "이재용, UAE 찾아 중동사업 현장 경영",
+        "url": "https://www.hankyung.com/article/2026102294231",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 17:37",
+        "published_iso": "2026-10-22T17:37:58+09:00",
+        "sort_key": 1792658278.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "bda8b8b0dc",
+        "title": "김동선, 한화M&S 1000만주 공개매수",
+        "url": "https://www.hankyung.com/article/2026102294181",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 17:37",
+        "published_iso": "2026-10-22T17:37:43+09:00",
+        "sort_key": 1792658263.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "76cd94a7fa",
+        "title": "삼성전기, 테슬라·엔비디아서 3.6조 투자 받는다",
+        "url": "https://www.hankyung.com/article/2026102294211",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 17:37",
+        "published_iso": "2026-10-22T17:37:13+09:00",
+        "sort_key": 1792658233.0,
+        "excerpt": "",
+        "matched": [
+          "NVDA",
+          "TSLA"
+        ]
+      },
+      {
+        "id": "7182998032",
+        "title": "LG이노텍, 엔비디아와 '로봇 눈' 솔루션 개발",
+        "url": "https://www.hankyung.com/article/2026102294201",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 17:36",
+        "published_iso": "2026-10-22T17:36:55+09:00",
+        "sort_key": 1792658215.0,
+        "excerpt": "",
+        "matched": [
+          "NVDA"
+        ]
+      },
+      {
+        "id": "827eef925c",
+        "title": "삼성E&A, 수주·영업익 모두 연간 목표 초과 달성",
+        "url": "https://www.hankyung.com/article/2026102294171",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 17:36",
+        "published_iso": "2026-10-22T17:36:36+09:00",
+        "sort_key": 1792658196.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "fc7c0019f7",
+        "title": "국세청, 신세계 세무조사…오너 친인척 '특혜 거래' 의혹",
+        "url": "https://www.hankyung.com/article/202610229303g",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 17:32",
+        "published_iso": "2026-10-22T17:32:24+09:00",
+        "sort_key": 1792657944.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "7f474ca776",
+        "title": "[단독] HD현대, 美 키윗과 합작법인 세운다… '마스가 1호 펀드' 수혜 유력",
+        "url": "https://www.hankyung.com/article/202610229024i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 17:31",
+        "published_iso": "2026-10-22T17:31:55+09:00",
+        "sort_key": 1792657915.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "ecaf449cd3",
+        "title": "이억원 \"가계부채 리스크에 총량 규제 필요…방법 보완 검토\"",
+        "url": "https://www.yna.co.kr/view/AKR20261022169300002",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 17:28",
+        "published_iso": "2026-10-22T17:28:10+09:00",
+        "sort_key": 1792657690.0,
+        "excerpt": "(서울=연합뉴스) 강수련 강류나 기자 = 이억원 금융위원장은 22일 가계대출 총량 규제의 필요성을 강조하면서도, 은행권 &apos;자율&apos;에 맡기는 규제 ...",
+        "matched": []
+      },
+      {
+        "id": "6a843576ad",
+        "title": "금융위원장 \"산업은행 부산 이전, 국회에서 결정할것\"(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261022163951051",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 17:25",
+        "published_iso": "2026-10-22T17:25:23+09:00",
+        "sort_key": 1792657523.0,
+        "excerpt": "(부산·서울=연합뉴스) 민영규 김지연 기자 = 이억원 금융위원장은 22일 한국산업은행 부산 이전 문제를 두고 &quot;국회에서 결정할 사항...",
+        "matched": []
+      },
+      {
+        "id": "b972167f6a",
+        "title": "[게시판] 전국 대학 6곳서 '찾아가는 소방 인재 채용설명회' 개최",
+        "url": "https://www.yna.co.kr/view/AKR20261022170300530",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 17:20",
+        "published_iso": "2026-10-22T17:20:24+09:00",
+        "sort_key": 1792657224.0,
+        "excerpt": "▲ 소방청은 22일 덕성여대를 시작으로 전국 대학 6곳에서 소방공무원 채용에 관한 생생한 정보를 전하는 &apos;찾아가는 소방 인재 채용설명회&apos;를 개최...",
+        "matched": []
+      },
+      {
+        "id": "039764be6a",
+        "title": "강호동 농협회장 \"농민단체 요구만으론 직선제 수용 안 했을 것\"",
+        "url": "https://www.yna.co.kr/view/AKR20261022168300030",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 17:16",
+        "published_iso": "2026-10-22T17:16:39+09:00",
+        "sort_key": 1792656999.0,
+        "excerpt": "(서울=연합뉴스) 김세린 기자 = 강호동 농협중앙회장은 22일 회장 선출 방식을 전체 조합원 직선제로 바꾸는 농협법 개정안과 관련해 농민단체의 ...",
+        "matched": []
+      },
+      {
+        "id": "527c8c44f7",
+        "title": "특성화고 졸업 후 취업…안산시, '직업교육 혁신지구' 협약",
+        "url": "https://www.yna.co.kr/view/AKR20261022047600061",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 09:35",
+        "published_iso": "2026-10-22T09:35:03+09:00",
+        "sort_key": 1792629303.0,
+        "excerpt": "(안산=연합뉴스) 최해민 기자 = 경기 안산시는 관내 기업 50곳, 특성화고등학교 6곳 등과 &apos;안산루트 직업교육 혁신지구 업무협약&apos;을 체결했다고...",
+        "matched": [],
+        "analysis": {
+          "summary": "안산시가 기업 50곳·특성화고 6곳과 직업교육 혁신지구 협약",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "8f26206c53",
+        "title": "[게시판] 토스뱅크 '키워봐요 31일 적금' 60만좌 넘게 가입",
+        "url": "https://www.yna.co.kr/view/AKR20261022047100002",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 09:34",
+        "published_iso": "2026-10-22T09:34:41+09:00",
+        "sort_key": 1792629281.0,
+        "excerpt": "▲ 토스뱅크는 지난 8월 출시한 &apos;키워봐요 31일 적금&apos;의 누적 개설 계좌가 60만좌를 넘겼다고 22일 밝혔다. &apos;키워봐요 31일적금&apos;은 31일...",
+        "matched": [],
+        "analysis": {
+          "summary": "토스뱅크 '키워봐요 31일 적금' 가입 60만 계좌 돌파",
+          "impact": "시장 영향은 제한적",
+          "affected": "인터넷은행"
+        }
+      },
+      {
+        "id": "069c28a808",
+        "title": "하나은행·카드, 동국제강과 철강재 구매기업 금융 지원",
+        "url": "https://www.yna.co.kr/view/AKR20261022046000002",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 09:33",
+        "published_iso": "2026-10-22T09:33:58+09:00",
+        "sort_key": 1792629238.0,
+        "excerpt": "(서울=연합뉴스) 채새롬 기자 = 하나은행과 하나카드는 동국제강[460860]과 철강재 구매기업의 공급망 금융 지원 강화를 위한 업무협약을 체결...",
+        "matched": [],
+        "analysis": {
+          "summary": "하나은행·카드가 동국제강과 철강재 구매기업 금융 지원 협약",
+          "impact": "시장 영향은 제한적",
+          "affected": "하나금융, 동국제강"
+        }
+      },
+      {
+        "id": "eb235e289c",
+        "title": "GS건설, 호주 오스넷과 손잡고 에너지 인프라 사업 확대",
+        "url": "https://www.yna.co.kr/view/AKR20261022042000003",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 09:32",
+        "published_iso": "2026-10-22T09:32:13+09:00",
+        "sort_key": 1792629133.0,
+        "excerpt": "(세종=연합뉴스) 오진송 기자 = GS건설이 호주 전력망 운영사 오스넷(AusNet)과 손잡고 현지 에너지 인프라 사업 확대에 나선다.",
+        "matched": [],
+        "analysis": {
+          "summary": "GS건설이 호주 전력망 운영사 오스넷과 에너지 인프라 사업 확대",
+          "impact": "해외 수주 기대, 영향은 제한적",
+          "affected": "GS건설"
+        }
+      },
+      {
+        "id": "e7bfa9d42c",
+        "title": "한투부동산신탁, 양평동4가 도심복합개발사업 운영위와 MOU",
+        "url": "https://www.yna.co.kr/view/AKR20261022045300008",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 09:29",
+        "published_iso": "2026-10-22T09:29:09+09:00",
+        "sort_key": 1792628949.0,
+        "excerpt": "(서울=연합뉴스) 임은진 기자 = 한국금융지주[071050]의 자회사인 한국투자부동산신탁은 서울 영등포구 양평동4가 247번지 일대에 추진 중인...",
+        "matched": [],
+        "analysis": {
+          "summary": "한국투자부동산신탁이 양평동 도심복합개발사업 운영위와 업무협약",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "e3666fbc65",
+        "title": "넥스트증권, 글로벌 차트플랫폼 '트레이딩뷰'와 파트너십",
+        "url": "https://www.yna.co.kr/view/AKR20261022042600008",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 09:23",
+        "published_iso": "2026-10-22T09:23:59+09:00",
+        "sort_key": 1792628639.0,
+        "excerpt": "(서울=연합뉴스) 김유향 기자 = 넥스트증권은 글로벌 차트 플랫폼인 트레이딩뷰(TradingView)와 차트 제공을 위한 파트너십을 체결했다고 ...",
+        "matched": [],
+        "analysis": {
+          "summary": "넥스트증권이 차트 플랫폼 트레이딩뷰와 파트너십",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "ad356acf40",
+        "title": "'단종의 밥상' 세계에 알린다…29일 영월서 글로벌 한식포럼",
+        "url": "https://www.yna.co.kr/view/AKR20261022038100371",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 09:22",
+        "published_iso": "2026-10-22T09:22:09+09:00",
+        "sort_key": 1792628529.0,
+        "excerpt": "(서울=연합뉴스) 박현수 기자 = 조선 비운의 임금 단종의 역사를 품은 강원 영월의 향토 음식이 세계인의 식탁에 오르기 위한 도전에 나선다.",
+        "matched": [],
+        "analysis": {
+          "summary": "영월 향토 음식을 알리는 글로벌 한식포럼 개최",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "32145f13e8",
+        "title": "[특징주] 삼성전기, 엔비디아와 파트너십 구축에 장 초반 5%대↑",
+        "url": "https://www.yna.co.kr/view/AKR20261022040800008",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 09:20",
+        "published_iso": "2026-10-22T09:20:02+09:00",
+        "sort_key": 1792628402.0,
+        "excerpt": "(서울=연합뉴스) 황철환 기자 = 삼성전기[009150]가 22일 장 초반 5%대의 상승세를 보인다.",
+        "matched": [
+          "NVDA"
+        ],
+        "analysis": {
+          "summary": "삼성전기가 엔비디아와 파트너십 구축 소식에 장 초반 5%대 상승",
+          "impact": "AI 부품 공급 기대",
+          "affected": "삼성전기, 엔비디아 공급망"
+        }
+      },
+      {
+        "id": "a7d61d6d5e",
+        "title": "\"테슬라·지커·BYD 제쳤다\"…독일서 실력 입증한 기아 전기차",
+        "url": "https://www.hankyung.com/article/202610227551g",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 08:55",
+        "published_iso": "2026-10-22T08:55:42+09:00",
+        "sort_key": 1792626942.0,
+        "excerpt": "",
+        "matched": [
+          "TSLA"
+        ],
+        "analysis": {
+          "summary": "기아 전기차가 독일 평가에서 테슬라·BYD 등을 제침",
+          "impact": "시장 영향은 제한적",
+          "affected": "기아"
+        }
+      },
+      {
+        "id": "cb282809d1",
+        "title": "3시간 만에 티켓 동났다…6500명 몰린 성수동 '이곳'",
+        "url": "https://www.hankyung.com/article/202610227537g",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 08:52",
+        "published_iso": "2026-10-22T08:52:32+09:00",
+        "sort_key": 1792626752.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "성수동 팝업 행사 티켓이 3시간 만에 매진",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "ae8d482c13",
+        "title": "테슬라, 3분기 매출 281억 달러…시장 예상치 상회",
+        "url": "https://www.hankyung.com/article/202610227590i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 08:52",
+        "published_iso": "2026-10-22T08:52:10+09:00",
+        "sort_key": 1792626730.0,
+        "excerpt": "",
+        "matched": [
+          "TSLA"
+        ],
+        "analysis": {
+          "summary": "테슬라 3분기 매출 281억 달러로 시장 예상 상회",
+          "impact": "매출은 예상보다 좋았지만 이익은 별도로 확인 필요",
+          "affected": "테슬라"
+        }
+      },
+      {
+        "id": "5be04f9e06",
+        "title": "중동 원유 수출 하루 2460만 배럴…전쟁 전 수준 회복",
+        "url": "https://www.hankyung.com/article/202610227543i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 08:39",
+        "published_iso": "2026-10-22T08:39:33+09:00",
+        "sort_key": 1792625973.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "중동 원유 수출이 하루 2,460만 배럴로 전쟁 전 수준 회복",
+          "impact": "원유 공급 정상화 — 유가 하락 압력, 물가 부담 완화",
+          "affected": "국제 유가, 정유·항공, 물가",
+          "important": true,
+          "important_tag": "거시경제",
+          "why_important": "중동 원유 수출이 전쟁 전 수준 회복 — 유가 하락으로 물가 부담이 줄어들 수 있음"
+        }
+      },
+      {
+        "id": "97ef03399b",
+        "title": "\"5명 중 1명 첫 결제\"…여기어때 '비밀 무기' 통했다",
+        "url": "https://www.hankyung.com/article/202610227456g",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 08:32",
+        "published_iso": "2026-10-22T08:32:13+09:00",
+        "sort_key": 1792625533.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "여기어때가 첫 결제 고객을 늘린 마케팅 사례",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "ea74be411b",
+        "title": "25년 전 뺑소니가 발목…32년 연금 날릴 뻔한 사연 [일확연금 노후부자]",
+        "url": "https://www.hankyung.com/article/202610189098i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 08:31",
+        "published_iso": "2026-10-22T08:31:03+09:00",
+        "sort_key": 1792625463.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "25년 전 뺑소니 기록 때문에 연금을 잃을 뻔한 사연",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "995f1f94f0",
+        "title": "빈폴골프, 여성 점퍼 매출 336% '껑충'…시착 마케팅 강화",
+        "url": "https://www.hankyung.com/article/202610227448g",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 08:26",
+        "published_iso": "2026-10-22T08:26:29+09:00",
+        "sort_key": 1792625189.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "빈폴골프 여성 점퍼 매출이 336% 증가",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "059632669e",
+        "title": "한 달 만에 16만개 동났다…편의점 점령한 일본 과자",
+        "url": "https://www.hankyung.com/article/202610227415g",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/22 08:14",
+        "published_iso": "2026-10-22T08:14:48+09:00",
+        "sort_key": 1792624488.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "일본 과자가 한 달 만에 편의점에서 16만 개 팔림",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      }
+    ],
+    "국내 정책당국": [
+      {
+        "id": "0bd8d64f92",
+        "title": "(보도설명) 정부는 할당관세의 물가안정 효과를 높이기 위한 제도개선을 지속 추진 중입니다.",
+        "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079736",
+        "source": "재정경제부 보도자료",
+        "group": "국내 정책당국",
+        "lang": "ko",
+        "published_kst": "10/22 09:00",
+        "published_iso": "2026-10-22T09:00:00+09:00",
+        "sort_key": 1792627200.0,
+        "excerpt": "",
+        "matched": []
+      }
+    ],
+    "중앙은행·국제기구": [
+      {
+        "id": "c89c45c477",
+        "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
+        "source": "유럽중앙은행(ECB)",
+        "group": "중앙은행·국제기구",
+        "lang": "en",
+        "published_kst": "10/21 17:00",
+        "published_iso": "2026-10-21T17:00:00+09:00",
+        "sort_key": 1792569600.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "ECB 치폴로네 이사가 은행 결제 인프라 관련 연설",
+          "impact": "시장 영향은 제한적",
+          "affected": "유럽 은행"
+        }
+      }
     ]
-   },
-   {
-    "id": "7182998032",
-    "title": "LG이노텍, 엔비디아와 '로봇 눈' 솔루션 개발",
-    "url": "https://www.hankyung.com/article/2026102294201",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 17:36",
-    "published_iso": "2026-10-22T17:36:55+09:00",
-    "sort_key": 1792658215.0,
-    "excerpt": "",
-    "matched": [
-     "NVDA"
-    ]
-   },
-   {
-    "id": "827eef925c",
-    "title": "삼성E&A, 수주·영업익 모두 연간 목표 초과 달성",
-    "url": "https://www.hankyung.com/article/2026102294171",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 17:36",
-    "published_iso": "2026-10-22T17:36:36+09:00",
-    "sort_key": 1792658196.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "fc7c0019f7",
-    "title": "국세청, 신세계 세무조사…오너 친인척 '특혜 거래' 의혹",
-    "url": "https://www.hankyung.com/article/202610229303g",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 17:32",
-    "published_iso": "2026-10-22T17:32:24+09:00",
-    "sort_key": 1792657944.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "7f474ca776",
-    "title": "[단독] HD현대, 美 키윗과 합작법인 세운다… '마스가 1호 펀드' 수혜 유력",
-    "url": "https://www.hankyung.com/article/202610229024i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 17:31",
-    "published_iso": "2026-10-22T17:31:55+09:00",
-    "sort_key": 1792657915.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "ecaf449cd3",
-    "title": "이억원 \"가계부채 리스크에 총량 규제 필요…방법 보완 검토\"",
-    "url": "https://www.yna.co.kr/view/AKR20261022169300002",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 17:28",
-    "published_iso": "2026-10-22T17:28:10+09:00",
-    "sort_key": 1792657690.0,
-    "excerpt": "(서울=연합뉴스) 강수련 강류나 기자 = 이억원 금융위원장은 22일 가계대출 총량 규제의 필요성을 강조하면서도, 은행권 &apos;자율&apos;에 맡기는 규제 ...",
-    "matched": []
-   },
-   {
-    "id": "6a843576ad",
-    "title": "금융위원장 \"산업은행 부산 이전, 국회에서 결정할것\"(종합)",
-    "url": "https://www.yna.co.kr/view/AKR20261022163951051",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 17:25",
-    "published_iso": "2026-10-22T17:25:23+09:00",
-    "sort_key": 1792657523.0,
-    "excerpt": "(부산·서울=연합뉴스) 민영규 김지연 기자 = 이억원 금융위원장은 22일 한국산업은행 부산 이전 문제를 두고 &quot;국회에서 결정할 사항...",
-    "matched": []
-   },
-   {
-    "id": "b972167f6a",
-    "title": "[게시판] 전국 대학 6곳서 '찾아가는 소방 인재 채용설명회' 개최",
-    "url": "https://www.yna.co.kr/view/AKR20261022170300530",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 17:20",
-    "published_iso": "2026-10-22T17:20:24+09:00",
-    "sort_key": 1792657224.0,
-    "excerpt": "▲ 소방청은 22일 덕성여대를 시작으로 전국 대학 6곳에서 소방공무원 채용에 관한 생생한 정보를 전하는 &apos;찾아가는 소방 인재 채용설명회&apos;를 개최...",
-    "matched": []
-   },
-   {
-    "id": "039764be6a",
-    "title": "강호동 농협회장 \"농민단체 요구만으론 직선제 수용 안 했을 것\"",
-    "url": "https://www.yna.co.kr/view/AKR20261022168300030",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 17:16",
-    "published_iso": "2026-10-22T17:16:39+09:00",
-    "sort_key": 1792656999.0,
-    "excerpt": "(서울=연합뉴스) 김세린 기자 = 강호동 농협중앙회장은 22일 회장 선출 방식을 전체 조합원 직선제로 바꾸는 농협법 개정안과 관련해 농민단체의 ...",
-    "matched": []
-   },
-   {
-    "id": "527c8c44f7",
-    "title": "특성화고 졸업 후 취업…안산시, '직업교육 혁신지구' 협약",
-    "url": "https://www.yna.co.kr/view/AKR20261022047600061",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 09:35",
-    "published_iso": "2026-10-22T09:35:03+09:00",
-    "sort_key": 1792629303.0,
-    "excerpt": "(안산=연합뉴스) 최해민 기자 = 경기 안산시는 관내 기업 50곳, 특성화고등학교 6곳 등과 &apos;안산루트 직업교육 혁신지구 업무협약&apos;을 체결했다고...",
-    "matched": [],
-    "analysis": {
-     "summary": "안산시가 기업 50곳·특성화고 6곳과 직업교육 혁신지구 협약",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
+  },
+  "counts": {
+    "indices_ok": 8,
+    "indices_total": 8,
+    "stocks_ok": 9,
+    "stocks_total": 9,
+    "news": 54,
+    "news_new": 22
+  },
+  "errors": [
+    {
+      "stage": "news",
+      "target": "금융위원회 보도자료",
+      "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
     }
-   },
-   {
-    "id": "8f26206c53",
-    "title": "[게시판] 토스뱅크 '키워봐요 31일 적금' 60만좌 넘게 가입",
-    "url": "https://www.yna.co.kr/view/AKR20261022047100002",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 09:34",
-    "published_iso": "2026-10-22T09:34:41+09:00",
-    "sort_key": 1792629281.0,
-    "excerpt": "▲ 토스뱅크는 지난 8월 출시한 &apos;키워봐요 31일 적금&apos;의 누적 개설 계좌가 60만좌를 넘겼다고 22일 밝혔다. &apos;키워봐요 31일적금&apos;은 31일...",
-    "matched": [],
-    "analysis": {
-     "summary": "토스뱅크 '키워봐요 31일 적금' 가입 60만 계좌 돌파",
-     "impact": "시장 영향은 제한적",
-     "affected": "인터넷은행"
-    }
-   },
-   {
-    "id": "069c28a808",
-    "title": "하나은행·카드, 동국제강과 철강재 구매기업 금융 지원",
-    "url": "https://www.yna.co.kr/view/AKR20261022046000002",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 09:33",
-    "published_iso": "2026-10-22T09:33:58+09:00",
-    "sort_key": 1792629238.0,
-    "excerpt": "(서울=연합뉴스) 채새롬 기자 = 하나은행과 하나카드는 동국제강[460860]과 철강재 구매기업의 공급망 금융 지원 강화를 위한 업무협약을 체결...",
-    "matched": [],
-    "analysis": {
-     "summary": "하나은행·카드가 동국제강과 철강재 구매기업 금융 지원 협약",
-     "impact": "시장 영향은 제한적",
-     "affected": "하나금융, 동국제강"
-    }
-   },
-   {
-    "id": "eb235e289c",
-    "title": "GS건설, 호주 오스넷과 손잡고 에너지 인프라 사업 확대",
-    "url": "https://www.yna.co.kr/view/AKR20261022042000003",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 09:32",
-    "published_iso": "2026-10-22T09:32:13+09:00",
-    "sort_key": 1792629133.0,
-    "excerpt": "(세종=연합뉴스) 오진송 기자 = GS건설이 호주 전력망 운영사 오스넷(AusNet)과 손잡고 현지 에너지 인프라 사업 확대에 나선다.",
-    "matched": [],
-    "analysis": {
-     "summary": "GS건설이 호주 전력망 운영사 오스넷과 에너지 인프라 사업 확대",
-     "impact": "해외 수주 기대, 영향은 제한적",
-     "affected": "GS건설"
-    }
-   },
-   {
-    "id": "e7bfa9d42c",
-    "title": "한투부동산신탁, 양평동4가 도심복합개발사업 운영위와 MOU",
-    "url": "https://www.yna.co.kr/view/AKR20261022045300008",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 09:29",
-    "published_iso": "2026-10-22T09:29:09+09:00",
-    "sort_key": 1792628949.0,
-    "excerpt": "(서울=연합뉴스) 임은진 기자 = 한국금융지주[071050]의 자회사인 한국투자부동산신탁은 서울 영등포구 양평동4가 247번지 일대에 추진 중인...",
-    "matched": [],
-    "analysis": {
-     "summary": "한국투자부동산신탁이 양평동 도심복합개발사업 운영위와 업무협약",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "e3666fbc65",
-    "title": "넥스트증권, 글로벌 차트플랫폼 '트레이딩뷰'와 파트너십",
-    "url": "https://www.yna.co.kr/view/AKR20261022042600008",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 09:23",
-    "published_iso": "2026-10-22T09:23:59+09:00",
-    "sort_key": 1792628639.0,
-    "excerpt": "(서울=연합뉴스) 김유향 기자 = 넥스트증권은 글로벌 차트 플랫폼인 트레이딩뷰(TradingView)와 차트 제공을 위한 파트너십을 체결했다고 ...",
-    "matched": [],
-    "analysis": {
-     "summary": "넥스트증권이 차트 플랫폼 트레이딩뷰와 파트너십",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "ad356acf40",
-    "title": "'단종의 밥상' 세계에 알린다…29일 영월서 글로벌 한식포럼",
-    "url": "https://www.yna.co.kr/view/AKR20261022038100371",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 09:22",
-    "published_iso": "2026-10-22T09:22:09+09:00",
-    "sort_key": 1792628529.0,
-    "excerpt": "(서울=연합뉴스) 박현수 기자 = 조선 비운의 임금 단종의 역사를 품은 강원 영월의 향토 음식이 세계인의 식탁에 오르기 위한 도전에 나선다.",
-    "matched": [],
-    "analysis": {
-     "summary": "영월 향토 음식을 알리는 글로벌 한식포럼 개최",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "32145f13e8",
-    "title": "[특징주] 삼성전기, 엔비디아와 파트너십 구축에 장 초반 5%대↑",
-    "url": "https://www.yna.co.kr/view/AKR20261022040800008",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 09:20",
-    "published_iso": "2026-10-22T09:20:02+09:00",
-    "sort_key": 1792628402.0,
-    "excerpt": "(서울=연합뉴스) 황철환 기자 = 삼성전기[009150]가 22일 장 초반 5%대의 상승세를 보인다.",
-    "matched": [
-     "NVDA"
-    ],
-    "analysis": {
-     "summary": "삼성전기가 엔비디아와 파트너십 구축 소식에 장 초반 5%대 상승",
-     "impact": "AI 부품 공급 기대",
-     "affected": "삼성전기, 엔비디아 공급망"
-    }
-   },
-   {
-    "id": "a7d61d6d5e",
-    "title": "\"테슬라·지커·BYD 제쳤다\"…독일서 실력 입증한 기아 전기차",
-    "url": "https://www.hankyung.com/article/202610227551g",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 08:55",
-    "published_iso": "2026-10-22T08:55:42+09:00",
-    "sort_key": 1792626942.0,
-    "excerpt": "",
-    "matched": [
-     "TSLA"
-    ],
-    "analysis": {
-     "summary": "기아 전기차가 독일 평가에서 테슬라·BYD 등을 제침",
-     "impact": "시장 영향은 제한적",
-     "affected": "기아"
-    }
-   },
-   {
-    "id": "cb282809d1",
-    "title": "3시간 만에 티켓 동났다…6500명 몰린 성수동 '이곳'",
-    "url": "https://www.hankyung.com/article/202610227537g",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 08:52",
-    "published_iso": "2026-10-22T08:52:32+09:00",
-    "sort_key": 1792626752.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "성수동 팝업 행사 티켓이 3시간 만에 매진",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "ae8d482c13",
-    "title": "테슬라, 3분기 매출 281억 달러…시장 예상치 상회",
-    "url": "https://www.hankyung.com/article/202610227590i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 08:52",
-    "published_iso": "2026-10-22T08:52:10+09:00",
-    "sort_key": 1792626730.0,
-    "excerpt": "",
-    "matched": [
-     "TSLA"
-    ],
-    "analysis": {
-     "summary": "테슬라 3분기 매출 281억 달러로 시장 예상 상회",
-     "impact": "매출은 예상보다 좋았지만 이익은 별도로 확인 필요",
-     "affected": "테슬라"
-    }
-   },
-   {
-    "id": "5be04f9e06",
-    "title": "중동 원유 수출 하루 2460만 배럴…전쟁 전 수준 회복",
-    "url": "https://www.hankyung.com/article/202610227543i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 08:39",
-    "published_iso": "2026-10-22T08:39:33+09:00",
-    "sort_key": 1792625973.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "중동 원유 수출이 하루 2,460만 배럴로 전쟁 전 수준 회복",
-     "impact": "원유 공급 정상화 — 유가 하락 압력, 물가 부담 완화",
-     "affected": "국제 유가, 정유·항공, 물가",
-     "important": true,
-     "important_tag": "거시경제",
-     "why_important": "중동 원유 수출이 전쟁 전 수준 회복 — 유가 하락으로 물가 부담이 줄어들 수 있음"
-    }
-   },
-   {
-    "id": "97ef03399b",
-    "title": "\"5명 중 1명 첫 결제\"…여기어때 '비밀 무기' 통했다",
-    "url": "https://www.hankyung.com/article/202610227456g",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 08:32",
-    "published_iso": "2026-10-22T08:32:13+09:00",
-    "sort_key": 1792625533.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "여기어때가 첫 결제 고객을 늘린 마케팅 사례",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "ea74be411b",
-    "title": "25년 전 뺑소니가 발목…32년 연금 날릴 뻔한 사연 [일확연금 노후부자]",
-    "url": "https://www.hankyung.com/article/202610189098i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 08:31",
-    "published_iso": "2026-10-22T08:31:03+09:00",
-    "sort_key": 1792625463.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "25년 전 뺑소니 기록 때문에 연금을 잃을 뻔한 사연",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "995f1f94f0",
-    "title": "빈폴골프, 여성 점퍼 매출 336% '껑충'…시착 마케팅 강화",
-    "url": "https://www.hankyung.com/article/202610227448g",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 08:26",
-    "published_iso": "2026-10-22T08:26:29+09:00",
-    "sort_key": 1792625189.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "빈폴골프 여성 점퍼 매출이 336% 증가",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "059632669e",
-    "title": "한 달 만에 16만개 동났다…편의점 점령한 일본 과자",
-    "url": "https://www.hankyung.com/article/202610227415g",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/22 08:14",
-    "published_iso": "2026-10-22T08:14:48+09:00",
-    "sort_key": 1792624488.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "일본 과자가 한 달 만에 편의점에서 16만 개 팔림",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   }
-  ],
-  "국내 정책당국": [
-   {
-    "id": "0bd8d64f92",
-    "title": "(보도설명) 정부는 할당관세의 물가안정 효과를 높이기 위한 제도개선을 지속 추진 중입니다.",
-    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079736",
-    "source": "재정경제부 보도자료",
-    "group": "국내 정책당국",
-    "lang": "ko",
-    "published_kst": "10/22 09:00",
-    "published_iso": "2026-10-22T09:00:00+09:00",
-    "sort_key": 1792627200.0,
-    "excerpt": "",
-    "matched": []
-   }
-  ],
-  "중앙은행·국제기구": [
-   {
-    "id": "c89c45c477",
-    "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
-    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
-    "source": "유럽중앙은행(ECB)",
-    "group": "중앙은행·국제기구",
-    "lang": "en",
-    "published_kst": "10/21 17:00",
-    "published_iso": "2026-10-21T17:00:00+09:00",
-    "sort_key": 1792569600.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "ECB 치폴로네 이사가 은행 결제 인프라 관련 연설",
-     "impact": "시장 영향은 제한적",
-     "affected": "유럽 은행"
-    }
-   }
   ]
- },
- "counts": {
-  "indices_ok": 8,
-  "indices_total": 8,
-  "stocks_ok": 9,
-  "stocks_total": 9,
-  "news": 54,
-  "news_new": 22
- },
- "errors": [
-  {
-   "stage": "news",
-   "target": "금융위원회 보도자료",
-   "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
-  }
- ]
 }
