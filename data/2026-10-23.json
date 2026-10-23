@@ -1,1117 +1,1712 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23 07:31",
-  "weekday": "금",
-  "site": {
-    "title": "오늘의 경제 한 장",
-    "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
-    "author": "asqwkl3215",
-    "timezone_label": "KST",
-    "base_url": "https://marketbrief-byte.github.io"
+ "date": "2026-10-23",
+ "generated_at": "2026-10-23 09:37",
+ "weekday": "금",
+ "site": {
+  "title": "오늘의 경제 한 장",
+  "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
+  "author": "asqwkl3215",
+  "timezone_label": "KST",
+  "base_url": "https://marketbrief-byte.github.io"
+ },
+ "indices": [
+  {
+   "name": "코스피",
+   "symbol": "^KS11",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 5383.15,
+   "prev_close": 5668.05,
+   "change": -284.9,
+   "change_pct": -5.03,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1792714640,
+   "asof_date": null
   },
-  "indices": [
+  {
+   "name": "코스닥",
+   "symbol": "^KQ11",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 740.08,
+   "prev_close": 794.78,
+   "change": -54.7,
+   "change_pct": -6.88,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1792714640,
+   "asof_date": null
+  },
+  {
+   "name": "S&P 500",
+   "symbol": "^GSPC",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 7663.43,
+   "prev_close": 7744.06,
+   "change": -80.63,
+   "change_pct": -1.04,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1792701108,
+   "asof_date": null
+  },
+  {
+   "name": "나스닥",
+   "symbol": "^IXIC",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 26008.86,
+   "prev_close": 26713.03,
+   "change": -704.17,
+   "change_pct": -2.64,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1792703759,
+   "asof_date": null
+  },
+  {
+   "name": "원/달러",
+   "symbol": "KRW=X",
+   "unit": "원",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 1322.98,
+   "prev_close": 1333.43,
+   "change": -10.45,
+   "change_pct": -0.78,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1792715840,
+   "asof_date": null
+  },
+  {
+   "name": "미 10년 국채",
+   "symbol": "^TNX",
+   "unit": "%",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 4.953,
+   "prev_close": 5.098,
+   "change": -0.145,
+   "change_pct": -2.84,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1792695593,
+   "asof_date": null
+  },
+  {
+   "name": "WTI 유가",
+   "symbol": "CL=F",
+   "unit": "$",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 99.22,
+   "prev_close": 103.66,
+   "change": -4.44,
+   "change_pct": -4.28,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1792715222,
+   "asof_date": null
+  },
+  {
+   "name": "금",
+   "symbol": "GC=F",
+   "unit": "$",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 4036.4,
+   "prev_close": 4160.1,
+   "change": -123.7,
+   "change_pct": -2.97,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1792715237,
+   "asof_date": null
+  }
+ ],
+ "watchlist": [
+  {
+   "name": "삼성전자",
+   "symbol": "005930.KS",
+   "unit": "",
+   "keywords": [
+    "삼성전자",
+    "Samsung Electronics",
+    "삼성 반도체"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 208000.0,
+   "prev_close": 215500.0,
+   "change": -7500.0,
+   "change_pct": -3.48,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1792714642,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "SK하이닉스",
+   "symbol": "000660.KS",
+   "unit": "",
+   "keywords": [
+    "SK하이닉스",
+    "SK Hynix",
+    "하이닉스",
+    "HBM"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 1200000.0,
+   "prev_close": 1272000.0,
+   "change": -72000.0,
+   "change_pct": -5.66,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1792714642,
+   "asof_date": null,
+   "news": [
     {
-      "name": "코스피",
-      "symbol": "^KS11",
-      "unit": "pt",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 5533.77,
-      "prev_close": 5554.22,
-      "change": -20.45,
-      "change_pct": -0.37,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1792667140,
-      "asof_date": null
+     "id": "41944f70e8",
+     "title": "[단독] 솔리다임 美상장 전격 철회…SK하이닉스, 주주의견 수용",
+     "url": "https://www.hankyung.com/article/2026102298171",
+     "source": "한국경제",
+     "published_kst": "10/23 06:00"
     },
     {
-      "name": "코스닥",
-      "symbol": "^KQ11",
-      "unit": "pt",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 764.1,
-      "prev_close": 760.82,
-      "change": 3.28,
-      "change_pct": 0.43,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1792667140,
-      "asof_date": null
-    },
-    {
-      "name": "S&P 500",
-      "symbol": "^GSPC",
-      "unit": "pt",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 7663.43,
-      "prev_close": 7744.06,
-      "change": -80.63,
-      "change_pct": -1.04,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1792701108,
-      "asof_date": null
-    },
-    {
-      "name": "나스닥",
-      "symbol": "^IXIC",
-      "unit": "pt",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 26008.86,
-      "prev_close": 26713.03,
-      "change": -704.17,
-      "change_pct": -2.64,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1792703759,
-      "asof_date": null
-    },
-    {
-      "name": "원/달러",
-      "symbol": "KRW=X",
-      "unit": "원",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 1325.68,
-      "prev_close": 1340.95,
-      "change": -15.27,
-      "change_pct": -1.14,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1792708206,
-      "asof_date": null
-    },
-    {
-      "name": "미 10년 국채",
-      "symbol": "^TNX",
-      "unit": "%",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 4.953,
-      "prev_close": 5.098,
-      "change": -0.145,
-      "change_pct": -2.84,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1792695593,
-      "asof_date": null
-    },
-    {
-      "name": "WTI 유가",
-      "symbol": "CL=F",
-      "unit": "$",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 99.05,
-      "prev_close": 103.66,
-      "change": -4.61,
-      "change_pct": -4.45,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1792707689,
-      "asof_date": null
-    },
-    {
-      "name": "금",
-      "symbol": "GC=F",
-      "unit": "$",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 4044.0,
-      "prev_close": 4160.1,
-      "change": -116.1,
-      "change_pct": -2.79,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1792707695,
-      "asof_date": null
+     "id": "9e1e323e88",
+     "title": "[단독] SK하이닉스, 솔리다임 美 상장 전격 철회",
+     "url": "https://www.hankyung.com/article/202610229798i",
+     "source": "한국경제",
+     "published_kst": "10/23 03:00"
     }
-  ],
-  "watchlist": [
+   ]
+  },
+  {
+   "name": "현대차",
+   "symbol": "005380.KS",
+   "unit": "",
+   "keywords": [
+    "현대차",
+    "현대자동차",
+    "Hyundai Motor"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 292500.0,
+   "prev_close": 312000.0,
+   "change": -19500.0,
+   "change_pct": -6.25,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1792714637,
+   "asof_date": null,
+   "news": [
     {
-      "name": "삼성전자",
-      "symbol": "005930.KS",
-      "unit": "",
-      "keywords": [
-        "삼성전자",
-        "Samsung Electronics",
-        "삼성 반도체"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 214500.0,
-      "prev_close": 210000.0,
-      "change": 4500.0,
-      "change_pct": 2.14,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1792650611,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "SK하이닉스",
-      "symbol": "000660.KS",
-      "unit": "",
-      "keywords": [
-        "SK하이닉스",
-        "SK Hynix",
-        "하이닉스",
-        "HBM"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 1223000.0,
-      "prev_close": 1262000.0,
-      "change": -39000.0,
-      "change_pct": -3.09,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1792650604,
-      "asof_date": null,
-      "news": [
-        {
-          "id": "41944f70e8",
-          "title": "[단독] 솔리다임 美상장 전격 철회…SK하이닉스, 주주의견 수용",
-          "url": "https://www.hankyung.com/article/2026102298171",
-          "source": "한국경제",
-          "published_kst": "10/23 06:00"
-        },
-        {
-          "id": "9e1e323e88",
-          "title": "[단독] SK하이닉스, 솔리다임 美 상장 전격 철회",
-          "url": "https://www.hankyung.com/article/202610229798i",
-          "source": "한국경제",
-          "published_kst": "10/23 03:00"
-        }
-      ]
-    },
-    {
-      "name": "현대차",
-      "symbol": "005380.KS",
-      "unit": "",
-      "keywords": [
-        "현대차",
-        "현대자동차",
-        "Hyundai Motor"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 301500.0,
-      "prev_close": 295500.0,
-      "change": 6000.0,
-      "change_pct": 2.03,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1792650601,
-      "asof_date": null,
-      "news": [
-        {
-          "id": "4a8a50e6f9",
-          "title": "[인터뷰] 현대차증권 센터장 \"지금은 버텨야…4분기 코스피 5,300∼7,200\"",
-          "url": "https://www.yna.co.kr/view/AKR20261022169100008",
-          "source": "연합뉴스 경제",
-          "published_kst": "10/23 07:00"
-        }
-      ]
-    },
-    {
-      "name": "LG에너지솔루션",
-      "symbol": "373220.KS",
-      "unit": "",
-      "keywords": [
-        "LG에너지솔루션",
-        "LG Energy Solution",
-        "이차전지",
-        "배터리"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 390000.0,
-      "prev_close": 402500.0,
-      "change": -12500.0,
-      "change_pct": -3.11,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1792650608,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "NAVER",
-      "symbol": "035420.KS",
-      "unit": "",
-      "keywords": [
-        "네이버",
-        "NAVER"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 176400.0,
-      "prev_close": 173600.0,
-      "change": 2800.0,
-      "change_pct": 1.61,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1792650608,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "엔비디아",
-      "symbol": "NVDA",
-      "unit": "",
-      "keywords": [
-        "엔비디아",
-        "Nvidia",
-        "NVDA"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 212.21,
-      "prev_close": 217.23,
-      "change": -5.02,
-      "change_pct": -2.31,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1792699200,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "애플",
-      "symbol": "AAPL",
-      "unit": "",
-      "keywords": [
-        "애플",
-        "Apple",
-        "AAPL"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 348.22,
-      "prev_close": 342.0,
-      "change": 6.22,
-      "change_pct": 1.82,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1792699201,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "테슬라",
-      "symbol": "TSLA",
-      "unit": "",
-      "keywords": [
-        "테슬라",
-        "Tesla",
-        "TSLA"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 374.58,
-      "prev_close": 362.44,
-      "change": 12.14,
-      "change_pct": 3.35,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1792699200,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "마이크로소프트",
-      "symbol": "MSFT",
-      "unit": "",
-      "keywords": [
-        "마이크로소프트",
-        "Microsoft",
-        "MSFT"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 521.08,
-      "prev_close": 539.44,
-      "change": -18.36,
-      "change_pct": -3.4,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1792699201,
-      "asof_date": null,
-      "news": []
+     "id": "4a8a50e6f9",
+     "title": "[인터뷰] 현대차증권 센터장 \"지금은 버텨야…4분기 코스피 5,300∼7,200\"",
+     "url": "https://www.yna.co.kr/view/AKR20261022169100008",
+     "source": "연합뉴스 경제",
+     "published_kst": "10/23 07:00"
     }
-  ],
-  "news": [
-    {
-      "id": "7269c2abae",
-      "title": "\"겨울엔 귤만 먹는 줄 알았는데\"…마트에 등장한 '의외의 과일' [트렌드+]",
-      "url": "https://www.hankyung.com/article/202610228609g",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/23 07:09",
-      "published_iso": "2026-10-23T07:09:03+09:00",
-      "sort_key": 1792706943.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "겨울 마트에 귤 말고 새로운 과일이 등장",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "4a8a50e6f9",
-      "title": "[인터뷰] 현대차증권 센터장 \"지금은 버텨야…4분기 코스피 5,300∼7,200\"",
-      "url": "https://www.yna.co.kr/view/AKR20261022169100008",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/23 07:00",
-      "published_iso": "2026-10-23T07:00:02+09:00",
-      "sort_key": 1792706402.0,
-      "excerpt": "(서울=연합뉴스) 경수현 기자 = &quot;지금 코스피 지수는 적정 수준보다 낮은 국면이라는 의견이 지배적이다. 반등할 시점을 정확히 예측하기는 어렵지...",
-      "matched": [
-        "005380.KS"
-      ],
-      "analysis": {
-        "summary": "현대차증권 센터장 '지금은 버틸 때, 4분기 코스피 5,300~7,200'",
-        "impact": "시장 영향은 제한적",
-        "affected": "코스피"
-      }
-    },
-    {
-      "id": "399032daa4",
-      "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
-      "url": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/23 06:31",
-      "published_iso": "2026-10-23T06:31:29+09:00",
-      "sort_key": 1792704689.0,
-      "excerpt": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems.",
-      "matched": [],
-      "analysis": {
-        "summary": "PHP 보안 취약점 때문에 정부·기업 사이트가 내려가는 이유 설명(이전 기사와 같은 내용)",
-        "impact": "인터넷 서비스 보안 비용 증가",
-        "affected": "웹 호스팅, 보안 업체"
-      }
-    },
-    {
-      "id": "81176986f0",
-      "title": "안전자산 찾아서…美 10년물 국채 금리, 한달만에 5% 밑으로",
-      "url": "https://www.yna.co.kr/view/AKR20261023009000072",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/23 06:14",
-      "published_iso": "2026-10-23T06:14:56+09:00",
-      "sort_key": 1792703696.0,
-      "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 글로벌 채권 금리의 벤치마크인 미국 10년 만기 국채 금리가 22일(현지시간) 약 한 달 만에 5% 아래로 ...",
-      "matched": [],
-      "analysis": {
-        "summary": "안전자산 수요로 미국 10년물 국채 금리가 한 달 만에 5% 아래로",
-        "impact": "금리 하락 — 성장주·주택 시장에 숨통, 위험 회피 심리 반영",
-        "affected": "미국 국채, 성장주, 달러",
-        "important": true,
-        "important_tag": "거시경제",
-        "why_important": "미국 10년물 국채 금리가 한 달 만에 5% 아래로 — 안전자산 수요가 커지며 성장주에 숨통"
-      }
-    },
-    {
-      "id": "aefb0870b8",
-      "title": "솔리다임 美 IPO 철회…블룸버그 전문가 \"중복상장 무조건 막아선 안 돼\"",
-      "url": "https://www.hankyung.com/article/202610239852i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/23 06:14",
-      "published_iso": "2026-10-23T06:14:33+09:00",
-      "sort_key": 1792703673.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "솔리다임 미국 상장 철회에 블룸버그 전문가 '중복상장을 무조건 막아선 안 돼'",
-        "impact": "시장 영향은 제한적",
-        "affected": "SK하이닉스"
-      }
-    },
-    {
-      "id": "24e4b5b9bc",
-      "title": "폴리텍대, 직업훈련 예산으로 홍보비 펑펑…텀블러 등 사재기도",
-      "url": "https://www.yna.co.kr/view/AKR20261022160400530",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/23 06:01",
-      "published_iso": "2026-10-23T06:01:02+09:00",
-      "sort_key": 1792702862.0,
-      "excerpt": "(서울=연합뉴스) 옥성구 기자 = 한국폴리텍대학이 실직자와 취약계층의 직업훈련을 위해 쓰여야 할 예산을 홍보비로 과다 전용하거나, 연말 잔액을 ...",
-      "matched": [],
-      "analysis": {
-        "summary": "폴리텍대가 직업훈련 예산을 홍보비로 과다 사용",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "b7755d8cc3",
-      "title": "집주인 된 미성년자 작년의 1.8배…매수금 절반 이상 '본인 돈'",
-      "url": "https://www.yna.co.kr/view/AKR20261022172200003",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/23 06:01",
-      "published_iso": "2026-10-23T06:01:01+09:00",
-      "sort_key": 1792702861.0,
-      "excerpt": "(서울=연합뉴스) 오예진 기자 = 올해 미성년자가 사들인 주택이 지난해의 두 배에 육박한 가운데 구매금의 절반 이상이 자기 자금으로 나타났다.",
-      "matched": [],
-      "analysis": {
-        "summary": "미성년자 주택 매수가 작년의 1.8배, 매수금 절반 이상이 본인 돈",
-        "impact": "시장 영향은 제한적",
-        "affected": "부동산"
-      }
-    },
-    {
-      "id": "dabc7313e9",
-      "title": "\"40년간 120억장 팔려\"…세계 간식시장 위협하는 '국민 밥도둑' [권용훈의 트렌드워치]",
-      "url": "https://www.hankyung.com/article/202610229752i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/23 06:00",
-      "published_iso": "2026-10-23T06:00:08+09:00",
-      "sort_key": 1792702808.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "40년간 120억 장 팔린 국민 반찬이 세계 간식 시장을 위협",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "e2e6d706b1",
-      "title": "서울시설공단, 공사감독 AI 플랫폼 개발…전국 시공사에 개방",
-      "url": "https://www.yna.co.kr/view/AKR20261022155700004",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/23 06:00",
-      "published_iso": "2026-10-23T06:00:06+09:00",
-      "sort_key": 1792702806.0,
-      "excerpt": "(서울=연합뉴스) 유한주 기자= 서울시설공단은 인공지능(AI) 업무지원 플랫폼을 자체 개발해 전국 지자체와 시공사에 제작 노하우를 개방한다고 2...",
-      "matched": [],
-      "analysis": {
-        "summary": "서울시설공단이 공사 감독 AI 플랫폼을 만들어 전국에 개방",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "41944f70e8",
-      "title": "[단독] 솔리다임 美상장 전격 철회…SK하이닉스, 주주의견 수용",
-      "url": "https://www.hankyung.com/article/2026102298171",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/23 06:00",
-      "published_iso": "2026-10-23T06:00:06+09:00",
-      "sort_key": 1792702806.0,
-      "excerpt": "",
-      "matched": [
-        "000660.KS"
-      ],
-      "analysis": {
-        "summary": "SK하이닉스가 주주 의견을 받아들여 자회사 솔리다임의 미국 상장을 전격 철회",
-        "impact": "중복상장 우려 해소 — 하이닉스 주주가치 희석 위험 줄어듦",
-        "affected": "SK하이닉스",
-        "important": true,
-        "important_tag": "관심종목",
-        "why_important": "관심종목 SK하이닉스가 솔리다임 미국 상장을 철회 — 주주가치 희석 우려가 사라짐"
-      }
-    },
-    {
-      "id": "fe4082fe48",
-      "title": "농식품부, 농업·농촌형 예비사회적기업 7곳 신규 지정",
-      "url": "https://www.yna.co.kr/view/AKR20261022153600030",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/23 06:00",
-      "published_iso": "2026-10-23T06:00:05+09:00",
-      "sort_key": 1792702805.0,
-      "excerpt": "(서울=연합뉴스) 한주홍 기자 = 농림축산식품부는 &apos;농업·농촌형 예비사회적기업&apos; 7곳을 신규 지정했다고 22일 밝혔다.",
-      "matched": [],
-      "analysis": {
-        "summary": "농식품부가 농업·농촌형 예비사회적기업 7곳 신규 지정",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "5bd073c789",
-      "title": "한일, AI·로봇 등 미래산업 협력 확대…대구서 경제교류회의",
-      "url": "https://www.yna.co.kr/view/AKR20261022182900003",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/23 06:00",
-      "published_iso": "2026-10-23T06:00:03+09:00",
-      "sort_key": 1792702803.0,
-      "excerpt": "(서울=연합뉴스) 신창용 기자 = 한국과 일본이 지역의 제조 역량을 바탕으로 첨단소재·인공지능(AI)·로봇 등 미래산업 분야 협력을 확대한다.",
-      "matched": [],
-      "analysis": {
-        "summary": "한일이 대구 경제교류회의에서 AI·로봇 등 미래산업 협력 확대",
-        "impact": "시장 영향은 제한적",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "6e9ea4d612",
-      "title": "\"아이폰 떨어뜨렸다간 월급 반토막\"…갤럭시와 비교했더니 '깜짝'",
-      "url": "https://www.hankyung.com/article/202610229553g",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/23 06:00",
-      "published_iso": "2026-10-23T06:00:03+09:00",
-      "sort_key": 1792702803.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "아이폰 수리비가 갤럭시보다 훨씬 비싸다는 비교",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "0932166c6e",
-      "title": "8월 은행 대출 연체율 9년 10개월만에 최고…0.7% 육박",
-      "url": "https://www.yna.co.kr/view/AKR20261022191400002",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/23 06:00",
-      "published_iso": "2026-10-23T06:00:02+09:00",
-      "sort_key": 1792702802.0,
-      "excerpt": "(서울=연합뉴스) 강류나 기자 = 올해 8월 국내은행의 원화대출 연체율이 약 10년 만에 최고치를 기록했다.",
-      "matched": [],
-      "analysis": {
-        "summary": "8월 은행 대출 연체율이 9년 10개월 만에 최고, 0.7%에 육박",
-        "impact": "가계·기업 부채 부실 신호 — 은행 대손 비용 증가",
-        "affected": "은행주, 가계 소비",
-        "important": true,
-        "important_tag": "산업·실적",
-        "why_important": "국내 은행 연체율이 약 10년 만에 최고 — 가계·기업 부채 부실이 커지는 신호"
-      }
-    },
-    {
-      "id": "fec67afa47",
-      "title": "Monet Painting Sells for $56 Million in France",
-      "url": "https://www.nytimes.com/2026/10/22/arts/design/claude-monet-painting-auction-paris.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/23 05:25",
-      "published_iso": "2026-10-23T05:25:17+09:00",
-      "sort_key": 1792700717.0,
-      "excerpt": "The artwork, titled “Iris,” is among the painter’s later works, which wealthy collectors have coveted in recent years.",
-      "matched": [],
-      "analysis": {
-        "summary": "모네 그림 '아이리스'가 프랑스에서 5,600만 달러에 팔림",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "12dc354696",
-      "title": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
-      "url": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/23 04:18",
-      "published_iso": "2026-10-23T04:18:58+09:00",
-      "sort_key": 1792696738.0,
-      "excerpt": "The 30-year, fixed-rate mortgage dropped slightly to 7.32 percent as prospective home buyers continue to struggle with affordability. But home prices are starting to drop in some areas.",
-      "matched": [],
-      "analysis": {
-        "summary": "미국 30년 주택담보대출 금리가 7.32%로 여전히 7% 넘어 일부 지역 집값 하락",
-        "impact": "미국 주택 시장 냉각",
-        "affected": "미국 주택·건설"
-      }
-    },
-    {
-      "id": "4e52348834",
-      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/23 03:26",
-      "published_iso": "2026-10-23T03:26:56+09:00",
-      "sort_key": 1792693616.0,
-      "excerpt": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-      "matched": [],
-      "analysis": {
-        "summary": "저커버그가 캘리포니아 부유세 대비 메타와 비용 지원 합의(이전 기사와 비슷한 내용)",
-        "impact": "시장 영향은 제한적",
-        "affected": "메타"
-      }
-    },
-    {
-      "id": "9e1e323e88",
-      "title": "[단독] SK하이닉스, 솔리다임 美 상장 전격 철회",
-      "url": "https://www.hankyung.com/article/202610229798i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/23 03:00",
-      "published_iso": "2026-10-23T03:00:02+09:00",
-      "sort_key": 1792692002.0,
-      "excerpt": "",
-      "matched": [
-        "000660.KS"
-      ],
-      "analysis": {
-        "summary": "SK하이닉스 솔리다임 미국 상장 철회(앞 기사와 같은 내용)",
-        "impact": "중복상장 우려 해소",
-        "affected": "SK하이닉스"
-      }
-    },
-    {
-      "id": "0cbf830143",
-      "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
-      "url": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/23 02:07",
-      "published_iso": "2026-10-23T02:07:44+09:00",
-      "sort_key": 1792688864.0,
-      "excerpt": "The midterms are the first elections in which artificial intelligence is integrated into every major social media platform. Efforts to blunt its harms are uneven.",
-      "matched": [],
-      "analysis": {
-        "summary": "AI가 모든 SNS에 들어간 첫 중간선거 — 부작용 대응은 제각각",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "dd0ce14df0",
-      "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
-      "url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
-      "source": "CNBC Economy",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/23 01:40",
-      "published_iso": "2026-10-23T01:40:09+09:00",
-      "sort_key": 1792687209.0,
-      "excerpt": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
-      "matched": [],
-      "analysis": {
-        "summary": "미국 신규 실업수당 청구가 19.4만 건으로 1960년대 이후 최저 수준 근처",
-        "impact": "해고가 매우 적음 — 고용 시장 탄탄, 금리 인하 기대는 약해짐",
-        "affected": "미국 고용, 국채금리",
-        "important": true,
-        "important_tag": "거시경제",
-        "why_important": "미국 신규 실업수당 청구 19.4만 건, 1960년대 이후 최저권 — 고용이 여전히 탄탄"
-      }
-    },
-    {
-      "id": "4dacc31a3d",
-      "title": "\"AI 거품이라고? 천만에\"…구글 전CEO와 월가 거물들 반박",
-      "url": "https://www.hankyung.com/article/202610239834i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/23 00:58",
-      "published_iso": "2026-10-23T00:58:50+09:00",
-      "sort_key": 1792684730.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "구글 전 CEO와 월가 거물들이 'AI 거품론'을 반박",
-        "impact": "시장 영향은 제한적",
-        "affected": "AI 관련주"
-      }
-    },
-    {
-      "id": "f049733ff1",
-      "title": "'I wasn't thinking straight' says five jobs civil servant",
-      "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/23 00:05",
-      "published_iso": "2026-10-23T00:05:47+09:00",
-      "sort_key": 1792681547.0,
-      "excerpt": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
-      "matched": [],
-      "analysis": {
-        "summary": "공무원 일자리 5개를 동시에 가진 영국 공무원 사기 혐의 재판",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "b4871ab290",
-      "title": "중국발 메모리공포에 젠슨황 한마디…\"2029년까지 공급과잉 없다\"",
-      "url": "https://www.hankyung.com/article/202610229805i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/22 22:59",
-      "published_iso": "2026-10-22T22:59:35+09:00",
-      "sort_key": 1792677575.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "중국발 메모리 공급 과잉 우려에 젠슨 황 '2029년까지 공급과잉 없다'",
-        "impact": "메모리 업황 우려 완화",
-        "affected": "엔비디아, 삼성전자, SK하이닉스"
-      }
+   ]
+  },
+  {
+   "name": "LG에너지솔루션",
+   "symbol": "373220.KS",
+   "unit": "",
+   "keywords": [
+    "LG에너지솔루션",
+    "LG Energy Solution",
+    "이차전지",
+    "배터리"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 379000.0,
+   "prev_close": 403000.0,
+   "change": -24000.0,
+   "change_pct": -5.96,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1792714641,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "NAVER",
+   "symbol": "035420.KS",
+   "unit": "",
+   "keywords": [
+    "네이버",
+    "NAVER"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 173900.0,
+   "prev_close": 180000.0,
+   "change": -6100.0,
+   "change_pct": -3.39,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1792714641,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "엔비디아",
+   "symbol": "NVDA",
+   "unit": "",
+   "keywords": [
+    "엔비디아",
+    "Nvidia",
+    "NVDA"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 212.21,
+   "prev_close": 217.23,
+   "change": -5.02,
+   "change_pct": -2.31,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1792699200,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "애플",
+   "symbol": "AAPL",
+   "unit": "",
+   "keywords": [
+    "애플",
+    "Apple",
+    "AAPL"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 348.22,
+   "prev_close": 342.0,
+   "change": 6.22,
+   "change_pct": 1.82,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1792699201,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "테슬라",
+   "symbol": "TSLA",
+   "unit": "",
+   "keywords": [
+    "테슬라",
+    "Tesla",
+    "TSLA"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 374.58,
+   "prev_close": 362.44,
+   "change": 12.14,
+   "change_pct": 3.35,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1792699200,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "마이크로소프트",
+   "symbol": "MSFT",
+   "unit": "",
+   "keywords": [
+    "마이크로소프트",
+    "Microsoft",
+    "MSFT"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 521.08,
+   "prev_close": 539.44,
+   "change": -18.36,
+   "change_pct": -3.4,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1792699201,
+   "asof_date": null,
+   "news": []
+  }
+ ],
+ "news": [
+  {
+   "id": "a07cc1961c",
+   "title": "'새로운 60년'…한일 경제계 \"양국이 함께 신시장·산업 개척\"",
+   "url": "https://www.yna.co.kr/view/AKR20261022162400003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 09:30",
+   "published_iso": "2026-10-23T09:30:01+09:00",
+   "sort_key": 1792715401.0,
+   "excerpt": "(서울=연합뉴스) 장하나 기자 = 한일 경제계가 통상 환경 변화와 에너지 공급망 불안, 저출생·고령화에 따른 지방 인구 감소 등 공통 과제에 함...",
+   "matched": []
+  },
+  {
+   "id": "1890d599d2",
+   "title": "[게시판] 농협은행, 베트남 아그리뱅크·창원대와 베트남 유학생 지원",
+   "url": "https://www.yna.co.kr/view/AKR20261023044200002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 09:29",
+   "published_iso": "2026-10-23T09:29:23+09:00",
+   "sort_key": 1792715363.0,
+   "excerpt": "▲ NH농협은행은 지난 22일 베트남 하노이에서 베트남 아그리뱅크, 국립창원대와 &apos;베트남 유학생 유치 및 금융서비스 지원을 위한 업무협약&apos;을 체...",
+   "matched": []
+  },
+  {
+   "id": "46981c2419",
+   "title": "[인사] 국가데이터처",
+   "url": "https://www.yna.co.kr/view/AKR20261023044500002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 09:29",
+   "published_iso": "2026-10-23T09:29:09+09:00",
+   "sort_key": 1792715349.0,
+   "excerpt": "◇ 일반직 고위공무원 임용",
+   "matched": []
+  },
+  {
+   "id": "ee30fc9c90",
+   "title": "창립 25주년 맞은 코람코자산신탁…\"다음 25년은 글로벌 확장\"",
+   "url": "https://www.yna.co.kr/view/AKR20261023040700008",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 09:26",
+   "published_iso": "2026-10-23T09:26:44+09:00",
+   "sort_key": 1792715204.0,
+   "excerpt": "(서울=연합뉴스) 강수지 기자 = 코람코자산신탁은 창립 25주년을 맞아 23일 창립기념식을 열었다.",
+   "matched": []
+  },
+  {
+   "id": "f7d55799aa",
+   "title": "[특징주] 삼성E&A, 증권가 목표주가 줄상향속 6%대 강세",
+   "url": "https://www.yna.co.kr/view/AKR20261023044600008",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 09:26",
+   "published_iso": "2026-10-23T09:26:33+09:00",
+   "sort_key": 1792715193.0,
+   "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 삼성E&amp;amp;A[028050]가 증권가의 잇따른 목표주가 상향에 힘입어 23일 장 초반 7% 가까이 오르고 ...",
+   "matched": []
+  },
+  {
+   "id": "2ab4ecfb15",
+   "title": "식품업계, 브랜드 체험·지역 상생 팝업스토어 운영",
+   "url": "https://www.yna.co.kr/view/AKR20261023042500030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 09:25",
+   "published_iso": "2026-10-23T09:25:09+09:00",
+   "sort_key": 1792715109.0,
+   "excerpt": "(서울=연합뉴스) 김세린 기자 = 식품업계가 브랜드 홍보와 지역 중소 식품업체의 판로 확대 등을 위해 팝업스토어를 잇달아 운영하고 있다.",
+   "matched": []
+  },
+  {
+   "id": "9f742c710a",
+   "title": "롯데이노베이트, 말레이 고속도로 2천㎞ 통행료시장 노린다",
+   "url": "https://www.yna.co.kr/view/AKR20261023034600017",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 09:23",
+   "published_iso": "2026-10-23T09:23:01+09:00",
+   "sort_key": 1792714981.0,
+   "excerpt": "(서울=연합뉴스) 한상용 기자 = 롯데이노베이트[286940]는 카타르 프로토콜캐피털그룹(PCG)과 해외 다차로 무정차 통행료 징수(MLFF) ...",
+   "matched": []
+  },
+  {
+   "id": "41776a4a78",
+   "title": "[게시판] LH, 직원 주도 AI 혁신조직 'AI 프론티어' 출범",
+   "url": "https://www.yna.co.kr/view/AKR20261023032500003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 09:22",
+   "published_iso": "2026-10-23T09:22:04+09:00",
+   "sort_key": 1792714924.0,
+   "excerpt": "▲ 한국토지주택공사(LH)는 지난 22일 서울지역본부에서 직원 주도의 인공지능(AI) 혁신조직인 &apos;LH AI 프론티어&apos; 출범식을 개최했다고 23...",
+   "matched": []
+  },
+  {
+   "id": "94e64ee5d0",
+   "title": "\"유명 바 31곳 뭉쳤다\"…우드포드 올드패션드 축제",
+   "url": "https://www.hankyung.com/article/202610230304g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 09:18",
+   "published_iso": "2026-10-23T09:18:52+09:00",
+   "sort_key": 1792714732.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "8fcd3ee35c",
+   "title": "기술주 떠나 헬스케어로…AI 투자 우려에 자금 이동",
+   "url": "https://www.hankyung.com/article/202610230240i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 08:51",
+   "published_iso": "2026-10-23T08:51:07+09:00",
+   "sort_key": 1792713067.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "0247ccd6fe",
+   "title": "\"데이터센터 전력 직접 생산\"…트럼프, 주민 반발에 규제 강화",
+   "url": "https://www.hankyung.com/article/202610230241i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 08:50",
+   "published_iso": "2026-10-23T08:50:03+09:00",
+   "sort_key": 1792713003.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "d502d1289d",
+   "title": "폴리티코 소유주, 틱톡 유럽사업 인수 타진…EU 반응 냉담",
+   "url": "https://www.hankyung.com/article/202610230217i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 08:43",
+   "published_iso": "2026-10-23T08:43:47+09:00",
+   "sort_key": 1792712627.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "19b11a01be",
+   "title": "매실음료 인기 잇는다…메가박스서 아침햇살 쉐이크 맛본다",
+   "url": "https://www.hankyung.com/article/202610230175g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 08:39",
+   "published_iso": "2026-10-23T08:39:24+09:00",
+   "sort_key": 1792712364.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "37bfb5868c",
+   "title": "메타 시총 1240억달러 증발…AI 투자 불안에 나스닥 급락·국채 급등",
+   "url": "https://www.hankyung.com/article/202610230174i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 08:37",
+   "published_iso": "2026-10-23T08:37:29+09:00",
+   "sort_key": 1792712249.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "fb7b04801b",
+   "title": "주식계좌 웃고 장바구니 울었다…트럼프 2기 美 가계경제 명암",
+   "url": "https://www.hankyung.com/article/202610230131i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 08:32",
+   "published_iso": "2026-10-23T08:32:23+09:00",
+   "sort_key": 1792711943.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "afb04e7a89",
+   "title": "LNG값 3배 가까이 뛰어도 아시아 수입 3개월 만에 최대",
+   "url": "https://www.hankyung.com/article/202610230011i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 08:29",
+   "published_iso": "2026-10-23T08:29:48+09:00",
+   "sort_key": 1792711788.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "80af6eb4a3",
+   "title": "Grid operator says lights will stay on this winter after concerns",
+   "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/23 08:04",
+   "published_iso": "2026-10-23T08:04:38+09:00",
+   "sort_key": 1792710278.0,
+   "excerpt": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+   "matched": []
+  },
+  {
+   "id": "84738a388b",
+   "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+   "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/23 07:27",
+   "published_iso": "2026-10-23T07:27:53+09:00",
+   "sort_key": 1792708073.0,
+   "excerpt": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+   "matched": []
+  },
+  {
+   "id": "7269c2abae",
+   "title": "\"겨울엔 귤만 먹는 줄 알았는데\"…마트에 등장한 '의외의 과일' [트렌드+]",
+   "url": "https://www.hankyung.com/article/202610228609g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 07:09",
+   "published_iso": "2026-10-23T07:09:03+09:00",
+   "sort_key": 1792706943.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "겨울 마트에 귤 말고 새로운 과일이 등장",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "4a8a50e6f9",
+   "title": "[인터뷰] 현대차증권 센터장 \"지금은 버텨야…4분기 코스피 5,300∼7,200\"",
+   "url": "https://www.yna.co.kr/view/AKR20261022169100008",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 07:00",
+   "published_iso": "2026-10-23T07:00:02+09:00",
+   "sort_key": 1792706402.0,
+   "excerpt": "(서울=연합뉴스) 경수현 기자 = &quot;지금 코스피 지수는 적정 수준보다 낮은 국면이라는 의견이 지배적이다. 반등할 시점을 정확히 예측하기는 어렵지...",
+   "matched": [
+    "005380.KS"
+   ],
+   "analysis": {
+    "summary": "현대차증권 센터장 '지금은 버틸 때, 4분기 코스피 5,300~7,200'",
+    "impact": "시장 영향은 제한적",
+    "affected": "코스피"
+   }
+  },
+  {
+   "id": "399032daa4",
+   "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+   "url": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/23 06:31",
+   "published_iso": "2026-10-23T06:31:29+09:00",
+   "sort_key": 1792704689.0,
+   "excerpt": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems.",
+   "matched": [],
+   "analysis": {
+    "summary": "PHP 보안 취약점 때문에 정부·기업 사이트가 내려가는 이유 설명(이전 기사와 같은 내용)",
+    "impact": "인터넷 서비스 보안 비용 증가",
+    "affected": "웹 호스팅, 보안 업체"
+   }
+  },
+  {
+   "id": "81176986f0",
+   "title": "안전자산 찾아서…美 10년물 국채 금리, 한달만에 5% 밑으로",
+   "url": "https://www.yna.co.kr/view/AKR20261023009000072",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 06:14",
+   "published_iso": "2026-10-23T06:14:56+09:00",
+   "sort_key": 1792703696.0,
+   "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 글로벌 채권 금리의 벤치마크인 미국 10년 만기 국채 금리가 22일(현지시간) 약 한 달 만에 5% 아래로 ...",
+   "matched": [],
+   "analysis": {
+    "summary": "안전자산 수요로 미국 10년물 국채 금리가 한 달 만에 5% 아래로",
+    "impact": "금리 하락 — 성장주·주택 시장에 숨통, 위험 회피 심리 반영",
+    "affected": "미국 국채, 성장주, 달러",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "미국 10년물 국채 금리가 한 달 만에 5% 아래로 — 안전자산 수요가 커지며 성장주에 숨통"
+   }
+  },
+  {
+   "id": "aefb0870b8",
+   "title": "솔리다임 美 IPO 철회…블룸버그 전문가 \"중복상장 무조건 막아선 안 돼\"",
+   "url": "https://www.hankyung.com/article/202610239852i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 06:14",
+   "published_iso": "2026-10-23T06:14:33+09:00",
+   "sort_key": 1792703673.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "솔리다임 미국 상장 철회에 블룸버그 전문가 '중복상장을 무조건 막아선 안 돼'",
+    "impact": "시장 영향은 제한적",
+    "affected": "SK하이닉스"
+   }
+  },
+  {
+   "id": "24e4b5b9bc",
+   "title": "폴리텍대, 직업훈련 예산으로 홍보비 펑펑…텀블러 등 사재기도",
+   "url": "https://www.yna.co.kr/view/AKR20261022160400530",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 06:01",
+   "published_iso": "2026-10-23T06:01:02+09:00",
+   "sort_key": 1792702862.0,
+   "excerpt": "(서울=연합뉴스) 옥성구 기자 = 한국폴리텍대학이 실직자와 취약계층의 직업훈련을 위해 쓰여야 할 예산을 홍보비로 과다 전용하거나, 연말 잔액을 ...",
+   "matched": [],
+   "analysis": {
+    "summary": "폴리텍대가 직업훈련 예산을 홍보비로 과다 사용",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "b7755d8cc3",
+   "title": "집주인 된 미성년자 작년의 1.8배…매수금 절반 이상 '본인 돈'",
+   "url": "https://www.yna.co.kr/view/AKR20261022172200003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 06:01",
+   "published_iso": "2026-10-23T06:01:01+09:00",
+   "sort_key": 1792702861.0,
+   "excerpt": "(서울=연합뉴스) 오예진 기자 = 올해 미성년자가 사들인 주택이 지난해의 두 배에 육박한 가운데 구매금의 절반 이상이 자기 자금으로 나타났다.",
+   "matched": [],
+   "analysis": {
+    "summary": "미성년자 주택 매수가 작년의 1.8배, 매수금 절반 이상이 본인 돈",
+    "impact": "시장 영향은 제한적",
+    "affected": "부동산"
+   }
+  },
+  {
+   "id": "dabc7313e9",
+   "title": "\"40년간 120억장 팔려\"…세계 간식시장 위협하는 '국민 밥도둑' [권용훈의 트렌드워치]",
+   "url": "https://www.hankyung.com/article/202610229752i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 06:00",
+   "published_iso": "2026-10-23T06:00:08+09:00",
+   "sort_key": 1792702808.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "40년간 120억 장 팔린 국민 반찬이 세계 간식 시장을 위협",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "e2e6d706b1",
+   "title": "서울시설공단, 공사감독 AI 플랫폼 개발…전국 시공사에 개방",
+   "url": "https://www.yna.co.kr/view/AKR20261022155700004",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 06:00",
+   "published_iso": "2026-10-23T06:00:06+09:00",
+   "sort_key": 1792702806.0,
+   "excerpt": "(서울=연합뉴스) 유한주 기자= 서울시설공단은 인공지능(AI) 업무지원 플랫폼을 자체 개발해 전국 지자체와 시공사에 제작 노하우를 개방한다고 2...",
+   "matched": [],
+   "analysis": {
+    "summary": "서울시설공단이 공사 감독 AI 플랫폼을 만들어 전국에 개방",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "41944f70e8",
+   "title": "[단독] 솔리다임 美상장 전격 철회…SK하이닉스, 주주의견 수용",
+   "url": "https://www.hankyung.com/article/2026102298171",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 06:00",
+   "published_iso": "2026-10-23T06:00:06+09:00",
+   "sort_key": 1792702806.0,
+   "excerpt": "",
+   "matched": [
+    "000660.KS"
+   ],
+   "analysis": {
+    "summary": "SK하이닉스가 주주 의견을 받아들여 자회사 솔리다임의 미국 상장을 전격 철회",
+    "impact": "중복상장 우려 해소 — 하이닉스 주주가치 희석 위험 줄어듦",
+    "affected": "SK하이닉스",
+    "important": true,
+    "important_tag": "관심종목",
+    "why_important": "관심종목 SK하이닉스가 솔리다임 미국 상장을 철회 — 주주가치 희석 우려가 사라짐"
+   }
+  },
+  {
+   "id": "fe4082fe48",
+   "title": "농식품부, 농업·농촌형 예비사회적기업 7곳 신규 지정",
+   "url": "https://www.yna.co.kr/view/AKR20261022153600030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 06:00",
+   "published_iso": "2026-10-23T06:00:05+09:00",
+   "sort_key": 1792702805.0,
+   "excerpt": "(서울=연합뉴스) 한주홍 기자 = 농림축산식품부는 &apos;농업·농촌형 예비사회적기업&apos; 7곳을 신규 지정했다고 22일 밝혔다.",
+   "matched": [],
+   "analysis": {
+    "summary": "농식품부가 농업·농촌형 예비사회적기업 7곳 신규 지정",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "5bd073c789",
+   "title": "한일, AI·로봇 등 미래산업 협력 확대…대구서 경제교류회의",
+   "url": "https://www.yna.co.kr/view/AKR20261022182900003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 06:00",
+   "published_iso": "2026-10-23T06:00:03+09:00",
+   "sort_key": 1792702803.0,
+   "excerpt": "(서울=연합뉴스) 신창용 기자 = 한국과 일본이 지역의 제조 역량을 바탕으로 첨단소재·인공지능(AI)·로봇 등 미래산업 분야 협력을 확대한다.",
+   "matched": [],
+   "analysis": {
+    "summary": "한일이 대구 경제교류회의에서 AI·로봇 등 미래산업 협력 확대",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "6e9ea4d612",
+   "title": "\"아이폰 떨어뜨렸다간 월급 반토막\"…갤럭시와 비교했더니 '깜짝'",
+   "url": "https://www.hankyung.com/article/202610229553g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 06:00",
+   "published_iso": "2026-10-23T06:00:03+09:00",
+   "sort_key": 1792702803.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "아이폰 수리비가 갤럭시보다 훨씬 비싸다는 비교",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "0932166c6e",
+   "title": "8월 은행 대출 연체율 9년 10개월만에 최고…0.7% 육박",
+   "url": "https://www.yna.co.kr/view/AKR20261022191400002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 06:00",
+   "published_iso": "2026-10-23T06:00:02+09:00",
+   "sort_key": 1792702802.0,
+   "excerpt": "(서울=연합뉴스) 강류나 기자 = 올해 8월 국내은행의 원화대출 연체율이 약 10년 만에 최고치를 기록했다.",
+   "matched": [],
+   "analysis": {
+    "summary": "8월 은행 대출 연체율이 9년 10개월 만에 최고, 0.7%에 육박",
+    "impact": "가계·기업 부채 부실 신호 — 은행 대손 비용 증가",
+    "affected": "은행주, 가계 소비",
+    "important": true,
+    "important_tag": "산업·실적",
+    "why_important": "국내 은행 연체율이 약 10년 만에 최고 — 가계·기업 부채 부실이 커지는 신호"
+   }
+  },
+  {
+   "id": "fec67afa47",
+   "title": "Monet Painting Sells for $56 Million in France",
+   "url": "https://www.nytimes.com/2026/10/22/arts/design/claude-monet-painting-auction-paris.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/23 05:25",
+   "published_iso": "2026-10-23T05:25:17+09:00",
+   "sort_key": 1792700717.0,
+   "excerpt": "The artwork, titled “Iris,” is among the painter’s later works, which wealthy collectors have coveted in recent years.",
+   "matched": [],
+   "analysis": {
+    "summary": "모네 그림 '아이리스'가 프랑스에서 5,600만 달러에 팔림",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "12dc354696",
+   "title": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
+   "url": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/23 04:18",
+   "published_iso": "2026-10-23T04:18:58+09:00",
+   "sort_key": 1792696738.0,
+   "excerpt": "The 30-year, fixed-rate mortgage dropped slightly to 7.32 percent as prospective home buyers continue to struggle with affordability. But home prices are starting to drop in some areas.",
+   "matched": [],
+   "analysis": {
+    "summary": "미국 30년 주택담보대출 금리가 7.32%로 여전히 7% 넘어 일부 지역 집값 하락",
+    "impact": "미국 주택 시장 냉각",
+    "affected": "미국 주택·건설"
+   }
+  },
+  {
+   "id": "4e52348834",
+   "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+   "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/23 03:26",
+   "published_iso": "2026-10-23T03:26:56+09:00",
+   "sort_key": 1792693616.0,
+   "excerpt": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+   "matched": [],
+   "analysis": {
+    "summary": "저커버그가 캘리포니아 부유세 대비 메타와 비용 지원 합의(이전 기사와 비슷한 내용)",
+    "impact": "시장 영향은 제한적",
+    "affected": "메타"
+   }
+  },
+  {
+   "id": "9e1e323e88",
+   "title": "[단독] SK하이닉스, 솔리다임 美 상장 전격 철회",
+   "url": "https://www.hankyung.com/article/202610229798i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 03:00",
+   "published_iso": "2026-10-23T03:00:02+09:00",
+   "sort_key": 1792692002.0,
+   "excerpt": "",
+   "matched": [
+    "000660.KS"
+   ],
+   "analysis": {
+    "summary": "SK하이닉스 솔리다임 미국 상장 철회(앞 기사와 같은 내용)",
+    "impact": "중복상장 우려 해소",
+    "affected": "SK하이닉스"
+   }
+  },
+  {
+   "id": "0cbf830143",
+   "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
+   "url": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/23 02:07",
+   "published_iso": "2026-10-23T02:07:44+09:00",
+   "sort_key": 1792688864.0,
+   "excerpt": "The midterms are the first elections in which artificial intelligence is integrated into every major social media platform. Efforts to blunt its harms are uneven.",
+   "matched": [],
+   "analysis": {
+    "summary": "AI가 모든 SNS에 들어간 첫 중간선거 — 부작용 대응은 제각각",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "dd0ce14df0",
+   "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+   "url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+   "source": "CNBC Economy",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/23 01:40",
+   "published_iso": "2026-10-23T01:40:09+09:00",
+   "sort_key": 1792687209.0,
+   "excerpt": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
+   "matched": [],
+   "analysis": {
+    "summary": "미국 신규 실업수당 청구가 19.4만 건으로 1960년대 이후 최저 수준 근처",
+    "impact": "해고가 매우 적음 — 고용 시장 탄탄, 금리 인하 기대는 약해짐",
+    "affected": "미국 고용, 국채금리",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "미국 신규 실업수당 청구 19.4만 건, 1960년대 이후 최저권 — 고용이 여전히 탄탄"
+   }
+  },
+  {
+   "id": "4dacc31a3d",
+   "title": "\"AI 거품이라고? 천만에\"…구글 전CEO와 월가 거물들 반박",
+   "url": "https://www.hankyung.com/article/202610239834i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/23 00:58",
+   "published_iso": "2026-10-23T00:58:50+09:00",
+   "sort_key": 1792684730.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "구글 전 CEO와 월가 거물들이 'AI 거품론'을 반박",
+    "impact": "시장 영향은 제한적",
+    "affected": "AI 관련주"
+   }
+  },
+  {
+   "id": "f049733ff1",
+   "title": "'I wasn't thinking straight' says five jobs civil servant",
+   "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/23 00:05",
+   "published_iso": "2026-10-23T00:05:47+09:00",
+   "sort_key": 1792681547.0,
+   "excerpt": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
+   "matched": [],
+   "analysis": {
+    "summary": "공무원 일자리 5개를 동시에 가진 영국 공무원 사기 혐의 재판",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "b4871ab290",
+   "title": "중국발 메모리공포에 젠슨황 한마디…\"2029년까지 공급과잉 없다\"",
+   "url": "https://www.hankyung.com/article/202610229805i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/22 22:59",
+   "published_iso": "2026-10-22T22:59:35+09:00",
+   "sort_key": 1792677575.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "중국발 메모리 공급 과잉 우려에 젠슨 황 '2029년까지 공급과잉 없다'",
+    "impact": "메모리 업황 우려 완화",
+    "affected": "엔비디아, 삼성전자, SK하이닉스"
+   }
+  }
+ ],
+ "news_groups": {
+  "국내 경제언론": [
+   {
+    "id": "a07cc1961c",
+    "title": "'새로운 60년'…한일 경제계 \"양국이 함께 신시장·산업 개척\"",
+    "url": "https://www.yna.co.kr/view/AKR20261022162400003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 09:30",
+    "published_iso": "2026-10-23T09:30:01+09:00",
+    "sort_key": 1792715401.0,
+    "excerpt": "(서울=연합뉴스) 장하나 기자 = 한일 경제계가 통상 환경 변화와 에너지 공급망 불안, 저출생·고령화에 따른 지방 인구 감소 등 공통 과제에 함...",
+    "matched": []
+   },
+   {
+    "id": "1890d599d2",
+    "title": "[게시판] 농협은행, 베트남 아그리뱅크·창원대와 베트남 유학생 지원",
+    "url": "https://www.yna.co.kr/view/AKR20261023044200002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 09:29",
+    "published_iso": "2026-10-23T09:29:23+09:00",
+    "sort_key": 1792715363.0,
+    "excerpt": "▲ NH농협은행은 지난 22일 베트남 하노이에서 베트남 아그리뱅크, 국립창원대와 &apos;베트남 유학생 유치 및 금융서비스 지원을 위한 업무협약&apos;을 체...",
+    "matched": []
+   },
+   {
+    "id": "46981c2419",
+    "title": "[인사] 국가데이터처",
+    "url": "https://www.yna.co.kr/view/AKR20261023044500002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 09:29",
+    "published_iso": "2026-10-23T09:29:09+09:00",
+    "sort_key": 1792715349.0,
+    "excerpt": "◇ 일반직 고위공무원 임용",
+    "matched": []
+   },
+   {
+    "id": "ee30fc9c90",
+    "title": "창립 25주년 맞은 코람코자산신탁…\"다음 25년은 글로벌 확장\"",
+    "url": "https://www.yna.co.kr/view/AKR20261023040700008",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 09:26",
+    "published_iso": "2026-10-23T09:26:44+09:00",
+    "sort_key": 1792715204.0,
+    "excerpt": "(서울=연합뉴스) 강수지 기자 = 코람코자산신탁은 창립 25주년을 맞아 23일 창립기념식을 열었다.",
+    "matched": []
+   },
+   {
+    "id": "f7d55799aa",
+    "title": "[특징주] 삼성E&A, 증권가 목표주가 줄상향속 6%대 강세",
+    "url": "https://www.yna.co.kr/view/AKR20261023044600008",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 09:26",
+    "published_iso": "2026-10-23T09:26:33+09:00",
+    "sort_key": 1792715193.0,
+    "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 삼성E&amp;amp;A[028050]가 증권가의 잇따른 목표주가 상향에 힘입어 23일 장 초반 7% 가까이 오르고 ...",
+    "matched": []
+   },
+   {
+    "id": "2ab4ecfb15",
+    "title": "식품업계, 브랜드 체험·지역 상생 팝업스토어 운영",
+    "url": "https://www.yna.co.kr/view/AKR20261023042500030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 09:25",
+    "published_iso": "2026-10-23T09:25:09+09:00",
+    "sort_key": 1792715109.0,
+    "excerpt": "(서울=연합뉴스) 김세린 기자 = 식품업계가 브랜드 홍보와 지역 중소 식품업체의 판로 확대 등을 위해 팝업스토어를 잇달아 운영하고 있다.",
+    "matched": []
+   },
+   {
+    "id": "9f742c710a",
+    "title": "롯데이노베이트, 말레이 고속도로 2천㎞ 통행료시장 노린다",
+    "url": "https://www.yna.co.kr/view/AKR20261023034600017",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 09:23",
+    "published_iso": "2026-10-23T09:23:01+09:00",
+    "sort_key": 1792714981.0,
+    "excerpt": "(서울=연합뉴스) 한상용 기자 = 롯데이노베이트[286940]는 카타르 프로토콜캐피털그룹(PCG)과 해외 다차로 무정차 통행료 징수(MLFF) ...",
+    "matched": []
+   },
+   {
+    "id": "41776a4a78",
+    "title": "[게시판] LH, 직원 주도 AI 혁신조직 'AI 프론티어' 출범",
+    "url": "https://www.yna.co.kr/view/AKR20261023032500003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 09:22",
+    "published_iso": "2026-10-23T09:22:04+09:00",
+    "sort_key": 1792714924.0,
+    "excerpt": "▲ 한국토지주택공사(LH)는 지난 22일 서울지역본부에서 직원 주도의 인공지능(AI) 혁신조직인 &apos;LH AI 프론티어&apos; 출범식을 개최했다고 23...",
+    "matched": []
+   },
+   {
+    "id": "94e64ee5d0",
+    "title": "\"유명 바 31곳 뭉쳤다\"…우드포드 올드패션드 축제",
+    "url": "https://www.hankyung.com/article/202610230304g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 09:18",
+    "published_iso": "2026-10-23T09:18:52+09:00",
+    "sort_key": 1792714732.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "8fcd3ee35c",
+    "title": "기술주 떠나 헬스케어로…AI 투자 우려에 자금 이동",
+    "url": "https://www.hankyung.com/article/202610230240i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 08:51",
+    "published_iso": "2026-10-23T08:51:07+09:00",
+    "sort_key": 1792713067.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "0247ccd6fe",
+    "title": "\"데이터센터 전력 직접 생산\"…트럼프, 주민 반발에 규제 강화",
+    "url": "https://www.hankyung.com/article/202610230241i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 08:50",
+    "published_iso": "2026-10-23T08:50:03+09:00",
+    "sort_key": 1792713003.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "d502d1289d",
+    "title": "폴리티코 소유주, 틱톡 유럽사업 인수 타진…EU 반응 냉담",
+    "url": "https://www.hankyung.com/article/202610230217i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 08:43",
+    "published_iso": "2026-10-23T08:43:47+09:00",
+    "sort_key": 1792712627.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "19b11a01be",
+    "title": "매실음료 인기 잇는다…메가박스서 아침햇살 쉐이크 맛본다",
+    "url": "https://www.hankyung.com/article/202610230175g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 08:39",
+    "published_iso": "2026-10-23T08:39:24+09:00",
+    "sort_key": 1792712364.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "37bfb5868c",
+    "title": "메타 시총 1240억달러 증발…AI 투자 불안에 나스닥 급락·국채 급등",
+    "url": "https://www.hankyung.com/article/202610230174i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 08:37",
+    "published_iso": "2026-10-23T08:37:29+09:00",
+    "sort_key": 1792712249.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "fb7b04801b",
+    "title": "주식계좌 웃고 장바구니 울었다…트럼프 2기 美 가계경제 명암",
+    "url": "https://www.hankyung.com/article/202610230131i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 08:32",
+    "published_iso": "2026-10-23T08:32:23+09:00",
+    "sort_key": 1792711943.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "afb04e7a89",
+    "title": "LNG값 3배 가까이 뛰어도 아시아 수입 3개월 만에 최대",
+    "url": "https://www.hankyung.com/article/202610230011i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 08:29",
+    "published_iso": "2026-10-23T08:29:48+09:00",
+    "sort_key": 1792711788.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "7269c2abae",
+    "title": "\"겨울엔 귤만 먹는 줄 알았는데\"…마트에 등장한 '의외의 과일' [트렌드+]",
+    "url": "https://www.hankyung.com/article/202610228609g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 07:09",
+    "published_iso": "2026-10-23T07:09:03+09:00",
+    "sort_key": 1792706943.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "겨울 마트에 귤 말고 새로운 과일이 등장",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
     }
-  ],
-  "news_groups": {
-    "국내 경제언론": [
-      {
-        "id": "7269c2abae",
-        "title": "\"겨울엔 귤만 먹는 줄 알았는데\"…마트에 등장한 '의외의 과일' [트렌드+]",
-        "url": "https://www.hankyung.com/article/202610228609g",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/23 07:09",
-        "published_iso": "2026-10-23T07:09:03+09:00",
-        "sort_key": 1792706943.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "4a8a50e6f9",
-        "title": "[인터뷰] 현대차증권 센터장 \"지금은 버텨야…4분기 코스피 5,300∼7,200\"",
-        "url": "https://www.yna.co.kr/view/AKR20261022169100008",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/23 07:00",
-        "published_iso": "2026-10-23T07:00:02+09:00",
-        "sort_key": 1792706402.0,
-        "excerpt": "(서울=연합뉴스) 경수현 기자 = &quot;지금 코스피 지수는 적정 수준보다 낮은 국면이라는 의견이 지배적이다. 반등할 시점을 정확히 예측하기는 어렵지...",
-        "matched": [
-          "005380.KS"
-        ]
-      },
-      {
-        "id": "81176986f0",
-        "title": "안전자산 찾아서…美 10년물 국채 금리, 한달만에 5% 밑으로",
-        "url": "https://www.yna.co.kr/view/AKR20261023009000072",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/23 06:14",
-        "published_iso": "2026-10-23T06:14:56+09:00",
-        "sort_key": 1792703696.0,
-        "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 글로벌 채권 금리의 벤치마크인 미국 10년 만기 국채 금리가 22일(현지시간) 약 한 달 만에 5% 아래로 ...",
-        "matched": []
-      },
-      {
-        "id": "aefb0870b8",
-        "title": "솔리다임 美 IPO 철회…블룸버그 전문가 \"중복상장 무조건 막아선 안 돼\"",
-        "url": "https://www.hankyung.com/article/202610239852i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/23 06:14",
-        "published_iso": "2026-10-23T06:14:33+09:00",
-        "sort_key": 1792703673.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "24e4b5b9bc",
-        "title": "폴리텍대, 직업훈련 예산으로 홍보비 펑펑…텀블러 등 사재기도",
-        "url": "https://www.yna.co.kr/view/AKR20261022160400530",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/23 06:01",
-        "published_iso": "2026-10-23T06:01:02+09:00",
-        "sort_key": 1792702862.0,
-        "excerpt": "(서울=연합뉴스) 옥성구 기자 = 한국폴리텍대학이 실직자와 취약계층의 직업훈련을 위해 쓰여야 할 예산을 홍보비로 과다 전용하거나, 연말 잔액을 ...",
-        "matched": []
-      },
-      {
-        "id": "b7755d8cc3",
-        "title": "집주인 된 미성년자 작년의 1.8배…매수금 절반 이상 '본인 돈'",
-        "url": "https://www.yna.co.kr/view/AKR20261022172200003",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/23 06:01",
-        "published_iso": "2026-10-23T06:01:01+09:00",
-        "sort_key": 1792702861.0,
-        "excerpt": "(서울=연합뉴스) 오예진 기자 = 올해 미성년자가 사들인 주택이 지난해의 두 배에 육박한 가운데 구매금의 절반 이상이 자기 자금으로 나타났다.",
-        "matched": []
-      },
-      {
-        "id": "dabc7313e9",
-        "title": "\"40년간 120억장 팔려\"…세계 간식시장 위협하는 '국민 밥도둑' [권용훈의 트렌드워치]",
-        "url": "https://www.hankyung.com/article/202610229752i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/23 06:00",
-        "published_iso": "2026-10-23T06:00:08+09:00",
-        "sort_key": 1792702808.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "e2e6d706b1",
-        "title": "서울시설공단, 공사감독 AI 플랫폼 개발…전국 시공사에 개방",
-        "url": "https://www.yna.co.kr/view/AKR20261022155700004",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/23 06:00",
-        "published_iso": "2026-10-23T06:00:06+09:00",
-        "sort_key": 1792702806.0,
-        "excerpt": "(서울=연합뉴스) 유한주 기자= 서울시설공단은 인공지능(AI) 업무지원 플랫폼을 자체 개발해 전국 지자체와 시공사에 제작 노하우를 개방한다고 2...",
-        "matched": []
-      },
-      {
-        "id": "41944f70e8",
-        "title": "[단독] 솔리다임 美상장 전격 철회…SK하이닉스, 주주의견 수용",
-        "url": "https://www.hankyung.com/article/2026102298171",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/23 06:00",
-        "published_iso": "2026-10-23T06:00:06+09:00",
-        "sort_key": 1792702806.0,
-        "excerpt": "",
-        "matched": [
-          "000660.KS"
-        ]
-      },
-      {
-        "id": "fe4082fe48",
-        "title": "농식품부, 농업·농촌형 예비사회적기업 7곳 신규 지정",
-        "url": "https://www.yna.co.kr/view/AKR20261022153600030",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/23 06:00",
-        "published_iso": "2026-10-23T06:00:05+09:00",
-        "sort_key": 1792702805.0,
-        "excerpt": "(서울=연합뉴스) 한주홍 기자 = 농림축산식품부는 &apos;농업·농촌형 예비사회적기업&apos; 7곳을 신규 지정했다고 22일 밝혔다.",
-        "matched": []
-      },
-      {
-        "id": "5bd073c789",
-        "title": "한일, AI·로봇 등 미래산업 협력 확대…대구서 경제교류회의",
-        "url": "https://www.yna.co.kr/view/AKR20261022182900003",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/23 06:00",
-        "published_iso": "2026-10-23T06:00:03+09:00",
-        "sort_key": 1792702803.0,
-        "excerpt": "(서울=연합뉴스) 신창용 기자 = 한국과 일본이 지역의 제조 역량을 바탕으로 첨단소재·인공지능(AI)·로봇 등 미래산업 분야 협력을 확대한다.",
-        "matched": []
-      },
-      {
-        "id": "6e9ea4d612",
-        "title": "\"아이폰 떨어뜨렸다간 월급 반토막\"…갤럭시와 비교했더니 '깜짝'",
-        "url": "https://www.hankyung.com/article/202610229553g",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/23 06:00",
-        "published_iso": "2026-10-23T06:00:03+09:00",
-        "sort_key": 1792702803.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "0932166c6e",
-        "title": "8월 은행 대출 연체율 9년 10개월만에 최고…0.7% 육박",
-        "url": "https://www.yna.co.kr/view/AKR20261022191400002",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/23 06:00",
-        "published_iso": "2026-10-23T06:00:02+09:00",
-        "sort_key": 1792702802.0,
-        "excerpt": "(서울=연합뉴스) 강류나 기자 = 올해 8월 국내은행의 원화대출 연체율이 약 10년 만에 최고치를 기록했다.",
-        "matched": []
-      },
-      {
-        "id": "9e1e323e88",
-        "title": "[단독] SK하이닉스, 솔리다임 美 상장 전격 철회",
-        "url": "https://www.hankyung.com/article/202610229798i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/23 03:00",
-        "published_iso": "2026-10-23T03:00:02+09:00",
-        "sort_key": 1792692002.0,
-        "excerpt": "",
-        "matched": [
-          "000660.KS"
-        ]
-      },
-      {
-        "id": "4dacc31a3d",
-        "title": "\"AI 거품이라고? 천만에\"…구글 전CEO와 월가 거물들 반박",
-        "url": "https://www.hankyung.com/article/202610239834i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/23 00:58",
-        "published_iso": "2026-10-23T00:58:50+09:00",
-        "sort_key": 1792684730.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "b4871ab290",
-        "title": "중국발 메모리공포에 젠슨황 한마디…\"2029년까지 공급과잉 없다\"",
-        "url": "https://www.hankyung.com/article/202610229805i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/22 22:59",
-        "published_iso": "2026-10-22T22:59:35+09:00",
-        "sort_key": 1792677575.0,
-        "excerpt": "",
-        "matched": []
-      }
+   },
+   {
+    "id": "4a8a50e6f9",
+    "title": "[인터뷰] 현대차증권 센터장 \"지금은 버텨야…4분기 코스피 5,300∼7,200\"",
+    "url": "https://www.yna.co.kr/view/AKR20261022169100008",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 07:00",
+    "published_iso": "2026-10-23T07:00:02+09:00",
+    "sort_key": 1792706402.0,
+    "excerpt": "(서울=연합뉴스) 경수현 기자 = &quot;지금 코스피 지수는 적정 수준보다 낮은 국면이라는 의견이 지배적이다. 반등할 시점을 정확히 예측하기는 어렵지...",
+    "matched": [
+     "005380.KS"
     ],
-    "해외 경제언론": [
-      {
-        "id": "399032daa4",
-        "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
-        "url": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/23 06:31",
-        "published_iso": "2026-10-23T06:31:29+09:00",
-        "sort_key": 1792704689.0,
-        "excerpt": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems.",
-        "matched": []
-      },
-      {
-        "id": "fec67afa47",
-        "title": "Monet Painting Sells for $56 Million in France",
-        "url": "https://www.nytimes.com/2026/10/22/arts/design/claude-monet-painting-auction-paris.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/23 05:25",
-        "published_iso": "2026-10-23T05:25:17+09:00",
-        "sort_key": 1792700717.0,
-        "excerpt": "The artwork, titled “Iris,” is among the painter’s later works, which wealthy collectors have coveted in recent years.",
-        "matched": []
-      },
-      {
-        "id": "12dc354696",
-        "title": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
-        "url": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/23 04:18",
-        "published_iso": "2026-10-23T04:18:58+09:00",
-        "sort_key": 1792696738.0,
-        "excerpt": "The 30-year, fixed-rate mortgage dropped slightly to 7.32 percent as prospective home buyers continue to struggle with affordability. But home prices are starting to drop in some areas.",
-        "matched": []
-      },
-      {
-        "id": "4e52348834",
-        "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-        "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/23 03:26",
-        "published_iso": "2026-10-23T03:26:56+09:00",
-        "sort_key": 1792693616.0,
-        "excerpt": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-        "matched": []
-      },
-      {
-        "id": "0cbf830143",
-        "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
-        "url": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/23 02:07",
-        "published_iso": "2026-10-23T02:07:44+09:00",
-        "sort_key": 1792688864.0,
-        "excerpt": "The midterms are the first elections in which artificial intelligence is integrated into every major social media platform. Efforts to blunt its harms are uneven.",
-        "matched": []
-      },
-      {
-        "id": "dd0ce14df0",
-        "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
-        "url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
-        "source": "CNBC Economy",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/23 01:40",
-        "published_iso": "2026-10-23T01:40:09+09:00",
-        "sort_key": 1792687209.0,
-        "excerpt": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
-        "matched": []
-      },
-      {
-        "id": "f049733ff1",
-        "title": "'I wasn't thinking straight' says five jobs civil servant",
-        "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/23 00:05",
-        "published_iso": "2026-10-23T00:05:47+09:00",
-        "sort_key": 1792681547.0,
-        "excerpt": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
-        "matched": []
-      }
-    ]
-  },
-  "counts": {
-    "indices_ok": 8,
-    "indices_total": 8,
-    "stocks_ok": 9,
-    "stocks_total": 9,
-    "news": 23,
-    "news_new": 23
-  },
-  "errors": [
-    {
-      "stage": "news",
-      "target": "금융위원회 보도자료",
-      "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
+    "analysis": {
+     "summary": "현대차증권 센터장 '지금은 버틸 때, 4분기 코스피 5,300~7,200'",
+     "impact": "시장 영향은 제한적",
+     "affected": "코스피"
     }
+   },
+   {
+    "id": "81176986f0",
+    "title": "안전자산 찾아서…美 10년물 국채 금리, 한달만에 5% 밑으로",
+    "url": "https://www.yna.co.kr/view/AKR20261023009000072",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 06:14",
+    "published_iso": "2026-10-23T06:14:56+09:00",
+    "sort_key": 1792703696.0,
+    "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 글로벌 채권 금리의 벤치마크인 미국 10년 만기 국채 금리가 22일(현지시간) 약 한 달 만에 5% 아래로 ...",
+    "matched": [],
+    "analysis": {
+     "summary": "안전자산 수요로 미국 10년물 국채 금리가 한 달 만에 5% 아래로",
+     "impact": "금리 하락 — 성장주·주택 시장에 숨통, 위험 회피 심리 반영",
+     "affected": "미국 국채, 성장주, 달러",
+     "important": true,
+     "important_tag": "거시경제",
+     "why_important": "미국 10년물 국채 금리가 한 달 만에 5% 아래로 — 안전자산 수요가 커지며 성장주에 숨통"
+    }
+   },
+   {
+    "id": "aefb0870b8",
+    "title": "솔리다임 美 IPO 철회…블룸버그 전문가 \"중복상장 무조건 막아선 안 돼\"",
+    "url": "https://www.hankyung.com/article/202610239852i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 06:14",
+    "published_iso": "2026-10-23T06:14:33+09:00",
+    "sort_key": 1792703673.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "솔리다임 미국 상장 철회에 블룸버그 전문가 '중복상장을 무조건 막아선 안 돼'",
+     "impact": "시장 영향은 제한적",
+     "affected": "SK하이닉스"
+    }
+   },
+   {
+    "id": "24e4b5b9bc",
+    "title": "폴리텍대, 직업훈련 예산으로 홍보비 펑펑…텀블러 등 사재기도",
+    "url": "https://www.yna.co.kr/view/AKR20261022160400530",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 06:01",
+    "published_iso": "2026-10-23T06:01:02+09:00",
+    "sort_key": 1792702862.0,
+    "excerpt": "(서울=연합뉴스) 옥성구 기자 = 한국폴리텍대학이 실직자와 취약계층의 직업훈련을 위해 쓰여야 할 예산을 홍보비로 과다 전용하거나, 연말 잔액을 ...",
+    "matched": [],
+    "analysis": {
+     "summary": "폴리텍대가 직업훈련 예산을 홍보비로 과다 사용",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "b7755d8cc3",
+    "title": "집주인 된 미성년자 작년의 1.8배…매수금 절반 이상 '본인 돈'",
+    "url": "https://www.yna.co.kr/view/AKR20261022172200003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 06:01",
+    "published_iso": "2026-10-23T06:01:01+09:00",
+    "sort_key": 1792702861.0,
+    "excerpt": "(서울=연합뉴스) 오예진 기자 = 올해 미성년자가 사들인 주택이 지난해의 두 배에 육박한 가운데 구매금의 절반 이상이 자기 자금으로 나타났다.",
+    "matched": [],
+    "analysis": {
+     "summary": "미성년자 주택 매수가 작년의 1.8배, 매수금 절반 이상이 본인 돈",
+     "impact": "시장 영향은 제한적",
+     "affected": "부동산"
+    }
+   },
+   {
+    "id": "dabc7313e9",
+    "title": "\"40년간 120억장 팔려\"…세계 간식시장 위협하는 '국민 밥도둑' [권용훈의 트렌드워치]",
+    "url": "https://www.hankyung.com/article/202610229752i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 06:00",
+    "published_iso": "2026-10-23T06:00:08+09:00",
+    "sort_key": 1792702808.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "40년간 120억 장 팔린 국민 반찬이 세계 간식 시장을 위협",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "e2e6d706b1",
+    "title": "서울시설공단, 공사감독 AI 플랫폼 개발…전국 시공사에 개방",
+    "url": "https://www.yna.co.kr/view/AKR20261022155700004",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 06:00",
+    "published_iso": "2026-10-23T06:00:06+09:00",
+    "sort_key": 1792702806.0,
+    "excerpt": "(서울=연합뉴스) 유한주 기자= 서울시설공단은 인공지능(AI) 업무지원 플랫폼을 자체 개발해 전국 지자체와 시공사에 제작 노하우를 개방한다고 2...",
+    "matched": [],
+    "analysis": {
+     "summary": "서울시설공단이 공사 감독 AI 플랫폼을 만들어 전국에 개방",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "41944f70e8",
+    "title": "[단독] 솔리다임 美상장 전격 철회…SK하이닉스, 주주의견 수용",
+    "url": "https://www.hankyung.com/article/2026102298171",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 06:00",
+    "published_iso": "2026-10-23T06:00:06+09:00",
+    "sort_key": 1792702806.0,
+    "excerpt": "",
+    "matched": [
+     "000660.KS"
+    ],
+    "analysis": {
+     "summary": "SK하이닉스가 주주 의견을 받아들여 자회사 솔리다임의 미국 상장을 전격 철회",
+     "impact": "중복상장 우려 해소 — 하이닉스 주주가치 희석 위험 줄어듦",
+     "affected": "SK하이닉스",
+     "important": true,
+     "important_tag": "관심종목",
+     "why_important": "관심종목 SK하이닉스가 솔리다임 미국 상장을 철회 — 주주가치 희석 우려가 사라짐"
+    }
+   },
+   {
+    "id": "fe4082fe48",
+    "title": "농식품부, 농업·농촌형 예비사회적기업 7곳 신규 지정",
+    "url": "https://www.yna.co.kr/view/AKR20261022153600030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 06:00",
+    "published_iso": "2026-10-23T06:00:05+09:00",
+    "sort_key": 1792702805.0,
+    "excerpt": "(서울=연합뉴스) 한주홍 기자 = 농림축산식품부는 &apos;농업·농촌형 예비사회적기업&apos; 7곳을 신규 지정했다고 22일 밝혔다.",
+    "matched": [],
+    "analysis": {
+     "summary": "농식품부가 농업·농촌형 예비사회적기업 7곳 신규 지정",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "5bd073c789",
+    "title": "한일, AI·로봇 등 미래산업 협력 확대…대구서 경제교류회의",
+    "url": "https://www.yna.co.kr/view/AKR20261022182900003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 06:00",
+    "published_iso": "2026-10-23T06:00:03+09:00",
+    "sort_key": 1792702803.0,
+    "excerpt": "(서울=연합뉴스) 신창용 기자 = 한국과 일본이 지역의 제조 역량을 바탕으로 첨단소재·인공지능(AI)·로봇 등 미래산업 분야 협력을 확대한다.",
+    "matched": [],
+    "analysis": {
+     "summary": "한일이 대구 경제교류회의에서 AI·로봇 등 미래산업 협력 확대",
+     "impact": "시장 영향은 제한적",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "6e9ea4d612",
+    "title": "\"아이폰 떨어뜨렸다간 월급 반토막\"…갤럭시와 비교했더니 '깜짝'",
+    "url": "https://www.hankyung.com/article/202610229553g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 06:00",
+    "published_iso": "2026-10-23T06:00:03+09:00",
+    "sort_key": 1792702803.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "아이폰 수리비가 갤럭시보다 훨씬 비싸다는 비교",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "0932166c6e",
+    "title": "8월 은행 대출 연체율 9년 10개월만에 최고…0.7% 육박",
+    "url": "https://www.yna.co.kr/view/AKR20261022191400002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 06:00",
+    "published_iso": "2026-10-23T06:00:02+09:00",
+    "sort_key": 1792702802.0,
+    "excerpt": "(서울=연합뉴스) 강류나 기자 = 올해 8월 국내은행의 원화대출 연체율이 약 10년 만에 최고치를 기록했다.",
+    "matched": [],
+    "analysis": {
+     "summary": "8월 은행 대출 연체율이 9년 10개월 만에 최고, 0.7%에 육박",
+     "impact": "가계·기업 부채 부실 신호 — 은행 대손 비용 증가",
+     "affected": "은행주, 가계 소비",
+     "important": true,
+     "important_tag": "산업·실적",
+     "why_important": "국내 은행 연체율이 약 10년 만에 최고 — 가계·기업 부채 부실이 커지는 신호"
+    }
+   },
+   {
+    "id": "9e1e323e88",
+    "title": "[단독] SK하이닉스, 솔리다임 美 상장 전격 철회",
+    "url": "https://www.hankyung.com/article/202610229798i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 03:00",
+    "published_iso": "2026-10-23T03:00:02+09:00",
+    "sort_key": 1792692002.0,
+    "excerpt": "",
+    "matched": [
+     "000660.KS"
+    ],
+    "analysis": {
+     "summary": "SK하이닉스 솔리다임 미국 상장 철회(앞 기사와 같은 내용)",
+     "impact": "중복상장 우려 해소",
+     "affected": "SK하이닉스"
+    }
+   },
+   {
+    "id": "4dacc31a3d",
+    "title": "\"AI 거품이라고? 천만에\"…구글 전CEO와 월가 거물들 반박",
+    "url": "https://www.hankyung.com/article/202610239834i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/23 00:58",
+    "published_iso": "2026-10-23T00:58:50+09:00",
+    "sort_key": 1792684730.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "구글 전 CEO와 월가 거물들이 'AI 거품론'을 반박",
+     "impact": "시장 영향은 제한적",
+     "affected": "AI 관련주"
+    }
+   },
+   {
+    "id": "b4871ab290",
+    "title": "중국발 메모리공포에 젠슨황 한마디…\"2029년까지 공급과잉 없다\"",
+    "url": "https://www.hankyung.com/article/202610229805i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/22 22:59",
+    "published_iso": "2026-10-22T22:59:35+09:00",
+    "sort_key": 1792677575.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "중국발 메모리 공급 과잉 우려에 젠슨 황 '2029년까지 공급과잉 없다'",
+     "impact": "메모리 업황 우려 완화",
+     "affected": "엔비디아, 삼성전자, SK하이닉스"
+    }
+   }
+  ],
+  "해외 경제언론": [
+   {
+    "id": "80af6eb4a3",
+    "title": "Grid operator says lights will stay on this winter after concerns",
+    "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/23 08:04",
+    "published_iso": "2026-10-23T08:04:38+09:00",
+    "sort_key": 1792710278.0,
+    "excerpt": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+    "matched": []
+   },
+   {
+    "id": "84738a388b",
+    "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+    "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/23 07:27",
+    "published_iso": "2026-10-23T07:27:53+09:00",
+    "sort_key": 1792708073.0,
+    "excerpt": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+    "matched": []
+   },
+   {
+    "id": "399032daa4",
+    "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+    "url": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/23 06:31",
+    "published_iso": "2026-10-23T06:31:29+09:00",
+    "sort_key": 1792704689.0,
+    "excerpt": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems.",
+    "matched": [],
+    "analysis": {
+     "summary": "PHP 보안 취약점 때문에 정부·기업 사이트가 내려가는 이유 설명(이전 기사와 같은 내용)",
+     "impact": "인터넷 서비스 보안 비용 증가",
+     "affected": "웹 호스팅, 보안 업체"
+    }
+   },
+   {
+    "id": "fec67afa47",
+    "title": "Monet Painting Sells for $56 Million in France",
+    "url": "https://www.nytimes.com/2026/10/22/arts/design/claude-monet-painting-auction-paris.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/23 05:25",
+    "published_iso": "2026-10-23T05:25:17+09:00",
+    "sort_key": 1792700717.0,
+    "excerpt": "The artwork, titled “Iris,” is among the painter’s later works, which wealthy collectors have coveted in recent years.",
+    "matched": [],
+    "analysis": {
+     "summary": "모네 그림 '아이리스'가 프랑스에서 5,600만 달러에 팔림",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "12dc354696",
+    "title": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
+    "url": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/23 04:18",
+    "published_iso": "2026-10-23T04:18:58+09:00",
+    "sort_key": 1792696738.0,
+    "excerpt": "The 30-year, fixed-rate mortgage dropped slightly to 7.32 percent as prospective home buyers continue to struggle with affordability. But home prices are starting to drop in some areas.",
+    "matched": [],
+    "analysis": {
+     "summary": "미국 30년 주택담보대출 금리가 7.32%로 여전히 7% 넘어 일부 지역 집값 하락",
+     "impact": "미국 주택 시장 냉각",
+     "affected": "미국 주택·건설"
+    }
+   },
+   {
+    "id": "4e52348834",
+    "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+    "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/23 03:26",
+    "published_iso": "2026-10-23T03:26:56+09:00",
+    "sort_key": 1792693616.0,
+    "excerpt": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+    "matched": [],
+    "analysis": {
+     "summary": "저커버그가 캘리포니아 부유세 대비 메타와 비용 지원 합의(이전 기사와 비슷한 내용)",
+     "impact": "시장 영향은 제한적",
+     "affected": "메타"
+    }
+   },
+   {
+    "id": "0cbf830143",
+    "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
+    "url": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/23 02:07",
+    "published_iso": "2026-10-23T02:07:44+09:00",
+    "sort_key": 1792688864.0,
+    "excerpt": "The midterms are the first elections in which artificial intelligence is integrated into every major social media platform. Efforts to blunt its harms are uneven.",
+    "matched": [],
+    "analysis": {
+     "summary": "AI가 모든 SNS에 들어간 첫 중간선거 — 부작용 대응은 제각각",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "dd0ce14df0",
+    "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+    "url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+    "source": "CNBC Economy",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/23 01:40",
+    "published_iso": "2026-10-23T01:40:09+09:00",
+    "sort_key": 1792687209.0,
+    "excerpt": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
+    "matched": [],
+    "analysis": {
+     "summary": "미국 신규 실업수당 청구가 19.4만 건으로 1960년대 이후 최저 수준 근처",
+     "impact": "해고가 매우 적음 — 고용 시장 탄탄, 금리 인하 기대는 약해짐",
+     "affected": "미국 고용, 국채금리",
+     "important": true,
+     "important_tag": "거시경제",
+     "why_important": "미국 신규 실업수당 청구 19.4만 건, 1960년대 이후 최저권 — 고용이 여전히 탄탄"
+    }
+   },
+   {
+    "id": "f049733ff1",
+    "title": "'I wasn't thinking straight' says five jobs civil servant",
+    "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/23 00:05",
+    "published_iso": "2026-10-23T00:05:47+09:00",
+    "sort_key": 1792681547.0,
+    "excerpt": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
+    "matched": [],
+    "analysis": {
+     "summary": "공무원 일자리 5개를 동시에 가진 영국 공무원 사기 혐의 재판",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   }
   ]
+ },
+ "counts": {
+  "indices_ok": 8,
+  "indices_total": 8,
+  "stocks_ok": 9,
+  "stocks_total": 9,
+  "news": 41,
+  "news_new": 18
+ },
+ "errors": [
+  {
+   "stage": "news",
+   "target": "금융위원회 보도자료",
+   "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
+  }
+ ]
 }
