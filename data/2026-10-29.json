@@ -1,1410 +1,2195 @@
 {
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29 07:26",
-  "weekday": "목",
-  "site": {
-    "title": "오늘의 경제 한 장",
-    "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
-    "author": "asqwkl3215",
-    "timezone_label": "KST",
-    "base_url": "https://marketbrief-byte.github.io"
+ "date": "2026-10-29",
+ "generated_at": "2026-10-29 10:46",
+ "weekday": "목",
+ "site": {
+  "title": "오늘의 경제 한 장",
+  "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
+  "author": "asqwkl3215",
+  "timezone_label": "KST",
+  "base_url": "https://marketbrief-byte.github.io"
+ },
+ "indices": [
+  {
+   "name": "코스피",
+   "symbol": "^KS11",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 5911.66,
+   "prev_close": 5533.77,
+   "change": 377.89,
+   "change_pct": 6.83,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793237170,
+   "asof_date": null
   },
-  "indices": [
+  {
+   "name": "코스닥",
+   "symbol": "^KQ11",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 746.54,
+   "prev_close": 764.1,
+   "change": -17.56,
+   "change_pct": -2.3,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793237170,
+   "asof_date": null
+  },
+  {
+   "name": "S&P 500",
+   "symbol": "^GSPC",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 7743.98,
+   "prev_close": 7757.17,
+   "change": -13.19,
+   "change_pct": -0.17,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793222322,
+   "asof_date": null
+  },
+  {
+   "name": "나스닥",
+   "symbol": "^IXIC",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 26549.852,
+   "prev_close": 26702.86,
+   "change": -153.008,
+   "change_pct": -0.57,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793222159,
+   "asof_date": null
+  },
+  {
+   "name": "원/달러",
+   "symbol": "KRW=X",
+   "unit": "원",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 1332.81,
+   "prev_close": 1325.99,
+   "change": 6.82,
+   "change_pct": 0.51,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793238369,
+   "asof_date": null
+  },
+  {
+   "name": "미 10년 국채",
+   "symbol": "^TNX",
+   "unit": "%",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 5.045,
+   "prev_close": 4.953,
+   "change": 0.092,
+   "change_pct": 1.86,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793213995,
+   "asof_date": null
+  },
+  {
+   "name": "WTI 유가",
+   "symbol": "CL=F",
+   "unit": "$",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 101.74,
+   "prev_close": 103.27,
+   "change": -1.53,
+   "change_pct": -1.48,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793237525,
+   "asof_date": null
+  },
+  {
+   "name": "금",
+   "symbol": "GC=F",
+   "unit": "$",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 4075.3,
+   "prev_close": 4007.9,
+   "change": 67.4,
+   "change_pct": 1.68,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793237526,
+   "asof_date": null
+  }
+ ],
+ "watchlist": [
+  {
+   "name": "삼성전자",
+   "symbol": "005930.KS",
+   "unit": "",
+   "keywords": [
+    "삼성전자",
+    "Samsung Electronics",
+    "삼성 반도체"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 233500.0,
+   "prev_close": 214500.0,
+   "change": 19000.0,
+   "change_pct": 8.86,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793237175,
+   "asof_date": null,
+   "news": [
     {
-      "name": "코스피",
-      "symbol": "^KS11",
-      "unit": "pt",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 6012.44,
-      "prev_close": 5735.66,
-      "change": 276.78,
-      "change_pct": 4.83,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793185540,
-      "asof_date": null
+     "id": "48231d2a48",
+     "title": "삼성전자 \"올해 최대 75조원 추가 주주환원…자사주 매입·소각\"",
+     "url": "https://www.yna.co.kr/view/AKR20261029080700003",
+     "source": "연합뉴스 경제",
+     "published_kst": "10/29 10:31"
     },
     {
-      "name": "코스닥",
-      "symbol": "^KQ11",
-      "unit": "pt",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 771.28,
-      "prev_close": 792.76,
-      "change": -21.48,
-      "change_pct": -2.71,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793185540,
-      "asof_date": null
-    },
-    {
-      "name": "S&P 500",
-      "symbol": "^GSPC",
-      "unit": "pt",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 7743.98,
-      "prev_close": 7757.17,
-      "change": -13.19,
-      "change_pct": -0.17,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793222322,
-      "asof_date": null
-    },
-    {
-      "name": "나스닥",
-      "symbol": "^IXIC",
-      "unit": "pt",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 26549.852,
-      "prev_close": 26702.86,
-      "change": -153.008,
-      "change_pct": -0.57,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793222159,
-      "asof_date": null
-    },
-    {
-      "name": "원/달러",
-      "symbol": "KRW=X",
-      "unit": "원",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 1342.14,
-      "prev_close": 1325.59,
-      "change": 16.55,
-      "change_pct": 1.25,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793226404,
-      "asof_date": null
-    },
-    {
-      "name": "미 10년 국채",
-      "symbol": "^TNX",
-      "unit": "%",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 5.045,
-      "prev_close": 4.953,
-      "change": 0.092,
-      "change_pct": 1.86,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793213995,
-      "asof_date": null
-    },
-    {
-      "name": "WTI 유가",
-      "symbol": "CL=F",
-      "unit": "$",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 102.04,
-      "prev_close": 103.27,
-      "change": -1.23,
-      "change_pct": -1.19,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793225804,
-      "asof_date": null
-    },
-    {
-      "name": "금",
-      "symbol": "GC=F",
-      "unit": "$",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 4076.0,
-      "prev_close": 4007.9,
-      "change": 68.1,
-      "change_pct": 1.7,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793225812,
-      "asof_date": null
+     "id": "c0ce06a286",
+     "title": "삼성 반도체는 웃는데 스마트폰은 적자…메모리값의 역설",
+     "url": "https://www.yna.co.kr/view/AKR20261029079500017",
+     "source": "연합뉴스 경제",
+     "published_kst": "10/29 10:30"
     }
-  ],
-  "watchlist": [
+   ]
+  },
+  {
+   "name": "SK하이닉스",
+   "symbol": "000660.KS",
+   "unit": "",
+   "keywords": [
+    "SK하이닉스",
+    "SK Hynix",
+    "하이닉스",
+    "HBM"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 1521000.0,
+   "prev_close": 1223000.0,
+   "change": 298000.0,
+   "change_pct": 24.37,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793237175,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "현대차",
+   "symbol": "005380.KS",
+   "unit": "",
+   "keywords": [
+    "현대차",
+    "현대자동차",
+    "Hyundai Motor"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 288000.0,
+   "prev_close": 301500.0,
+   "change": -13500.0,
+   "change_pct": -4.48,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793237175,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "LG에너지솔루션",
+   "symbol": "373220.KS",
+   "unit": "",
+   "keywords": [
+    "LG에너지솔루션",
+    "LG Energy Solution",
+    "이차전지",
+    "배터리"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 354000.0,
+   "prev_close": 390000.0,
+   "change": -36000.0,
+   "change_pct": -9.23,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793237174,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "NAVER",
+   "symbol": "035420.KS",
+   "unit": "",
+   "keywords": [
+    "네이버",
+    "NAVER"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 173800.0,
+   "prev_close": 176400.0,
+   "change": -2600.0,
+   "change_pct": -1.47,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793237175,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "엔비디아",
+   "symbol": "NVDA",
+   "unit": "",
+   "keywords": [
+    "엔비디아",
+    "Nvidia",
+    "NVDA"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 215.38,
+   "prev_close": 221.97,
+   "change": -6.59,
+   "change_pct": -2.97,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793217601,
+   "asof_date": null,
+   "news": [
     {
-      "name": "삼성전자",
-      "symbol": "005930.KS",
-      "unit": "",
-      "keywords": [
-        "삼성전자",
-        "Samsung Electronics",
-        "삼성 반도체"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 242000.0,
-      "prev_close": 223500.0,
-      "change": 18500.0,
-      "change_pct": 8.28,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793169016,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "SK하이닉스",
-      "symbol": "000660.KS",
-      "unit": "",
-      "keywords": [
-        "SK하이닉스",
-        "SK Hynix",
-        "하이닉스",
-        "HBM"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 1487000.0,
-      "prev_close": 1294000.0,
-      "change": 193000.0,
-      "change_pct": 14.91,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793169028,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "현대차",
-      "symbol": "005380.KS",
-      "unit": "",
-      "keywords": [
-        "현대차",
-        "현대자동차",
-        "Hyundai Motor"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 296000.0,
-      "prev_close": 309500.0,
-      "change": -13500.0,
-      "change_pct": -4.36,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793169018,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "LG에너지솔루션",
-      "symbol": "373220.KS",
-      "unit": "",
-      "keywords": [
-        "LG에너지솔루션",
-        "LG Energy Solution",
-        "이차전지",
-        "배터리"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 389500.0,
-      "prev_close": 411500.0,
-      "change": -22000.0,
-      "change_pct": -5.35,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793169005,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "NAVER",
-      "symbol": "035420.KS",
-      "unit": "",
-      "keywords": [
-        "네이버",
-        "NAVER"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 178000.0,
-      "prev_close": 179500.0,
-      "change": -1500.0,
-      "change_pct": -0.84,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793169009,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "엔비디아",
-      "symbol": "NVDA",
-      "unit": "",
-      "keywords": [
-        "엔비디아",
-        "Nvidia",
-        "NVDA"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 215.38,
-      "prev_close": 221.97,
-      "change": -6.59,
-      "change_pct": -2.97,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793217601,
-      "asof_date": null,
-      "news": [
-        {
-          "id": "c44fc54720",
-          "title": "엔비디아·애플보다 현금많은 6년차기업…앤스로픽 176조원에 시장\"깜짝\"",
-          "url": "https://www.hankyung.com/article/202610281854i",
-          "source": "한국경제",
-          "published_kst": "10/28 23:59"
-        }
-      ]
-    },
-    {
-      "name": "애플",
-      "symbol": "AAPL",
-      "unit": "",
-      "keywords": [
-        "애플",
-        "Apple",
-        "AAPL"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 343.83,
-      "prev_close": 343.99,
-      "change": -0.16,
-      "change_pct": -0.05,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793217601,
-      "asof_date": null,
-      "news": [
-        {
-          "id": "c44fc54720",
-          "title": "엔비디아·애플보다 현금많은 6년차기업…앤스로픽 176조원에 시장\"깜짝\"",
-          "url": "https://www.hankyung.com/article/202610281854i",
-          "source": "한국경제",
-          "published_kst": "10/28 23:59"
-        }
-      ]
-    },
-    {
-      "name": "테슬라",
-      "symbol": "TSLA",
-      "unit": "",
-      "keywords": [
-        "테슬라",
-        "Tesla",
-        "TSLA"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 404.22,
-      "prev_close": 386.47,
-      "change": 17.75,
-      "change_pct": 4.59,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793217601,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "마이크로소프트",
-      "symbol": "MSFT",
-      "unit": "",
-      "keywords": [
-        "마이크로소프트",
-        "Microsoft",
-        "MSFT"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 531.01,
-      "prev_close": 532.95,
-      "change": -1.94,
-      "change_pct": -0.36,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793217601,
-      "asof_date": null,
-      "news": []
+     "id": "c44fc54720",
+     "title": "엔비디아·애플보다 현금많은 6년차기업…앤스로픽 176조원에 시장\"깜짝\"",
+     "url": "https://www.hankyung.com/article/202610281854i",
+     "source": "한국경제",
+     "published_kst": "10/28 23:59"
     }
-  ],
-  "news": [
+   ]
+  },
+  {
+   "name": "애플",
+   "symbol": "AAPL",
+   "unit": "",
+   "keywords": [
+    "애플",
+    "Apple",
+    "AAPL"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 343.83,
+   "prev_close": 343.99,
+   "change": -0.16,
+   "change_pct": -0.05,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793217601,
+   "asof_date": null,
+   "news": [
     {
-      "id": "9ac6d1e3e3",
-      "title": "[우분투칼럼] 투자자를 위한 국가, 국민을 위한 국가",
-      "url": "https://www.yna.co.kr/view/AKR20261012025400898",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/29 07:00",
-      "published_iso": "2026-10-29T07:00:03+09:00",
-      "sort_key": 1793224803.0,
-      "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
-      "matched": [],
-      "analysis": {
-        "summary": "투자자와 국민을 위한 국가를 다룬 칼럼",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "f4d01aeebf",
-      "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
-      "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
-      "source": "CNBC Economy",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/29 06:31",
-      "published_iso": "2026-10-29T06:31:46+09:00",
-      "sort_key": 1793223106.0,
-      "excerpt": "Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.",
-      "matched": [],
-      "analysis": {
-        "summary": "연준 금리 결정과 워시 의장 기자회견의 5가지 요점 — 예상대로 동결이지만 몇 가지 놀라움",
-        "impact": "금리 경로 불확실성",
-        "affected": "미국 국채, 증시"
-      }
-    },
-    {
-      "id": "f777718635",
-      "title": "대부업체·제약사·병원 줄줄이 해킹…해커 국내 활동 가능성",
-      "url": "https://www.yna.co.kr/view/AKR20261028174000017",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/29 06:13",
-      "published_iso": "2026-10-29T06:13:04+09:00",
-      "sort_key": 1793221984.0,
-      "excerpt": "(서울=연합뉴스) 오지은 기자 = 국내 대부업체와 제약회사, 병원 등 업종을 가리지 않고 기업과 기관을 겨냥한 연쇄 해킹이 발생해 내부 데이터가...",
-      "matched": [],
-      "analysis": {
-        "summary": "대부업체·제약사·병원까지 연쇄 해킹 — 해커가 국내에서 활동할 가능성",
-        "impact": "국내 보안 위험 확산",
-        "affected": "보안 업체"
-      }
-    },
-    {
-      "id": "268fb1cd34",
-      "title": "외식 물가 부담에 냉동치킨 '인기'…식품업계, 차별화 경쟁 속도",
-      "url": "https://www.yna.co.kr/view/AKR20261028165800030",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/29 06:10",
-      "published_iso": "2026-10-29T06:10:01+09:00",
-      "sort_key": 1793221801.0,
-      "excerpt": "(서울=연합뉴스) 김세린 기자 = 외식 물가 상승과 간편식 수요 증가에 힘입어 냉동치킨 시장이 성장하면서 국내 식품업체들이 제품군 확대와 브랜드...",
-      "matched": [],
-      "analysis": {
-        "summary": "외식 물가 부담에 냉동치킨 인기, 식품업계 경쟁",
-        "impact": "시장 영향은 제한적",
-        "affected": "식품"
-      }
-    },
-    {
-      "id": "dd353ac639",
-      "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
-      "url": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
-      "source": "CNBC Economy",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/29 06:06",
-      "published_iso": "2026-10-29T06:06:37+09:00",
-      "sort_key": 1793221597.0,
-      "excerpt": "Treasury Secretary Scott Bessent joined CNBC for an interview on Oct. 28, 2026.",
-      "matched": [],
-      "analysis": {
-        "summary": "베선트 재무장관 '연준이 다시 금리를 올려도 꼭 실수는 아냐'",
-        "impact": "추가 인상 가능성 용인",
-        "affected": "미국 국채"
-      }
-    },
-    {
-      "id": "fc404c161b",
-      "title": "서울 공급 부족 우려에도…LH, 비축용 토지 매입 4년간 '0'",
-      "url": "https://www.yna.co.kr/view/AKR20261028160300003",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/29 06:05",
-      "published_iso": "2026-10-29T06:05:03+09:00",
-      "sort_key": 1793221503.0,
-      "excerpt": "(서울=연합뉴스) 오예진 기자 = 한국토지주택공사(LH)가 재무개선을 이유로 중장기 사업용 토지 매입을 중단했다가 공급 부족이 현실화한 후에야 ...",
-      "matched": [],
-      "analysis": {
-        "summary": "서울 공급 부족 우려에도 LH가 4년간 비축용 토지 매입 0건",
-        "impact": "서울 주택 공급 부족 장기화",
-        "affected": "부동산"
-      }
-    },
-    {
-      "id": "d66f761a4d",
-      "title": "농식품부, 유기농업자재 지원 확대…녹비작물 종자 2종 추가",
-      "url": "https://www.yna.co.kr/view/AKR20261028127600030",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/29 06:00",
-      "published_iso": "2026-10-29T06:00:11+09:00",
-      "sort_key": 1793221211.0,
-      "excerpt": "(서울=연합뉴스) 한주홍 기자 = 농림축산식품부는 29일 친환경농업인 확대를 위해 유기농업자재 사업 지침을 개정키로 했다.",
-      "matched": [],
-      "analysis": {
-        "summary": "농식품부 유기농업자재 지원 확대",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "375b7d00b0",
-      "title": "스타벅스 떠난 MBC 사옥에…'테라로사' 매장 들어선다",
-      "url": "https://www.hankyung.com/article/202610280248g",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/29 06:00",
-      "published_iso": "2026-10-29T06:00:11+09:00",
-      "sort_key": 1793221211.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "스타벅스가 떠난 MBC 사옥에 테라로사 입점",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "70069023c1",
-      "title": "기업 체감경기 4년 2개월 만에 최고…\"반도체 등 온기 확산\"",
-      "url": "https://www.yna.co.kr/view/AKR20261028163500002",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/29 06:00",
-      "published_iso": "2026-10-29T06:00:09+09:00",
-      "sort_key": 1793221209.0,
-      "excerpt": "(서울=연합뉴스) 한지훈 기자 = 반도체를 비롯한 주력 산업 호조가 후방 산업으로 확산하면서 기업 체감 경기가 4년여 만에 최고 수준을 기록했다...",
-      "matched": [],
-      "analysis": {
-        "summary": "반도체 호조가 다른 산업으로 퍼지며 기업 체감경기가 4년 2개월 만에 최고",
-        "impact": "국내 경기 회복 확산",
-        "affected": "국내 증시, 원화",
-        "important": true,
-        "important_tag": "거시경제",
-        "why_important": "기업 체감경기가 4년 2개월 만에 최고 — 반도체 호조가 다른 산업으로 퍼지는 신호"
-      }
-    },
-    {
-      "id": "67c7c9b21d",
-      "title": "서울시50플러스재단, 중장년 창업기업 8곳에 사업화 자금 지원",
-      "url": "https://www.yna.co.kr/view/AKR20261028174700004",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/29 06:00",
-      "published_iso": "2026-10-29T06:00:07+09:00",
-      "sort_key": 1793221207.0,
-      "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시50플러스재단은 지난 28일 마포구 중부캠퍼스에서 &apos;2026년 중장년 창업컨설팅 성과공유회&apos;를 열고 중장...",
-      "matched": [],
-      "analysis": {
-        "summary": "서울시50플러스재단이 중장년 창업기업 8곳 지원",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "aa1a19542a",
-      "title": "서울시, 주거취약계층 구직·취업자에 '숲 치유'…내년 정규운영",
-      "url": "https://www.yna.co.kr/view/AKR20261028177300004",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/29 06:00",
-      "published_iso": "2026-10-29T06:00:04+09:00",
-      "sort_key": 1793221204.0,
-      "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시는 지난 28일 한국산림복지진흥원, 한국타이어나눔재단과 주거 취약계층 구직자·취업자의 정서 완화를 지원하...",
-      "matched": [],
-      "analysis": {
-        "summary": "서울시가 주거취약 구직자에게 숲 치유 프로그램",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "db0b51f9ee",
-      "title": "\"나이키·아디다스 다 지겨워\"…'이 신발' 뜨자마자 8조 터졌다",
-      "url": "https://www.hankyung.com/article/2026102813511",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/29 06:00",
-      "published_iso": "2026-10-29T06:00:04+09:00",
-      "sort_key": 1793221204.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "나이키·아디다스에 질린 소비자들 사이에 뜬 신발 브랜드",
-        "impact": "스포츠 브랜드 경쟁 심화",
-        "affected": "나이키, 아디다스"
-      }
-    },
-    {
-      "id": "aab5ca1501",
-      "title": "\"매출 9배 뛰었다\"…잠 못 드는 한국인에 판 커지는 '꿀잠 시장' [권용훈의 트렌드워치]",
-      "url": "https://www.hankyung.com/article/202610281704i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/29 06:00",
-      "published_iso": "2026-10-29T06:00:02+09:00",
-      "sort_key": 1793221202.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "잠 못 드는 한국인 덕에 커지는 수면 시장",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "823ec8b4e6",
-      "title": "CNN, MS Now and Politico Update Lawsuit Against Trump Over White House Access",
-      "url": "https://www.nytimes.com/2026/10/28/business/media/cnn-ms-now-politico-white-house-lawsuit.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/29 05:47",
-      "published_iso": "2026-10-29T05:47:13+09:00",
-      "sort_key": 1793220433.0,
-      "excerpt": "The news outlets argued in an updated lawsuit that they should be granted access to the White House reporting pools.",
-      "matched": [],
-      "analysis": {
-        "summary": "CNN·폴리티코 등이 백악관 취재 접근 소송 보완",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "71577bca99",
-      "title": "What we now know about the UK economy in four charts",
-      "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/29 05:08",
-      "published_iso": "2026-10-29T05:08:45+09:00",
-      "sort_key": 1793218125.0,
-      "excerpt": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
-      "matched": [],
-      "analysis": {
-        "summary": "영국 경제를 4개 차트로 정리 — 에너지값 상승이 물가·성장에 영향",
-        "impact": "영국 경기 둔화 요인",
-        "affected": "영국 경제"
-      }
-    },
-    {
-      "id": "c49474e166",
-      "title": "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
-      "url": "https://www.nytimes.com/2026/10/28/business/economy/fed-meetings-2027-interest-rates-warsh.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/29 05:02",
-      "published_iso": "2026-10-29T05:02:56+09:00",
-      "sort_key": 1793217776.0,
-      "excerpt": "Kevin M. Warsh, the Federal Reserve’s chairman, said the central bank would vote on interest rates seven times in 2027 and six in 2028. It has traditionally voted eight times per year.",
-      "matched": [],
-      "analysis": {
-        "summary": "워시 의장 '내년부터 금리 회의 횟수 축소(2027년 7회, 이후 6회)'",
-        "impact": "시장 영향은 제한적",
-        "affected": "미국 금리"
-      }
-    },
-    {
-      "id": "515c8312bc",
-      "title": "What the Budget offers for under 25s - and what it leaves out",
-      "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/29 05:02",
-      "published_iso": "2026-10-29T05:02:38+09:00",
-      "sort_key": 1793217758.0,
-      "excerpt": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
-      "matched": [],
-      "analysis": {
-        "summary": "영국 예산안이 25세 미만에게 주는 것과 빠진 것",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "cc3eadc483",
-      "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-      "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/29 04:51",
-      "published_iso": "2026-10-29T04:51:01+09:00",
-      "sort_key": 1793217061.0,
-      "excerpt": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-      "matched": [],
-      "analysis": {
-        "summary": "영국 재무장관이 시간을 벌었지만 큰 질문은 남음 — 이란 전쟁이 선택지를 좁힘",
-        "impact": "시장 영향은 제한적",
-        "affected": "영국 국채"
-      }
-    },
-    {
-      "id": "a17e2f5175",
-      "title": "Takeaways from Warsh’s news conference.",
-      "url": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/takeaways-from-warshs-news-conference",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/29 04:43",
-      "published_iso": "2026-10-29T04:43:34+09:00",
-      "sort_key": 1793216614.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "워시 기자회견 요점(앞 기사와 같은 내용)",
-        "impact": "금리 경로 불확실성",
-        "affected": "미국 국채"
-      }
-    },
-    {
-      "id": "286b233127",
-      "title": "An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded",
-      "url": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/29 04:20",
-      "published_iso": "2026-10-29T04:20:53+09:00",
-      "sort_key": 1793215253.0,
-      "excerpt": "The cruise promised a lifetime of sailing, for less than what it cost to live on land. But it was underfunded and couldn’t absorb the rising cost of fuel.",
-      "matched": [],
-      "analysis": {
-        "summary": "'평생 크루즈' 여행이 자금 부족으로 중단돼 승객들 발 묶임",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "b069f02850",
-      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-      "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/29 04:15",
-      "published_iso": "2026-10-29T04:15:58+09:00",
-      "sort_key": 1793214958.0,
-      "excerpt": "The Russian President praised Musk and said they are in \"close\" contact.",
-      "matched": [],
-      "analysis": {
-        "summary": "푸틴 '머스크는 진짜 천재' — 스페이스X 위성 관련 대화",
-        "impact": "시장 영향은 제한적",
-        "affected": "스페이스X, 테슬라"
-      }
-    },
-    {
-      "id": "baa34030fc",
-      "title": "Here’s the latest.",
-      "url": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/heres-the-latest",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/29 04:08",
-      "published_iso": "2026-10-29T04:08:45+09:00",
-      "sort_key": 1793214525.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "연준 관련 최신 소식",
-        "impact": "시장 영향은 제한적",
-        "affected": "미국 금리"
-      }
-    },
-    {
-      "id": "33c0c94ae4",
-      "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/29 03:45",
-      "published_iso": "2026-10-29T03:45:09+09:00",
-      "sort_key": 1793213109.0,
-      "excerpt": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
-      "matched": [],
-      "analysis": {
-        "summary": "영국 첫 예산안: 에너지 요금 100파운드 지원, 은행세 도입",
-        "impact": "영국 은행주 부담",
-        "affected": "영국 은행, 파운드화"
-      }
-    },
-    {
-      "id": "e1f75c9ea9",
-      "title": "Tax thresholds remain unchanged - here's what it means for your pay",
-      "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/29 03:12",
-      "published_iso": "2026-10-29T03:12:24+09:00",
-      "sort_key": 1793211144.0,
-      "excerpt": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
-      "matched": [],
-      "analysis": {
-        "summary": "영국 소득세 구간 3년 더 동결",
-        "impact": "영국 가계 실질 세 부담 증가",
-        "affected": "영국 소비"
-      }
-    },
-    {
-      "id": "8d58299573",
-      "title": "How the Fed’s Interest Rate Decision Affects Credit Cards, Loans and More",
-      "url": "https://www.nytimes.com/2026/10/28/business/economy/fed-interest-rates-credit-cards-loans.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/29 03:09",
-      "published_iso": "2026-10-29T03:09:22+09:00",
-      "sort_key": 1793210962.0,
-      "excerpt": "The Federal Reserve left its benchmark rate untouched, but a December hike could make holiday borrowing more costly.",
-      "matched": [],
-      "analysis": {
-        "summary": "연준 동결이 카드·대출에 미치는 영향 — 12월 인상 시 연말 대출 비용 증가",
-        "impact": "12월 추가 인상 가능성",
-        "affected": "미국 소비자 대출"
-      }
-    },
-    {
-      "id": "847a7abc27",
-      "title": "Federal Reserve issues FOMC statement",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-      "source": "연준(Fed) 보도자료",
-      "group": "중앙은행·국제기구",
-      "lang": "en",
-      "published_kst": "10/29 03:00",
-      "published_iso": "2026-10-29T03:00:00+09:00",
-      "sort_key": 1793210400.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "연준 FOMC 성명 발표 — 기준금리 동결",
-        "impact": "금리 동결, 추가 인상 여지는 남김",
-        "affected": "미국 국채, 달러, 증시 전반",
-        "important": true,
-        "important_tag": "거시경제",
-        "why_important": "연준이 기준금리 동결 — 다만 물가가 다시 올라 12월 추가 인상 가능성을 열어 둠"
-      }
-    },
-    {
-      "id": "06399b7551",
-      "title": "What Does the Cheesecake Factory’s Designer Think of Obama and Trump’s Jabs at His Décor?",
-      "url": "https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/29 02:55",
-      "published_iso": "2026-10-29T02:55:11+09:00",
-      "sort_key": 1793210111.0,
-      "excerpt": "Long before its baroque décor and class identity became midterm talking points, this durable restaurant chain survived some withering critiques.",
-      "matched": [],
-      "analysis": {
-        "summary": "치즈케이크 팩토리 인테리어 디자이너 인터뷰",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "ca96f6e794",
-      "title": "Will I get the £100 energy payment and when will I receive it?",
-      "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/29 02:47",
-      "published_iso": "2026-10-29T02:47:37+09:00",
-      "sort_key": 1793209657.0,
-      "excerpt": "Here is what you need to know about the payment that millions will receive from January.",
-      "matched": [],
-      "analysis": {
-        "summary": "영국 에너지 요금 100파운드 지원금 받는 법",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "8f8511dcaa",
-      "title": "RFK Jr. to Allow Broad Use of Unapproved Peptide Injections",
-      "url": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/29 02:05",
-      "published_iso": "2026-10-29T02:05:05+09:00",
-      "sort_key": 1793207105.0,
-      "excerpt": "In a unilateral declaration by the health secretary, several injections promoted by online influencers will become widely available. The F.D.A. had advised against the move.",
-      "matched": [],
-      "analysis": {
-        "summary": "미국 보건장관이 승인 안 된 펩타이드 주사의 광범위한 사용 허용",
-        "impact": "제약 규제 완화 논란",
-        "affected": "제약·바이오"
-      }
-    },
-    {
-      "id": "8d7f3964b0",
-      "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
-      "url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
-      "source": "CNBC Economy",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/29 00:39",
-      "published_iso": "2026-10-29T00:39:14+09:00",
-      "sort_key": 1793201954.0,
-      "excerpt": "The U.K. budget cuts household energy costs, raises taxes on banks and directs billions toward defense, Ukraine and artificial intelligence",
-      "matched": [],
-      "analysis": {
-        "summary": "영국 예산안: 가계 에너지 비용 인하, 은행세 인상, 국방·우크라이나·AI 투자",
-        "impact": "영국 은행주 부담, 방산 수혜",
-        "affected": "영국 은행, 방산"
-      }
-    },
-    {
-      "id": "acd6877c84",
-      "title": "금값 바닥 멀었다?…JP모건 \"내년 초까지 추가 하락 위험\"",
-      "url": "https://www.hankyung.com/article/202610291867i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/29 00:34",
-      "published_iso": "2026-10-29T00:34:42+09:00",
-      "sort_key": 1793201682.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "JP모건 '금값은 내년 초까지 더 떨어질 위험'",
-        "impact": "금 가격 약세 전망",
-        "affected": "금"
-      }
-    },
-    {
-      "id": "c44fc54720",
-      "title": "엔비디아·애플보다 현금많은 6년차기업…앤스로픽 176조원에 시장\"깜짝\"",
-      "url": "https://www.hankyung.com/article/202610281854i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/28 23:59",
-      "published_iso": "2026-10-28T23:59:57+09:00",
-      "sort_key": 1793199597.0,
-      "excerpt": "",
-      "matched": [
-        "NVDA",
-        "AAPL"
-      ],
-      "analysis": {
-        "summary": "엔비디아·애플보다 현금이 많은 6년 차 기업 — Anthropic 176조 원 공개에 시장 놀람",
-        "impact": "AI 기업 재무 체력 확인",
-        "affected": "AI 관련주"
-      }
-    },
-    {
-      "id": "25353ddbed",
-      "title": "웬디스,1.9조달러에 팔리나?…펠츠의 트라이언 펀드 인수제안",
-      "url": "https://www.hankyung.com/article/202610281810i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/28 23:17",
-      "published_iso": "2026-10-28T23:17:33+09:00",
-      "sort_key": 1793197053.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "펠츠의 트라이언 펀드가 웬디스 인수 제안",
-        "impact": "웬디스 주가 영향",
-        "affected": "웬디스, 외식"
-      }
+     "id": "c44fc54720",
+     "title": "엔비디아·애플보다 현금많은 6년차기업…앤스로픽 176조원에 시장\"깜짝\"",
+     "url": "https://www.hankyung.com/article/202610281854i",
+     "source": "한국경제",
+     "published_kst": "10/28 23:59"
     }
+   ]
+  },
+  {
+   "name": "테슬라",
+   "symbol": "TSLA",
+   "unit": "",
+   "keywords": [
+    "테슬라",
+    "Tesla",
+    "TSLA"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 404.22,
+   "prev_close": 386.47,
+   "change": 17.75,
+   "change_pct": 4.59,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793217601,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "마이크로소프트",
+   "symbol": "MSFT",
+   "unit": "",
+   "keywords": [
+    "마이크로소프트",
+    "Microsoft",
+    "MSFT"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 531.01,
+   "prev_close": 532.95,
+   "change": -1.94,
+   "change_pct": -0.36,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793217601,
+   "asof_date": null,
+   "news": [
+    {
+     "id": "875601267e",
+     "title": "Microsoft profits soar days after announcing thousands of layoffs",
+     "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "published_kst": "10/29 10:27"
+    }
+   ]
+  }
+ ],
+ "news": [
+  {
+   "id": "db4c33d74d",
+   "title": "퇴직연금 기능강화 방안 발표",
+   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079784",
+   "source": "재정경제부 보도자료",
+   "group": "국내 정책당국",
+   "lang": "ko",
+   "published_kst": "10/29 18:00",
+   "published_iso": "2026-10-29T18:00:00+09:00",
+   "sort_key": 1793264400.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "5685a40983",
+   "title": "경총, 퇴직급여 의무화에 \"중소사업장 고려해 단계적 시행해야\"",
+   "url": "https://www.yna.co.kr/view/AKR20261029072400003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 10:35",
+   "published_iso": "2026-10-29T10:35:32+09:00",
+   "sort_key": 1793237732.0,
+   "excerpt": "(서울=연합뉴스) 장하나 기자 = 한국경영자총협회(경총)는 29일 퇴직급여 사외적립 의무화를 골자로 하는 정부의 퇴직연금 기능 강화 방안에 대해...",
+   "matched": []
+  },
+  {
+   "id": "e444a9d398",
+   "title": "[게시판] 하나카드, '라인페이 대만'과 방한관광객 결제 인프라 확대",
+   "url": "https://www.yna.co.kr/view/AKR20261029079600002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 10:34",
+   "published_iso": "2026-10-29T10:34:10+09:00",
+   "sort_key": 1793237650.0,
+   "excerpt": "▲ 하나카드는 한국을 찾는 대만 관광객의 결제 편의를 높이기 위해 대만의 대표 간편결제 서비스 &apos;라인페이 대만&apos;과 업무협약(MOU)을 체결했다고...",
+   "matched": []
+  },
+  {
+   "id": "1d3b0f13dc",
+   "title": "성남시, 분당구보건소 신축 본격화…2028년 말 준공",
+   "url": "https://www.yna.co.kr/view/AKR20261029062400061",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 10:33",
+   "published_iso": "2026-10-29T10:33:53+09:00",
+   "sort_key": 1793237633.0,
+   "excerpt": "(성남=연합뉴스) 이우성 기자 = 경기 성남시는 지은 지 33년 돼 낡고 협소한 분당구보건소를 헐고 새로 짓는 공사에 착수했다고 29일 밝혔다.",
+   "matched": []
+  },
+  {
+   "id": "47126116a2",
+   "title": "KB금융 \"3분기 누적 2조5천663억원 규모 사회적 가치 창출\"",
+   "url": "https://www.yna.co.kr/view/AKR20261029078800002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 10:31",
+   "published_iso": "2026-10-29T10:31:58+09:00",
+   "sort_key": 1793237518.0,
+   "excerpt": "(서울=연합뉴스) 한지훈 기자 = KB금융그룹은 올해 3분기 다양한 사회공헌활동을 통해 총 9천37억원의 사회적 가치를 창출했다고 29일 밝혔다...",
+   "matched": []
+  },
+  {
+   "id": "48231d2a48",
+   "title": "삼성전자 \"올해 최대 75조원 추가 주주환원…자사주 매입·소각\"",
+   "url": "https://www.yna.co.kr/view/AKR20261029080700003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 10:31",
+   "published_iso": "2026-10-29T10:31:27+09:00",
+   "sort_key": 1793237487.0,
+   "excerpt": "(서울=연합뉴스) 박초롱 강태우 기자 = 올해 3분기 30조원 규모의 현금배당을 결정한 삼성전자가 올해 주주환원 잔여 재원이 최대 75조원이라고...",
+   "matched": [
+    "005930.KS"
+   ]
+  },
+  {
+   "id": "c0ce06a286",
+   "title": "삼성 반도체는 웃는데 스마트폰은 적자…메모리값의 역설",
+   "url": "https://www.yna.co.kr/view/AKR20261029079500017",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 10:30",
+   "published_iso": "2026-10-29T10:30:10+09:00",
+   "sort_key": 1793237410.0,
+   "excerpt": "(서울=연합뉴스) 박형빈 기자 = 삼성전자[005930] 스마트폰 사업을 담당하는 모바일경험(MX) 사업부가 올해 3분기 매출 증가에도 메모리 ...",
+   "matched": [
+    "005930.KS"
+   ]
+  },
+  {
+   "id": "b0a69ef456",
+   "title": "해외 일경험, 국내 일자리로…'글로벌 커리어 채용박람회' 개최",
+   "url": "https://www.yna.co.kr/view/AKR20261028164000530",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 10:30",
+   "published_iso": "2026-10-29T10:30:02+09:00",
+   "sort_key": 1793237402.0,
+   "excerpt": "(서울=연합뉴스) 옥성구 기자 = 고용노동부와 한국산업인력공단은 29일 서울 코엑스 마곡에서 &apos;2026 글로벌 커리어 리스타트 채용박람회&apos;를 개...",
+   "matched": []
+  },
+  {
+   "id": "873642dec5",
+   "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+   "url": "https://www.yna.co.kr/view/AKR20261029073600011",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 10:30",
+   "published_iso": "2026-10-29T10:30:01+09:00",
+   "sort_key": 1793237401.0,
+   "excerpt": "■ 삼성전자 3분기 반도체 영업익 106.5조…완제품은 8천억 적자",
+   "matched": []
+  },
+  {
+   "id": "875601267e",
+   "title": "Microsoft profits soar days after announcing thousands of layoffs",
+   "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/29 10:27",
+   "published_iso": "2026-10-29T10:27:40+09:00",
+   "sort_key": 1793237260.0,
+   "excerpt": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+   "matched": [
+    "MSFT"
+   ]
+  },
+  {
+   "id": "18173472ce",
+   "title": "美 “중간선거 후 이란 집중 공격 가능”…걸프국에 대비 통보",
+   "url": "https://www.hankyung.com/article/202610292500i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 09:46",
+   "published_iso": "2026-10-29T09:46:11+09:00",
+   "sort_key": 1793234771.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "ead0a63a1d",
+   "title": "한일시멘트, 한국품질만족지수 3개 부문 1위…AI·특수시멘트로 경쟁력 강화",
+   "url": "https://www.hankyung.com/article/202610292522i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 09:40",
+   "published_iso": "2026-10-29T09:40:07+09:00",
+   "sort_key": 1793234407.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "bba6250822",
+   "title": "휴럼, 日 헬스케어 유통기업에 20억 투자…해외시장 공략 본격화",
+   "url": "https://www.hankyung.com/article/202610292502i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 09:34",
+   "published_iso": "2026-10-29T09:34:33+09:00",
+   "sort_key": 1793234073.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "b72b9c1cde",
+   "title": "버터 닮은 립밤·푸딩 닮은 틴트…뷰티·식품 이색 협업",
+   "url": "https://www.hankyung.com/article/202610292329i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 09:31",
+   "published_iso": "2026-10-29T09:31:11+09:00",
+   "sort_key": 1793233871.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "2e2e23afd9",
+   "title": "中 발표 믿을 수가 있어야지…경제성장률 뻥튀기 논란",
+   "url": "https://www.hankyung.com/article/202610292470i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 09:29",
+   "published_iso": "2026-10-29T09:29:27+09:00",
+   "sort_key": 1793233767.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "66251063ce",
+   "title": "[속보] 한수원·대우건설 컨소, 체코 두코바니 원전 시공계약 협상 결렬",
+   "url": "https://www.hankyung.com/article/2026102924627",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 09:24",
+   "published_iso": "2026-10-29T09:24:25+09:00",
+   "sort_key": 1793233465.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "6c762e0c24",
+   "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+   "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/29 09:00",
+   "published_iso": "2026-10-29T09:00:15+09:00",
+   "sort_key": 1793232015.0,
+   "excerpt": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+   "matched": []
+  },
+  {
+   "id": "feaaa53efc",
+   "title": "비자·테더가 선점하려는 '돈의 길'…스테이블코인 결제 전쟁 [타이거리서치 프리즘]",
+   "url": "https://www.hankyung.com/article/202610278315i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 09:00",
+   "published_iso": "2026-10-29T09:00:07+09:00",
+   "sort_key": 1793232007.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "9f8da81acd",
+   "title": "개인투자용 국채 11월 2,000억원 발행 예정",
+   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079786",
+   "source": "재정경제부 보도자료",
+   "group": "국내 정책당국",
+   "lang": "ko",
+   "published_kst": "10/29 09:00",
+   "published_iso": "2026-10-29T09:00:00+09:00",
+   "sort_key": 1793232000.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "c6de5af256",
+   "title": "확대 거시경제금융회의 개최",
+   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079792",
+   "source": "재정경제부 보도자료",
+   "group": "국내 정책당국",
+   "lang": "ko",
+   "published_kst": "10/29 09:00",
+   "published_iso": "2026-10-29T09:00:00+09:00",
+   "sort_key": 1793232000.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "0c2444bd4a",
+   "title": "\"금리 전망 말하지 말라\"는 케빈 워시…위원들 발언에 시장 혼선",
+   "url": "https://www.hankyung.com/article/202610292221i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 08:49",
+   "published_iso": "2026-10-29T08:49:04+09:00",
+   "sort_key": 1793231344.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "9ac6d1e3e3",
+   "title": "[우분투칼럼] 투자자를 위한 국가, 국민을 위한 국가",
+   "url": "https://www.yna.co.kr/view/AKR20261012025400898",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 07:00",
+   "published_iso": "2026-10-29T07:00:03+09:00",
+   "sort_key": 1793224803.0,
+   "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
+   "matched": [],
+   "analysis": {
+    "summary": "투자자와 국민을 위한 국가를 다룬 칼럼",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "f4d01aeebf",
+   "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+   "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
+   "source": "CNBC Economy",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/29 06:31",
+   "published_iso": "2026-10-29T06:31:46+09:00",
+   "sort_key": 1793223106.0,
+   "excerpt": "Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.",
+   "matched": [],
+   "analysis": {
+    "summary": "연준 금리 결정과 워시 의장 기자회견의 5가지 요점 — 예상대로 동결이지만 몇 가지 놀라움",
+    "impact": "금리 경로 불확실성",
+    "affected": "미국 국채, 증시"
+   }
+  },
+  {
+   "id": "f777718635",
+   "title": "대부업체·제약사·병원 줄줄이 해킹…해커 국내 활동 가능성",
+   "url": "https://www.yna.co.kr/view/AKR20261028174000017",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 06:13",
+   "published_iso": "2026-10-29T06:13:04+09:00",
+   "sort_key": 1793221984.0,
+   "excerpt": "(서울=연합뉴스) 오지은 기자 = 국내 대부업체와 제약회사, 병원 등 업종을 가리지 않고 기업과 기관을 겨냥한 연쇄 해킹이 발생해 내부 데이터가...",
+   "matched": [],
+   "analysis": {
+    "summary": "대부업체·제약사·병원까지 연쇄 해킹 — 해커가 국내에서 활동할 가능성",
+    "impact": "국내 보안 위험 확산",
+    "affected": "보안 업체"
+   }
+  },
+  {
+   "id": "268fb1cd34",
+   "title": "외식 물가 부담에 냉동치킨 '인기'…식품업계, 차별화 경쟁 속도",
+   "url": "https://www.yna.co.kr/view/AKR20261028165800030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 06:10",
+   "published_iso": "2026-10-29T06:10:01+09:00",
+   "sort_key": 1793221801.0,
+   "excerpt": "(서울=연합뉴스) 김세린 기자 = 외식 물가 상승과 간편식 수요 증가에 힘입어 냉동치킨 시장이 성장하면서 국내 식품업체들이 제품군 확대와 브랜드...",
+   "matched": [],
+   "analysis": {
+    "summary": "외식 물가 부담에 냉동치킨 인기, 식품업계 경쟁",
+    "impact": "시장 영향은 제한적",
+    "affected": "식품"
+   }
+  },
+  {
+   "id": "dd353ac639",
+   "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
+   "url": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
+   "source": "CNBC Economy",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/29 06:06",
+   "published_iso": "2026-10-29T06:06:37+09:00",
+   "sort_key": 1793221597.0,
+   "excerpt": "Treasury Secretary Scott Bessent joined CNBC for an interview on Oct. 28, 2026.",
+   "matched": [],
+   "analysis": {
+    "summary": "베선트 재무장관 '연준이 다시 금리를 올려도 꼭 실수는 아냐'",
+    "impact": "추가 인상 가능성 용인",
+    "affected": "미국 국채"
+   }
+  },
+  {
+   "id": "fc404c161b",
+   "title": "서울 공급 부족 우려에도…LH, 비축용 토지 매입 4년간 '0'",
+   "url": "https://www.yna.co.kr/view/AKR20261028160300003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 06:05",
+   "published_iso": "2026-10-29T06:05:03+09:00",
+   "sort_key": 1793221503.0,
+   "excerpt": "(서울=연합뉴스) 오예진 기자 = 한국토지주택공사(LH)가 재무개선을 이유로 중장기 사업용 토지 매입을 중단했다가 공급 부족이 현실화한 후에야 ...",
+   "matched": [],
+   "analysis": {
+    "summary": "서울 공급 부족 우려에도 LH가 4년간 비축용 토지 매입 0건",
+    "impact": "서울 주택 공급 부족 장기화",
+    "affected": "부동산"
+   }
+  },
+  {
+   "id": "d66f761a4d",
+   "title": "농식품부, 유기농업자재 지원 확대…녹비작물 종자 2종 추가",
+   "url": "https://www.yna.co.kr/view/AKR20261028127600030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 06:00",
+   "published_iso": "2026-10-29T06:00:11+09:00",
+   "sort_key": 1793221211.0,
+   "excerpt": "(서울=연합뉴스) 한주홍 기자 = 농림축산식품부는 29일 친환경농업인 확대를 위해 유기농업자재 사업 지침을 개정키로 했다.",
+   "matched": [],
+   "analysis": {
+    "summary": "농식품부 유기농업자재 지원 확대",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "375b7d00b0",
+   "title": "스타벅스 떠난 MBC 사옥에…'테라로사' 매장 들어선다",
+   "url": "https://www.hankyung.com/article/202610280248g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 06:00",
+   "published_iso": "2026-10-29T06:00:11+09:00",
+   "sort_key": 1793221211.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "스타벅스가 떠난 MBC 사옥에 테라로사 입점",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "70069023c1",
+   "title": "기업 체감경기 4년 2개월 만에 최고…\"반도체 등 온기 확산\"",
+   "url": "https://www.yna.co.kr/view/AKR20261028163500002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 06:00",
+   "published_iso": "2026-10-29T06:00:09+09:00",
+   "sort_key": 1793221209.0,
+   "excerpt": "(서울=연합뉴스) 한지훈 기자 = 반도체를 비롯한 주력 산업 호조가 후방 산업으로 확산하면서 기업 체감 경기가 4년여 만에 최고 수준을 기록했다...",
+   "matched": [],
+   "analysis": {
+    "summary": "반도체 호조가 다른 산업으로 퍼지며 기업 체감경기가 4년 2개월 만에 최고",
+    "impact": "국내 경기 회복 확산",
+    "affected": "국내 증시, 원화",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "기업 체감경기가 4년 2개월 만에 최고 — 반도체 호조가 다른 산업으로 퍼지는 신호"
+   }
+  },
+  {
+   "id": "67c7c9b21d",
+   "title": "서울시50플러스재단, 중장년 창업기업 8곳에 사업화 자금 지원",
+   "url": "https://www.yna.co.kr/view/AKR20261028174700004",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 06:00",
+   "published_iso": "2026-10-29T06:00:07+09:00",
+   "sort_key": 1793221207.0,
+   "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시50플러스재단은 지난 28일 마포구 중부캠퍼스에서 &apos;2026년 중장년 창업컨설팅 성과공유회&apos;를 열고 중장...",
+   "matched": [],
+   "analysis": {
+    "summary": "서울시50플러스재단이 중장년 창업기업 8곳 지원",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "aa1a19542a",
+   "title": "서울시, 주거취약계층 구직·취업자에 '숲 치유'…내년 정규운영",
+   "url": "https://www.yna.co.kr/view/AKR20261028177300004",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 06:00",
+   "published_iso": "2026-10-29T06:00:04+09:00",
+   "sort_key": 1793221204.0,
+   "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시는 지난 28일 한국산림복지진흥원, 한국타이어나눔재단과 주거 취약계층 구직자·취업자의 정서 완화를 지원하...",
+   "matched": [],
+   "analysis": {
+    "summary": "서울시가 주거취약 구직자에게 숲 치유 프로그램",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "db0b51f9ee",
+   "title": "\"나이키·아디다스 다 지겨워\"…'이 신발' 뜨자마자 8조 터졌다",
+   "url": "https://www.hankyung.com/article/2026102813511",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 06:00",
+   "published_iso": "2026-10-29T06:00:04+09:00",
+   "sort_key": 1793221204.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "나이키·아디다스에 질린 소비자들 사이에 뜬 신발 브랜드",
+    "impact": "스포츠 브랜드 경쟁 심화",
+    "affected": "나이키, 아디다스"
+   }
+  },
+  {
+   "id": "aab5ca1501",
+   "title": "\"매출 9배 뛰었다\"…잠 못 드는 한국인에 판 커지는 '꿀잠 시장' [권용훈의 트렌드워치]",
+   "url": "https://www.hankyung.com/article/202610281704i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 06:00",
+   "published_iso": "2026-10-29T06:00:02+09:00",
+   "sort_key": 1793221202.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "잠 못 드는 한국인 덕에 커지는 수면 시장",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "823ec8b4e6",
+   "title": "CNN, MS Now and Politico Update Lawsuit Against Trump Over White House Access",
+   "url": "https://www.nytimes.com/2026/10/28/business/media/cnn-ms-now-politico-white-house-lawsuit.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/29 05:47",
+   "published_iso": "2026-10-29T05:47:13+09:00",
+   "sort_key": 1793220433.0,
+   "excerpt": "The news outlets argued in an updated lawsuit that they should be granted access to the White House reporting pools.",
+   "matched": [],
+   "analysis": {
+    "summary": "CNN·폴리티코 등이 백악관 취재 접근 소송 보완",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "71577bca99",
+   "title": "What we now know about the UK economy in four charts",
+   "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/29 05:08",
+   "published_iso": "2026-10-29T05:08:45+09:00",
+   "sort_key": 1793218125.0,
+   "excerpt": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+   "matched": [],
+   "analysis": {
+    "summary": "영국 경제를 4개 차트로 정리 — 에너지값 상승이 물가·성장에 영향",
+    "impact": "영국 경기 둔화 요인",
+    "affected": "영국 경제"
+   }
+  },
+  {
+   "id": "c49474e166",
+   "title": "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
+   "url": "https://www.nytimes.com/2026/10/28/business/economy/fed-meetings-2027-interest-rates-warsh.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/29 05:02",
+   "published_iso": "2026-10-29T05:02:56+09:00",
+   "sort_key": 1793217776.0,
+   "excerpt": "Kevin M. Warsh, the Federal Reserve’s chairman, said the central bank would vote on interest rates seven times in 2027 and six in 2028. It has traditionally voted eight times per year.",
+   "matched": [],
+   "analysis": {
+    "summary": "워시 의장 '내년부터 금리 회의 횟수 축소(2027년 7회, 이후 6회)'",
+    "impact": "시장 영향은 제한적",
+    "affected": "미국 금리"
+   }
+  },
+  {
+   "id": "515c8312bc",
+   "title": "What the Budget offers for under 25s - and what it leaves out",
+   "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/29 05:02",
+   "published_iso": "2026-10-29T05:02:38+09:00",
+   "sort_key": 1793217758.0,
+   "excerpt": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+   "matched": [],
+   "analysis": {
+    "summary": "영국 예산안이 25세 미만에게 주는 것과 빠진 것",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "cc3eadc483",
+   "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+   "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/29 04:51",
+   "published_iso": "2026-10-29T04:51:01+09:00",
+   "sort_key": 1793217061.0,
+   "excerpt": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
+   "matched": [],
+   "analysis": {
+    "summary": "영국 재무장관이 시간을 벌었지만 큰 질문은 남음 — 이란 전쟁이 선택지를 좁힘",
+    "impact": "시장 영향은 제한적",
+    "affected": "영국 국채"
+   }
+  },
+  {
+   "id": "a17e2f5175",
+   "title": "Takeaways from Warsh’s news conference.",
+   "url": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/takeaways-from-warshs-news-conference",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/29 04:43",
+   "published_iso": "2026-10-29T04:43:34+09:00",
+   "sort_key": 1793216614.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "워시 기자회견 요점(앞 기사와 같은 내용)",
+    "impact": "금리 경로 불확실성",
+    "affected": "미국 국채"
+   }
+  },
+  {
+   "id": "286b233127",
+   "title": "An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded",
+   "url": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/29 04:20",
+   "published_iso": "2026-10-29T04:20:53+09:00",
+   "sort_key": 1793215253.0,
+   "excerpt": "The cruise promised a lifetime of sailing, for less than what it cost to live on land. But it was underfunded and couldn’t absorb the rising cost of fuel.",
+   "matched": [],
+   "analysis": {
+    "summary": "'평생 크루즈' 여행이 자금 부족으로 중단돼 승객들 발 묶임",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "b069f02850",
+   "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+   "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/29 04:15",
+   "published_iso": "2026-10-29T04:15:58+09:00",
+   "sort_key": 1793214958.0,
+   "excerpt": "The Russian President praised Musk and said they are in \"close\" contact.",
+   "matched": [],
+   "analysis": {
+    "summary": "푸틴 '머스크는 진짜 천재' — 스페이스X 위성 관련 대화",
+    "impact": "시장 영향은 제한적",
+    "affected": "스페이스X, 테슬라"
+   }
+  },
+  {
+   "id": "baa34030fc",
+   "title": "Here’s the latest.",
+   "url": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/heres-the-latest",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/29 04:08",
+   "published_iso": "2026-10-29T04:08:45+09:00",
+   "sort_key": 1793214525.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "연준 관련 최신 소식",
+    "impact": "시장 영향은 제한적",
+    "affected": "미국 금리"
+   }
+  },
+  {
+   "id": "33c0c94ae4",
+   "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+   "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/29 03:45",
+   "published_iso": "2026-10-29T03:45:09+09:00",
+   "sort_key": 1793213109.0,
+   "excerpt": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+   "matched": [],
+   "analysis": {
+    "summary": "영국 첫 예산안: 에너지 요금 100파운드 지원, 은행세 도입",
+    "impact": "영국 은행주 부담",
+    "affected": "영국 은행, 파운드화"
+   }
+  },
+  {
+   "id": "e1f75c9ea9",
+   "title": "Tax thresholds remain unchanged - here's what it means for your pay",
+   "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/29 03:12",
+   "published_iso": "2026-10-29T03:12:24+09:00",
+   "sort_key": 1793211144.0,
+   "excerpt": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
+   "matched": [],
+   "analysis": {
+    "summary": "영국 소득세 구간 3년 더 동결",
+    "impact": "영국 가계 실질 세 부담 증가",
+    "affected": "영국 소비"
+   }
+  },
+  {
+   "id": "8d58299573",
+   "title": "How the Fed’s Interest Rate Decision Affects Credit Cards, Loans and More",
+   "url": "https://www.nytimes.com/2026/10/28/business/economy/fed-interest-rates-credit-cards-loans.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/29 03:09",
+   "published_iso": "2026-10-29T03:09:22+09:00",
+   "sort_key": 1793210962.0,
+   "excerpt": "The Federal Reserve left its benchmark rate untouched, but a December hike could make holiday borrowing more costly.",
+   "matched": [],
+   "analysis": {
+    "summary": "연준 동결이 카드·대출에 미치는 영향 — 12월 인상 시 연말 대출 비용 증가",
+    "impact": "12월 추가 인상 가능성",
+    "affected": "미국 소비자 대출"
+   }
+  },
+  {
+   "id": "847a7abc27",
+   "title": "Federal Reserve issues FOMC statement",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+   "source": "연준(Fed) 보도자료",
+   "group": "중앙은행·국제기구",
+   "lang": "en",
+   "published_kst": "10/29 03:00",
+   "published_iso": "2026-10-29T03:00:00+09:00",
+   "sort_key": 1793210400.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "연준 FOMC 성명 발표 — 기준금리 동결",
+    "impact": "금리 동결, 추가 인상 여지는 남김",
+    "affected": "미국 국채, 달러, 증시 전반",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "연준이 기준금리 동결 — 다만 물가가 다시 올라 12월 추가 인상 가능성을 열어 둠"
+   }
+  },
+  {
+   "id": "06399b7551",
+   "title": "What Does the Cheesecake Factory’s Designer Think of Obama and Trump’s Jabs at His Décor?",
+   "url": "https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/29 02:55",
+   "published_iso": "2026-10-29T02:55:11+09:00",
+   "sort_key": 1793210111.0,
+   "excerpt": "Long before its baroque décor and class identity became midterm talking points, this durable restaurant chain survived some withering critiques.",
+   "matched": [],
+   "analysis": {
+    "summary": "치즈케이크 팩토리 인테리어 디자이너 인터뷰",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "ca96f6e794",
+   "title": "Will I get the £100 energy payment and when will I receive it?",
+   "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/29 02:47",
+   "published_iso": "2026-10-29T02:47:37+09:00",
+   "sort_key": 1793209657.0,
+   "excerpt": "Here is what you need to know about the payment that millions will receive from January.",
+   "matched": [],
+   "analysis": {
+    "summary": "영국 에너지 요금 100파운드 지원금 받는 법",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "8f8511dcaa",
+   "title": "RFK Jr. to Allow Broad Use of Unapproved Peptide Injections",
+   "url": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/29 02:05",
+   "published_iso": "2026-10-29T02:05:05+09:00",
+   "sort_key": 1793207105.0,
+   "excerpt": "In a unilateral declaration by the health secretary, several injections promoted by online influencers will become widely available. The F.D.A. had advised against the move.",
+   "matched": [],
+   "analysis": {
+    "summary": "미국 보건장관이 승인 안 된 펩타이드 주사의 광범위한 사용 허용",
+    "impact": "제약 규제 완화 논란",
+    "affected": "제약·바이오"
+   }
+  },
+  {
+   "id": "8d7f3964b0",
+   "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
+   "url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
+   "source": "CNBC Economy",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/29 00:39",
+   "published_iso": "2026-10-29T00:39:14+09:00",
+   "sort_key": 1793201954.0,
+   "excerpt": "The U.K. budget cuts household energy costs, raises taxes on banks and directs billions toward defense, Ukraine and artificial intelligence",
+   "matched": [],
+   "analysis": {
+    "summary": "영국 예산안: 가계 에너지 비용 인하, 은행세 인상, 국방·우크라이나·AI 투자",
+    "impact": "영국 은행주 부담, 방산 수혜",
+    "affected": "영국 은행, 방산"
+   }
+  },
+  {
+   "id": "acd6877c84",
+   "title": "금값 바닥 멀었다?…JP모건 \"내년 초까지 추가 하락 위험\"",
+   "url": "https://www.hankyung.com/article/202610291867i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/29 00:34",
+   "published_iso": "2026-10-29T00:34:42+09:00",
+   "sort_key": 1793201682.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "JP모건 '금값은 내년 초까지 더 떨어질 위험'",
+    "impact": "금 가격 약세 전망",
+    "affected": "금"
+   }
+  },
+  {
+   "id": "c44fc54720",
+   "title": "엔비디아·애플보다 현금많은 6년차기업…앤스로픽 176조원에 시장\"깜짝\"",
+   "url": "https://www.hankyung.com/article/202610281854i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/28 23:59",
+   "published_iso": "2026-10-28T23:59:57+09:00",
+   "sort_key": 1793199597.0,
+   "excerpt": "",
+   "matched": [
+    "NVDA",
+    "AAPL"
+   ],
+   "analysis": {
+    "summary": "엔비디아·애플보다 현금이 많은 6년 차 기업 — Anthropic 176조 원 공개에 시장 놀람",
+    "impact": "AI 기업 재무 체력 확인",
+    "affected": "AI 관련주"
+   }
+  },
+  {
+   "id": "25353ddbed",
+   "title": "웬디스,1.9조달러에 팔리나?…펠츠의 트라이언 펀드 인수제안",
+   "url": "https://www.hankyung.com/article/202610281810i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/28 23:17",
+   "published_iso": "2026-10-28T23:17:33+09:00",
+   "sort_key": 1793197053.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "펠츠의 트라이언 펀드가 웬디스 인수 제안",
+    "impact": "웬디스 주가 영향",
+    "affected": "웬디스, 외식"
+   }
+  },
+  {
+   "id": "b33549ad77",
+   "title": "공공기관 AI 대전환, 우리의 일상을 바꾸다(2026 공공기관 AI 혁신 성과 대회 개최)",
+   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079793",
+   "source": "재정경제부 보도자료",
+   "group": "국내 정책당국",
+   "lang": "ko",
+   "published_kst": "10/28 09:00",
+   "published_iso": "2026-10-28T09:00:00+09:00",
+   "sort_key": 1793145600.0,
+   "excerpt": "",
+   "matched": []
+  }
+ ],
+ "news_groups": {
+  "국내 정책당국": [
+   {
+    "id": "db4c33d74d",
+    "title": "퇴직연금 기능강화 방안 발표",
+    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079784",
+    "source": "재정경제부 보도자료",
+    "group": "국내 정책당국",
+    "lang": "ko",
+    "published_kst": "10/29 18:00",
+    "published_iso": "2026-10-29T18:00:00+09:00",
+    "sort_key": 1793264400.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "9f8da81acd",
+    "title": "개인투자용 국채 11월 2,000억원 발행 예정",
+    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079786",
+    "source": "재정경제부 보도자료",
+    "group": "국내 정책당국",
+    "lang": "ko",
+    "published_kst": "10/29 09:00",
+    "published_iso": "2026-10-29T09:00:00+09:00",
+    "sort_key": 1793232000.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "c6de5af256",
+    "title": "확대 거시경제금융회의 개최",
+    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079792",
+    "source": "재정경제부 보도자료",
+    "group": "국내 정책당국",
+    "lang": "ko",
+    "published_kst": "10/29 09:00",
+    "published_iso": "2026-10-29T09:00:00+09:00",
+    "sort_key": 1793232000.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "b33549ad77",
+    "title": "공공기관 AI 대전환, 우리의 일상을 바꾸다(2026 공공기관 AI 혁신 성과 대회 개최)",
+    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079793",
+    "source": "재정경제부 보도자료",
+    "group": "국내 정책당국",
+    "lang": "ko",
+    "published_kst": "10/28 09:00",
+    "published_iso": "2026-10-28T09:00:00+09:00",
+    "sort_key": 1793145600.0,
+    "excerpt": "",
+    "matched": []
+   }
   ],
-  "news_groups": {
-    "국내 경제언론": [
-      {
-        "id": "9ac6d1e3e3",
-        "title": "[우분투칼럼] 투자자를 위한 국가, 국민을 위한 국가",
-        "url": "https://www.yna.co.kr/view/AKR20261012025400898",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/29 07:00",
-        "published_iso": "2026-10-29T07:00:03+09:00",
-        "sort_key": 1793224803.0,
-        "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
-        "matched": []
-      },
-      {
-        "id": "f777718635",
-        "title": "대부업체·제약사·병원 줄줄이 해킹…해커 국내 활동 가능성",
-        "url": "https://www.yna.co.kr/view/AKR20261028174000017",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/29 06:13",
-        "published_iso": "2026-10-29T06:13:04+09:00",
-        "sort_key": 1793221984.0,
-        "excerpt": "(서울=연합뉴스) 오지은 기자 = 국내 대부업체와 제약회사, 병원 등 업종을 가리지 않고 기업과 기관을 겨냥한 연쇄 해킹이 발생해 내부 데이터가...",
-        "matched": []
-      },
-      {
-        "id": "268fb1cd34",
-        "title": "외식 물가 부담에 냉동치킨 '인기'…식품업계, 차별화 경쟁 속도",
-        "url": "https://www.yna.co.kr/view/AKR20261028165800030",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/29 06:10",
-        "published_iso": "2026-10-29T06:10:01+09:00",
-        "sort_key": 1793221801.0,
-        "excerpt": "(서울=연합뉴스) 김세린 기자 = 외식 물가 상승과 간편식 수요 증가에 힘입어 냉동치킨 시장이 성장하면서 국내 식품업체들이 제품군 확대와 브랜드...",
-        "matched": []
-      },
-      {
-        "id": "fc404c161b",
-        "title": "서울 공급 부족 우려에도…LH, 비축용 토지 매입 4년간 '0'",
-        "url": "https://www.yna.co.kr/view/AKR20261028160300003",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/29 06:05",
-        "published_iso": "2026-10-29T06:05:03+09:00",
-        "sort_key": 1793221503.0,
-        "excerpt": "(서울=연합뉴스) 오예진 기자 = 한국토지주택공사(LH)가 재무개선을 이유로 중장기 사업용 토지 매입을 중단했다가 공급 부족이 현실화한 후에야 ...",
-        "matched": []
-      },
-      {
-        "id": "d66f761a4d",
-        "title": "농식품부, 유기농업자재 지원 확대…녹비작물 종자 2종 추가",
-        "url": "https://www.yna.co.kr/view/AKR20261028127600030",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/29 06:00",
-        "published_iso": "2026-10-29T06:00:11+09:00",
-        "sort_key": 1793221211.0,
-        "excerpt": "(서울=연합뉴스) 한주홍 기자 = 농림축산식품부는 29일 친환경농업인 확대를 위해 유기농업자재 사업 지침을 개정키로 했다.",
-        "matched": []
-      },
-      {
-        "id": "375b7d00b0",
-        "title": "스타벅스 떠난 MBC 사옥에…'테라로사' 매장 들어선다",
-        "url": "https://www.hankyung.com/article/202610280248g",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/29 06:00",
-        "published_iso": "2026-10-29T06:00:11+09:00",
-        "sort_key": 1793221211.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "70069023c1",
-        "title": "기업 체감경기 4년 2개월 만에 최고…\"반도체 등 온기 확산\"",
-        "url": "https://www.yna.co.kr/view/AKR20261028163500002",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/29 06:00",
-        "published_iso": "2026-10-29T06:00:09+09:00",
-        "sort_key": 1793221209.0,
-        "excerpt": "(서울=연합뉴스) 한지훈 기자 = 반도체를 비롯한 주력 산업 호조가 후방 산업으로 확산하면서 기업 체감 경기가 4년여 만에 최고 수준을 기록했다...",
-        "matched": []
-      },
-      {
-        "id": "67c7c9b21d",
-        "title": "서울시50플러스재단, 중장년 창업기업 8곳에 사업화 자금 지원",
-        "url": "https://www.yna.co.kr/view/AKR20261028174700004",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/29 06:00",
-        "published_iso": "2026-10-29T06:00:07+09:00",
-        "sort_key": 1793221207.0,
-        "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시50플러스재단은 지난 28일 마포구 중부캠퍼스에서 &apos;2026년 중장년 창업컨설팅 성과공유회&apos;를 열고 중장...",
-        "matched": []
-      },
-      {
-        "id": "aa1a19542a",
-        "title": "서울시, 주거취약계층 구직·취업자에 '숲 치유'…내년 정규운영",
-        "url": "https://www.yna.co.kr/view/AKR20261028177300004",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/29 06:00",
-        "published_iso": "2026-10-29T06:00:04+09:00",
-        "sort_key": 1793221204.0,
-        "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시는 지난 28일 한국산림복지진흥원, 한국타이어나눔재단과 주거 취약계층 구직자·취업자의 정서 완화를 지원하...",
-        "matched": []
-      },
-      {
-        "id": "db0b51f9ee",
-        "title": "\"나이키·아디다스 다 지겨워\"…'이 신발' 뜨자마자 8조 터졌다",
-        "url": "https://www.hankyung.com/article/2026102813511",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/29 06:00",
-        "published_iso": "2026-10-29T06:00:04+09:00",
-        "sort_key": 1793221204.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "aab5ca1501",
-        "title": "\"매출 9배 뛰었다\"…잠 못 드는 한국인에 판 커지는 '꿀잠 시장' [권용훈의 트렌드워치]",
-        "url": "https://www.hankyung.com/article/202610281704i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/29 06:00",
-        "published_iso": "2026-10-29T06:00:02+09:00",
-        "sort_key": 1793221202.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "acd6877c84",
-        "title": "금값 바닥 멀었다?…JP모건 \"내년 초까지 추가 하락 위험\"",
-        "url": "https://www.hankyung.com/article/202610291867i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/29 00:34",
-        "published_iso": "2026-10-29T00:34:42+09:00",
-        "sort_key": 1793201682.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "c44fc54720",
-        "title": "엔비디아·애플보다 현금많은 6년차기업…앤스로픽 176조원에 시장\"깜짝\"",
-        "url": "https://www.hankyung.com/article/202610281854i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/28 23:59",
-        "published_iso": "2026-10-28T23:59:57+09:00",
-        "sort_key": 1793199597.0,
-        "excerpt": "",
-        "matched": [
-          "NVDA",
-          "AAPL"
-        ]
-      },
-      {
-        "id": "25353ddbed",
-        "title": "웬디스,1.9조달러에 팔리나?…펠츠의 트라이언 펀드 인수제안",
-        "url": "https://www.hankyung.com/article/202610281810i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/28 23:17",
-        "published_iso": "2026-10-28T23:17:33+09:00",
-        "sort_key": 1793197053.0,
-        "excerpt": "",
-        "matched": []
-      }
-    ],
-    "해외 경제언론": [
-      {
-        "id": "f4d01aeebf",
-        "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
-        "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
-        "source": "CNBC Economy",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/29 06:31",
-        "published_iso": "2026-10-29T06:31:46+09:00",
-        "sort_key": 1793223106.0,
-        "excerpt": "Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.",
-        "matched": []
-      },
-      {
-        "id": "dd353ac639",
-        "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
-        "url": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
-        "source": "CNBC Economy",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/29 06:06",
-        "published_iso": "2026-10-29T06:06:37+09:00",
-        "sort_key": 1793221597.0,
-        "excerpt": "Treasury Secretary Scott Bessent joined CNBC for an interview on Oct. 28, 2026.",
-        "matched": []
-      },
-      {
-        "id": "823ec8b4e6",
-        "title": "CNN, MS Now and Politico Update Lawsuit Against Trump Over White House Access",
-        "url": "https://www.nytimes.com/2026/10/28/business/media/cnn-ms-now-politico-white-house-lawsuit.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/29 05:47",
-        "published_iso": "2026-10-29T05:47:13+09:00",
-        "sort_key": 1793220433.0,
-        "excerpt": "The news outlets argued in an updated lawsuit that they should be granted access to the White House reporting pools.",
-        "matched": []
-      },
-      {
-        "id": "71577bca99",
-        "title": "What we now know about the UK economy in four charts",
-        "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/29 05:08",
-        "published_iso": "2026-10-29T05:08:45+09:00",
-        "sort_key": 1793218125.0,
-        "excerpt": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
-        "matched": []
-      },
-      {
-        "id": "c49474e166",
-        "title": "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
-        "url": "https://www.nytimes.com/2026/10/28/business/economy/fed-meetings-2027-interest-rates-warsh.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/29 05:02",
-        "published_iso": "2026-10-29T05:02:56+09:00",
-        "sort_key": 1793217776.0,
-        "excerpt": "Kevin M. Warsh, the Federal Reserve’s chairman, said the central bank would vote on interest rates seven times in 2027 and six in 2028. It has traditionally voted eight times per year.",
-        "matched": []
-      },
-      {
-        "id": "515c8312bc",
-        "title": "What the Budget offers for under 25s - and what it leaves out",
-        "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/29 05:02",
-        "published_iso": "2026-10-29T05:02:38+09:00",
-        "sort_key": 1793217758.0,
-        "excerpt": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
-        "matched": []
-      },
-      {
-        "id": "cc3eadc483",
-        "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-        "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/29 04:51",
-        "published_iso": "2026-10-29T04:51:01+09:00",
-        "sort_key": 1793217061.0,
-        "excerpt": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-        "matched": []
-      },
-      {
-        "id": "a17e2f5175",
-        "title": "Takeaways from Warsh’s news conference.",
-        "url": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/takeaways-from-warshs-news-conference",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/29 04:43",
-        "published_iso": "2026-10-29T04:43:34+09:00",
-        "sort_key": 1793216614.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "286b233127",
-        "title": "An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded",
-        "url": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/29 04:20",
-        "published_iso": "2026-10-29T04:20:53+09:00",
-        "sort_key": 1793215253.0,
-        "excerpt": "The cruise promised a lifetime of sailing, for less than what it cost to live on land. But it was underfunded and couldn’t absorb the rising cost of fuel.",
-        "matched": []
-      },
-      {
-        "id": "b069f02850",
-        "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-        "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/29 04:15",
-        "published_iso": "2026-10-29T04:15:58+09:00",
-        "sort_key": 1793214958.0,
-        "excerpt": "The Russian President praised Musk and said they are in \"close\" contact.",
-        "matched": []
-      },
-      {
-        "id": "baa34030fc",
-        "title": "Here’s the latest.",
-        "url": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/heres-the-latest",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/29 04:08",
-        "published_iso": "2026-10-29T04:08:45+09:00",
-        "sort_key": 1793214525.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "33c0c94ae4",
-        "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-        "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/29 03:45",
-        "published_iso": "2026-10-29T03:45:09+09:00",
-        "sort_key": 1793213109.0,
-        "excerpt": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
-        "matched": []
-      },
-      {
-        "id": "e1f75c9ea9",
-        "title": "Tax thresholds remain unchanged - here's what it means for your pay",
-        "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/29 03:12",
-        "published_iso": "2026-10-29T03:12:24+09:00",
-        "sort_key": 1793211144.0,
-        "excerpt": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
-        "matched": []
-      },
-      {
-        "id": "8d58299573",
-        "title": "How the Fed’s Interest Rate Decision Affects Credit Cards, Loans and More",
-        "url": "https://www.nytimes.com/2026/10/28/business/economy/fed-interest-rates-credit-cards-loans.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/29 03:09",
-        "published_iso": "2026-10-29T03:09:22+09:00",
-        "sort_key": 1793210962.0,
-        "excerpt": "The Federal Reserve left its benchmark rate untouched, but a December hike could make holiday borrowing more costly.",
-        "matched": []
-      },
-      {
-        "id": "06399b7551",
-        "title": "What Does the Cheesecake Factory’s Designer Think of Obama and Trump’s Jabs at His Décor?",
-        "url": "https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/29 02:55",
-        "published_iso": "2026-10-29T02:55:11+09:00",
-        "sort_key": 1793210111.0,
-        "excerpt": "Long before its baroque décor and class identity became midterm talking points, this durable restaurant chain survived some withering critiques.",
-        "matched": []
-      },
-      {
-        "id": "ca96f6e794",
-        "title": "Will I get the £100 energy payment and when will I receive it?",
-        "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/29 02:47",
-        "published_iso": "2026-10-29T02:47:37+09:00",
-        "sort_key": 1793209657.0,
-        "excerpt": "Here is what you need to know about the payment that millions will receive from January.",
-        "matched": []
-      },
-      {
-        "id": "8f8511dcaa",
-        "title": "RFK Jr. to Allow Broad Use of Unapproved Peptide Injections",
-        "url": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/29 02:05",
-        "published_iso": "2026-10-29T02:05:05+09:00",
-        "sort_key": 1793207105.0,
-        "excerpt": "In a unilateral declaration by the health secretary, several injections promoted by online influencers will become widely available. The F.D.A. had advised against the move.",
-        "matched": []
-      },
-      {
-        "id": "8d7f3964b0",
-        "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
-        "url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
-        "source": "CNBC Economy",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/29 00:39",
-        "published_iso": "2026-10-29T00:39:14+09:00",
-        "sort_key": 1793201954.0,
-        "excerpt": "The U.K. budget cuts household energy costs, raises taxes on banks and directs billions toward defense, Ukraine and artificial intelligence",
-        "matched": []
-      }
-    ],
-    "중앙은행·국제기구": [
-      {
-        "id": "847a7abc27",
-        "title": "Federal Reserve issues FOMC statement",
-        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-        "source": "연준(Fed) 보도자료",
-        "group": "중앙은행·국제기구",
-        "lang": "en",
-        "published_kst": "10/29 03:00",
-        "published_iso": "2026-10-29T03:00:00+09:00",
-        "sort_key": 1793210400.0,
-        "excerpt": "",
-        "matched": []
-      }
+  "국내 경제언론": [
+   {
+    "id": "5685a40983",
+    "title": "경총, 퇴직급여 의무화에 \"중소사업장 고려해 단계적 시행해야\"",
+    "url": "https://www.yna.co.kr/view/AKR20261029072400003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 10:35",
+    "published_iso": "2026-10-29T10:35:32+09:00",
+    "sort_key": 1793237732.0,
+    "excerpt": "(서울=연합뉴스) 장하나 기자 = 한국경영자총협회(경총)는 29일 퇴직급여 사외적립 의무화를 골자로 하는 정부의 퇴직연금 기능 강화 방안에 대해...",
+    "matched": []
+   },
+   {
+    "id": "e444a9d398",
+    "title": "[게시판] 하나카드, '라인페이 대만'과 방한관광객 결제 인프라 확대",
+    "url": "https://www.yna.co.kr/view/AKR20261029079600002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 10:34",
+    "published_iso": "2026-10-29T10:34:10+09:00",
+    "sort_key": 1793237650.0,
+    "excerpt": "▲ 하나카드는 한국을 찾는 대만 관광객의 결제 편의를 높이기 위해 대만의 대표 간편결제 서비스 &apos;라인페이 대만&apos;과 업무협약(MOU)을 체결했다고...",
+    "matched": []
+   },
+   {
+    "id": "1d3b0f13dc",
+    "title": "성남시, 분당구보건소 신축 본격화…2028년 말 준공",
+    "url": "https://www.yna.co.kr/view/AKR20261029062400061",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 10:33",
+    "published_iso": "2026-10-29T10:33:53+09:00",
+    "sort_key": 1793237633.0,
+    "excerpt": "(성남=연합뉴스) 이우성 기자 = 경기 성남시는 지은 지 33년 돼 낡고 협소한 분당구보건소를 헐고 새로 짓는 공사에 착수했다고 29일 밝혔다.",
+    "matched": []
+   },
+   {
+    "id": "47126116a2",
+    "title": "KB금융 \"3분기 누적 2조5천663억원 규모 사회적 가치 창출\"",
+    "url": "https://www.yna.co.kr/view/AKR20261029078800002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 10:31",
+    "published_iso": "2026-10-29T10:31:58+09:00",
+    "sort_key": 1793237518.0,
+    "excerpt": "(서울=연합뉴스) 한지훈 기자 = KB금융그룹은 올해 3분기 다양한 사회공헌활동을 통해 총 9천37억원의 사회적 가치를 창출했다고 29일 밝혔다...",
+    "matched": []
+   },
+   {
+    "id": "48231d2a48",
+    "title": "삼성전자 \"올해 최대 75조원 추가 주주환원…자사주 매입·소각\"",
+    "url": "https://www.yna.co.kr/view/AKR20261029080700003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 10:31",
+    "published_iso": "2026-10-29T10:31:27+09:00",
+    "sort_key": 1793237487.0,
+    "excerpt": "(서울=연합뉴스) 박초롱 강태우 기자 = 올해 3분기 30조원 규모의 현금배당을 결정한 삼성전자가 올해 주주환원 잔여 재원이 최대 75조원이라고...",
+    "matched": [
+     "005930.KS"
     ]
-  },
-  "counts": {
-    "indices_ok": 8,
-    "indices_total": 8,
-    "stocks_ok": 9,
-    "stocks_total": 9,
-    "news": 33,
-    "news_new": 33
-  },
-  "errors": [
-    {
-      "stage": "news",
-      "target": "금융위원회 보도자료",
-      "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
+   },
+   {
+    "id": "c0ce06a286",
+    "title": "삼성 반도체는 웃는데 스마트폰은 적자…메모리값의 역설",
+    "url": "https://www.yna.co.kr/view/AKR20261029079500017",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 10:30",
+    "published_iso": "2026-10-29T10:30:10+09:00",
+    "sort_key": 1793237410.0,
+    "excerpt": "(서울=연합뉴스) 박형빈 기자 = 삼성전자[005930] 스마트폰 사업을 담당하는 모바일경험(MX) 사업부가 올해 3분기 매출 증가에도 메모리 ...",
+    "matched": [
+     "005930.KS"
+    ]
+   },
+   {
+    "id": "b0a69ef456",
+    "title": "해외 일경험, 국내 일자리로…'글로벌 커리어 채용박람회' 개최",
+    "url": "https://www.yna.co.kr/view/AKR20261028164000530",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 10:30",
+    "published_iso": "2026-10-29T10:30:02+09:00",
+    "sort_key": 1793237402.0,
+    "excerpt": "(서울=연합뉴스) 옥성구 기자 = 고용노동부와 한국산업인력공단은 29일 서울 코엑스 마곡에서 &apos;2026 글로벌 커리어 리스타트 채용박람회&apos;를 개...",
+    "matched": []
+   },
+   {
+    "id": "873642dec5",
+    "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+    "url": "https://www.yna.co.kr/view/AKR20261029073600011",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 10:30",
+    "published_iso": "2026-10-29T10:30:01+09:00",
+    "sort_key": 1793237401.0,
+    "excerpt": "■ 삼성전자 3분기 반도체 영업익 106.5조…완제품은 8천억 적자",
+    "matched": []
+   },
+   {
+    "id": "18173472ce",
+    "title": "美 “중간선거 후 이란 집중 공격 가능”…걸프국에 대비 통보",
+    "url": "https://www.hankyung.com/article/202610292500i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 09:46",
+    "published_iso": "2026-10-29T09:46:11+09:00",
+    "sort_key": 1793234771.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "ead0a63a1d",
+    "title": "한일시멘트, 한국품질만족지수 3개 부문 1위…AI·특수시멘트로 경쟁력 강화",
+    "url": "https://www.hankyung.com/article/202610292522i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 09:40",
+    "published_iso": "2026-10-29T09:40:07+09:00",
+    "sort_key": 1793234407.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "bba6250822",
+    "title": "휴럼, 日 헬스케어 유통기업에 20억 투자…해외시장 공략 본격화",
+    "url": "https://www.hankyung.com/article/202610292502i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 09:34",
+    "published_iso": "2026-10-29T09:34:33+09:00",
+    "sort_key": 1793234073.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "b72b9c1cde",
+    "title": "버터 닮은 립밤·푸딩 닮은 틴트…뷰티·식품 이색 협업",
+    "url": "https://www.hankyung.com/article/202610292329i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 09:31",
+    "published_iso": "2026-10-29T09:31:11+09:00",
+    "sort_key": 1793233871.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "2e2e23afd9",
+    "title": "中 발표 믿을 수가 있어야지…경제성장률 뻥튀기 논란",
+    "url": "https://www.hankyung.com/article/202610292470i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 09:29",
+    "published_iso": "2026-10-29T09:29:27+09:00",
+    "sort_key": 1793233767.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "66251063ce",
+    "title": "[속보] 한수원·대우건설 컨소, 체코 두코바니 원전 시공계약 협상 결렬",
+    "url": "https://www.hankyung.com/article/2026102924627",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 09:24",
+    "published_iso": "2026-10-29T09:24:25+09:00",
+    "sort_key": 1793233465.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "feaaa53efc",
+    "title": "비자·테더가 선점하려는 '돈의 길'…스테이블코인 결제 전쟁 [타이거리서치 프리즘]",
+    "url": "https://www.hankyung.com/article/202610278315i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 09:00",
+    "published_iso": "2026-10-29T09:00:07+09:00",
+    "sort_key": 1793232007.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "0c2444bd4a",
+    "title": "\"금리 전망 말하지 말라\"는 케빈 워시…위원들 발언에 시장 혼선",
+    "url": "https://www.hankyung.com/article/202610292221i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 08:49",
+    "published_iso": "2026-10-29T08:49:04+09:00",
+    "sort_key": 1793231344.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "9ac6d1e3e3",
+    "title": "[우분투칼럼] 투자자를 위한 국가, 국민을 위한 국가",
+    "url": "https://www.yna.co.kr/view/AKR20261012025400898",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 07:00",
+    "published_iso": "2026-10-29T07:00:03+09:00",
+    "sort_key": 1793224803.0,
+    "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
+    "matched": [],
+    "analysis": {
+     "summary": "투자자와 국민을 위한 국가를 다룬 칼럼",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
     }
+   },
+   {
+    "id": "f777718635",
+    "title": "대부업체·제약사·병원 줄줄이 해킹…해커 국내 활동 가능성",
+    "url": "https://www.yna.co.kr/view/AKR20261028174000017",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 06:13",
+    "published_iso": "2026-10-29T06:13:04+09:00",
+    "sort_key": 1793221984.0,
+    "excerpt": "(서울=연합뉴스) 오지은 기자 = 국내 대부업체와 제약회사, 병원 등 업종을 가리지 않고 기업과 기관을 겨냥한 연쇄 해킹이 발생해 내부 데이터가...",
+    "matched": [],
+    "analysis": {
+     "summary": "대부업체·제약사·병원까지 연쇄 해킹 — 해커가 국내에서 활동할 가능성",
+     "impact": "국내 보안 위험 확산",
+     "affected": "보안 업체"
+    }
+   },
+   {
+    "id": "268fb1cd34",
+    "title": "외식 물가 부담에 냉동치킨 '인기'…식품업계, 차별화 경쟁 속도",
+    "url": "https://www.yna.co.kr/view/AKR20261028165800030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 06:10",
+    "published_iso": "2026-10-29T06:10:01+09:00",
+    "sort_key": 1793221801.0,
+    "excerpt": "(서울=연합뉴스) 김세린 기자 = 외식 물가 상승과 간편식 수요 증가에 힘입어 냉동치킨 시장이 성장하면서 국내 식품업체들이 제품군 확대와 브랜드...",
+    "matched": [],
+    "analysis": {
+     "summary": "외식 물가 부담에 냉동치킨 인기, 식품업계 경쟁",
+     "impact": "시장 영향은 제한적",
+     "affected": "식품"
+    }
+   },
+   {
+    "id": "fc404c161b",
+    "title": "서울 공급 부족 우려에도…LH, 비축용 토지 매입 4년간 '0'",
+    "url": "https://www.yna.co.kr/view/AKR20261028160300003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 06:05",
+    "published_iso": "2026-10-29T06:05:03+09:00",
+    "sort_key": 1793221503.0,
+    "excerpt": "(서울=연합뉴스) 오예진 기자 = 한국토지주택공사(LH)가 재무개선을 이유로 중장기 사업용 토지 매입을 중단했다가 공급 부족이 현실화한 후에야 ...",
+    "matched": [],
+    "analysis": {
+     "summary": "서울 공급 부족 우려에도 LH가 4년간 비축용 토지 매입 0건",
+     "impact": "서울 주택 공급 부족 장기화",
+     "affected": "부동산"
+    }
+   },
+   {
+    "id": "d66f761a4d",
+    "title": "농식품부, 유기농업자재 지원 확대…녹비작물 종자 2종 추가",
+    "url": "https://www.yna.co.kr/view/AKR20261028127600030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 06:00",
+    "published_iso": "2026-10-29T06:00:11+09:00",
+    "sort_key": 1793221211.0,
+    "excerpt": "(서울=연합뉴스) 한주홍 기자 = 농림축산식품부는 29일 친환경농업인 확대를 위해 유기농업자재 사업 지침을 개정키로 했다.",
+    "matched": [],
+    "analysis": {
+     "summary": "농식품부 유기농업자재 지원 확대",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "375b7d00b0",
+    "title": "스타벅스 떠난 MBC 사옥에…'테라로사' 매장 들어선다",
+    "url": "https://www.hankyung.com/article/202610280248g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 06:00",
+    "published_iso": "2026-10-29T06:00:11+09:00",
+    "sort_key": 1793221211.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "스타벅스가 떠난 MBC 사옥에 테라로사 입점",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "70069023c1",
+    "title": "기업 체감경기 4년 2개월 만에 최고…\"반도체 등 온기 확산\"",
+    "url": "https://www.yna.co.kr/view/AKR20261028163500002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 06:00",
+    "published_iso": "2026-10-29T06:00:09+09:00",
+    "sort_key": 1793221209.0,
+    "excerpt": "(서울=연합뉴스) 한지훈 기자 = 반도체를 비롯한 주력 산업 호조가 후방 산업으로 확산하면서 기업 체감 경기가 4년여 만에 최고 수준을 기록했다...",
+    "matched": [],
+    "analysis": {
+     "summary": "반도체 호조가 다른 산업으로 퍼지며 기업 체감경기가 4년 2개월 만에 최고",
+     "impact": "국내 경기 회복 확산",
+     "affected": "국내 증시, 원화",
+     "important": true,
+     "important_tag": "거시경제",
+     "why_important": "기업 체감경기가 4년 2개월 만에 최고 — 반도체 호조가 다른 산업으로 퍼지는 신호"
+    }
+   },
+   {
+    "id": "67c7c9b21d",
+    "title": "서울시50플러스재단, 중장년 창업기업 8곳에 사업화 자금 지원",
+    "url": "https://www.yna.co.kr/view/AKR20261028174700004",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 06:00",
+    "published_iso": "2026-10-29T06:00:07+09:00",
+    "sort_key": 1793221207.0,
+    "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시50플러스재단은 지난 28일 마포구 중부캠퍼스에서 &apos;2026년 중장년 창업컨설팅 성과공유회&apos;를 열고 중장...",
+    "matched": [],
+    "analysis": {
+     "summary": "서울시50플러스재단이 중장년 창업기업 8곳 지원",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "aa1a19542a",
+    "title": "서울시, 주거취약계층 구직·취업자에 '숲 치유'…내년 정규운영",
+    "url": "https://www.yna.co.kr/view/AKR20261028177300004",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 06:00",
+    "published_iso": "2026-10-29T06:00:04+09:00",
+    "sort_key": 1793221204.0,
+    "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시는 지난 28일 한국산림복지진흥원, 한국타이어나눔재단과 주거 취약계층 구직자·취업자의 정서 완화를 지원하...",
+    "matched": [],
+    "analysis": {
+     "summary": "서울시가 주거취약 구직자에게 숲 치유 프로그램",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "db0b51f9ee",
+    "title": "\"나이키·아디다스 다 지겨워\"…'이 신발' 뜨자마자 8조 터졌다",
+    "url": "https://www.hankyung.com/article/2026102813511",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 06:00",
+    "published_iso": "2026-10-29T06:00:04+09:00",
+    "sort_key": 1793221204.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "나이키·아디다스에 질린 소비자들 사이에 뜬 신발 브랜드",
+     "impact": "스포츠 브랜드 경쟁 심화",
+     "affected": "나이키, 아디다스"
+    }
+   },
+   {
+    "id": "aab5ca1501",
+    "title": "\"매출 9배 뛰었다\"…잠 못 드는 한국인에 판 커지는 '꿀잠 시장' [권용훈의 트렌드워치]",
+    "url": "https://www.hankyung.com/article/202610281704i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 06:00",
+    "published_iso": "2026-10-29T06:00:02+09:00",
+    "sort_key": 1793221202.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "잠 못 드는 한국인 덕에 커지는 수면 시장",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "acd6877c84",
+    "title": "금값 바닥 멀었다?…JP모건 \"내년 초까지 추가 하락 위험\"",
+    "url": "https://www.hankyung.com/article/202610291867i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/29 00:34",
+    "published_iso": "2026-10-29T00:34:42+09:00",
+    "sort_key": 1793201682.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "JP모건 '금값은 내년 초까지 더 떨어질 위험'",
+     "impact": "금 가격 약세 전망",
+     "affected": "금"
+    }
+   },
+   {
+    "id": "c44fc54720",
+    "title": "엔비디아·애플보다 현금많은 6년차기업…앤스로픽 176조원에 시장\"깜짝\"",
+    "url": "https://www.hankyung.com/article/202610281854i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/28 23:59",
+    "published_iso": "2026-10-28T23:59:57+09:00",
+    "sort_key": 1793199597.0,
+    "excerpt": "",
+    "matched": [
+     "NVDA",
+     "AAPL"
+    ],
+    "analysis": {
+     "summary": "엔비디아·애플보다 현금이 많은 6년 차 기업 — Anthropic 176조 원 공개에 시장 놀람",
+     "impact": "AI 기업 재무 체력 확인",
+     "affected": "AI 관련주"
+    }
+   },
+   {
+    "id": "25353ddbed",
+    "title": "웬디스,1.9조달러에 팔리나?…펠츠의 트라이언 펀드 인수제안",
+    "url": "https://www.hankyung.com/article/202610281810i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/28 23:17",
+    "published_iso": "2026-10-28T23:17:33+09:00",
+    "sort_key": 1793197053.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "펠츠의 트라이언 펀드가 웬디스 인수 제안",
+     "impact": "웬디스 주가 영향",
+     "affected": "웬디스, 외식"
+    }
+   }
+  ],
+  "해외 경제언론": [
+   {
+    "id": "875601267e",
+    "title": "Microsoft profits soar days after announcing thousands of layoffs",
+    "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/29 10:27",
+    "published_iso": "2026-10-29T10:27:40+09:00",
+    "sort_key": 1793237260.0,
+    "excerpt": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+    "matched": [
+     "MSFT"
+    ]
+   },
+   {
+    "id": "6c762e0c24",
+    "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+    "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/29 09:00",
+    "published_iso": "2026-10-29T09:00:15+09:00",
+    "sort_key": 1793232015.0,
+    "excerpt": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+    "matched": []
+   },
+   {
+    "id": "f4d01aeebf",
+    "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+    "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
+    "source": "CNBC Economy",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/29 06:31",
+    "published_iso": "2026-10-29T06:31:46+09:00",
+    "sort_key": 1793223106.0,
+    "excerpt": "Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.",
+    "matched": [],
+    "analysis": {
+     "summary": "연준 금리 결정과 워시 의장 기자회견의 5가지 요점 — 예상대로 동결이지만 몇 가지 놀라움",
+     "impact": "금리 경로 불확실성",
+     "affected": "미국 국채, 증시"
+    }
+   },
+   {
+    "id": "dd353ac639",
+    "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
+    "url": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
+    "source": "CNBC Economy",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/29 06:06",
+    "published_iso": "2026-10-29T06:06:37+09:00",
+    "sort_key": 1793221597.0,
+    "excerpt": "Treasury Secretary Scott Bessent joined CNBC for an interview on Oct. 28, 2026.",
+    "matched": [],
+    "analysis": {
+     "summary": "베선트 재무장관 '연준이 다시 금리를 올려도 꼭 실수는 아냐'",
+     "impact": "추가 인상 가능성 용인",
+     "affected": "미국 국채"
+    }
+   },
+   {
+    "id": "823ec8b4e6",
+    "title": "CNN, MS Now and Politico Update Lawsuit Against Trump Over White House Access",
+    "url": "https://www.nytimes.com/2026/10/28/business/media/cnn-ms-now-politico-white-house-lawsuit.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/29 05:47",
+    "published_iso": "2026-10-29T05:47:13+09:00",
+    "sort_key": 1793220433.0,
+    "excerpt": "The news outlets argued in an updated lawsuit that they should be granted access to the White House reporting pools.",
+    "matched": [],
+    "analysis": {
+     "summary": "CNN·폴리티코 등이 백악관 취재 접근 소송 보완",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "71577bca99",
+    "title": "What we now know about the UK economy in four charts",
+    "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/29 05:08",
+    "published_iso": "2026-10-29T05:08:45+09:00",
+    "sort_key": 1793218125.0,
+    "excerpt": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+    "matched": [],
+    "analysis": {
+     "summary": "영국 경제를 4개 차트로 정리 — 에너지값 상승이 물가·성장에 영향",
+     "impact": "영국 경기 둔화 요인",
+     "affected": "영국 경제"
+    }
+   },
+   {
+    "id": "c49474e166",
+    "title": "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
+    "url": "https://www.nytimes.com/2026/10/28/business/economy/fed-meetings-2027-interest-rates-warsh.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/29 05:02",
+    "published_iso": "2026-10-29T05:02:56+09:00",
+    "sort_key": 1793217776.0,
+    "excerpt": "Kevin M. Warsh, the Federal Reserve’s chairman, said the central bank would vote on interest rates seven times in 2027 and six in 2028. It has traditionally voted eight times per year.",
+    "matched": [],
+    "analysis": {
+     "summary": "워시 의장 '내년부터 금리 회의 횟수 축소(2027년 7회, 이후 6회)'",
+     "impact": "시장 영향은 제한적",
+     "affected": "미국 금리"
+    }
+   },
+   {
+    "id": "515c8312bc",
+    "title": "What the Budget offers for under 25s - and what it leaves out",
+    "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/29 05:02",
+    "published_iso": "2026-10-29T05:02:38+09:00",
+    "sort_key": 1793217758.0,
+    "excerpt": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+    "matched": [],
+    "analysis": {
+     "summary": "영국 예산안이 25세 미만에게 주는 것과 빠진 것",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "cc3eadc483",
+    "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+    "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/29 04:51",
+    "published_iso": "2026-10-29T04:51:01+09:00",
+    "sort_key": 1793217061.0,
+    "excerpt": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
+    "matched": [],
+    "analysis": {
+     "summary": "영국 재무장관이 시간을 벌었지만 큰 질문은 남음 — 이란 전쟁이 선택지를 좁힘",
+     "impact": "시장 영향은 제한적",
+     "affected": "영국 국채"
+    }
+   },
+   {
+    "id": "a17e2f5175",
+    "title": "Takeaways from Warsh’s news conference.",
+    "url": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/takeaways-from-warshs-news-conference",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/29 04:43",
+    "published_iso": "2026-10-29T04:43:34+09:00",
+    "sort_key": 1793216614.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "워시 기자회견 요점(앞 기사와 같은 내용)",
+     "impact": "금리 경로 불확실성",
+     "affected": "미국 국채"
+    }
+   },
+   {
+    "id": "286b233127",
+    "title": "An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded",
+    "url": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/29 04:20",
+    "published_iso": "2026-10-29T04:20:53+09:00",
+    "sort_key": 1793215253.0,
+    "excerpt": "The cruise promised a lifetime of sailing, for less than what it cost to live on land. But it was underfunded and couldn’t absorb the rising cost of fuel.",
+    "matched": [],
+    "analysis": {
+     "summary": "'평생 크루즈' 여행이 자금 부족으로 중단돼 승객들 발 묶임",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "b069f02850",
+    "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+    "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/29 04:15",
+    "published_iso": "2026-10-29T04:15:58+09:00",
+    "sort_key": 1793214958.0,
+    "excerpt": "The Russian President praised Musk and said they are in \"close\" contact.",
+    "matched": [],
+    "analysis": {
+     "summary": "푸틴 '머스크는 진짜 천재' — 스페이스X 위성 관련 대화",
+     "impact": "시장 영향은 제한적",
+     "affected": "스페이스X, 테슬라"
+    }
+   },
+   {
+    "id": "baa34030fc",
+    "title": "Here’s the latest.",
+    "url": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/heres-the-latest",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/29 04:08",
+    "published_iso": "2026-10-29T04:08:45+09:00",
+    "sort_key": 1793214525.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "연준 관련 최신 소식",
+     "impact": "시장 영향은 제한적",
+     "affected": "미국 금리"
+    }
+   },
+   {
+    "id": "33c0c94ae4",
+    "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+    "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/29 03:45",
+    "published_iso": "2026-10-29T03:45:09+09:00",
+    "sort_key": 1793213109.0,
+    "excerpt": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+    "matched": [],
+    "analysis": {
+     "summary": "영국 첫 예산안: 에너지 요금 100파운드 지원, 은행세 도입",
+     "impact": "영국 은행주 부담",
+     "affected": "영국 은행, 파운드화"
+    }
+   },
+   {
+    "id": "e1f75c9ea9",
+    "title": "Tax thresholds remain unchanged - here's what it means for your pay",
+    "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/29 03:12",
+    "published_iso": "2026-10-29T03:12:24+09:00",
+    "sort_key": 1793211144.0,
+    "excerpt": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
+    "matched": [],
+    "analysis": {
+     "summary": "영국 소득세 구간 3년 더 동결",
+     "impact": "영국 가계 실질 세 부담 증가",
+     "affected": "영국 소비"
+    }
+   },
+   {
+    "id": "8d58299573",
+    "title": "How the Fed’s Interest Rate Decision Affects Credit Cards, Loans and More",
+    "url": "https://www.nytimes.com/2026/10/28/business/economy/fed-interest-rates-credit-cards-loans.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/29 03:09",
+    "published_iso": "2026-10-29T03:09:22+09:00",
+    "sort_key": 1793210962.0,
+    "excerpt": "The Federal Reserve left its benchmark rate untouched, but a December hike could make holiday borrowing more costly.",
+    "matched": [],
+    "analysis": {
+     "summary": "연준 동결이 카드·대출에 미치는 영향 — 12월 인상 시 연말 대출 비용 증가",
+     "impact": "12월 추가 인상 가능성",
+     "affected": "미국 소비자 대출"
+    }
+   },
+   {
+    "id": "06399b7551",
+    "title": "What Does the Cheesecake Factory’s Designer Think of Obama and Trump’s Jabs at His Décor?",
+    "url": "https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/29 02:55",
+    "published_iso": "2026-10-29T02:55:11+09:00",
+    "sort_key": 1793210111.0,
+    "excerpt": "Long before its baroque décor and class identity became midterm talking points, this durable restaurant chain survived some withering critiques.",
+    "matched": [],
+    "analysis": {
+     "summary": "치즈케이크 팩토리 인테리어 디자이너 인터뷰",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "ca96f6e794",
+    "title": "Will I get the £100 energy payment and when will I receive it?",
+    "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/29 02:47",
+    "published_iso": "2026-10-29T02:47:37+09:00",
+    "sort_key": 1793209657.0,
+    "excerpt": "Here is what you need to know about the payment that millions will receive from January.",
+    "matched": [],
+    "analysis": {
+     "summary": "영국 에너지 요금 100파운드 지원금 받는 법",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "8f8511dcaa",
+    "title": "RFK Jr. to Allow Broad Use of Unapproved Peptide Injections",
+    "url": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/29 02:05",
+    "published_iso": "2026-10-29T02:05:05+09:00",
+    "sort_key": 1793207105.0,
+    "excerpt": "In a unilateral declaration by the health secretary, several injections promoted by online influencers will become widely available. The F.D.A. had advised against the move.",
+    "matched": [],
+    "analysis": {
+     "summary": "미국 보건장관이 승인 안 된 펩타이드 주사의 광범위한 사용 허용",
+     "impact": "제약 규제 완화 논란",
+     "affected": "제약·바이오"
+    }
+   },
+   {
+    "id": "8d7f3964b0",
+    "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
+    "url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
+    "source": "CNBC Economy",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/29 00:39",
+    "published_iso": "2026-10-29T00:39:14+09:00",
+    "sort_key": 1793201954.0,
+    "excerpt": "The U.K. budget cuts household energy costs, raises taxes on banks and directs billions toward defense, Ukraine and artificial intelligence",
+    "matched": [],
+    "analysis": {
+     "summary": "영국 예산안: 가계 에너지 비용 인하, 은행세 인상, 국방·우크라이나·AI 투자",
+     "impact": "영국 은행주 부담, 방산 수혜",
+     "affected": "영국 은행, 방산"
+    }
+   }
+  ],
+  "중앙은행·국제기구": [
+   {
+    "id": "847a7abc27",
+    "title": "Federal Reserve issues FOMC statement",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+    "source": "연준(Fed) 보도자료",
+    "group": "중앙은행·국제기구",
+    "lang": "en",
+    "published_kst": "10/29 03:00",
+    "published_iso": "2026-10-29T03:00:00+09:00",
+    "sort_key": 1793210400.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "연준 FOMC 성명 발표 — 기준금리 동결",
+     "impact": "금리 동결, 추가 인상 여지는 남김",
+     "affected": "미국 국채, 달러, 증시 전반",
+     "important": true,
+     "important_tag": "거시경제",
+     "why_important": "연준이 기준금리 동결 — 다만 물가가 다시 올라 12월 추가 인상 가능성을 열어 둠"
+    }
+   }
   ]
+ },
+ "counts": {
+  "indices_ok": 8,
+  "indices_total": 8,
+  "stocks_ok": 9,
+  "stocks_total": 9,
+  "news": 55,
+  "news_new": 22
+ },
+ "errors": [
+  {
+   "stage": "news",
+   "target": "연준(Fed) 보도자료",
+   "message": "HTTPError: 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_all.xml"
+  },
+  {
+   "stage": "news",
+   "target": "금융위원회 보도자료",
+   "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
+  }
+ ]
 }
