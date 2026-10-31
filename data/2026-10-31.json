@@ -1,1143 +1,1627 @@
 {
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31 07:26",
-  "weekday": "토",
-  "site": {
-    "title": "오늘의 경제 한 장",
-    "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
-    "author": "asqwkl3215",
-    "timezone_label": "KST",
-    "base_url": "https://marketbrief-byte.github.io"
+ "date": "2026-10-31",
+ "generated_at": "2026-10-31 10:33",
+ "weekday": "토",
+ "site": {
+  "title": "오늘의 경제 한 장",
+  "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
+  "author": "asqwkl3215",
+  "timezone_label": "KST",
+  "base_url": "https://marketbrief-byte.github.io"
+ },
+ "indices": [
+  {
+   "name": "코스피",
+   "symbol": "^KS11",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 5730.74,
+   "prev_close": 5550.3,
+   "change": 180.44,
+   "change_pct": 3.25,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793358340,
+   "asof_date": null
   },
-  "indices": [
+  {
+   "name": "코스닥",
+   "symbol": "^KQ11",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 724.38,
+   "prev_close": 751.69,
+   "change": -27.31,
+   "change_pct": -3.63,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793358340,
+   "asof_date": null
+  },
+  {
+   "name": "S&P 500",
+   "symbol": "^GSPC",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 7580.07,
+   "prev_close": 7623.68,
+   "change": -43.61,
+   "change_pct": -0.57,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793393263,
+   "asof_date": null
+  },
+  {
+   "name": "나스닥",
+   "symbol": "^IXIC",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 25436.998,
+   "prev_close": 25955.34,
+   "change": -518.342,
+   "change_pct": -2.0,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793394959,
+   "asof_date": null
+  },
+  {
+   "name": "원/달러",
+   "symbol": "KRW=X",
+   "unit": "원",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 1333.44,
+   "prev_close": 1321.76,
+   "change": 11.68,
+   "change_pct": 0.88,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793398090,
+   "asof_date": null
+  },
+  {
+   "name": "미 10년 국채",
+   "symbol": "^TNX",
+   "unit": "%",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 4.929,
+   "prev_close": 4.986,
+   "change": -0.057,
+   "change_pct": -1.14,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793386794,
+   "asof_date": null
+  },
+  {
+   "name": "WTI 유가",
+   "symbol": "CL=F",
+   "unit": "$",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 102.95,
+   "prev_close": 101.76,
+   "change": 1.19,
+   "change_pct": 1.17,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793393999,
+   "asof_date": null
+  },
+  {
+   "name": "금",
+   "symbol": "GC=F",
+   "unit": "$",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 3884.9,
+   "prev_close": 4038.4,
+   "change": -153.5,
+   "change_pct": -3.8,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793393999,
+   "asof_date": null
+  }
+ ],
+ "watchlist": [
+  {
+   "name": "삼성전자",
+   "symbol": "005930.KS",
+   "unit": "",
+   "keywords": [
+    "삼성전자",
+    "Samsung Electronics",
+    "삼성 반도체"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 225000.0,
+   "prev_close": 215500.0,
+   "change": 9500.0,
+   "change_pct": 4.41,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793341809,
+   "asof_date": null,
+   "news": [
     {
-      "name": "코스피",
-      "symbol": "^KS11",
-      "unit": "pt",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 5730.74,
-      "prev_close": 5550.3,
-      "change": 180.44,
-      "change_pct": 3.25,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793358340,
-      "asof_date": null
-    },
-    {
-      "name": "코스닥",
-      "symbol": "^KQ11",
-      "unit": "pt",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 724.38,
-      "prev_close": 751.69,
-      "change": -27.31,
-      "change_pct": -3.63,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793358340,
-      "asof_date": null
-    },
-    {
-      "name": "S&P 500",
-      "symbol": "^GSPC",
-      "unit": "pt",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 7580.07,
-      "prev_close": 7623.68,
-      "change": -43.61,
-      "change_pct": -0.57,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793393263,
-      "asof_date": null
-    },
-    {
-      "name": "나스닥",
-      "symbol": "^IXIC",
-      "unit": "pt",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 25436.998,
-      "prev_close": 25955.34,
-      "change": -518.342,
-      "change_pct": -2.0,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793394959,
-      "asof_date": null
-    },
-    {
-      "name": "원/달러",
-      "symbol": "KRW=X",
-      "unit": "원",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 1333.44,
-      "prev_close": 1321.76,
-      "change": 11.68,
-      "change_pct": 0.88,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793398090,
-      "asof_date": null
-    },
-    {
-      "name": "미 10년 국채",
-      "symbol": "^TNX",
-      "unit": "%",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 4.929,
-      "prev_close": 4.986,
-      "change": -0.057,
-      "change_pct": -1.14,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793386794,
-      "asof_date": null
-    },
-    {
-      "name": "WTI 유가",
-      "symbol": "CL=F",
-      "unit": "$",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 102.95,
-      "prev_close": 101.76,
-      "change": 1.19,
-      "change_pct": 1.17,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793393999,
-      "asof_date": null
-    },
-    {
-      "name": "금",
-      "symbol": "GC=F",
-      "unit": "$",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 3884.9,
-      "prev_close": 4038.4,
-      "change": -153.5,
-      "change_pct": -3.8,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793393999,
-      "asof_date": null
+     "id": "74d165f2f2",
+     "title": "\"후회말고 삼성전자 사라\"…100조 '뉴노멀'에 개미도 들썩 [강경주의 테크X]",
+     "url": "https://www.hankyung.com/article/2026103064846",
+     "source": "한국경제",
+     "published_kst": "10/31 09:30"
     }
-  ],
-  "watchlist": [
-    {
-      "name": "삼성전자",
-      "symbol": "005930.KS",
-      "unit": "",
-      "keywords": [
-        "삼성전자",
-        "Samsung Electronics",
-        "삼성 반도체"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 225000.0,
-      "prev_close": 215500.0,
-      "change": 9500.0,
-      "change_pct": 4.41,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793341809,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "SK하이닉스",
-      "symbol": "000660.KS",
-      "unit": "",
-      "keywords": [
-        "SK하이닉스",
-        "SK Hynix",
-        "하이닉스",
-        "HBM"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 1418000.0,
-      "prev_close": 1277000.0,
-      "change": 141000.0,
-      "change_pct": 11.04,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793341805,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "현대차",
-      "symbol": "005380.KS",
-      "unit": "",
-      "keywords": [
-        "현대차",
-        "현대자동차",
-        "Hyundai Motor"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 282000.0,
-      "prev_close": 295500.0,
-      "change": -13500.0,
-      "change_pct": -4.57,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793341802,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "LG에너지솔루션",
-      "symbol": "373220.KS",
-      "unit": "",
-      "keywords": [
-        "LG에너지솔루션",
-        "LG Energy Solution",
-        "이차전지",
-        "배터리"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 359500.0,
-      "prev_close": 383000.0,
-      "change": -23500.0,
-      "change_pct": -6.14,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793341820,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "NAVER",
-      "symbol": "035420.KS",
-      "unit": "",
-      "keywords": [
-        "네이버",
-        "NAVER"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 172300.0,
-      "prev_close": 173600.0,
-      "change": -1300.0,
-      "change_pct": -0.75,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793341807,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "엔비디아",
-      "symbol": "NVDA",
-      "unit": "",
-      "keywords": [
-        "엔비디아",
-        "Nvidia",
-        "NVDA"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 204.64,
-      "prev_close": 210.96,
-      "change": -6.32,
-      "change_pct": -3.0,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793390401,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "애플",
-      "symbol": "AAPL",
-      "unit": "",
-      "keywords": [
-        "애플",
-        "Apple",
-        "AAPL"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 344.63,
-      "prev_close": 347.73,
-      "change": -3.1,
-      "change_pct": -0.89,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793390401,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "테슬라",
-      "symbol": "TSLA",
-      "unit": "",
-      "keywords": [
-        "테슬라",
-        "Tesla",
-        "TSLA"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 399.81,
-      "prev_close": 372.22,
-      "change": 27.59,
-      "change_pct": 7.41,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793390400,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "마이크로소프트",
-      "symbol": "MSFT",
-      "unit": "",
-      "keywords": [
-        "마이크로소프트",
-        "Microsoft",
-        "MSFT"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 521.91,
-      "prev_close": 524.51,
-      "change": -2.6,
-      "change_pct": -0.5,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793390401,
-      "asof_date": null,
-      "news": []
-    }
-  ],
-  "news": [
-    {
-      "id": "31514ce8bf",
-      "title": "[부동산캘린더] 내주 고덕강일3단지 등 전국 4천928가구 청약 접수",
-      "url": "https://www.yna.co.kr/view/AKR20261030169300003",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/31 07:01",
-      "published_iso": "2026-10-31T07:01:00+09:00",
-      "sort_key": 1793397660.0,
-      "excerpt": "(세종=연합뉴스) 오진송 기자 = 다음 주 전국에서 약 5천가구가 청약 신청을 받는다.",
-      "matched": [],
-      "analysis": {
-        "summary": "다음 주 전국 4,928가구 청약 접수",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "4c5b02a3c1",
-      "title": "[금주핫템] 에뛰드 '글로이 구미 밤'·아이더 '구스 다운'",
-      "url": "https://www.yna.co.kr/view/AKR20261030100300030",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/31 07:00",
-      "published_iso": "2026-10-31T07:00:05+09:00",
-      "sort_key": 1793397605.0,
-      "excerpt": "▲ 에뛰드는 부드러운 발림성과 맑은 발색, 광택을 특징으로 하는 컬러 립밤 &apos;글로이 구미 밤&apos;을 다음 달 1일 올리브영에서 출시한다. 신제품은 ...",
-      "matched": [],
-      "analysis": {
-        "summary": "이번 주 신제품(에뛰드 립밤·아이더 다운)",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "f5751a969e",
-      "title": "[신상잇슈] 맥도날드 '게살 크림 크로켓 머핀'·팔도 '바지락 짬뽕'",
-      "url": "https://www.yna.co.kr/view/AKR20261030073400030",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/31 07:00",
-      "published_iso": "2026-10-31T07:00:02+09:00",
-      "sort_key": 1793397602.0,
-      "excerpt": "▲ 한국맥도날드는 &apos;와사비 게살 크림 크로켓 버거&apos;의 크로켓을 활용해 만든 맥모닝 메뉴 &apos;게살 크림 크로켓 머핀&apos;을 출시했다.",
-      "matched": [],
-      "analysis": {
-        "summary": "맥도날드·팔도 신메뉴",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "574fc969e1",
-      "title": "Binance Lost Over $6 Billion in Crypto Hack. Here’s What to Know.",
-      "url": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/31 06:48",
-      "published_iso": "2026-10-31T06:48:01+09:00",
-      "sort_key": 1793396881.0,
-      "excerpt": "Hackers made off with around $6 billion in digital currency in what could be the biggest crypto heist in history. Binance said it will cover the losses.",
-      "matched": [],
-      "analysis": {
-        "summary": "바이낸스가 해킹으로 60억 달러 넘게 잃음 — 알아야 할 것(이전 기사와 같은 내용)",
-        "impact": "가상자산 시장 충격",
-        "affected": "가상자산"
-      }
-    },
-    {
-      "id": "bcf469c1fc",
-      "title": "[AI돋보기] 코인 탈취부터 위장 취업까지…북한발 사이버 위협은",
-      "url": "https://www.yna.co.kr/view/AKR20261030161700017",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/31 06:33",
-      "published_iso": "2026-10-31T06:33:01+09:00",
-      "sort_key": 1793395981.0,
-      "excerpt": "(서울=연합뉴스) 심재훈 기자 = 가상자산을 훔치고 방산업체의 기술자료를 빼내는 해킹 조직, 신분을 속여 해외 기업에 취업하는 정보기술(IT) ...",
-      "matched": [],
-      "analysis": {
-        "summary": "코인 탈취부터 위장 취업까지 북한발 사이버 위협",
-        "impact": "보안 위협 확대",
-        "affected": "보안 업체"
-      }
-    },
-    {
-      "id": "731d515b3d",
-      "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
-      "url": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/31 06:17",
-      "published_iso": "2026-10-31T06:17:37+09:00",
-      "sort_key": 1793395057.0,
-      "excerpt": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds.",
-      "matched": [],
-      "analysis": {
-        "summary": "바이낸스 해킹은 AI를 쓰는 공격의 위험한 새 시대의 시작",
-        "impact": "보안 위협 확대",
-        "affected": "가상자산, 보안"
-      }
-    },
-    {
-      "id": "31077fabb6",
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/31 06:13",
-      "published_iso": "2026-10-31T06:13:14+09:00",
-      "sort_key": 1793394794.0,
-      "excerpt": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-      "matched": [],
-      "analysis": {
-        "summary": "바이낸스가 북한 연계 해킹으로 도난당한 63억 달러 회수 시도(앞 기사와 같은 내용)",
-        "impact": "가상자산 시장 충격",
-        "affected": "가상자산"
-      }
-    },
-    {
-      "id": "c1a98e74d4",
-      "title": "주유소 기름값 24주 연속 하락…휘발유·경유 1천800원대",
-      "url": "https://www.yna.co.kr/view/AKR20261030076700003",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/31 06:05",
-      "published_iso": "2026-10-31T06:05:00+09:00",
-      "sort_key": 1793394300.0,
-      "excerpt": "(서울=연합뉴스) 김민지 기자 = 전국 주유소 기름값이 전주 대비 소폭 내리며 24주 연속 하락세를 이어갔다.",
-      "matched": [],
-      "analysis": {
-        "summary": "주유소 기름값 24주 연속 하락, 휘발유·경유 1,800원대",
-        "impact": "국내 기름값 안정",
-        "affected": "국내 물가"
-      }
-    },
-    {
-      "id": "5ba958bf2f",
-      "title": "한화, 美 해군 함정 건조 '첫' 수주…필리조선소 인수 2년만",
-      "url": "https://www.hankyung.com/article/202610317206i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/31 06:01",
-      "published_iso": "2026-10-31T06:01:05+09:00",
-      "sort_key": 1793394065.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "한화가 필리조선소 인수 2년 만에 미 해군 함정 건조 첫 수주",
-        "impact": "한국 조선의 미국 방산 진출",
-        "affected": "한화오션, 조선주",
-        "important": true,
-        "important_tag": "산업·실적",
-        "why_important": "한화가 미 해군 함정 건조를 처음 수주 — 한국 조선의 미국 방산 시장 진출"
-      }
-    },
-    {
-      "id": "5eb59ddaeb",
-      "title": "단종 제품의 화려한 귀환…캡틴큐·볶음너구리 '품절 행렬'",
-      "url": "https://www.yna.co.kr/view/AKR20261030159900030",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/31 06:00",
-      "published_iso": "2026-10-31T06:00:02+09:00",
-      "sort_key": 1793394002.0,
-      "excerpt": "(서울=연합뉴스) 한주홍 기자 = 식품업계에서 과거 인기를 끌었던 제품을 다시 선보이는 &apos;뉴트로&apos; 전략이 이어지고 있다.",
-      "matched": [],
-      "analysis": {
-        "summary": "단종 제품이 다시 나와 품절 행렬",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "259f9cf89a",
-      "title": "Obamacare Dealt Yet Another Blow as Premiums Rise Again",
-      "url": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/31 05:56",
-      "published_iso": "2026-10-31T05:56:18+09:00",
-      "sort_key": 1793393778.0,
-      "excerpt": "Premiums will jump by 13 percent for next year, though much of the price increase will be offset by subsidies. But customers who earn over $64,000 will pay more, on top of this year’s huge increases.",
-      "matched": [],
-      "analysis": {
-        "summary": "오바마케어 보험료가 내년 13% 또 오름",
-        "impact": "미국 가계 의료비 부담",
-        "affected": "미국 보험·소비"
-      }
-    },
-    {
-      "id": "5966a9243a",
-      "title": "Binance Was Hacked. What Protections Exist for Crypto Customers?",
-      "url": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/31 05:49",
-      "published_iso": "2026-10-31T05:49:26+09:00",
-      "sort_key": 1793393366.0,
-      "excerpt": "After a $6.3 billion hack, the company said it was going to reimburse customers who had losses.",
-      "matched": [],
-      "analysis": {
-        "summary": "바이낸스 해킹 뒤 가상자산 고객 보호 장치는 무엇이 있나(앞 기사와 비슷한 내용)",
-        "impact": "시장 영향은 제한적",
-        "affected": "가상자산"
-      }
-    },
-    {
-      "id": "d6f468599e",
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/31 05:34",
-      "published_iso": "2026-10-31T05:34:46+09:00",
-      "sort_key": 1793392486.0,
-      "excerpt": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-      "matched": [],
-      "analysis": {
-        "summary": "미국 기술주 급락 — AI 투자가 1조 달러에 다가가며 나스닥이 두 달여 만에 최저로 출발",
-        "impact": "AI 투자 회의론 확산 — 기술주 약세",
-        "affected": "나스닥, 인텔, 빅테크",
-        "important": true,
-        "important_tag": "산업·실적",
-        "why_important": "AI 투자가 1조 달러에 다가가자 나스닥이 두 달여 만에 최저 — 기술주 약세 확산"
-      }
-    },
-    {
-      "id": "018aad2320",
-      "title": "이란 확전 우려에 국제유가 2%대 급등…브렌트유 6개월만에 최고",
-      "url": "https://www.yna.co.kr/view/AKR20261031005200072",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/31 05:13",
-      "published_iso": "2026-10-31T05:13:57+09:00",
-      "sort_key": 1793391237.0,
-      "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 30일(현지시간) 국제유가가 이란 전쟁 확전 우려와 호르무즈 해협의 원유 수송 차질 가능성에 2% 넘게 오르...",
-      "matched": [],
-      "analysis": {
-        "summary": "이란 확전 우려와 호르무즈 해협 수송 차질 가능성에 국제 유가 2%대 급등 — 브렌트유 6개월 만에 최고",
-        "impact": "에너지·운송비 상승 — 물가와 소매업 이익률 부담",
-        "affected": "국제 유가, 항공·운송, 소매",
-        "important": true,
-        "important_tag": "거시경제",
-        "why_important": "이란 확전 우려에 브렌트유 6개월 만에 최고 — 운송비가 올라 소매업 이익률에 부담"
-      }
-    },
-    {
-      "id": "3ba79fc693",
-      "title": "Lawsuit Accuses Education Dept. of Throttling Debt Cancellation Through PSLF Program",
-      "url": "https://www.nytimes.com/2026/10/30/business/pslf-education-department-lawsuit.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/31 05:09",
-      "published_iso": "2026-10-31T05:09:36+09:00",
-      "sort_key": 1793390976.0,
-      "excerpt": "Public servants on the brink of student debt forgiveness are facing setbacks and extensive delays. The American Federation of Teachers sued to help them.",
-      "matched": [],
-      "analysis": {
-        "summary": "미국 공공부문 학자금 탕감 프로그램 지연을 둘러싼 소송",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "d2cb2a7993",
-      "title": "Why Kalshi Wants to Repeal a 1958 Law About Onions",
-      "url": "https://www.nytimes.com/2026/10/30/business/kalshi-onion-futures-act-1958.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/31 04:18",
-      "published_iso": "2026-10-31T04:18:36+09:00",
-      "sort_key": 1793387916.0,
-      "excerpt": "A law enacted after a brazen scheme to rig onion prices in the 1950s puts the vegetable, as well as box office receipts, off-limits for prediction markets.",
-      "matched": [],
-      "analysis": {
-        "summary": "예측시장 칼시가 1958년 양파 법 폐지를 원하는 이유",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "3fbca60f2e",
-      "title": "Binance Hack Sends Crypto Stocks Tumbling",
-      "url": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-stocks-bitcoin.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/31 04:00",
-      "published_iso": "2026-10-31T04:00:28+09:00",
-      "sort_key": 1793386828.0,
-      "excerpt": "The rout hit publicly traded crypto exchanges and fintech companies, as well as cryptocurrencies like Bitcoin.",
-      "matched": [],
-      "analysis": {
-        "summary": "바이낸스 해킹에 가상자산 관련 주식 급락",
-        "impact": "코인·핀테크주 하락",
-        "affected": "코인베이스, 핀테크"
-      }
-    },
-    {
-      "id": "770667ae72",
-      "title": "연말 랠리 '이것'에 달렸다…답이 안보이는 인텔[월가 백브리핑]",
-      "url": "https://www.hankyung.com/article/202610317171i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/31 03:52",
-      "published_iso": "2026-10-31T03:52:12+09:00",
-      "sort_key": 1793386332.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "연말 랠리는 인텔에 달렸다 — 답이 안 보이는 인텔",
-        "impact": "시장 영향은 제한적",
-        "affected": "인텔"
-      }
-    },
-    {
-      "id": "a9f5989af0",
-      "title": "앤트로픽 IPO 코앞…AI주 사려고 AI주 판다?[박신영의 개장전 요것만]",
-      "url": "https://www.hankyung.com/article/202610317188i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/31 03:50",
-      "published_iso": "2026-10-31T03:50:26+09:00",
-      "sort_key": 1793386226.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "Anthropic 상장 직전 'AI주를 사려고 AI주를 판다'",
-        "impact": "AI주 내부 자금 이동",
-        "affected": "AI 관련주"
-      }
-    },
-    {
-      "id": "92afdf213d",
-      "title": "Meta Settles Social Media Addiction Case, Avoiding Trial",
-      "url": "https://www.nytimes.com/2026/10/30/business/meta-settlement-child-addiction-suit.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/31 03:11",
-      "published_iso": "2026-10-31T03:11:24+09:00",
-      "sort_key": 1793383884.0,
-      "excerpt": "The case, brought by an 18-year-old Mississippi woman and set for trial next week, was the fourth of nine bellwether personal injury lawsuits.",
-      "matched": [],
-      "analysis": {
-        "summary": "메타가 SNS 중독 소송에서 합의해 재판 피함",
-        "impact": "빅테크 소송 위험",
-        "affected": "메타"
-      }
-    },
-    {
-      "id": "6c16f5cdde",
-      "title": "City of London chief tops UK Black Powerlist",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/31 03:00",
-      "published_iso": "2026-10-31T03:00:24+09:00",
-      "sort_key": 1793383224.0,
-      "excerpt": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
-      "matched": [],
-      "analysis": {
-        "summary": "런던시 대표가 영국 흑인 영향력 인사 1위",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "fb4eeae5b2",
-      "title": "Philip R. Lane: AI adoption in Europe",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
-      "source": "유럽중앙은행(ECB)",
-      "group": "중앙은행·국제기구",
-      "lang": "en",
-      "published_kst": "10/31 01:10",
-      "published_iso": "2026-10-31T01:10:00+09:00",
-      "sort_key": 1793376600.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "ECB 레인 수석이코노미스트가 유럽 AI 도입에 대해 연설",
-        "impact": "시장 영향은 제한적",
-        "affected": "유럽"
-      }
-    },
-    {
-      "id": "f69780c0df",
-      "title": "\"문화가 곧 비즈니스 경쟁력\"…베이징 한복판에 韓 라이프스타일 심은 한국문화원 [차이나 워치]",
-      "url": "https://www.hankyung.com/article/202610307105i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "10/30 23:15",
-      "published_iso": "2026-10-30T23:15:17+09:00",
-      "sort_key": 1793369717.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "베이징 한국문화원이 한국 라이프스타일을 알림",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "a664ad024d",
-      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
-      "source": "유럽중앙은행(ECB)",
-      "group": "중앙은행·국제기구",
-      "lang": "en",
-      "published_kst": "10/30 23:00",
-      "published_iso": "2026-10-30T23:00:00+09:00",
-      "sort_key": 1793368800.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "ECB 통화정책회의 기타 결정 사항",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "0796459f9e",
-      "title": "How Poundland grew from a market stall to a high street giant",
-      "url": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "10/30 15:08",
-      "published_iso": "2026-10-30T15:08:22+09:00",
-      "sort_key": 1793340502.0,
-      "excerpt": "The retail giant - which started life at a Wolverhampton market - is now at threat of collapse.",
-      "matched": [],
-      "analysis": {
-        "summary": "파운드랜드가 시장 좌판에서 대형 소매업체가 되기까지(이전 기사와 비슷한 내용)",
-        "impact": "영국 소매 업황 악화",
-        "affected": "영국 소매"
-      }
-    }
-  ],
-  "news_groups": {
-    "국내 경제언론": [
-      {
-        "id": "31514ce8bf",
-        "title": "[부동산캘린더] 내주 고덕강일3단지 등 전국 4천928가구 청약 접수",
-        "url": "https://www.yna.co.kr/view/AKR20261030169300003",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/31 07:01",
-        "published_iso": "2026-10-31T07:01:00+09:00",
-        "sort_key": 1793397660.0,
-        "excerpt": "(세종=연합뉴스) 오진송 기자 = 다음 주 전국에서 약 5천가구가 청약 신청을 받는다.",
-        "matched": []
-      },
-      {
-        "id": "4c5b02a3c1",
-        "title": "[금주핫템] 에뛰드 '글로이 구미 밤'·아이더 '구스 다운'",
-        "url": "https://www.yna.co.kr/view/AKR20261030100300030",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/31 07:00",
-        "published_iso": "2026-10-31T07:00:05+09:00",
-        "sort_key": 1793397605.0,
-        "excerpt": "▲ 에뛰드는 부드러운 발림성과 맑은 발색, 광택을 특징으로 하는 컬러 립밤 &apos;글로이 구미 밤&apos;을 다음 달 1일 올리브영에서 출시한다. 신제품은 ...",
-        "matched": []
-      },
-      {
-        "id": "f5751a969e",
-        "title": "[신상잇슈] 맥도날드 '게살 크림 크로켓 머핀'·팔도 '바지락 짬뽕'",
-        "url": "https://www.yna.co.kr/view/AKR20261030073400030",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/31 07:00",
-        "published_iso": "2026-10-31T07:00:02+09:00",
-        "sort_key": 1793397602.0,
-        "excerpt": "▲ 한국맥도날드는 &apos;와사비 게살 크림 크로켓 버거&apos;의 크로켓을 활용해 만든 맥모닝 메뉴 &apos;게살 크림 크로켓 머핀&apos;을 출시했다.",
-        "matched": []
-      },
-      {
-        "id": "bcf469c1fc",
-        "title": "[AI돋보기] 코인 탈취부터 위장 취업까지…북한발 사이버 위협은",
-        "url": "https://www.yna.co.kr/view/AKR20261030161700017",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/31 06:33",
-        "published_iso": "2026-10-31T06:33:01+09:00",
-        "sort_key": 1793395981.0,
-        "excerpt": "(서울=연합뉴스) 심재훈 기자 = 가상자산을 훔치고 방산업체의 기술자료를 빼내는 해킹 조직, 신분을 속여 해외 기업에 취업하는 정보기술(IT) ...",
-        "matched": []
-      },
-      {
-        "id": "c1a98e74d4",
-        "title": "주유소 기름값 24주 연속 하락…휘발유·경유 1천800원대",
-        "url": "https://www.yna.co.kr/view/AKR20261030076700003",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/31 06:05",
-        "published_iso": "2026-10-31T06:05:00+09:00",
-        "sort_key": 1793394300.0,
-        "excerpt": "(서울=연합뉴스) 김민지 기자 = 전국 주유소 기름값이 전주 대비 소폭 내리며 24주 연속 하락세를 이어갔다.",
-        "matched": []
-      },
-      {
-        "id": "5ba958bf2f",
-        "title": "한화, 美 해군 함정 건조 '첫' 수주…필리조선소 인수 2년만",
-        "url": "https://www.hankyung.com/article/202610317206i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/31 06:01",
-        "published_iso": "2026-10-31T06:01:05+09:00",
-        "sort_key": 1793394065.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "5eb59ddaeb",
-        "title": "단종 제품의 화려한 귀환…캡틴큐·볶음너구리 '품절 행렬'",
-        "url": "https://www.yna.co.kr/view/AKR20261030159900030",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/31 06:00",
-        "published_iso": "2026-10-31T06:00:02+09:00",
-        "sort_key": 1793394002.0,
-        "excerpt": "(서울=연합뉴스) 한주홍 기자 = 식품업계에서 과거 인기를 끌었던 제품을 다시 선보이는 &apos;뉴트로&apos; 전략이 이어지고 있다.",
-        "matched": []
-      },
-      {
-        "id": "018aad2320",
-        "title": "이란 확전 우려에 국제유가 2%대 급등…브렌트유 6개월만에 최고",
-        "url": "https://www.yna.co.kr/view/AKR20261031005200072",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/31 05:13",
-        "published_iso": "2026-10-31T05:13:57+09:00",
-        "sort_key": 1793391237.0,
-        "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 30일(현지시간) 국제유가가 이란 전쟁 확전 우려와 호르무즈 해협의 원유 수송 차질 가능성에 2% 넘게 오르...",
-        "matched": []
-      },
-      {
-        "id": "770667ae72",
-        "title": "연말 랠리 '이것'에 달렸다…답이 안보이는 인텔[월가 백브리핑]",
-        "url": "https://www.hankyung.com/article/202610317171i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/31 03:52",
-        "published_iso": "2026-10-31T03:52:12+09:00",
-        "sort_key": 1793386332.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "a9f5989af0",
-        "title": "앤트로픽 IPO 코앞…AI주 사려고 AI주 판다?[박신영의 개장전 요것만]",
-        "url": "https://www.hankyung.com/article/202610317188i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/31 03:50",
-        "published_iso": "2026-10-31T03:50:26+09:00",
-        "sort_key": 1793386226.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "f69780c0df",
-        "title": "\"문화가 곧 비즈니스 경쟁력\"…베이징 한복판에 韓 라이프스타일 심은 한국문화원 [차이나 워치]",
-        "url": "https://www.hankyung.com/article/202610307105i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "10/30 23:15",
-        "published_iso": "2026-10-30T23:15:17+09:00",
-        "sort_key": 1793369717.0,
-        "excerpt": "",
-        "matched": []
-      }
-    ],
-    "해외 경제언론": [
-      {
-        "id": "574fc969e1",
-        "title": "Binance Lost Over $6 Billion in Crypto Hack. Here’s What to Know.",
-        "url": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/31 06:48",
-        "published_iso": "2026-10-31T06:48:01+09:00",
-        "sort_key": 1793396881.0,
-        "excerpt": "Hackers made off with around $6 billion in digital currency in what could be the biggest crypto heist in history. Binance said it will cover the losses.",
-        "matched": []
-      },
-      {
-        "id": "731d515b3d",
-        "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
-        "url": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/31 06:17",
-        "published_iso": "2026-10-31T06:17:37+09:00",
-        "sort_key": 1793395057.0,
-        "excerpt": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds.",
-        "matched": []
-      },
-      {
-        "id": "31077fabb6",
-        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-        "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/31 06:13",
-        "published_iso": "2026-10-31T06:13:14+09:00",
-        "sort_key": 1793394794.0,
-        "excerpt": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-        "matched": []
-      },
-      {
-        "id": "259f9cf89a",
-        "title": "Obamacare Dealt Yet Another Blow as Premiums Rise Again",
-        "url": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/31 05:56",
-        "published_iso": "2026-10-31T05:56:18+09:00",
-        "sort_key": 1793393778.0,
-        "excerpt": "Premiums will jump by 13 percent for next year, though much of the price increase will be offset by subsidies. But customers who earn over $64,000 will pay more, on top of this year’s huge increases.",
-        "matched": []
-      },
-      {
-        "id": "5966a9243a",
-        "title": "Binance Was Hacked. What Protections Exist for Crypto Customers?",
-        "url": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/31 05:49",
-        "published_iso": "2026-10-31T05:49:26+09:00",
-        "sort_key": 1793393366.0,
-        "excerpt": "After a $6.3 billion hack, the company said it was going to reimburse customers who had losses.",
-        "matched": []
-      },
-      {
-        "id": "d6f468599e",
-        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/31 05:34",
-        "published_iso": "2026-10-31T05:34:46+09:00",
-        "sort_key": 1793392486.0,
-        "excerpt": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-        "matched": []
-      },
-      {
-        "id": "3ba79fc693",
-        "title": "Lawsuit Accuses Education Dept. of Throttling Debt Cancellation Through PSLF Program",
-        "url": "https://www.nytimes.com/2026/10/30/business/pslf-education-department-lawsuit.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/31 05:09",
-        "published_iso": "2026-10-31T05:09:36+09:00",
-        "sort_key": 1793390976.0,
-        "excerpt": "Public servants on the brink of student debt forgiveness are facing setbacks and extensive delays. The American Federation of Teachers sued to help them.",
-        "matched": []
-      },
-      {
-        "id": "d2cb2a7993",
-        "title": "Why Kalshi Wants to Repeal a 1958 Law About Onions",
-        "url": "https://www.nytimes.com/2026/10/30/business/kalshi-onion-futures-act-1958.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/31 04:18",
-        "published_iso": "2026-10-31T04:18:36+09:00",
-        "sort_key": 1793387916.0,
-        "excerpt": "A law enacted after a brazen scheme to rig onion prices in the 1950s puts the vegetable, as well as box office receipts, off-limits for prediction markets.",
-        "matched": []
-      },
-      {
-        "id": "3fbca60f2e",
-        "title": "Binance Hack Sends Crypto Stocks Tumbling",
-        "url": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-stocks-bitcoin.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/31 04:00",
-        "published_iso": "2026-10-31T04:00:28+09:00",
-        "sort_key": 1793386828.0,
-        "excerpt": "The rout hit publicly traded crypto exchanges and fintech companies, as well as cryptocurrencies like Bitcoin.",
-        "matched": []
-      },
-      {
-        "id": "92afdf213d",
-        "title": "Meta Settles Social Media Addiction Case, Avoiding Trial",
-        "url": "https://www.nytimes.com/2026/10/30/business/meta-settlement-child-addiction-suit.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/31 03:11",
-        "published_iso": "2026-10-31T03:11:24+09:00",
-        "sort_key": 1793383884.0,
-        "excerpt": "The case, brought by an 18-year-old Mississippi woman and set for trial next week, was the fourth of nine bellwether personal injury lawsuits.",
-        "matched": []
-      },
-      {
-        "id": "6c16f5cdde",
-        "title": "City of London chief tops UK Black Powerlist",
-        "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/31 03:00",
-        "published_iso": "2026-10-31T03:00:24+09:00",
-        "sort_key": 1793383224.0,
-        "excerpt": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
-        "matched": []
-      },
-      {
-        "id": "0796459f9e",
-        "title": "How Poundland grew from a market stall to a high street giant",
-        "url": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "10/30 15:08",
-        "published_iso": "2026-10-30T15:08:22+09:00",
-        "sort_key": 1793340502.0,
-        "excerpt": "The retail giant - which started life at a Wolverhampton market - is now at threat of collapse.",
-        "matched": []
-      }
-    ],
-    "중앙은행·국제기구": [
-      {
-        "id": "fb4eeae5b2",
-        "title": "Philip R. Lane: AI adoption in Europe",
-        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
-        "source": "유럽중앙은행(ECB)",
-        "group": "중앙은행·국제기구",
-        "lang": "en",
-        "published_kst": "10/31 01:10",
-        "published_iso": "2026-10-31T01:10:00+09:00",
-        "sort_key": 1793376600.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "a664ad024d",
-        "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-        "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
-        "source": "유럽중앙은행(ECB)",
-        "group": "중앙은행·국제기구",
-        "lang": "en",
-        "published_kst": "10/30 23:00",
-        "published_iso": "2026-10-30T23:00:00+09:00",
-        "sort_key": 1793368800.0,
-        "excerpt": "",
-        "matched": []
-      }
+   ]
+  },
+  {
+   "name": "SK하이닉스",
+   "symbol": "000660.KS",
+   "unit": "",
+   "keywords": [
+    "SK하이닉스",
+    "SK Hynix",
+    "하이닉스",
+    "HBM"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 1418000.0,
+   "prev_close": 1277000.0,
+   "change": 141000.0,
+   "change_pct": 11.04,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793341805,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "현대차",
+   "symbol": "005380.KS",
+   "unit": "",
+   "keywords": [
+    "현대차",
+    "현대자동차",
+    "Hyundai Motor"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 282000.0,
+   "prev_close": 295500.0,
+   "change": -13500.0,
+   "change_pct": -4.57,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793341802,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "LG에너지솔루션",
+   "symbol": "373220.KS",
+   "unit": "",
+   "keywords": [
+    "LG에너지솔루션",
+    "LG Energy Solution",
+    "이차전지",
+    "배터리"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 359500.0,
+   "prev_close": 383000.0,
+   "change": -23500.0,
+   "change_pct": -6.14,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793341820,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "NAVER",
+   "symbol": "035420.KS",
+   "unit": "",
+   "keywords": [
+    "네이버",
+    "NAVER"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 172300.0,
+   "prev_close": 173600.0,
+   "change": -1300.0,
+   "change_pct": -0.75,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793341807,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "엔비디아",
+   "symbol": "NVDA",
+   "unit": "",
+   "keywords": [
+    "엔비디아",
+    "Nvidia",
+    "NVDA"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 204.64,
+   "prev_close": 210.96,
+   "change": -6.32,
+   "change_pct": -3.0,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793390401,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "애플",
+   "symbol": "AAPL",
+   "unit": "",
+   "keywords": [
+    "애플",
+    "Apple",
+    "AAPL"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 344.63,
+   "prev_close": 347.73,
+   "change": -3.1,
+   "change_pct": -0.89,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793390401,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "테슬라",
+   "symbol": "TSLA",
+   "unit": "",
+   "keywords": [
+    "테슬라",
+    "Tesla",
+    "TSLA"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 399.81,
+   "prev_close": 372.22,
+   "change": 27.59,
+   "change_pct": 7.41,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793390400,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "마이크로소프트",
+   "symbol": "MSFT",
+   "unit": "",
+   "keywords": [
+    "마이크로소프트",
+    "Microsoft",
+    "MSFT"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 521.91,
+   "prev_close": 524.51,
+   "change": -2.6,
+   "change_pct": -0.5,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793390401,
+   "asof_date": null,
+   "news": []
+  }
+ ],
+ "news": [
+  {
+   "id": "426e4d5b9d",
+   "title": "[고양소식] 퓨리오사AI·엑스페릭스와 AI선도 도시 MOU",
+   "url": "https://www.yna.co.kr/view/AKR20261031021700060",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 09:46",
+   "published_iso": "2026-10-31T09:46:21+09:00",
+   "sort_key": 1793407581.0,
+   "excerpt": "(고양=연합뉴스) 경기 고양시는 인공지능(AI) 반도체 기업 퓨리오사AI와 디지털 신원확인 솔루션 기업 엑스페릭스와 함께 &apos;글로벌 AI 허브 유...",
+   "matched": []
+  },
+  {
+   "id": "74d165f2f2",
+   "title": "\"후회말고 삼성전자 사라\"…100조 '뉴노멀'에 개미도 들썩 [강경주의 테크X]",
+   "url": "https://www.hankyung.com/article/2026103064846",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 09:30",
+   "published_iso": "2026-10-31T09:30:03+09:00",
+   "sort_key": 1793406603.0,
+   "excerpt": "",
+   "matched": [
+    "005930.KS"
+   ]
+  },
+  {
+   "id": "00d79ec197",
+   "title": "[IPO챗] 내주 영광·래블업·이에스티 등 3개사 코스닥 입성",
+   "url": "https://www.yna.co.kr/view/AKR20261030067200008",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 09:00",
+   "published_iso": "2026-10-31T09:00:38+09:00",
+   "sort_key": 1793404838.0,
+   "excerpt": "(서울=연합뉴스) 정회인 기자 = 다음 주(11월 2∼6일) 기업공개(IPO) 시장에서는 영광과 래블업, 이에스티 등 3개 기업이 코스닥시장에 ...",
+   "matched": []
+  },
+  {
+   "id": "2e3792fdc0",
+   "title": "침체 길어졌지만 꿈틀대는 주가…中 부동산주 반등 신호",
+   "url": "https://www.hankyung.com/article/202610020522i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 09:00",
+   "published_iso": "2026-10-31T09:00:02+09:00",
+   "sort_key": 1793404802.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "e97988b952",
+   "title": "\"재출시만 기다렸다\" 관심 폭발…4만8000개 '완판' 터졌다",
+   "url": "https://www.hankyung.com/article/2026103173427",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 08:57",
+   "published_iso": "2026-10-31T08:57:13+09:00",
+   "sort_key": 1793404633.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "6ace5637dc",
+   "title": "\"기름값 더 오르기 전에 넣어야 하나\"…휘발유 다시 뛸 조짐",
+   "url": "https://www.hankyung.com/article/2026103173397",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 08:44",
+   "published_iso": "2026-10-31T08:44:15+09:00",
+   "sort_key": 1793403855.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "b47e138096",
+   "title": "[다음주 경제] 소비자물가 얼마나 올랐을까…9월 국제수지도 발표",
+   "url": "https://www.yna.co.kr/view/AKR20261031012200002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 08:35",
+   "published_iso": "2026-10-31T08:35:38+09:00",
+   "sort_key": 1793403338.0,
+   "excerpt": "(서울·세종=연합뉴스) 이세원 한지훈 강수련 김수현 기자 = 다음 주(11월 2∼6일)에는 국내 물가 동향과 수출입 현황을 보여주는 지표가 공개...",
+   "matched": []
+  },
+  {
+   "id": "6909992e43",
+   "title": "송전망 막힌 지방 발전소, 전기 직판 길 열린다…첨단산업 유치 '물꼬' [김리안의 에네르기파WAR]",
+   "url": "https://www.hankyung.com/article/202610280304i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 08:30",
+   "published_iso": "2026-10-31T08:30:02+09:00",
+   "sort_key": 1793403002.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "627583d186",
+   "title": "대EU 철강 수출, 감소폭 줄었지만…잇단 규제에 업계 긴장",
+   "url": "https://www.yna.co.kr/view/AKR20261030178500003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 08:15",
+   "published_iso": "2026-10-31T08:15:00+09:00",
+   "sort_key": 1793402100.0,
+   "excerpt": "(서울=연합뉴스) 장보인 기자 = 유럽연합(EU)의 신(新)철강조치 도입 직후 급감했던 한국의 대EU 철강 수출 실적이 최근 개선 흐름을 보였다...",
+   "matched": []
+  },
+  {
+   "id": "1c9760b626",
+   "title": "[해수분해] 항구만으론 부족하다…금융·관광까지 품는 남부 해양수도권",
+   "url": "https://www.yna.co.kr/view/AKR20261028129700051",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 08:00",
+   "published_iso": "2026-10-31T08:00:03+09:00",
+   "sort_key": 1793401203.0,
+   "excerpt": "[※ 편집자 주 = 부산으로 이전한 해양수산부가 올해 출범 30주년을 맞았습니다. 바다 안전부터 해양 연구까지 다양한 분야에 걸쳐 해양수산 행정...",
+   "matched": []
+  },
+  {
+   "id": "ad81f3d85c",
+   "title": "[시승기] 정숙함과 연비를 더했다…제네시스 GV80 하이브리드",
+   "url": "https://www.yna.co.kr/view/AKR20261030163600003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 07:31",
+   "published_iso": "2026-10-31T07:31:01+09:00",
+   "sort_key": 1793399461.0,
+   "excerpt": "(서울=연합뉴스) 장하나 기자 = GV80의 고급스러움에 정숙함과 연비를 더했다.",
+   "matched": []
+  },
+  {
+   "id": "1d6ee11a9a",
+   "title": "해운대 센텀시티 품은 신세계…다시 불붙는 부산 백화점 전쟁",
+   "url": "https://www.yna.co.kr/view/AKR20261030023500051",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 07:30",
+   "published_iso": "2026-10-31T07:30:00+09:00",
+   "sort_key": 1793399400.0,
+   "excerpt": "(부산=연합뉴스) 오수희 기자 = 신세계백화점의 롯데백화점 센텀시티점 인수를 계기로 부산 유통시장에서 두 회사의 경쟁 구도가 바뀌고 있다.",
+   "matched": []
+  },
+  {
+   "id": "43f5067b87",
+   "title": "\"17억 집 가진 노인 받는 돈이…\" 기초연금 '상위 1%' 현실",
+   "url": "https://www.hankyung.com/article/2026103172627",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 07:24",
+   "published_iso": "2026-10-31T07:24:56+09:00",
+   "sort_key": 1793399096.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "31514ce8bf",
+   "title": "[부동산캘린더] 내주 고덕강일3단지 등 전국 4천928가구 청약 접수",
+   "url": "https://www.yna.co.kr/view/AKR20261030169300003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 07:01",
+   "published_iso": "2026-10-31T07:01:00+09:00",
+   "sort_key": 1793397660.0,
+   "excerpt": "(세종=연합뉴스) 오진송 기자 = 다음 주 전국에서 약 5천가구가 청약 신청을 받는다.",
+   "matched": [],
+   "analysis": {
+    "summary": "다음 주 전국 4,928가구 청약 접수",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "4c5b02a3c1",
+   "title": "[금주핫템] 에뛰드 '글로이 구미 밤'·아이더 '구스 다운'",
+   "url": "https://www.yna.co.kr/view/AKR20261030100300030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 07:00",
+   "published_iso": "2026-10-31T07:00:05+09:00",
+   "sort_key": 1793397605.0,
+   "excerpt": "▲ 에뛰드는 부드러운 발림성과 맑은 발색, 광택을 특징으로 하는 컬러 립밤 &apos;글로이 구미 밤&apos;을 다음 달 1일 올리브영에서 출시한다. 신제품은 ...",
+   "matched": [],
+   "analysis": {
+    "summary": "이번 주 신제품(에뛰드 립밤·아이더 다운)",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "f5751a969e",
+   "title": "[신상잇슈] 맥도날드 '게살 크림 크로켓 머핀'·팔도 '바지락 짬뽕'",
+   "url": "https://www.yna.co.kr/view/AKR20261030073400030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 07:00",
+   "published_iso": "2026-10-31T07:00:02+09:00",
+   "sort_key": 1793397602.0,
+   "excerpt": "▲ 한국맥도날드는 &apos;와사비 게살 크림 크로켓 버거&apos;의 크로켓을 활용해 만든 맥모닝 메뉴 &apos;게살 크림 크로켓 머핀&apos;을 출시했다.",
+   "matched": [],
+   "analysis": {
+    "summary": "맥도날드·팔도 신메뉴",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "574fc969e1",
+   "title": "Binance Lost Over $6 Billion in Crypto Hack. Here’s What to Know.",
+   "url": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/31 06:48",
+   "published_iso": "2026-10-31T06:48:01+09:00",
+   "sort_key": 1793396881.0,
+   "excerpt": "Hackers made off with around $6 billion in digital currency in what could be the biggest crypto heist in history. Binance said it will cover the losses.",
+   "matched": [],
+   "analysis": {
+    "summary": "바이낸스가 해킹으로 60억 달러 넘게 잃음 — 알아야 할 것(이전 기사와 같은 내용)",
+    "impact": "가상자산 시장 충격",
+    "affected": "가상자산"
+   }
+  },
+  {
+   "id": "bcf469c1fc",
+   "title": "[AI돋보기] 코인 탈취부터 위장 취업까지…북한발 사이버 위협은",
+   "url": "https://www.yna.co.kr/view/AKR20261030161700017",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 06:33",
+   "published_iso": "2026-10-31T06:33:01+09:00",
+   "sort_key": 1793395981.0,
+   "excerpt": "(서울=연합뉴스) 심재훈 기자 = 가상자산을 훔치고 방산업체의 기술자료를 빼내는 해킹 조직, 신분을 속여 해외 기업에 취업하는 정보기술(IT) ...",
+   "matched": [],
+   "analysis": {
+    "summary": "코인 탈취부터 위장 취업까지 북한발 사이버 위협",
+    "impact": "보안 위협 확대",
+    "affected": "보안 업체"
+   }
+  },
+  {
+   "id": "731d515b3d",
+   "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
+   "url": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/31 06:17",
+   "published_iso": "2026-10-31T06:17:37+09:00",
+   "sort_key": 1793395057.0,
+   "excerpt": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds.",
+   "matched": [],
+   "analysis": {
+    "summary": "바이낸스 해킹은 AI를 쓰는 공격의 위험한 새 시대의 시작",
+    "impact": "보안 위협 확대",
+    "affected": "가상자산, 보안"
+   }
+  },
+  {
+   "id": "31077fabb6",
+   "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+   "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/31 06:13",
+   "published_iso": "2026-10-31T06:13:14+09:00",
+   "sort_key": 1793394794.0,
+   "excerpt": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+   "matched": [],
+   "analysis": {
+    "summary": "바이낸스가 북한 연계 해킹으로 도난당한 63억 달러 회수 시도(앞 기사와 같은 내용)",
+    "impact": "가상자산 시장 충격",
+    "affected": "가상자산"
+   }
+  },
+  {
+   "id": "c1a98e74d4",
+   "title": "주유소 기름값 24주 연속 하락…휘발유·경유 1천800원대",
+   "url": "https://www.yna.co.kr/view/AKR20261030076700003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 06:05",
+   "published_iso": "2026-10-31T06:05:00+09:00",
+   "sort_key": 1793394300.0,
+   "excerpt": "(서울=연합뉴스) 김민지 기자 = 전국 주유소 기름값이 전주 대비 소폭 내리며 24주 연속 하락세를 이어갔다.",
+   "matched": [],
+   "analysis": {
+    "summary": "주유소 기름값 24주 연속 하락, 휘발유·경유 1,800원대",
+    "impact": "국내 기름값 안정",
+    "affected": "국내 물가"
+   }
+  },
+  {
+   "id": "5ba958bf2f",
+   "title": "한화, 美 해군 함정 건조 '첫' 수주…필리조선소 인수 2년만",
+   "url": "https://www.hankyung.com/article/202610317206i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 06:01",
+   "published_iso": "2026-10-31T06:01:05+09:00",
+   "sort_key": 1793394065.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "한화가 필리조선소 인수 2년 만에 미 해군 함정 건조 첫 수주",
+    "impact": "한국 조선의 미국 방산 진출",
+    "affected": "한화오션, 조선주",
+    "important": true,
+    "important_tag": "산업·실적",
+    "why_important": "한화가 미 해군 함정 건조를 처음 수주 — 한국 조선의 미국 방산 시장 진출"
+   }
+  },
+  {
+   "id": "5eb59ddaeb",
+   "title": "단종 제품의 화려한 귀환…캡틴큐·볶음너구리 '품절 행렬'",
+   "url": "https://www.yna.co.kr/view/AKR20261030159900030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 06:00",
+   "published_iso": "2026-10-31T06:00:02+09:00",
+   "sort_key": 1793394002.0,
+   "excerpt": "(서울=연합뉴스) 한주홍 기자 = 식품업계에서 과거 인기를 끌었던 제품을 다시 선보이는 &apos;뉴트로&apos; 전략이 이어지고 있다.",
+   "matched": [],
+   "analysis": {
+    "summary": "단종 제품이 다시 나와 품절 행렬",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "259f9cf89a",
+   "title": "Obamacare Dealt Yet Another Blow as Premiums Rise Again",
+   "url": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/31 05:56",
+   "published_iso": "2026-10-31T05:56:18+09:00",
+   "sort_key": 1793393778.0,
+   "excerpt": "Premiums will jump by 13 percent for next year, though much of the price increase will be offset by subsidies. But customers who earn over $64,000 will pay more, on top of this year’s huge increases.",
+   "matched": [],
+   "analysis": {
+    "summary": "오바마케어 보험료가 내년 13% 또 오름",
+    "impact": "미국 가계 의료비 부담",
+    "affected": "미국 보험·소비"
+   }
+  },
+  {
+   "id": "5966a9243a",
+   "title": "Binance Was Hacked. What Protections Exist for Crypto Customers?",
+   "url": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/31 05:49",
+   "published_iso": "2026-10-31T05:49:26+09:00",
+   "sort_key": 1793393366.0,
+   "excerpt": "After a $6.3 billion hack, the company said it was going to reimburse customers who had losses.",
+   "matched": [],
+   "analysis": {
+    "summary": "바이낸스 해킹 뒤 가상자산 고객 보호 장치는 무엇이 있나(앞 기사와 비슷한 내용)",
+    "impact": "시장 영향은 제한적",
+    "affected": "가상자산"
+   }
+  },
+  {
+   "id": "d6f468599e",
+   "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+   "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/31 05:34",
+   "published_iso": "2026-10-31T05:34:46+09:00",
+   "sort_key": 1793392486.0,
+   "excerpt": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+   "matched": [],
+   "analysis": {
+    "summary": "미국 기술주 급락 — AI 투자가 1조 달러에 다가가며 나스닥이 두 달여 만에 최저로 출발",
+    "impact": "AI 투자 회의론 확산 — 기술주 약세",
+    "affected": "나스닥, 인텔, 빅테크",
+    "important": true,
+    "important_tag": "산업·실적",
+    "why_important": "AI 투자가 1조 달러에 다가가자 나스닥이 두 달여 만에 최저 — 기술주 약세 확산"
+   }
+  },
+  {
+   "id": "018aad2320",
+   "title": "이란 확전 우려에 국제유가 2%대 급등…브렌트유 6개월만에 최고",
+   "url": "https://www.yna.co.kr/view/AKR20261031005200072",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 05:13",
+   "published_iso": "2026-10-31T05:13:57+09:00",
+   "sort_key": 1793391237.0,
+   "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 30일(현지시간) 국제유가가 이란 전쟁 확전 우려와 호르무즈 해협의 원유 수송 차질 가능성에 2% 넘게 오르...",
+   "matched": [],
+   "analysis": {
+    "summary": "이란 확전 우려와 호르무즈 해협 수송 차질 가능성에 국제 유가 2%대 급등 — 브렌트유 6개월 만에 최고",
+    "impact": "에너지·운송비 상승 — 물가와 소매업 이익률 부담",
+    "affected": "국제 유가, 항공·운송, 소매",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "이란 확전 우려에 브렌트유 6개월 만에 최고 — 운송비가 올라 소매업 이익률에 부담"
+   }
+  },
+  {
+   "id": "3ba79fc693",
+   "title": "Lawsuit Accuses Education Dept. of Throttling Debt Cancellation Through PSLF Program",
+   "url": "https://www.nytimes.com/2026/10/30/business/pslf-education-department-lawsuit.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/31 05:09",
+   "published_iso": "2026-10-31T05:09:36+09:00",
+   "sort_key": 1793390976.0,
+   "excerpt": "Public servants on the brink of student debt forgiveness are facing setbacks and extensive delays. The American Federation of Teachers sued to help them.",
+   "matched": [],
+   "analysis": {
+    "summary": "미국 공공부문 학자금 탕감 프로그램 지연을 둘러싼 소송",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "d2cb2a7993",
+   "title": "Why Kalshi Wants to Repeal a 1958 Law About Onions",
+   "url": "https://www.nytimes.com/2026/10/30/business/kalshi-onion-futures-act-1958.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/31 04:18",
+   "published_iso": "2026-10-31T04:18:36+09:00",
+   "sort_key": 1793387916.0,
+   "excerpt": "A law enacted after a brazen scheme to rig onion prices in the 1950s puts the vegetable, as well as box office receipts, off-limits for prediction markets.",
+   "matched": [],
+   "analysis": {
+    "summary": "예측시장 칼시가 1958년 양파 법 폐지를 원하는 이유",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "3fbca60f2e",
+   "title": "Binance Hack Sends Crypto Stocks Tumbling",
+   "url": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-stocks-bitcoin.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/31 04:00",
+   "published_iso": "2026-10-31T04:00:28+09:00",
+   "sort_key": 1793386828.0,
+   "excerpt": "The rout hit publicly traded crypto exchanges and fintech companies, as well as cryptocurrencies like Bitcoin.",
+   "matched": [],
+   "analysis": {
+    "summary": "바이낸스 해킹에 가상자산 관련 주식 급락",
+    "impact": "코인·핀테크주 하락",
+    "affected": "코인베이스, 핀테크"
+   }
+  },
+  {
+   "id": "770667ae72",
+   "title": "연말 랠리 '이것'에 달렸다…답이 안보이는 인텔[월가 백브리핑]",
+   "url": "https://www.hankyung.com/article/202610317171i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 03:52",
+   "published_iso": "2026-10-31T03:52:12+09:00",
+   "sort_key": 1793386332.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "연말 랠리는 인텔에 달렸다 — 답이 안 보이는 인텔",
+    "impact": "시장 영향은 제한적",
+    "affected": "인텔"
+   }
+  },
+  {
+   "id": "a9f5989af0",
+   "title": "앤트로픽 IPO 코앞…AI주 사려고 AI주 판다?[박신영의 개장전 요것만]",
+   "url": "https://www.hankyung.com/article/202610317188i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/31 03:50",
+   "published_iso": "2026-10-31T03:50:26+09:00",
+   "sort_key": 1793386226.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "Anthropic 상장 직전 'AI주를 사려고 AI주를 판다'",
+    "impact": "AI주 내부 자금 이동",
+    "affected": "AI 관련주"
+   }
+  },
+  {
+   "id": "92afdf213d",
+   "title": "Meta Settles Social Media Addiction Case, Avoiding Trial",
+   "url": "https://www.nytimes.com/2026/10/30/business/meta-settlement-child-addiction-suit.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/31 03:11",
+   "published_iso": "2026-10-31T03:11:24+09:00",
+   "sort_key": 1793383884.0,
+   "excerpt": "The case, brought by an 18-year-old Mississippi woman and set for trial next week, was the fourth of nine bellwether personal injury lawsuits.",
+   "matched": [],
+   "analysis": {
+    "summary": "메타가 SNS 중독 소송에서 합의해 재판 피함",
+    "impact": "빅테크 소송 위험",
+    "affected": "메타"
+   }
+  },
+  {
+   "id": "6c16f5cdde",
+   "title": "City of London chief tops UK Black Powerlist",
+   "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/31 03:00",
+   "published_iso": "2026-10-31T03:00:24+09:00",
+   "sort_key": 1793383224.0,
+   "excerpt": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+   "matched": [],
+   "analysis": {
+    "summary": "런던시 대표가 영국 흑인 영향력 인사 1위",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "fb4eeae5b2",
+   "title": "Philip R. Lane: AI adoption in Europe",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
+   "source": "유럽중앙은행(ECB)",
+   "group": "중앙은행·국제기구",
+   "lang": "en",
+   "published_kst": "10/31 01:10",
+   "published_iso": "2026-10-31T01:10:00+09:00",
+   "sort_key": 1793376600.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "ECB 레인 수석이코노미스트가 유럽 AI 도입에 대해 연설",
+    "impact": "시장 영향은 제한적",
+    "affected": "유럽"
+   }
+  },
+  {
+   "id": "f69780c0df",
+   "title": "\"문화가 곧 비즈니스 경쟁력\"…베이징 한복판에 韓 라이프스타일 심은 한국문화원 [차이나 워치]",
+   "url": "https://www.hankyung.com/article/202610307105i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "10/30 23:15",
+   "published_iso": "2026-10-30T23:15:17+09:00",
+   "sort_key": 1793369717.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "베이징 한국문화원이 한국 라이프스타일을 알림",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "a664ad024d",
+   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+   "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
+   "source": "유럽중앙은행(ECB)",
+   "group": "중앙은행·국제기구",
+   "lang": "en",
+   "published_kst": "10/30 23:00",
+   "published_iso": "2026-10-30T23:00:00+09:00",
+   "sort_key": 1793368800.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "ECB 통화정책회의 기타 결정 사항",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "0796459f9e",
+   "title": "How Poundland grew from a market stall to a high street giant",
+   "url": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "10/30 15:08",
+   "published_iso": "2026-10-30T15:08:22+09:00",
+   "sort_key": 1793340502.0,
+   "excerpt": "The retail giant - which started life at a Wolverhampton market - is now at threat of collapse.",
+   "matched": [],
+   "analysis": {
+    "summary": "파운드랜드가 시장 좌판에서 대형 소매업체가 되기까지(이전 기사와 비슷한 내용)",
+    "impact": "영국 소매 업황 악화",
+    "affected": "영국 소매"
+   }
+  }
+ ],
+ "news_groups": {
+  "국내 경제언론": [
+   {
+    "id": "426e4d5b9d",
+    "title": "[고양소식] 퓨리오사AI·엑스페릭스와 AI선도 도시 MOU",
+    "url": "https://www.yna.co.kr/view/AKR20261031021700060",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 09:46",
+    "published_iso": "2026-10-31T09:46:21+09:00",
+    "sort_key": 1793407581.0,
+    "excerpt": "(고양=연합뉴스) 경기 고양시는 인공지능(AI) 반도체 기업 퓨리오사AI와 디지털 신원확인 솔루션 기업 엑스페릭스와 함께 &apos;글로벌 AI 허브 유...",
+    "matched": []
+   },
+   {
+    "id": "74d165f2f2",
+    "title": "\"후회말고 삼성전자 사라\"…100조 '뉴노멀'에 개미도 들썩 [강경주의 테크X]",
+    "url": "https://www.hankyung.com/article/2026103064846",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 09:30",
+    "published_iso": "2026-10-31T09:30:03+09:00",
+    "sort_key": 1793406603.0,
+    "excerpt": "",
+    "matched": [
+     "005930.KS"
     ]
-  },
-  "counts": {
-    "indices_ok": 8,
-    "indices_total": 8,
-    "stocks_ok": 9,
-    "stocks_total": 9,
-    "news": 25,
-    "news_new": 25
-  },
-  "errors": [
-    {
-      "stage": "news",
-      "target": "금융위원회 보도자료",
-      "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
+   },
+   {
+    "id": "00d79ec197",
+    "title": "[IPO챗] 내주 영광·래블업·이에스티 등 3개사 코스닥 입성",
+    "url": "https://www.yna.co.kr/view/AKR20261030067200008",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 09:00",
+    "published_iso": "2026-10-31T09:00:38+09:00",
+    "sort_key": 1793404838.0,
+    "excerpt": "(서울=연합뉴스) 정회인 기자 = 다음 주(11월 2∼6일) 기업공개(IPO) 시장에서는 영광과 래블업, 이에스티 등 3개 기업이 코스닥시장에 ...",
+    "matched": []
+   },
+   {
+    "id": "2e3792fdc0",
+    "title": "침체 길어졌지만 꿈틀대는 주가…中 부동산주 반등 신호",
+    "url": "https://www.hankyung.com/article/202610020522i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 09:00",
+    "published_iso": "2026-10-31T09:00:02+09:00",
+    "sort_key": 1793404802.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "e97988b952",
+    "title": "\"재출시만 기다렸다\" 관심 폭발…4만8000개 '완판' 터졌다",
+    "url": "https://www.hankyung.com/article/2026103173427",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 08:57",
+    "published_iso": "2026-10-31T08:57:13+09:00",
+    "sort_key": 1793404633.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "6ace5637dc",
+    "title": "\"기름값 더 오르기 전에 넣어야 하나\"…휘발유 다시 뛸 조짐",
+    "url": "https://www.hankyung.com/article/2026103173397",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 08:44",
+    "published_iso": "2026-10-31T08:44:15+09:00",
+    "sort_key": 1793403855.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "b47e138096",
+    "title": "[다음주 경제] 소비자물가 얼마나 올랐을까…9월 국제수지도 발표",
+    "url": "https://www.yna.co.kr/view/AKR20261031012200002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 08:35",
+    "published_iso": "2026-10-31T08:35:38+09:00",
+    "sort_key": 1793403338.0,
+    "excerpt": "(서울·세종=연합뉴스) 이세원 한지훈 강수련 김수현 기자 = 다음 주(11월 2∼6일)에는 국내 물가 동향과 수출입 현황을 보여주는 지표가 공개...",
+    "matched": []
+   },
+   {
+    "id": "6909992e43",
+    "title": "송전망 막힌 지방 발전소, 전기 직판 길 열린다…첨단산업 유치 '물꼬' [김리안의 에네르기파WAR]",
+    "url": "https://www.hankyung.com/article/202610280304i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 08:30",
+    "published_iso": "2026-10-31T08:30:02+09:00",
+    "sort_key": 1793403002.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "627583d186",
+    "title": "대EU 철강 수출, 감소폭 줄었지만…잇단 규제에 업계 긴장",
+    "url": "https://www.yna.co.kr/view/AKR20261030178500003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 08:15",
+    "published_iso": "2026-10-31T08:15:00+09:00",
+    "sort_key": 1793402100.0,
+    "excerpt": "(서울=연합뉴스) 장보인 기자 = 유럽연합(EU)의 신(新)철강조치 도입 직후 급감했던 한국의 대EU 철강 수출 실적이 최근 개선 흐름을 보였다...",
+    "matched": []
+   },
+   {
+    "id": "1c9760b626",
+    "title": "[해수분해] 항구만으론 부족하다…금융·관광까지 품는 남부 해양수도권",
+    "url": "https://www.yna.co.kr/view/AKR20261028129700051",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 08:00",
+    "published_iso": "2026-10-31T08:00:03+09:00",
+    "sort_key": 1793401203.0,
+    "excerpt": "[※ 편집자 주 = 부산으로 이전한 해양수산부가 올해 출범 30주년을 맞았습니다. 바다 안전부터 해양 연구까지 다양한 분야에 걸쳐 해양수산 행정...",
+    "matched": []
+   },
+   {
+    "id": "ad81f3d85c",
+    "title": "[시승기] 정숙함과 연비를 더했다…제네시스 GV80 하이브리드",
+    "url": "https://www.yna.co.kr/view/AKR20261030163600003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 07:31",
+    "published_iso": "2026-10-31T07:31:01+09:00",
+    "sort_key": 1793399461.0,
+    "excerpt": "(서울=연합뉴스) 장하나 기자 = GV80의 고급스러움에 정숙함과 연비를 더했다.",
+    "matched": []
+   },
+   {
+    "id": "1d6ee11a9a",
+    "title": "해운대 센텀시티 품은 신세계…다시 불붙는 부산 백화점 전쟁",
+    "url": "https://www.yna.co.kr/view/AKR20261030023500051",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 07:30",
+    "published_iso": "2026-10-31T07:30:00+09:00",
+    "sort_key": 1793399400.0,
+    "excerpt": "(부산=연합뉴스) 오수희 기자 = 신세계백화점의 롯데백화점 센텀시티점 인수를 계기로 부산 유통시장에서 두 회사의 경쟁 구도가 바뀌고 있다.",
+    "matched": []
+   },
+   {
+    "id": "43f5067b87",
+    "title": "\"17억 집 가진 노인 받는 돈이…\" 기초연금 '상위 1%' 현실",
+    "url": "https://www.hankyung.com/article/2026103172627",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 07:24",
+    "published_iso": "2026-10-31T07:24:56+09:00",
+    "sort_key": 1793399096.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "31514ce8bf",
+    "title": "[부동산캘린더] 내주 고덕강일3단지 등 전국 4천928가구 청약 접수",
+    "url": "https://www.yna.co.kr/view/AKR20261030169300003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 07:01",
+    "published_iso": "2026-10-31T07:01:00+09:00",
+    "sort_key": 1793397660.0,
+    "excerpt": "(세종=연합뉴스) 오진송 기자 = 다음 주 전국에서 약 5천가구가 청약 신청을 받는다.",
+    "matched": [],
+    "analysis": {
+     "summary": "다음 주 전국 4,928가구 청약 접수",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
     }
+   },
+   {
+    "id": "4c5b02a3c1",
+    "title": "[금주핫템] 에뛰드 '글로이 구미 밤'·아이더 '구스 다운'",
+    "url": "https://www.yna.co.kr/view/AKR20261030100300030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 07:00",
+    "published_iso": "2026-10-31T07:00:05+09:00",
+    "sort_key": 1793397605.0,
+    "excerpt": "▲ 에뛰드는 부드러운 발림성과 맑은 발색, 광택을 특징으로 하는 컬러 립밤 &apos;글로이 구미 밤&apos;을 다음 달 1일 올리브영에서 출시한다. 신제품은 ...",
+    "matched": [],
+    "analysis": {
+     "summary": "이번 주 신제품(에뛰드 립밤·아이더 다운)",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "f5751a969e",
+    "title": "[신상잇슈] 맥도날드 '게살 크림 크로켓 머핀'·팔도 '바지락 짬뽕'",
+    "url": "https://www.yna.co.kr/view/AKR20261030073400030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 07:00",
+    "published_iso": "2026-10-31T07:00:02+09:00",
+    "sort_key": 1793397602.0,
+    "excerpt": "▲ 한국맥도날드는 &apos;와사비 게살 크림 크로켓 버거&apos;의 크로켓을 활용해 만든 맥모닝 메뉴 &apos;게살 크림 크로켓 머핀&apos;을 출시했다.",
+    "matched": [],
+    "analysis": {
+     "summary": "맥도날드·팔도 신메뉴",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "bcf469c1fc",
+    "title": "[AI돋보기] 코인 탈취부터 위장 취업까지…북한발 사이버 위협은",
+    "url": "https://www.yna.co.kr/view/AKR20261030161700017",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 06:33",
+    "published_iso": "2026-10-31T06:33:01+09:00",
+    "sort_key": 1793395981.0,
+    "excerpt": "(서울=연합뉴스) 심재훈 기자 = 가상자산을 훔치고 방산업체의 기술자료를 빼내는 해킹 조직, 신분을 속여 해외 기업에 취업하는 정보기술(IT) ...",
+    "matched": [],
+    "analysis": {
+     "summary": "코인 탈취부터 위장 취업까지 북한발 사이버 위협",
+     "impact": "보안 위협 확대",
+     "affected": "보안 업체"
+    }
+   },
+   {
+    "id": "c1a98e74d4",
+    "title": "주유소 기름값 24주 연속 하락…휘발유·경유 1천800원대",
+    "url": "https://www.yna.co.kr/view/AKR20261030076700003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 06:05",
+    "published_iso": "2026-10-31T06:05:00+09:00",
+    "sort_key": 1793394300.0,
+    "excerpt": "(서울=연합뉴스) 김민지 기자 = 전국 주유소 기름값이 전주 대비 소폭 내리며 24주 연속 하락세를 이어갔다.",
+    "matched": [],
+    "analysis": {
+     "summary": "주유소 기름값 24주 연속 하락, 휘발유·경유 1,800원대",
+     "impact": "국내 기름값 안정",
+     "affected": "국내 물가"
+    }
+   },
+   {
+    "id": "5ba958bf2f",
+    "title": "한화, 美 해군 함정 건조 '첫' 수주…필리조선소 인수 2년만",
+    "url": "https://www.hankyung.com/article/202610317206i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 06:01",
+    "published_iso": "2026-10-31T06:01:05+09:00",
+    "sort_key": 1793394065.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "한화가 필리조선소 인수 2년 만에 미 해군 함정 건조 첫 수주",
+     "impact": "한국 조선의 미국 방산 진출",
+     "affected": "한화오션, 조선주",
+     "important": true,
+     "important_tag": "산업·실적",
+     "why_important": "한화가 미 해군 함정 건조를 처음 수주 — 한국 조선의 미국 방산 시장 진출"
+    }
+   },
+   {
+    "id": "5eb59ddaeb",
+    "title": "단종 제품의 화려한 귀환…캡틴큐·볶음너구리 '품절 행렬'",
+    "url": "https://www.yna.co.kr/view/AKR20261030159900030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 06:00",
+    "published_iso": "2026-10-31T06:00:02+09:00",
+    "sort_key": 1793394002.0,
+    "excerpt": "(서울=연합뉴스) 한주홍 기자 = 식품업계에서 과거 인기를 끌었던 제품을 다시 선보이는 &apos;뉴트로&apos; 전략이 이어지고 있다.",
+    "matched": [],
+    "analysis": {
+     "summary": "단종 제품이 다시 나와 품절 행렬",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "018aad2320",
+    "title": "이란 확전 우려에 국제유가 2%대 급등…브렌트유 6개월만에 최고",
+    "url": "https://www.yna.co.kr/view/AKR20261031005200072",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 05:13",
+    "published_iso": "2026-10-31T05:13:57+09:00",
+    "sort_key": 1793391237.0,
+    "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 30일(현지시간) 국제유가가 이란 전쟁 확전 우려와 호르무즈 해협의 원유 수송 차질 가능성에 2% 넘게 오르...",
+    "matched": [],
+    "analysis": {
+     "summary": "이란 확전 우려와 호르무즈 해협 수송 차질 가능성에 국제 유가 2%대 급등 — 브렌트유 6개월 만에 최고",
+     "impact": "에너지·운송비 상승 — 물가와 소매업 이익률 부담",
+     "affected": "국제 유가, 항공·운송, 소매",
+     "important": true,
+     "important_tag": "거시경제",
+     "why_important": "이란 확전 우려에 브렌트유 6개월 만에 최고 — 운송비가 올라 소매업 이익률에 부담"
+    }
+   },
+   {
+    "id": "770667ae72",
+    "title": "연말 랠리 '이것'에 달렸다…답이 안보이는 인텔[월가 백브리핑]",
+    "url": "https://www.hankyung.com/article/202610317171i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 03:52",
+    "published_iso": "2026-10-31T03:52:12+09:00",
+    "sort_key": 1793386332.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "연말 랠리는 인텔에 달렸다 — 답이 안 보이는 인텔",
+     "impact": "시장 영향은 제한적",
+     "affected": "인텔"
+    }
+   },
+   {
+    "id": "a9f5989af0",
+    "title": "앤트로픽 IPO 코앞…AI주 사려고 AI주 판다?[박신영의 개장전 요것만]",
+    "url": "https://www.hankyung.com/article/202610317188i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/31 03:50",
+    "published_iso": "2026-10-31T03:50:26+09:00",
+    "sort_key": 1793386226.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "Anthropic 상장 직전 'AI주를 사려고 AI주를 판다'",
+     "impact": "AI주 내부 자금 이동",
+     "affected": "AI 관련주"
+    }
+   },
+   {
+    "id": "f69780c0df",
+    "title": "\"문화가 곧 비즈니스 경쟁력\"…베이징 한복판에 韓 라이프스타일 심은 한국문화원 [차이나 워치]",
+    "url": "https://www.hankyung.com/article/202610307105i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "10/30 23:15",
+    "published_iso": "2026-10-30T23:15:17+09:00",
+    "sort_key": 1793369717.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "베이징 한국문화원이 한국 라이프스타일을 알림",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   }
+  ],
+  "해외 경제언론": [
+   {
+    "id": "574fc969e1",
+    "title": "Binance Lost Over $6 Billion in Crypto Hack. Here’s What to Know.",
+    "url": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/31 06:48",
+    "published_iso": "2026-10-31T06:48:01+09:00",
+    "sort_key": 1793396881.0,
+    "excerpt": "Hackers made off with around $6 billion in digital currency in what could be the biggest crypto heist in history. Binance said it will cover the losses.",
+    "matched": [],
+    "analysis": {
+     "summary": "바이낸스가 해킹으로 60억 달러 넘게 잃음 — 알아야 할 것(이전 기사와 같은 내용)",
+     "impact": "가상자산 시장 충격",
+     "affected": "가상자산"
+    }
+   },
+   {
+    "id": "731d515b3d",
+    "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
+    "url": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/31 06:17",
+    "published_iso": "2026-10-31T06:17:37+09:00",
+    "sort_key": 1793395057.0,
+    "excerpt": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds.",
+    "matched": [],
+    "analysis": {
+     "summary": "바이낸스 해킹은 AI를 쓰는 공격의 위험한 새 시대의 시작",
+     "impact": "보안 위협 확대",
+     "affected": "가상자산, 보안"
+    }
+   },
+   {
+    "id": "31077fabb6",
+    "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+    "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/31 06:13",
+    "published_iso": "2026-10-31T06:13:14+09:00",
+    "sort_key": 1793394794.0,
+    "excerpt": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+    "matched": [],
+    "analysis": {
+     "summary": "바이낸스가 북한 연계 해킹으로 도난당한 63억 달러 회수 시도(앞 기사와 같은 내용)",
+     "impact": "가상자산 시장 충격",
+     "affected": "가상자산"
+    }
+   },
+   {
+    "id": "259f9cf89a",
+    "title": "Obamacare Dealt Yet Another Blow as Premiums Rise Again",
+    "url": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/31 05:56",
+    "published_iso": "2026-10-31T05:56:18+09:00",
+    "sort_key": 1793393778.0,
+    "excerpt": "Premiums will jump by 13 percent for next year, though much of the price increase will be offset by subsidies. But customers who earn over $64,000 will pay more, on top of this year’s huge increases.",
+    "matched": [],
+    "analysis": {
+     "summary": "오바마케어 보험료가 내년 13% 또 오름",
+     "impact": "미국 가계 의료비 부담",
+     "affected": "미국 보험·소비"
+    }
+   },
+   {
+    "id": "5966a9243a",
+    "title": "Binance Was Hacked. What Protections Exist for Crypto Customers?",
+    "url": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/31 05:49",
+    "published_iso": "2026-10-31T05:49:26+09:00",
+    "sort_key": 1793393366.0,
+    "excerpt": "After a $6.3 billion hack, the company said it was going to reimburse customers who had losses.",
+    "matched": [],
+    "analysis": {
+     "summary": "바이낸스 해킹 뒤 가상자산 고객 보호 장치는 무엇이 있나(앞 기사와 비슷한 내용)",
+     "impact": "시장 영향은 제한적",
+     "affected": "가상자산"
+    }
+   },
+   {
+    "id": "d6f468599e",
+    "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+    "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/31 05:34",
+    "published_iso": "2026-10-31T05:34:46+09:00",
+    "sort_key": 1793392486.0,
+    "excerpt": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+    "matched": [],
+    "analysis": {
+     "summary": "미국 기술주 급락 — AI 투자가 1조 달러에 다가가며 나스닥이 두 달여 만에 최저로 출발",
+     "impact": "AI 투자 회의론 확산 — 기술주 약세",
+     "affected": "나스닥, 인텔, 빅테크",
+     "important": true,
+     "important_tag": "산업·실적",
+     "why_important": "AI 투자가 1조 달러에 다가가자 나스닥이 두 달여 만에 최저 — 기술주 약세 확산"
+    }
+   },
+   {
+    "id": "3ba79fc693",
+    "title": "Lawsuit Accuses Education Dept. of Throttling Debt Cancellation Through PSLF Program",
+    "url": "https://www.nytimes.com/2026/10/30/business/pslf-education-department-lawsuit.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/31 05:09",
+    "published_iso": "2026-10-31T05:09:36+09:00",
+    "sort_key": 1793390976.0,
+    "excerpt": "Public servants on the brink of student debt forgiveness are facing setbacks and extensive delays. The American Federation of Teachers sued to help them.",
+    "matched": [],
+    "analysis": {
+     "summary": "미국 공공부문 학자금 탕감 프로그램 지연을 둘러싼 소송",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "d2cb2a7993",
+    "title": "Why Kalshi Wants to Repeal a 1958 Law About Onions",
+    "url": "https://www.nytimes.com/2026/10/30/business/kalshi-onion-futures-act-1958.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/31 04:18",
+    "published_iso": "2026-10-31T04:18:36+09:00",
+    "sort_key": 1793387916.0,
+    "excerpt": "A law enacted after a brazen scheme to rig onion prices in the 1950s puts the vegetable, as well as box office receipts, off-limits for prediction markets.",
+    "matched": [],
+    "analysis": {
+     "summary": "예측시장 칼시가 1958년 양파 법 폐지를 원하는 이유",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "3fbca60f2e",
+    "title": "Binance Hack Sends Crypto Stocks Tumbling",
+    "url": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-stocks-bitcoin.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/31 04:00",
+    "published_iso": "2026-10-31T04:00:28+09:00",
+    "sort_key": 1793386828.0,
+    "excerpt": "The rout hit publicly traded crypto exchanges and fintech companies, as well as cryptocurrencies like Bitcoin.",
+    "matched": [],
+    "analysis": {
+     "summary": "바이낸스 해킹에 가상자산 관련 주식 급락",
+     "impact": "코인·핀테크주 하락",
+     "affected": "코인베이스, 핀테크"
+    }
+   },
+   {
+    "id": "92afdf213d",
+    "title": "Meta Settles Social Media Addiction Case, Avoiding Trial",
+    "url": "https://www.nytimes.com/2026/10/30/business/meta-settlement-child-addiction-suit.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/31 03:11",
+    "published_iso": "2026-10-31T03:11:24+09:00",
+    "sort_key": 1793383884.0,
+    "excerpt": "The case, brought by an 18-year-old Mississippi woman and set for trial next week, was the fourth of nine bellwether personal injury lawsuits.",
+    "matched": [],
+    "analysis": {
+     "summary": "메타가 SNS 중독 소송에서 합의해 재판 피함",
+     "impact": "빅테크 소송 위험",
+     "affected": "메타"
+    }
+   },
+   {
+    "id": "6c16f5cdde",
+    "title": "City of London chief tops UK Black Powerlist",
+    "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/31 03:00",
+    "published_iso": "2026-10-31T03:00:24+09:00",
+    "sort_key": 1793383224.0,
+    "excerpt": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+    "matched": [],
+    "analysis": {
+     "summary": "런던시 대표가 영국 흑인 영향력 인사 1위",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "0796459f9e",
+    "title": "How Poundland grew from a market stall to a high street giant",
+    "url": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "10/30 15:08",
+    "published_iso": "2026-10-30T15:08:22+09:00",
+    "sort_key": 1793340502.0,
+    "excerpt": "The retail giant - which started life at a Wolverhampton market - is now at threat of collapse.",
+    "matched": [],
+    "analysis": {
+     "summary": "파운드랜드가 시장 좌판에서 대형 소매업체가 되기까지(이전 기사와 비슷한 내용)",
+     "impact": "영국 소매 업황 악화",
+     "affected": "영국 소매"
+    }
+   }
+  ],
+  "중앙은행·국제기구": [
+   {
+    "id": "fb4eeae5b2",
+    "title": "Philip R. Lane: AI adoption in Europe",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
+    "source": "유럽중앙은행(ECB)",
+    "group": "중앙은행·국제기구",
+    "lang": "en",
+    "published_kst": "10/31 01:10",
+    "published_iso": "2026-10-31T01:10:00+09:00",
+    "sort_key": 1793376600.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "ECB 레인 수석이코노미스트가 유럽 AI 도입에 대해 연설",
+     "impact": "시장 영향은 제한적",
+     "affected": "유럽"
+    }
+   },
+   {
+    "id": "a664ad024d",
+    "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+    "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
+    "source": "유럽중앙은행(ECB)",
+    "group": "중앙은행·국제기구",
+    "lang": "en",
+    "published_kst": "10/30 23:00",
+    "published_iso": "2026-10-30T23:00:00+09:00",
+    "sort_key": 1793368800.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "ECB 통화정책회의 기타 결정 사항",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   }
   ]
+ },
+ "counts": {
+  "indices_ok": 8,
+  "indices_total": 8,
+  "stocks_ok": 9,
+  "stocks_total": 9,
+  "news": 38,
+  "news_new": 13
+ },
+ "errors": [
+  {
+   "stage": "news",
+   "target": "금융위원회 보도자료",
+   "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
+  }
+ ]
 }
