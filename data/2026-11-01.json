@@ -1,1617 +1,1695 @@
 {
- "date": "2026-11-01",
- "generated_at": "2026-11-01 10:05",
- "weekday": "일",
- "site": {
-  "title": "오늘의 경제 한 장",
-  "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
-  "author": "asqwkl3215",
-  "timezone_label": "KST",
-  "base_url": "https://marketbrief-byte.github.io"
- },
- "indices": [
-  {
-   "name": "코스피",
-   "symbol": "^KS11",
-   "unit": "pt",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 5730.74,
-   "prev_close": 5550.3,
-   "change": 180.44,
-   "change_pct": 3.25,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1793358340,
-   "asof_date": null
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01 10:05",
+  "weekday": "일",
+  "site": {
+    "title": "오늘의 경제 한 장",
+    "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
+    "author": "asqwkl3215",
+    "timezone_label": "KST",
+    "base_url": "https://marketbrief-byte.github.io"
   },
-  {
-   "name": "코스닥",
-   "symbol": "^KQ11",
-   "unit": "pt",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 724.38,
-   "prev_close": 751.69,
-   "change": -27.31,
-   "change_pct": -3.63,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1793358340,
-   "asof_date": null
-  },
-  {
-   "name": "S&P 500",
-   "symbol": "^GSPC",
-   "unit": "pt",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 7580.07,
-   "prev_close": 7623.68,
-   "change": -43.61,
-   "change_pct": -0.57,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1793393263,
-   "asof_date": null
-  },
-  {
-   "name": "나스닥",
-   "symbol": "^IXIC",
-   "unit": "pt",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 25436.998,
-   "prev_close": 25955.34,
-   "change": -518.342,
-   "change_pct": -2.0,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1793394959,
-   "asof_date": null
-  },
-  {
-   "name": "원/달러",
-   "symbol": "KRW=X",
-   "unit": "원",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 1335.1,
-   "prev_close": 1321.76,
-   "change": 13.34,
-   "change_pct": 1.01,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1793417433,
-   "asof_date": null
-  },
-  {
-   "name": "미 10년 국채",
-   "symbol": "^TNX",
-   "unit": "%",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 4.929,
-   "prev_close": 4.986,
-   "change": -0.057,
-   "change_pct": -1.14,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1793386794,
-   "asof_date": null
-  },
-  {
-   "name": "WTI 유가",
-   "symbol": "CL=F",
-   "unit": "$",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 104.12,
-   "prev_close": 101.76,
-   "change": 2.36,
-   "change_pct": 2.32,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1793393999,
-   "asof_date": null
-  },
-  {
-   "name": "금",
-   "symbol": "GC=F",
-   "unit": "$",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 3898.9,
-   "prev_close": 4038.4,
-   "change": -139.5,
-   "change_pct": -3.45,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1793393999,
-   "asof_date": null
-  }
- ],
- "watchlist": [
-  {
-   "name": "삼성전자",
-   "symbol": "005930.KS",
-   "unit": "",
-   "keywords": [
-    "삼성전자",
-    "Samsung Electronics",
-    "삼성 반도체"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 225000.0,
-   "prev_close": 215500.0,
-   "change": 9500.0,
-   "change_pct": 4.41,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1793341809,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "SK하이닉스",
-   "symbol": "000660.KS",
-   "unit": "",
-   "keywords": [
-    "SK하이닉스",
-    "SK Hynix",
-    "하이닉스",
-    "HBM"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 1418000.0,
-   "prev_close": 1277000.0,
-   "change": 141000.0,
-   "change_pct": 11.04,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1793341805,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "현대차",
-   "symbol": "005380.KS",
-   "unit": "",
-   "keywords": [
-    "현대차",
-    "현대자동차",
-    "Hyundai Motor"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 282000.0,
-   "prev_close": 295500.0,
-   "change": -13500.0,
-   "change_pct": -4.57,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1793341802,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "LG에너지솔루션",
-   "symbol": "373220.KS",
-   "unit": "",
-   "keywords": [
-    "LG에너지솔루션",
-    "LG Energy Solution",
-    "이차전지",
-    "배터리"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 359500.0,
-   "prev_close": 383000.0,
-   "change": -23500.0,
-   "change_pct": -6.14,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1793341820,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "NAVER",
-   "symbol": "035420.KS",
-   "unit": "",
-   "keywords": [
-    "네이버",
-    "NAVER"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 172300.0,
-   "prev_close": 173600.0,
-   "change": -1300.0,
-   "change_pct": -0.75,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1793341807,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "엔비디아",
-   "symbol": "NVDA",
-   "unit": "",
-   "keywords": [
-    "엔비디아",
-    "Nvidia",
-    "NVDA"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 204.64,
-   "prev_close": 210.96,
-   "change": -6.32,
-   "change_pct": -3.0,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1793390401,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "애플",
-   "symbol": "AAPL",
-   "unit": "",
-   "keywords": [
-    "애플",
-    "Apple",
-    "AAPL"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 344.63,
-   "prev_close": 347.73,
-   "change": -3.1,
-   "change_pct": -0.89,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1793390401,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "테슬라",
-   "symbol": "TSLA",
-   "unit": "",
-   "keywords": [
-    "테슬라",
-    "Tesla",
-    "TSLA"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 399.81,
-   "prev_close": 372.22,
-   "change": 27.59,
-   "change_pct": 7.41,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1793390400,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "마이크로소프트",
-   "symbol": "MSFT",
-   "unit": "",
-   "keywords": [
-    "마이크로소프트",
-    "Microsoft",
-    "MSFT"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 521.91,
-   "prev_close": 524.51,
-   "change": -2.6,
-   "change_pct": -0.5,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1793390401,
-   "asof_date": null,
-   "news": []
-  }
- ],
- "news": [
-  {
-   "id": "f55fab6a8d",
-   "title": "\"11월 1조달러 돌파 확실\"…반도체 터지자 잭팟",
-   "url": "https://www.hankyung.com/article/202611018045i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 09:33",
-   "published_iso": "2026-11-01T09:33:08+09:00",
-   "sort_key": 1793493188.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "109a32bb09",
-   "title": "[AI위클리] AI 면접관의 등장…AI가 인간 능력을 평가한다",
-   "url": "https://www.yna.co.kr/view/AKR20261031036000017",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 09:30",
-   "published_iso": "2026-11-01T09:30:00+09:00",
-   "sort_key": 1793493000.0,
-   "excerpt": "(서울=연합뉴스) 박상현 기자 = 사원 채용을 돕는 인공지능(AI) 솔루션이 확산한 가운데 AI가 지원자의 실무 역량을 진단하는 AI 면접관까지...",
-   "matched": []
-  },
-  {
-   "id": "5ad4dc8e5d",
-   "title": "가업승계 문턱 높아진다…기업주 상속세 부담 대비해야",
-   "url": "https://www.hankyung.com/article/202610306546i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 09:24",
-   "published_iso": "2026-11-01T09:24:02+09:00",
-   "sort_key": 1793492642.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "323c5e152b",
-   "title": "한국 수출 첫 9000억달러 돌파…연수출 1조달러 보인다",
-   "url": "https://www.hankyung.com/article/2026110180397",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 09:20",
-   "published_iso": "2026-11-01T09:20:05+09:00",
-   "sort_key": 1793492405.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "f03bace29b",
-   "title": "현대홈쇼핑, 멤버십 제도 개편…매월 5% 할인 자동 적용",
-   "url": "https://www.yna.co.kr/view/AKR20261101015400030",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 09:17",
-   "published_iso": "2026-11-01T09:17:29+09:00",
-   "sort_key": 1793492249.0,
-   "excerpt": "(서울=연합뉴스) 이상서 기자 = 현대홈쇼핑은 오는 3일부터 구매 빈도와 금액이 높은 우수고객을 대상으로 멤버십 제도를 개편하고 혜택을 확대한다...",
-   "matched": []
-  },
-  {
-   "id": "b6a897beaf",
-   "title": "[2보] 한국 수출 첫 9천억달러 돌파…10월 1천153억달러",
-   "url": "https://www.yna.co.kr/view/AKR20261101015300003",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 09:16",
-   "published_iso": "2026-11-01T09:16:28+09:00",
-   "sort_key": 1793492188.0,
-   "excerpt": "(서울=연합뉴스) 신창용 기자 = 우리나라의 1∼10월 누적 수출액이 사상 처음으로 9천억달러를 돌파했다.",
-   "matched": []
-  },
-  {
-   "id": "99e40ae7ce",
-   "title": "활명수는 탄산음료로, 박카스는 젤리로…제약사 식품사업 확대",
-   "url": "https://www.yna.co.kr/view/AKR20261030123900017",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 09:13",
-   "published_iso": "2026-11-01T09:13:00+09:00",
-   "sort_key": 1793491980.0,
-   "excerpt": "(서울=연합뉴스) 신선미 기자 = 활명수 브랜드를 활용한 탄산음료부터 박카스의 향을 담은 젤리까지 국내 제약사들이 익숙한 브랜드를 바탕으로 식품...",
-   "matched": []
-  },
-  {
-   "id": "0f42070470",
-   "title": "Chili’s Margaritas Rimmed With Degreaser Burn 5 People in North Carolina",
-   "url": "https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/01 09:08",
-   "published_iso": "2026-11-01T09:08:24+09:00",
-   "sort_key": 1793491704.0,
-   "excerpt": "Three customers and two employees were burned on and around their mouths after a granulated substance was mistaken for sugar, a health official said.",
-   "matched": []
-  },
-  {
-   "id": "790c83325f",
-   "title": "[속보] 10월 무역수지 425억달러 흑자…2개월 연속 400억달러대",
-   "url": "https://www.yna.co.kr/view/AKR20261101014400003",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 09:01",
-   "published_iso": "2026-11-01T09:01:43+09:00",
-   "sort_key": 1793491303.0,
-   "excerpt": "(",
-   "matched": []
-  },
-  {
-   "id": "578a3a84e6",
-   "title": "[속보] 반도체 10월 수출 564억달러…2개월 연속 500억달러대",
-   "url": "https://www.yna.co.kr/view/AKR20261101014000003",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 09:00",
-   "published_iso": "2026-11-01T09:00:33+09:00",
-   "sort_key": 1793491233.0,
-   "excerpt": "(",
-   "matched": []
-  },
-  {
-   "id": "02a7817c01",
-   "title": "평창 청소년, 판교·서울서 AI·로봇 미래직업 탐색",
-   "url": "https://www.yna.co.kr/view/AKR20261030110200062",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 09:00",
-   "published_iso": "2026-11-01T09:00:09+09:00",
-   "sort_key": 1793491209.0,
-   "excerpt": "(평창=연합뉴스) 임보연 기자 = 강원 평창지역 청소년들이 판교와 서울을 찾아 인공지능(AI)·로봇 등 미래 산업과 관련 직업을 체험했다.",
-   "matched": []
-  },
-  {
-   "id": "95690f0881",
-   "title": "KB국민은행, 국내 최초 GPU 파이낸싱 금융주선 총괄",
-   "url": "https://www.yna.co.kr/view/AKR20261030166300002",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 09:00",
-   "published_iso": "2026-11-01T09:00:07+09:00",
-   "sort_key": 1793491207.0,
-   "excerpt": "(서울=연합뉴스) 한지훈 기자 = KB국민은행은 글로벌 대체투자 운용사 브룩필드가 추진하는 약 12조6천억원 규모의 인공지능(AI) 컴퓨팅 인프...",
-   "matched": []
-  },
-  {
-   "id": "8a72b55807",
-   "title": "美 중간선거에 1억7600만달러 쏟아부은 암호화폐 업계",
-   "url": "https://www.hankyung.com/article/202610306788i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 09:00",
-   "published_iso": "2026-11-01T09:00:05+09:00",
-   "sort_key": 1793491205.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "d2cad76b18",
-   "title": "\"1000만원 넣으면 2626만원 된다\"…퇴직연금族 솔깃한 이유 [김연지의 연금빌드업]",
-   "url": "https://www.hankyung.com/article/2026103065036",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 09:00",
-   "published_iso": "2026-11-01T09:00:02+09:00",
-   "sort_key": 1793491202.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "40454914bf",
-   "title": "러닝할 때 딱이네…\"30만원에도 없어서 못 산다\"는 삼성 신제품",
-   "url": "https://www.hankyung.com/article/2026110179467",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 08:27",
-   "published_iso": "2026-11-01T08:27:59+09:00",
-   "sort_key": 1793489279.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "501269b999",
-   "title": "How Binance’s $6.3 Billion Hack Went Down",
-   "url": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/01 07:19",
-   "published_iso": "2026-11-01T07:19:48+09:00",
-   "sort_key": 1793485188.0,
-   "excerpt": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange.",
-   "matched": [],
-   "analysis": {
-    "summary": "역대 최대 코인 해킹 바이낸스 63억 달러 사건의 전말",
-    "impact": "가상자산 시장 불안 지속",
-    "affected": "가상자산"
-   }
-  },
-  {
-   "id": "20df41779a",
-   "title": "경기도, '드론·3D 기술'로 중대결함 교량 21곳 실태점검",
-   "url": "https://www.yna.co.kr/view/AKR20261030162700061",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 07:01",
-   "published_iso": "2026-11-01T07:01:03+09:00",
-   "sort_key": 1793484063.0,
-   "excerpt": "(수원=연합뉴스) 최찬흥 기자 = 경기도는 다음 달 31일까지 드론과 3D 모델링 등 첨단기술을 활용해 중대결함 교량의 안전관리 실태점검을 벌인...",
-   "matched": [],
-   "analysis": {
-    "summary": "경기도가 드론·3D로 중대결함 교량 21곳 점검",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "32ca789dfa",
-   "title": "기업을 키운 후계자의 기여는 어떻게 평가할 것인가 [서이헌의 법과 기업]",
-   "url": "https://www.hankyung.com/article/202610306527i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 07:00",
-   "published_iso": "2026-11-01T07:00:14+09:00",
-   "sort_key": 1793484014.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "기업을 키운 후계자의 기여를 어떻게 평가할지 다룬 칼럼",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "9fdac4de67",
-   "title": "\"키위 샀는데 너무 시다면\"…'이 과일' 옆에 두세요 [프라이스&]",
-   "url": "https://www.hankyung.com/article/202610317734i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 07:00",
-   "published_iso": "2026-11-01T07:00:05+09:00",
-   "sort_key": 1793484005.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "신 키위를 달게 만드는 법",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "9cd3414876",
-   "title": "잘 나가던 명품 '주춤'…가격 인상 피로감에 소비 열기 식나",
-   "url": "https://www.yna.co.kr/view/AKR20261031014700030",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 07:00",
-   "published_iso": "2026-11-01T07:00:03+09:00",
-   "sort_key": 1793484003.0,
-   "excerpt": "(서울=연합뉴스) 조민정 기자 = 해마다 가격을 올리며 성장해온 명품업계에 소비 둔화의 성장세가 둔화하고 있다.",
-   "matched": [],
-   "analysis": {
-    "summary": "매년 가격을 올리던 명품 소비가 주춤 — 가격 인상 피로감",
-    "impact": "명품 소비 둔화",
-    "affected": "명품·백화점"
-   }
-  },
-  {
-   "id": "03cd0ebcaa",
-   "title": "카카오 광고 메시지, 문자보다 더 믿는다…소비자 조사",
-   "url": "https://www.yna.co.kr/view/AKR20261030157800017",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 06:45",
-   "published_iso": "2026-11-01T06:45:00+09:00",
-   "sort_key": 1793483100.0,
-   "excerpt": "(서울=연합뉴스) 오지은 기자 = 카카오톡 브랜드메시지가 일반 문자메시지(SMS) 광고보다 소비자의 안전성 인식과 신뢰도 평가에서 2배 가까이 ...",
-   "matched": [],
-   "analysis": {
-    "summary": "카카오 브랜드메시지가 문자 광고보다 더 신뢰받는다는 조사",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "42e4d293ba",
-   "title": "이달 채권시장 전망은…수급 부담에도 위험회피발 강세 전망도",
-   "url": "https://www.yna.co.kr/view/AKR20261031019400008",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 06:30",
-   "published_iso": "2026-11-01T06:30:01+09:00",
-   "sort_key": 1793482201.0,
-   "excerpt": "(서울=연합뉴스) 강수지 기자 = 11월 국고채 발행 계획을 두고 채권시장의 평가가 엇갈린다.",
-   "matched": [],
-   "analysis": {
-    "summary": "11월 채권시장 전망 — 발행 부담에도 위험 회피로 강세 가능",
-    "impact": "국내 금리 방향 엇갈림",
-    "affected": "국고채"
-   }
-  },
-  {
-   "id": "2d2ef4d577",
-   "title": "다시 변동성 커지는 증시…코스피 지난달 -16%, 역대 일곱번째",
-   "url": "https://www.yna.co.kr/view/AKR20261031026200008",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 06:25",
-   "published_iso": "2026-11-01T06:25:00+09:00",
-   "sort_key": 1793481900.0,
-   "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 지난 7월부터 시작된 급락장 이후 한동안 박스권에 갇혀 잠잠했던 국내 증시의 변동성이 다시 커지는 흐름을 보이...",
-   "matched": [],
-   "analysis": {
-    "summary": "코스피가 지난달 16% 하락 — 역대 7번째로 큰 월간 낙폭, 변동성 다시 확대",
-    "impact": "국내 증시 약세·변동성 확대",
-    "affected": "코스피, 국내 주식 전반",
-    "important": true,
-    "important_tag": "거시경제",
-    "why_important": "코스피가 지난달 16% 하락 — 역대 7번째로 큰 월간 낙폭, 국내 증시 변동성 다시 확대"
-   }
-  },
-  {
-   "id": "a4720eb7ff",
-   "title": "새 분류체계로 본 업종별 체급…반도체-바이오 시총 10배 차",
-   "url": "https://www.yna.co.kr/view/AKR20261031030900008",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 06:20",
-   "published_iso": "2026-11-01T06:20:01+09:00",
-   "sort_key": 1793481601.0,
-   "excerpt": "(서울=연합뉴스) 김유아 기자 = 한국거래소가 개발한 산업분류체계 &apos;KRICS&apos;의 종목별 분류가 마무리되며 새 산업 지도가 완성된 가운데, 국내...",
-   "matched": [],
-   "analysis": {
-    "summary": "새 산업분류로 본 업종별 시총 — 반도체와 바이오 10배 차이",
-    "impact": "시장 영향은 제한적",
-    "affected": "국내 증시"
-   }
-  },
-  {
-   "id": "28d2a546ae",
-   "title": "10일중 8일 주가 같은 방향 삼전닉스…3분기 실적 땐 엇갈려",
-   "url": "https://www.yna.co.kr/view/AKR20261031000200008",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 06:15",
-   "published_iso": "2026-11-01T06:15:01+09:00",
-   "sort_key": 1793481301.0,
-   "excerpt": "(서울=연합뉴스) 김유향 기자 = 올해 들어 10거래일 중 8일꼴로 같은 방향으로 움직인 삼성전자[005930]와 SK하이닉스[000660] 주...",
-   "matched": [],
-   "analysis": {
-    "summary": "10일 중 8일 같은 방향이던 삼성전자·SK하이닉스, 3분기 실적 땐 엇갈림",
-    "impact": "시장 영향은 제한적",
-    "affected": "삼성전자, SK하이닉스"
-   }
-  },
-  {
-   "id": "ec4ff54d0e",
-   "title": "국산 하이브리드차 EU 수출 연 10만대…수입제한 움직임 촉각",
-   "url": "https://www.yna.co.kr/view/AKR20261031047500003",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/01 06:15",
-   "published_iso": "2026-11-01T06:15:00+09:00",
-   "sort_key": 1793481300.0,
-   "excerpt": "(서울=연합뉴스) 홍규빈 기자 = 매년 유럽연합(EU)에 하이브리드차 10만대 안팎을 수출하는 국내 자동차업계가 EU의 수입 제한 움직임에 촉각...",
-   "matched": [],
-   "analysis": {
-    "summary": "국산 하이브리드차 EU 수출 연 10만 대 — EU 수입 제한 움직임에 촉각",
-    "impact": "유럽 수출 차질 위험",
-    "affected": "현대차·기아"
-   }
-  },
-  {
-   "id": "1f18179676",
-   "title": "Judge Tosses Trump’s $10 Billion Suit Against The Wall Street Journal",
-   "url": "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/01 06:01",
-   "published_iso": "2026-11-01T06:01:29+09:00",
-   "sort_key": 1793480489.0,
-   "excerpt": "The defamation suit focused on an article about a birthday note to Jeffrey Epstein. It was the president’s second attempt to claim the publication had acted with actual malice.",
-   "matched": [],
-   "analysis": {
-    "summary": "법원이 트럼프의 월스트리트저널 상대 100억 달러 소송을 기각",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "e6278e13f3",
-   "title": "F.D.A. Warns of Tractor Wheels Snack Bar Linked to Choking Hazard",
-   "url": "https://www.nytimes.com/2026/10/31/well/family/fda-tractor-wheels-choking-hazard.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/01 00:43",
-   "published_iso": "2026-11-01T00:43:44+09:00",
-   "sort_key": 1793461424.0,
-   "excerpt": "Once Upon a Farm has recalled its Tractor Wheels soft-baked bars after reports that toddlers could not breathe while eating them.",
-   "matched": [],
-   "analysis": {
-    "summary": "FDA가 질식 위험 유아 간식 바를 경고, 리콜",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "a4f6498adc",
-   "title": "What Does Running the N.Y.C. Marathon Sound Like?",
-   "url": "https://www.nytimes.com/video/business/100000011219428/what-does-running-the-nyc-marathon-sound-like.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/01 00:06",
-   "published_iso": "2026-11-01T00:06:50+09:00",
-   "sort_key": 1793459210.0,
-   "excerpt": "Mike Dang, a 10-time marathoner and New York Times business editor, relives the unique sonic experience of running the New York City Marathon.",
-   "matched": [],
-   "analysis": {
-    "summary": "뉴욕 마라톤을 소리로 느끼는 기사",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "801b6743df",
-   "title": "The New Hot Job in Law Doesn’t Require a J.D.",
-   "url": "https://www.nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/31 23:48",
-   "published_iso": "2026-10-31T23:48:29+09:00",
-   "sort_key": 1793458109.0,
-   "excerpt": "Big law firms, legal tech vendors, and in-house legal departments at companies like Microsoft and Nvidia are all hiring legal engineers, a new position for lawyers with A.I. skills.",
-   "matched": [],
-   "analysis": {
-    "summary": "법률 분야에서 변호사 자격 없이도 되는 인기 직업 등장",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "28228727da",
-   "title": "\"이게 무슨 조합?\"…케데헌·오겜·흑백요리사 한데 모인 이유 [류은혁의 유통기한]",
-   "url": "https://www.hankyung.com/article/202610306404i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/31 20:00",
-   "published_iso": "2026-10-31T20:00:02+09:00",
-   "sort_key": 1793444402.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "케데헌·오징어게임·흑백요리사가 한데 모인 유통 협업",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "b48175e24d",
-   "title": "Pick Another Protein? Americans Still Want Beef, Despite the Price.",
-   "url": "https://www.nytimes.com/2026/10/31/business/beef-prices-protein.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/31 18:02",
-   "published_iso": "2026-10-31T18:02:43+09:00",
-   "sort_key": 1793437363.0,
-   "excerpt": "After chicken, consumers are buying more beef, while pork, turkey and soy products remain flat.",
-   "matched": [],
-   "analysis": {
-    "summary": "가격이 올라도 미국인은 소고기를 계속 삼",
-    "impact": "시장 영향은 제한적",
-    "affected": "식품"
-   }
-  },
-  {
-   "id": "60dc60b639",
-   "title": "The U.S. Becomes a Global Hub for Horse Racing",
-   "url": "https://www.nytimes.com/2026/10/31/business/breeders-cup-thoroughbreds-keeneland-saratoga-sales.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/31 18:02",
-   "published_iso": "2026-10-31T18:02:10+09:00",
-   "sort_key": 1793437330.0,
-   "excerpt": "More horses from overseas are competing in America’s marquee events, as the sport enjoys a renaissance.",
-   "matched": [],
-   "analysis": {
-    "summary": "미국이 세계 경마의 중심지로",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "173cdfc28a",
-   "title": "Why Did So Many People File Early for Social Security Last Year?",
-   "url": "https://www.nytimes.com/2026/10/31/well/whats-behind-a-recent-spike-in-early-social-security-claims.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "10/31 18:01",
-   "published_iso": "2026-10-31T18:01:51+09:00",
-   "sort_key": 1793437311.0,
-   "excerpt": "Experts point to well-publicized turmoil at the government agency last year as a potential spark.",
-   "matched": [],
-   "analysis": {
-    "summary": "작년에 사회보장연금을 일찍 신청한 사람이 많았던 이유",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "bc916f01a0",
-   "title": "'이것' 하나 보러 150만명 몰렸다…연말마다 난리 나는 이유 [트렌드+]",
-   "url": "https://www.hankyung.com/article/202610305641g",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/31 18:00",
-   "published_iso": "2026-10-31T18:00:04+09:00",
-   "sort_key": 1793437204.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "연말마다 150만 명이 몰리는 행사",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "5e4b173f02",
-   "title": "한화, 미 해군함정 첫 수주…3600억 美 상륙함 건조한다",
-   "url": "https://www.hankyung.com/article/2026103176317",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/31 17:38",
-   "published_iso": "2026-10-31T17:38:17+09:00",
-   "sort_key": 1793435897.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "한화가 3,600억 원 규모 미 해군 상륙함 건조 첫 수주(이전 기사와 같은 내용)",
-    "impact": "한국 조선의 미국 방산 진출",
-    "affected": "한화오션"
-   }
-  },
-  {
-   "id": "2913fea669",
-   "title": "최태원, SK하닉·텔레콤 수뇌부 이끌고 샘 올트먼과 오찬회동",
-   "url": "https://www.hankyung.com/article/2026103175837",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/31 15:54",
-   "published_iso": "2026-10-31T15:54:12+09:00",
-   "sort_key": 1793429652.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "최태원 회장이 SK하이닉스·SK텔레콤 수뇌부와 샘 올트먼과 오찬 회동",
-    "impact": "AI 반도체 협력 기대",
-    "affected": "SK하이닉스"
-   }
-  },
-  {
-   "id": "d523028108",
-   "title": "하루 차이로 밥값 12만원 더 낸다…가격표 보고 놀란 이유",
-   "url": "https://www.hankyung.com/article/2026103175427",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/31 14:57",
-   "published_iso": "2026-10-31T14:57:12+09:00",
-   "sort_key": 1793426232.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "하루 차이로 밥값이 12만 원 더 비싼 이유",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "bee3967c4d",
-   "title": "\"경영진부터 AI 쓴다\"…올트먼 만난 삼성 사장단, 지식저장소 실습도",
-   "url": "https://www.hankyung.com/article/2026103175327",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "10/31 14:27",
-   "published_iso": "2026-10-31T14:27:47+09:00",
-   "sort_key": 1793424467.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "올트먼을 만난 삼성 사장단이 AI 지식저장소 실습",
-    "impact": "시장 영향은 제한적",
-    "affected": "삼성전자"
-   }
-  }
- ],
- "news_groups": {
-  "국내 경제언론": [
-   {
-    "id": "f55fab6a8d",
-    "title": "\"11월 1조달러 돌파 확실\"…반도체 터지자 잭팟",
-    "url": "https://www.hankyung.com/article/202611018045i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 09:33",
-    "published_iso": "2026-11-01T09:33:08+09:00",
-    "sort_key": 1793493188.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "109a32bb09",
-    "title": "[AI위클리] AI 면접관의 등장…AI가 인간 능력을 평가한다",
-    "url": "https://www.yna.co.kr/view/AKR20261031036000017",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 09:30",
-    "published_iso": "2026-11-01T09:30:00+09:00",
-    "sort_key": 1793493000.0,
-    "excerpt": "(서울=연합뉴스) 박상현 기자 = 사원 채용을 돕는 인공지능(AI) 솔루션이 확산한 가운데 AI가 지원자의 실무 역량을 진단하는 AI 면접관까지...",
-    "matched": []
-   },
-   {
-    "id": "5ad4dc8e5d",
-    "title": "가업승계 문턱 높아진다…기업주 상속세 부담 대비해야",
-    "url": "https://www.hankyung.com/article/202610306546i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 09:24",
-    "published_iso": "2026-11-01T09:24:02+09:00",
-    "sort_key": 1793492642.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "323c5e152b",
-    "title": "한국 수출 첫 9000억달러 돌파…연수출 1조달러 보인다",
-    "url": "https://www.hankyung.com/article/2026110180397",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 09:20",
-    "published_iso": "2026-11-01T09:20:05+09:00",
-    "sort_key": 1793492405.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "f03bace29b",
-    "title": "현대홈쇼핑, 멤버십 제도 개편…매월 5% 할인 자동 적용",
-    "url": "https://www.yna.co.kr/view/AKR20261101015400030",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 09:17",
-    "published_iso": "2026-11-01T09:17:29+09:00",
-    "sort_key": 1793492249.0,
-    "excerpt": "(서울=연합뉴스) 이상서 기자 = 현대홈쇼핑은 오는 3일부터 구매 빈도와 금액이 높은 우수고객을 대상으로 멤버십 제도를 개편하고 혜택을 확대한다...",
-    "matched": []
-   },
-   {
-    "id": "b6a897beaf",
-    "title": "[2보] 한국 수출 첫 9천억달러 돌파…10월 1천153억달러",
-    "url": "https://www.yna.co.kr/view/AKR20261101015300003",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 09:16",
-    "published_iso": "2026-11-01T09:16:28+09:00",
-    "sort_key": 1793492188.0,
-    "excerpt": "(서울=연합뉴스) 신창용 기자 = 우리나라의 1∼10월 누적 수출액이 사상 처음으로 9천억달러를 돌파했다.",
-    "matched": []
-   },
-   {
-    "id": "99e40ae7ce",
-    "title": "활명수는 탄산음료로, 박카스는 젤리로…제약사 식품사업 확대",
-    "url": "https://www.yna.co.kr/view/AKR20261030123900017",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 09:13",
-    "published_iso": "2026-11-01T09:13:00+09:00",
-    "sort_key": 1793491980.0,
-    "excerpt": "(서울=연합뉴스) 신선미 기자 = 활명수 브랜드를 활용한 탄산음료부터 박카스의 향을 담은 젤리까지 국내 제약사들이 익숙한 브랜드를 바탕으로 식품...",
-    "matched": []
-   },
-   {
-    "id": "790c83325f",
-    "title": "[속보] 10월 무역수지 425억달러 흑자…2개월 연속 400억달러대",
-    "url": "https://www.yna.co.kr/view/AKR20261101014400003",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 09:01",
-    "published_iso": "2026-11-01T09:01:43+09:00",
-    "sort_key": 1793491303.0,
-    "excerpt": "(",
-    "matched": []
-   },
-   {
-    "id": "578a3a84e6",
-    "title": "[속보] 반도체 10월 수출 564억달러…2개월 연속 500억달러대",
-    "url": "https://www.yna.co.kr/view/AKR20261101014000003",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 09:00",
-    "published_iso": "2026-11-01T09:00:33+09:00",
-    "sort_key": 1793491233.0,
-    "excerpt": "(",
-    "matched": []
-   },
-   {
-    "id": "02a7817c01",
-    "title": "평창 청소년, 판교·서울서 AI·로봇 미래직업 탐색",
-    "url": "https://www.yna.co.kr/view/AKR20261030110200062",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 09:00",
-    "published_iso": "2026-11-01T09:00:09+09:00",
-    "sort_key": 1793491209.0,
-    "excerpt": "(평창=연합뉴스) 임보연 기자 = 강원 평창지역 청소년들이 판교와 서울을 찾아 인공지능(AI)·로봇 등 미래 산업과 관련 직업을 체험했다.",
-    "matched": []
-   },
-   {
-    "id": "95690f0881",
-    "title": "KB국민은행, 국내 최초 GPU 파이낸싱 금융주선 총괄",
-    "url": "https://www.yna.co.kr/view/AKR20261030166300002",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 09:00",
-    "published_iso": "2026-11-01T09:00:07+09:00",
-    "sort_key": 1793491207.0,
-    "excerpt": "(서울=연합뉴스) 한지훈 기자 = KB국민은행은 글로벌 대체투자 운용사 브룩필드가 추진하는 약 12조6천억원 규모의 인공지능(AI) 컴퓨팅 인프...",
-    "matched": []
-   },
-   {
-    "id": "8a72b55807",
-    "title": "美 중간선거에 1억7600만달러 쏟아부은 암호화폐 업계",
-    "url": "https://www.hankyung.com/article/202610306788i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 09:00",
-    "published_iso": "2026-11-01T09:00:05+09:00",
-    "sort_key": 1793491205.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "d2cad76b18",
-    "title": "\"1000만원 넣으면 2626만원 된다\"…퇴직연금族 솔깃한 이유 [김연지의 연금빌드업]",
-    "url": "https://www.hankyung.com/article/2026103065036",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 09:00",
-    "published_iso": "2026-11-01T09:00:02+09:00",
-    "sort_key": 1793491202.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "40454914bf",
-    "title": "러닝할 때 딱이네…\"30만원에도 없어서 못 산다\"는 삼성 신제품",
-    "url": "https://www.hankyung.com/article/2026110179467",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 08:27",
-    "published_iso": "2026-11-01T08:27:59+09:00",
-    "sort_key": 1793489279.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "20df41779a",
-    "title": "경기도, '드론·3D 기술'로 중대결함 교량 21곳 실태점검",
-    "url": "https://www.yna.co.kr/view/AKR20261030162700061",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 07:01",
-    "published_iso": "2026-11-01T07:01:03+09:00",
-    "sort_key": 1793484063.0,
-    "excerpt": "(수원=연합뉴스) 최찬흥 기자 = 경기도는 다음 달 31일까지 드론과 3D 모델링 등 첨단기술을 활용해 중대결함 교량의 안전관리 실태점검을 벌인...",
-    "matched": [],
-    "analysis": {
-     "summary": "경기도가 드론·3D로 중대결함 교량 21곳 점검",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
+  "indices": [
+    {
+      "name": "코스피",
+      "symbol": "^KS11",
+      "unit": "pt",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 5730.74,
+      "prev_close": 5550.3,
+      "change": 180.44,
+      "change_pct": 3.25,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1793358340,
+      "asof_date": null
+    },
+    {
+      "name": "코스닥",
+      "symbol": "^KQ11",
+      "unit": "pt",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 724.38,
+      "prev_close": 751.69,
+      "change": -27.31,
+      "change_pct": -3.63,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1793358340,
+      "asof_date": null
+    },
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "unit": "pt",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 7580.07,
+      "prev_close": 7623.68,
+      "change": -43.61,
+      "change_pct": -0.57,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1793393263,
+      "asof_date": null
+    },
+    {
+      "name": "나스닥",
+      "symbol": "^IXIC",
+      "unit": "pt",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 25436.998,
+      "prev_close": 25955.34,
+      "change": -518.342,
+      "change_pct": -2.0,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1793394959,
+      "asof_date": null
+    },
+    {
+      "name": "원/달러",
+      "symbol": "KRW=X",
+      "unit": "원",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 1335.1,
+      "prev_close": 1321.76,
+      "change": 13.34,
+      "change_pct": 1.01,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1793417433,
+      "asof_date": null
+    },
+    {
+      "name": "미 10년 국채",
+      "symbol": "^TNX",
+      "unit": "%",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 4.929,
+      "prev_close": 4.986,
+      "change": -0.057,
+      "change_pct": -1.14,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1793386794,
+      "asof_date": null
+    },
+    {
+      "name": "WTI 유가",
+      "symbol": "CL=F",
+      "unit": "$",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 104.12,
+      "prev_close": 101.76,
+      "change": 2.36,
+      "change_pct": 2.32,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1793393999,
+      "asof_date": null
+    },
+    {
+      "name": "금",
+      "symbol": "GC=F",
+      "unit": "$",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 3898.9,
+      "prev_close": 4038.4,
+      "change": -139.5,
+      "change_pct": -3.45,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1793393999,
+      "asof_date": null
     }
-   },
-   {
-    "id": "32ca789dfa",
-    "title": "기업을 키운 후계자의 기여는 어떻게 평가할 것인가 [서이헌의 법과 기업]",
-    "url": "https://www.hankyung.com/article/202610306527i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 07:00",
-    "published_iso": "2026-11-01T07:00:14+09:00",
-    "sort_key": 1793484014.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "기업을 키운 후계자의 기여를 어떻게 평가할지 다룬 칼럼",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "9fdac4de67",
-    "title": "\"키위 샀는데 너무 시다면\"…'이 과일' 옆에 두세요 [프라이스&]",
-    "url": "https://www.hankyung.com/article/202610317734i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 07:00",
-    "published_iso": "2026-11-01T07:00:05+09:00",
-    "sort_key": 1793484005.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "신 키위를 달게 만드는 법",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "9cd3414876",
-    "title": "잘 나가던 명품 '주춤'…가격 인상 피로감에 소비 열기 식나",
-    "url": "https://www.yna.co.kr/view/AKR20261031014700030",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 07:00",
-    "published_iso": "2026-11-01T07:00:03+09:00",
-    "sort_key": 1793484003.0,
-    "excerpt": "(서울=연합뉴스) 조민정 기자 = 해마다 가격을 올리며 성장해온 명품업계에 소비 둔화의 성장세가 둔화하고 있다.",
-    "matched": [],
-    "analysis": {
-     "summary": "매년 가격을 올리던 명품 소비가 주춤 — 가격 인상 피로감",
-     "impact": "명품 소비 둔화",
-     "affected": "명품·백화점"
-    }
-   },
-   {
-    "id": "03cd0ebcaa",
-    "title": "카카오 광고 메시지, 문자보다 더 믿는다…소비자 조사",
-    "url": "https://www.yna.co.kr/view/AKR20261030157800017",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 06:45",
-    "published_iso": "2026-11-01T06:45:00+09:00",
-    "sort_key": 1793483100.0,
-    "excerpt": "(서울=연합뉴스) 오지은 기자 = 카카오톡 브랜드메시지가 일반 문자메시지(SMS) 광고보다 소비자의 안전성 인식과 신뢰도 평가에서 2배 가까이 ...",
-    "matched": [],
-    "analysis": {
-     "summary": "카카오 브랜드메시지가 문자 광고보다 더 신뢰받는다는 조사",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "42e4d293ba",
-    "title": "이달 채권시장 전망은…수급 부담에도 위험회피발 강세 전망도",
-    "url": "https://www.yna.co.kr/view/AKR20261031019400008",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 06:30",
-    "published_iso": "2026-11-01T06:30:01+09:00",
-    "sort_key": 1793482201.0,
-    "excerpt": "(서울=연합뉴스) 강수지 기자 = 11월 국고채 발행 계획을 두고 채권시장의 평가가 엇갈린다.",
-    "matched": [],
-    "analysis": {
-     "summary": "11월 채권시장 전망 — 발행 부담에도 위험 회피로 강세 가능",
-     "impact": "국내 금리 방향 엇갈림",
-     "affected": "국고채"
-    }
-   },
-   {
-    "id": "2d2ef4d577",
-    "title": "다시 변동성 커지는 증시…코스피 지난달 -16%, 역대 일곱번째",
-    "url": "https://www.yna.co.kr/view/AKR20261031026200008",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 06:25",
-    "published_iso": "2026-11-01T06:25:00+09:00",
-    "sort_key": 1793481900.0,
-    "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 지난 7월부터 시작된 급락장 이후 한동안 박스권에 갇혀 잠잠했던 국내 증시의 변동성이 다시 커지는 흐름을 보이...",
-    "matched": [],
-    "analysis": {
-     "summary": "코스피가 지난달 16% 하락 — 역대 7번째로 큰 월간 낙폭, 변동성 다시 확대",
-     "impact": "국내 증시 약세·변동성 확대",
-     "affected": "코스피, 국내 주식 전반",
-     "important": true,
-     "important_tag": "거시경제",
-     "why_important": "코스피가 지난달 16% 하락 — 역대 7번째로 큰 월간 낙폭, 국내 증시 변동성 다시 확대"
-    }
-   },
-   {
-    "id": "a4720eb7ff",
-    "title": "새 분류체계로 본 업종별 체급…반도체-바이오 시총 10배 차",
-    "url": "https://www.yna.co.kr/view/AKR20261031030900008",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 06:20",
-    "published_iso": "2026-11-01T06:20:01+09:00",
-    "sort_key": 1793481601.0,
-    "excerpt": "(서울=연합뉴스) 김유아 기자 = 한국거래소가 개발한 산업분류체계 &apos;KRICS&apos;의 종목별 분류가 마무리되며 새 산업 지도가 완성된 가운데, 국내...",
-    "matched": [],
-    "analysis": {
-     "summary": "새 산업분류로 본 업종별 시총 — 반도체와 바이오 10배 차이",
-     "impact": "시장 영향은 제한적",
-     "affected": "국내 증시"
-    }
-   },
-   {
-    "id": "28d2a546ae",
-    "title": "10일중 8일 주가 같은 방향 삼전닉스…3분기 실적 땐 엇갈려",
-    "url": "https://www.yna.co.kr/view/AKR20261031000200008",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 06:15",
-    "published_iso": "2026-11-01T06:15:01+09:00",
-    "sort_key": 1793481301.0,
-    "excerpt": "(서울=연합뉴스) 김유향 기자 = 올해 들어 10거래일 중 8일꼴로 같은 방향으로 움직인 삼성전자[005930]와 SK하이닉스[000660] 주...",
-    "matched": [],
-    "analysis": {
-     "summary": "10일 중 8일 같은 방향이던 삼성전자·SK하이닉스, 3분기 실적 땐 엇갈림",
-     "impact": "시장 영향은 제한적",
-     "affected": "삼성전자, SK하이닉스"
-    }
-   },
-   {
-    "id": "ec4ff54d0e",
-    "title": "국산 하이브리드차 EU 수출 연 10만대…수입제한 움직임 촉각",
-    "url": "https://www.yna.co.kr/view/AKR20261031047500003",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/01 06:15",
-    "published_iso": "2026-11-01T06:15:00+09:00",
-    "sort_key": 1793481300.0,
-    "excerpt": "(서울=연합뉴스) 홍규빈 기자 = 매년 유럽연합(EU)에 하이브리드차 10만대 안팎을 수출하는 국내 자동차업계가 EU의 수입 제한 움직임에 촉각...",
-    "matched": [],
-    "analysis": {
-     "summary": "국산 하이브리드차 EU 수출 연 10만 대 — EU 수입 제한 움직임에 촉각",
-     "impact": "유럽 수출 차질 위험",
-     "affected": "현대차·기아"
-    }
-   },
-   {
-    "id": "28228727da",
-    "title": "\"이게 무슨 조합?\"…케데헌·오겜·흑백요리사 한데 모인 이유 [류은혁의 유통기한]",
-    "url": "https://www.hankyung.com/article/202610306404i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/31 20:00",
-    "published_iso": "2026-10-31T20:00:02+09:00",
-    "sort_key": 1793444402.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "케데헌·오징어게임·흑백요리사가 한데 모인 유통 협업",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "bc916f01a0",
-    "title": "'이것' 하나 보러 150만명 몰렸다…연말마다 난리 나는 이유 [트렌드+]",
-    "url": "https://www.hankyung.com/article/202610305641g",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/31 18:00",
-    "published_iso": "2026-10-31T18:00:04+09:00",
-    "sort_key": 1793437204.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "연말마다 150만 명이 몰리는 행사",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "5e4b173f02",
-    "title": "한화, 미 해군함정 첫 수주…3600억 美 상륙함 건조한다",
-    "url": "https://www.hankyung.com/article/2026103176317",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/31 17:38",
-    "published_iso": "2026-10-31T17:38:17+09:00",
-    "sort_key": 1793435897.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "한화가 3,600억 원 규모 미 해군 상륙함 건조 첫 수주(이전 기사와 같은 내용)",
-     "impact": "한국 조선의 미국 방산 진출",
-     "affected": "한화오션"
-    }
-   },
-   {
-    "id": "2913fea669",
-    "title": "최태원, SK하닉·텔레콤 수뇌부 이끌고 샘 올트먼과 오찬회동",
-    "url": "https://www.hankyung.com/article/2026103175837",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/31 15:54",
-    "published_iso": "2026-10-31T15:54:12+09:00",
-    "sort_key": 1793429652.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "최태원 회장이 SK하이닉스·SK텔레콤 수뇌부와 샘 올트먼과 오찬 회동",
-     "impact": "AI 반도체 협력 기대",
-     "affected": "SK하이닉스"
-    }
-   },
-   {
-    "id": "d523028108",
-    "title": "하루 차이로 밥값 12만원 더 낸다…가격표 보고 놀란 이유",
-    "url": "https://www.hankyung.com/article/2026103175427",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/31 14:57",
-    "published_iso": "2026-10-31T14:57:12+09:00",
-    "sort_key": 1793426232.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "하루 차이로 밥값이 12만 원 더 비싼 이유",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "bee3967c4d",
-    "title": "\"경영진부터 AI 쓴다\"…올트먼 만난 삼성 사장단, 지식저장소 실습도",
-    "url": "https://www.hankyung.com/article/2026103175327",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "10/31 14:27",
-    "published_iso": "2026-10-31T14:27:47+09:00",
-    "sort_key": 1793424467.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "올트먼을 만난 삼성 사장단이 AI 지식저장소 실습",
-     "impact": "시장 영향은 제한적",
-     "affected": "삼성전자"
-    }
-   }
   ],
-  "해외 경제언론": [
-   {
-    "id": "0f42070470",
-    "title": "Chili’s Margaritas Rimmed With Degreaser Burn 5 People in North Carolina",
-    "url": "https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/01 09:08",
-    "published_iso": "2026-11-01T09:08:24+09:00",
-    "sort_key": 1793491704.0,
-    "excerpt": "Three customers and two employees were burned on and around their mouths after a granulated substance was mistaken for sugar, a health official said.",
-    "matched": []
-   },
-   {
-    "id": "501269b999",
-    "title": "How Binance’s $6.3 Billion Hack Went Down",
-    "url": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/01 07:19",
-    "published_iso": "2026-11-01T07:19:48+09:00",
-    "sort_key": 1793485188.0,
-    "excerpt": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange.",
-    "matched": [],
-    "analysis": {
-     "summary": "역대 최대 코인 해킹 바이낸스 63억 달러 사건의 전말",
-     "impact": "가상자산 시장 불안 지속",
-     "affected": "가상자산"
+  "watchlist": [
+    {
+      "name": "삼성전자",
+      "symbol": "005930.KS",
+      "unit": "",
+      "keywords": [
+        "삼성전자",
+        "Samsung Electronics",
+        "삼성 반도체"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 225000.0,
+      "prev_close": 215500.0,
+      "change": 9500.0,
+      "change_pct": 4.41,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1793341809,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "SK하이닉스",
+      "symbol": "000660.KS",
+      "unit": "",
+      "keywords": [
+        "SK하이닉스",
+        "SK Hynix",
+        "하이닉스",
+        "HBM"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 1418000.0,
+      "prev_close": 1277000.0,
+      "change": 141000.0,
+      "change_pct": 11.04,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1793341805,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "현대차",
+      "symbol": "005380.KS",
+      "unit": "",
+      "keywords": [
+        "현대차",
+        "현대자동차",
+        "Hyundai Motor"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 282000.0,
+      "prev_close": 295500.0,
+      "change": -13500.0,
+      "change_pct": -4.57,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1793341802,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "LG에너지솔루션",
+      "symbol": "373220.KS",
+      "unit": "",
+      "keywords": [
+        "LG에너지솔루션",
+        "LG Energy Solution",
+        "이차전지",
+        "배터리"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 359500.0,
+      "prev_close": 383000.0,
+      "change": -23500.0,
+      "change_pct": -6.14,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1793341820,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "NAVER",
+      "symbol": "035420.KS",
+      "unit": "",
+      "keywords": [
+        "네이버",
+        "NAVER"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 172300.0,
+      "prev_close": 173600.0,
+      "change": -1300.0,
+      "change_pct": -0.75,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1793341807,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "엔비디아",
+      "symbol": "NVDA",
+      "unit": "",
+      "keywords": [
+        "엔비디아",
+        "Nvidia",
+        "NVDA"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 204.64,
+      "prev_close": 210.96,
+      "change": -6.32,
+      "change_pct": -3.0,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1793390401,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "애플",
+      "symbol": "AAPL",
+      "unit": "",
+      "keywords": [
+        "애플",
+        "Apple",
+        "AAPL"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 344.63,
+      "prev_close": 347.73,
+      "change": -3.1,
+      "change_pct": -0.89,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1793390401,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "테슬라",
+      "symbol": "TSLA",
+      "unit": "",
+      "keywords": [
+        "테슬라",
+        "Tesla",
+        "TSLA"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 399.81,
+      "prev_close": 372.22,
+      "change": 27.59,
+      "change_pct": 7.41,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1793390400,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "마이크로소프트",
+      "symbol": "MSFT",
+      "unit": "",
+      "keywords": [
+        "마이크로소프트",
+        "Microsoft",
+        "MSFT"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 521.91,
+      "prev_close": 524.51,
+      "change": -2.6,
+      "change_pct": -0.5,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1793390401,
+      "asof_date": null,
+      "news": []
     }
-   },
-   {
-    "id": "1f18179676",
-    "title": "Judge Tosses Trump’s $10 Billion Suit Against The Wall Street Journal",
-    "url": "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/01 06:01",
-    "published_iso": "2026-11-01T06:01:29+09:00",
-    "sort_key": 1793480489.0,
-    "excerpt": "The defamation suit focused on an article about a birthday note to Jeffrey Epstein. It was the president’s second attempt to claim the publication had acted with actual malice.",
-    "matched": [],
-    "analysis": {
-     "summary": "법원이 트럼프의 월스트리트저널 상대 100억 달러 소송을 기각",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
+  ],
+  "news": [
+    {
+      "id": "f55fab6a8d",
+      "title": "\"11월 1조달러 돌파 확실\"…반도체 터지자 잭팟",
+      "url": "https://www.hankyung.com/article/202611018045i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 09:33",
+      "published_iso": "2026-11-01T09:33:08+09:00",
+      "sort_key": 1793493188.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "반도체 호황에 11월 연간 수출 1조 달러 돌파가 확실시",
+        "impact": "수출 호조 — 원화 강세·경기 개선",
+        "affected": "반도체, 수출주, 원화"
+      }
+    },
+    {
+      "id": "109a32bb09",
+      "title": "[AI위클리] AI 면접관의 등장…AI가 인간 능력을 평가한다",
+      "url": "https://www.yna.co.kr/view/AKR20261031036000017",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 09:30",
+      "published_iso": "2026-11-01T09:30:00+09:00",
+      "sort_key": 1793493000.0,
+      "excerpt": "(서울=연합뉴스) 박상현 기자 = 사원 채용을 돕는 인공지능(AI) 솔루션이 확산한 가운데 AI가 지원자의 실무 역량을 진단하는 AI 면접관까지...",
+      "matched": [],
+      "analysis": {
+        "summary": "AI가 지원자를 평가하는 AI 면접관 등장",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "5ad4dc8e5d",
+      "title": "가업승계 문턱 높아진다…기업주 상속세 부담 대비해야",
+      "url": "https://www.hankyung.com/article/202610306546i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 09:24",
+      "published_iso": "2026-11-01T09:24:02+09:00",
+      "sort_key": 1793492642.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "가업승계 요건이 까다로워져 기업주 상속세 대비 필요",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "323c5e152b",
+      "title": "한국 수출 첫 9000억달러 돌파…연수출 1조달러 보인다",
+      "url": "https://www.hankyung.com/article/2026110180397",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 09:20",
+      "published_iso": "2026-11-01T09:20:05+09:00",
+      "sort_key": 1793492405.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "한국 수출이 1~10월 처음으로 9,000억 달러 돌파 — 연 1조 달러 보임(뒤 속보와 같은 내용)",
+        "impact": "수출 호조",
+        "affected": "수출주"
+      }
+    },
+    {
+      "id": "f03bace29b",
+      "title": "현대홈쇼핑, 멤버십 제도 개편…매월 5% 할인 자동 적용",
+      "url": "https://www.yna.co.kr/view/AKR20261101015400030",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 09:17",
+      "published_iso": "2026-11-01T09:17:29+09:00",
+      "sort_key": 1793492249.0,
+      "excerpt": "(서울=연합뉴스) 이상서 기자 = 현대홈쇼핑은 오는 3일부터 구매 빈도와 금액이 높은 우수고객을 대상으로 멤버십 제도를 개편하고 혜택을 확대한다...",
+      "matched": [],
+      "analysis": {
+        "summary": "현대홈쇼핑 멤버십 개편, 매월 5% 할인",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "b6a897beaf",
+      "title": "[2보] 한국 수출 첫 9천억달러 돌파…10월 1천153억달러",
+      "url": "https://www.yna.co.kr/view/AKR20261101015300003",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 09:16",
+      "published_iso": "2026-11-01T09:16:28+09:00",
+      "sort_key": 1793492188.0,
+      "excerpt": "(서울=연합뉴스) 신창용 기자 = 우리나라의 1∼10월 누적 수출액이 사상 처음으로 9천억달러를 돌파했다.",
+      "matched": [],
+      "analysis": {
+        "summary": "1~10월 누적 수출이 사상 처음 9,000억 달러 돌파, 10월 수출 1,153억 달러",
+        "impact": "수출 경기 탄탄 — 원화 강세 요인",
+        "affected": "반도체, 수출주, 원화",
+        "important": true,
+        "important_tag": "거시경제",
+        "why_important": "한국 1~10월 수출이 처음으로 9,000억 달러 돌파 — 반도체가 이끄는 수출 호황으로 연 1조 달러 눈앞"
+      }
+    },
+    {
+      "id": "99e40ae7ce",
+      "title": "활명수는 탄산음료로, 박카스는 젤리로…제약사 식품사업 확대",
+      "url": "https://www.yna.co.kr/view/AKR20261030123900017",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 09:13",
+      "published_iso": "2026-11-01T09:13:00+09:00",
+      "sort_key": 1793491980.0,
+      "excerpt": "(서울=연합뉴스) 신선미 기자 = 활명수 브랜드를 활용한 탄산음료부터 박카스의 향을 담은 젤리까지 국내 제약사들이 익숙한 브랜드를 바탕으로 식품...",
+      "matched": [],
+      "analysis": {
+        "summary": "활명수 탄산음료·박카스 젤리 등 제약사 식품 사업 확대",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "0f42070470",
+      "title": "Chili’s Margaritas Rimmed With Degreaser Burn 5 People in North Carolina",
+      "url": "https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/01 09:08",
+      "published_iso": "2026-11-01T09:08:24+09:00",
+      "sort_key": 1793491704.0,
+      "excerpt": "Three customers and two employees were burned on and around their mouths after a granulated substance was mistaken for sugar, a health official said.",
+      "matched": [],
+      "analysis": {
+        "summary": "칠리스 마르가리타 잔에 세척제가 묻어 5명 화상",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "790c83325f",
+      "title": "[속보] 10월 무역수지 425억달러 흑자…2개월 연속 400억달러대",
+      "url": "https://www.yna.co.kr/view/AKR20261101014400003",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 09:01",
+      "published_iso": "2026-11-01T09:01:43+09:00",
+      "sort_key": 1793491303.0,
+      "excerpt": "(",
+      "matched": [],
+      "analysis": {
+        "summary": "10월 무역수지 425억 달러 흑자, 2개월 연속 400억 달러대",
+        "impact": "무역 흑자 확대",
+        "affected": "원화"
+      }
+    },
+    {
+      "id": "578a3a84e6",
+      "title": "[속보] 반도체 10월 수출 564억달러…2개월 연속 500억달러대",
+      "url": "https://www.yna.co.kr/view/AKR20261101014000003",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 09:00",
+      "published_iso": "2026-11-01T09:00:33+09:00",
+      "sort_key": 1793491233.0,
+      "excerpt": "(",
+      "matched": [],
+      "analysis": {
+        "summary": "10월 반도체 수출 564억 달러, 2개월 연속 500억 달러대",
+        "impact": "반도체 수출 호조 지속",
+        "affected": "삼성전자, SK하이닉스"
+      }
+    },
+    {
+      "id": "02a7817c01",
+      "title": "평창 청소년, 판교·서울서 AI·로봇 미래직업 탐색",
+      "url": "https://www.yna.co.kr/view/AKR20261030110200062",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 09:00",
+      "published_iso": "2026-11-01T09:00:09+09:00",
+      "sort_key": 1793491209.0,
+      "excerpt": "(평창=연합뉴스) 임보연 기자 = 강원 평창지역 청소년들이 판교와 서울을 찾아 인공지능(AI)·로봇 등 미래 산업과 관련 직업을 체험했다.",
+      "matched": [],
+      "analysis": {
+        "summary": "평창 청소년들이 AI·로봇 미래 직업 체험",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "95690f0881",
+      "title": "KB국민은행, 국내 최초 GPU 파이낸싱 금융주선 총괄",
+      "url": "https://www.yna.co.kr/view/AKR20261030166300002",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 09:00",
+      "published_iso": "2026-11-01T09:00:07+09:00",
+      "sort_key": 1793491207.0,
+      "excerpt": "(서울=연합뉴스) 한지훈 기자 = KB국민은행은 글로벌 대체투자 운용사 브룩필드가 추진하는 약 12조6천억원 규모의 인공지능(AI) 컴퓨팅 인프...",
+      "matched": [],
+      "analysis": {
+        "summary": "KB국민은행이 브룩필드의 12.6조 원 AI 인프라 사업에서 국내 첫 GPU 금융 주선 총괄",
+        "impact": "AI 인프라 금융 시장 확대",
+        "affected": "KB금융"
+      }
+    },
+    {
+      "id": "8a72b55807",
+      "title": "美 중간선거에 1억7600만달러 쏟아부은 암호화폐 업계",
+      "url": "https://www.hankyung.com/article/202610306788i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 09:00",
+      "published_iso": "2026-11-01T09:00:05+09:00",
+      "sort_key": 1793491205.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "암호화폐 업계가 미국 중간선거에 1억 7,600만 달러 투입",
+        "impact": "시장 영향은 제한적",
+        "affected": "가상자산"
+      }
+    },
+    {
+      "id": "d2cad76b18",
+      "title": "\"1000만원 넣으면 2626만원 된다\"…퇴직연금族 솔깃한 이유 [김연지의 연금빌드업]",
+      "url": "https://www.hankyung.com/article/2026103065036",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 09:00",
+      "published_iso": "2026-11-01T09:00:02+09:00",
+      "sort_key": 1793491202.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "퇴직연금으로 1,000만 원이 2,626만 원 되는 계산",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "40454914bf",
+      "title": "러닝할 때 딱이네…\"30만원에도 없어서 못 산다\"는 삼성 신제품",
+      "url": "https://www.hankyung.com/article/2026110179467",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 08:27",
+      "published_iso": "2026-11-01T08:27:59+09:00",
+      "sort_key": 1793489279.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "30만 원에도 품절인 삼성 러닝용 신제품",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "501269b999",
+      "title": "How Binance’s $6.3 Billion Hack Went Down",
+      "url": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/01 07:19",
+      "published_iso": "2026-11-01T07:19:48+09:00",
+      "sort_key": 1793485188.0,
+      "excerpt": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange.",
+      "matched": [],
+      "analysis": {
+        "summary": "역대 최대 코인 해킹 바이낸스 63억 달러 사건의 전말",
+        "impact": "가상자산 시장 불안 지속",
+        "affected": "가상자산"
+      }
+    },
+    {
+      "id": "20df41779a",
+      "title": "경기도, '드론·3D 기술'로 중대결함 교량 21곳 실태점검",
+      "url": "https://www.yna.co.kr/view/AKR20261030162700061",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 07:01",
+      "published_iso": "2026-11-01T07:01:03+09:00",
+      "sort_key": 1793484063.0,
+      "excerpt": "(수원=연합뉴스) 최찬흥 기자 = 경기도는 다음 달 31일까지 드론과 3D 모델링 등 첨단기술을 활용해 중대결함 교량의 안전관리 실태점검을 벌인...",
+      "matched": [],
+      "analysis": {
+        "summary": "경기도가 드론·3D로 중대결함 교량 21곳 점검",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "32ca789dfa",
+      "title": "기업을 키운 후계자의 기여는 어떻게 평가할 것인가 [서이헌의 법과 기업]",
+      "url": "https://www.hankyung.com/article/202610306527i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 07:00",
+      "published_iso": "2026-11-01T07:00:14+09:00",
+      "sort_key": 1793484014.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "기업을 키운 후계자의 기여를 어떻게 평가할지 다룬 칼럼",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "9fdac4de67",
+      "title": "\"키위 샀는데 너무 시다면\"…'이 과일' 옆에 두세요 [프라이스&]",
+      "url": "https://www.hankyung.com/article/202610317734i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 07:00",
+      "published_iso": "2026-11-01T07:00:05+09:00",
+      "sort_key": 1793484005.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "신 키위를 달게 만드는 법",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "9cd3414876",
+      "title": "잘 나가던 명품 '주춤'…가격 인상 피로감에 소비 열기 식나",
+      "url": "https://www.yna.co.kr/view/AKR20261031014700030",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 07:00",
+      "published_iso": "2026-11-01T07:00:03+09:00",
+      "sort_key": 1793484003.0,
+      "excerpt": "(서울=연합뉴스) 조민정 기자 = 해마다 가격을 올리며 성장해온 명품업계에 소비 둔화의 성장세가 둔화하고 있다.",
+      "matched": [],
+      "analysis": {
+        "summary": "매년 가격을 올리던 명품 소비가 주춤 — 가격 인상 피로감",
+        "impact": "명품 소비 둔화",
+        "affected": "명품·백화점"
+      }
+    },
+    {
+      "id": "03cd0ebcaa",
+      "title": "카카오 광고 메시지, 문자보다 더 믿는다…소비자 조사",
+      "url": "https://www.yna.co.kr/view/AKR20261030157800017",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 06:45",
+      "published_iso": "2026-11-01T06:45:00+09:00",
+      "sort_key": 1793483100.0,
+      "excerpt": "(서울=연합뉴스) 오지은 기자 = 카카오톡 브랜드메시지가 일반 문자메시지(SMS) 광고보다 소비자의 안전성 인식과 신뢰도 평가에서 2배 가까이 ...",
+      "matched": [],
+      "analysis": {
+        "summary": "카카오 브랜드메시지가 문자 광고보다 더 신뢰받는다는 조사",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "42e4d293ba",
+      "title": "이달 채권시장 전망은…수급 부담에도 위험회피발 강세 전망도",
+      "url": "https://www.yna.co.kr/view/AKR20261031019400008",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 06:30",
+      "published_iso": "2026-11-01T06:30:01+09:00",
+      "sort_key": 1793482201.0,
+      "excerpt": "(서울=연합뉴스) 강수지 기자 = 11월 국고채 발행 계획을 두고 채권시장의 평가가 엇갈린다.",
+      "matched": [],
+      "analysis": {
+        "summary": "11월 채권시장 전망 — 발행 부담에도 위험 회피로 강세 가능",
+        "impact": "국내 금리 방향 엇갈림",
+        "affected": "국고채"
+      }
+    },
+    {
+      "id": "2d2ef4d577",
+      "title": "다시 변동성 커지는 증시…코스피 지난달 -16%, 역대 일곱번째",
+      "url": "https://www.yna.co.kr/view/AKR20261031026200008",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 06:25",
+      "published_iso": "2026-11-01T06:25:00+09:00",
+      "sort_key": 1793481900.0,
+      "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 지난 7월부터 시작된 급락장 이후 한동안 박스권에 갇혀 잠잠했던 국내 증시의 변동성이 다시 커지는 흐름을 보이...",
+      "matched": [],
+      "analysis": {
+        "summary": "코스피가 지난달 16% 하락 — 역대 7번째로 큰 월간 낙폭, 변동성 다시 확대",
+        "impact": "국내 증시 약세·변동성 확대",
+        "affected": "코스피, 국내 주식 전반",
+        "important": true,
+        "important_tag": "거시경제",
+        "why_important": "코스피가 지난달 16% 하락 — 역대 7번째로 큰 월간 낙폭, 국내 증시 변동성 다시 확대"
+      }
+    },
+    {
+      "id": "a4720eb7ff",
+      "title": "새 분류체계로 본 업종별 체급…반도체-바이오 시총 10배 차",
+      "url": "https://www.yna.co.kr/view/AKR20261031030900008",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 06:20",
+      "published_iso": "2026-11-01T06:20:01+09:00",
+      "sort_key": 1793481601.0,
+      "excerpt": "(서울=연합뉴스) 김유아 기자 = 한국거래소가 개발한 산업분류체계 &apos;KRICS&apos;의 종목별 분류가 마무리되며 새 산업 지도가 완성된 가운데, 국내...",
+      "matched": [],
+      "analysis": {
+        "summary": "새 산업분류로 본 업종별 시총 — 반도체와 바이오 10배 차이",
+        "impact": "시장 영향은 제한적",
+        "affected": "국내 증시"
+      }
+    },
+    {
+      "id": "28d2a546ae",
+      "title": "10일중 8일 주가 같은 방향 삼전닉스…3분기 실적 땐 엇갈려",
+      "url": "https://www.yna.co.kr/view/AKR20261031000200008",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 06:15",
+      "published_iso": "2026-11-01T06:15:01+09:00",
+      "sort_key": 1793481301.0,
+      "excerpt": "(서울=연합뉴스) 김유향 기자 = 올해 들어 10거래일 중 8일꼴로 같은 방향으로 움직인 삼성전자[005930]와 SK하이닉스[000660] 주...",
+      "matched": [],
+      "analysis": {
+        "summary": "10일 중 8일 같은 방향이던 삼성전자·SK하이닉스, 3분기 실적 땐 엇갈림",
+        "impact": "시장 영향은 제한적",
+        "affected": "삼성전자, SK하이닉스"
+      }
+    },
+    {
+      "id": "ec4ff54d0e",
+      "title": "국산 하이브리드차 EU 수출 연 10만대…수입제한 움직임 촉각",
+      "url": "https://www.yna.co.kr/view/AKR20261031047500003",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/01 06:15",
+      "published_iso": "2026-11-01T06:15:00+09:00",
+      "sort_key": 1793481300.0,
+      "excerpt": "(서울=연합뉴스) 홍규빈 기자 = 매년 유럽연합(EU)에 하이브리드차 10만대 안팎을 수출하는 국내 자동차업계가 EU의 수입 제한 움직임에 촉각...",
+      "matched": [],
+      "analysis": {
+        "summary": "국산 하이브리드차 EU 수출 연 10만 대 — EU 수입 제한 움직임에 촉각",
+        "impact": "유럽 수출 차질 위험",
+        "affected": "현대차·기아"
+      }
+    },
+    {
+      "id": "1f18179676",
+      "title": "Judge Tosses Trump’s $10 Billion Suit Against The Wall Street Journal",
+      "url": "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/01 06:01",
+      "published_iso": "2026-11-01T06:01:29+09:00",
+      "sort_key": 1793480489.0,
+      "excerpt": "The defamation suit focused on an article about a birthday note to Jeffrey Epstein. It was the president’s second attempt to claim the publication had acted with actual malice.",
+      "matched": [],
+      "analysis": {
+        "summary": "법원이 트럼프의 월스트리트저널 상대 100억 달러 소송을 기각",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "e6278e13f3",
+      "title": "F.D.A. Warns of Tractor Wheels Snack Bar Linked to Choking Hazard",
+      "url": "https://www.nytimes.com/2026/10/31/well/family/fda-tractor-wheels-choking-hazard.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/01 00:43",
+      "published_iso": "2026-11-01T00:43:44+09:00",
+      "sort_key": 1793461424.0,
+      "excerpt": "Once Upon a Farm has recalled its Tractor Wheels soft-baked bars after reports that toddlers could not breathe while eating them.",
+      "matched": [],
+      "analysis": {
+        "summary": "FDA가 질식 위험 유아 간식 바를 경고, 리콜",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "a4f6498adc",
+      "title": "What Does Running the N.Y.C. Marathon Sound Like?",
+      "url": "https://www.nytimes.com/video/business/100000011219428/what-does-running-the-nyc-marathon-sound-like.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/01 00:06",
+      "published_iso": "2026-11-01T00:06:50+09:00",
+      "sort_key": 1793459210.0,
+      "excerpt": "Mike Dang, a 10-time marathoner and New York Times business editor, relives the unique sonic experience of running the New York City Marathon.",
+      "matched": [],
+      "analysis": {
+        "summary": "뉴욕 마라톤을 소리로 느끼는 기사",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "801b6743df",
+      "title": "The New Hot Job in Law Doesn’t Require a J.D.",
+      "url": "https://www.nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/31 23:48",
+      "published_iso": "2026-10-31T23:48:29+09:00",
+      "sort_key": 1793458109.0,
+      "excerpt": "Big law firms, legal tech vendors, and in-house legal departments at companies like Microsoft and Nvidia are all hiring legal engineers, a new position for lawyers with A.I. skills.",
+      "matched": [],
+      "analysis": {
+        "summary": "법률 분야에서 변호사 자격 없이도 되는 인기 직업 등장",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "28228727da",
+      "title": "\"이게 무슨 조합?\"…케데헌·오겜·흑백요리사 한데 모인 이유 [류은혁의 유통기한]",
+      "url": "https://www.hankyung.com/article/202610306404i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/31 20:00",
+      "published_iso": "2026-10-31T20:00:02+09:00",
+      "sort_key": 1793444402.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "케데헌·오징어게임·흑백요리사가 한데 모인 유통 협업",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "b48175e24d",
+      "title": "Pick Another Protein? Americans Still Want Beef, Despite the Price.",
+      "url": "https://www.nytimes.com/2026/10/31/business/beef-prices-protein.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/31 18:02",
+      "published_iso": "2026-10-31T18:02:43+09:00",
+      "sort_key": 1793437363.0,
+      "excerpt": "After chicken, consumers are buying more beef, while pork, turkey and soy products remain flat.",
+      "matched": [],
+      "analysis": {
+        "summary": "가격이 올라도 미국인은 소고기를 계속 삼",
+        "impact": "시장 영향은 제한적",
+        "affected": "식품"
+      }
+    },
+    {
+      "id": "60dc60b639",
+      "title": "The U.S. Becomes a Global Hub for Horse Racing",
+      "url": "https://www.nytimes.com/2026/10/31/business/breeders-cup-thoroughbreds-keeneland-saratoga-sales.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/31 18:02",
+      "published_iso": "2026-10-31T18:02:10+09:00",
+      "sort_key": 1793437330.0,
+      "excerpt": "More horses from overseas are competing in America’s marquee events, as the sport enjoys a renaissance.",
+      "matched": [],
+      "analysis": {
+        "summary": "미국이 세계 경마의 중심지로",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "173cdfc28a",
+      "title": "Why Did So Many People File Early for Social Security Last Year?",
+      "url": "https://www.nytimes.com/2026/10/31/well/whats-behind-a-recent-spike-in-early-social-security-claims.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "10/31 18:01",
+      "published_iso": "2026-10-31T18:01:51+09:00",
+      "sort_key": 1793437311.0,
+      "excerpt": "Experts point to well-publicized turmoil at the government agency last year as a potential spark.",
+      "matched": [],
+      "analysis": {
+        "summary": "작년에 사회보장연금을 일찍 신청한 사람이 많았던 이유",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "bc916f01a0",
+      "title": "'이것' 하나 보러 150만명 몰렸다…연말마다 난리 나는 이유 [트렌드+]",
+      "url": "https://www.hankyung.com/article/202610305641g",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/31 18:00",
+      "published_iso": "2026-10-31T18:00:04+09:00",
+      "sort_key": 1793437204.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "연말마다 150만 명이 몰리는 행사",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "5e4b173f02",
+      "title": "한화, 미 해군함정 첫 수주…3600억 美 상륙함 건조한다",
+      "url": "https://www.hankyung.com/article/2026103176317",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/31 17:38",
+      "published_iso": "2026-10-31T17:38:17+09:00",
+      "sort_key": 1793435897.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "한화가 3,600억 원 규모 미 해군 상륙함 건조 첫 수주(이전 기사와 같은 내용)",
+        "impact": "한국 조선의 미국 방산 진출",
+        "affected": "한화오션"
+      }
+    },
+    {
+      "id": "2913fea669",
+      "title": "최태원, SK하닉·텔레콤 수뇌부 이끌고 샘 올트먼과 오찬회동",
+      "url": "https://www.hankyung.com/article/2026103175837",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/31 15:54",
+      "published_iso": "2026-10-31T15:54:12+09:00",
+      "sort_key": 1793429652.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "최태원 회장이 SK하이닉스·SK텔레콤 수뇌부와 샘 올트먼과 오찬 회동",
+        "impact": "AI 반도체 협력 기대",
+        "affected": "SK하이닉스"
+      }
+    },
+    {
+      "id": "d523028108",
+      "title": "하루 차이로 밥값 12만원 더 낸다…가격표 보고 놀란 이유",
+      "url": "https://www.hankyung.com/article/2026103175427",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/31 14:57",
+      "published_iso": "2026-10-31T14:57:12+09:00",
+      "sort_key": 1793426232.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "하루 차이로 밥값이 12만 원 더 비싼 이유",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "bee3967c4d",
+      "title": "\"경영진부터 AI 쓴다\"…올트먼 만난 삼성 사장단, 지식저장소 실습도",
+      "url": "https://www.hankyung.com/article/2026103175327",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "10/31 14:27",
+      "published_iso": "2026-10-31T14:27:47+09:00",
+      "sort_key": 1793424467.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "올트먼을 만난 삼성 사장단이 AI 지식저장소 실습",
+        "impact": "시장 영향은 제한적",
+        "affected": "삼성전자"
+      }
     }
-   },
-   {
-    "id": "e6278e13f3",
-    "title": "F.D.A. Warns of Tractor Wheels Snack Bar Linked to Choking Hazard",
-    "url": "https://www.nytimes.com/2026/10/31/well/family/fda-tractor-wheels-choking-hazard.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/01 00:43",
-    "published_iso": "2026-11-01T00:43:44+09:00",
-    "sort_key": 1793461424.0,
-    "excerpt": "Once Upon a Farm has recalled its Tractor Wheels soft-baked bars after reports that toddlers could not breathe while eating them.",
-    "matched": [],
-    "analysis": {
-     "summary": "FDA가 질식 위험 유아 간식 바를 경고, 리콜",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
+  ],
+  "news_groups": {
+    "국내 경제언론": [
+      {
+        "id": "f55fab6a8d",
+        "title": "\"11월 1조달러 돌파 확실\"…반도체 터지자 잭팟",
+        "url": "https://www.hankyung.com/article/202611018045i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 09:33",
+        "published_iso": "2026-11-01T09:33:08+09:00",
+        "sort_key": 1793493188.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "109a32bb09",
+        "title": "[AI위클리] AI 면접관의 등장…AI가 인간 능력을 평가한다",
+        "url": "https://www.yna.co.kr/view/AKR20261031036000017",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 09:30",
+        "published_iso": "2026-11-01T09:30:00+09:00",
+        "sort_key": 1793493000.0,
+        "excerpt": "(서울=연합뉴스) 박상현 기자 = 사원 채용을 돕는 인공지능(AI) 솔루션이 확산한 가운데 AI가 지원자의 실무 역량을 진단하는 AI 면접관까지...",
+        "matched": []
+      },
+      {
+        "id": "5ad4dc8e5d",
+        "title": "가업승계 문턱 높아진다…기업주 상속세 부담 대비해야",
+        "url": "https://www.hankyung.com/article/202610306546i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 09:24",
+        "published_iso": "2026-11-01T09:24:02+09:00",
+        "sort_key": 1793492642.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "323c5e152b",
+        "title": "한국 수출 첫 9000억달러 돌파…연수출 1조달러 보인다",
+        "url": "https://www.hankyung.com/article/2026110180397",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 09:20",
+        "published_iso": "2026-11-01T09:20:05+09:00",
+        "sort_key": 1793492405.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "f03bace29b",
+        "title": "현대홈쇼핑, 멤버십 제도 개편…매월 5% 할인 자동 적용",
+        "url": "https://www.yna.co.kr/view/AKR20261101015400030",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 09:17",
+        "published_iso": "2026-11-01T09:17:29+09:00",
+        "sort_key": 1793492249.0,
+        "excerpt": "(서울=연합뉴스) 이상서 기자 = 현대홈쇼핑은 오는 3일부터 구매 빈도와 금액이 높은 우수고객을 대상으로 멤버십 제도를 개편하고 혜택을 확대한다...",
+        "matched": []
+      },
+      {
+        "id": "b6a897beaf",
+        "title": "[2보] 한국 수출 첫 9천억달러 돌파…10월 1천153억달러",
+        "url": "https://www.yna.co.kr/view/AKR20261101015300003",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 09:16",
+        "published_iso": "2026-11-01T09:16:28+09:00",
+        "sort_key": 1793492188.0,
+        "excerpt": "(서울=연합뉴스) 신창용 기자 = 우리나라의 1∼10월 누적 수출액이 사상 처음으로 9천억달러를 돌파했다.",
+        "matched": []
+      },
+      {
+        "id": "99e40ae7ce",
+        "title": "활명수는 탄산음료로, 박카스는 젤리로…제약사 식품사업 확대",
+        "url": "https://www.yna.co.kr/view/AKR20261030123900017",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 09:13",
+        "published_iso": "2026-11-01T09:13:00+09:00",
+        "sort_key": 1793491980.0,
+        "excerpt": "(서울=연합뉴스) 신선미 기자 = 활명수 브랜드를 활용한 탄산음료부터 박카스의 향을 담은 젤리까지 국내 제약사들이 익숙한 브랜드를 바탕으로 식품...",
+        "matched": []
+      },
+      {
+        "id": "790c83325f",
+        "title": "[속보] 10월 무역수지 425억달러 흑자…2개월 연속 400억달러대",
+        "url": "https://www.yna.co.kr/view/AKR20261101014400003",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 09:01",
+        "published_iso": "2026-11-01T09:01:43+09:00",
+        "sort_key": 1793491303.0,
+        "excerpt": "(",
+        "matched": []
+      },
+      {
+        "id": "578a3a84e6",
+        "title": "[속보] 반도체 10월 수출 564억달러…2개월 연속 500억달러대",
+        "url": "https://www.yna.co.kr/view/AKR20261101014000003",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 09:00",
+        "published_iso": "2026-11-01T09:00:33+09:00",
+        "sort_key": 1793491233.0,
+        "excerpt": "(",
+        "matched": []
+      },
+      {
+        "id": "02a7817c01",
+        "title": "평창 청소년, 판교·서울서 AI·로봇 미래직업 탐색",
+        "url": "https://www.yna.co.kr/view/AKR20261030110200062",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 09:00",
+        "published_iso": "2026-11-01T09:00:09+09:00",
+        "sort_key": 1793491209.0,
+        "excerpt": "(평창=연합뉴스) 임보연 기자 = 강원 평창지역 청소년들이 판교와 서울을 찾아 인공지능(AI)·로봇 등 미래 산업과 관련 직업을 체험했다.",
+        "matched": []
+      },
+      {
+        "id": "95690f0881",
+        "title": "KB국민은행, 국내 최초 GPU 파이낸싱 금융주선 총괄",
+        "url": "https://www.yna.co.kr/view/AKR20261030166300002",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 09:00",
+        "published_iso": "2026-11-01T09:00:07+09:00",
+        "sort_key": 1793491207.0,
+        "excerpt": "(서울=연합뉴스) 한지훈 기자 = KB국민은행은 글로벌 대체투자 운용사 브룩필드가 추진하는 약 12조6천억원 규모의 인공지능(AI) 컴퓨팅 인프...",
+        "matched": []
+      },
+      {
+        "id": "8a72b55807",
+        "title": "美 중간선거에 1억7600만달러 쏟아부은 암호화폐 업계",
+        "url": "https://www.hankyung.com/article/202610306788i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 09:00",
+        "published_iso": "2026-11-01T09:00:05+09:00",
+        "sort_key": 1793491205.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "d2cad76b18",
+        "title": "\"1000만원 넣으면 2626만원 된다\"…퇴직연금族 솔깃한 이유 [김연지의 연금빌드업]",
+        "url": "https://www.hankyung.com/article/2026103065036",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 09:00",
+        "published_iso": "2026-11-01T09:00:02+09:00",
+        "sort_key": 1793491202.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "40454914bf",
+        "title": "러닝할 때 딱이네…\"30만원에도 없어서 못 산다\"는 삼성 신제품",
+        "url": "https://www.hankyung.com/article/2026110179467",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 08:27",
+        "published_iso": "2026-11-01T08:27:59+09:00",
+        "sort_key": 1793489279.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "20df41779a",
+        "title": "경기도, '드론·3D 기술'로 중대결함 교량 21곳 실태점검",
+        "url": "https://www.yna.co.kr/view/AKR20261030162700061",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 07:01",
+        "published_iso": "2026-11-01T07:01:03+09:00",
+        "sort_key": 1793484063.0,
+        "excerpt": "(수원=연합뉴스) 최찬흥 기자 = 경기도는 다음 달 31일까지 드론과 3D 모델링 등 첨단기술을 활용해 중대결함 교량의 안전관리 실태점검을 벌인...",
+        "matched": [],
+        "analysis": {
+          "summary": "경기도가 드론·3D로 중대결함 교량 21곳 점검",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "32ca789dfa",
+        "title": "기업을 키운 후계자의 기여는 어떻게 평가할 것인가 [서이헌의 법과 기업]",
+        "url": "https://www.hankyung.com/article/202610306527i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 07:00",
+        "published_iso": "2026-11-01T07:00:14+09:00",
+        "sort_key": 1793484014.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "기업을 키운 후계자의 기여를 어떻게 평가할지 다룬 칼럼",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "9fdac4de67",
+        "title": "\"키위 샀는데 너무 시다면\"…'이 과일' 옆에 두세요 [프라이스&]",
+        "url": "https://www.hankyung.com/article/202610317734i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 07:00",
+        "published_iso": "2026-11-01T07:00:05+09:00",
+        "sort_key": 1793484005.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "신 키위를 달게 만드는 법",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "9cd3414876",
+        "title": "잘 나가던 명품 '주춤'…가격 인상 피로감에 소비 열기 식나",
+        "url": "https://www.yna.co.kr/view/AKR20261031014700030",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 07:00",
+        "published_iso": "2026-11-01T07:00:03+09:00",
+        "sort_key": 1793484003.0,
+        "excerpt": "(서울=연합뉴스) 조민정 기자 = 해마다 가격을 올리며 성장해온 명품업계에 소비 둔화의 성장세가 둔화하고 있다.",
+        "matched": [],
+        "analysis": {
+          "summary": "매년 가격을 올리던 명품 소비가 주춤 — 가격 인상 피로감",
+          "impact": "명품 소비 둔화",
+          "affected": "명품·백화점"
+        }
+      },
+      {
+        "id": "03cd0ebcaa",
+        "title": "카카오 광고 메시지, 문자보다 더 믿는다…소비자 조사",
+        "url": "https://www.yna.co.kr/view/AKR20261030157800017",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 06:45",
+        "published_iso": "2026-11-01T06:45:00+09:00",
+        "sort_key": 1793483100.0,
+        "excerpt": "(서울=연합뉴스) 오지은 기자 = 카카오톡 브랜드메시지가 일반 문자메시지(SMS) 광고보다 소비자의 안전성 인식과 신뢰도 평가에서 2배 가까이 ...",
+        "matched": [],
+        "analysis": {
+          "summary": "카카오 브랜드메시지가 문자 광고보다 더 신뢰받는다는 조사",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "42e4d293ba",
+        "title": "이달 채권시장 전망은…수급 부담에도 위험회피발 강세 전망도",
+        "url": "https://www.yna.co.kr/view/AKR20261031019400008",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 06:30",
+        "published_iso": "2026-11-01T06:30:01+09:00",
+        "sort_key": 1793482201.0,
+        "excerpt": "(서울=연합뉴스) 강수지 기자 = 11월 국고채 발행 계획을 두고 채권시장의 평가가 엇갈린다.",
+        "matched": [],
+        "analysis": {
+          "summary": "11월 채권시장 전망 — 발행 부담에도 위험 회피로 강세 가능",
+          "impact": "국내 금리 방향 엇갈림",
+          "affected": "국고채"
+        }
+      },
+      {
+        "id": "2d2ef4d577",
+        "title": "다시 변동성 커지는 증시…코스피 지난달 -16%, 역대 일곱번째",
+        "url": "https://www.yna.co.kr/view/AKR20261031026200008",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 06:25",
+        "published_iso": "2026-11-01T06:25:00+09:00",
+        "sort_key": 1793481900.0,
+        "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 지난 7월부터 시작된 급락장 이후 한동안 박스권에 갇혀 잠잠했던 국내 증시의 변동성이 다시 커지는 흐름을 보이...",
+        "matched": [],
+        "analysis": {
+          "summary": "코스피가 지난달 16% 하락 — 역대 7번째로 큰 월간 낙폭, 변동성 다시 확대",
+          "impact": "국내 증시 약세·변동성 확대",
+          "affected": "코스피, 국내 주식 전반",
+          "important": true,
+          "important_tag": "거시경제",
+          "why_important": "코스피가 지난달 16% 하락 — 역대 7번째로 큰 월간 낙폭, 국내 증시 변동성 다시 확대"
+        }
+      },
+      {
+        "id": "a4720eb7ff",
+        "title": "새 분류체계로 본 업종별 체급…반도체-바이오 시총 10배 차",
+        "url": "https://www.yna.co.kr/view/AKR20261031030900008",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 06:20",
+        "published_iso": "2026-11-01T06:20:01+09:00",
+        "sort_key": 1793481601.0,
+        "excerpt": "(서울=연합뉴스) 김유아 기자 = 한국거래소가 개발한 산업분류체계 &apos;KRICS&apos;의 종목별 분류가 마무리되며 새 산업 지도가 완성된 가운데, 국내...",
+        "matched": [],
+        "analysis": {
+          "summary": "새 산업분류로 본 업종별 시총 — 반도체와 바이오 10배 차이",
+          "impact": "시장 영향은 제한적",
+          "affected": "국내 증시"
+        }
+      },
+      {
+        "id": "28d2a546ae",
+        "title": "10일중 8일 주가 같은 방향 삼전닉스…3분기 실적 땐 엇갈려",
+        "url": "https://www.yna.co.kr/view/AKR20261031000200008",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 06:15",
+        "published_iso": "2026-11-01T06:15:01+09:00",
+        "sort_key": 1793481301.0,
+        "excerpt": "(서울=연합뉴스) 김유향 기자 = 올해 들어 10거래일 중 8일꼴로 같은 방향으로 움직인 삼성전자[005930]와 SK하이닉스[000660] 주...",
+        "matched": [],
+        "analysis": {
+          "summary": "10일 중 8일 같은 방향이던 삼성전자·SK하이닉스, 3분기 실적 땐 엇갈림",
+          "impact": "시장 영향은 제한적",
+          "affected": "삼성전자, SK하이닉스"
+        }
+      },
+      {
+        "id": "ec4ff54d0e",
+        "title": "국산 하이브리드차 EU 수출 연 10만대…수입제한 움직임 촉각",
+        "url": "https://www.yna.co.kr/view/AKR20261031047500003",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/01 06:15",
+        "published_iso": "2026-11-01T06:15:00+09:00",
+        "sort_key": 1793481300.0,
+        "excerpt": "(서울=연합뉴스) 홍규빈 기자 = 매년 유럽연합(EU)에 하이브리드차 10만대 안팎을 수출하는 국내 자동차업계가 EU의 수입 제한 움직임에 촉각...",
+        "matched": [],
+        "analysis": {
+          "summary": "국산 하이브리드차 EU 수출 연 10만 대 — EU 수입 제한 움직임에 촉각",
+          "impact": "유럽 수출 차질 위험",
+          "affected": "현대차·기아"
+        }
+      },
+      {
+        "id": "28228727da",
+        "title": "\"이게 무슨 조합?\"…케데헌·오겜·흑백요리사 한데 모인 이유 [류은혁의 유통기한]",
+        "url": "https://www.hankyung.com/article/202610306404i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/31 20:00",
+        "published_iso": "2026-10-31T20:00:02+09:00",
+        "sort_key": 1793444402.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "케데헌·오징어게임·흑백요리사가 한데 모인 유통 협업",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "bc916f01a0",
+        "title": "'이것' 하나 보러 150만명 몰렸다…연말마다 난리 나는 이유 [트렌드+]",
+        "url": "https://www.hankyung.com/article/202610305641g",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/31 18:00",
+        "published_iso": "2026-10-31T18:00:04+09:00",
+        "sort_key": 1793437204.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "연말마다 150만 명이 몰리는 행사",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "5e4b173f02",
+        "title": "한화, 미 해군함정 첫 수주…3600억 美 상륙함 건조한다",
+        "url": "https://www.hankyung.com/article/2026103176317",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/31 17:38",
+        "published_iso": "2026-10-31T17:38:17+09:00",
+        "sort_key": 1793435897.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "한화가 3,600억 원 규모 미 해군 상륙함 건조 첫 수주(이전 기사와 같은 내용)",
+          "impact": "한국 조선의 미국 방산 진출",
+          "affected": "한화오션"
+        }
+      },
+      {
+        "id": "2913fea669",
+        "title": "최태원, SK하닉·텔레콤 수뇌부 이끌고 샘 올트먼과 오찬회동",
+        "url": "https://www.hankyung.com/article/2026103175837",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/31 15:54",
+        "published_iso": "2026-10-31T15:54:12+09:00",
+        "sort_key": 1793429652.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "최태원 회장이 SK하이닉스·SK텔레콤 수뇌부와 샘 올트먼과 오찬 회동",
+          "impact": "AI 반도체 협력 기대",
+          "affected": "SK하이닉스"
+        }
+      },
+      {
+        "id": "d523028108",
+        "title": "하루 차이로 밥값 12만원 더 낸다…가격표 보고 놀란 이유",
+        "url": "https://www.hankyung.com/article/2026103175427",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/31 14:57",
+        "published_iso": "2026-10-31T14:57:12+09:00",
+        "sort_key": 1793426232.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "하루 차이로 밥값이 12만 원 더 비싼 이유",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "bee3967c4d",
+        "title": "\"경영진부터 AI 쓴다\"…올트먼 만난 삼성 사장단, 지식저장소 실습도",
+        "url": "https://www.hankyung.com/article/2026103175327",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "10/31 14:27",
+        "published_iso": "2026-10-31T14:27:47+09:00",
+        "sort_key": 1793424467.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "올트먼을 만난 삼성 사장단이 AI 지식저장소 실습",
+          "impact": "시장 영향은 제한적",
+          "affected": "삼성전자"
+        }
+      }
+    ],
+    "해외 경제언론": [
+      {
+        "id": "0f42070470",
+        "title": "Chili’s Margaritas Rimmed With Degreaser Burn 5 People in North Carolina",
+        "url": "https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/01 09:08",
+        "published_iso": "2026-11-01T09:08:24+09:00",
+        "sort_key": 1793491704.0,
+        "excerpt": "Three customers and two employees were burned on and around their mouths after a granulated substance was mistaken for sugar, a health official said.",
+        "matched": []
+      },
+      {
+        "id": "501269b999",
+        "title": "How Binance’s $6.3 Billion Hack Went Down",
+        "url": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/01 07:19",
+        "published_iso": "2026-11-01T07:19:48+09:00",
+        "sort_key": 1793485188.0,
+        "excerpt": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange.",
+        "matched": [],
+        "analysis": {
+          "summary": "역대 최대 코인 해킹 바이낸스 63억 달러 사건의 전말",
+          "impact": "가상자산 시장 불안 지속",
+          "affected": "가상자산"
+        }
+      },
+      {
+        "id": "1f18179676",
+        "title": "Judge Tosses Trump’s $10 Billion Suit Against The Wall Street Journal",
+        "url": "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/01 06:01",
+        "published_iso": "2026-11-01T06:01:29+09:00",
+        "sort_key": 1793480489.0,
+        "excerpt": "The defamation suit focused on an article about a birthday note to Jeffrey Epstein. It was the president’s second attempt to claim the publication had acted with actual malice.",
+        "matched": [],
+        "analysis": {
+          "summary": "법원이 트럼프의 월스트리트저널 상대 100억 달러 소송을 기각",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "e6278e13f3",
+        "title": "F.D.A. Warns of Tractor Wheels Snack Bar Linked to Choking Hazard",
+        "url": "https://www.nytimes.com/2026/10/31/well/family/fda-tractor-wheels-choking-hazard.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/01 00:43",
+        "published_iso": "2026-11-01T00:43:44+09:00",
+        "sort_key": 1793461424.0,
+        "excerpt": "Once Upon a Farm has recalled its Tractor Wheels soft-baked bars after reports that toddlers could not breathe while eating them.",
+        "matched": [],
+        "analysis": {
+          "summary": "FDA가 질식 위험 유아 간식 바를 경고, 리콜",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "a4f6498adc",
+        "title": "What Does Running the N.Y.C. Marathon Sound Like?",
+        "url": "https://www.nytimes.com/video/business/100000011219428/what-does-running-the-nyc-marathon-sound-like.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/01 00:06",
+        "published_iso": "2026-11-01T00:06:50+09:00",
+        "sort_key": 1793459210.0,
+        "excerpt": "Mike Dang, a 10-time marathoner and New York Times business editor, relives the unique sonic experience of running the New York City Marathon.",
+        "matched": [],
+        "analysis": {
+          "summary": "뉴욕 마라톤을 소리로 느끼는 기사",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "801b6743df",
+        "title": "The New Hot Job in Law Doesn’t Require a J.D.",
+        "url": "https://www.nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/31 23:48",
+        "published_iso": "2026-10-31T23:48:29+09:00",
+        "sort_key": 1793458109.0,
+        "excerpt": "Big law firms, legal tech vendors, and in-house legal departments at companies like Microsoft and Nvidia are all hiring legal engineers, a new position for lawyers with A.I. skills.",
+        "matched": [],
+        "analysis": {
+          "summary": "법률 분야에서 변호사 자격 없이도 되는 인기 직업 등장",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "b48175e24d",
+        "title": "Pick Another Protein? Americans Still Want Beef, Despite the Price.",
+        "url": "https://www.nytimes.com/2026/10/31/business/beef-prices-protein.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/31 18:02",
+        "published_iso": "2026-10-31T18:02:43+09:00",
+        "sort_key": 1793437363.0,
+        "excerpt": "After chicken, consumers are buying more beef, while pork, turkey and soy products remain flat.",
+        "matched": [],
+        "analysis": {
+          "summary": "가격이 올라도 미국인은 소고기를 계속 삼",
+          "impact": "시장 영향은 제한적",
+          "affected": "식품"
+        }
+      },
+      {
+        "id": "60dc60b639",
+        "title": "The U.S. Becomes a Global Hub for Horse Racing",
+        "url": "https://www.nytimes.com/2026/10/31/business/breeders-cup-thoroughbreds-keeneland-saratoga-sales.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/31 18:02",
+        "published_iso": "2026-10-31T18:02:10+09:00",
+        "sort_key": 1793437330.0,
+        "excerpt": "More horses from overseas are competing in America’s marquee events, as the sport enjoys a renaissance.",
+        "matched": [],
+        "analysis": {
+          "summary": "미국이 세계 경마의 중심지로",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "173cdfc28a",
+        "title": "Why Did So Many People File Early for Social Security Last Year?",
+        "url": "https://www.nytimes.com/2026/10/31/well/whats-behind-a-recent-spike-in-early-social-security-claims.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "10/31 18:01",
+        "published_iso": "2026-10-31T18:01:51+09:00",
+        "sort_key": 1793437311.0,
+        "excerpt": "Experts point to well-publicized turmoil at the government agency last year as a potential spark.",
+        "matched": [],
+        "analysis": {
+          "summary": "작년에 사회보장연금을 일찍 신청한 사람이 많았던 이유",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      }
+    ]
+  },
+  "counts": {
+    "indices_ok": 8,
+    "indices_total": 8,
+    "stocks_ok": 9,
+    "stocks_total": 9,
+    "news": 39,
+    "news_new": 15
+  },
+  "errors": [
+    {
+      "stage": "news",
+      "target": "금융위원회 보도자료",
+      "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
     }
-   },
-   {
-    "id": "a4f6498adc",
-    "title": "What Does Running the N.Y.C. Marathon Sound Like?",
-    "url": "https://www.nytimes.com/video/business/100000011219428/what-does-running-the-nyc-marathon-sound-like.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/01 00:06",
-    "published_iso": "2026-11-01T00:06:50+09:00",
-    "sort_key": 1793459210.0,
-    "excerpt": "Mike Dang, a 10-time marathoner and New York Times business editor, relives the unique sonic experience of running the New York City Marathon.",
-    "matched": [],
-    "analysis": {
-     "summary": "뉴욕 마라톤을 소리로 느끼는 기사",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "801b6743df",
-    "title": "The New Hot Job in Law Doesn’t Require a J.D.",
-    "url": "https://www.nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/31 23:48",
-    "published_iso": "2026-10-31T23:48:29+09:00",
-    "sort_key": 1793458109.0,
-    "excerpt": "Big law firms, legal tech vendors, and in-house legal departments at companies like Microsoft and Nvidia are all hiring legal engineers, a new position for lawyers with A.I. skills.",
-    "matched": [],
-    "analysis": {
-     "summary": "법률 분야에서 변호사 자격 없이도 되는 인기 직업 등장",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "b48175e24d",
-    "title": "Pick Another Protein? Americans Still Want Beef, Despite the Price.",
-    "url": "https://www.nytimes.com/2026/10/31/business/beef-prices-protein.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/31 18:02",
-    "published_iso": "2026-10-31T18:02:43+09:00",
-    "sort_key": 1793437363.0,
-    "excerpt": "After chicken, consumers are buying more beef, while pork, turkey and soy products remain flat.",
-    "matched": [],
-    "analysis": {
-     "summary": "가격이 올라도 미국인은 소고기를 계속 삼",
-     "impact": "시장 영향은 제한적",
-     "affected": "식품"
-    }
-   },
-   {
-    "id": "60dc60b639",
-    "title": "The U.S. Becomes a Global Hub for Horse Racing",
-    "url": "https://www.nytimes.com/2026/10/31/business/breeders-cup-thoroughbreds-keeneland-saratoga-sales.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/31 18:02",
-    "published_iso": "2026-10-31T18:02:10+09:00",
-    "sort_key": 1793437330.0,
-    "excerpt": "More horses from overseas are competing in America’s marquee events, as the sport enjoys a renaissance.",
-    "matched": [],
-    "analysis": {
-     "summary": "미국이 세계 경마의 중심지로",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "173cdfc28a",
-    "title": "Why Did So Many People File Early for Social Security Last Year?",
-    "url": "https://www.nytimes.com/2026/10/31/well/whats-behind-a-recent-spike-in-early-social-security-claims.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "10/31 18:01",
-    "published_iso": "2026-10-31T18:01:51+09:00",
-    "sort_key": 1793437311.0,
-    "excerpt": "Experts point to well-publicized turmoil at the government agency last year as a potential spark.",
-    "matched": [],
-    "analysis": {
-     "summary": "작년에 사회보장연금을 일찍 신청한 사람이 많았던 이유",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   }
   ]
- },
- "counts": {
-  "indices_ok": 8,
-  "indices_total": 8,
-  "stocks_ok": 9,
-  "stocks_total": 9,
-  "news": 39,
-  "news_new": 15
- },
- "errors": [
-  {
-   "stage": "news",
-   "target": "금융위원회 보도자료",
-   "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
-  }
- ]
 }
