@@ -1,1821 +1,2703 @@
 {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03 07:26",
-  "weekday": "화",
-  "site": {
-    "title": "오늘의 경제 한 장",
-    "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
-    "author": "asqwkl3215",
-    "timezone_label": "KST",
-    "base_url": "https://marketbrief-byte.github.io"
+ "date": "2026-11-03",
+ "generated_at": "2026-11-03 12:26",
+ "weekday": "화",
+ "site": {
+  "title": "오늘의 경제 한 장",
+  "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
+  "author": "asqwkl3215",
+  "timezone_label": "KST",
+  "base_url": "https://marketbrief-byte.github.io"
+ },
+ "indices": [
+  {
+   "name": "코스피",
+   "symbol": "^KS11",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 5664.46,
+   "prev_close": 5638.34,
+   "change": 26.12,
+   "change_pct": 0.46,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793675190,
+   "asof_date": null
   },
-  "indices": [
+  {
+   "name": "코스닥",
+   "symbol": "^KQ11",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 711.77,
+   "prev_close": 743.83,
+   "change": -32.06,
+   "change_pct": -4.31,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793675190,
+   "asof_date": null
+  },
+  {
+   "name": "S&P 500",
+   "symbol": "^GSPC",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 7541.4,
+   "prev_close": 7676.77,
+   "change": -135.37,
+   "change_pct": -1.76,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793656259,
+   "asof_date": null
+  },
+  {
+   "name": "나스닥",
+   "symbol": "^IXIC",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 25164.363,
+   "prev_close": 26169.38,
+   "change": -1005.017,
+   "change_pct": -3.84,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793661495,
+   "asof_date": null
+  },
+  {
+   "name": "원/달러",
+   "symbol": "KRW=X",
+   "unit": "원",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 1339.88,
+   "prev_close": 1326.81,
+   "change": 13.07,
+   "change_pct": 0.99,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793676391,
+   "asof_date": null
+  },
+  {
+   "name": "미 10년 국채",
+   "symbol": "^TNX",
+   "unit": "%",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 4.894,
+   "prev_close": 4.993,
+   "change": -0.099,
+   "change_pct": -1.98,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793649591,
+   "asof_date": null
+  },
+  {
+   "name": "WTI 유가",
+   "symbol": "CL=F",
+   "unit": "$",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 96.6,
+   "prev_close": 102.78,
+   "change": -6.18,
+   "change_pct": -6.01,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793675780,
+   "asof_date": null
+  },
+  {
+   "name": "금",
+   "symbol": "GC=F",
+   "unit": "$",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 3951.3,
+   "prev_close": 4051.6,
+   "change": -100.3,
+   "change_pct": -2.48,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793675784,
+   "asof_date": null
+  }
+ ],
+ "watchlist": [
+  {
+   "name": "삼성전자",
+   "symbol": "005930.KS",
+   "unit": "",
+   "keywords": [
+    "삼성전자",
+    "Samsung Electronics",
+    "삼성 반도체"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 220000.0,
+   "prev_close": 222000.0,
+   "change": -2000.0,
+   "change_pct": -0.9,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793675186,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "SK하이닉스",
+   "symbol": "000660.KS",
+   "unit": "",
+   "keywords": [
+    "SK하이닉스",
+    "SK Hynix",
+    "하이닉스",
+    "HBM"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 1400000.0,
+   "prev_close": 1341000.0,
+   "change": 59000.0,
+   "change_pct": 4.4,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793675192,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "현대차",
+   "symbol": "005380.KS",
+   "unit": "",
+   "keywords": [
+    "현대차",
+    "현대자동차",
+    "Hyundai Motor"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 275500.0,
+   "prev_close": 290500.0,
+   "change": -15000.0,
+   "change_pct": -5.16,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793675192,
+   "asof_date": null,
+   "news": [
     {
-      "name": "코스피",
-      "symbol": "^KS11",
-      "unit": "pt",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 5859.08,
-      "prev_close": 5469.47,
-      "change": 389.61,
-      "change_pct": 7.12,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793617540,
-      "asof_date": null
-    },
-    {
-      "name": "코스닥",
-      "symbol": "^KQ11",
-      "unit": "pt",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 734.36,
-      "prev_close": 727.21,
-      "change": 7.15,
-      "change_pct": 0.98,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793617540,
-      "asof_date": null
-    },
-    {
-      "name": "S&P 500",
-      "symbol": "^GSPC",
-      "unit": "pt",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 7541.4,
-      "prev_close": 7676.77,
-      "change": -135.37,
-      "change_pct": -1.76,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793656259,
-      "asof_date": null
-    },
-    {
-      "name": "나스닥",
-      "symbol": "^IXIC",
-      "unit": "pt",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 25164.316,
-      "prev_close": 26169.38,
-      "change": -1005.064,
-      "change_pct": -3.84,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793657759,
-      "asof_date": null
-    },
-    {
-      "name": "원/달러",
-      "symbol": "KRW=X",
-      "unit": "원",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 1345.72,
-      "prev_close": 1324.77,
-      "change": 20.95,
-      "change_pct": 1.58,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793658398,
-      "asof_date": null
-    },
-    {
-      "name": "미 10년 국채",
-      "symbol": "^TNX",
-      "unit": "%",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 4.894,
-      "prev_close": 4.993,
-      "change": -0.099,
-      "change_pct": -1.98,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793649591,
-      "asof_date": null
-    },
-    {
-      "name": "WTI 유가",
-      "symbol": "CL=F",
-      "unit": "$",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 96.26,
-      "prev_close": 102.78,
-      "change": -6.52,
-      "change_pct": -6.34,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793656797,
-      "asof_date": null
-    },
-    {
-      "name": "금",
-      "symbol": "GC=F",
-      "unit": "$",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 3956.6,
-      "prev_close": 4051.6,
-      "change": -95.0,
-      "change_pct": -2.34,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793656799,
-      "asof_date": null
+     "id": "2d2d770654",
+     "title": "현대차, 대형·고급 정비거점 '그랜드 블루핸즈' 확대…29년까지 30곳 구축",
+     "url": "https://www.hankyung.com/article/202611032384g",
+     "source": "한국경제",
+     "published_kst": "11/03 10:54"
     }
-  ],
-  "watchlist": [
+   ]
+  },
+  {
+   "name": "LG에너지솔루션",
+   "symbol": "373220.KS",
+   "unit": "",
+   "keywords": [
+    "LG에너지솔루션",
+    "LG Energy Solution",
+    "이차전지",
+    "배터리"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 340500.0,
+   "prev_close": 382500.0,
+   "change": -42000.0,
+   "change_pct": -10.98,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793675191,
+   "asof_date": null,
+   "news": [
     {
-      "name": "삼성전자",
-      "symbol": "005930.KS",
-      "unit": "",
-      "keywords": [
-        "삼성전자",
-        "Samsung Electronics",
-        "삼성 반도체"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 229000.0,
-      "prev_close": 213000.0,
-      "change": 16000.0,
-      "change_pct": 7.51,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793601012,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "SK하이닉스",
-      "symbol": "000660.KS",
-      "unit": "",
-      "keywords": [
-        "SK하이닉스",
-        "SK Hynix",
-        "하이닉스",
-        "HBM"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 1472000.0,
-      "prev_close": 1275000.0,
-      "change": 197000.0,
-      "change_pct": 15.45,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793601004,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "현대차",
-      "symbol": "005380.KS",
-      "unit": "",
-      "keywords": [
-        "현대차",
-        "현대자동차",
-        "Hyundai Motor"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 287000.0,
-      "prev_close": 288000.0,
-      "change": -1000.0,
-      "change_pct": -0.35,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793601023,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "LG에너지솔루션",
-      "symbol": "373220.KS",
-      "unit": "",
-      "keywords": [
-        "LG에너지솔루션",
-        "LG Energy Solution",
-        "이차전지",
-        "배터리"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 356000.0,
-      "prev_close": 375000.0,
-      "change": -19000.0,
-      "change_pct": -5.07,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793601029,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "NAVER",
-      "symbol": "035420.KS",
-      "unit": "",
-      "keywords": [
-        "네이버",
-        "NAVER"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 175400.0,
-      "prev_close": 174200.0,
-      "change": 1200.0,
-      "change_pct": 0.69,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1793601021,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "엔비디아",
-      "symbol": "NVDA",
-      "unit": "",
-      "keywords": [
-        "엔비디아",
-        "Nvidia",
-        "NVDA"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 202.06,
-      "prev_close": 216.0,
-      "change": -13.94,
-      "change_pct": -6.45,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793653201,
-      "asof_date": null,
-      "news": [
-        {
-          "id": "b9e7753b4c",
-          "title": "美민주당 의회 장악하면…애플,엔비디아 등 조사받나?",
-          "url": "https://www.hankyung.com/article/202611021399i",
-          "source": "한국경제",
-          "published_kst": "11/02 23:28"
-        },
-        {
-          "id": "5a19e92782",
-          "title": "엔비디아가 찜한 마벨, 루멘텀 합병…154조원 AI반도체 빅딜",
-          "url": "https://www.hankyung.com/article/202611021336i",
-          "source": "한국경제",
-          "published_kst": "11/02 21:55"
-        },
-        {
-          "id": "160cee323a",
-          "title": "엔비디아 시총 제친 애플…월가는 \"주가 고평가\" 경고",
-          "url": "https://www.hankyung.com/article/202611021310i",
-          "source": "한국경제",
-          "published_kst": "11/02 21:11"
-        }
-      ]
-    },
-    {
-      "name": "애플",
-      "symbol": "AAPL",
-      "unit": "",
-      "keywords": [
-        "애플",
-        "Apple",
-        "AAPL"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 338.32,
-      "prev_close": 343.91,
-      "change": -5.59,
-      "change_pct": -1.63,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793653201,
-      "asof_date": null,
-      "news": [
-        {
-          "id": "b9e7753b4c",
-          "title": "美민주당 의회 장악하면…애플,엔비디아 등 조사받나?",
-          "url": "https://www.hankyung.com/article/202611021399i",
-          "source": "한국경제",
-          "published_kst": "11/02 23:28"
-        },
-        {
-          "id": "160cee323a",
-          "title": "엔비디아 시총 제친 애플…월가는 \"주가 고평가\" 경고",
-          "url": "https://www.hankyung.com/article/202611021310i",
-          "source": "한국경제",
-          "published_kst": "11/02 21:11"
-        }
-      ]
-    },
-    {
-      "name": "테슬라",
-      "symbol": "TSLA",
-      "unit": "",
-      "keywords": [
-        "테슬라",
-        "Tesla",
-        "TSLA"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 403.82,
-      "prev_close": 391.62,
-      "change": 12.2,
-      "change_pct": 3.12,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793653201,
-      "asof_date": null,
-      "news": []
-    },
-    {
-      "name": "마이크로소프트",
-      "symbol": "MSFT",
-      "unit": "",
-      "keywords": [
-        "마이크로소프트",
-        "Microsoft",
-        "MSFT"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 507.12,
-      "prev_close": 532.6,
-      "change": -25.48,
-      "change_pct": -4.78,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1793653201,
-      "asof_date": null,
-      "news": []
+     "id": "166e66762a",
+     "title": "한솔로지스틱스, 배터리 물류사업 확장…2분기 매출 2.7% 증가",
+     "url": "https://www.hankyung.com/article/202611032358i",
+     "source": "한국경제",
+     "published_kst": "11/03 10:40"
     }
-  ],
-  "news": [
+   ]
+  },
+  {
+   "name": "NAVER",
+   "symbol": "035420.KS",
+   "unit": "",
+   "keywords": [
+    "네이버",
+    "NAVER"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 169900.0,
+   "prev_close": 174300.0,
+   "change": -4400.0,
+   "change_pct": -2.52,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1793675192,
+   "asof_date": null,
+   "news": [
     {
-      "id": "d43289e094",
-      "title": "William Nordhaus Has Died. Nobelist Influenced Climate Policy.",
-      "url": "https://www.nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/03 07:19",
-      "published_iso": "2026-11-03T07:19:30+09:00",
-      "sort_key": 1793657970.0,
-      "excerpt": "The Yale professor moved climate change into mainstream economic analysis.",
-      "matched": [],
-      "analysis": {
-        "summary": "기후 정책에 영향을 준 노벨경제학상 수상자 윌리엄 노드하우스 별세",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "d51dfb0a56",
-      "title": "[머니톡스] 월급쟁이 노후 2층 퇴직연금…국민연금은 감당할 준비가 됐나",
-      "url": "https://www.yna.co.kr/view/AKR20261102067700546",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/03 07:07",
-      "published_iso": "2026-11-03T07:07:00+09:00",
-      "sort_key": 1793657220.0,
-      "excerpt": "(서울=연합뉴스) 윤선희 선임기자 = ＃ 월급쟁이의 노후는 국민연금, 퇴직연금, 개인연금 등 &apos;3층 연금 체계&apos;로 완성된다. 이는 1994년 세...",
-      "matched": [],
-      "analysis": {
-        "summary": "직장인 노후의 2층 퇴직연금 — 국민연금은 감당할 준비가 됐나 칼럼",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "9a51157da9",
-      "title": "[우분투칼럼] 아프리카의 신용은 누가 평가하는가",
-      "url": "https://www.yna.co.kr/view/AKR20261019077900898",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/03 07:00",
-      "published_iso": "2026-11-03T07:00:06+09:00",
-      "sort_key": 1793656806.0,
-      "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
-      "matched": [],
-      "analysis": {
-        "summary": "아프리카 국가 신용평가를 누가 하는지 다룬 칼럼",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "3aeea6ff45",
-      "title": "'이럴 거면 그냥 국산차 탈걸'…BYD 차주들 비명 터졌다",
-      "url": "https://www.hankyung.com/article/2026110210431",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/03 07:00",
-      "published_iso": "2026-11-03T07:00:04+09:00",
-      "sort_key": 1793656804.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "BYD 차주들이 품질·서비스 불만을 쏟아냄",
-        "impact": "중국 전기차 국내 평판 부담",
-        "affected": "BYD, 국내 완성차"
-      }
-    },
-    {
-      "id": "2b4b92e06f",
-      "title": "Are Freezers Being Hacked? Europe and the U.S. Military Are Investigating.",
-      "url": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/03 06:28",
-      "published_iso": "2026-11-03T06:28:04+09:00",
-      "sort_key": 1793654884.0,
-      "excerpt": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday.",
-      "matched": [],
-      "analysis": {
-        "summary": "유럽 식료품점 냉동고 장애를 사이버 공격으로 보고 유럽·미군이 조사",
-        "impact": "사이버 보안 위협 확대",
-        "affected": "유통, 보안"
-      }
-    },
-    {
-      "id": "2ebc456578",
-      "title": "He Pioneered a Groundbreaking Idea and Was Met With Corporate Wrath",
-      "url": "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/03 06:19",
-      "published_iso": "2026-11-03T06:19:57+09:00",
-      "sort_key": 1793654397.0,
-      "excerpt": "Economist William Nordhaus said putting a price on pollution was the best way to reduce climate change. Then came the fossil fuel lobby and the anti-tax movement.",
-      "matched": [],
-      "analysis": {
-        "summary": "탄소 가격제를 처음 주장해 기업 반발을 산 노드하우스(앞 기사와 같은 내용)",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "9d685cdf17",
-      "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-      "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-      "source": "CNBC Finance",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/03 06:13",
-      "published_iso": "2026-11-03T06:13:43+09:00",
-      "sort_key": 1793654023.0,
-      "excerpt": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
-      "matched": [],
-      "analysis": {
-        "summary": "예측시장에서 텍사스 주지사 선거가 접전으로 — 애벗 우세는 유지",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "70276c923c",
-      "title": "미·이란 협상 기대에 국제유가 7%대 급락…WTI 96달러선",
-      "url": "https://www.yna.co.kr/view/AKR20261103007851072",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/03 06:03",
-      "published_iso": "2026-11-03T06:03:41+09:00",
-      "sort_key": 1793653421.0,
-      "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 2일(현지시간) 미국과 이란 간 평화 협상 가능성이 제기되면서 국제유가가 7% 넘게 급락했다.",
-      "matched": [],
-      "analysis": {
-        "summary": "미국·이란 평화 협상 기대에 국제 유가 7%대 급락 — WTI 96달러선",
-        "impact": "에너지·운송비 부담 완화 — 물가·소매업에 긍정적",
-        "affected": "국제 유가, 항공·운송, 소매",
-        "important": true,
-        "important_tag": "거시경제",
-        "why_important": "미·이란 평화 협상 기대에 국제 유가 7% 급락(WTI 96달러) — 운송비 부담이 줄어 소매업에 숨통"
-      }
-    },
-    {
-      "id": "5e5f48fcc9",
-      "title": "세계경제 분절화 속 한일협력 필수…오늘 연합뉴스 미래경제포럼",
-      "url": "https://www.yna.co.kr/view/AKR20261102067200898",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/03 06:00",
-      "published_iso": "2026-11-03T06:00:12+09:00",
-      "sort_key": 1793653212.0,
-      "excerpt": "(서울=연합뉴스) 박성진 기자 = 국가기간뉴스통신사 연합뉴스가 3일 &apos;2026 미래경제포럼&apos;을 개최하고 세계 시장이 분절되는 상황에서 한일 협력...",
-      "matched": [],
-      "analysis": {
-        "summary": "연합뉴스 미래경제포럼 '세계 경제 분절화 속 한일 협력 필수'",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "6f56f0c639",
-      "title": "중기부, 청주서 '청소년 비즈쿨 페스티벌'…창업 성과 공유",
-      "url": "https://www.yna.co.kr/view/AKR20261102135700030",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/03 06:00",
-      "published_iso": "2026-11-03T06:00:11+09:00",
-      "sort_key": 1793653211.0,
-      "excerpt": "(서울=연합뉴스) 이상서 기자 = 중소벤처기업부는 3일부터 사흘간 충북 청주 오스코에서 청소년 창업교육 사업인 &apos;2026 청소년 비즈쿨 페스티벌...",
-      "matched": [],
-      "analysis": {
-        "summary": "중기부 청소년 비즈쿨 페스티벌",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "40cadde526",
-      "title": "공장 입지·규제 스마트폰으로 한눈에…업종별 맞춤 추천도",
-      "url": "https://www.yna.co.kr/view/AKR20261102149200003",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/03 06:00",
-      "published_iso": "2026-11-03T06:00:10+09:00",
-      "sort_key": 1793653210.0,
-      "excerpt": "(세종=연합뉴스) 오진송 기자 = 공장 지을 부지를 스마트폰으로 추천받고 현장에서 관련 규제와 인허가 요건까지 확인할 수 있게 됐다.",
-      "matched": [],
-      "analysis": {
-        "summary": "스마트폰으로 공장 입지·규제를 한눈에 확인하는 서비스",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "91508c83ef",
-      "title": "'광명 차은우' 뜨자 전국이 들썩…대기업까지 뛰어들었다 [권용훈의 트렌드워치]",
-      "url": "https://www.hankyung.com/article/202611020623i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/03 06:00",
-      "published_iso": "2026-11-03T06:00:10+09:00",
-      "sort_key": 1793653210.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "'광명 차은우' 열풍에 대기업까지 뛰어든 마케팅",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "46e60f4dae",
-      "title": "\"20대 '텍스트힙' 열풍에 서점 매출 9%↑…작은 책방은 감소\"",
-      "url": "https://www.yna.co.kr/view/AKR20261102167400002",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/03 05:57",
-      "published_iso": "2026-11-03T05:57:00+09:00",
-      "sort_key": 1793653020.0,
-      "excerpt": "(서울=연합뉴스) 김지연 기자 = 젊은 층 사이에서 &apos;텍스트힙&apos;(텍스트+힙하다) 열풍이 불면서 20대 서점 이용이 늘어난 것으로 나타났다.",
-      "matched": [],
-      "analysis": {
-        "summary": "20대 '텍스트힙' 열풍에 서점 매출 9% 증가, 작은 책방은 감소",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "6cf0231079",
-      "title": "포용금융 평가 앞두고…5대금융 전담조직 만들고 서민금융 늘려",
-      "url": "https://www.yna.co.kr/view/AKR20261102160100002",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/03 05:55",
-      "published_iso": "2026-11-03T05:55:00+09:00",
-      "sort_key": 1793652900.0,
-      "excerpt": "(서울=연합뉴스) 이도흔 기자 = 금융당국이 포용금융 실적을 종합적으로 평가하는 체계를 도입하면서 5대 금융지주가 전담 조직을 갖추고 서민금융 ...",
-      "matched": [],
-      "analysis": {
-        "summary": "포용금융 평가를 앞두고 5대 금융지주가 전담 조직·서민금융 확대",
-        "impact": "시장 영향은 제한적",
-        "affected": "금융지주"
-      }
-    },
-    {
-      "id": "0d7f17b03c",
-      "title": "Trump Administration Said to Plan Rolling Back Pregnancy-Related Job Protections",
-      "url": "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/03 05:44",
-      "published_iso": "2026-11-03T05:44:39+09:00",
-      "sort_key": 1793652279.0,
-      "excerpt": "The Biden era law was meant to help women stay in the workplace, but some conservatives say rules to enact it went too far with coverage for abortion and fertility treatment.",
-      "matched": [],
-      "analysis": {
-        "summary": "트럼프 정부가 임신 관련 직장 보호 규정 후퇴 계획",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "dd668d0c07",
-      "title": "Stock market after midterm elections: What S&P 500 history shows",
-      "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-      "source": "CNBC Finance",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/03 02:57",
-      "published_iso": "2026-11-03T02:57:35+09:00",
-      "sort_key": 1793642255.0,
-      "excerpt": "Midterms historically precede a strong year for the S&amp;P 500. What to know if Democrats win back Congress",
-      "matched": [],
-      "analysis": {
-        "summary": "중간선거 뒤 S&P 500은 역사적으로 강한 해를 보냈다는 분석",
-        "impact": "시장 영향은 제한적",
-        "affected": "미국 증시"
-      }
-    },
-    {
-      "id": "1eb03e64e9",
-      "title": "「의료데이터의 안전한 학습·검증·활용을 위한 국가 AI 인프라 구축」 포럼 개최",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079836",
-      "source": "재정경제부 보도자료",
-      "group": "국내 정책당국",
-      "lang": "ko",
-      "published_kst": "11/03 02:00",
-      "published_iso": "2026-11-03T02:00:45+09:00",
-      "sort_key": 1793638845.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "의료 데이터 국가 AI 인프라 구축 포럼",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "c898d39a15",
-      "title": "Trump’s Tariffs Are On the Ballot in Michigan",
-      "url": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/03 01:37",
-      "published_iso": "2026-11-03T01:37:50+09:00",
-      "sort_key": 1793637470.0,
-      "excerpt": "The levies as well as trade fighting with Canada are facing a test in the state, where voters appear skeptical of free trade but also of the president’s erratic approach.",
-      "matched": [],
-      "analysis": {
-        "summary": "미시간에서 트럼프 관세가 선거 쟁점",
-        "impact": "관세 정책 정치적 부담",
-        "affected": "미국 무역 정책"
-      }
-    },
-    {
-      "id": "a15e978a30",
-      "title": "Martha Stewart Apologizes for Homeless Halloween Costume",
-      "url": "https://www.nytimes.com/2026/11/02/style/martha-stewart-homeless-halloween-costume-apology.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/03 01:29",
-      "published_iso": "2026-11-03T01:29:24+09:00",
-      "sort_key": 1793636964.0,
-      "excerpt": "Stewart, the media mogul and entrepreneur, had posted a photo of a costume with tattered clothes and a sign asking for help.",
-      "matched": [],
-      "analysis": {
-        "summary": "마사 스튜어트가 노숙자 핼러윈 의상으로 사과",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "c5ba1d6d3e",
-      "title": "Anthropic Reveals Surging Revenue in Third Quarter as I.P.O. Approaches",
-      "url": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/03 00:48",
-      "published_iso": "2026-11-03T00:48:38+09:00",
-      "sort_key": 1793634518.0,
-      "excerpt": "The A.I. company’s quarterly revenue totaled $17 billion, 12 times higher than the same quarter a year ago, while its net loss totaled $23 billion.",
-      "matched": [],
-      "analysis": {
-        "summary": "Anthropic 3분기 매출 170억 달러 — 1년 전의 12배, 상장 앞두고 공개",
-        "impact": "AI 수요가 실제 매출로 확인 — AI 투자 회의론 일부 완화",
-        "affected": "AI 관련주, 클라우드, 반도체",
-        "important": true,
-        "important_tag": "산업·실적",
-        "why_important": "Anthropic 3분기 매출 170억 달러로 1년 새 12배 — AI 수요가 실제 매출로 확인"
-      }
-    },
-    {
-      "id": "53f3fb841f",
-      "title": "\"인텔, 저가 매수 신중\"…팔란티어, 월가 '긍정' vs 개인 '약세' [박신영의 개장전 요것만]",
-      "url": "https://www.hankyung.com/article/202611031416i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/03 00:23",
-      "published_iso": "2026-11-03T00:23:10+09:00",
-      "sort_key": 1793632990.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "'인텔 저가 매수 신중', 팔란티어는 월가 긍정 vs 개인 약세",
-        "impact": "시장 영향은 제한적",
-        "affected": "인텔, 팔란티어"
-      }
-    },
-    {
-      "id": "6b4630a3bf",
-      "title": "매출 12배 폭증에 순손실 140조원…앤스로픽 1.7조달러 가치 가능할까",
-      "url": "https://www.hankyung.com/article/202611021411i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/03 00:19",
-      "published_iso": "2026-11-03T00:19:46+09:00",
-      "sort_key": 1793632786.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "매출은 12배 늘었지만 순손실 140조 원 — Anthropic 1.7조 달러 가치 가능할까",
-        "impact": "AI 기업 가치 논쟁",
-        "affected": "AI 관련주"
-      }
-    },
-    {
-      "id": "2bbdae702e",
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/03 00:12",
-      "published_iso": "2026-11-03T00:12:22+09:00",
-      "sort_key": 1793632342.0,
-      "excerpt": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-      "matched": [],
-      "analysis": {
-        "summary": "유럽 7개국 상점 냉동고가 사이버 공격으로 최고 50도까지 올라감(앞 기사와 같은 내용)",
-        "impact": "사이버 보안 위협",
-        "affected": "유통"
-      }
-    },
-    {
-      "id": "916b249670",
-      "title": "How A.I. Is Making It Easier Than Ever to Microtarget Voters",
-      "url": "https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/02 23:55",
-      "published_iso": "2026-11-02T23:55:57+09:00",
-      "sort_key": 1793631357.0,
-      "excerpt": "Hyper-personalized messages, delivered with A.I.-enabled precision, herald a new frontier for voter outreach (and potential disinformation).",
-      "matched": [],
-      "analysis": {
-        "summary": "AI로 유권자 맞춤 메시지를 보내기 쉬워짐",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "b9e7753b4c",
-      "title": "美민주당 의회 장악하면…애플,엔비디아 등 조사받나?",
-      "url": "https://www.hankyung.com/article/202611021399i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/02 23:28",
-      "published_iso": "2026-11-02T23:28:08+09:00",
-      "sort_key": 1793629688.0,
-      "excerpt": "",
-      "matched": [
-        "NVDA",
-        "AAPL"
-      ],
-      "analysis": {
-        "summary": "미 민주당이 의회를 장악하면 애플·엔비디아 등이 조사받을지",
-        "impact": "빅테크 규제 위험",
-        "affected": "애플, 엔비디아"
-      }
-    },
-    {
-      "id": "4e5577e538",
-      "title": "Poundland's former owner offers to invest as minister prepares to meet board",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/02 22:40",
-      "published_iso": "2026-11-02T22:40:36+09:00",
-      "sort_key": 1793626836.0,
-      "excerpt": "Wolverhampton's Steve Smith says he attempted to contact Gordon Brothers but did not get a reply.",
-      "matched": [],
-      "analysis": {
-        "summary": "파운드랜드 전 주인이 투자 제안 — 장관이 이사회와 만날 예정",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "1d9724ac69",
-      "title": "48년 물 안 마시고 콜라만 마신 버핏…30년 들고 있는 '이 주식'",
-      "url": "https://www.hankyung.com/article/2026110213457",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/02 21:58",
-      "published_iso": "2026-11-02T21:58:07+09:00",
-      "sort_key": 1793624287.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "48년간 콜라만 마신 버핏이 30년 들고 있는 코카콜라",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "5a19e92782",
-      "title": "엔비디아가 찜한 마벨, 루멘텀 합병…154조원 AI반도체 빅딜",
-      "url": "https://www.hankyung.com/article/202611021336i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/02 21:55",
-      "published_iso": "2026-11-02T21:55:27+09:00",
-      "sort_key": 1793624127.0,
-      "excerpt": "",
-      "matched": [
-        "NVDA"
-      ],
-      "analysis": {
-        "summary": "엔비디아가 찜한 마벨이 루멘텀과 합병 — 154조 원 AI 반도체 빅딜",
-        "impact": "AI 광통신 부품 업계 재편",
-        "affected": "마벨, 루멘텀"
-      }
-    },
-    {
-      "id": "81f367f089",
-      "title": "Cracks in the A.I. Borrowing Binge",
-      "url": "https://www.nytimes.com/2026/11/02/business/dealbook/ai-borrowing-binge.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/02 21:36",
-      "published_iso": "2026-11-02T21:36:44+09:00",
-      "sort_key": 1793623004.0,
-      "excerpt": "Investors are growing increasingly concerned about the debt-fueled spending spree at the heart of the artificial intelligence buildout.",
-      "matched": [],
-      "analysis": {
-        "summary": "빚으로 하는 AI 투자에 금이 가기 시작 — 투자자 우려 확대",
-        "impact": "AI 인프라 신용 위험",
-        "affected": "AI 인프라, 회사채"
-      }
-    },
-    {
-      "id": "4652b6ad9b",
-      "title": "Ryanair says it may freeze workers' pay and raise airfares",
-      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/02 21:22",
-      "published_iso": "2026-11-02T21:22:10+09:00",
-      "sort_key": 1793622130.0,
-      "excerpt": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-      "matched": [],
-      "analysis": {
-        "summary": "라이언에어가 연료비 상승 시 임금 동결·항공료 인상 가능성 언급",
-        "impact": "항공업 비용 부담",
-        "affected": "항공주"
-      }
-    },
-    {
-      "id": "67d855b000",
-      "title": "금융지주 회장 연임 시 주총 의결요건 강화…3연임 땐 75% 찬성",
-      "url": "https://www.yna.co.kr/view/AKR20261102172400002",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/02 21:21",
-      "published_iso": "2026-11-02T21:21:47+09:00",
-      "sort_key": 1793622107.0,
-      "excerpt": "(서울=연합뉴스) 강수련 김지연 기자 = 금융당국이 금융지주 회장 연임 횟수가 늘어날수록 임원후보추천위원회(임추위)와 주주총회 의결 요건을 단계...",
-      "matched": [],
-      "analysis": {
-        "summary": "금융지주 회장 연임 시 주총 의결 요건 강화 — 3연임은 75% 찬성",
-        "impact": "금융지주 지배구조 개선",
-        "affected": "금융지주"
-      }
-    },
-    {
-      "id": "160cee323a",
-      "title": "엔비디아 시총 제친 애플…월가는 \"주가 고평가\" 경고",
-      "url": "https://www.hankyung.com/article/202611021310i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/02 21:11",
-      "published_iso": "2026-11-02T21:11:06+09:00",
-      "sort_key": 1793621466.0,
-      "excerpt": "",
-      "matched": [
-        "NVDA",
-        "AAPL"
-      ],
-      "analysis": {
-        "summary": "애플이 엔비디아 시가총액을 제쳤지만 월가는 '주가 고평가' 경고",
-        "impact": "빅테크 내 자금 이동",
-        "affected": "애플, 엔비디아",
-        "important": true,
-        "important_tag": "관심종목",
-        "why_important": "관심종목 애플이 엔비디아 시가총액을 제침 — 월가는 고평가 경고"
-      }
-    },
-    {
-      "id": "afde81d093",
-      "title": "Disneyland’s Autopia Ride Will Switch to Electric Vehicles",
-      "url": "https://www.nytimes.com/2026/11/02/climate/after-71-years-and-a-lot-of-exhaust-disneylands-autopia-goes-electric.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/02 21:08",
-      "published_iso": "2026-11-02T21:08:47+09:00",
-      "sort_key": 1793621327.0,
-      "excerpt": "The gas-powered engines in Disneyland’s Autopia ride weren’t properly certified. The little cars will be replaced by E.V.s.",
-      "matched": [],
-      "analysis": {
-        "summary": "디즈니랜드 오토피아 놀이기구가 전기차로 바뀜",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "632c984386",
-      "title": "보금자리론 10년 만기 금리 연 5%대 돌파",
-      "url": "https://www.hankyung.com/article/2026110212651",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/02 19:36",
-      "published_iso": "2026-11-02T19:36:12+09:00",
-      "sort_key": 1793615772.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "보금자리론 10년 만기 금리가 연 5%대 돌파",
-        "impact": "주택 대출 부담 증가",
-        "affected": "부동산, 은행"
-      }
-    },
-    {
-      "id": "6ea257f9b2",
-      "title": "美 민주, 중간선거 후 트럼프 관세 폐지 추진…한·일 대미투자금도 조사",
-      "url": "https://www.hankyung.com/article/202611021256i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/02 19:28",
-      "published_iso": "2026-11-02T19:28:51+09:00",
-      "sort_key": 1793615331.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "미 민주당이 중간선거 뒤 트럼프 관세 폐지 추진 — 한·일 대미 투자금도 조사",
-        "impact": "관세 정책 변화 가능성 — 한국 수출 기업에 변수",
-        "affected": "한국 수출주, 미국 무역 정책",
-        "important": true,
-        "important_tag": "정책·무역",
-        "why_important": "미 민주당이 중간선거 뒤 트럼프 관세 폐지 추진 — 한국 수출 기업에 큰 변수"
-      }
-    },
-    {
-      "id": "4a13b8e3b9",
-      "title": "How The New York Times Is Covering the Midterm Elections",
-      "url": "https://www.nytimes.com/2026/11/02/insider/new-york-times-midterm-elections.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/02 19:02",
-      "published_iso": "2026-11-02T19:02:41+09:00",
-      "sort_key": 1793613761.0,
-      "excerpt": "More than 400 journalists across at least 30 states will interview voters, break down results and identify trends.",
-      "matched": [],
-      "analysis": {
-        "summary": "뉴욕타임스의 중간선거 취재 방식",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "94f4352940",
-      "title": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal",
-      "url": "https://www.nytimes.com/2026/11/02/business/iran-war-gulf-economies.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/02 19:02",
-      "published_iso": "2026-11-02T19:02:16+09:00",
-      "sort_key": 1793613736.0,
-      "excerpt": "States like Saudi Arabia and the United Arab Emirates that have worked to rebalance from a dependence on energy have seen growth plunge in a year of strife.",
-      "matched": [],
-      "analysis": {
-        "summary": "이란 전쟁으로 흔들린 걸프 경제가 정상화를 간절히 원함",
-        "impact": "중동 경제 불안",
-        "affected": "국제 유가"
-      }
-    },
-    {
-      "id": "b167a27910",
-      "title": "호반, 한진칼 최대주주 가능성에…조원태, 주식 추가 매입키로(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261102091751003",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/02 18:56",
-      "published_iso": "2026-11-02T18:56:04+09:00",
-      "sort_key": 1793613364.0,
-      "excerpt": "(서울=연합뉴스) 장하나 임기창 기자 = 호반그룹이 한진그룹 지주사 한진칼 지분을 추가 매입하고 최대주주 해당 가능성과 관련해 공정거래위원회에 ...",
-      "matched": [],
-      "analysis": {
-        "summary": "호반그룹이 한진칼 최대주주가 될 가능성에 조원태 회장이 주식 추가 매입",
-        "impact": "한진칼 경영권 분쟁 가능성",
-        "affected": "한진칼, 대한항공"
-      }
-    },
-    {
-      "id": "329e1584b0",
-      "title": "與 민병덕 \"가상자산, 기본법도 없는데 과세할 수 없어\"",
-      "url": "https://www.yna.co.kr/view/AKR20261102162000002",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/02 18:51",
-      "published_iso": "2026-11-02T18:51:22+09:00",
-      "sort_key": 1793613082.0,
-      "excerpt": "(서울=연합뉴스) 박수현 기자 = 국내 가상자산 시장 경쟁력을 키우기 위해서는 과세를 유예하고 관련 입법 등 제도화부터 서둘러야 한다는 의견이 ...",
-      "matched": [],
-      "analysis": {
-        "summary": "여당 민병덕 '가상자산 기본법도 없는데 과세 못 해'",
-        "impact": "가상자산 과세 유예 가능성",
-        "affected": "가상자산"
-      }
-    },
-    {
-      "id": "0b8463b2fd",
-      "title": "바이낸스 해킹에…금융위, 가상자산거래소 신속 출금제한 방안 검토(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261102134651002",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/02 18:51",
-      "published_iso": "2026-11-02T18:51:09+09:00",
-      "sort_key": 1793613069.0,
-      "excerpt": "(서울=연합뉴스) 강수련 유동현 기자 = 금융위원회가 &apos;바이낸스 해킹 사고&apos;와 관련 국내 가상자산거래소를 긴급 소집해 준비금 추가 적립 등을 당...",
-      "matched": [],
-      "analysis": {
-        "summary": "바이낸스 해킹에 금융위가 국내 거래소 신속 출금 제한 방안 검토",
-        "impact": "국내 거래소 규제 강화",
-        "affected": "가상자산 거래소"
-      }
-    },
-    {
-      "id": "30d7d4cdf9",
-      "title": "정의선 만난 이형일…생산세액공제 등 전기차 경쟁력 강화 논의(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261102126151002",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/02 18:37",
-      "published_iso": "2026-11-02T18:37:43+09:00",
-      "sort_key": 1793612263.0,
-      "excerpt": "(서울·세종=연합뉴스) 장하나 김수현 기자 = 이형일 부총리 겸 재정경제부 장관이 정의선 현대차그룹 회장을 만나 전기차 경쟁력 강화방안 등을 논...",
-      "matched": [],
-      "analysis": {
-        "summary": "부총리가 정의선 회장과 생산세액공제 등 전기차 경쟁력 방안 논의",
-        "impact": "전기차 지원 정책 기대",
-        "affected": "현대차·기아"
-      }
-    },
-    {
-      "id": "ab4c32c288",
-      "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
-      "source": "유럽중앙은행(ECB)",
-      "group": "중앙은행·국제기구",
-      "lang": "en",
-      "published_kst": "11/02 18:30",
-      "published_iso": "2026-11-02T18:30:00+09:00",
-      "sort_key": 1793611800.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "ECB 부이치치 부총재 연설 — 분절되는 세계 속 유럽의 강점",
-        "impact": "시장 영향은 제한적",
-        "affected": "유로화"
-      }
-    },
-    {
-      "id": "643b639ea0",
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "url": "https://www.yna.co.kr/view/AKR20261102156900011",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/02 18:00",
-      "published_iso": "2026-11-02T18:00:00+09:00",
-      "sort_key": 1793610000.0,
-      "excerpt": "■ 개청 한달 아직도 &apos;검찰청&apos; 그늘 밑…갈길 먼 중수청·공소청",
-      "matched": [],
-      "analysis": {
-        "summary": "연합뉴스 18시 주요 뉴스 모음",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "4f7502d824",
-      "title": "강원 겨울관광 알리고 소비 늘리고…도·기업은행 맞손",
-      "url": "https://www.yna.co.kr/view/AKR20261102159200062",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/02 17:36",
-      "published_iso": "2026-11-02T17:36:09+09:00",
-      "sort_key": 1793608569.0,
-      "excerpt": "(춘천=연합뉴스) 이재현 기자 = 강원특별자치도와 IBK기업은행이 관광객 유치와 지역 내 소비 확대를 위해 손을 잡았다.",
-      "matched": [],
-      "analysis": {
-        "summary": "강원도·기업은행 겨울 관광·소비 확대 협약",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "3bb3016cf2",
-      "title": "\"대부업법 개편해야…불법사금융과 독립된 '대부금융업법' 필요\"",
-      "url": "https://www.yna.co.kr/view/AKR20261102141700002",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/02 17:32",
-      "published_iso": "2026-11-02T17:32:22+09:00",
-      "sort_key": 1793608342.0,
-      "excerpt": "(서울=연합뉴스) 강류나 기자 = 대부금융사를 불법사금융과 분리해 서민금융 공급자로서 자리잡도록 현행 대부업법을 개편하고 &apos;대부금융업법&apos;을 도입...",
-      "matched": [],
-      "analysis": {
-        "summary": "대부업법을 고쳐 '대부금융업법'을 따로 만들어야 한다는 제언",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
+     "id": "57cbbf522a",
+     "title": "'네이버-토스' 갈등 2차전…\"포스 연동 안해줬다\" 공정위 제소",
+     "url": "https://www.hankyung.com/article/202611032383i",
+     "source": "한국경제",
+     "published_kst": "11/03 11:03"
     }
+   ]
+  },
+  {
+   "name": "엔비디아",
+   "symbol": "NVDA",
+   "unit": "",
+   "keywords": [
+    "엔비디아",
+    "Nvidia",
+    "NVDA"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 202.06,
+   "prev_close": 216.0,
+   "change": -13.94,
+   "change_pct": -6.45,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793653201,
+   "asof_date": null,
+   "news": [
+    {
+     "id": "b9e7753b4c",
+     "title": "美민주당 의회 장악하면…애플,엔비디아 등 조사받나?",
+     "url": "https://www.hankyung.com/article/202611021399i",
+     "source": "한국경제",
+     "published_kst": "11/02 23:28"
+    },
+    {
+     "id": "5a19e92782",
+     "title": "엔비디아가 찜한 마벨, 루멘텀 합병…154조원 AI반도체 빅딜",
+     "url": "https://www.hankyung.com/article/202611021336i",
+     "source": "한국경제",
+     "published_kst": "11/02 21:55"
+    },
+    {
+     "id": "160cee323a",
+     "title": "엔비디아 시총 제친 애플…월가는 \"주가 고평가\" 경고",
+     "url": "https://www.hankyung.com/article/202611021310i",
+     "source": "한국경제",
+     "published_kst": "11/02 21:11"
+    }
+   ]
+  },
+  {
+   "name": "애플",
+   "symbol": "AAPL",
+   "unit": "",
+   "keywords": [
+    "애플",
+    "Apple",
+    "AAPL"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 338.32,
+   "prev_close": 343.91,
+   "change": -5.59,
+   "change_pct": -1.63,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793653201,
+   "asof_date": null,
+   "news": [
+    {
+     "id": "b9e7753b4c",
+     "title": "美민주당 의회 장악하면…애플,엔비디아 등 조사받나?",
+     "url": "https://www.hankyung.com/article/202611021399i",
+     "source": "한국경제",
+     "published_kst": "11/02 23:28"
+    },
+    {
+     "id": "160cee323a",
+     "title": "엔비디아 시총 제친 애플…월가는 \"주가 고평가\" 경고",
+     "url": "https://www.hankyung.com/article/202611021310i",
+     "source": "한국경제",
+     "published_kst": "11/02 21:11"
+    },
+    {
+     "id": "5b071ae017",
+     "title": "Apple unsure when more foldable iPhones will be available after selling out",
+     "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "published_kst": "11/03 09:29"
+    }
+   ]
+  },
+  {
+   "name": "테슬라",
+   "symbol": "TSLA",
+   "unit": "",
+   "keywords": [
+    "테슬라",
+    "Tesla",
+    "TSLA"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 403.82,
+   "prev_close": 391.62,
+   "change": 12.2,
+   "change_pct": 3.12,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793653201,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "마이크로소프트",
+   "symbol": "MSFT",
+   "unit": "",
+   "keywords": [
+    "마이크로소프트",
+    "Microsoft",
+    "MSFT"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 507.12,
+   "prev_close": 532.6,
+   "change": -25.48,
+   "change_pct": -4.78,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1793653201,
+   "asof_date": null,
+   "news": []
+  }
+ ],
+ "news": [
+  {
+   "id": "d4a904151d",
+   "title": "국제 신용평가사 Fitch, 한국 연례협의 실시",
+   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079837",
+   "source": "재정경제부 보도자료",
+   "group": "국내 정책당국",
+   "lang": "ko",
+   "published_kst": "11/03 19:00",
+   "published_iso": "2026-11-03T19:00:00+09:00",
+   "sort_key": 1793700000.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "bb0f04f178",
+   "title": "\"토핑 요거트 당류, 일반 요거트의 2∼3배…포화지방도 주의\"",
+   "url": "https://www.yna.co.kr/view/AKR20261102132900030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 12:00",
+   "published_iso": "2026-11-03T12:00:12+09:00",
+   "sort_key": 1793674812.0,
+   "excerpt": "(서울=연합뉴스) 조민정 기자 = 초콜릿이나 그래놀라 등을 넣은 토핑 요거트의 당류 함량이 일반 플레인 요거트보다 2∼3배 높은 것으로 나타났다...",
+   "matched": []
+  },
+  {
+   "id": "00e03e4914",
+   "title": "중기부, 성수동서 판로개척 성과보고회…팝업·오디션 개최",
+   "url": "https://www.yna.co.kr/view/AKR20261103066400030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 12:00",
+   "published_iso": "2026-11-03T12:00:11+09:00",
+   "sort_key": 1793674811.0,
+   "excerpt": "(서울=연합뉴스) 이상서 기자 = 중소벤처기업부는 오는 4∼8일 서울 성동구 성수동 일대에서 &apos;2026 소공인 판로개척 성과보고대회&apos;(소공인 디...",
+   "matched": []
+  },
+  {
+   "id": "894878eb4b",
+   "title": "국세청, 주식 양도세 더 낸 4천687명에게 21억원 돌려줘",
+   "url": "https://www.yna.co.kr/view/AKR20261103075200002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 12:00",
+   "published_iso": "2026-11-03T12:00:06+09:00",
+   "sort_key": 1793674806.0,
+   "excerpt": "(세종=연합뉴스) 송정은 기자 = 주식 양도소득세 신고 시 기본공제를 빠뜨려 세금을 더 낸 이들이 돈을 돌려받게 됐다.",
+   "matched": []
+  },
+  {
+   "id": "f2caa29e00",
+   "title": "\"요양시설 간호사 비중 10%p 확대되면 건보 진료비 7.7% 감소\"",
+   "url": "https://www.yna.co.kr/view/AKR20261103080000002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 12:00",
+   "published_iso": "2026-11-03T12:00:04+09:00",
+   "sort_key": 1793674804.0,
+   "excerpt": "(세종=연합뉴스) 김수현 기자 = 노인요양시설에서 간호조무사 대신 간호사 고용 비중이 확대되면 입소자의 요로감염, 욕창 등에 따른 의료 서비스 ...",
+   "matched": []
+  },
+  {
+   "id": "1290034b9e",
+   "title": "국고채 금리 일제히 하락…3년물 장중 연 3.726%",
+   "url": "https://www.yna.co.kr/view/AKR20261103093200008",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 11:41",
+   "published_iso": "2026-11-03T11:41:04+09:00",
+   "sort_key": 1793673664.0,
+   "excerpt": "(서울=연합뉴스) 3일 국고채 금리가 일제히 하락하고 있다.",
+   "matched": []
+  },
+  {
+   "id": "b44b7ea11c",
+   "title": "경찰, 토스증권 '기밀 유출' 의혹 넥스트증권 불송치 처분",
+   "url": "https://www.yna.co.kr/view/AKR20261103092700004",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 11:39",
+   "published_iso": "2026-11-03T11:39:15+09:00",
+   "sort_key": 1793673555.0,
+   "excerpt": "(서울=연합뉴스) 정지수 기자 = 토스증권이 넥스트증권을 상대로 제기한 영업기밀 유출 의혹과 관련해 경찰이 &apos;혐의없음&apos; 판단을 내렸다.",
+   "matched": []
+  },
+  {
+   "id": "9346108280",
+   "title": "여수시, 하도급 관리제 시행…외지 건설업체 수주 독식 타파",
+   "url": "https://www.yna.co.kr/view/AKR20261103092400054",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 11:37",
+   "published_iso": "2026-11-03T11:37:49+09:00",
+   "sort_key": 1793673469.0,
+   "excerpt": "(여수=연합뉴스) 손상원 기자 = 전남광주 여수시가 외지 대형건설업체의 수주 독식 구조를 깨고자 제도 개편에 나섰다.",
+   "matched": []
+  },
+  {
+   "id": "2440c756e5",
+   "title": "[부고] 문철상(전 신협중앙회장)씨 별세",
+   "url": "https://www.yna.co.kr/view/AKR20261103089800002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 11:37",
+   "published_iso": "2026-11-03T11:37:39+09:00",
+   "sort_key": 1793673459.0,
+   "excerpt": "▲ 문철상(제31대 신협중앙회장·향년 76세)씨 별세, 김경희씨 남편상, 문순환·윤선씨 부친상, 윤연지씨 시부상 = 2일, 군산 은파장례문화원 ...",
+   "matched": []
+  },
+  {
+   "id": "3be231f3d0",
+   "title": "\"이러다 中 전기차에 안방 내줄라\"…국산 점유율 첫 '절반 붕괴' [이슈+]",
+   "url": "https://www.hankyung.com/article/202611032191g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 11:14",
+   "published_iso": "2026-11-03T11:14:02+09:00",
+   "sort_key": 1793672042.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "a90103c504",
+   "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+   "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/03 11:11",
+   "published_iso": "2026-11-03T11:11:13+09:00",
+   "sort_key": 1793671873.0,
+   "excerpt": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+   "matched": []
+  },
+  {
+   "id": "57cbbf522a",
+   "title": "'네이버-토스' 갈등 2차전…\"포스 연동 안해줬다\" 공정위 제소",
+   "url": "https://www.hankyung.com/article/202611032383i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 11:03",
+   "published_iso": "2026-11-03T11:03:27+09:00",
+   "sort_key": 1793671407.0,
+   "excerpt": "",
+   "matched": [
+    "035420.KS"
+   ]
+  },
+  {
+   "id": "2d2d770654",
+   "title": "현대차, 대형·고급 정비거점 '그랜드 블루핸즈' 확대…29년까지 30곳 구축",
+   "url": "https://www.hankyung.com/article/202611032384g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 10:54",
+   "published_iso": "2026-11-03T10:54:22+09:00",
+   "sort_key": 1793670862.0,
+   "excerpt": "",
+   "matched": [
+    "005380.KS"
+   ]
+  },
+  {
+   "id": "3478414fc1",
+   "title": "\"한채아의 겨울 코디는?\"…세정 데일리스트, 신규 컬렉션 공개",
+   "url": "https://www.hankyung.com/article/202611032346g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 10:47",
+   "published_iso": "2026-11-03T10:47:50+09:00",
+   "sort_key": 1793670470.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "a7a9d009e6",
+   "title": "3000만원대 보급형 전기차…폭스바겐 폴로, 독일에서 돌풍",
+   "url": "https://www.hankyung.com/article/202611032371g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 10:47",
+   "published_iso": "2026-11-03T10:47:18+09:00",
+   "sort_key": 1793670438.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "166e66762a",
+   "title": "한솔로지스틱스, 배터리 물류사업 확장…2분기 매출 2.7% 증가",
+   "url": "https://www.hankyung.com/article/202611032358i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 10:40",
+   "published_iso": "2026-11-03T10:40:53+09:00",
+   "sort_key": 1793670053.0,
+   "excerpt": "",
+   "matched": [
+    "373220.KS"
+   ]
+  },
+  {
+   "id": "ee4c88ce77",
+   "title": "타타대우모빌리티, 수소엔진 탑재한 '맥쎈' 트랙터 시제품 전시",
+   "url": "https://www.hankyung.com/article/202611032316g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 10:38",
+   "published_iso": "2026-11-03T10:38:09+09:00",
+   "sort_key": 1793669889.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "bc1a60c389",
+   "title": "[단독] 하이트진로 '소맥캔' 낸다…주류업계 새 격전지로",
+   "url": "https://www.hankyung.com/article/202611032306i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 10:34",
+   "published_iso": "2026-11-03T10:34:48+09:00",
+   "sort_key": 1793669688.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "fde93fa8c4",
+   "title": "North Korea denies being behind record $6.3bn Binance hack",
+   "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/03 10:23",
+   "published_iso": "2026-11-03T10:23:03+09:00",
+   "sort_key": 1793668983.0,
+   "excerpt": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+   "matched": []
+  },
+  {
+   "id": "62a55797eb",
+   "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+   "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/03 09:41",
+   "published_iso": "2026-11-03T09:41:36+09:00",
+   "sort_key": 1793666496.0,
+   "excerpt": "The men and women who rummage through commercial bins to take clothes and other items.",
+   "matched": []
+  },
+  {
+   "id": "5b071ae017",
+   "title": "Apple unsure when more foldable iPhones will be available after selling out",
+   "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/03 09:29",
+   "published_iso": "2026-11-03T09:29:00+09:00",
+   "sort_key": 1793665740.0,
+   "excerpt": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
+   "matched": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "f39b2519e5",
+   "title": "물가관계차관회의 개최",
+   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079838",
+   "source": "재정경제부 보도자료",
+   "group": "국내 정책당국",
+   "lang": "ko",
+   "published_kst": "11/03 09:00",
+   "published_iso": "2026-11-03T09:00:00+09:00",
+   "sort_key": 1793664000.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "bd093de8e3",
+   "title": "'26.10월 소비자물가 동향",
+   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079839",
+   "source": "재정경제부 보도자료",
+   "group": "국내 정책당국",
+   "lang": "ko",
+   "published_kst": "11/03 09:00",
+   "published_iso": "2026-11-03T09:00:00+09:00",
+   "sort_key": 1793664000.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "d43289e094",
+   "title": "William Nordhaus Has Died. Nobelist Influenced Climate Policy.",
+   "url": "https://www.nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/03 07:19",
+   "published_iso": "2026-11-03T07:19:30+09:00",
+   "sort_key": 1793657970.0,
+   "excerpt": "The Yale professor moved climate change into mainstream economic analysis.",
+   "matched": [],
+   "analysis": {
+    "summary": "기후 정책에 영향을 준 노벨경제학상 수상자 윌리엄 노드하우스 별세",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "d51dfb0a56",
+   "title": "[머니톡스] 월급쟁이 노후 2층 퇴직연금…국민연금은 감당할 준비가 됐나",
+   "url": "https://www.yna.co.kr/view/AKR20261102067700546",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 07:07",
+   "published_iso": "2026-11-03T07:07:00+09:00",
+   "sort_key": 1793657220.0,
+   "excerpt": "(서울=연합뉴스) 윤선희 선임기자 = ＃ 월급쟁이의 노후는 국민연금, 퇴직연금, 개인연금 등 &apos;3층 연금 체계&apos;로 완성된다. 이는 1994년 세...",
+   "matched": [],
+   "analysis": {
+    "summary": "직장인 노후의 2층 퇴직연금 — 국민연금은 감당할 준비가 됐나 칼럼",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "9a51157da9",
+   "title": "[우분투칼럼] 아프리카의 신용은 누가 평가하는가",
+   "url": "https://www.yna.co.kr/view/AKR20261019077900898",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 07:00",
+   "published_iso": "2026-11-03T07:00:06+09:00",
+   "sort_key": 1793656806.0,
+   "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
+   "matched": [],
+   "analysis": {
+    "summary": "아프리카 국가 신용평가를 누가 하는지 다룬 칼럼",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "3aeea6ff45",
+   "title": "'이럴 거면 그냥 국산차 탈걸'…BYD 차주들 비명 터졌다",
+   "url": "https://www.hankyung.com/article/2026110210431",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 07:00",
+   "published_iso": "2026-11-03T07:00:04+09:00",
+   "sort_key": 1793656804.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "BYD 차주들이 품질·서비스 불만을 쏟아냄",
+    "impact": "중국 전기차 국내 평판 부담",
+    "affected": "BYD, 국내 완성차"
+   }
+  },
+  {
+   "id": "2b4b92e06f",
+   "title": "Are Freezers Being Hacked? Europe and the U.S. Military Are Investigating.",
+   "url": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/03 06:28",
+   "published_iso": "2026-11-03T06:28:04+09:00",
+   "sort_key": 1793654884.0,
+   "excerpt": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday.",
+   "matched": [],
+   "analysis": {
+    "summary": "유럽 식료품점 냉동고 장애를 사이버 공격으로 보고 유럽·미군이 조사",
+    "impact": "사이버 보안 위협 확대",
+    "affected": "유통, 보안"
+   }
+  },
+  {
+   "id": "2ebc456578",
+   "title": "He Pioneered a Groundbreaking Idea and Was Met With Corporate Wrath",
+   "url": "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/03 06:19",
+   "published_iso": "2026-11-03T06:19:57+09:00",
+   "sort_key": 1793654397.0,
+   "excerpt": "Economist William Nordhaus said putting a price on pollution was the best way to reduce climate change. Then came the fossil fuel lobby and the anti-tax movement.",
+   "matched": [],
+   "analysis": {
+    "summary": "탄소 가격제를 처음 주장해 기업 반발을 산 노드하우스(앞 기사와 같은 내용)",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "9d685cdf17",
+   "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+   "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+   "source": "CNBC Finance",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/03 06:13",
+   "published_iso": "2026-11-03T06:13:43+09:00",
+   "sort_key": 1793654023.0,
+   "excerpt": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
+   "matched": [],
+   "analysis": {
+    "summary": "예측시장에서 텍사스 주지사 선거가 접전으로 — 애벗 우세는 유지",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "70276c923c",
+   "title": "미·이란 협상 기대에 국제유가 7%대 급락…WTI 96달러선",
+   "url": "https://www.yna.co.kr/view/AKR20261103007851072",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 06:03",
+   "published_iso": "2026-11-03T06:03:41+09:00",
+   "sort_key": 1793653421.0,
+   "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 2일(현지시간) 미국과 이란 간 평화 협상 가능성이 제기되면서 국제유가가 7% 넘게 급락했다.",
+   "matched": [],
+   "analysis": {
+    "summary": "미국·이란 평화 협상 기대에 국제 유가 7%대 급락 — WTI 96달러선",
+    "impact": "에너지·운송비 부담 완화 — 물가·소매업에 긍정적",
+    "affected": "국제 유가, 항공·운송, 소매",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "미·이란 평화 협상 기대에 국제 유가 7% 급락(WTI 96달러) — 운송비 부담이 줄어 소매업에 숨통"
+   }
+  },
+  {
+   "id": "5e5f48fcc9",
+   "title": "세계경제 분절화 속 한일협력 필수…오늘 연합뉴스 미래경제포럼",
+   "url": "https://www.yna.co.kr/view/AKR20261102067200898",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 06:00",
+   "published_iso": "2026-11-03T06:00:12+09:00",
+   "sort_key": 1793653212.0,
+   "excerpt": "(서울=연합뉴스) 박성진 기자 = 국가기간뉴스통신사 연합뉴스가 3일 &apos;2026 미래경제포럼&apos;을 개최하고 세계 시장이 분절되는 상황에서 한일 협력...",
+   "matched": [],
+   "analysis": {
+    "summary": "연합뉴스 미래경제포럼 '세계 경제 분절화 속 한일 협력 필수'",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "6f56f0c639",
+   "title": "중기부, 청주서 '청소년 비즈쿨 페스티벌'…창업 성과 공유",
+   "url": "https://www.yna.co.kr/view/AKR20261102135700030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 06:00",
+   "published_iso": "2026-11-03T06:00:11+09:00",
+   "sort_key": 1793653211.0,
+   "excerpt": "(서울=연합뉴스) 이상서 기자 = 중소벤처기업부는 3일부터 사흘간 충북 청주 오스코에서 청소년 창업교육 사업인 &apos;2026 청소년 비즈쿨 페스티벌...",
+   "matched": [],
+   "analysis": {
+    "summary": "중기부 청소년 비즈쿨 페스티벌",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "40cadde526",
+   "title": "공장 입지·규제 스마트폰으로 한눈에…업종별 맞춤 추천도",
+   "url": "https://www.yna.co.kr/view/AKR20261102149200003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 06:00",
+   "published_iso": "2026-11-03T06:00:10+09:00",
+   "sort_key": 1793653210.0,
+   "excerpt": "(세종=연합뉴스) 오진송 기자 = 공장 지을 부지를 스마트폰으로 추천받고 현장에서 관련 규제와 인허가 요건까지 확인할 수 있게 됐다.",
+   "matched": [],
+   "analysis": {
+    "summary": "스마트폰으로 공장 입지·규제를 한눈에 확인하는 서비스",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "91508c83ef",
+   "title": "'광명 차은우' 뜨자 전국이 들썩…대기업까지 뛰어들었다 [권용훈의 트렌드워치]",
+   "url": "https://www.hankyung.com/article/202611020623i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 06:00",
+   "published_iso": "2026-11-03T06:00:10+09:00",
+   "sort_key": 1793653210.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "'광명 차은우' 열풍에 대기업까지 뛰어든 마케팅",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "46e60f4dae",
+   "title": "\"20대 '텍스트힙' 열풍에 서점 매출 9%↑…작은 책방은 감소\"",
+   "url": "https://www.yna.co.kr/view/AKR20261102167400002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 05:57",
+   "published_iso": "2026-11-03T05:57:00+09:00",
+   "sort_key": 1793653020.0,
+   "excerpt": "(서울=연합뉴스) 김지연 기자 = 젊은 층 사이에서 &apos;텍스트힙&apos;(텍스트+힙하다) 열풍이 불면서 20대 서점 이용이 늘어난 것으로 나타났다.",
+   "matched": [],
+   "analysis": {
+    "summary": "20대 '텍스트힙' 열풍에 서점 매출 9% 증가, 작은 책방은 감소",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "6cf0231079",
+   "title": "포용금융 평가 앞두고…5대금융 전담조직 만들고 서민금융 늘려",
+   "url": "https://www.yna.co.kr/view/AKR20261102160100002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 05:55",
+   "published_iso": "2026-11-03T05:55:00+09:00",
+   "sort_key": 1793652900.0,
+   "excerpt": "(서울=연합뉴스) 이도흔 기자 = 금융당국이 포용금융 실적을 종합적으로 평가하는 체계를 도입하면서 5대 금융지주가 전담 조직을 갖추고 서민금융 ...",
+   "matched": [],
+   "analysis": {
+    "summary": "포용금융 평가를 앞두고 5대 금융지주가 전담 조직·서민금융 확대",
+    "impact": "시장 영향은 제한적",
+    "affected": "금융지주"
+   }
+  },
+  {
+   "id": "0d7f17b03c",
+   "title": "Trump Administration Said to Plan Rolling Back Pregnancy-Related Job Protections",
+   "url": "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/03 05:44",
+   "published_iso": "2026-11-03T05:44:39+09:00",
+   "sort_key": 1793652279.0,
+   "excerpt": "The Biden era law was meant to help women stay in the workplace, but some conservatives say rules to enact it went too far with coverage for abortion and fertility treatment.",
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프 정부가 임신 관련 직장 보호 규정 후퇴 계획",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "dd668d0c07",
+   "title": "Stock market after midterm elections: What S&P 500 history shows",
+   "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+   "source": "CNBC Finance",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/03 02:57",
+   "published_iso": "2026-11-03T02:57:35+09:00",
+   "sort_key": 1793642255.0,
+   "excerpt": "Midterms historically precede a strong year for the S&amp;P 500. What to know if Democrats win back Congress",
+   "matched": [],
+   "analysis": {
+    "summary": "중간선거 뒤 S&P 500은 역사적으로 강한 해를 보냈다는 분석",
+    "impact": "시장 영향은 제한적",
+    "affected": "미국 증시"
+   }
+  },
+  {
+   "id": "1eb03e64e9",
+   "title": "「의료데이터의 안전한 학습·검증·활용을 위한 국가 AI 인프라 구축」 포럼 개최",
+   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079836",
+   "source": "재정경제부 보도자료",
+   "group": "국내 정책당국",
+   "lang": "ko",
+   "published_kst": "11/03 02:00",
+   "published_iso": "2026-11-03T02:00:45+09:00",
+   "sort_key": 1793638845.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "의료 데이터 국가 AI 인프라 구축 포럼",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "c898d39a15",
+   "title": "Trump’s Tariffs Are On the Ballot in Michigan",
+   "url": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/03 01:37",
+   "published_iso": "2026-11-03T01:37:50+09:00",
+   "sort_key": 1793637470.0,
+   "excerpt": "The levies as well as trade fighting with Canada are facing a test in the state, where voters appear skeptical of free trade but also of the president’s erratic approach.",
+   "matched": [],
+   "analysis": {
+    "summary": "미시간에서 트럼프 관세가 선거 쟁점",
+    "impact": "관세 정책 정치적 부담",
+    "affected": "미국 무역 정책"
+   }
+  },
+  {
+   "id": "a15e978a30",
+   "title": "Martha Stewart Apologizes for Homeless Halloween Costume",
+   "url": "https://www.nytimes.com/2026/11/02/style/martha-stewart-homeless-halloween-costume-apology.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/03 01:29",
+   "published_iso": "2026-11-03T01:29:24+09:00",
+   "sort_key": 1793636964.0,
+   "excerpt": "Stewart, the media mogul and entrepreneur, had posted a photo of a costume with tattered clothes and a sign asking for help.",
+   "matched": [],
+   "analysis": {
+    "summary": "마사 스튜어트가 노숙자 핼러윈 의상으로 사과",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "c5ba1d6d3e",
+   "title": "Anthropic Reveals Surging Revenue in Third Quarter as I.P.O. Approaches",
+   "url": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/03 00:48",
+   "published_iso": "2026-11-03T00:48:38+09:00",
+   "sort_key": 1793634518.0,
+   "excerpt": "The A.I. company’s quarterly revenue totaled $17 billion, 12 times higher than the same quarter a year ago, while its net loss totaled $23 billion.",
+   "matched": [],
+   "analysis": {
+    "summary": "Anthropic 3분기 매출 170억 달러 — 1년 전의 12배, 상장 앞두고 공개",
+    "impact": "AI 수요가 실제 매출로 확인 — AI 투자 회의론 일부 완화",
+    "affected": "AI 관련주, 클라우드, 반도체",
+    "important": true,
+    "important_tag": "산업·실적",
+    "why_important": "Anthropic 3분기 매출 170억 달러로 1년 새 12배 — AI 수요가 실제 매출로 확인"
+   }
+  },
+  {
+   "id": "53f3fb841f",
+   "title": "\"인텔, 저가 매수 신중\"…팔란티어, 월가 '긍정' vs 개인 '약세' [박신영의 개장전 요것만]",
+   "url": "https://www.hankyung.com/article/202611031416i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 00:23",
+   "published_iso": "2026-11-03T00:23:10+09:00",
+   "sort_key": 1793632990.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "'인텔 저가 매수 신중', 팔란티어는 월가 긍정 vs 개인 약세",
+    "impact": "시장 영향은 제한적",
+    "affected": "인텔, 팔란티어"
+   }
+  },
+  {
+   "id": "6b4630a3bf",
+   "title": "매출 12배 폭증에 순손실 140조원…앤스로픽 1.7조달러 가치 가능할까",
+   "url": "https://www.hankyung.com/article/202611021411i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/03 00:19",
+   "published_iso": "2026-11-03T00:19:46+09:00",
+   "sort_key": 1793632786.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "매출은 12배 늘었지만 순손실 140조 원 — Anthropic 1.7조 달러 가치 가능할까",
+    "impact": "AI 기업 가치 논쟁",
+    "affected": "AI 관련주"
+   }
+  },
+  {
+   "id": "2bbdae702e",
+   "title": "Shop freezers in seven European countries hit by cyber-attack",
+   "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/03 00:12",
+   "published_iso": "2026-11-03T00:12:22+09:00",
+   "sort_key": 1793632342.0,
+   "excerpt": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+   "matched": [],
+   "analysis": {
+    "summary": "유럽 7개국 상점 냉동고가 사이버 공격으로 최고 50도까지 올라감(앞 기사와 같은 내용)",
+    "impact": "사이버 보안 위협",
+    "affected": "유통"
+   }
+  },
+  {
+   "id": "916b249670",
+   "title": "How A.I. Is Making It Easier Than Ever to Microtarget Voters",
+   "url": "https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/02 23:55",
+   "published_iso": "2026-11-02T23:55:57+09:00",
+   "sort_key": 1793631357.0,
+   "excerpt": "Hyper-personalized messages, delivered with A.I.-enabled precision, herald a new frontier for voter outreach (and potential disinformation).",
+   "matched": [],
+   "analysis": {
+    "summary": "AI로 유권자 맞춤 메시지를 보내기 쉬워짐",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "b9e7753b4c",
+   "title": "美민주당 의회 장악하면…애플,엔비디아 등 조사받나?",
+   "url": "https://www.hankyung.com/article/202611021399i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/02 23:28",
+   "published_iso": "2026-11-02T23:28:08+09:00",
+   "sort_key": 1793629688.0,
+   "excerpt": "",
+   "matched": [
+    "NVDA",
+    "AAPL"
+   ],
+   "analysis": {
+    "summary": "미 민주당이 의회를 장악하면 애플·엔비디아 등이 조사받을지",
+    "impact": "빅테크 규제 위험",
+    "affected": "애플, 엔비디아"
+   }
+  },
+  {
+   "id": "4e5577e538",
+   "title": "Poundland's former owner offers to invest as minister prepares to meet board",
+   "url": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/02 22:40",
+   "published_iso": "2026-11-02T22:40:36+09:00",
+   "sort_key": 1793626836.0,
+   "excerpt": "Wolverhampton's Steve Smith says he attempted to contact Gordon Brothers but did not get a reply.",
+   "matched": [],
+   "analysis": {
+    "summary": "파운드랜드 전 주인이 투자 제안 — 장관이 이사회와 만날 예정",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "1d9724ac69",
+   "title": "48년 물 안 마시고 콜라만 마신 버핏…30년 들고 있는 '이 주식'",
+   "url": "https://www.hankyung.com/article/2026110213457",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/02 21:58",
+   "published_iso": "2026-11-02T21:58:07+09:00",
+   "sort_key": 1793624287.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "48년간 콜라만 마신 버핏이 30년 들고 있는 코카콜라",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "5a19e92782",
+   "title": "엔비디아가 찜한 마벨, 루멘텀 합병…154조원 AI반도체 빅딜",
+   "url": "https://www.hankyung.com/article/202611021336i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/02 21:55",
+   "published_iso": "2026-11-02T21:55:27+09:00",
+   "sort_key": 1793624127.0,
+   "excerpt": "",
+   "matched": [
+    "NVDA"
+   ],
+   "analysis": {
+    "summary": "엔비디아가 찜한 마벨이 루멘텀과 합병 — 154조 원 AI 반도체 빅딜",
+    "impact": "AI 광통신 부품 업계 재편",
+    "affected": "마벨, 루멘텀"
+   }
+  },
+  {
+   "id": "81f367f089",
+   "title": "Cracks in the A.I. Borrowing Binge",
+   "url": "https://www.nytimes.com/2026/11/02/business/dealbook/ai-borrowing-binge.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/02 21:36",
+   "published_iso": "2026-11-02T21:36:44+09:00",
+   "sort_key": 1793623004.0,
+   "excerpt": "Investors are growing increasingly concerned about the debt-fueled spending spree at the heart of the artificial intelligence buildout.",
+   "matched": [],
+   "analysis": {
+    "summary": "빚으로 하는 AI 투자에 금이 가기 시작 — 투자자 우려 확대",
+    "impact": "AI 인프라 신용 위험",
+    "affected": "AI 인프라, 회사채"
+   }
+  },
+  {
+   "id": "4652b6ad9b",
+   "title": "Ryanair says it may freeze workers' pay and raise airfares",
+   "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/02 21:22",
+   "published_iso": "2026-11-02T21:22:10+09:00",
+   "sort_key": 1793622130.0,
+   "excerpt": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+   "matched": [],
+   "analysis": {
+    "summary": "라이언에어가 연료비 상승 시 임금 동결·항공료 인상 가능성 언급",
+    "impact": "항공업 비용 부담",
+    "affected": "항공주"
+   }
+  },
+  {
+   "id": "67d855b000",
+   "title": "금융지주 회장 연임 시 주총 의결요건 강화…3연임 땐 75% 찬성",
+   "url": "https://www.yna.co.kr/view/AKR20261102172400002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/02 21:21",
+   "published_iso": "2026-11-02T21:21:47+09:00",
+   "sort_key": 1793622107.0,
+   "excerpt": "(서울=연합뉴스) 강수련 김지연 기자 = 금융당국이 금융지주 회장 연임 횟수가 늘어날수록 임원후보추천위원회(임추위)와 주주총회 의결 요건을 단계...",
+   "matched": [],
+   "analysis": {
+    "summary": "금융지주 회장 연임 시 주총 의결 요건 강화 — 3연임은 75% 찬성",
+    "impact": "금융지주 지배구조 개선",
+    "affected": "금융지주"
+   }
+  },
+  {
+   "id": "160cee323a",
+   "title": "엔비디아 시총 제친 애플…월가는 \"주가 고평가\" 경고",
+   "url": "https://www.hankyung.com/article/202611021310i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/02 21:11",
+   "published_iso": "2026-11-02T21:11:06+09:00",
+   "sort_key": 1793621466.0,
+   "excerpt": "",
+   "matched": [
+    "NVDA",
+    "AAPL"
+   ],
+   "analysis": {
+    "summary": "애플이 엔비디아 시가총액을 제쳤지만 월가는 '주가 고평가' 경고",
+    "impact": "빅테크 내 자금 이동",
+    "affected": "애플, 엔비디아",
+    "important": true,
+    "important_tag": "관심종목",
+    "why_important": "관심종목 애플이 엔비디아 시가총액을 제침 — 월가는 고평가 경고"
+   }
+  },
+  {
+   "id": "afde81d093",
+   "title": "Disneyland’s Autopia Ride Will Switch to Electric Vehicles",
+   "url": "https://www.nytimes.com/2026/11/02/climate/after-71-years-and-a-lot-of-exhaust-disneylands-autopia-goes-electric.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/02 21:08",
+   "published_iso": "2026-11-02T21:08:47+09:00",
+   "sort_key": 1793621327.0,
+   "excerpt": "The gas-powered engines in Disneyland’s Autopia ride weren’t properly certified. The little cars will be replaced by E.V.s.",
+   "matched": [],
+   "analysis": {
+    "summary": "디즈니랜드 오토피아 놀이기구가 전기차로 바뀜",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "632c984386",
+   "title": "보금자리론 10년 만기 금리 연 5%대 돌파",
+   "url": "https://www.hankyung.com/article/2026110212651",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/02 19:36",
+   "published_iso": "2026-11-02T19:36:12+09:00",
+   "sort_key": 1793615772.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "보금자리론 10년 만기 금리가 연 5%대 돌파",
+    "impact": "주택 대출 부담 증가",
+    "affected": "부동산, 은행"
+   }
+  },
+  {
+   "id": "6ea257f9b2",
+   "title": "美 민주, 중간선거 후 트럼프 관세 폐지 추진…한·일 대미투자금도 조사",
+   "url": "https://www.hankyung.com/article/202611021256i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/02 19:28",
+   "published_iso": "2026-11-02T19:28:51+09:00",
+   "sort_key": 1793615331.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "미 민주당이 중간선거 뒤 트럼프 관세 폐지 추진 — 한·일 대미 투자금도 조사",
+    "impact": "관세 정책 변화 가능성 — 한국 수출 기업에 변수",
+    "affected": "한국 수출주, 미국 무역 정책",
+    "important": true,
+    "important_tag": "정책·무역",
+    "why_important": "미 민주당이 중간선거 뒤 트럼프 관세 폐지 추진 — 한국 수출 기업에 큰 변수"
+   }
+  },
+  {
+   "id": "4a13b8e3b9",
+   "title": "How The New York Times Is Covering the Midterm Elections",
+   "url": "https://www.nytimes.com/2026/11/02/insider/new-york-times-midterm-elections.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/02 19:02",
+   "published_iso": "2026-11-02T19:02:41+09:00",
+   "sort_key": 1793613761.0,
+   "excerpt": "More than 400 journalists across at least 30 states will interview voters, break down results and identify trends.",
+   "matched": [],
+   "analysis": {
+    "summary": "뉴욕타임스의 중간선거 취재 방식",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "94f4352940",
+   "title": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal",
+   "url": "https://www.nytimes.com/2026/11/02/business/iran-war-gulf-economies.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/02 19:02",
+   "published_iso": "2026-11-02T19:02:16+09:00",
+   "sort_key": 1793613736.0,
+   "excerpt": "States like Saudi Arabia and the United Arab Emirates that have worked to rebalance from a dependence on energy have seen growth plunge in a year of strife.",
+   "matched": [],
+   "analysis": {
+    "summary": "이란 전쟁으로 흔들린 걸프 경제가 정상화를 간절히 원함",
+    "impact": "중동 경제 불안",
+    "affected": "국제 유가"
+   }
+  },
+  {
+   "id": "b167a27910",
+   "title": "호반, 한진칼 최대주주 가능성에…조원태, 주식 추가 매입키로(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261102091751003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/02 18:56",
+   "published_iso": "2026-11-02T18:56:04+09:00",
+   "sort_key": 1793613364.0,
+   "excerpt": "(서울=연합뉴스) 장하나 임기창 기자 = 호반그룹이 한진그룹 지주사 한진칼 지분을 추가 매입하고 최대주주 해당 가능성과 관련해 공정거래위원회에 ...",
+   "matched": [],
+   "analysis": {
+    "summary": "호반그룹이 한진칼 최대주주가 될 가능성에 조원태 회장이 주식 추가 매입",
+    "impact": "한진칼 경영권 분쟁 가능성",
+    "affected": "한진칼, 대한항공"
+   }
+  },
+  {
+   "id": "329e1584b0",
+   "title": "與 민병덕 \"가상자산, 기본법도 없는데 과세할 수 없어\"",
+   "url": "https://www.yna.co.kr/view/AKR20261102162000002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/02 18:51",
+   "published_iso": "2026-11-02T18:51:22+09:00",
+   "sort_key": 1793613082.0,
+   "excerpt": "(서울=연합뉴스) 박수현 기자 = 국내 가상자산 시장 경쟁력을 키우기 위해서는 과세를 유예하고 관련 입법 등 제도화부터 서둘러야 한다는 의견이 ...",
+   "matched": [],
+   "analysis": {
+    "summary": "여당 민병덕 '가상자산 기본법도 없는데 과세 못 해'",
+    "impact": "가상자산 과세 유예 가능성",
+    "affected": "가상자산"
+   }
+  },
+  {
+   "id": "0b8463b2fd",
+   "title": "바이낸스 해킹에…금융위, 가상자산거래소 신속 출금제한 방안 검토(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261102134651002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/02 18:51",
+   "published_iso": "2026-11-02T18:51:09+09:00",
+   "sort_key": 1793613069.0,
+   "excerpt": "(서울=연합뉴스) 강수련 유동현 기자 = 금융위원회가 &apos;바이낸스 해킹 사고&apos;와 관련 국내 가상자산거래소를 긴급 소집해 준비금 추가 적립 등을 당...",
+   "matched": [],
+   "analysis": {
+    "summary": "바이낸스 해킹에 금융위가 국내 거래소 신속 출금 제한 방안 검토",
+    "impact": "국내 거래소 규제 강화",
+    "affected": "가상자산 거래소"
+   }
+  },
+  {
+   "id": "30d7d4cdf9",
+   "title": "정의선 만난 이형일…생산세액공제 등 전기차 경쟁력 강화 논의(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261102126151002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/02 18:37",
+   "published_iso": "2026-11-02T18:37:43+09:00",
+   "sort_key": 1793612263.0,
+   "excerpt": "(서울·세종=연합뉴스) 장하나 김수현 기자 = 이형일 부총리 겸 재정경제부 장관이 정의선 현대차그룹 회장을 만나 전기차 경쟁력 강화방안 등을 논...",
+   "matched": [],
+   "analysis": {
+    "summary": "부총리가 정의선 회장과 생산세액공제 등 전기차 경쟁력 방안 논의",
+    "impact": "전기차 지원 정책 기대",
+    "affected": "현대차·기아"
+   }
+  },
+  {
+   "id": "ab4c32c288",
+   "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+   "source": "유럽중앙은행(ECB)",
+   "group": "중앙은행·국제기구",
+   "lang": "en",
+   "published_kst": "11/02 18:30",
+   "published_iso": "2026-11-02T18:30:00+09:00",
+   "sort_key": 1793611800.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "ECB 부이치치 부총재 연설 — 분절되는 세계 속 유럽의 강점",
+    "impact": "시장 영향은 제한적",
+    "affected": "유로화"
+   }
+  },
+  {
+   "id": "643b639ea0",
+   "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+   "url": "https://www.yna.co.kr/view/AKR20261102156900011",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/02 18:00",
+   "published_iso": "2026-11-02T18:00:00+09:00",
+   "sort_key": 1793610000.0,
+   "excerpt": "■ 개청 한달 아직도 &apos;검찰청&apos; 그늘 밑…갈길 먼 중수청·공소청",
+   "matched": [],
+   "analysis": {
+    "summary": "연합뉴스 18시 주요 뉴스 모음",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "4f7502d824",
+   "title": "강원 겨울관광 알리고 소비 늘리고…도·기업은행 맞손",
+   "url": "https://www.yna.co.kr/view/AKR20261102159200062",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/02 17:36",
+   "published_iso": "2026-11-02T17:36:09+09:00",
+   "sort_key": 1793608569.0,
+   "excerpt": "(춘천=연합뉴스) 이재현 기자 = 강원특별자치도와 IBK기업은행이 관광객 유치와 지역 내 소비 확대를 위해 손을 잡았다.",
+   "matched": [],
+   "analysis": {
+    "summary": "강원도·기업은행 겨울 관광·소비 확대 협약",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "3bb3016cf2",
+   "title": "\"대부업법 개편해야…불법사금융과 독립된 '대부금융업법' 필요\"",
+   "url": "https://www.yna.co.kr/view/AKR20261102141700002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/02 17:32",
+   "published_iso": "2026-11-02T17:32:22+09:00",
+   "sort_key": 1793608342.0,
+   "excerpt": "(서울=연합뉴스) 강류나 기자 = 대부금융사를 불법사금융과 분리해 서민금융 공급자로서 자리잡도록 현행 대부업법을 개편하고 &apos;대부금융업법&apos;을 도입...",
+   "matched": [],
+   "analysis": {
+    "summary": "대부업법을 고쳐 '대부금융업법'을 따로 만들어야 한다는 제언",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  }
+ ],
+ "news_groups": {
+  "국내 정책당국": [
+   {
+    "id": "d4a904151d",
+    "title": "국제 신용평가사 Fitch, 한국 연례협의 실시",
+    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079837",
+    "source": "재정경제부 보도자료",
+    "group": "국내 정책당국",
+    "lang": "ko",
+    "published_kst": "11/03 19:00",
+    "published_iso": "2026-11-03T19:00:00+09:00",
+    "sort_key": 1793700000.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "f39b2519e5",
+    "title": "물가관계차관회의 개최",
+    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079838",
+    "source": "재정경제부 보도자료",
+    "group": "국내 정책당국",
+    "lang": "ko",
+    "published_kst": "11/03 09:00",
+    "published_iso": "2026-11-03T09:00:00+09:00",
+    "sort_key": 1793664000.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "bd093de8e3",
+    "title": "'26.10월 소비자물가 동향",
+    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079839",
+    "source": "재정경제부 보도자료",
+    "group": "국내 정책당국",
+    "lang": "ko",
+    "published_kst": "11/03 09:00",
+    "published_iso": "2026-11-03T09:00:00+09:00",
+    "sort_key": 1793664000.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "1eb03e64e9",
+    "title": "「의료데이터의 안전한 학습·검증·활용을 위한 국가 AI 인프라 구축」 포럼 개최",
+    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079836",
+    "source": "재정경제부 보도자료",
+    "group": "국내 정책당국",
+    "lang": "ko",
+    "published_kst": "11/03 02:00",
+    "published_iso": "2026-11-03T02:00:45+09:00",
+    "sort_key": 1793638845.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "의료 데이터 국가 AI 인프라 구축 포럼",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   }
   ],
-  "news_groups": {
-    "해외 경제언론": [
-      {
-        "id": "d43289e094",
-        "title": "William Nordhaus Has Died. Nobelist Influenced Climate Policy.",
-        "url": "https://www.nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/03 07:19",
-        "published_iso": "2026-11-03T07:19:30+09:00",
-        "sort_key": 1793657970.0,
-        "excerpt": "The Yale professor moved climate change into mainstream economic analysis.",
-        "matched": []
-      },
-      {
-        "id": "2b4b92e06f",
-        "title": "Are Freezers Being Hacked? Europe and the U.S. Military Are Investigating.",
-        "url": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/03 06:28",
-        "published_iso": "2026-11-03T06:28:04+09:00",
-        "sort_key": 1793654884.0,
-        "excerpt": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday.",
-        "matched": []
-      },
-      {
-        "id": "2ebc456578",
-        "title": "He Pioneered a Groundbreaking Idea and Was Met With Corporate Wrath",
-        "url": "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/03 06:19",
-        "published_iso": "2026-11-03T06:19:57+09:00",
-        "sort_key": 1793654397.0,
-        "excerpt": "Economist William Nordhaus said putting a price on pollution was the best way to reduce climate change. Then came the fossil fuel lobby and the anti-tax movement.",
-        "matched": []
-      },
-      {
-        "id": "9d685cdf17",
-        "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-        "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-        "source": "CNBC Finance",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/03 06:13",
-        "published_iso": "2026-11-03T06:13:43+09:00",
-        "sort_key": 1793654023.0,
-        "excerpt": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
-        "matched": []
-      },
-      {
-        "id": "0d7f17b03c",
-        "title": "Trump Administration Said to Plan Rolling Back Pregnancy-Related Job Protections",
-        "url": "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/03 05:44",
-        "published_iso": "2026-11-03T05:44:39+09:00",
-        "sort_key": 1793652279.0,
-        "excerpt": "The Biden era law was meant to help women stay in the workplace, but some conservatives say rules to enact it went too far with coverage for abortion and fertility treatment.",
-        "matched": []
-      },
-      {
-        "id": "dd668d0c07",
-        "title": "Stock market after midterm elections: What S&P 500 history shows",
-        "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-        "source": "CNBC Finance",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/03 02:57",
-        "published_iso": "2026-11-03T02:57:35+09:00",
-        "sort_key": 1793642255.0,
-        "excerpt": "Midterms historically precede a strong year for the S&amp;P 500. What to know if Democrats win back Congress",
-        "matched": []
-      },
-      {
-        "id": "c898d39a15",
-        "title": "Trump’s Tariffs Are On the Ballot in Michigan",
-        "url": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/03 01:37",
-        "published_iso": "2026-11-03T01:37:50+09:00",
-        "sort_key": 1793637470.0,
-        "excerpt": "The levies as well as trade fighting with Canada are facing a test in the state, where voters appear skeptical of free trade but also of the president’s erratic approach.",
-        "matched": []
-      },
-      {
-        "id": "a15e978a30",
-        "title": "Martha Stewart Apologizes for Homeless Halloween Costume",
-        "url": "https://www.nytimes.com/2026/11/02/style/martha-stewart-homeless-halloween-costume-apology.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/03 01:29",
-        "published_iso": "2026-11-03T01:29:24+09:00",
-        "sort_key": 1793636964.0,
-        "excerpt": "Stewart, the media mogul and entrepreneur, had posted a photo of a costume with tattered clothes and a sign asking for help.",
-        "matched": []
-      },
-      {
-        "id": "c5ba1d6d3e",
-        "title": "Anthropic Reveals Surging Revenue in Third Quarter as I.P.O. Approaches",
-        "url": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/03 00:48",
-        "published_iso": "2026-11-03T00:48:38+09:00",
-        "sort_key": 1793634518.0,
-        "excerpt": "The A.I. company’s quarterly revenue totaled $17 billion, 12 times higher than the same quarter a year ago, while its net loss totaled $23 billion.",
-        "matched": []
-      },
-      {
-        "id": "2bbdae702e",
-        "title": "Shop freezers in seven European countries hit by cyber-attack",
-        "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/03 00:12",
-        "published_iso": "2026-11-03T00:12:22+09:00",
-        "sort_key": 1793632342.0,
-        "excerpt": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-        "matched": []
-      },
-      {
-        "id": "916b249670",
-        "title": "How A.I. Is Making It Easier Than Ever to Microtarget Voters",
-        "url": "https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/02 23:55",
-        "published_iso": "2026-11-02T23:55:57+09:00",
-        "sort_key": 1793631357.0,
-        "excerpt": "Hyper-personalized messages, delivered with A.I.-enabled precision, herald a new frontier for voter outreach (and potential disinformation).",
-        "matched": []
-      },
-      {
-        "id": "4e5577e538",
-        "title": "Poundland's former owner offers to invest as minister prepares to meet board",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/02 22:40",
-        "published_iso": "2026-11-02T22:40:36+09:00",
-        "sort_key": 1793626836.0,
-        "excerpt": "Wolverhampton's Steve Smith says he attempted to contact Gordon Brothers but did not get a reply.",
-        "matched": []
-      },
-      {
-        "id": "81f367f089",
-        "title": "Cracks in the A.I. Borrowing Binge",
-        "url": "https://www.nytimes.com/2026/11/02/business/dealbook/ai-borrowing-binge.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/02 21:36",
-        "published_iso": "2026-11-02T21:36:44+09:00",
-        "sort_key": 1793623004.0,
-        "excerpt": "Investors are growing increasingly concerned about the debt-fueled spending spree at the heart of the artificial intelligence buildout.",
-        "matched": []
-      },
-      {
-        "id": "4652b6ad9b",
-        "title": "Ryanair says it may freeze workers' pay and raise airfares",
-        "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/02 21:22",
-        "published_iso": "2026-11-02T21:22:10+09:00",
-        "sort_key": 1793622130.0,
-        "excerpt": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-        "matched": []
-      },
-      {
-        "id": "afde81d093",
-        "title": "Disneyland’s Autopia Ride Will Switch to Electric Vehicles",
-        "url": "https://www.nytimes.com/2026/11/02/climate/after-71-years-and-a-lot-of-exhaust-disneylands-autopia-goes-electric.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/02 21:08",
-        "published_iso": "2026-11-02T21:08:47+09:00",
-        "sort_key": 1793621327.0,
-        "excerpt": "The gas-powered engines in Disneyland’s Autopia ride weren’t properly certified. The little cars will be replaced by E.V.s.",
-        "matched": []
-      },
-      {
-        "id": "4a13b8e3b9",
-        "title": "How The New York Times Is Covering the Midterm Elections",
-        "url": "https://www.nytimes.com/2026/11/02/insider/new-york-times-midterm-elections.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/02 19:02",
-        "published_iso": "2026-11-02T19:02:41+09:00",
-        "sort_key": 1793613761.0,
-        "excerpt": "More than 400 journalists across at least 30 states will interview voters, break down results and identify trends.",
-        "matched": []
-      },
-      {
-        "id": "94f4352940",
-        "title": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal",
-        "url": "https://www.nytimes.com/2026/11/02/business/iran-war-gulf-economies.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/02 19:02",
-        "published_iso": "2026-11-02T19:02:16+09:00",
-        "sort_key": 1793613736.0,
-        "excerpt": "States like Saudi Arabia and the United Arab Emirates that have worked to rebalance from a dependence on energy have seen growth plunge in a year of strife.",
-        "matched": []
-      }
-    ],
-    "국내 경제언론": [
-      {
-        "id": "d51dfb0a56",
-        "title": "[머니톡스] 월급쟁이 노후 2층 퇴직연금…국민연금은 감당할 준비가 됐나",
-        "url": "https://www.yna.co.kr/view/AKR20261102067700546",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/03 07:07",
-        "published_iso": "2026-11-03T07:07:00+09:00",
-        "sort_key": 1793657220.0,
-        "excerpt": "(서울=연합뉴스) 윤선희 선임기자 = ＃ 월급쟁이의 노후는 국민연금, 퇴직연금, 개인연금 등 &apos;3층 연금 체계&apos;로 완성된다. 이는 1994년 세...",
-        "matched": []
-      },
-      {
-        "id": "9a51157da9",
-        "title": "[우분투칼럼] 아프리카의 신용은 누가 평가하는가",
-        "url": "https://www.yna.co.kr/view/AKR20261019077900898",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/03 07:00",
-        "published_iso": "2026-11-03T07:00:06+09:00",
-        "sort_key": 1793656806.0,
-        "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
-        "matched": []
-      },
-      {
-        "id": "3aeea6ff45",
-        "title": "'이럴 거면 그냥 국산차 탈걸'…BYD 차주들 비명 터졌다",
-        "url": "https://www.hankyung.com/article/2026110210431",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/03 07:00",
-        "published_iso": "2026-11-03T07:00:04+09:00",
-        "sort_key": 1793656804.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "70276c923c",
-        "title": "미·이란 협상 기대에 국제유가 7%대 급락…WTI 96달러선",
-        "url": "https://www.yna.co.kr/view/AKR20261103007851072",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/03 06:03",
-        "published_iso": "2026-11-03T06:03:41+09:00",
-        "sort_key": 1793653421.0,
-        "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 2일(현지시간) 미국과 이란 간 평화 협상 가능성이 제기되면서 국제유가가 7% 넘게 급락했다.",
-        "matched": []
-      },
-      {
-        "id": "5e5f48fcc9",
-        "title": "세계경제 분절화 속 한일협력 필수…오늘 연합뉴스 미래경제포럼",
-        "url": "https://www.yna.co.kr/view/AKR20261102067200898",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/03 06:00",
-        "published_iso": "2026-11-03T06:00:12+09:00",
-        "sort_key": 1793653212.0,
-        "excerpt": "(서울=연합뉴스) 박성진 기자 = 국가기간뉴스통신사 연합뉴스가 3일 &apos;2026 미래경제포럼&apos;을 개최하고 세계 시장이 분절되는 상황에서 한일 협력...",
-        "matched": []
-      },
-      {
-        "id": "6f56f0c639",
-        "title": "중기부, 청주서 '청소년 비즈쿨 페스티벌'…창업 성과 공유",
-        "url": "https://www.yna.co.kr/view/AKR20261102135700030",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/03 06:00",
-        "published_iso": "2026-11-03T06:00:11+09:00",
-        "sort_key": 1793653211.0,
-        "excerpt": "(서울=연합뉴스) 이상서 기자 = 중소벤처기업부는 3일부터 사흘간 충북 청주 오스코에서 청소년 창업교육 사업인 &apos;2026 청소년 비즈쿨 페스티벌...",
-        "matched": []
-      },
-      {
-        "id": "40cadde526",
-        "title": "공장 입지·규제 스마트폰으로 한눈에…업종별 맞춤 추천도",
-        "url": "https://www.yna.co.kr/view/AKR20261102149200003",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/03 06:00",
-        "published_iso": "2026-11-03T06:00:10+09:00",
-        "sort_key": 1793653210.0,
-        "excerpt": "(세종=연합뉴스) 오진송 기자 = 공장 지을 부지를 스마트폰으로 추천받고 현장에서 관련 규제와 인허가 요건까지 확인할 수 있게 됐다.",
-        "matched": []
-      },
-      {
-        "id": "91508c83ef",
-        "title": "'광명 차은우' 뜨자 전국이 들썩…대기업까지 뛰어들었다 [권용훈의 트렌드워치]",
-        "url": "https://www.hankyung.com/article/202611020623i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/03 06:00",
-        "published_iso": "2026-11-03T06:00:10+09:00",
-        "sort_key": 1793653210.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "46e60f4dae",
-        "title": "\"20대 '텍스트힙' 열풍에 서점 매출 9%↑…작은 책방은 감소\"",
-        "url": "https://www.yna.co.kr/view/AKR20261102167400002",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/03 05:57",
-        "published_iso": "2026-11-03T05:57:00+09:00",
-        "sort_key": 1793653020.0,
-        "excerpt": "(서울=연합뉴스) 김지연 기자 = 젊은 층 사이에서 &apos;텍스트힙&apos;(텍스트+힙하다) 열풍이 불면서 20대 서점 이용이 늘어난 것으로 나타났다.",
-        "matched": []
-      },
-      {
-        "id": "6cf0231079",
-        "title": "포용금융 평가 앞두고…5대금융 전담조직 만들고 서민금융 늘려",
-        "url": "https://www.yna.co.kr/view/AKR20261102160100002",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/03 05:55",
-        "published_iso": "2026-11-03T05:55:00+09:00",
-        "sort_key": 1793652900.0,
-        "excerpt": "(서울=연합뉴스) 이도흔 기자 = 금융당국이 포용금융 실적을 종합적으로 평가하는 체계를 도입하면서 5대 금융지주가 전담 조직을 갖추고 서민금융 ...",
-        "matched": []
-      },
-      {
-        "id": "53f3fb841f",
-        "title": "\"인텔, 저가 매수 신중\"…팔란티어, 월가 '긍정' vs 개인 '약세' [박신영의 개장전 요것만]",
-        "url": "https://www.hankyung.com/article/202611031416i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/03 00:23",
-        "published_iso": "2026-11-03T00:23:10+09:00",
-        "sort_key": 1793632990.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "6b4630a3bf",
-        "title": "매출 12배 폭증에 순손실 140조원…앤스로픽 1.7조달러 가치 가능할까",
-        "url": "https://www.hankyung.com/article/202611021411i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/03 00:19",
-        "published_iso": "2026-11-03T00:19:46+09:00",
-        "sort_key": 1793632786.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "b9e7753b4c",
-        "title": "美민주당 의회 장악하면…애플,엔비디아 등 조사받나?",
-        "url": "https://www.hankyung.com/article/202611021399i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/02 23:28",
-        "published_iso": "2026-11-02T23:28:08+09:00",
-        "sort_key": 1793629688.0,
-        "excerpt": "",
-        "matched": [
-          "NVDA",
-          "AAPL"
-        ]
-      },
-      {
-        "id": "1d9724ac69",
-        "title": "48년 물 안 마시고 콜라만 마신 버핏…30년 들고 있는 '이 주식'",
-        "url": "https://www.hankyung.com/article/2026110213457",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/02 21:58",
-        "published_iso": "2026-11-02T21:58:07+09:00",
-        "sort_key": 1793624287.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "5a19e92782",
-        "title": "엔비디아가 찜한 마벨, 루멘텀 합병…154조원 AI반도체 빅딜",
-        "url": "https://www.hankyung.com/article/202611021336i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/02 21:55",
-        "published_iso": "2026-11-02T21:55:27+09:00",
-        "sort_key": 1793624127.0,
-        "excerpt": "",
-        "matched": [
-          "NVDA"
-        ]
-      },
-      {
-        "id": "67d855b000",
-        "title": "금융지주 회장 연임 시 주총 의결요건 강화…3연임 땐 75% 찬성",
-        "url": "https://www.yna.co.kr/view/AKR20261102172400002",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/02 21:21",
-        "published_iso": "2026-11-02T21:21:47+09:00",
-        "sort_key": 1793622107.0,
-        "excerpt": "(서울=연합뉴스) 강수련 김지연 기자 = 금융당국이 금융지주 회장 연임 횟수가 늘어날수록 임원후보추천위원회(임추위)와 주주총회 의결 요건을 단계...",
-        "matched": []
-      },
-      {
-        "id": "160cee323a",
-        "title": "엔비디아 시총 제친 애플…월가는 \"주가 고평가\" 경고",
-        "url": "https://www.hankyung.com/article/202611021310i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/02 21:11",
-        "published_iso": "2026-11-02T21:11:06+09:00",
-        "sort_key": 1793621466.0,
-        "excerpt": "",
-        "matched": [
-          "NVDA",
-          "AAPL"
-        ]
-      },
-      {
-        "id": "632c984386",
-        "title": "보금자리론 10년 만기 금리 연 5%대 돌파",
-        "url": "https://www.hankyung.com/article/2026110212651",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/02 19:36",
-        "published_iso": "2026-11-02T19:36:12+09:00",
-        "sort_key": 1793615772.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "6ea257f9b2",
-        "title": "美 민주, 중간선거 후 트럼프 관세 폐지 추진…한·일 대미투자금도 조사",
-        "url": "https://www.hankyung.com/article/202611021256i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/02 19:28",
-        "published_iso": "2026-11-02T19:28:51+09:00",
-        "sort_key": 1793615331.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "b167a27910",
-        "title": "호반, 한진칼 최대주주 가능성에…조원태, 주식 추가 매입키로(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261102091751003",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/02 18:56",
-        "published_iso": "2026-11-02T18:56:04+09:00",
-        "sort_key": 1793613364.0,
-        "excerpt": "(서울=연합뉴스) 장하나 임기창 기자 = 호반그룹이 한진그룹 지주사 한진칼 지분을 추가 매입하고 최대주주 해당 가능성과 관련해 공정거래위원회에 ...",
-        "matched": []
-      },
-      {
-        "id": "329e1584b0",
-        "title": "與 민병덕 \"가상자산, 기본법도 없는데 과세할 수 없어\"",
-        "url": "https://www.yna.co.kr/view/AKR20261102162000002",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/02 18:51",
-        "published_iso": "2026-11-02T18:51:22+09:00",
-        "sort_key": 1793613082.0,
-        "excerpt": "(서울=연합뉴스) 박수현 기자 = 국내 가상자산 시장 경쟁력을 키우기 위해서는 과세를 유예하고 관련 입법 등 제도화부터 서둘러야 한다는 의견이 ...",
-        "matched": []
-      },
-      {
-        "id": "0b8463b2fd",
-        "title": "바이낸스 해킹에…금융위, 가상자산거래소 신속 출금제한 방안 검토(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261102134651002",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/02 18:51",
-        "published_iso": "2026-11-02T18:51:09+09:00",
-        "sort_key": 1793613069.0,
-        "excerpt": "(서울=연합뉴스) 강수련 유동현 기자 = 금융위원회가 &apos;바이낸스 해킹 사고&apos;와 관련 국내 가상자산거래소를 긴급 소집해 준비금 추가 적립 등을 당...",
-        "matched": []
-      },
-      {
-        "id": "30d7d4cdf9",
-        "title": "정의선 만난 이형일…생산세액공제 등 전기차 경쟁력 강화 논의(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261102126151002",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/02 18:37",
-        "published_iso": "2026-11-02T18:37:43+09:00",
-        "sort_key": 1793612263.0,
-        "excerpt": "(서울·세종=연합뉴스) 장하나 김수현 기자 = 이형일 부총리 겸 재정경제부 장관이 정의선 현대차그룹 회장을 만나 전기차 경쟁력 강화방안 등을 논...",
-        "matched": []
-      },
-      {
-        "id": "643b639ea0",
-        "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-        "url": "https://www.yna.co.kr/view/AKR20261102156900011",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/02 18:00",
-        "published_iso": "2026-11-02T18:00:00+09:00",
-        "sort_key": 1793610000.0,
-        "excerpt": "■ 개청 한달 아직도 &apos;검찰청&apos; 그늘 밑…갈길 먼 중수청·공소청",
-        "matched": []
-      },
-      {
-        "id": "4f7502d824",
-        "title": "강원 겨울관광 알리고 소비 늘리고…도·기업은행 맞손",
-        "url": "https://www.yna.co.kr/view/AKR20261102159200062",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/02 17:36",
-        "published_iso": "2026-11-02T17:36:09+09:00",
-        "sort_key": 1793608569.0,
-        "excerpt": "(춘천=연합뉴스) 이재현 기자 = 강원특별자치도와 IBK기업은행이 관광객 유치와 지역 내 소비 확대를 위해 손을 잡았다.",
-        "matched": []
-      },
-      {
-        "id": "3bb3016cf2",
-        "title": "\"대부업법 개편해야…불법사금융과 독립된 '대부금융업법' 필요\"",
-        "url": "https://www.yna.co.kr/view/AKR20261102141700002",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/02 17:32",
-        "published_iso": "2026-11-02T17:32:22+09:00",
-        "sort_key": 1793608342.0,
-        "excerpt": "(서울=연합뉴스) 강류나 기자 = 대부금융사를 불법사금융과 분리해 서민금융 공급자로서 자리잡도록 현행 대부업법을 개편하고 &apos;대부금융업법&apos;을 도입...",
-        "matched": []
-      }
-    ],
-    "국내 정책당국": [
-      {
-        "id": "1eb03e64e9",
-        "title": "「의료데이터의 안전한 학습·검증·활용을 위한 국가 AI 인프라 구축」 포럼 개최",
-        "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079836",
-        "source": "재정경제부 보도자료",
-        "group": "국내 정책당국",
-        "lang": "ko",
-        "published_kst": "11/03 02:00",
-        "published_iso": "2026-11-03T02:00:45+09:00",
-        "sort_key": 1793638845.0,
-        "excerpt": "",
-        "matched": []
-      }
-    ],
-    "중앙은행·국제기구": [
-      {
-        "id": "ab4c32c288",
-        "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
-        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
-        "source": "유럽중앙은행(ECB)",
-        "group": "중앙은행·국제기구",
-        "lang": "en",
-        "published_kst": "11/02 18:30",
-        "published_iso": "2026-11-02T18:30:00+09:00",
-        "sort_key": 1793611800.0,
-        "excerpt": "",
-        "matched": []
-      }
+  "국내 경제언론": [
+   {
+    "id": "bb0f04f178",
+    "title": "\"토핑 요거트 당류, 일반 요거트의 2∼3배…포화지방도 주의\"",
+    "url": "https://www.yna.co.kr/view/AKR20261102132900030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 12:00",
+    "published_iso": "2026-11-03T12:00:12+09:00",
+    "sort_key": 1793674812.0,
+    "excerpt": "(서울=연합뉴스) 조민정 기자 = 초콜릿이나 그래놀라 등을 넣은 토핑 요거트의 당류 함량이 일반 플레인 요거트보다 2∼3배 높은 것으로 나타났다...",
+    "matched": []
+   },
+   {
+    "id": "00e03e4914",
+    "title": "중기부, 성수동서 판로개척 성과보고회…팝업·오디션 개최",
+    "url": "https://www.yna.co.kr/view/AKR20261103066400030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 12:00",
+    "published_iso": "2026-11-03T12:00:11+09:00",
+    "sort_key": 1793674811.0,
+    "excerpt": "(서울=연합뉴스) 이상서 기자 = 중소벤처기업부는 오는 4∼8일 서울 성동구 성수동 일대에서 &apos;2026 소공인 판로개척 성과보고대회&apos;(소공인 디...",
+    "matched": []
+   },
+   {
+    "id": "894878eb4b",
+    "title": "국세청, 주식 양도세 더 낸 4천687명에게 21억원 돌려줘",
+    "url": "https://www.yna.co.kr/view/AKR20261103075200002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 12:00",
+    "published_iso": "2026-11-03T12:00:06+09:00",
+    "sort_key": 1793674806.0,
+    "excerpt": "(세종=연합뉴스) 송정은 기자 = 주식 양도소득세 신고 시 기본공제를 빠뜨려 세금을 더 낸 이들이 돈을 돌려받게 됐다.",
+    "matched": []
+   },
+   {
+    "id": "f2caa29e00",
+    "title": "\"요양시설 간호사 비중 10%p 확대되면 건보 진료비 7.7% 감소\"",
+    "url": "https://www.yna.co.kr/view/AKR20261103080000002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 12:00",
+    "published_iso": "2026-11-03T12:00:04+09:00",
+    "sort_key": 1793674804.0,
+    "excerpt": "(세종=연합뉴스) 김수현 기자 = 노인요양시설에서 간호조무사 대신 간호사 고용 비중이 확대되면 입소자의 요로감염, 욕창 등에 따른 의료 서비스 ...",
+    "matched": []
+   },
+   {
+    "id": "1290034b9e",
+    "title": "국고채 금리 일제히 하락…3년물 장중 연 3.726%",
+    "url": "https://www.yna.co.kr/view/AKR20261103093200008",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 11:41",
+    "published_iso": "2026-11-03T11:41:04+09:00",
+    "sort_key": 1793673664.0,
+    "excerpt": "(서울=연합뉴스) 3일 국고채 금리가 일제히 하락하고 있다.",
+    "matched": []
+   },
+   {
+    "id": "b44b7ea11c",
+    "title": "경찰, 토스증권 '기밀 유출' 의혹 넥스트증권 불송치 처분",
+    "url": "https://www.yna.co.kr/view/AKR20261103092700004",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 11:39",
+    "published_iso": "2026-11-03T11:39:15+09:00",
+    "sort_key": 1793673555.0,
+    "excerpt": "(서울=연합뉴스) 정지수 기자 = 토스증권이 넥스트증권을 상대로 제기한 영업기밀 유출 의혹과 관련해 경찰이 &apos;혐의없음&apos; 판단을 내렸다.",
+    "matched": []
+   },
+   {
+    "id": "9346108280",
+    "title": "여수시, 하도급 관리제 시행…외지 건설업체 수주 독식 타파",
+    "url": "https://www.yna.co.kr/view/AKR20261103092400054",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 11:37",
+    "published_iso": "2026-11-03T11:37:49+09:00",
+    "sort_key": 1793673469.0,
+    "excerpt": "(여수=연합뉴스) 손상원 기자 = 전남광주 여수시가 외지 대형건설업체의 수주 독식 구조를 깨고자 제도 개편에 나섰다.",
+    "matched": []
+   },
+   {
+    "id": "2440c756e5",
+    "title": "[부고] 문철상(전 신협중앙회장)씨 별세",
+    "url": "https://www.yna.co.kr/view/AKR20261103089800002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 11:37",
+    "published_iso": "2026-11-03T11:37:39+09:00",
+    "sort_key": 1793673459.0,
+    "excerpt": "▲ 문철상(제31대 신협중앙회장·향년 76세)씨 별세, 김경희씨 남편상, 문순환·윤선씨 부친상, 윤연지씨 시부상 = 2일, 군산 은파장례문화원 ...",
+    "matched": []
+   },
+   {
+    "id": "3be231f3d0",
+    "title": "\"이러다 中 전기차에 안방 내줄라\"…국산 점유율 첫 '절반 붕괴' [이슈+]",
+    "url": "https://www.hankyung.com/article/202611032191g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 11:14",
+    "published_iso": "2026-11-03T11:14:02+09:00",
+    "sort_key": 1793672042.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "57cbbf522a",
+    "title": "'네이버-토스' 갈등 2차전…\"포스 연동 안해줬다\" 공정위 제소",
+    "url": "https://www.hankyung.com/article/202611032383i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 11:03",
+    "published_iso": "2026-11-03T11:03:27+09:00",
+    "sort_key": 1793671407.0,
+    "excerpt": "",
+    "matched": [
+     "035420.KS"
     ]
-  },
-  "counts": {
-    "indices_ok": 8,
-    "indices_total": 8,
-    "stocks_ok": 9,
-    "stocks_total": 9,
-    "news": 45,
-    "news_new": 16
-  },
-  "errors": [
-    {
-      "stage": "news",
-      "target": "금융위원회 보도자료",
-      "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
+   },
+   {
+    "id": "2d2d770654",
+    "title": "현대차, 대형·고급 정비거점 '그랜드 블루핸즈' 확대…29년까지 30곳 구축",
+    "url": "https://www.hankyung.com/article/202611032384g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 10:54",
+    "published_iso": "2026-11-03T10:54:22+09:00",
+    "sort_key": 1793670862.0,
+    "excerpt": "",
+    "matched": [
+     "005380.KS"
+    ]
+   },
+   {
+    "id": "3478414fc1",
+    "title": "\"한채아의 겨울 코디는?\"…세정 데일리스트, 신규 컬렉션 공개",
+    "url": "https://www.hankyung.com/article/202611032346g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 10:47",
+    "published_iso": "2026-11-03T10:47:50+09:00",
+    "sort_key": 1793670470.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "a7a9d009e6",
+    "title": "3000만원대 보급형 전기차…폭스바겐 폴로, 독일에서 돌풍",
+    "url": "https://www.hankyung.com/article/202611032371g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 10:47",
+    "published_iso": "2026-11-03T10:47:18+09:00",
+    "sort_key": 1793670438.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "166e66762a",
+    "title": "한솔로지스틱스, 배터리 물류사업 확장…2분기 매출 2.7% 증가",
+    "url": "https://www.hankyung.com/article/202611032358i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 10:40",
+    "published_iso": "2026-11-03T10:40:53+09:00",
+    "sort_key": 1793670053.0,
+    "excerpt": "",
+    "matched": [
+     "373220.KS"
+    ]
+   },
+   {
+    "id": "ee4c88ce77",
+    "title": "타타대우모빌리티, 수소엔진 탑재한 '맥쎈' 트랙터 시제품 전시",
+    "url": "https://www.hankyung.com/article/202611032316g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 10:38",
+    "published_iso": "2026-11-03T10:38:09+09:00",
+    "sort_key": 1793669889.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "bc1a60c389",
+    "title": "[단독] 하이트진로 '소맥캔' 낸다…주류업계 새 격전지로",
+    "url": "https://www.hankyung.com/article/202611032306i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 10:34",
+    "published_iso": "2026-11-03T10:34:48+09:00",
+    "sort_key": 1793669688.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "d51dfb0a56",
+    "title": "[머니톡스] 월급쟁이 노후 2층 퇴직연금…국민연금은 감당할 준비가 됐나",
+    "url": "https://www.yna.co.kr/view/AKR20261102067700546",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 07:07",
+    "published_iso": "2026-11-03T07:07:00+09:00",
+    "sort_key": 1793657220.0,
+    "excerpt": "(서울=연합뉴스) 윤선희 선임기자 = ＃ 월급쟁이의 노후는 국민연금, 퇴직연금, 개인연금 등 &apos;3층 연금 체계&apos;로 완성된다. 이는 1994년 세...",
+    "matched": [],
+    "analysis": {
+     "summary": "직장인 노후의 2층 퇴직연금 — 국민연금은 감당할 준비가 됐나 칼럼",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
     }
+   },
+   {
+    "id": "9a51157da9",
+    "title": "[우분투칼럼] 아프리카의 신용은 누가 평가하는가",
+    "url": "https://www.yna.co.kr/view/AKR20261019077900898",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 07:00",
+    "published_iso": "2026-11-03T07:00:06+09:00",
+    "sort_key": 1793656806.0,
+    "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
+    "matched": [],
+    "analysis": {
+     "summary": "아프리카 국가 신용평가를 누가 하는지 다룬 칼럼",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "3aeea6ff45",
+    "title": "'이럴 거면 그냥 국산차 탈걸'…BYD 차주들 비명 터졌다",
+    "url": "https://www.hankyung.com/article/2026110210431",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 07:00",
+    "published_iso": "2026-11-03T07:00:04+09:00",
+    "sort_key": 1793656804.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "BYD 차주들이 품질·서비스 불만을 쏟아냄",
+     "impact": "중국 전기차 국내 평판 부담",
+     "affected": "BYD, 국내 완성차"
+    }
+   },
+   {
+    "id": "70276c923c",
+    "title": "미·이란 협상 기대에 국제유가 7%대 급락…WTI 96달러선",
+    "url": "https://www.yna.co.kr/view/AKR20261103007851072",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 06:03",
+    "published_iso": "2026-11-03T06:03:41+09:00",
+    "sort_key": 1793653421.0,
+    "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 2일(현지시간) 미국과 이란 간 평화 협상 가능성이 제기되면서 국제유가가 7% 넘게 급락했다.",
+    "matched": [],
+    "analysis": {
+     "summary": "미국·이란 평화 협상 기대에 국제 유가 7%대 급락 — WTI 96달러선",
+     "impact": "에너지·운송비 부담 완화 — 물가·소매업에 긍정적",
+     "affected": "국제 유가, 항공·운송, 소매",
+     "important": true,
+     "important_tag": "거시경제",
+     "why_important": "미·이란 평화 협상 기대에 국제 유가 7% 급락(WTI 96달러) — 운송비 부담이 줄어 소매업에 숨통"
+    }
+   },
+   {
+    "id": "5e5f48fcc9",
+    "title": "세계경제 분절화 속 한일협력 필수…오늘 연합뉴스 미래경제포럼",
+    "url": "https://www.yna.co.kr/view/AKR20261102067200898",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 06:00",
+    "published_iso": "2026-11-03T06:00:12+09:00",
+    "sort_key": 1793653212.0,
+    "excerpt": "(서울=연합뉴스) 박성진 기자 = 국가기간뉴스통신사 연합뉴스가 3일 &apos;2026 미래경제포럼&apos;을 개최하고 세계 시장이 분절되는 상황에서 한일 협력...",
+    "matched": [],
+    "analysis": {
+     "summary": "연합뉴스 미래경제포럼 '세계 경제 분절화 속 한일 협력 필수'",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "6f56f0c639",
+    "title": "중기부, 청주서 '청소년 비즈쿨 페스티벌'…창업 성과 공유",
+    "url": "https://www.yna.co.kr/view/AKR20261102135700030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 06:00",
+    "published_iso": "2026-11-03T06:00:11+09:00",
+    "sort_key": 1793653211.0,
+    "excerpt": "(서울=연합뉴스) 이상서 기자 = 중소벤처기업부는 3일부터 사흘간 충북 청주 오스코에서 청소년 창업교육 사업인 &apos;2026 청소년 비즈쿨 페스티벌...",
+    "matched": [],
+    "analysis": {
+     "summary": "중기부 청소년 비즈쿨 페스티벌",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "40cadde526",
+    "title": "공장 입지·규제 스마트폰으로 한눈에…업종별 맞춤 추천도",
+    "url": "https://www.yna.co.kr/view/AKR20261102149200003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 06:00",
+    "published_iso": "2026-11-03T06:00:10+09:00",
+    "sort_key": 1793653210.0,
+    "excerpt": "(세종=연합뉴스) 오진송 기자 = 공장 지을 부지를 스마트폰으로 추천받고 현장에서 관련 규제와 인허가 요건까지 확인할 수 있게 됐다.",
+    "matched": [],
+    "analysis": {
+     "summary": "스마트폰으로 공장 입지·규제를 한눈에 확인하는 서비스",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "91508c83ef",
+    "title": "'광명 차은우' 뜨자 전국이 들썩…대기업까지 뛰어들었다 [권용훈의 트렌드워치]",
+    "url": "https://www.hankyung.com/article/202611020623i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 06:00",
+    "published_iso": "2026-11-03T06:00:10+09:00",
+    "sort_key": 1793653210.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "'광명 차은우' 열풍에 대기업까지 뛰어든 마케팅",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "46e60f4dae",
+    "title": "\"20대 '텍스트힙' 열풍에 서점 매출 9%↑…작은 책방은 감소\"",
+    "url": "https://www.yna.co.kr/view/AKR20261102167400002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 05:57",
+    "published_iso": "2026-11-03T05:57:00+09:00",
+    "sort_key": 1793653020.0,
+    "excerpt": "(서울=연합뉴스) 김지연 기자 = 젊은 층 사이에서 &apos;텍스트힙&apos;(텍스트+힙하다) 열풍이 불면서 20대 서점 이용이 늘어난 것으로 나타났다.",
+    "matched": [],
+    "analysis": {
+     "summary": "20대 '텍스트힙' 열풍에 서점 매출 9% 증가, 작은 책방은 감소",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "6cf0231079",
+    "title": "포용금융 평가 앞두고…5대금융 전담조직 만들고 서민금융 늘려",
+    "url": "https://www.yna.co.kr/view/AKR20261102160100002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 05:55",
+    "published_iso": "2026-11-03T05:55:00+09:00",
+    "sort_key": 1793652900.0,
+    "excerpt": "(서울=연합뉴스) 이도흔 기자 = 금융당국이 포용금융 실적을 종합적으로 평가하는 체계를 도입하면서 5대 금융지주가 전담 조직을 갖추고 서민금융 ...",
+    "matched": [],
+    "analysis": {
+     "summary": "포용금융 평가를 앞두고 5대 금융지주가 전담 조직·서민금융 확대",
+     "impact": "시장 영향은 제한적",
+     "affected": "금융지주"
+    }
+   },
+   {
+    "id": "53f3fb841f",
+    "title": "\"인텔, 저가 매수 신중\"…팔란티어, 월가 '긍정' vs 개인 '약세' [박신영의 개장전 요것만]",
+    "url": "https://www.hankyung.com/article/202611031416i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 00:23",
+    "published_iso": "2026-11-03T00:23:10+09:00",
+    "sort_key": 1793632990.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "'인텔 저가 매수 신중', 팔란티어는 월가 긍정 vs 개인 약세",
+     "impact": "시장 영향은 제한적",
+     "affected": "인텔, 팔란티어"
+    }
+   },
+   {
+    "id": "6b4630a3bf",
+    "title": "매출 12배 폭증에 순손실 140조원…앤스로픽 1.7조달러 가치 가능할까",
+    "url": "https://www.hankyung.com/article/202611021411i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/03 00:19",
+    "published_iso": "2026-11-03T00:19:46+09:00",
+    "sort_key": 1793632786.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "매출은 12배 늘었지만 순손실 140조 원 — Anthropic 1.7조 달러 가치 가능할까",
+     "impact": "AI 기업 가치 논쟁",
+     "affected": "AI 관련주"
+    }
+   },
+   {
+    "id": "b9e7753b4c",
+    "title": "美민주당 의회 장악하면…애플,엔비디아 등 조사받나?",
+    "url": "https://www.hankyung.com/article/202611021399i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/02 23:28",
+    "published_iso": "2026-11-02T23:28:08+09:00",
+    "sort_key": 1793629688.0,
+    "excerpt": "",
+    "matched": [
+     "NVDA",
+     "AAPL"
+    ],
+    "analysis": {
+     "summary": "미 민주당이 의회를 장악하면 애플·엔비디아 등이 조사받을지",
+     "impact": "빅테크 규제 위험",
+     "affected": "애플, 엔비디아"
+    }
+   },
+   {
+    "id": "1d9724ac69",
+    "title": "48년 물 안 마시고 콜라만 마신 버핏…30년 들고 있는 '이 주식'",
+    "url": "https://www.hankyung.com/article/2026110213457",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/02 21:58",
+    "published_iso": "2026-11-02T21:58:07+09:00",
+    "sort_key": 1793624287.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "48년간 콜라만 마신 버핏이 30년 들고 있는 코카콜라",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "5a19e92782",
+    "title": "엔비디아가 찜한 마벨, 루멘텀 합병…154조원 AI반도체 빅딜",
+    "url": "https://www.hankyung.com/article/202611021336i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/02 21:55",
+    "published_iso": "2026-11-02T21:55:27+09:00",
+    "sort_key": 1793624127.0,
+    "excerpt": "",
+    "matched": [
+     "NVDA"
+    ],
+    "analysis": {
+     "summary": "엔비디아가 찜한 마벨이 루멘텀과 합병 — 154조 원 AI 반도체 빅딜",
+     "impact": "AI 광통신 부품 업계 재편",
+     "affected": "마벨, 루멘텀"
+    }
+   },
+   {
+    "id": "67d855b000",
+    "title": "금융지주 회장 연임 시 주총 의결요건 강화…3연임 땐 75% 찬성",
+    "url": "https://www.yna.co.kr/view/AKR20261102172400002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/02 21:21",
+    "published_iso": "2026-11-02T21:21:47+09:00",
+    "sort_key": 1793622107.0,
+    "excerpt": "(서울=연합뉴스) 강수련 김지연 기자 = 금융당국이 금융지주 회장 연임 횟수가 늘어날수록 임원후보추천위원회(임추위)와 주주총회 의결 요건을 단계...",
+    "matched": [],
+    "analysis": {
+     "summary": "금융지주 회장 연임 시 주총 의결 요건 강화 — 3연임은 75% 찬성",
+     "impact": "금융지주 지배구조 개선",
+     "affected": "금융지주"
+    }
+   },
+   {
+    "id": "160cee323a",
+    "title": "엔비디아 시총 제친 애플…월가는 \"주가 고평가\" 경고",
+    "url": "https://www.hankyung.com/article/202611021310i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/02 21:11",
+    "published_iso": "2026-11-02T21:11:06+09:00",
+    "sort_key": 1793621466.0,
+    "excerpt": "",
+    "matched": [
+     "NVDA",
+     "AAPL"
+    ],
+    "analysis": {
+     "summary": "애플이 엔비디아 시가총액을 제쳤지만 월가는 '주가 고평가' 경고",
+     "impact": "빅테크 내 자금 이동",
+     "affected": "애플, 엔비디아",
+     "important": true,
+     "important_tag": "관심종목",
+     "why_important": "관심종목 애플이 엔비디아 시가총액을 제침 — 월가는 고평가 경고"
+    }
+   },
+   {
+    "id": "632c984386",
+    "title": "보금자리론 10년 만기 금리 연 5%대 돌파",
+    "url": "https://www.hankyung.com/article/2026110212651",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/02 19:36",
+    "published_iso": "2026-11-02T19:36:12+09:00",
+    "sort_key": 1793615772.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "보금자리론 10년 만기 금리가 연 5%대 돌파",
+     "impact": "주택 대출 부담 증가",
+     "affected": "부동산, 은행"
+    }
+   },
+   {
+    "id": "6ea257f9b2",
+    "title": "美 민주, 중간선거 후 트럼프 관세 폐지 추진…한·일 대미투자금도 조사",
+    "url": "https://www.hankyung.com/article/202611021256i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/02 19:28",
+    "published_iso": "2026-11-02T19:28:51+09:00",
+    "sort_key": 1793615331.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "미 민주당이 중간선거 뒤 트럼프 관세 폐지 추진 — 한·일 대미 투자금도 조사",
+     "impact": "관세 정책 변화 가능성 — 한국 수출 기업에 변수",
+     "affected": "한국 수출주, 미국 무역 정책",
+     "important": true,
+     "important_tag": "정책·무역",
+     "why_important": "미 민주당이 중간선거 뒤 트럼프 관세 폐지 추진 — 한국 수출 기업에 큰 변수"
+    }
+   },
+   {
+    "id": "b167a27910",
+    "title": "호반, 한진칼 최대주주 가능성에…조원태, 주식 추가 매입키로(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20261102091751003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/02 18:56",
+    "published_iso": "2026-11-02T18:56:04+09:00",
+    "sort_key": 1793613364.0,
+    "excerpt": "(서울=연합뉴스) 장하나 임기창 기자 = 호반그룹이 한진그룹 지주사 한진칼 지분을 추가 매입하고 최대주주 해당 가능성과 관련해 공정거래위원회에 ...",
+    "matched": [],
+    "analysis": {
+     "summary": "호반그룹이 한진칼 최대주주가 될 가능성에 조원태 회장이 주식 추가 매입",
+     "impact": "한진칼 경영권 분쟁 가능성",
+     "affected": "한진칼, 대한항공"
+    }
+   },
+   {
+    "id": "329e1584b0",
+    "title": "與 민병덕 \"가상자산, 기본법도 없는데 과세할 수 없어\"",
+    "url": "https://www.yna.co.kr/view/AKR20261102162000002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/02 18:51",
+    "published_iso": "2026-11-02T18:51:22+09:00",
+    "sort_key": 1793613082.0,
+    "excerpt": "(서울=연합뉴스) 박수현 기자 = 국내 가상자산 시장 경쟁력을 키우기 위해서는 과세를 유예하고 관련 입법 등 제도화부터 서둘러야 한다는 의견이 ...",
+    "matched": [],
+    "analysis": {
+     "summary": "여당 민병덕 '가상자산 기본법도 없는데 과세 못 해'",
+     "impact": "가상자산 과세 유예 가능성",
+     "affected": "가상자산"
+    }
+   },
+   {
+    "id": "0b8463b2fd",
+    "title": "바이낸스 해킹에…금융위, 가상자산거래소 신속 출금제한 방안 검토(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20261102134651002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/02 18:51",
+    "published_iso": "2026-11-02T18:51:09+09:00",
+    "sort_key": 1793613069.0,
+    "excerpt": "(서울=연합뉴스) 강수련 유동현 기자 = 금융위원회가 &apos;바이낸스 해킹 사고&apos;와 관련 국내 가상자산거래소를 긴급 소집해 준비금 추가 적립 등을 당...",
+    "matched": [],
+    "analysis": {
+     "summary": "바이낸스 해킹에 금융위가 국내 거래소 신속 출금 제한 방안 검토",
+     "impact": "국내 거래소 규제 강화",
+     "affected": "가상자산 거래소"
+    }
+   },
+   {
+    "id": "30d7d4cdf9",
+    "title": "정의선 만난 이형일…생산세액공제 등 전기차 경쟁력 강화 논의(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20261102126151002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/02 18:37",
+    "published_iso": "2026-11-02T18:37:43+09:00",
+    "sort_key": 1793612263.0,
+    "excerpt": "(서울·세종=연합뉴스) 장하나 김수현 기자 = 이형일 부총리 겸 재정경제부 장관이 정의선 현대차그룹 회장을 만나 전기차 경쟁력 강화방안 등을 논...",
+    "matched": [],
+    "analysis": {
+     "summary": "부총리가 정의선 회장과 생산세액공제 등 전기차 경쟁력 방안 논의",
+     "impact": "전기차 지원 정책 기대",
+     "affected": "현대차·기아"
+    }
+   },
+   {
+    "id": "643b639ea0",
+    "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+    "url": "https://www.yna.co.kr/view/AKR20261102156900011",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/02 18:00",
+    "published_iso": "2026-11-02T18:00:00+09:00",
+    "sort_key": 1793610000.0,
+    "excerpt": "■ 개청 한달 아직도 &apos;검찰청&apos; 그늘 밑…갈길 먼 중수청·공소청",
+    "matched": [],
+    "analysis": {
+     "summary": "연합뉴스 18시 주요 뉴스 모음",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "4f7502d824",
+    "title": "강원 겨울관광 알리고 소비 늘리고…도·기업은행 맞손",
+    "url": "https://www.yna.co.kr/view/AKR20261102159200062",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/02 17:36",
+    "published_iso": "2026-11-02T17:36:09+09:00",
+    "sort_key": 1793608569.0,
+    "excerpt": "(춘천=연합뉴스) 이재현 기자 = 강원특별자치도와 IBK기업은행이 관광객 유치와 지역 내 소비 확대를 위해 손을 잡았다.",
+    "matched": [],
+    "analysis": {
+     "summary": "강원도·기업은행 겨울 관광·소비 확대 협약",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "3bb3016cf2",
+    "title": "\"대부업법 개편해야…불법사금융과 독립된 '대부금융업법' 필요\"",
+    "url": "https://www.yna.co.kr/view/AKR20261102141700002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/02 17:32",
+    "published_iso": "2026-11-02T17:32:22+09:00",
+    "sort_key": 1793608342.0,
+    "excerpt": "(서울=연합뉴스) 강류나 기자 = 대부금융사를 불법사금융과 분리해 서민금융 공급자로서 자리잡도록 현행 대부업법을 개편하고 &apos;대부금융업법&apos;을 도입...",
+    "matched": [],
+    "analysis": {
+     "summary": "대부업법을 고쳐 '대부금융업법'을 따로 만들어야 한다는 제언",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   }
+  ],
+  "해외 경제언론": [
+   {
+    "id": "a90103c504",
+    "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+    "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/03 11:11",
+    "published_iso": "2026-11-03T11:11:13+09:00",
+    "sort_key": 1793671873.0,
+    "excerpt": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+    "matched": []
+   },
+   {
+    "id": "fde93fa8c4",
+    "title": "North Korea denies being behind record $6.3bn Binance hack",
+    "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/03 10:23",
+    "published_iso": "2026-11-03T10:23:03+09:00",
+    "sort_key": 1793668983.0,
+    "excerpt": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+    "matched": []
+   },
+   {
+    "id": "62a55797eb",
+    "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+    "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/03 09:41",
+    "published_iso": "2026-11-03T09:41:36+09:00",
+    "sort_key": 1793666496.0,
+    "excerpt": "The men and women who rummage through commercial bins to take clothes and other items.",
+    "matched": []
+   },
+   {
+    "id": "5b071ae017",
+    "title": "Apple unsure when more foldable iPhones will be available after selling out",
+    "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/03 09:29",
+    "published_iso": "2026-11-03T09:29:00+09:00",
+    "sort_key": 1793665740.0,
+    "excerpt": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
+    "matched": [
+     "AAPL"
+    ]
+   },
+   {
+    "id": "d43289e094",
+    "title": "William Nordhaus Has Died. Nobelist Influenced Climate Policy.",
+    "url": "https://www.nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/03 07:19",
+    "published_iso": "2026-11-03T07:19:30+09:00",
+    "sort_key": 1793657970.0,
+    "excerpt": "The Yale professor moved climate change into mainstream economic analysis.",
+    "matched": [],
+    "analysis": {
+     "summary": "기후 정책에 영향을 준 노벨경제학상 수상자 윌리엄 노드하우스 별세",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "2b4b92e06f",
+    "title": "Are Freezers Being Hacked? Europe and the U.S. Military Are Investigating.",
+    "url": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/03 06:28",
+    "published_iso": "2026-11-03T06:28:04+09:00",
+    "sort_key": 1793654884.0,
+    "excerpt": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday.",
+    "matched": [],
+    "analysis": {
+     "summary": "유럽 식료품점 냉동고 장애를 사이버 공격으로 보고 유럽·미군이 조사",
+     "impact": "사이버 보안 위협 확대",
+     "affected": "유통, 보안"
+    }
+   },
+   {
+    "id": "2ebc456578",
+    "title": "He Pioneered a Groundbreaking Idea and Was Met With Corporate Wrath",
+    "url": "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/03 06:19",
+    "published_iso": "2026-11-03T06:19:57+09:00",
+    "sort_key": 1793654397.0,
+    "excerpt": "Economist William Nordhaus said putting a price on pollution was the best way to reduce climate change. Then came the fossil fuel lobby and the anti-tax movement.",
+    "matched": [],
+    "analysis": {
+     "summary": "탄소 가격제를 처음 주장해 기업 반발을 산 노드하우스(앞 기사와 같은 내용)",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "9d685cdf17",
+    "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+    "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+    "source": "CNBC Finance",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/03 06:13",
+    "published_iso": "2026-11-03T06:13:43+09:00",
+    "sort_key": 1793654023.0,
+    "excerpt": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
+    "matched": [],
+    "analysis": {
+     "summary": "예측시장에서 텍사스 주지사 선거가 접전으로 — 애벗 우세는 유지",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "0d7f17b03c",
+    "title": "Trump Administration Said to Plan Rolling Back Pregnancy-Related Job Protections",
+    "url": "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/03 05:44",
+    "published_iso": "2026-11-03T05:44:39+09:00",
+    "sort_key": 1793652279.0,
+    "excerpt": "The Biden era law was meant to help women stay in the workplace, but some conservatives say rules to enact it went too far with coverage for abortion and fertility treatment.",
+    "matched": [],
+    "analysis": {
+     "summary": "트럼프 정부가 임신 관련 직장 보호 규정 후퇴 계획",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "dd668d0c07",
+    "title": "Stock market after midterm elections: What S&P 500 history shows",
+    "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+    "source": "CNBC Finance",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/03 02:57",
+    "published_iso": "2026-11-03T02:57:35+09:00",
+    "sort_key": 1793642255.0,
+    "excerpt": "Midterms historically precede a strong year for the S&amp;P 500. What to know if Democrats win back Congress",
+    "matched": [],
+    "analysis": {
+     "summary": "중간선거 뒤 S&P 500은 역사적으로 강한 해를 보냈다는 분석",
+     "impact": "시장 영향은 제한적",
+     "affected": "미국 증시"
+    }
+   },
+   {
+    "id": "c898d39a15",
+    "title": "Trump’s Tariffs Are On the Ballot in Michigan",
+    "url": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/03 01:37",
+    "published_iso": "2026-11-03T01:37:50+09:00",
+    "sort_key": 1793637470.0,
+    "excerpt": "The levies as well as trade fighting with Canada are facing a test in the state, where voters appear skeptical of free trade but also of the president’s erratic approach.",
+    "matched": [],
+    "analysis": {
+     "summary": "미시간에서 트럼프 관세가 선거 쟁점",
+     "impact": "관세 정책 정치적 부담",
+     "affected": "미국 무역 정책"
+    }
+   },
+   {
+    "id": "a15e978a30",
+    "title": "Martha Stewart Apologizes for Homeless Halloween Costume",
+    "url": "https://www.nytimes.com/2026/11/02/style/martha-stewart-homeless-halloween-costume-apology.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/03 01:29",
+    "published_iso": "2026-11-03T01:29:24+09:00",
+    "sort_key": 1793636964.0,
+    "excerpt": "Stewart, the media mogul and entrepreneur, had posted a photo of a costume with tattered clothes and a sign asking for help.",
+    "matched": [],
+    "analysis": {
+     "summary": "마사 스튜어트가 노숙자 핼러윈 의상으로 사과",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "c5ba1d6d3e",
+    "title": "Anthropic Reveals Surging Revenue in Third Quarter as I.P.O. Approaches",
+    "url": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/03 00:48",
+    "published_iso": "2026-11-03T00:48:38+09:00",
+    "sort_key": 1793634518.0,
+    "excerpt": "The A.I. company’s quarterly revenue totaled $17 billion, 12 times higher than the same quarter a year ago, while its net loss totaled $23 billion.",
+    "matched": [],
+    "analysis": {
+     "summary": "Anthropic 3분기 매출 170억 달러 — 1년 전의 12배, 상장 앞두고 공개",
+     "impact": "AI 수요가 실제 매출로 확인 — AI 투자 회의론 일부 완화",
+     "affected": "AI 관련주, 클라우드, 반도체",
+     "important": true,
+     "important_tag": "산업·실적",
+     "why_important": "Anthropic 3분기 매출 170억 달러로 1년 새 12배 — AI 수요가 실제 매출로 확인"
+    }
+   },
+   {
+    "id": "2bbdae702e",
+    "title": "Shop freezers in seven European countries hit by cyber-attack",
+    "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/03 00:12",
+    "published_iso": "2026-11-03T00:12:22+09:00",
+    "sort_key": 1793632342.0,
+    "excerpt": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+    "matched": [],
+    "analysis": {
+     "summary": "유럽 7개국 상점 냉동고가 사이버 공격으로 최고 50도까지 올라감(앞 기사와 같은 내용)",
+     "impact": "사이버 보안 위협",
+     "affected": "유통"
+    }
+   },
+   {
+    "id": "916b249670",
+    "title": "How A.I. Is Making It Easier Than Ever to Microtarget Voters",
+    "url": "https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/02 23:55",
+    "published_iso": "2026-11-02T23:55:57+09:00",
+    "sort_key": 1793631357.0,
+    "excerpt": "Hyper-personalized messages, delivered with A.I.-enabled precision, herald a new frontier for voter outreach (and potential disinformation).",
+    "matched": [],
+    "analysis": {
+     "summary": "AI로 유권자 맞춤 메시지를 보내기 쉬워짐",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "4e5577e538",
+    "title": "Poundland's former owner offers to invest as minister prepares to meet board",
+    "url": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/02 22:40",
+    "published_iso": "2026-11-02T22:40:36+09:00",
+    "sort_key": 1793626836.0,
+    "excerpt": "Wolverhampton's Steve Smith says he attempted to contact Gordon Brothers but did not get a reply.",
+    "matched": [],
+    "analysis": {
+     "summary": "파운드랜드 전 주인이 투자 제안 — 장관이 이사회와 만날 예정",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "81f367f089",
+    "title": "Cracks in the A.I. Borrowing Binge",
+    "url": "https://www.nytimes.com/2026/11/02/business/dealbook/ai-borrowing-binge.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/02 21:36",
+    "published_iso": "2026-11-02T21:36:44+09:00",
+    "sort_key": 1793623004.0,
+    "excerpt": "Investors are growing increasingly concerned about the debt-fueled spending spree at the heart of the artificial intelligence buildout.",
+    "matched": [],
+    "analysis": {
+     "summary": "빚으로 하는 AI 투자에 금이 가기 시작 — 투자자 우려 확대",
+     "impact": "AI 인프라 신용 위험",
+     "affected": "AI 인프라, 회사채"
+    }
+   },
+   {
+    "id": "4652b6ad9b",
+    "title": "Ryanair says it may freeze workers' pay and raise airfares",
+    "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/02 21:22",
+    "published_iso": "2026-11-02T21:22:10+09:00",
+    "sort_key": 1793622130.0,
+    "excerpt": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+    "matched": [],
+    "analysis": {
+     "summary": "라이언에어가 연료비 상승 시 임금 동결·항공료 인상 가능성 언급",
+     "impact": "항공업 비용 부담",
+     "affected": "항공주"
+    }
+   },
+   {
+    "id": "afde81d093",
+    "title": "Disneyland’s Autopia Ride Will Switch to Electric Vehicles",
+    "url": "https://www.nytimes.com/2026/11/02/climate/after-71-years-and-a-lot-of-exhaust-disneylands-autopia-goes-electric.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/02 21:08",
+    "published_iso": "2026-11-02T21:08:47+09:00",
+    "sort_key": 1793621327.0,
+    "excerpt": "The gas-powered engines in Disneyland’s Autopia ride weren’t properly certified. The little cars will be replaced by E.V.s.",
+    "matched": [],
+    "analysis": {
+     "summary": "디즈니랜드 오토피아 놀이기구가 전기차로 바뀜",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "4a13b8e3b9",
+    "title": "How The New York Times Is Covering the Midterm Elections",
+    "url": "https://www.nytimes.com/2026/11/02/insider/new-york-times-midterm-elections.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/02 19:02",
+    "published_iso": "2026-11-02T19:02:41+09:00",
+    "sort_key": 1793613761.0,
+    "excerpt": "More than 400 journalists across at least 30 states will interview voters, break down results and identify trends.",
+    "matched": [],
+    "analysis": {
+     "summary": "뉴욕타임스의 중간선거 취재 방식",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "94f4352940",
+    "title": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal",
+    "url": "https://www.nytimes.com/2026/11/02/business/iran-war-gulf-economies.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/02 19:02",
+    "published_iso": "2026-11-02T19:02:16+09:00",
+    "sort_key": 1793613736.0,
+    "excerpt": "States like Saudi Arabia and the United Arab Emirates that have worked to rebalance from a dependence on energy have seen growth plunge in a year of strife.",
+    "matched": [],
+    "analysis": {
+     "summary": "이란 전쟁으로 흔들린 걸프 경제가 정상화를 간절히 원함",
+     "impact": "중동 경제 불안",
+     "affected": "국제 유가"
+    }
+   }
+  ],
+  "중앙은행·국제기구": [
+   {
+    "id": "ab4c32c288",
+    "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+    "source": "유럽중앙은행(ECB)",
+    "group": "중앙은행·국제기구",
+    "lang": "en",
+    "published_kst": "11/02 18:30",
+    "published_iso": "2026-11-02T18:30:00+09:00",
+    "sort_key": 1793611800.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "ECB 부이치치 부총재 연설 — 분절되는 세계 속 유럽의 강점",
+     "impact": "시장 영향은 제한적",
+     "affected": "유로화"
+    }
+   }
   ]
+ },
+ "counts": {
+  "indices_ok": 8,
+  "indices_total": 8,
+  "stocks_ok": 9,
+  "stocks_total": 9,
+  "news": 68,
+  "news_new": 23
+ },
+ "errors": [
+  {
+   "stage": "news",
+   "target": "금융위원회 보도자료",
+   "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
+  }
+ ]
 }
