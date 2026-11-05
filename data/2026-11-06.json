@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "generated_at": "2026-11-06 00:24",
+ "generated_at": "2026-11-06 07:26",
  "weekday": "금",
  "site": {
   "title": "오늘의 경제 한 장",
@@ -49,13 +49,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 7497.45,
+   "price": 7353.73,
    "prev_close": 7720.39,
-   "change": -222.94,
-   "change_pct": -2.89,
+   "change": -366.66,
+   "change_pct": -4.75,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1793892291,
+   "asof_epoch": 1793914448,
    "asof_date": null
   },
   {
@@ -65,13 +65,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 24694.666,
+   "price": 24314.998,
    "prev_close": 26184.72,
-   "change": -1490.054,
-   "change_pct": -5.69,
+   "change": -1869.722,
+   "change_pct": -7.14,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1793892287,
+   "asof_epoch": 1793916959,
    "asof_date": null
   },
   {
@@ -81,13 +81,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 1351.28,
+   "price": 1357.88,
    "prev_close": 1337.98,
-   "change": 13.3,
-   "change_pct": 0.99,
+   "change": 19.9,
+   "change_pct": 1.49,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1793892276,
+   "asof_epoch": 1793916070,
    "asof_date": null
   },
   {
@@ -97,13 +97,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 4.868,
+   "price": 4.837,
    "prev_close": 4.929,
-   "change": -0.061,
-   "change_pct": -1.24,
+   "change": -0.092,
+   "change_pct": -1.87,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1793891374,
+   "asof_epoch": 1793908794,
    "asof_date": null
   },
   {
@@ -113,13 +113,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 89.98,
+   "price": 91.2,
    "prev_close": 96.46,
-   "change": -6.48,
-   "change_pct": -6.72,
+   "change": -5.26,
+   "change_pct": -5.45,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1793891675,
+   "asof_epoch": 1793915999,
    "asof_date": null
   },
   {
@@ -129,13 +129,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 4122.3,
+   "price": 4097.9,
    "prev_close": 3969.6,
-   "change": 152.7,
-   "change_pct": 3.85,
+   "change": 128.3,
+   "change_pct": 3.23,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1793891674,
+   "asof_epoch": 1793915999,
    "asof_date": null
   }
  ],
@@ -257,15 +257,23 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 184.9,
+   "price": 181.6,
    "prev_close": 213.66,
-   "change": -28.76,
-   "change_pct": -13.46,
+   "change": -32.06,
+   "change_pct": -15.01,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1793892293,
+   "asof_epoch": 1793912401,
    "asof_date": null,
-   "news": []
+   "news": [
+    {
+     "id": "4b23b50783",
+     "title": "엔비디아 H200칩 60만개 홍콩에 적재…中당국 수입승인 또 보류",
+     "url": "https://www.hankyung.com/article/202611059474i",
+     "source": "한국경제",
+     "published_kst": "11/06 00:14"
+    }
+   ]
   },
   {
    "name": "애플",
@@ -278,15 +286,23 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 350.5,
+   "price": 344.17,
    "prev_close": 348.91,
-   "change": 1.59,
-   "change_pct": 0.46,
+   "change": -4.74,
+   "change_pct": -1.36,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1793892287,
+   "asof_epoch": 1793912401,
    "asof_date": null,
-   "news": []
+   "news": [
+    {
+     "id": "68041687ed",
+     "title": "연말 랠리 전망에도 기술주 대탈출…애플만 선방[박신영의 개장전 요것만]",
+     "url": "https://www.hankyung.com/article/202611069553i",
+     "source": "한국경제",
+     "published_kst": "11/06 00:29"
+    }
+   ]
   },
   {
    "name": "테슬라",
@@ -299,13 +315,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 348.52,
+   "price": 343.69,
    "prev_close": 403.3,
-   "change": -54.78,
-   "change_pct": -13.58,
+   "change": -59.61,
+   "change_pct": -14.78,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1793892294,
+   "asof_epoch": 1793912401,
    "asof_date": null,
    "news": []
   },
@@ -320,18 +336,215 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 542.75,
+   "price": 535.93,
    "prev_close": 530.14,
-   "change": 12.61,
-   "change_pct": 2.38,
+   "change": 5.79,
+   "change_pct": 1.09,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1793892293,
+   "asof_epoch": 1793912401,
    "asof_date": null,
    "news": []
   }
  ],
  "news": [
+  {
+   "id": "45e2f208d2",
+   "title": "Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech",
+   "url": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/06 07:18",
+   "published_iso": "2026-11-06T07:18:24+09:00",
+   "sort_key": 1793917104.0,
+   "excerpt": "The S&amp;P 500 slumped to its worst daily decline since April 2025 and the tech-heavy Nasdaq entered correction territory, as investors fretted about the durability of the A.I. build-out.",
+   "matched": []
+  },
+  {
+   "id": "4da0a601b9",
+   "title": "Bird Flu Death in Washington State Renews Concern Over the Virus",
+   "url": "https://www.nytimes.com/2026/11/05/health/bird-flu-death-us.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/06 07:16",
+   "published_iso": "2026-11-06T07:16:51+09:00",
+   "sort_key": 1793917011.0,
+   "excerpt": "The death follows reports of infections in cattle on dozens of American farms across the country over the past month and a worrying outbreak in mink.",
+   "matched": []
+  },
+  {
+   "id": "c0beb4b560",
+   "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+   "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/06 07:13",
+   "published_iso": "2026-11-06T07:13:38+09:00",
+   "sort_key": 1793916818.0,
+   "excerpt": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
+   "matched": []
+  },
+  {
+   "id": "e27480be66",
+   "title": "Salon, a Pioneer of Digital Journalism, Shuts Down",
+   "url": "https://www.nytimes.com/2026/11/05/business/media/salon-online-magazine-shutters.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/06 06:49",
+   "published_iso": "2026-11-06T06:49:22+09:00",
+   "sort_key": 1793915362.0,
+   "excerpt": "The progressive website, founded in 1995, said its business was “no longer sustainable.”",
+   "matched": []
+  },
+  {
+   "id": "6e38a863ec",
+   "title": "The October jobs report is out Friday. Here's everything to expect",
+   "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
+   "source": "CNBC Economy",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/06 06:32",
+   "published_iso": "2026-11-06T06:32:52+09:00",
+   "sort_key": 1793914372.0,
+   "excerpt": "The Bureau of Labor Statistics releases the October nonfarm payrolls report Friday at 8:30 a.m. ET.",
+   "matched": []
+  },
+  {
+   "id": "eeec90d29d",
+   "title": "Klaus-Michael Kühne Has Died. His Company Played a Dark Role in Nazi Germany.",
+   "url": "https://www.nytimes.com/2026/11/05/world/europe/klaus-michael-kuhne-dead.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/06 06:16",
+   "published_iso": "2026-11-06T06:16:14+09:00",
+   "sort_key": 1793913374.0,
+   "excerpt": "As Klaus-Michael Kühne’s business became a global force in container shipping, he resisted demands to document its wartime activities. He was 89.",
+   "matched": []
+  },
+  {
+   "id": "ca3f6899cc",
+   "title": "민간공급 속도…국토부, 주택공급 통합지원센터 국장급으로 신설",
+   "url": "https://www.yna.co.kr/view/AKR20261105137700003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/06 06:01",
+   "published_iso": "2026-11-06T06:01:01+09:00",
+   "sort_key": 1793912461.0,
+   "excerpt": "(세종=연합뉴스) 오진송 기자 = 정부가 주택 건설사업 과정에서 발생하는 인허가 지연과 금융 애로사항을 해소하기 위한 &apos;주택공급 통합지원센터&apos;를...",
+   "matched": []
+  },
+  {
+   "id": "be8596071e",
+   "title": "“지난달 먹은 메뉴 또?”…고물가에 60대 지갑까지 연 뷔페의 변신 [권용훈의 트렌드워치]",
+   "url": "https://www.hankyung.com/article/202611059501i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/06 06:00",
+   "published_iso": "2026-11-06T06:00:13+09:00",
+   "sort_key": 1793912413.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "1abf738c43",
+   "title": "공공기관 공간정보 품질관리 수준 작년보다 16% 향상",
+   "url": "https://www.yna.co.kr/view/AKR20261105149100003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/06 06:00",
+   "published_iso": "2026-11-06T06:00:03+09:00",
+   "sort_key": 1793912403.0,
+   "excerpt": "(세종=연합뉴스) 오진송 기자 = 중앙·지방정부와 공공기관의 공간정보 품질관리 수준이 작년보다 15.9% 향상된 것으로 나타났다.",
+   "matched": []
+  },
+  {
+   "id": "4a2cd4bca6",
+   "title": "'금리동결 반대' 연준 위원 \"긴축 필요…작고 잦은 조정 선호\"",
+   "url": "https://www.yna.co.kr/view/AKR20261106006000072",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/06 04:57",
+   "published_iso": "2026-11-06T04:57:16+09:00",
+   "sort_key": 1793908636.0,
+   "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 베스 해맥 미국 클리블랜드 연방준비은행(연은) 총재는 인플레이션을 연방준비제도(Fed·연준)의 목표치로 되돌...",
+   "matched": []
+  },
+  {
+   "id": "1c62aa3436",
+   "title": "Bomb Threats Disrupt European Flights and Rattle Passengers",
+   "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/06 04:39",
+   "published_iso": "2026-11-06T04:39:19+09:00",
+   "sort_key": 1793907559.0,
+   "excerpt": "Passengers recounted landing at a military base and being subjected to security checks and travel delays after threats that turned out to be hoaxes affected planes in Italy, Poland and Spain.",
+   "matched": []
+  },
+  {
+   "id": "b48ffd832e",
+   "title": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
+   "url": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/06 04:27",
+   "published_iso": "2026-11-06T04:27:58+09:00",
+   "sort_key": 1793906878.0,
+   "excerpt": "A student made plans to end her life after chatting with Google’s artificial intelligence, a new lawsuit claims, amid mounting concerns about online harms to children.",
+   "matched": []
+  },
+  {
+   "id": "4a54c8bbc0",
+   "title": "영국, 3년만에 금리 인상…BOE 총재 \"추가 인상도 가능\"(종합2보)",
+   "url": "https://www.yna.co.kr/view/AKR20261105179053085",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/06 01:04",
+   "published_iso": "2026-11-06T01:04:14+09:00",
+   "sort_key": 1793894654.0,
+   "excerpt": "(런던=연합뉴스) 김지연 특파원 = 영국 중앙은행인 잉글랜드은행(BOE)이 5일(현지시간) 통화정책위원회에서 기준금리를 연 4.00%로 0.25...",
+   "matched": []
+  },
+  {
+   "id": "0224349908",
+   "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+   "source": "연준(Fed) 보도자료",
+   "group": "중앙은행·국제기구",
+   "lang": "en",
+   "published_kst": "11/06 01:00",
+   "published_iso": "2026-11-06T01:00:00+09:00",
+   "sort_key": 1793894400.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "68041687ed",
+   "title": "연말 랠리 전망에도 기술주 대탈출…애플만 선방[박신영의 개장전 요것만]",
+   "url": "https://www.hankyung.com/article/202611069553i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/06 00:29",
+   "published_iso": "2026-11-06T00:29:21+09:00",
+   "sort_key": 1793892561.0,
+   "excerpt": "",
+   "matched": [
+    "AAPL"
+   ]
+  },
   {
    "id": "bb158f4d17",
    "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
@@ -344,6 +557,21 @@
    "sort_key": 1793891765.0,
    "excerpt": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust.",
    "matched": []
+  },
+  {
+   "id": "4b23b50783",
+   "title": "엔비디아 H200칩 60만개 홍콩에 적재…中당국 수입승인 또 보류",
+   "url": "https://www.hankyung.com/article/202611059474i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/06 00:14",
+   "published_iso": "2026-11-06T00:14:21+09:00",
+   "sort_key": 1793891661.0,
+   "excerpt": "",
+   "matched": [
+    "NVDA"
+   ]
   },
   {
    "id": "775cb72567",
@@ -791,6 +1019,110 @@
  "news_groups": {
   "해외 경제언론": [
    {
+    "id": "45e2f208d2",
+    "title": "Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech",
+    "url": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/06 07:18",
+    "published_iso": "2026-11-06T07:18:24+09:00",
+    "sort_key": 1793917104.0,
+    "excerpt": "The S&amp;P 500 slumped to its worst daily decline since April 2025 and the tech-heavy Nasdaq entered correction territory, as investors fretted about the durability of the A.I. build-out.",
+    "matched": []
+   },
+   {
+    "id": "4da0a601b9",
+    "title": "Bird Flu Death in Washington State Renews Concern Over the Virus",
+    "url": "https://www.nytimes.com/2026/11/05/health/bird-flu-death-us.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/06 07:16",
+    "published_iso": "2026-11-06T07:16:51+09:00",
+    "sort_key": 1793917011.0,
+    "excerpt": "The death follows reports of infections in cattle on dozens of American farms across the country over the past month and a worrying outbreak in mink.",
+    "matched": []
+   },
+   {
+    "id": "c0beb4b560",
+    "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+    "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/06 07:13",
+    "published_iso": "2026-11-06T07:13:38+09:00",
+    "sort_key": 1793916818.0,
+    "excerpt": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
+    "matched": []
+   },
+   {
+    "id": "e27480be66",
+    "title": "Salon, a Pioneer of Digital Journalism, Shuts Down",
+    "url": "https://www.nytimes.com/2026/11/05/business/media/salon-online-magazine-shutters.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/06 06:49",
+    "published_iso": "2026-11-06T06:49:22+09:00",
+    "sort_key": 1793915362.0,
+    "excerpt": "The progressive website, founded in 1995, said its business was “no longer sustainable.”",
+    "matched": []
+   },
+   {
+    "id": "6e38a863ec",
+    "title": "The October jobs report is out Friday. Here's everything to expect",
+    "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
+    "source": "CNBC Economy",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/06 06:32",
+    "published_iso": "2026-11-06T06:32:52+09:00",
+    "sort_key": 1793914372.0,
+    "excerpt": "The Bureau of Labor Statistics releases the October nonfarm payrolls report Friday at 8:30 a.m. ET.",
+    "matched": []
+   },
+   {
+    "id": "eeec90d29d",
+    "title": "Klaus-Michael Kühne Has Died. His Company Played a Dark Role in Nazi Germany.",
+    "url": "https://www.nytimes.com/2026/11/05/world/europe/klaus-michael-kuhne-dead.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/06 06:16",
+    "published_iso": "2026-11-06T06:16:14+09:00",
+    "sort_key": 1793913374.0,
+    "excerpt": "As Klaus-Michael Kühne’s business became a global force in container shipping, he resisted demands to document its wartime activities. He was 89.",
+    "matched": []
+   },
+   {
+    "id": "1c62aa3436",
+    "title": "Bomb Threats Disrupt European Flights and Rattle Passengers",
+    "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/06 04:39",
+    "published_iso": "2026-11-06T04:39:19+09:00",
+    "sort_key": 1793907559.0,
+    "excerpt": "Passengers recounted landing at a military base and being subjected to security checks and travel delays after threats that turned out to be hoaxes affected planes in Italy, Poland and Spain.",
+    "matched": []
+   },
+   {
+    "id": "b48ffd832e",
+    "title": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
+    "url": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/06 04:27",
+    "published_iso": "2026-11-06T04:27:58+09:00",
+    "sort_key": 1793906878.0,
+    "excerpt": "A student made plans to end her life after chatting with Google’s artificial intelligence, a new lawsuit claims, amid mounting concerns about online harms to children.",
+    "matched": []
+   },
+   {
     "id": "bb158f4d17",
     "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "url": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
@@ -1000,6 +1332,101 @@
    }
   ],
   "국내 경제언론": [
+   {
+    "id": "ca3f6899cc",
+    "title": "민간공급 속도…국토부, 주택공급 통합지원센터 국장급으로 신설",
+    "url": "https://www.yna.co.kr/view/AKR20261105137700003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/06 06:01",
+    "published_iso": "2026-11-06T06:01:01+09:00",
+    "sort_key": 1793912461.0,
+    "excerpt": "(세종=연합뉴스) 오진송 기자 = 정부가 주택 건설사업 과정에서 발생하는 인허가 지연과 금융 애로사항을 해소하기 위한 &apos;주택공급 통합지원센터&apos;를...",
+    "matched": []
+   },
+   {
+    "id": "be8596071e",
+    "title": "“지난달 먹은 메뉴 또?”…고물가에 60대 지갑까지 연 뷔페의 변신 [권용훈의 트렌드워치]",
+    "url": "https://www.hankyung.com/article/202611059501i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/06 06:00",
+    "published_iso": "2026-11-06T06:00:13+09:00",
+    "sort_key": 1793912413.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "1abf738c43",
+    "title": "공공기관 공간정보 품질관리 수준 작년보다 16% 향상",
+    "url": "https://www.yna.co.kr/view/AKR20261105149100003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/06 06:00",
+    "published_iso": "2026-11-06T06:00:03+09:00",
+    "sort_key": 1793912403.0,
+    "excerpt": "(세종=연합뉴스) 오진송 기자 = 중앙·지방정부와 공공기관의 공간정보 품질관리 수준이 작년보다 15.9% 향상된 것으로 나타났다.",
+    "matched": []
+   },
+   {
+    "id": "4a2cd4bca6",
+    "title": "'금리동결 반대' 연준 위원 \"긴축 필요…작고 잦은 조정 선호\"",
+    "url": "https://www.yna.co.kr/view/AKR20261106006000072",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/06 04:57",
+    "published_iso": "2026-11-06T04:57:16+09:00",
+    "sort_key": 1793908636.0,
+    "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 베스 해맥 미국 클리블랜드 연방준비은행(연은) 총재는 인플레이션을 연방준비제도(Fed·연준)의 목표치로 되돌...",
+    "matched": []
+   },
+   {
+    "id": "4a54c8bbc0",
+    "title": "영국, 3년만에 금리 인상…BOE 총재 \"추가 인상도 가능\"(종합2보)",
+    "url": "https://www.yna.co.kr/view/AKR20261105179053085",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/06 01:04",
+    "published_iso": "2026-11-06T01:04:14+09:00",
+    "sort_key": 1793894654.0,
+    "excerpt": "(런던=연합뉴스) 김지연 특파원 = 영국 중앙은행인 잉글랜드은행(BOE)이 5일(현지시간) 통화정책위원회에서 기준금리를 연 4.00%로 0.25...",
+    "matched": []
+   },
+   {
+    "id": "68041687ed",
+    "title": "연말 랠리 전망에도 기술주 대탈출…애플만 선방[박신영의 개장전 요것만]",
+    "url": "https://www.hankyung.com/article/202611069553i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/06 00:29",
+    "published_iso": "2026-11-06T00:29:21+09:00",
+    "sort_key": 1793892561.0,
+    "excerpt": "",
+    "matched": [
+     "AAPL"
+    ]
+   },
+   {
+    "id": "4b23b50783",
+    "title": "엔비디아 H200칩 60만개 홍콩에 적재…中당국 수입승인 또 보류",
+    "url": "https://www.hankyung.com/article/202611059474i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/06 00:14",
+    "published_iso": "2026-11-06T00:14:21+09:00",
+    "sort_key": 1793891661.0,
+    "excerpt": "",
+    "matched": [
+     "NVDA"
+    ]
+   },
    {
     "id": "7df650f5d7",
     "title": "美가 수출막은 블랙웰칩…中문샷AI,유럽서 웃돈주고 빌리려했다",
@@ -1211,6 +1638,19 @@
   ],
   "중앙은행·국제기구": [
    {
+    "id": "0224349908",
+    "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+    "source": "연준(Fed) 보도자료",
+    "group": "중앙은행·국제기구",
+    "lang": "en",
+    "published_kst": "11/06 01:00",
+    "published_iso": "2026-11-06T01:00:00+09:00",
+    "sort_key": 1793894400.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
     "id": "ae12e9ef0f",
     "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
@@ -1258,15 +1698,10 @@
   "indices_total": 8,
   "stocks_ok": 9,
   "stocks_total": 9,
-  "news": 35,
-  "news_new": 35
+  "news": 51,
+  "news_new": 16
  },
  "errors": [
-  {
-   "stage": "news",
-   "target": "연준(Fed) 보도자료",
-   "message": "HTTPError: 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_all.xml"
-  },
   {
    "stage": "news",
    "target": "금융위원회 보도자료",
