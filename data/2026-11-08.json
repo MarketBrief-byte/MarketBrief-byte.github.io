@@ -1,1565 +1,1625 @@
 {
- "date": "2026-11-08",
- "generated_at": "2026-11-08 10:22",
- "weekday": "일",
- "site": {
-  "title": "오늘의 경제 한 장",
-  "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
-  "author": "asqwkl3215",
-  "timezone_label": "KST",
-  "base_url": "https://marketbrief-byte.github.io"
- },
- "indices": [
-  {
-   "name": "코스피",
-   "symbol": "^KS11",
-   "unit": "pt",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 5059.69,
-   "prev_close": 5730.74,
-   "change": -671.05,
-   "change_pct": -11.71,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1793963140,
-   "asof_date": null
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08 10:22",
+  "weekday": "일",
+  "site": {
+    "title": "오늘의 경제 한 장",
+    "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
+    "author": "asqwkl3215",
+    "timezone_label": "KST",
+    "base_url": "https://marketbrief-byte.github.io"
   },
-  {
-   "name": "코스닥",
-   "symbol": "^KQ11",
-   "unit": "pt",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 644.27,
-   "prev_close": 724.38,
-   "change": -80.11,
-   "change_pct": -11.06,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1793963140,
-   "asof_date": null
-  },
-  {
-   "name": "S&P 500",
-   "symbol": "^GSPC",
-   "unit": "pt",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 7376.86,
-   "prev_close": 7580.07,
-   "change": -203.21,
-   "change_pct": -2.68,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1794001029,
-   "asof_date": null
-  },
-  {
-   "name": "나스닥",
-   "symbol": "^IXIC",
-   "unit": "pt",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 24579.424,
-   "prev_close": 25437.0,
-   "change": -857.576,
-   "change_pct": -3.37,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1794003359,
-   "asof_date": null
-  },
-  {
-   "name": "원/달러",
-   "symbol": "KRW=X",
-   "unit": "원",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 1363.65,
-   "prev_close": 1325.52,
-   "change": 38.13,
-   "change_pct": 2.88,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1794002398,
-   "asof_date": null
-  },
-  {
-   "name": "미 10년 국채",
-   "symbol": "^TNX",
-   "unit": "%",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 4.859,
-   "prev_close": 4.894,
-   "change": -0.035,
-   "change_pct": -0.72,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1793995196,
-   "asof_date": null
-  },
-  {
-   "name": "WTI 유가",
-   "symbol": "CL=F",
-   "unit": "$",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 90.83,
-   "prev_close": 96.46,
-   "change": -5.63,
-   "change_pct": -5.84,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1794002398,
-   "asof_date": null
-  },
-  {
-   "name": "금",
-   "symbol": "GC=F",
-   "unit": "$",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 4074.9,
-   "prev_close": 3969.6,
-   "change": 105.3,
-   "change_pct": 2.65,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1794002399,
-   "asof_date": null
-  }
- ],
- "watchlist": [
-  {
-   "name": "삼성전자",
-   "symbol": "005930.KS",
-   "unit": "",
-   "keywords": [
-    "삼성전자",
-    "Samsung Electronics",
-    "삼성 반도체"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 188700.0,
-   "prev_close": 225000.0,
-   "change": -36300.0,
-   "change_pct": -16.13,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1793946608,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "SK하이닉스",
-   "symbol": "000660.KS",
-   "unit": "",
-   "keywords": [
-    "SK하이닉스",
-    "SK Hynix",
-    "하이닉스",
-    "HBM"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 1132000.0,
-   "prev_close": 1418000.0,
-   "change": -286000.0,
-   "change_pct": -20.17,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1793946605,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "현대차",
-   "symbol": "005380.KS",
-   "unit": "",
-   "keywords": [
-    "현대차",
-    "현대자동차",
-    "Hyundai Motor"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 279500.0,
-   "prev_close": 282000.0,
-   "change": -2500.0,
-   "change_pct": -0.89,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1793946608,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "LG에너지솔루션",
-   "symbol": "373220.KS",
-   "unit": "",
-   "keywords": [
-    "LG에너지솔루션",
-    "LG Energy Solution",
-    "이차전지",
-    "배터리"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 337500.0,
-   "prev_close": 359500.0,
-   "change": -22000.0,
-   "change_pct": -6.12,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1793946610,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "NAVER",
-   "symbol": "035420.KS",
-   "unit": "",
-   "keywords": [
-    "네이버",
-    "NAVER"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 190200.0,
-   "prev_close": 172300.0,
-   "change": 17900.0,
-   "change_pct": 10.39,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1793946606,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "엔비디아",
-   "symbol": "NVDA",
-   "unit": "",
-   "keywords": [
-    "엔비디아",
-    "Nvidia",
-    "NVDA"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 186.64,
-   "prev_close": 204.64,
-   "change": -18.0,
-   "change_pct": -8.8,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1793998800,
-   "asof_date": null,
-   "news": [
+  "indices": [
     {
-     "id": "78b9b9fdc4",
-     "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
-     "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
-     "source": "NYT Business",
-     "published_kst": "11/07 19:00"
+      "name": "코스피",
+      "symbol": "^KS11",
+      "unit": "pt",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 5059.69,
+      "prev_close": 5730.74,
+      "change": -671.05,
+      "change_pct": -11.71,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1793963140,
+      "asof_date": null
+    },
+    {
+      "name": "코스닥",
+      "symbol": "^KQ11",
+      "unit": "pt",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 644.27,
+      "prev_close": 724.38,
+      "change": -80.11,
+      "change_pct": -11.06,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1793963140,
+      "asof_date": null
+    },
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "unit": "pt",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 7376.86,
+      "prev_close": 7580.07,
+      "change": -203.21,
+      "change_pct": -2.68,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1794001029,
+      "asof_date": null
+    },
+    {
+      "name": "나스닥",
+      "symbol": "^IXIC",
+      "unit": "pt",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 24579.424,
+      "prev_close": 25437.0,
+      "change": -857.576,
+      "change_pct": -3.37,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1794003359,
+      "asof_date": null
+    },
+    {
+      "name": "원/달러",
+      "symbol": "KRW=X",
+      "unit": "원",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 1363.65,
+      "prev_close": 1325.52,
+      "change": 38.13,
+      "change_pct": 2.88,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1794002398,
+      "asof_date": null
+    },
+    {
+      "name": "미 10년 국채",
+      "symbol": "^TNX",
+      "unit": "%",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 4.859,
+      "prev_close": 4.894,
+      "change": -0.035,
+      "change_pct": -0.72,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1793995196,
+      "asof_date": null
+    },
+    {
+      "name": "WTI 유가",
+      "symbol": "CL=F",
+      "unit": "$",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 90.83,
+      "prev_close": 96.46,
+      "change": -5.63,
+      "change_pct": -5.84,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1794002398,
+      "asof_date": null
+    },
+    {
+      "name": "금",
+      "symbol": "GC=F",
+      "unit": "$",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 4074.9,
+      "prev_close": 3969.6,
+      "change": 105.3,
+      "change_pct": 2.65,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1794002399,
+      "asof_date": null
     }
-   ]
-  },
-  {
-   "name": "애플",
-   "symbol": "AAPL",
-   "unit": "",
-   "keywords": [
-    "애플",
-    "Apple",
-    "AAPL"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 342.37,
-   "prev_close": 344.63,
-   "change": -2.26,
-   "change_pct": -0.66,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1793998801,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "테슬라",
-   "symbol": "TSLA",
-   "unit": "",
-   "keywords": [
-    "테슬라",
-    "Tesla",
-    "TSLA"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 358.22,
-   "prev_close": 399.81,
-   "change": -41.59,
-   "change_pct": -10.4,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1793998801,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "마이크로소프트",
-   "symbol": "MSFT",
-   "unit": "",
-   "keywords": [
-    "마이크로소프트",
-    "Microsoft",
-    "MSFT"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 530.61,
-   "prev_close": 521.91,
-   "change": 8.7,
-   "change_pct": 1.67,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1793998801,
-   "asof_date": null,
-   "news": []
-  }
- ],
- "news": [
-  {
-   "id": "120f6dc3ae",
-   "title": "오세훈 \"국민연금으로 지방선거용 주식도박…李대통령 사과해야\"",
-   "url": "https://www.yna.co.kr/view/AKR20261108016700004",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 10:16",
-   "published_iso": "2026-11-08T10:16:24+09:00",
-   "sort_key": 1794100584.0,
-   "excerpt": "(서울=연합뉴스) 김동규 기자 = 오세훈 서울시장은 최근 주식시장 급락과 관련해 8일 &quot;정부가 국민연금을 종잣돈 삼아 판을 키우고, 고위험 레버...",
-   "matched": []
-  },
-  {
-   "id": "84be0d4db4",
-   "title": "울주군 내년 장애인일자리사업 참여자 모집…18세 이상 미취업자",
-   "url": "https://www.yna.co.kr/view/AKR20261106065600057",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 10:10",
-   "published_iso": "2026-11-08T10:10:01+09:00",
-   "sort_key": 1794100201.0,
-   "excerpt": "(울산=연합뉴스) 장영은 기자 = 울산 울주군은 장애인 사회참여 확대와 소득보장 지원을 위해 오는 13일까지 &apos;2027년 장애인일자리사업&apos; 참여...",
-   "matched": []
-  },
-  {
-   "id": "162ef6bde1",
-   "title": "CU, 겨울철 겨냥 '딥핑·멜팅 치즈' 간편식 출시",
-   "url": "https://www.yna.co.kr/view/AKR20261108016200030",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 09:57",
-   "published_iso": "2026-11-08T09:57:49+09:00",
-   "sort_key": 1794099469.0,
-   "excerpt": "(서울=연합뉴스) 김세린 기자 = BGF리테일[282330]이 운영하는 편의점 CU는 겨울철 따뜻한 먹거리를 찾는 소비자를 겨냥해 치즈를 활용한...",
-   "matched": []
-  },
-  {
-   "id": "7c6c9b6be0",
-   "title": "CJ푸드빌 빕스, 잠실에 '그릴 다이닝' 매장 개점…연내 8곳 확대",
-   "url": "https://www.yna.co.kr/view/AKR20261108014200030",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 09:15",
-   "published_iso": "2026-11-08T09:15:11+09:00",
-   "sort_key": 1794096911.0,
-   "excerpt": "(서울=연합뉴스) 김세린 기자 = CJ푸드빌이 운영하는 외식 브랜드 빕스는 오는 9일 서울 잠실 롯데캐슬플라자에 &apos;그릴 다이닝&apos; 모델을 적용한 ...",
-   "matched": []
-  },
-  {
-   "id": "413f65bada",
-   "title": "\"제조업 파업에 근로손실일수 45% 증가…N% 성과배분 요구 확산\"",
-   "url": "https://www.yna.co.kr/view/AKR20261108013000003",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 09:09",
-   "published_iso": "2026-11-08T09:09:51+09:00",
-   "sort_key": 1794096591.0,
-   "excerpt": "(서울=연합뉴스) 장하나 기자 = 올해 노사 분규는 작년보다 감소했으나 자동차와 조선 등 주요 제조업의 파업으로 근로손실일수는 오히려 증가한 것...",
-   "matched": []
-  },
-  {
-   "id": "5c7151cd32",
-   "title": "광주송정역·금호타이어공장 일대 '반도체 관문도시' 조성",
-   "url": "https://www.yna.co.kr/view/AKR20261106086200054",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 09:02",
-   "published_iso": "2026-11-08T09:02:01+09:00",
-   "sort_key": 1794096121.0,
-   "excerpt": "(전남광주=연합뉴스) 박철홍 기자 = 전남광주통합특별시가 광주송정역과 금호타이어 광주공장 이전부지, 군공항 이전부지 등을 연결하는 394만㎡ 규...",
-   "matched": []
-  },
-  {
-   "id": "4d26bc28cd",
-   "title": "'군포 복합물류터미널 이전 촉구' 범시민추진위 출범",
-   "url": "https://www.yna.co.kr/view/AKR20261106145700061",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 09:00",
-   "published_iso": "2026-11-08T09:00:05+09:00",
-   "sort_key": 1794096005.0,
-   "excerpt": "(군포=연합뉴스) 이우성 기자 = 1990년대 초 경기 군포시에 들어선 뒤 도심 확장으로 한복판에 자리 잡게 된 군포복합물류터미널의 이전을 요구...",
-   "matched": []
-  },
-  {
-   "id": "88c230edae",
-   "title": "'232억 펀드 불완전판매' 증권사 임원 감봉…법원 \"과도한 제재\"",
-   "url": "https://www.yna.co.kr/view/AKR20261106182900004",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 09:00",
-   "published_iso": "2026-11-08T09:00:02+09:00",
-   "sort_key": 1794096002.0,
-   "excerpt": "(서울=연합뉴스) 이영섭 기자 = 펀드 불완전판매에 대한 감독 책임으로 감봉 처분을 받은 삼성증권 전 임원이 소송을 통해 구제받았다.",
-   "matched": []
-  },
-  {
-   "id": "8787395312",
-   "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
-   "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/08 08:02",
-   "published_iso": "2026-11-08T08:02:35+09:00",
-   "sort_key": 1794092555.0,
-   "excerpt": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
-   "matched": []
-  },
-  {
-   "id": "e8987cf3b5",
-   "title": "금융자산 35억인데…60대 부부, 세금 줄이고 월 1200만원 쓰는 법",
-   "url": "https://www.hankyung.com/article/202611058584i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 08:00",
-   "published_iso": "2026-11-08T08:00:02+09:00",
-   "sort_key": 1794092402.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "0ec3ee8433",
-   "title": "고전 명작 표지까지…다이소 '미니키링북' 출시 전부터 관심",
-   "url": "https://www.hankyung.com/article/202611060500i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 07:59",
-   "published_iso": "2026-11-08T07:59:05+09:00",
-   "sort_key": 1794092345.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "4de6b64955",
-   "title": "\"누워서 볼래, 단둘이 볼래\"…7만원짜리 '불 꺼진 방' 동났다 [박수림의 요즘 여기]",
-   "url": "https://www.hankyung.com/article/202611060145g",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 07:30",
-   "published_iso": "2026-11-08T07:30:03+09:00",
-   "sort_key": 1794090603.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "f3892ae115",
-   "title": "우주청, 또 부지 검증 미흡…민간 연소시험시설도 차질",
-   "url": "https://www.yna.co.kr/view/AKR20261106140500017",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 07:13",
-   "published_iso": "2026-11-08T07:13:00+09:00",
-   "sort_key": 1794089580.0,
-   "excerpt": "(서울=연합뉴스) 조승한 기자 = 우주항공청이 485억원을 들여 추진하는 민간전용 발사체 엔진 연소시험시설 구축 사업이 부지 확보 지연으로 올해...",
-   "matched": [],
-   "analysis": {
-    "summary": "우주항공청 민간 엔진 연소시험시설이 부지 문제로 차질",
-    "impact": "시장 영향은 제한적",
-    "affected": "우주항공"
-   }
-  },
-  {
-   "id": "42cd1f9756",
-   "title": "[머니톡스] 강북도 하락 전이…'영끌족'의 딜레마",
-   "url": "https://www.yna.co.kr/view/AKR20261106115900546",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 07:07",
-   "published_iso": "2026-11-08T07:07:00+09:00",
-   "sort_key": 1794089220.0,
-   "excerpt": "(서울=연합뉴스) 윤선희 선임기자 = # 1. &quot;할머니가 드디어 집을 팔기로 마음먹으셨다.&quot;",
-   "matched": [],
-   "analysis": {
-    "summary": "강북까지 집값 하락이 번지며 '영끌족' 고민",
-    "impact": "부동산 하락 확산 신호",
-    "affected": "부동산, 건설"
-   }
-  },
-  {
-   "id": "27121c4563",
-   "title": "출석 확인부터 통신장애까지, 전자주주총회 실무 점검사항 [디엘지 기업법무 핵심노트]",
-   "url": "https://www.hankyung.com/article/202611033040i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 07:00",
-   "published_iso": "2026-11-08T07:00:07+09:00",
-   "sort_key": 1794088807.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "전자 주주총회 실무 점검사항",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "238b4d9b75",
-   "title": "“떡볶이 먹고 산책까지”…노포 분식집, 동네 관광 코스로 뜬다 [권용훈의 트렌드워치]",
-   "url": "https://www.hankyung.com/article/202611069903i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 07:00",
-   "published_iso": "2026-11-08T07:00:05+09:00",
-   "sort_key": 1794088805.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "노포 분식집이 동네 관광 코스로 인기",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "4647c69426",
-   "title": "K-라면 수출 역대 최대 훈풍에…전국 '라면 기지'서 축제 잇따라",
-   "url": "https://www.yna.co.kr/view/AKR20261107024300030",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 07:00",
-   "published_iso": "2026-11-08T07:00:03+09:00",
-   "sort_key": 1794088803.0,
-   "excerpt": "(서울=연합뉴스) 한주홍 기자 = 라면 수출이 역대 최대 실적을 경신할 것으로 전망되는 가운데 국내에서도 라면을 주제로 한 지역 축제가 잇따라 ...",
-   "matched": [],
-   "analysis": {
-    "summary": "K-라면 수출 역대 최대 전망 — 전국에서 라면 축제",
-    "impact": "라면 수출 호조",
-    "affected": "농심, 삼양식품"
-   }
-  },
-  {
-   "id": "af5577e182",
-   "title": "[르포] '새집' 첫걸음 뗀 동자동 쪽방촌 마을잔치…떠난 180명 추모도",
-   "url": "https://www.yna.co.kr/view/AKR20261107053200004",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 07:00",
-   "published_iso": "2026-11-08T07:00:01+09:00",
-   "sort_key": 1794088801.0,
-   "excerpt": "(서울=연합뉴스) 양수연 기자 = &quot;새집으로 가는 문이 열렸습니다. 마을 잔치를 시작하겠습니다!&quot;",
-   "matched": [],
-   "analysis": {
-    "summary": "동자동 쪽방촌 새집 마련 첫걸음",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "8ca2c965a2",
-   "title": "방한객 2천만명 시대의 그늘…9월 관광수지 5억달러 적자",
-   "url": "https://www.yna.co.kr/view/AKR20261107042100030",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 06:50",
-   "published_iso": "2026-11-08T06:50:00+09:00",
-   "sort_key": 1794088200.0,
-   "excerpt": "(서울=연합뉴스) 이상서 기자 = &quot;올해 4월에 방탄소년단(BTS) 공연을 보러 처음 서울에 왔는데 기억이 정말 좋게 남아서 반년 만에 다시 찾...",
-   "matched": [],
-   "analysis": {
-    "summary": "방한객 2천만 명 시대에도 9월 관광수지 5억 달러 적자",
-    "impact": "서비스수지 부담",
-    "affected": "관광, 원화"
-   }
-  },
-  {
-   "id": "b2ca46b68d",
-   "title": "대형 증권사 3분기 실적 '반토막'…주가도 줄줄이 연저점",
-   "url": "https://www.yna.co.kr/view/AKR20261107048600008",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 06:40",
-   "published_iso": "2026-11-08T06:40:00+09:00",
-   "sort_key": 1794087600.0,
-   "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 상반기 역대급 실적을 냈던 증권사들이 3분기 실적 시즌에는 웃지 못하고 있다.",
-   "matched": [],
-   "analysis": {
-    "summary": "대형 증권사 3분기 실적이 반토막 — 주가도 연중 최저",
-    "impact": "증권업 실적 악화",
-    "affected": "증권주"
-   }
-  },
-  {
-   "id": "590b60ffae",
-   "title": "채권금리 빠르게 내렸지만…'추격 매수냐 관망이냐' 채권시장 신중",
-   "url": "https://www.yna.co.kr/view/AKR20261106190600008",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 06:35",
-   "published_iso": "2026-11-08T06:35:01+09:00",
-   "sort_key": 1794087301.0,
-   "excerpt": "(서울=연합뉴스) 강수지 기자 = 국고채 금리가 빠르게 하락하고 있지만 채권시장 참가자들의 표정은 마냥 밝지만은 않다.",
-   "matched": [],
-   "analysis": {
-    "summary": "국고채 금리가 빠르게 내렸지만 채권시장은 신중",
-    "impact": "금리 하락세 지속 여부 불확실",
-    "affected": "국고채"
-   }
-  },
-  {
-   "id": "b3d966ecc9",
-   "title": "급락장에 줄줄이 추락…지난주 상장사 3개중 1개는 연중 최저가",
-   "url": "https://www.yna.co.kr/view/AKR20261106189100008",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 06:25",
-   "published_iso": "2026-11-08T06:25:01+09:00",
-   "sort_key": 1794086701.0,
-   "excerpt": "(서울=연합뉴스) 김유아 기자 = 최근 코스피가 장중 5,000선 밑으로 밀리는 등 하락을 거듭하면서 지난 한 주 국내 증시 상장사 3분의 1이...",
-   "matched": [],
-   "analysis": {
-    "summary": "급락장에 지난주 상장사 3곳 중 1곳이 연중 최저가",
-    "impact": "국내 증시 투자 심리 악화",
-    "affected": "코스피, 코스닥"
-   }
-  },
-  {
-   "id": "835544f1c4",
-   "title": "\"집에 있으면 돈 아끼는 줄 알았는데\"…'소파 경제'의 함정",
-   "url": "https://www.hankyung.com/article/202611072412H",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 06:00",
-   "published_iso": "2026-11-08T06:00:03+09:00",
-   "sort_key": 1794085203.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "집에만 있어도 돈이 나가는 '소파 경제'의 함정",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "47a122468f",
-   "title": "\"주주는 피눈물인데 직원은 7억?\"…삼성 성과급 놓고 갑론을박",
-   "url": "https://www.hankyung.com/article/202611072406H",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 06:00",
-   "published_iso": "2026-11-08T06:00:01+09:00",
-   "sort_key": 1794085201.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "주가 급락 속 삼성 성과급 7억 원 논란",
-    "impact": "시장 영향은 제한적",
-    "affected": "삼성전자"
-   }
-  },
-  {
-   "id": "40068ba0e8",
-   "title": "A ‘Legend of Zelda’ Game Is Reborn and ’90s Nostalgia Fans Are All In",
-   "url": "https://www.nytimes.com/2026/11/07/business/media/zelda-ocarina-of-time-remake-nintendo.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/08 03:52",
-   "published_iso": "2026-11-08T03:52:25+09:00",
-   "sort_key": 1794077545.0,
-   "excerpt": "Nintendo’s “Legend of Zelda: Ocarina of Time” was released in 1998. Now, its remake has some fans giddily reliving their childhoods.",
-   "matched": [],
-   "analysis": {
-    "summary": "닌텐도 '젤다' 리메이크에 90년대 향수 팬들 열광",
-    "impact": "시장 영향은 제한적",
-    "affected": "닌텐도"
-   }
-  },
-  {
-   "id": "7e85a1deaa",
-   "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
-   "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
-   "source": "CNBC Finance",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/08 01:02",
-   "published_iso": "2026-11-08T01:02:33+09:00",
-   "sort_key": 1794067353.0,
-   "excerpt": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
-   "matched": [],
-   "analysis": {
-    "summary": "민주당이 의회를 장악하면서 헬스케어 주식 전망이 불확실",
-    "impact": "약값·보험 규제 강화 가능성",
-    "affected": "미국 헬스케어주, ADUS",
-    "important": true,
-    "important_tag": "관심종목",
-    "why_important": "민주당 의회가 헬스케어 규제를 강화할 수 있음 — 보유 종목 ADUS(가정 간호)도 영향권"
-   }
-  },
-  {
-   "id": "0cd5dc65a6",
-   "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-   "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-   "source": "CNBC Finance",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/08 00:23",
-   "published_iso": "2026-11-08T00:23:46+09:00",
-   "sort_key": 1794065026.0,
-   "excerpt": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
-   "matched": [],
-   "analysis": {
-    "summary": "버크셔 해서웨이가 3분기 이익 감소 속 자사주 매입을 두 배 넘게 늘림",
-    "impact": "버핏 회사가 자기 주식을 싸다고 봄",
-    "affected": "버크셔 해서웨이, 미국 증시",
-    "important": true,
-    "important_tag": "산업·실적",
-    "why_important": "버핏의 버크셔가 자사주 매입을 두 배 넘게 늘림 — 급락장에서 '싸다'는 신호"
-   }
-  },
-  {
-   "id": "7470840725",
-   "title": "How Cardiologists’ High Hopes for Two Drugs Were Dashed",
-   "url": "https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/07 23:50",
-   "published_iso": "2026-11-07T23:50:04+09:00",
-   "sort_key": 1794063004.0,
-   "excerpt": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?",
-   "matched": [],
-   "analysis": {
-    "summary": "심장병 신약 두 개가 가짜 약과 효과 차이 없음",
-    "impact": "해당 제약사 부담",
-    "affected": "제약"
-   }
-  },
-  {
-   "id": "71240352f2",
-   "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
-   "source": "유럽중앙은행(ECB)",
-   "group": "중앙은행·국제기구",
-   "lang": "en",
-   "published_kst": "11/07 23:00",
-   "published_iso": "2026-11-07T23:00:00+09:00",
-   "sort_key": 1794060000.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "라가르드 ECB 총재 요미우리 인터뷰",
-    "impact": "유럽 통화정책 방향 확인",
-    "affected": "유로"
-   }
-  },
-  {
-   "id": "25db57bea7",
-   "title": "Law Firms Have Malpractice Insurance. Should Their A.I. Agents?",
-   "url": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/07 22:00",
-   "published_iso": "2026-11-07T22:00:06+09:00",
-   "sort_key": 1794056406.0,
-   "excerpt": "Crosby, an A.I. law firm, bought it for them. The move speaks to a nascent gap in coverage as major insurers grapple with risks related to artificial intelligence.",
-   "matched": [],
-   "analysis": {
-    "summary": "법률 AI 에이전트에도 배상 보험이 필요한가",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "7a5bedd793",
-   "title": "내일 한국 오기로 했는데…젠슨 황 장녀 방한 돌연 취소",
-   "url": "https://www.hankyung.com/article/2026110724057",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/07 21:38",
-   "published_iso": "2026-11-07T21:38:06+09:00",
-   "sort_key": 1794055086.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "젠슨 황 장녀 방한이 갑자기 취소됨",
-    "impact": "시장 영향은 제한적",
-    "affected": "엔비디아, 국내 협력사"
-   }
-  },
-  {
-   "id": "992a2c3570",
-   "title": "로또 1등 14명 '대박'…1인당 20억씩 받는다",
-   "url": "https://www.hankyung.com/article/2026110723997",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/07 21:15",
-   "published_iso": "2026-11-07T21:15:24+09:00",
-   "sort_key": 1794053724.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "로또 1등 14명, 1인당 20억 원",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "fe6a82ecd7",
-   "title": "어쩐지 2030 많이 보이더라…'신세계百 강남점' 갔다가 깜짝 [류은혁의 유통기한]",
-   "url": "https://www.hankyung.com/article/202611072089i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/07 20:00",
-   "published_iso": "2026-11-07T20:00:01+09:00",
-   "sort_key": 1794049201.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "신세계백화점 강남점에 2030 고객 늘어",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "78b9b9fdc4",
-   "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
-   "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/07 19:00",
-   "published_iso": "2026-11-07T19:00:41+09:00",
-   "sort_key": 1794045641.0,
-   "excerpt": "The Commerce Department has approved dozens of Chinese companies to handle Nvidia’s H200 chips, some of which have ties to firms under sanctions over national security.",
-   "matched": [
-    "NVDA"
-   ],
-   "analysis": {
-    "summary": "미국 상무부가 빈 사무실·수상한 연결고리가 있는 중국 회사들에 엔비디아 칩 취급을 허가",
-    "impact": "수출 통제 강화 압력 커질 수 있음",
-    "affected": "엔비디아, 반도체주",
-    "important": true,
-    "important_tag": "정책·무역",
-    "why_important": "미국이 수상한 중국 회사들에도 엔비디아 칩을 허가했다는 보도 — 수출 통제가 더 세질 수 있음"
-   }
-  },
-  {
-   "id": "757bf39993",
-   "title": "“치이카와 보러 왔다가 햄버거까지”…세계 매출 톱5 비결 [현장+]",
-   "url": "https://www.hankyung.com/article/202611072240i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/07 19:00",
-   "published_iso": "2026-11-07T19:00:01+09:00",
-   "sort_key": 1794045601.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "치이카와 협업으로 맥도날드 매출 세계 5위권",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "54a25d38f8",
-   "title": "Researchers Identify Suspicious Activity on Kalshi and Polymarket Before Times/Siena Poll Release",
-   "url": "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/07 11:55",
-   "published_iso": "2026-11-07T11:55:47+09:00",
-   "sort_key": 1794020147.0,
-   "excerpt": "A trader placed well-timed bets on Polymarket and Kalshi in two Senate races. It was unclear if the person had access to inside information or simply made good trades.",
-   "matched": [],
-   "analysis": {
-    "summary": "여론조사 발표 직전 예측시장에서 수상한 거래 포착",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  }
- ],
- "news_groups": {
-  "국내 경제언론": [
-   {
-    "id": "120f6dc3ae",
-    "title": "오세훈 \"국민연금으로 지방선거용 주식도박…李대통령 사과해야\"",
-    "url": "https://www.yna.co.kr/view/AKR20261108016700004",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 10:16",
-    "published_iso": "2026-11-08T10:16:24+09:00",
-    "sort_key": 1794100584.0,
-    "excerpt": "(서울=연합뉴스) 김동규 기자 = 오세훈 서울시장은 최근 주식시장 급락과 관련해 8일 &quot;정부가 국민연금을 종잣돈 삼아 판을 키우고, 고위험 레버...",
-    "matched": []
-   },
-   {
-    "id": "84be0d4db4",
-    "title": "울주군 내년 장애인일자리사업 참여자 모집…18세 이상 미취업자",
-    "url": "https://www.yna.co.kr/view/AKR20261106065600057",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 10:10",
-    "published_iso": "2026-11-08T10:10:01+09:00",
-    "sort_key": 1794100201.0,
-    "excerpt": "(울산=연합뉴스) 장영은 기자 = 울산 울주군은 장애인 사회참여 확대와 소득보장 지원을 위해 오는 13일까지 &apos;2027년 장애인일자리사업&apos; 참여...",
-    "matched": []
-   },
-   {
-    "id": "162ef6bde1",
-    "title": "CU, 겨울철 겨냥 '딥핑·멜팅 치즈' 간편식 출시",
-    "url": "https://www.yna.co.kr/view/AKR20261108016200030",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 09:57",
-    "published_iso": "2026-11-08T09:57:49+09:00",
-    "sort_key": 1794099469.0,
-    "excerpt": "(서울=연합뉴스) 김세린 기자 = BGF리테일[282330]이 운영하는 편의점 CU는 겨울철 따뜻한 먹거리를 찾는 소비자를 겨냥해 치즈를 활용한...",
-    "matched": []
-   },
-   {
-    "id": "7c6c9b6be0",
-    "title": "CJ푸드빌 빕스, 잠실에 '그릴 다이닝' 매장 개점…연내 8곳 확대",
-    "url": "https://www.yna.co.kr/view/AKR20261108014200030",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 09:15",
-    "published_iso": "2026-11-08T09:15:11+09:00",
-    "sort_key": 1794096911.0,
-    "excerpt": "(서울=연합뉴스) 김세린 기자 = CJ푸드빌이 운영하는 외식 브랜드 빕스는 오는 9일 서울 잠실 롯데캐슬플라자에 &apos;그릴 다이닝&apos; 모델을 적용한 ...",
-    "matched": []
-   },
-   {
-    "id": "413f65bada",
-    "title": "\"제조업 파업에 근로손실일수 45% 증가…N% 성과배분 요구 확산\"",
-    "url": "https://www.yna.co.kr/view/AKR20261108013000003",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 09:09",
-    "published_iso": "2026-11-08T09:09:51+09:00",
-    "sort_key": 1794096591.0,
-    "excerpt": "(서울=연합뉴스) 장하나 기자 = 올해 노사 분규는 작년보다 감소했으나 자동차와 조선 등 주요 제조업의 파업으로 근로손실일수는 오히려 증가한 것...",
-    "matched": []
-   },
-   {
-    "id": "5c7151cd32",
-    "title": "광주송정역·금호타이어공장 일대 '반도체 관문도시' 조성",
-    "url": "https://www.yna.co.kr/view/AKR20261106086200054",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 09:02",
-    "published_iso": "2026-11-08T09:02:01+09:00",
-    "sort_key": 1794096121.0,
-    "excerpt": "(전남광주=연합뉴스) 박철홍 기자 = 전남광주통합특별시가 광주송정역과 금호타이어 광주공장 이전부지, 군공항 이전부지 등을 연결하는 394만㎡ 규...",
-    "matched": []
-   },
-   {
-    "id": "4d26bc28cd",
-    "title": "'군포 복합물류터미널 이전 촉구' 범시민추진위 출범",
-    "url": "https://www.yna.co.kr/view/AKR20261106145700061",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 09:00",
-    "published_iso": "2026-11-08T09:00:05+09:00",
-    "sort_key": 1794096005.0,
-    "excerpt": "(군포=연합뉴스) 이우성 기자 = 1990년대 초 경기 군포시에 들어선 뒤 도심 확장으로 한복판에 자리 잡게 된 군포복합물류터미널의 이전을 요구...",
-    "matched": []
-   },
-   {
-    "id": "88c230edae",
-    "title": "'232억 펀드 불완전판매' 증권사 임원 감봉…법원 \"과도한 제재\"",
-    "url": "https://www.yna.co.kr/view/AKR20261106182900004",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 09:00",
-    "published_iso": "2026-11-08T09:00:02+09:00",
-    "sort_key": 1794096002.0,
-    "excerpt": "(서울=연합뉴스) 이영섭 기자 = 펀드 불완전판매에 대한 감독 책임으로 감봉 처분을 받은 삼성증권 전 임원이 소송을 통해 구제받았다.",
-    "matched": []
-   },
-   {
-    "id": "e8987cf3b5",
-    "title": "금융자산 35억인데…60대 부부, 세금 줄이고 월 1200만원 쓰는 법",
-    "url": "https://www.hankyung.com/article/202611058584i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 08:00",
-    "published_iso": "2026-11-08T08:00:02+09:00",
-    "sort_key": 1794092402.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "0ec3ee8433",
-    "title": "고전 명작 표지까지…다이소 '미니키링북' 출시 전부터 관심",
-    "url": "https://www.hankyung.com/article/202611060500i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 07:59",
-    "published_iso": "2026-11-08T07:59:05+09:00",
-    "sort_key": 1794092345.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "4de6b64955",
-    "title": "\"누워서 볼래, 단둘이 볼래\"…7만원짜리 '불 꺼진 방' 동났다 [박수림의 요즘 여기]",
-    "url": "https://www.hankyung.com/article/202611060145g",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 07:30",
-    "published_iso": "2026-11-08T07:30:03+09:00",
-    "sort_key": 1794090603.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "f3892ae115",
-    "title": "우주청, 또 부지 검증 미흡…민간 연소시험시설도 차질",
-    "url": "https://www.yna.co.kr/view/AKR20261106140500017",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 07:13",
-    "published_iso": "2026-11-08T07:13:00+09:00",
-    "sort_key": 1794089580.0,
-    "excerpt": "(서울=연합뉴스) 조승한 기자 = 우주항공청이 485억원을 들여 추진하는 민간전용 발사체 엔진 연소시험시설 구축 사업이 부지 확보 지연으로 올해...",
-    "matched": [],
-    "analysis": {
-     "summary": "우주항공청 민간 엔진 연소시험시설이 부지 문제로 차질",
-     "impact": "시장 영향은 제한적",
-     "affected": "우주항공"
-    }
-   },
-   {
-    "id": "42cd1f9756",
-    "title": "[머니톡스] 강북도 하락 전이…'영끌족'의 딜레마",
-    "url": "https://www.yna.co.kr/view/AKR20261106115900546",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 07:07",
-    "published_iso": "2026-11-08T07:07:00+09:00",
-    "sort_key": 1794089220.0,
-    "excerpt": "(서울=연합뉴스) 윤선희 선임기자 = # 1. &quot;할머니가 드디어 집을 팔기로 마음먹으셨다.&quot;",
-    "matched": [],
-    "analysis": {
-     "summary": "강북까지 집값 하락이 번지며 '영끌족' 고민",
-     "impact": "부동산 하락 확산 신호",
-     "affected": "부동산, 건설"
-    }
-   },
-   {
-    "id": "27121c4563",
-    "title": "출석 확인부터 통신장애까지, 전자주주총회 실무 점검사항 [디엘지 기업법무 핵심노트]",
-    "url": "https://www.hankyung.com/article/202611033040i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 07:00",
-    "published_iso": "2026-11-08T07:00:07+09:00",
-    "sort_key": 1794088807.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "전자 주주총회 실무 점검사항",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "238b4d9b75",
-    "title": "“떡볶이 먹고 산책까지”…노포 분식집, 동네 관광 코스로 뜬다 [권용훈의 트렌드워치]",
-    "url": "https://www.hankyung.com/article/202611069903i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 07:00",
-    "published_iso": "2026-11-08T07:00:05+09:00",
-    "sort_key": 1794088805.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "노포 분식집이 동네 관광 코스로 인기",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "4647c69426",
-    "title": "K-라면 수출 역대 최대 훈풍에…전국 '라면 기지'서 축제 잇따라",
-    "url": "https://www.yna.co.kr/view/AKR20261107024300030",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 07:00",
-    "published_iso": "2026-11-08T07:00:03+09:00",
-    "sort_key": 1794088803.0,
-    "excerpt": "(서울=연합뉴스) 한주홍 기자 = 라면 수출이 역대 최대 실적을 경신할 것으로 전망되는 가운데 국내에서도 라면을 주제로 한 지역 축제가 잇따라 ...",
-    "matched": [],
-    "analysis": {
-     "summary": "K-라면 수출 역대 최대 전망 — 전국에서 라면 축제",
-     "impact": "라면 수출 호조",
-     "affected": "농심, 삼양식품"
-    }
-   },
-   {
-    "id": "af5577e182",
-    "title": "[르포] '새집' 첫걸음 뗀 동자동 쪽방촌 마을잔치…떠난 180명 추모도",
-    "url": "https://www.yna.co.kr/view/AKR20261107053200004",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 07:00",
-    "published_iso": "2026-11-08T07:00:01+09:00",
-    "sort_key": 1794088801.0,
-    "excerpt": "(서울=연합뉴스) 양수연 기자 = &quot;새집으로 가는 문이 열렸습니다. 마을 잔치를 시작하겠습니다!&quot;",
-    "matched": [],
-    "analysis": {
-     "summary": "동자동 쪽방촌 새집 마련 첫걸음",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "8ca2c965a2",
-    "title": "방한객 2천만명 시대의 그늘…9월 관광수지 5억달러 적자",
-    "url": "https://www.yna.co.kr/view/AKR20261107042100030",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 06:50",
-    "published_iso": "2026-11-08T06:50:00+09:00",
-    "sort_key": 1794088200.0,
-    "excerpt": "(서울=연합뉴스) 이상서 기자 = &quot;올해 4월에 방탄소년단(BTS) 공연을 보러 처음 서울에 왔는데 기억이 정말 좋게 남아서 반년 만에 다시 찾...",
-    "matched": [],
-    "analysis": {
-     "summary": "방한객 2천만 명 시대에도 9월 관광수지 5억 달러 적자",
-     "impact": "서비스수지 부담",
-     "affected": "관광, 원화"
-    }
-   },
-   {
-    "id": "b2ca46b68d",
-    "title": "대형 증권사 3분기 실적 '반토막'…주가도 줄줄이 연저점",
-    "url": "https://www.yna.co.kr/view/AKR20261107048600008",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 06:40",
-    "published_iso": "2026-11-08T06:40:00+09:00",
-    "sort_key": 1794087600.0,
-    "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 상반기 역대급 실적을 냈던 증권사들이 3분기 실적 시즌에는 웃지 못하고 있다.",
-    "matched": [],
-    "analysis": {
-     "summary": "대형 증권사 3분기 실적이 반토막 — 주가도 연중 최저",
-     "impact": "증권업 실적 악화",
-     "affected": "증권주"
-    }
-   },
-   {
-    "id": "590b60ffae",
-    "title": "채권금리 빠르게 내렸지만…'추격 매수냐 관망이냐' 채권시장 신중",
-    "url": "https://www.yna.co.kr/view/AKR20261106190600008",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 06:35",
-    "published_iso": "2026-11-08T06:35:01+09:00",
-    "sort_key": 1794087301.0,
-    "excerpt": "(서울=연합뉴스) 강수지 기자 = 국고채 금리가 빠르게 하락하고 있지만 채권시장 참가자들의 표정은 마냥 밝지만은 않다.",
-    "matched": [],
-    "analysis": {
-     "summary": "국고채 금리가 빠르게 내렸지만 채권시장은 신중",
-     "impact": "금리 하락세 지속 여부 불확실",
-     "affected": "국고채"
-    }
-   },
-   {
-    "id": "b3d966ecc9",
-    "title": "급락장에 줄줄이 추락…지난주 상장사 3개중 1개는 연중 최저가",
-    "url": "https://www.yna.co.kr/view/AKR20261106189100008",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 06:25",
-    "published_iso": "2026-11-08T06:25:01+09:00",
-    "sort_key": 1794086701.0,
-    "excerpt": "(서울=연합뉴스) 김유아 기자 = 최근 코스피가 장중 5,000선 밑으로 밀리는 등 하락을 거듭하면서 지난 한 주 국내 증시 상장사 3분의 1이...",
-    "matched": [],
-    "analysis": {
-     "summary": "급락장에 지난주 상장사 3곳 중 1곳이 연중 최저가",
-     "impact": "국내 증시 투자 심리 악화",
-     "affected": "코스피, 코스닥"
-    }
-   },
-   {
-    "id": "835544f1c4",
-    "title": "\"집에 있으면 돈 아끼는 줄 알았는데\"…'소파 경제'의 함정",
-    "url": "https://www.hankyung.com/article/202611072412H",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 06:00",
-    "published_iso": "2026-11-08T06:00:03+09:00",
-    "sort_key": 1794085203.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "집에만 있어도 돈이 나가는 '소파 경제'의 함정",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "47a122468f",
-    "title": "\"주주는 피눈물인데 직원은 7억?\"…삼성 성과급 놓고 갑론을박",
-    "url": "https://www.hankyung.com/article/202611072406H",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 06:00",
-    "published_iso": "2026-11-08T06:00:01+09:00",
-    "sort_key": 1794085201.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "주가 급락 속 삼성 성과급 7억 원 논란",
-     "impact": "시장 영향은 제한적",
-     "affected": "삼성전자"
-    }
-   },
-   {
-    "id": "7a5bedd793",
-    "title": "내일 한국 오기로 했는데…젠슨 황 장녀 방한 돌연 취소",
-    "url": "https://www.hankyung.com/article/2026110724057",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/07 21:38",
-    "published_iso": "2026-11-07T21:38:06+09:00",
-    "sort_key": 1794055086.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "젠슨 황 장녀 방한이 갑자기 취소됨",
-     "impact": "시장 영향은 제한적",
-     "affected": "엔비디아, 국내 협력사"
-    }
-   },
-   {
-    "id": "992a2c3570",
-    "title": "로또 1등 14명 '대박'…1인당 20억씩 받는다",
-    "url": "https://www.hankyung.com/article/2026110723997",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/07 21:15",
-    "published_iso": "2026-11-07T21:15:24+09:00",
-    "sort_key": 1794053724.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "로또 1등 14명, 1인당 20억 원",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "fe6a82ecd7",
-    "title": "어쩐지 2030 많이 보이더라…'신세계百 강남점' 갔다가 깜짝 [류은혁의 유통기한]",
-    "url": "https://www.hankyung.com/article/202611072089i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/07 20:00",
-    "published_iso": "2026-11-07T20:00:01+09:00",
-    "sort_key": 1794049201.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "신세계백화점 강남점에 2030 고객 늘어",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "757bf39993",
-    "title": "“치이카와 보러 왔다가 햄버거까지”…세계 매출 톱5 비결 [현장+]",
-    "url": "https://www.hankyung.com/article/202611072240i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/07 19:00",
-    "published_iso": "2026-11-07T19:00:01+09:00",
-    "sort_key": 1794045601.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "치이카와 협업으로 맥도날드 매출 세계 5위권",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   }
   ],
-  "해외 경제언론": [
-   {
-    "id": "8787395312",
-    "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
-    "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/08 08:02",
-    "published_iso": "2026-11-08T08:02:35+09:00",
-    "sort_key": 1794092555.0,
-    "excerpt": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
-    "matched": []
-   },
-   {
-    "id": "40068ba0e8",
-    "title": "A ‘Legend of Zelda’ Game Is Reborn and ’90s Nostalgia Fans Are All In",
-    "url": "https://www.nytimes.com/2026/11/07/business/media/zelda-ocarina-of-time-remake-nintendo.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/08 03:52",
-    "published_iso": "2026-11-08T03:52:25+09:00",
-    "sort_key": 1794077545.0,
-    "excerpt": "Nintendo’s “Legend of Zelda: Ocarina of Time” was released in 1998. Now, its remake has some fans giddily reliving their childhoods.",
-    "matched": [],
-    "analysis": {
-     "summary": "닌텐도 '젤다' 리메이크에 90년대 향수 팬들 열광",
-     "impact": "시장 영향은 제한적",
-     "affected": "닌텐도"
+  "watchlist": [
+    {
+      "name": "삼성전자",
+      "symbol": "005930.KS",
+      "unit": "",
+      "keywords": [
+        "삼성전자",
+        "Samsung Electronics",
+        "삼성 반도체"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 188700.0,
+      "prev_close": 225000.0,
+      "change": -36300.0,
+      "change_pct": -16.13,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1793946608,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "SK하이닉스",
+      "symbol": "000660.KS",
+      "unit": "",
+      "keywords": [
+        "SK하이닉스",
+        "SK Hynix",
+        "하이닉스",
+        "HBM"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 1132000.0,
+      "prev_close": 1418000.0,
+      "change": -286000.0,
+      "change_pct": -20.17,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1793946605,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "현대차",
+      "symbol": "005380.KS",
+      "unit": "",
+      "keywords": [
+        "현대차",
+        "현대자동차",
+        "Hyundai Motor"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 279500.0,
+      "prev_close": 282000.0,
+      "change": -2500.0,
+      "change_pct": -0.89,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1793946608,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "LG에너지솔루션",
+      "symbol": "373220.KS",
+      "unit": "",
+      "keywords": [
+        "LG에너지솔루션",
+        "LG Energy Solution",
+        "이차전지",
+        "배터리"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 337500.0,
+      "prev_close": 359500.0,
+      "change": -22000.0,
+      "change_pct": -6.12,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1793946610,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "NAVER",
+      "symbol": "035420.KS",
+      "unit": "",
+      "keywords": [
+        "네이버",
+        "NAVER"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 190200.0,
+      "prev_close": 172300.0,
+      "change": 17900.0,
+      "change_pct": 10.39,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1793946606,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "엔비디아",
+      "symbol": "NVDA",
+      "unit": "",
+      "keywords": [
+        "엔비디아",
+        "Nvidia",
+        "NVDA"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 186.64,
+      "prev_close": 204.64,
+      "change": -18.0,
+      "change_pct": -8.8,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1793998800,
+      "asof_date": null,
+      "news": [
+        {
+          "id": "78b9b9fdc4",
+          "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
+          "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
+          "source": "NYT Business",
+          "published_kst": "11/07 19:00"
+        }
+      ]
+    },
+    {
+      "name": "애플",
+      "symbol": "AAPL",
+      "unit": "",
+      "keywords": [
+        "애플",
+        "Apple",
+        "AAPL"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 342.37,
+      "prev_close": 344.63,
+      "change": -2.26,
+      "change_pct": -0.66,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1793998801,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "테슬라",
+      "symbol": "TSLA",
+      "unit": "",
+      "keywords": [
+        "테슬라",
+        "Tesla",
+        "TSLA"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 358.22,
+      "prev_close": 399.81,
+      "change": -41.59,
+      "change_pct": -10.4,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1793998801,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "마이크로소프트",
+      "symbol": "MSFT",
+      "unit": "",
+      "keywords": [
+        "마이크로소프트",
+        "Microsoft",
+        "MSFT"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 530.61,
+      "prev_close": 521.91,
+      "change": 8.7,
+      "change_pct": 1.67,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1793998801,
+      "asof_date": null,
+      "news": []
     }
-   },
-   {
-    "id": "7e85a1deaa",
-    "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
-    "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
-    "source": "CNBC Finance",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/08 01:02",
-    "published_iso": "2026-11-08T01:02:33+09:00",
-    "sort_key": 1794067353.0,
-    "excerpt": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
-    "matched": [],
-    "analysis": {
-     "summary": "민주당이 의회를 장악하면서 헬스케어 주식 전망이 불확실",
-     "impact": "약값·보험 규제 강화 가능성",
-     "affected": "미국 헬스케어주, ADUS",
-     "important": true,
-     "important_tag": "관심종목",
-     "why_important": "민주당 의회가 헬스케어 규제를 강화할 수 있음 — 보유 종목 ADUS(가정 간호)도 영향권"
+  ],
+  "news": [
+    {
+      "id": "120f6dc3ae",
+      "title": "오세훈 \"국민연금으로 지방선거용 주식도박…李대통령 사과해야\"",
+      "url": "https://www.yna.co.kr/view/AKR20261108016700004",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 10:16",
+      "published_iso": "2026-11-08T10:16:24+09:00",
+      "sort_key": 1794100584.0,
+      "excerpt": "(서울=연합뉴스) 김동규 기자 = 오세훈 서울시장은 최근 주식시장 급락과 관련해 8일 &quot;정부가 국민연금을 종잣돈 삼아 판을 키우고, 고위험 레버...",
+      "matched": [],
+      "analysis": {
+        "summary": "오세훈 '국민연금으로 지방선거용 주식 도박 — 대통령 사과해야'",
+        "impact": "국민연금 증시 개입 논란",
+        "affected": "코스피"
+      }
+    },
+    {
+      "id": "84be0d4db4",
+      "title": "울주군 내년 장애인일자리사업 참여자 모집…18세 이상 미취업자",
+      "url": "https://www.yna.co.kr/view/AKR20261106065600057",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 10:10",
+      "published_iso": "2026-11-08T10:10:01+09:00",
+      "sort_key": 1794100201.0,
+      "excerpt": "(울산=연합뉴스) 장영은 기자 = 울산 울주군은 장애인 사회참여 확대와 소득보장 지원을 위해 오는 13일까지 &apos;2027년 장애인일자리사업&apos; 참여...",
+      "matched": [],
+      "analysis": {
+        "summary": "울주군 장애인 일자리 참여자 모집",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "162ef6bde1",
+      "title": "CU, 겨울철 겨냥 '딥핑·멜팅 치즈' 간편식 출시",
+      "url": "https://www.yna.co.kr/view/AKR20261108016200030",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 09:57",
+      "published_iso": "2026-11-08T09:57:49+09:00",
+      "sort_key": 1794099469.0,
+      "excerpt": "(서울=연합뉴스) 김세린 기자 = BGF리테일[282330]이 운영하는 편의점 CU는 겨울철 따뜻한 먹거리를 찾는 소비자를 겨냥해 치즈를 활용한...",
+      "matched": [],
+      "analysis": {
+        "summary": "CU 겨울 치즈 간편식 출시",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "7c6c9b6be0",
+      "title": "CJ푸드빌 빕스, 잠실에 '그릴 다이닝' 매장 개점…연내 8곳 확대",
+      "url": "https://www.yna.co.kr/view/AKR20261108014200030",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 09:15",
+      "published_iso": "2026-11-08T09:15:11+09:00",
+      "sort_key": 1794096911.0,
+      "excerpt": "(서울=연합뉴스) 김세린 기자 = CJ푸드빌이 운영하는 외식 브랜드 빕스는 오는 9일 서울 잠실 롯데캐슬플라자에 &apos;그릴 다이닝&apos; 모델을 적용한 ...",
+      "matched": [],
+      "analysis": {
+        "summary": "빕스가 잠실에 그릴 다이닝 매장 열고 연내 8곳으로",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "413f65bada",
+      "title": "\"제조업 파업에 근로손실일수 45% 증가…N% 성과배분 요구 확산\"",
+      "url": "https://www.yna.co.kr/view/AKR20261108013000003",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 09:09",
+      "published_iso": "2026-11-08T09:09:51+09:00",
+      "sort_key": 1794096591.0,
+      "excerpt": "(서울=연합뉴스) 장하나 기자 = 올해 노사 분규는 작년보다 감소했으나 자동차와 조선 등 주요 제조업의 파업으로 근로손실일수는 오히려 증가한 것...",
+      "matched": [],
+      "analysis": {
+        "summary": "자동차·조선 파업으로 근로손실일수 45% 증가",
+        "impact": "제조업 생산 차질 부담",
+        "affected": "자동차, 조선"
+      }
+    },
+    {
+      "id": "5c7151cd32",
+      "title": "광주송정역·금호타이어공장 일대 '반도체 관문도시' 조성",
+      "url": "https://www.yna.co.kr/view/AKR20261106086200054",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 09:02",
+      "published_iso": "2026-11-08T09:02:01+09:00",
+      "sort_key": 1794096121.0,
+      "excerpt": "(전남광주=연합뉴스) 박철홍 기자 = 전남광주통합특별시가 광주송정역과 금호타이어 광주공장 이전부지, 군공항 이전부지 등을 연결하는 394만㎡ 규...",
+      "matched": [],
+      "analysis": {
+        "summary": "광주송정역·금호타이어 공장 일대 '반도체 관문도시' 조성",
+        "impact": "시장 영향은 제한적",
+        "affected": "지역 개발"
+      }
+    },
+    {
+      "id": "4d26bc28cd",
+      "title": "'군포 복합물류터미널 이전 촉구' 범시민추진위 출범",
+      "url": "https://www.yna.co.kr/view/AKR20261106145700061",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 09:00",
+      "published_iso": "2026-11-08T09:00:05+09:00",
+      "sort_key": 1794096005.0,
+      "excerpt": "(군포=연합뉴스) 이우성 기자 = 1990년대 초 경기 군포시에 들어선 뒤 도심 확장으로 한복판에 자리 잡게 된 군포복합물류터미널의 이전을 요구...",
+      "matched": [],
+      "analysis": {
+        "summary": "군포 복합물류터미널 이전 촉구 시민위 출범",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "88c230edae",
+      "title": "'232억 펀드 불완전판매' 증권사 임원 감봉…법원 \"과도한 제재\"",
+      "url": "https://www.yna.co.kr/view/AKR20261106182900004",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 09:00",
+      "published_iso": "2026-11-08T09:00:02+09:00",
+      "sort_key": 1794096002.0,
+      "excerpt": "(서울=연합뉴스) 이영섭 기자 = 펀드 불완전판매에 대한 감독 책임으로 감봉 처분을 받은 삼성증권 전 임원이 소송을 통해 구제받았다.",
+      "matched": [],
+      "analysis": {
+        "summary": "법원 '펀드 불완전판매 책임으로 증권사 임원 감봉은 과도'",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "8787395312",
+      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/08 08:02",
+      "published_iso": "2026-11-08T08:02:35+09:00",
+      "sort_key": 1794092555.0,
+      "excerpt": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+      "matched": [],
+      "analysis": {
+        "summary": "라부부 열풍이 식어 팝마트 매출 감소",
+        "impact": "캐릭터 상품 유행 둔화",
+        "affected": "팝마트"
+      }
+    },
+    {
+      "id": "e8987cf3b5",
+      "title": "금융자산 35억인데…60대 부부, 세금 줄이고 월 1200만원 쓰는 법",
+      "url": "https://www.hankyung.com/article/202611058584i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 08:00",
+      "published_iso": "2026-11-08T08:00:02+09:00",
+      "sort_key": 1794092402.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "금융자산 35억 원 60대 부부의 절세·지출 방법",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "0ec3ee8433",
+      "title": "고전 명작 표지까지…다이소 '미니키링북' 출시 전부터 관심",
+      "url": "https://www.hankyung.com/article/202611060500i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 07:59",
+      "published_iso": "2026-11-08T07:59:05+09:00",
+      "sort_key": 1794092345.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "다이소 고전 명작 미니 키링북 출시",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "4de6b64955",
+      "title": "\"누워서 볼래, 단둘이 볼래\"…7만원짜리 '불 꺼진 방' 동났다 [박수림의 요즘 여기]",
+      "url": "https://www.hankyung.com/article/202611060145g",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 07:30",
+      "published_iso": "2026-11-08T07:30:03+09:00",
+      "sort_key": 1794090603.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "7만 원짜리 '불 꺼진 방' 상영관 매진",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "f3892ae115",
+      "title": "우주청, 또 부지 검증 미흡…민간 연소시험시설도 차질",
+      "url": "https://www.yna.co.kr/view/AKR20261106140500017",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 07:13",
+      "published_iso": "2026-11-08T07:13:00+09:00",
+      "sort_key": 1794089580.0,
+      "excerpt": "(서울=연합뉴스) 조승한 기자 = 우주항공청이 485억원을 들여 추진하는 민간전용 발사체 엔진 연소시험시설 구축 사업이 부지 확보 지연으로 올해...",
+      "matched": [],
+      "analysis": {
+        "summary": "우주항공청 민간 엔진 연소시험시설이 부지 문제로 차질",
+        "impact": "시장 영향은 제한적",
+        "affected": "우주항공"
+      }
+    },
+    {
+      "id": "42cd1f9756",
+      "title": "[머니톡스] 강북도 하락 전이…'영끌족'의 딜레마",
+      "url": "https://www.yna.co.kr/view/AKR20261106115900546",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 07:07",
+      "published_iso": "2026-11-08T07:07:00+09:00",
+      "sort_key": 1794089220.0,
+      "excerpt": "(서울=연합뉴스) 윤선희 선임기자 = # 1. &quot;할머니가 드디어 집을 팔기로 마음먹으셨다.&quot;",
+      "matched": [],
+      "analysis": {
+        "summary": "강북까지 집값 하락이 번지며 '영끌족' 고민",
+        "impact": "부동산 하락 확산 신호",
+        "affected": "부동산, 건설"
+      }
+    },
+    {
+      "id": "27121c4563",
+      "title": "출석 확인부터 통신장애까지, 전자주주총회 실무 점검사항 [디엘지 기업법무 핵심노트]",
+      "url": "https://www.hankyung.com/article/202611033040i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 07:00",
+      "published_iso": "2026-11-08T07:00:07+09:00",
+      "sort_key": 1794088807.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "전자 주주총회 실무 점검사항",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "238b4d9b75",
+      "title": "“떡볶이 먹고 산책까지”…노포 분식집, 동네 관광 코스로 뜬다 [권용훈의 트렌드워치]",
+      "url": "https://www.hankyung.com/article/202611069903i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 07:00",
+      "published_iso": "2026-11-08T07:00:05+09:00",
+      "sort_key": 1794088805.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "노포 분식집이 동네 관광 코스로 인기",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "4647c69426",
+      "title": "K-라면 수출 역대 최대 훈풍에…전국 '라면 기지'서 축제 잇따라",
+      "url": "https://www.yna.co.kr/view/AKR20261107024300030",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 07:00",
+      "published_iso": "2026-11-08T07:00:03+09:00",
+      "sort_key": 1794088803.0,
+      "excerpt": "(서울=연합뉴스) 한주홍 기자 = 라면 수출이 역대 최대 실적을 경신할 것으로 전망되는 가운데 국내에서도 라면을 주제로 한 지역 축제가 잇따라 ...",
+      "matched": [],
+      "analysis": {
+        "summary": "K-라면 수출 역대 최대 전망 — 전국에서 라면 축제",
+        "impact": "라면 수출 호조",
+        "affected": "농심, 삼양식품"
+      }
+    },
+    {
+      "id": "af5577e182",
+      "title": "[르포] '새집' 첫걸음 뗀 동자동 쪽방촌 마을잔치…떠난 180명 추모도",
+      "url": "https://www.yna.co.kr/view/AKR20261107053200004",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 07:00",
+      "published_iso": "2026-11-08T07:00:01+09:00",
+      "sort_key": 1794088801.0,
+      "excerpt": "(서울=연합뉴스) 양수연 기자 = &quot;새집으로 가는 문이 열렸습니다. 마을 잔치를 시작하겠습니다!&quot;",
+      "matched": [],
+      "analysis": {
+        "summary": "동자동 쪽방촌 새집 마련 첫걸음",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "8ca2c965a2",
+      "title": "방한객 2천만명 시대의 그늘…9월 관광수지 5억달러 적자",
+      "url": "https://www.yna.co.kr/view/AKR20261107042100030",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 06:50",
+      "published_iso": "2026-11-08T06:50:00+09:00",
+      "sort_key": 1794088200.0,
+      "excerpt": "(서울=연합뉴스) 이상서 기자 = &quot;올해 4월에 방탄소년단(BTS) 공연을 보러 처음 서울에 왔는데 기억이 정말 좋게 남아서 반년 만에 다시 찾...",
+      "matched": [],
+      "analysis": {
+        "summary": "방한객 2천만 명 시대에도 9월 관광수지 5억 달러 적자",
+        "impact": "서비스수지 부담",
+        "affected": "관광, 원화"
+      }
+    },
+    {
+      "id": "b2ca46b68d",
+      "title": "대형 증권사 3분기 실적 '반토막'…주가도 줄줄이 연저점",
+      "url": "https://www.yna.co.kr/view/AKR20261107048600008",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 06:40",
+      "published_iso": "2026-11-08T06:40:00+09:00",
+      "sort_key": 1794087600.0,
+      "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 상반기 역대급 실적을 냈던 증권사들이 3분기 실적 시즌에는 웃지 못하고 있다.",
+      "matched": [],
+      "analysis": {
+        "summary": "대형 증권사 3분기 실적이 반토막 — 주가도 연중 최저",
+        "impact": "증권업 실적 악화",
+        "affected": "증권주"
+      }
+    },
+    {
+      "id": "590b60ffae",
+      "title": "채권금리 빠르게 내렸지만…'추격 매수냐 관망이냐' 채권시장 신중",
+      "url": "https://www.yna.co.kr/view/AKR20261106190600008",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 06:35",
+      "published_iso": "2026-11-08T06:35:01+09:00",
+      "sort_key": 1794087301.0,
+      "excerpt": "(서울=연합뉴스) 강수지 기자 = 국고채 금리가 빠르게 하락하고 있지만 채권시장 참가자들의 표정은 마냥 밝지만은 않다.",
+      "matched": [],
+      "analysis": {
+        "summary": "국고채 금리가 빠르게 내렸지만 채권시장은 신중",
+        "impact": "금리 하락세 지속 여부 불확실",
+        "affected": "국고채"
+      }
+    },
+    {
+      "id": "b3d966ecc9",
+      "title": "급락장에 줄줄이 추락…지난주 상장사 3개중 1개는 연중 최저가",
+      "url": "https://www.yna.co.kr/view/AKR20261106189100008",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 06:25",
+      "published_iso": "2026-11-08T06:25:01+09:00",
+      "sort_key": 1794086701.0,
+      "excerpt": "(서울=연합뉴스) 김유아 기자 = 최근 코스피가 장중 5,000선 밑으로 밀리는 등 하락을 거듭하면서 지난 한 주 국내 증시 상장사 3분의 1이...",
+      "matched": [],
+      "analysis": {
+        "summary": "급락장에 지난주 상장사 3곳 중 1곳이 연중 최저가",
+        "impact": "국내 증시 투자 심리 악화",
+        "affected": "코스피, 코스닥"
+      }
+    },
+    {
+      "id": "835544f1c4",
+      "title": "\"집에 있으면 돈 아끼는 줄 알았는데\"…'소파 경제'의 함정",
+      "url": "https://www.hankyung.com/article/202611072412H",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 06:00",
+      "published_iso": "2026-11-08T06:00:03+09:00",
+      "sort_key": 1794085203.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "집에만 있어도 돈이 나가는 '소파 경제'의 함정",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "47a122468f",
+      "title": "\"주주는 피눈물인데 직원은 7억?\"…삼성 성과급 놓고 갑론을박",
+      "url": "https://www.hankyung.com/article/202611072406H",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 06:00",
+      "published_iso": "2026-11-08T06:00:01+09:00",
+      "sort_key": 1794085201.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "주가 급락 속 삼성 성과급 7억 원 논란",
+        "impact": "시장 영향은 제한적",
+        "affected": "삼성전자"
+      }
+    },
+    {
+      "id": "40068ba0e8",
+      "title": "A ‘Legend of Zelda’ Game Is Reborn and ’90s Nostalgia Fans Are All In",
+      "url": "https://www.nytimes.com/2026/11/07/business/media/zelda-ocarina-of-time-remake-nintendo.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/08 03:52",
+      "published_iso": "2026-11-08T03:52:25+09:00",
+      "sort_key": 1794077545.0,
+      "excerpt": "Nintendo’s “Legend of Zelda: Ocarina of Time” was released in 1998. Now, its remake has some fans giddily reliving their childhoods.",
+      "matched": [],
+      "analysis": {
+        "summary": "닌텐도 '젤다' 리메이크에 90년대 향수 팬들 열광",
+        "impact": "시장 영향은 제한적",
+        "affected": "닌텐도"
+      }
+    },
+    {
+      "id": "7e85a1deaa",
+      "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+      "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+      "source": "CNBC Finance",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/08 01:02",
+      "published_iso": "2026-11-08T01:02:33+09:00",
+      "sort_key": 1794067353.0,
+      "excerpt": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
+      "matched": [],
+      "analysis": {
+        "summary": "민주당이 의회를 장악하면서 헬스케어 주식 전망이 불확실",
+        "impact": "약값·보험 규제 강화 가능성",
+        "affected": "미국 헬스케어주, ADUS",
+        "important": true,
+        "important_tag": "관심종목",
+        "why_important": "민주당 의회가 헬스케어 규제를 강화할 수 있음 — 보유 종목 ADUS(가정 간호)도 영향권"
+      }
+    },
+    {
+      "id": "0cd5dc65a6",
+      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+      "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+      "source": "CNBC Finance",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/08 00:23",
+      "published_iso": "2026-11-08T00:23:46+09:00",
+      "sort_key": 1794065026.0,
+      "excerpt": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
+      "matched": [],
+      "analysis": {
+        "summary": "버크셔 해서웨이가 3분기 이익 감소 속 자사주 매입을 두 배 넘게 늘림",
+        "impact": "버핏 회사가 자기 주식을 싸다고 봄",
+        "affected": "버크셔 해서웨이, 미국 증시",
+        "important": true,
+        "important_tag": "산업·실적",
+        "why_important": "버핏의 버크셔가 자사주 매입을 두 배 넘게 늘림 — 급락장에서 '싸다'는 신호"
+      }
+    },
+    {
+      "id": "7470840725",
+      "title": "How Cardiologists’ High Hopes for Two Drugs Were Dashed",
+      "url": "https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/07 23:50",
+      "published_iso": "2026-11-07T23:50:04+09:00",
+      "sort_key": 1794063004.0,
+      "excerpt": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?",
+      "matched": [],
+      "analysis": {
+        "summary": "심장병 신약 두 개가 가짜 약과 효과 차이 없음",
+        "impact": "해당 제약사 부담",
+        "affected": "제약"
+      }
+    },
+    {
+      "id": "71240352f2",
+      "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+      "source": "유럽중앙은행(ECB)",
+      "group": "중앙은행·국제기구",
+      "lang": "en",
+      "published_kst": "11/07 23:00",
+      "published_iso": "2026-11-07T23:00:00+09:00",
+      "sort_key": 1794060000.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "라가르드 ECB 총재 요미우리 인터뷰",
+        "impact": "유럽 통화정책 방향 확인",
+        "affected": "유로"
+      }
+    },
+    {
+      "id": "25db57bea7",
+      "title": "Law Firms Have Malpractice Insurance. Should Their A.I. Agents?",
+      "url": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/07 22:00",
+      "published_iso": "2026-11-07T22:00:06+09:00",
+      "sort_key": 1794056406.0,
+      "excerpt": "Crosby, an A.I. law firm, bought it for them. The move speaks to a nascent gap in coverage as major insurers grapple with risks related to artificial intelligence.",
+      "matched": [],
+      "analysis": {
+        "summary": "법률 AI 에이전트에도 배상 보험이 필요한가",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "7a5bedd793",
+      "title": "내일 한국 오기로 했는데…젠슨 황 장녀 방한 돌연 취소",
+      "url": "https://www.hankyung.com/article/2026110724057",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/07 21:38",
+      "published_iso": "2026-11-07T21:38:06+09:00",
+      "sort_key": 1794055086.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "젠슨 황 장녀 방한이 갑자기 취소됨",
+        "impact": "시장 영향은 제한적",
+        "affected": "엔비디아, 국내 협력사"
+      }
+    },
+    {
+      "id": "992a2c3570",
+      "title": "로또 1등 14명 '대박'…1인당 20억씩 받는다",
+      "url": "https://www.hankyung.com/article/2026110723997",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/07 21:15",
+      "published_iso": "2026-11-07T21:15:24+09:00",
+      "sort_key": 1794053724.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "로또 1등 14명, 1인당 20억 원",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "fe6a82ecd7",
+      "title": "어쩐지 2030 많이 보이더라…'신세계百 강남점' 갔다가 깜짝 [류은혁의 유통기한]",
+      "url": "https://www.hankyung.com/article/202611072089i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/07 20:00",
+      "published_iso": "2026-11-07T20:00:01+09:00",
+      "sort_key": 1794049201.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "신세계백화점 강남점에 2030 고객 늘어",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "78b9b9fdc4",
+      "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
+      "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/07 19:00",
+      "published_iso": "2026-11-07T19:00:41+09:00",
+      "sort_key": 1794045641.0,
+      "excerpt": "The Commerce Department has approved dozens of Chinese companies to handle Nvidia’s H200 chips, some of which have ties to firms under sanctions over national security.",
+      "matched": [
+        "NVDA"
+      ],
+      "analysis": {
+        "summary": "미국 상무부가 빈 사무실·수상한 연결고리가 있는 중국 회사들에 엔비디아 칩 취급을 허가",
+        "impact": "수출 통제 강화 압력 커질 수 있음",
+        "affected": "엔비디아, 반도체주",
+        "important": true,
+        "important_tag": "정책·무역",
+        "why_important": "미국이 수상한 중국 회사들에도 엔비디아 칩을 허가했다는 보도 — 수출 통제가 더 세질 수 있음"
+      }
+    },
+    {
+      "id": "757bf39993",
+      "title": "“치이카와 보러 왔다가 햄버거까지”…세계 매출 톱5 비결 [현장+]",
+      "url": "https://www.hankyung.com/article/202611072240i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/07 19:00",
+      "published_iso": "2026-11-07T19:00:01+09:00",
+      "sort_key": 1794045601.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "치이카와 협업으로 맥도날드 매출 세계 5위권",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "54a25d38f8",
+      "title": "Researchers Identify Suspicious Activity on Kalshi and Polymarket Before Times/Siena Poll Release",
+      "url": "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/07 11:55",
+      "published_iso": "2026-11-07T11:55:47+09:00",
+      "sort_key": 1794020147.0,
+      "excerpt": "A trader placed well-timed bets on Polymarket and Kalshi in two Senate races. It was unclear if the person had access to inside information or simply made good trades.",
+      "matched": [],
+      "analysis": {
+        "summary": "여론조사 발표 직전 예측시장에서 수상한 거래 포착",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
     }
-   },
-   {
-    "id": "0cd5dc65a6",
-    "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-    "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-    "source": "CNBC Finance",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/08 00:23",
-    "published_iso": "2026-11-08T00:23:46+09:00",
-    "sort_key": 1794065026.0,
-    "excerpt": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
-    "matched": [],
-    "analysis": {
-     "summary": "버크셔 해서웨이가 3분기 이익 감소 속 자사주 매입을 두 배 넘게 늘림",
-     "impact": "버핏 회사가 자기 주식을 싸다고 봄",
-     "affected": "버크셔 해서웨이, 미국 증시",
-     "important": true,
-     "important_tag": "산업·실적",
-     "why_important": "버핏의 버크셔가 자사주 매입을 두 배 넘게 늘림 — 급락장에서 '싸다'는 신호"
-    }
-   },
-   {
-    "id": "7470840725",
-    "title": "How Cardiologists’ High Hopes for Two Drugs Were Dashed",
-    "url": "https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/07 23:50",
-    "published_iso": "2026-11-07T23:50:04+09:00",
-    "sort_key": 1794063004.0,
-    "excerpt": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?",
-    "matched": [],
-    "analysis": {
-     "summary": "심장병 신약 두 개가 가짜 약과 효과 차이 없음",
-     "impact": "해당 제약사 부담",
-     "affected": "제약"
-    }
-   },
-   {
-    "id": "25db57bea7",
-    "title": "Law Firms Have Malpractice Insurance. Should Their A.I. Agents?",
-    "url": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/07 22:00",
-    "published_iso": "2026-11-07T22:00:06+09:00",
-    "sort_key": 1794056406.0,
-    "excerpt": "Crosby, an A.I. law firm, bought it for them. The move speaks to a nascent gap in coverage as major insurers grapple with risks related to artificial intelligence.",
-    "matched": [],
-    "analysis": {
-     "summary": "법률 AI 에이전트에도 배상 보험이 필요한가",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "78b9b9fdc4",
-    "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
-    "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/07 19:00",
-    "published_iso": "2026-11-07T19:00:41+09:00",
-    "sort_key": 1794045641.0,
-    "excerpt": "The Commerce Department has approved dozens of Chinese companies to handle Nvidia’s H200 chips, some of which have ties to firms under sanctions over national security.",
-    "matched": [
-     "NVDA"
+  ],
+  "news_groups": {
+    "국내 경제언론": [
+      {
+        "id": "120f6dc3ae",
+        "title": "오세훈 \"국민연금으로 지방선거용 주식도박…李대통령 사과해야\"",
+        "url": "https://www.yna.co.kr/view/AKR20261108016700004",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 10:16",
+        "published_iso": "2026-11-08T10:16:24+09:00",
+        "sort_key": 1794100584.0,
+        "excerpt": "(서울=연합뉴스) 김동규 기자 = 오세훈 서울시장은 최근 주식시장 급락과 관련해 8일 &quot;정부가 국민연금을 종잣돈 삼아 판을 키우고, 고위험 레버...",
+        "matched": []
+      },
+      {
+        "id": "84be0d4db4",
+        "title": "울주군 내년 장애인일자리사업 참여자 모집…18세 이상 미취업자",
+        "url": "https://www.yna.co.kr/view/AKR20261106065600057",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 10:10",
+        "published_iso": "2026-11-08T10:10:01+09:00",
+        "sort_key": 1794100201.0,
+        "excerpt": "(울산=연합뉴스) 장영은 기자 = 울산 울주군은 장애인 사회참여 확대와 소득보장 지원을 위해 오는 13일까지 &apos;2027년 장애인일자리사업&apos; 참여...",
+        "matched": []
+      },
+      {
+        "id": "162ef6bde1",
+        "title": "CU, 겨울철 겨냥 '딥핑·멜팅 치즈' 간편식 출시",
+        "url": "https://www.yna.co.kr/view/AKR20261108016200030",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 09:57",
+        "published_iso": "2026-11-08T09:57:49+09:00",
+        "sort_key": 1794099469.0,
+        "excerpt": "(서울=연합뉴스) 김세린 기자 = BGF리테일[282330]이 운영하는 편의점 CU는 겨울철 따뜻한 먹거리를 찾는 소비자를 겨냥해 치즈를 활용한...",
+        "matched": []
+      },
+      {
+        "id": "7c6c9b6be0",
+        "title": "CJ푸드빌 빕스, 잠실에 '그릴 다이닝' 매장 개점…연내 8곳 확대",
+        "url": "https://www.yna.co.kr/view/AKR20261108014200030",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 09:15",
+        "published_iso": "2026-11-08T09:15:11+09:00",
+        "sort_key": 1794096911.0,
+        "excerpt": "(서울=연합뉴스) 김세린 기자 = CJ푸드빌이 운영하는 외식 브랜드 빕스는 오는 9일 서울 잠실 롯데캐슬플라자에 &apos;그릴 다이닝&apos; 모델을 적용한 ...",
+        "matched": []
+      },
+      {
+        "id": "413f65bada",
+        "title": "\"제조업 파업에 근로손실일수 45% 증가…N% 성과배분 요구 확산\"",
+        "url": "https://www.yna.co.kr/view/AKR20261108013000003",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 09:09",
+        "published_iso": "2026-11-08T09:09:51+09:00",
+        "sort_key": 1794096591.0,
+        "excerpt": "(서울=연합뉴스) 장하나 기자 = 올해 노사 분규는 작년보다 감소했으나 자동차와 조선 등 주요 제조업의 파업으로 근로손실일수는 오히려 증가한 것...",
+        "matched": []
+      },
+      {
+        "id": "5c7151cd32",
+        "title": "광주송정역·금호타이어공장 일대 '반도체 관문도시' 조성",
+        "url": "https://www.yna.co.kr/view/AKR20261106086200054",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 09:02",
+        "published_iso": "2026-11-08T09:02:01+09:00",
+        "sort_key": 1794096121.0,
+        "excerpt": "(전남광주=연합뉴스) 박철홍 기자 = 전남광주통합특별시가 광주송정역과 금호타이어 광주공장 이전부지, 군공항 이전부지 등을 연결하는 394만㎡ 규...",
+        "matched": []
+      },
+      {
+        "id": "4d26bc28cd",
+        "title": "'군포 복합물류터미널 이전 촉구' 범시민추진위 출범",
+        "url": "https://www.yna.co.kr/view/AKR20261106145700061",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 09:00",
+        "published_iso": "2026-11-08T09:00:05+09:00",
+        "sort_key": 1794096005.0,
+        "excerpt": "(군포=연합뉴스) 이우성 기자 = 1990년대 초 경기 군포시에 들어선 뒤 도심 확장으로 한복판에 자리 잡게 된 군포복합물류터미널의 이전을 요구...",
+        "matched": []
+      },
+      {
+        "id": "88c230edae",
+        "title": "'232억 펀드 불완전판매' 증권사 임원 감봉…법원 \"과도한 제재\"",
+        "url": "https://www.yna.co.kr/view/AKR20261106182900004",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 09:00",
+        "published_iso": "2026-11-08T09:00:02+09:00",
+        "sort_key": 1794096002.0,
+        "excerpt": "(서울=연합뉴스) 이영섭 기자 = 펀드 불완전판매에 대한 감독 책임으로 감봉 처분을 받은 삼성증권 전 임원이 소송을 통해 구제받았다.",
+        "matched": []
+      },
+      {
+        "id": "e8987cf3b5",
+        "title": "금융자산 35억인데…60대 부부, 세금 줄이고 월 1200만원 쓰는 법",
+        "url": "https://www.hankyung.com/article/202611058584i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 08:00",
+        "published_iso": "2026-11-08T08:00:02+09:00",
+        "sort_key": 1794092402.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "0ec3ee8433",
+        "title": "고전 명작 표지까지…다이소 '미니키링북' 출시 전부터 관심",
+        "url": "https://www.hankyung.com/article/202611060500i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 07:59",
+        "published_iso": "2026-11-08T07:59:05+09:00",
+        "sort_key": 1794092345.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "4de6b64955",
+        "title": "\"누워서 볼래, 단둘이 볼래\"…7만원짜리 '불 꺼진 방' 동났다 [박수림의 요즘 여기]",
+        "url": "https://www.hankyung.com/article/202611060145g",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 07:30",
+        "published_iso": "2026-11-08T07:30:03+09:00",
+        "sort_key": 1794090603.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "f3892ae115",
+        "title": "우주청, 또 부지 검증 미흡…민간 연소시험시설도 차질",
+        "url": "https://www.yna.co.kr/view/AKR20261106140500017",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 07:13",
+        "published_iso": "2026-11-08T07:13:00+09:00",
+        "sort_key": 1794089580.0,
+        "excerpt": "(서울=연합뉴스) 조승한 기자 = 우주항공청이 485억원을 들여 추진하는 민간전용 발사체 엔진 연소시험시설 구축 사업이 부지 확보 지연으로 올해...",
+        "matched": [],
+        "analysis": {
+          "summary": "우주항공청 민간 엔진 연소시험시설이 부지 문제로 차질",
+          "impact": "시장 영향은 제한적",
+          "affected": "우주항공"
+        }
+      },
+      {
+        "id": "42cd1f9756",
+        "title": "[머니톡스] 강북도 하락 전이…'영끌족'의 딜레마",
+        "url": "https://www.yna.co.kr/view/AKR20261106115900546",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 07:07",
+        "published_iso": "2026-11-08T07:07:00+09:00",
+        "sort_key": 1794089220.0,
+        "excerpt": "(서울=연합뉴스) 윤선희 선임기자 = # 1. &quot;할머니가 드디어 집을 팔기로 마음먹으셨다.&quot;",
+        "matched": [],
+        "analysis": {
+          "summary": "강북까지 집값 하락이 번지며 '영끌족' 고민",
+          "impact": "부동산 하락 확산 신호",
+          "affected": "부동산, 건설"
+        }
+      },
+      {
+        "id": "27121c4563",
+        "title": "출석 확인부터 통신장애까지, 전자주주총회 실무 점검사항 [디엘지 기업법무 핵심노트]",
+        "url": "https://www.hankyung.com/article/202611033040i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 07:00",
+        "published_iso": "2026-11-08T07:00:07+09:00",
+        "sort_key": 1794088807.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "전자 주주총회 실무 점검사항",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "238b4d9b75",
+        "title": "“떡볶이 먹고 산책까지”…노포 분식집, 동네 관광 코스로 뜬다 [권용훈의 트렌드워치]",
+        "url": "https://www.hankyung.com/article/202611069903i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 07:00",
+        "published_iso": "2026-11-08T07:00:05+09:00",
+        "sort_key": 1794088805.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "노포 분식집이 동네 관광 코스로 인기",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "4647c69426",
+        "title": "K-라면 수출 역대 최대 훈풍에…전국 '라면 기지'서 축제 잇따라",
+        "url": "https://www.yna.co.kr/view/AKR20261107024300030",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 07:00",
+        "published_iso": "2026-11-08T07:00:03+09:00",
+        "sort_key": 1794088803.0,
+        "excerpt": "(서울=연합뉴스) 한주홍 기자 = 라면 수출이 역대 최대 실적을 경신할 것으로 전망되는 가운데 국내에서도 라면을 주제로 한 지역 축제가 잇따라 ...",
+        "matched": [],
+        "analysis": {
+          "summary": "K-라면 수출 역대 최대 전망 — 전국에서 라면 축제",
+          "impact": "라면 수출 호조",
+          "affected": "농심, 삼양식품"
+        }
+      },
+      {
+        "id": "af5577e182",
+        "title": "[르포] '새집' 첫걸음 뗀 동자동 쪽방촌 마을잔치…떠난 180명 추모도",
+        "url": "https://www.yna.co.kr/view/AKR20261107053200004",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 07:00",
+        "published_iso": "2026-11-08T07:00:01+09:00",
+        "sort_key": 1794088801.0,
+        "excerpt": "(서울=연합뉴스) 양수연 기자 = &quot;새집으로 가는 문이 열렸습니다. 마을 잔치를 시작하겠습니다!&quot;",
+        "matched": [],
+        "analysis": {
+          "summary": "동자동 쪽방촌 새집 마련 첫걸음",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "8ca2c965a2",
+        "title": "방한객 2천만명 시대의 그늘…9월 관광수지 5억달러 적자",
+        "url": "https://www.yna.co.kr/view/AKR20261107042100030",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 06:50",
+        "published_iso": "2026-11-08T06:50:00+09:00",
+        "sort_key": 1794088200.0,
+        "excerpt": "(서울=연합뉴스) 이상서 기자 = &quot;올해 4월에 방탄소년단(BTS) 공연을 보러 처음 서울에 왔는데 기억이 정말 좋게 남아서 반년 만에 다시 찾...",
+        "matched": [],
+        "analysis": {
+          "summary": "방한객 2천만 명 시대에도 9월 관광수지 5억 달러 적자",
+          "impact": "서비스수지 부담",
+          "affected": "관광, 원화"
+        }
+      },
+      {
+        "id": "b2ca46b68d",
+        "title": "대형 증권사 3분기 실적 '반토막'…주가도 줄줄이 연저점",
+        "url": "https://www.yna.co.kr/view/AKR20261107048600008",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 06:40",
+        "published_iso": "2026-11-08T06:40:00+09:00",
+        "sort_key": 1794087600.0,
+        "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 상반기 역대급 실적을 냈던 증권사들이 3분기 실적 시즌에는 웃지 못하고 있다.",
+        "matched": [],
+        "analysis": {
+          "summary": "대형 증권사 3분기 실적이 반토막 — 주가도 연중 최저",
+          "impact": "증권업 실적 악화",
+          "affected": "증권주"
+        }
+      },
+      {
+        "id": "590b60ffae",
+        "title": "채권금리 빠르게 내렸지만…'추격 매수냐 관망이냐' 채권시장 신중",
+        "url": "https://www.yna.co.kr/view/AKR20261106190600008",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 06:35",
+        "published_iso": "2026-11-08T06:35:01+09:00",
+        "sort_key": 1794087301.0,
+        "excerpt": "(서울=연합뉴스) 강수지 기자 = 국고채 금리가 빠르게 하락하고 있지만 채권시장 참가자들의 표정은 마냥 밝지만은 않다.",
+        "matched": [],
+        "analysis": {
+          "summary": "국고채 금리가 빠르게 내렸지만 채권시장은 신중",
+          "impact": "금리 하락세 지속 여부 불확실",
+          "affected": "국고채"
+        }
+      },
+      {
+        "id": "b3d966ecc9",
+        "title": "급락장에 줄줄이 추락…지난주 상장사 3개중 1개는 연중 최저가",
+        "url": "https://www.yna.co.kr/view/AKR20261106189100008",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 06:25",
+        "published_iso": "2026-11-08T06:25:01+09:00",
+        "sort_key": 1794086701.0,
+        "excerpt": "(서울=연합뉴스) 김유아 기자 = 최근 코스피가 장중 5,000선 밑으로 밀리는 등 하락을 거듭하면서 지난 한 주 국내 증시 상장사 3분의 1이...",
+        "matched": [],
+        "analysis": {
+          "summary": "급락장에 지난주 상장사 3곳 중 1곳이 연중 최저가",
+          "impact": "국내 증시 투자 심리 악화",
+          "affected": "코스피, 코스닥"
+        }
+      },
+      {
+        "id": "835544f1c4",
+        "title": "\"집에 있으면 돈 아끼는 줄 알았는데\"…'소파 경제'의 함정",
+        "url": "https://www.hankyung.com/article/202611072412H",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 06:00",
+        "published_iso": "2026-11-08T06:00:03+09:00",
+        "sort_key": 1794085203.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "집에만 있어도 돈이 나가는 '소파 경제'의 함정",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "47a122468f",
+        "title": "\"주주는 피눈물인데 직원은 7억?\"…삼성 성과급 놓고 갑론을박",
+        "url": "https://www.hankyung.com/article/202611072406H",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 06:00",
+        "published_iso": "2026-11-08T06:00:01+09:00",
+        "sort_key": 1794085201.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "주가 급락 속 삼성 성과급 7억 원 논란",
+          "impact": "시장 영향은 제한적",
+          "affected": "삼성전자"
+        }
+      },
+      {
+        "id": "7a5bedd793",
+        "title": "내일 한국 오기로 했는데…젠슨 황 장녀 방한 돌연 취소",
+        "url": "https://www.hankyung.com/article/2026110724057",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/07 21:38",
+        "published_iso": "2026-11-07T21:38:06+09:00",
+        "sort_key": 1794055086.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "젠슨 황 장녀 방한이 갑자기 취소됨",
+          "impact": "시장 영향은 제한적",
+          "affected": "엔비디아, 국내 협력사"
+        }
+      },
+      {
+        "id": "992a2c3570",
+        "title": "로또 1등 14명 '대박'…1인당 20억씩 받는다",
+        "url": "https://www.hankyung.com/article/2026110723997",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/07 21:15",
+        "published_iso": "2026-11-07T21:15:24+09:00",
+        "sort_key": 1794053724.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "로또 1등 14명, 1인당 20억 원",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "fe6a82ecd7",
+        "title": "어쩐지 2030 많이 보이더라…'신세계百 강남점' 갔다가 깜짝 [류은혁의 유통기한]",
+        "url": "https://www.hankyung.com/article/202611072089i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/07 20:00",
+        "published_iso": "2026-11-07T20:00:01+09:00",
+        "sort_key": 1794049201.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "신세계백화점 강남점에 2030 고객 늘어",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "757bf39993",
+        "title": "“치이카와 보러 왔다가 햄버거까지”…세계 매출 톱5 비결 [현장+]",
+        "url": "https://www.hankyung.com/article/202611072240i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/07 19:00",
+        "published_iso": "2026-11-07T19:00:01+09:00",
+        "sort_key": 1794045601.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "치이카와 협업으로 맥도날드 매출 세계 5위권",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      }
     ],
-    "analysis": {
-     "summary": "미국 상무부가 빈 사무실·수상한 연결고리가 있는 중국 회사들에 엔비디아 칩 취급을 허가",
-     "impact": "수출 통제 강화 압력 커질 수 있음",
-     "affected": "엔비디아, 반도체주",
-     "important": true,
-     "important_tag": "정책·무역",
-     "why_important": "미국이 수상한 중국 회사들에도 엔비디아 칩을 허가했다는 보도 — 수출 통제가 더 세질 수 있음"
+    "해외 경제언론": [
+      {
+        "id": "8787395312",
+        "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/08 08:02",
+        "published_iso": "2026-11-08T08:02:35+09:00",
+        "sort_key": 1794092555.0,
+        "excerpt": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+        "matched": []
+      },
+      {
+        "id": "40068ba0e8",
+        "title": "A ‘Legend of Zelda’ Game Is Reborn and ’90s Nostalgia Fans Are All In",
+        "url": "https://www.nytimes.com/2026/11/07/business/media/zelda-ocarina-of-time-remake-nintendo.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/08 03:52",
+        "published_iso": "2026-11-08T03:52:25+09:00",
+        "sort_key": 1794077545.0,
+        "excerpt": "Nintendo’s “Legend of Zelda: Ocarina of Time” was released in 1998. Now, its remake has some fans giddily reliving their childhoods.",
+        "matched": [],
+        "analysis": {
+          "summary": "닌텐도 '젤다' 리메이크에 90년대 향수 팬들 열광",
+          "impact": "시장 영향은 제한적",
+          "affected": "닌텐도"
+        }
+      },
+      {
+        "id": "7e85a1deaa",
+        "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+        "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+        "source": "CNBC Finance",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/08 01:02",
+        "published_iso": "2026-11-08T01:02:33+09:00",
+        "sort_key": 1794067353.0,
+        "excerpt": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
+        "matched": [],
+        "analysis": {
+          "summary": "민주당이 의회를 장악하면서 헬스케어 주식 전망이 불확실",
+          "impact": "약값·보험 규제 강화 가능성",
+          "affected": "미국 헬스케어주, ADUS",
+          "important": true,
+          "important_tag": "관심종목",
+          "why_important": "민주당 의회가 헬스케어 규제를 강화할 수 있음 — 보유 종목 ADUS(가정 간호)도 영향권"
+        }
+      },
+      {
+        "id": "0cd5dc65a6",
+        "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+        "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+        "source": "CNBC Finance",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/08 00:23",
+        "published_iso": "2026-11-08T00:23:46+09:00",
+        "sort_key": 1794065026.0,
+        "excerpt": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
+        "matched": [],
+        "analysis": {
+          "summary": "버크셔 해서웨이가 3분기 이익 감소 속 자사주 매입을 두 배 넘게 늘림",
+          "impact": "버핏 회사가 자기 주식을 싸다고 봄",
+          "affected": "버크셔 해서웨이, 미국 증시",
+          "important": true,
+          "important_tag": "산업·실적",
+          "why_important": "버핏의 버크셔가 자사주 매입을 두 배 넘게 늘림 — 급락장에서 '싸다'는 신호"
+        }
+      },
+      {
+        "id": "7470840725",
+        "title": "How Cardiologists’ High Hopes for Two Drugs Were Dashed",
+        "url": "https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/07 23:50",
+        "published_iso": "2026-11-07T23:50:04+09:00",
+        "sort_key": 1794063004.0,
+        "excerpt": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?",
+        "matched": [],
+        "analysis": {
+          "summary": "심장병 신약 두 개가 가짜 약과 효과 차이 없음",
+          "impact": "해당 제약사 부담",
+          "affected": "제약"
+        }
+      },
+      {
+        "id": "25db57bea7",
+        "title": "Law Firms Have Malpractice Insurance. Should Their A.I. Agents?",
+        "url": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/07 22:00",
+        "published_iso": "2026-11-07T22:00:06+09:00",
+        "sort_key": 1794056406.0,
+        "excerpt": "Crosby, an A.I. law firm, bought it for them. The move speaks to a nascent gap in coverage as major insurers grapple with risks related to artificial intelligence.",
+        "matched": [],
+        "analysis": {
+          "summary": "법률 AI 에이전트에도 배상 보험이 필요한가",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "78b9b9fdc4",
+        "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
+        "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/07 19:00",
+        "published_iso": "2026-11-07T19:00:41+09:00",
+        "sort_key": 1794045641.0,
+        "excerpt": "The Commerce Department has approved dozens of Chinese companies to handle Nvidia’s H200 chips, some of which have ties to firms under sanctions over national security.",
+        "matched": [
+          "NVDA"
+        ],
+        "analysis": {
+          "summary": "미국 상무부가 빈 사무실·수상한 연결고리가 있는 중국 회사들에 엔비디아 칩 취급을 허가",
+          "impact": "수출 통제 강화 압력 커질 수 있음",
+          "affected": "엔비디아, 반도체주",
+          "important": true,
+          "important_tag": "정책·무역",
+          "why_important": "미국이 수상한 중국 회사들에도 엔비디아 칩을 허가했다는 보도 — 수출 통제가 더 세질 수 있음"
+        }
+      },
+      {
+        "id": "54a25d38f8",
+        "title": "Researchers Identify Suspicious Activity on Kalshi and Polymarket Before Times/Siena Poll Release",
+        "url": "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/07 11:55",
+        "published_iso": "2026-11-07T11:55:47+09:00",
+        "sort_key": 1794020147.0,
+        "excerpt": "A trader placed well-timed bets on Polymarket and Kalshi in two Senate races. It was unclear if the person had access to inside information or simply made good trades.",
+        "matched": [],
+        "analysis": {
+          "summary": "여론조사 발표 직전 예측시장에서 수상한 거래 포착",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      }
+    ],
+    "중앙은행·국제기구": [
+      {
+        "id": "71240352f2",
+        "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
+        "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+        "source": "유럽중앙은행(ECB)",
+        "group": "중앙은행·국제기구",
+        "lang": "en",
+        "published_kst": "11/07 23:00",
+        "published_iso": "2026-11-07T23:00:00+09:00",
+        "sort_key": 1794060000.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "라가르드 ECB 총재 요미우리 인터뷰",
+          "impact": "유럽 통화정책 방향 확인",
+          "affected": "유로"
+        }
+      }
+    ]
+  },
+  "counts": {
+    "indices_ok": 8,
+    "indices_total": 8,
+    "stocks_ok": 9,
+    "stocks_total": 9,
+    "news": 36,
+    "news_new": 12
+  },
+  "errors": [
+    {
+      "stage": "news",
+      "target": "금융위원회 보도자료",
+      "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
     }
-   },
-   {
-    "id": "54a25d38f8",
-    "title": "Researchers Identify Suspicious Activity on Kalshi and Polymarket Before Times/Siena Poll Release",
-    "url": "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/07 11:55",
-    "published_iso": "2026-11-07T11:55:47+09:00",
-    "sort_key": 1794020147.0,
-    "excerpt": "A trader placed well-timed bets on Polymarket and Kalshi in two Senate races. It was unclear if the person had access to inside information or simply made good trades.",
-    "matched": [],
-    "analysis": {
-     "summary": "여론조사 발표 직전 예측시장에서 수상한 거래 포착",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   }
-  ],
-  "중앙은행·국제기구": [
-   {
-    "id": "71240352f2",
-    "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
-    "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
-    "source": "유럽중앙은행(ECB)",
-    "group": "중앙은행·국제기구",
-    "lang": "en",
-    "published_kst": "11/07 23:00",
-    "published_iso": "2026-11-07T23:00:00+09:00",
-    "sort_key": 1794060000.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "라가르드 ECB 총재 요미우리 인터뷰",
-     "impact": "유럽 통화정책 방향 확인",
-     "affected": "유로"
-    }
-   }
   ]
- },
- "counts": {
-  "indices_ok": 8,
-  "indices_total": 8,
-  "stocks_ok": 9,
-  "stocks_total": 9,
-  "news": 36,
-  "news_new": 12
- },
- "errors": [
-  {
-   "stage": "news",
-   "target": "금융위원회 보도자료",
-   "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
-  }
- ]
 }
