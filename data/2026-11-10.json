@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "generated_at": "2026-11-10 02:25",
+ "generated_at": "2026-11-10 07:26",
  "weekday": "화",
  "site": {
   "title": "오늘의 경제 한 장",
@@ -49,13 +49,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 7546.18,
+   "price": 7549.94,
    "prev_close": 7541.4,
-   "change": 4.78,
-   "change_pct": 0.06,
+   "change": 8.54,
+   "change_pct": 0.11,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1794245133,
+   "asof_epoch": 1794262370,
    "asof_date": null
   },
   {
@@ -65,13 +65,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 25228.404,
+   "price": 25253.139,
    "prev_close": 25164.31,
-   "change": 64.094,
-   "change_pct": 0.25,
+   "change": 88.829,
+   "change_pct": 0.35,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1794245139,
+   "asof_epoch": 1794262559,
    "asof_date": null
   },
   {
@@ -81,13 +81,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 1344.18,
+   "price": 1340.31,
    "prev_close": 1344.81,
-   "change": -0.63,
-   "change_pct": -0.05,
+   "change": -4.5,
+   "change_pct": -0.33,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1794245135,
+   "asof_epoch": 1794263157,
    "asof_date": null
   },
   {
@@ -97,13 +97,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 4.88,
+   "price": 4.864,
    "prev_close": 4.952,
-   "change": -0.072,
-   "change_pct": -1.45,
+   "change": -0.088,
+   "change_pct": -1.78,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1794244233,
+   "asof_epoch": 1794254393,
    "asof_date": null
   },
   {
@@ -113,13 +113,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 87.78,
+   "price": 86.38,
    "prev_close": 88.12,
-   "change": -0.34,
-   "change_pct": -0.39,
+   "change": -1.74,
+   "change_pct": -1.97,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1794244538,
+   "asof_epoch": 1794261599,
    "asof_date": null
   },
   {
@@ -129,13 +129,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 4113.7,
+   "price": 4149.5,
    "prev_close": 4073.0,
-   "change": 40.7,
-   "change_pct": 1.0,
+   "change": 76.5,
+   "change_pct": 1.88,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1794244541,
+   "asof_epoch": 1794261600,
    "asof_date": null
   }
  ],
@@ -202,7 +202,15 @@
    "source": "yahoo",
    "asof_epoch": 1794205821,
    "asof_date": null,
-   "news": []
+   "news": [
+    {
+     "id": "23ee774e15",
+     "title": "인도, 글로벌 자동차 수출 허브 부상…현대차 이어 벤츠도 주목",
+     "url": "https://www.yna.co.kr/view/AKR20261109146100003",
+     "source": "연합뉴스 경제",
+     "published_kst": "11/10 06:15"
+    }
+   ]
   },
   {
    "name": "LG에너지솔루션",
@@ -257,13 +265,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 177.54,
+   "price": 178.67,
    "prev_close": 202.06,
-   "change": -24.52,
-   "change_pct": -12.14,
+   "change": -23.39,
+   "change_pct": -11.58,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1794245141,
+   "asof_epoch": 1794258000,
    "asof_date": null,
    "news": [
     {
@@ -286,6 +294,27 @@
      "url": "https://www.yna.co.kr/view/AKR20261109146400017",
      "source": "연합뉴스 경제",
      "published_kst": "11/09 17:57"
+    },
+    {
+     "id": "ed37d32e2c",
+     "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+     "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "published_kst": "11/10 06:52"
+    },
+    {
+     "id": "c1a8be3a6f",
+     "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+     "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "published_kst": "11/10 04:58"
+    },
+    {
+     "id": "0b80c5851b",
+     "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+     "url": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+     "source": "CNBC Finance",
+     "published_kst": "11/10 03:46"
     },
     {
      "id": "8233129c4c",
@@ -328,13 +357,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 349.9,
+   "price": 350.69,
    "prev_close": 338.32,
-   "change": 11.58,
-   "change_pct": 3.42,
+   "change": 12.37,
+   "change_pct": 3.66,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1794245143,
+   "asof_epoch": 1794258001,
    "asof_date": null,
    "news": []
   },
@@ -349,13 +378,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 377.94,
+   "price": 378.05,
    "prev_close": 403.82,
-   "change": -25.88,
-   "change_pct": -6.41,
+   "change": -25.77,
+   "change_pct": -6.38,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1794245139,
+   "asof_epoch": 1794258000,
    "asof_date": null,
    "news": []
   },
@@ -370,18 +399,273 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 544.365,
+   "price": 545.18,
    "prev_close": 507.12,
-   "change": 37.245,
-   "change_pct": 7.34,
+   "change": 38.06,
+   "change_pct": 7.51,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1794245143,
+   "asof_epoch": 1794258001,
    "asof_date": null,
    "news": []
   }
  ],
  "news": [
+  {
+   "id": "594993e6e3",
+   "title": "3 unexpected reasons the October jobs report was so strong",
+   "url": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
+   "source": "CNBC Economy",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/10 07:23",
+   "published_iso": "2026-11-10T07:23:56+09:00",
+   "sort_key": 1794263036.0,
+   "excerpt": "October's jobs report blew past economist forecasts. Here are three reasons.",
+   "matched": []
+  },
+  {
+   "id": "f76ac563bb",
+   "title": "로고만 합치던 협업은 옛말…패션계, 제품 개발부터 손잡는다",
+   "url": "https://www.yna.co.kr/view/AKR20261103025100030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/10 07:03",
+   "published_iso": "2026-11-10T07:03:01+09:00",
+   "sort_key": 1794261781.0,
+   "excerpt": "(서울=연합뉴스) 이상서 기자 = 브랜드의 기존 정체성을 유지하면서도 신규 고객을 유치하기 위해 패션 브랜드들이 다양한 특성을 지닌 업체와 콜라...",
+   "matched": []
+  },
+  {
+   "id": "0827819add",
+   "title": "[우분투칼럼] 1조 모금함을 넘어…한국, 지구촌 '인식 혁명'의 통로로",
+   "url": "https://www.yna.co.kr/view/AKR20261028148800898",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/10 07:00",
+   "published_iso": "2026-11-10T07:00:03+09:00",
+   "sort_key": 1794261603.0,
+   "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
+   "matched": []
+  },
+  {
+   "id": "ed37d32e2c",
+   "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+   "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/10 06:52",
+   "published_iso": "2026-11-10T06:52:28+09:00",
+   "sort_key": 1794261148.0,
+   "excerpt": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "aa3523ce53",
+   "title": "젠슨 황 이사회 조사받지만…'제재 어렵다' 관측 나온 이유",
+   "url": "https://www.hankyung.com/article/2026111061537",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/10 06:21",
+   "published_iso": "2026-11-10T06:21:11+09:00",
+   "sort_key": 1794259271.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "23ee774e15",
+   "title": "인도, 글로벌 자동차 수출 허브 부상…현대차 이어 벤츠도 주목",
+   "url": "https://www.yna.co.kr/view/AKR20261109146100003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/10 06:15",
+   "published_iso": "2026-11-10T06:15:01+09:00",
+   "sort_key": 1794258901.0,
+   "excerpt": "(서울=연합뉴스) 장하나 기자 = 인도가 글로벌 자동차 산업의 새로운 수출 허브로 부상하고 있다.",
+   "matched": [
+    "005380.KS"
+   ]
+  },
+  {
+   "id": "5b022f4240",
+   "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+   "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+   "source": "CNBC Economy",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/10 06:03",
+   "published_iso": "2026-11-10T06:03:55+09:00",
+   "sort_key": 1794258235.0,
+   "excerpt": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%.",
+   "matched": []
+  },
+  {
+   "id": "4cf9215dc7",
+   "title": "중기부, '글로벌 육성' 기업 수출 706만달러…전년比 56% 증가",
+   "url": "https://www.yna.co.kr/view/AKR20261109117000030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/10 06:00",
+   "published_iso": "2026-11-10T06:00:05+09:00",
+   "sort_key": 1794258005.0,
+   "excerpt": "(서울=연합뉴스) 이상서 기자 = 올해 &apos;글로벌 소상공인 육성사업&apos;에 선정된 100개 기업 가운데 수출 실적이 있는 92곳의 수출액이 전년보다 ...",
+   "matched": []
+  },
+  {
+   "id": "b72d47a3c2",
+   "title": "농경연 \"김장비용 4% 안팎 줄어…상품 김치 구매 비중은 증가\"",
+   "url": "https://www.yna.co.kr/view/AKR20261109136900030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/10 06:00",
+   "published_iso": "2026-11-10T06:00:03+09:00",
+   "sort_key": 1794258003.0,
+   "excerpt": "(서울=연합뉴스) 한주홍 기자 = 올해 가을배추와 무 생산량이 늘면서 김장 비용이 지난해보다 4%가량 줄어든 것으로 나타났다.",
+   "matched": []
+  },
+  {
+   "id": "0fab150ed5",
+   "title": "서울시, 디딤돌소득 3년 성과 공개…23일 시민 참여 보고회",
+   "url": "https://www.yna.co.kr/view/AKR20261109137900004",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/10 06:00",
+   "published_iso": "2026-11-10T06:00:03+09:00",
+   "sort_key": 1794258003.0,
+   "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시는 오는 23일 오후 2시 시청 8층 다목적홀에서 &apos;삶에서 확인한 변화, 미래를 여는 디딤돌소득&apos;을 주제...",
+   "matched": []
+  },
+  {
+   "id": "202298efa6",
+   "title": "서비스 수출실적 증명 편리하게…무역협회 등 6개 기관 협력",
+   "url": "https://www.yna.co.kr/view/AKR20261109140300003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/10 06:00",
+   "published_iso": "2026-11-10T06:00:02+09:00",
+   "sort_key": 1794258002.0,
+   "excerpt": "(서울=연합뉴스) 장보인 기자 = 한국무역협회 등 6개 기관이 서비스 수출실적 관리 시스템을 함께 정비해 기업들의 편의성을 높인다.",
+   "matched": []
+  },
+  {
+   "id": "dd16b132b8",
+   "title": "'하나에 4만원'…여성 VIP들 즐긴다는 '귀족 과일' 뭐길래 [프라이스&]",
+   "url": "https://www.hankyung.com/article/202611094307i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/10 06:00",
+   "published_iso": "2026-11-10T06:00:02+09:00",
+   "sort_key": 1794258002.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "6d4f4e452a",
+   "title": "취준생 77% \"취업에 AI 역량 중요\"…공식 평가하는 기업은 20%",
+   "url": "https://www.yna.co.kr/view/AKR20261109146900003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/10 06:00",
+   "published_iso": "2026-11-10T06:00:01+09:00",
+   "sort_key": 1794258001.0,
+   "excerpt": "(서울=연합뉴스) 홍규빈 기자 = 취업준비생 대다수는 취업에 인공지능(AI) 활용 역량이 중요하다고 여기지만, 실제 신입 채용에서 이를 공식 평...",
+   "matched": []
+  },
+  {
+   "id": "6e4cb5ab08",
+   "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+   "source": "연준(Fed) 보도자료",
+   "group": "중앙은행·국제기구",
+   "lang": "en",
+   "published_kst": "11/10 06:00",
+   "published_iso": "2026-11-10T06:00:00+09:00",
+   "sort_key": 1794258000.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "964c56a14d",
+   "title": "Boeing Will Cut 5% of Commercial Plane Employees",
+   "url": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/10 05:00",
+   "published_iso": "2026-11-10T05:00:31+09:00",
+   "sort_key": 1794254431.0,
+   "excerpt": "The company said it needed fewer workers because production was increasing more slowly than previously expected.",
+   "matched": []
+  },
+  {
+   "id": "c1a8be3a6f",
+   "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+   "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/10 04:58",
+   "published_iso": "2026-11-10T04:58:01+09:00",
+   "sort_key": 1794254281.0,
+   "excerpt": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "0b80c5851b",
+   "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+   "url": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+   "source": "CNBC Finance",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/10 03:46",
+   "published_iso": "2026-11-10T03:46:01+09:00",
+   "sort_key": 1794249961.0,
+   "excerpt": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "b3587b305a",
+   "title": "How a civil servant got away with juggling five jobs for so long",
+   "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/10 03:40",
+   "published_iso": "2026-11-10T03:40:31+09:00",
+   "sort_key": 1794249631.0,
+   "excerpt": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
+   "matched": []
+  },
+  {
+   "id": "2f74281a77",
+   "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+   "url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+   "source": "CNBC Finance",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/10 03:14",
+   "published_iso": "2026-11-10T03:14:47+09:00",
+   "sort_key": 1794248087.0,
+   "excerpt": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.",
+   "matched": []
+  },
   {
    "id": "a1175999e1",
    "title": "Civil servant who secretly held five jobs found guilty of fraud",
@@ -751,6 +1035,116 @@
  "news_groups": {
   "해외 경제언론": [
    {
+    "id": "594993e6e3",
+    "title": "3 unexpected reasons the October jobs report was so strong",
+    "url": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
+    "source": "CNBC Economy",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/10 07:23",
+    "published_iso": "2026-11-10T07:23:56+09:00",
+    "sort_key": 1794263036.0,
+    "excerpt": "October's jobs report blew past economist forecasts. Here are three reasons.",
+    "matched": []
+   },
+   {
+    "id": "ed37d32e2c",
+    "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+    "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/10 06:52",
+    "published_iso": "2026-11-10T06:52:28+09:00",
+    "sort_key": 1794261148.0,
+    "excerpt": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "5b022f4240",
+    "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+    "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+    "source": "CNBC Economy",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/10 06:03",
+    "published_iso": "2026-11-10T06:03:55+09:00",
+    "sort_key": 1794258235.0,
+    "excerpt": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%.",
+    "matched": []
+   },
+   {
+    "id": "964c56a14d",
+    "title": "Boeing Will Cut 5% of Commercial Plane Employees",
+    "url": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/10 05:00",
+    "published_iso": "2026-11-10T05:00:31+09:00",
+    "sort_key": 1794254431.0,
+    "excerpt": "The company said it needed fewer workers because production was increasing more slowly than previously expected.",
+    "matched": []
+   },
+   {
+    "id": "c1a8be3a6f",
+    "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+    "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/10 04:58",
+    "published_iso": "2026-11-10T04:58:01+09:00",
+    "sort_key": 1794254281.0,
+    "excerpt": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "0b80c5851b",
+    "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+    "url": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+    "source": "CNBC Finance",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/10 03:46",
+    "published_iso": "2026-11-10T03:46:01+09:00",
+    "sort_key": 1794249961.0,
+    "excerpt": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "b3587b305a",
+    "title": "How a civil servant got away with juggling five jobs for so long",
+    "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/10 03:40",
+    "published_iso": "2026-11-10T03:40:31+09:00",
+    "sort_key": 1794249631.0,
+    "excerpt": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
+    "matched": []
+   },
+   {
+    "id": "2f74281a77",
+    "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+    "url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+    "source": "CNBC Finance",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/10 03:14",
+    "published_iso": "2026-11-10T03:14:47+09:00",
+    "sort_key": 1794248087.0,
+    "excerpt": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.",
+    "matched": []
+   },
+   {
     "id": "a1175999e1",
     "title": "Civil servant who secretly held five jobs found guilty of fraud",
     "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
@@ -903,6 +1297,138 @@
    }
   ],
   "국내 경제언론": [
+   {
+    "id": "f76ac563bb",
+    "title": "로고만 합치던 협업은 옛말…패션계, 제품 개발부터 손잡는다",
+    "url": "https://www.yna.co.kr/view/AKR20261103025100030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/10 07:03",
+    "published_iso": "2026-11-10T07:03:01+09:00",
+    "sort_key": 1794261781.0,
+    "excerpt": "(서울=연합뉴스) 이상서 기자 = 브랜드의 기존 정체성을 유지하면서도 신규 고객을 유치하기 위해 패션 브랜드들이 다양한 특성을 지닌 업체와 콜라...",
+    "matched": []
+   },
+   {
+    "id": "0827819add",
+    "title": "[우분투칼럼] 1조 모금함을 넘어…한국, 지구촌 '인식 혁명'의 통로로",
+    "url": "https://www.yna.co.kr/view/AKR20261028148800898",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/10 07:00",
+    "published_iso": "2026-11-10T07:00:03+09:00",
+    "sort_key": 1794261603.0,
+    "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
+    "matched": []
+   },
+   {
+    "id": "aa3523ce53",
+    "title": "젠슨 황 이사회 조사받지만…'제재 어렵다' 관측 나온 이유",
+    "url": "https://www.hankyung.com/article/2026111061537",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/10 06:21",
+    "published_iso": "2026-11-10T06:21:11+09:00",
+    "sort_key": 1794259271.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "23ee774e15",
+    "title": "인도, 글로벌 자동차 수출 허브 부상…현대차 이어 벤츠도 주목",
+    "url": "https://www.yna.co.kr/view/AKR20261109146100003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/10 06:15",
+    "published_iso": "2026-11-10T06:15:01+09:00",
+    "sort_key": 1794258901.0,
+    "excerpt": "(서울=연합뉴스) 장하나 기자 = 인도가 글로벌 자동차 산업의 새로운 수출 허브로 부상하고 있다.",
+    "matched": [
+     "005380.KS"
+    ]
+   },
+   {
+    "id": "4cf9215dc7",
+    "title": "중기부, '글로벌 육성' 기업 수출 706만달러…전년比 56% 증가",
+    "url": "https://www.yna.co.kr/view/AKR20261109117000030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/10 06:00",
+    "published_iso": "2026-11-10T06:00:05+09:00",
+    "sort_key": 1794258005.0,
+    "excerpt": "(서울=연합뉴스) 이상서 기자 = 올해 &apos;글로벌 소상공인 육성사업&apos;에 선정된 100개 기업 가운데 수출 실적이 있는 92곳의 수출액이 전년보다 ...",
+    "matched": []
+   },
+   {
+    "id": "b72d47a3c2",
+    "title": "농경연 \"김장비용 4% 안팎 줄어…상품 김치 구매 비중은 증가\"",
+    "url": "https://www.yna.co.kr/view/AKR20261109136900030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/10 06:00",
+    "published_iso": "2026-11-10T06:00:03+09:00",
+    "sort_key": 1794258003.0,
+    "excerpt": "(서울=연합뉴스) 한주홍 기자 = 올해 가을배추와 무 생산량이 늘면서 김장 비용이 지난해보다 4%가량 줄어든 것으로 나타났다.",
+    "matched": []
+   },
+   {
+    "id": "0fab150ed5",
+    "title": "서울시, 디딤돌소득 3년 성과 공개…23일 시민 참여 보고회",
+    "url": "https://www.yna.co.kr/view/AKR20261109137900004",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/10 06:00",
+    "published_iso": "2026-11-10T06:00:03+09:00",
+    "sort_key": 1794258003.0,
+    "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시는 오는 23일 오후 2시 시청 8층 다목적홀에서 &apos;삶에서 확인한 변화, 미래를 여는 디딤돌소득&apos;을 주제...",
+    "matched": []
+   },
+   {
+    "id": "202298efa6",
+    "title": "서비스 수출실적 증명 편리하게…무역협회 등 6개 기관 협력",
+    "url": "https://www.yna.co.kr/view/AKR20261109140300003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/10 06:00",
+    "published_iso": "2026-11-10T06:00:02+09:00",
+    "sort_key": 1794258002.0,
+    "excerpt": "(서울=연합뉴스) 장보인 기자 = 한국무역협회 등 6개 기관이 서비스 수출실적 관리 시스템을 함께 정비해 기업들의 편의성을 높인다.",
+    "matched": []
+   },
+   {
+    "id": "dd16b132b8",
+    "title": "'하나에 4만원'…여성 VIP들 즐긴다는 '귀족 과일' 뭐길래 [프라이스&]",
+    "url": "https://www.hankyung.com/article/202611094307i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/10 06:00",
+    "published_iso": "2026-11-10T06:00:02+09:00",
+    "sort_key": 1794258002.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "6d4f4e452a",
+    "title": "취준생 77% \"취업에 AI 역량 중요\"…공식 평가하는 기업은 20%",
+    "url": "https://www.yna.co.kr/view/AKR20261109146900003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/10 06:00",
+    "published_iso": "2026-11-10T06:00:01+09:00",
+    "sort_key": 1794258001.0,
+    "excerpt": "(서울=연합뉴스) 홍규빈 기자 = 취업준비생 대다수는 취업에 인공지능(AI) 활용 역량이 중요하다고 여기지만, 실제 신입 채용에서 이를 공식 평...",
+    "matched": []
+   },
    {
     "id": "45412aef09",
     "title": "젠슨 황 스캔들에 떨고 있는 네오클라우드…\"코어위브, 파멸의 악순환\"[박신영의 개장전 요것만]",
@@ -1117,6 +1643,21 @@
      "NVDA"
     ]
    }
+  ],
+  "중앙은행·국제기구": [
+   {
+    "id": "6e4cb5ab08",
+    "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+    "source": "연준(Fed) 보도자료",
+    "group": "중앙은행·국제기구",
+    "lang": "en",
+    "published_kst": "11/10 06:00",
+    "published_iso": "2026-11-10T06:00:00+09:00",
+    "sort_key": 1794258000.0,
+    "excerpt": "",
+    "matched": []
+   }
   ]
  },
  "counts": {
@@ -1124,8 +1665,8 @@
   "indices_total": 8,
   "stocks_ok": 9,
   "stocks_total": 9,
-  "news": 27,
-  "news_new": 27
+  "news": 46,
+  "news_new": 19
  },
  "errors": [
   {
