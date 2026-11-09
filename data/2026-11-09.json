@@ -1,2288 +1,2484 @@
 {
- "date": "2026-11-09",
- "generated_at": "2026-11-09 16:29",
- "weekday": "월",
- "site": {
-  "title": "오늘의 경제 한 장",
-  "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
-  "author": "asqwkl3215",
-  "timezone_label": "KST",
-  "base_url": "https://marketbrief-byte.github.io"
- },
- "indices": [
-  {
-   "name": "코스피",
-   "symbol": "^KS11",
-   "unit": "pt",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 5018.85,
-   "prev_close": 5859.08,
-   "change": -840.23,
-   "change_pct": -14.34,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1794205970,
-   "asof_date": null
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09 16:29",
+  "weekday": "월",
+  "site": {
+    "title": "오늘의 경제 한 장",
+    "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
+    "author": "asqwkl3215",
+    "timezone_label": "KST",
+    "base_url": "https://marketbrief-byte.github.io"
   },
-  {
-   "name": "코스닥",
-   "symbol": "^KQ11",
-   "unit": "pt",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 638.97,
-   "prev_close": 734.36,
-   "change": -95.39,
-   "change_pct": -12.99,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1794205980,
-   "asof_date": null
-  },
-  {
-   "name": "S&P 500",
-   "symbol": "^GSPC",
-   "unit": "pt",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 7376.86,
-   "prev_close": 7580.07,
-   "change": -203.21,
-   "change_pct": -2.68,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1794001029,
-   "asof_date": null
-  },
-  {
-   "name": "나스닥",
-   "symbol": "^IXIC",
-   "unit": "pt",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 24579.424,
-   "prev_close": 25437.0,
-   "change": -857.576,
-   "change_pct": -3.37,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1794003359,
-   "asof_date": null
-  },
-  {
-   "name": "원/달러",
-   "symbol": "KRW=X",
-   "unit": "원",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 1347.55,
-   "prev_close": 1344.81,
-   "change": 2.74,
-   "change_pct": 0.2,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1794209358,
-   "asof_date": null
-  },
-  {
-   "name": "미 10년 국채",
-   "symbol": "^TNX",
-   "unit": "%",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 4.859,
-   "prev_close": 4.894,
-   "change": -0.035,
-   "change_pct": -0.72,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1793995196,
-   "asof_date": null
-  },
-  {
-   "name": "WTI 유가",
-   "symbol": "CL=F",
-   "unit": "$",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 90.03,
-   "prev_close": 88.12,
-   "change": 1.91,
-   "change_pct": 2.17,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1794208760,
-   "asof_date": null
-  },
-  {
-   "name": "금",
-   "symbol": "GC=F",
-   "unit": "$",
-   "keywords": [],
-   "ok": true,
-   "attempts": [],
-   "price": 4109.4,
-   "prev_close": 4073.0,
-   "change": 36.4,
-   "change_pct": 0.89,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1794208762,
-   "asof_date": null
-  }
- ],
- "watchlist": [
-  {
-   "name": "삼성전자",
-   "symbol": "005930.KS",
-   "unit": "",
-   "keywords": [
-    "삼성전자",
-    "Samsung Electronics",
-    "삼성 반도체"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 189900.0,
-   "prev_close": 229000.0,
-   "change": -39100.0,
-   "change_pct": -17.07,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1794205802,
-   "asof_date": null,
-   "news": [
+  "indices": [
     {
-     "id": "2c536636d6",
-     "title": "삼성전자, 보유 현금 200조원 첫 돌파",
-     "url": "https://www.hankyung.com/article/2026110833367",
-     "source": "한국경제",
-     "published_kst": "11/08 18:14"
-    }
-   ]
-  },
-  {
-   "name": "SK하이닉스",
-   "symbol": "000660.KS",
-   "unit": "",
-   "keywords": [
-    "SK하이닉스",
-    "SK Hynix",
-    "하이닉스",
-    "HBM"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 1136000.0,
-   "prev_close": 1472000.0,
-   "change": -336000.0,
-   "change_pct": -22.83,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1794205827,
-   "asof_date": null,
-   "news": [
-    {
-     "id": "d002eac075",
-     "title": "맞춤형 HBM이 바꾼 SK·삼성 인사…기술통이 미주사업 이끈다",
-     "url": "https://www.yna.co.kr/view/AKR20261108042900003",
-     "source": "연합뉴스 경제",
-     "published_kst": "11/09 06:09"
-    }
-   ]
-  },
-  {
-   "name": "현대차",
-   "symbol": "005380.KS",
-   "unit": "",
-   "keywords": [
-    "현대차",
-    "현대자동차",
-    "Hyundai Motor"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 271500.0,
-   "prev_close": 287000.0,
-   "change": -15500.0,
-   "change_pct": -5.4,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1794205821,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "LG에너지솔루션",
-   "symbol": "373220.KS",
-   "unit": "",
-   "keywords": [
-    "LG에너지솔루션",
-    "LG Energy Solution",
-    "이차전지",
-    "배터리"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 318000.0,
-   "prev_close": 356000.0,
-   "change": -38000.0,
-   "change_pct": -10.67,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1794205809,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "NAVER",
-   "symbol": "035420.KS",
-   "unit": "",
-   "keywords": [
-    "네이버",
-    "NAVER"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 187100.0,
-   "prev_close": 175400.0,
-   "change": 11700.0,
-   "change_pct": 6.67,
-   "currency": "KRW",
-   "source": "yahoo",
-   "asof_epoch": 1794205819,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "엔비디아",
-   "symbol": "NVDA",
-   "unit": "",
-   "keywords": [
-    "엔비디아",
-    "Nvidia",
-    "NVDA"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 186.64,
-   "prev_close": 204.64,
-   "change": -18.0,
-   "change_pct": -8.8,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1793998800,
-   "asof_date": null,
-   "news": [
-    {
-     "id": "20e3822023",
-     "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-     "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Business",
-     "published_kst": "11/09 09:50"
+      "name": "코스피",
+      "symbol": "^KS11",
+      "unit": "pt",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 5018.85,
+      "prev_close": 5859.08,
+      "change": -840.23,
+      "change_pct": -14.34,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1794205970,
+      "asof_date": null
     },
     {
-     "id": "84ab0fe30f",
-     "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
-     "url": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
-     "source": "NYT Business",
-     "published_kst": "11/09 06:11"
-    }
-   ]
-  },
-  {
-   "name": "애플",
-   "symbol": "AAPL",
-   "unit": "",
-   "keywords": [
-    "애플",
-    "Apple",
-    "AAPL"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 342.37,
-   "prev_close": 344.63,
-   "change": -2.26,
-   "change_pct": -0.66,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1793998801,
-   "asof_date": null,
-   "news": []
-  },
-  {
-   "name": "테슬라",
-   "symbol": "TSLA",
-   "unit": "",
-   "keywords": [
-    "테슬라",
-    "Tesla",
-    "TSLA"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 358.22,
-   "prev_close": 399.81,
-   "change": -41.59,
-   "change_pct": -10.4,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1793998801,
-   "asof_date": null,
-   "news": [
+      "name": "코스닥",
+      "symbol": "^KQ11",
+      "unit": "pt",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 638.97,
+      "prev_close": 734.36,
+      "change": -95.39,
+      "change_pct": -12.99,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1794205980,
+      "asof_date": null
+    },
     {
-     "id": "ea67a7b35e",
-     "title": "\"이모님 '테슬라' 주세요\"…하이트진로가 끝내 못 쓴 '그 이름'",
-     "url": "https://www.hankyung.com/article/202611094248i",
-     "source": "한국경제",
-     "published_kst": "11/09 09:55"
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "unit": "pt",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 7376.86,
+      "prev_close": 7580.07,
+      "change": -203.21,
+      "change_pct": -2.68,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1794001029,
+      "asof_date": null
+    },
+    {
+      "name": "나스닥",
+      "symbol": "^IXIC",
+      "unit": "pt",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 24579.424,
+      "prev_close": 25437.0,
+      "change": -857.576,
+      "change_pct": -3.37,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1794003359,
+      "asof_date": null
+    },
+    {
+      "name": "원/달러",
+      "symbol": "KRW=X",
+      "unit": "원",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 1347.55,
+      "prev_close": 1344.81,
+      "change": 2.74,
+      "change_pct": 0.2,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1794209358,
+      "asof_date": null
+    },
+    {
+      "name": "미 10년 국채",
+      "symbol": "^TNX",
+      "unit": "%",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 4.859,
+      "prev_close": 4.894,
+      "change": -0.035,
+      "change_pct": -0.72,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1793995196,
+      "asof_date": null
+    },
+    {
+      "name": "WTI 유가",
+      "symbol": "CL=F",
+      "unit": "$",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 90.03,
+      "prev_close": 88.12,
+      "change": 1.91,
+      "change_pct": 2.17,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1794208760,
+      "asof_date": null
+    },
+    {
+      "name": "금",
+      "symbol": "GC=F",
+      "unit": "$",
+      "keywords": [],
+      "ok": true,
+      "attempts": [],
+      "price": 4109.4,
+      "prev_close": 4073.0,
+      "change": 36.4,
+      "change_pct": 0.89,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1794208762,
+      "asof_date": null
     }
-   ]
-  },
-  {
-   "name": "마이크로소프트",
-   "symbol": "MSFT",
-   "unit": "",
-   "keywords": [
-    "마이크로소프트",
-    "Microsoft",
-    "MSFT"
-   ],
-   "ok": true,
-   "attempts": [],
-   "price": 530.61,
-   "prev_close": 521.91,
-   "change": 8.7,
-   "change_pct": 1.67,
-   "currency": "USD",
-   "source": "yahoo",
-   "asof_epoch": 1793998801,
-   "asof_date": null,
-   "news": []
-  }
- ],
- "news": [
-  {
-   "id": "eb0bd7131d",
-   "title": "제19회 아시아 고위공무원 초청연수 실시",
-   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079901",
-   "source": "재정경제부 보도자료",
-   "group": "국내 정책당국",
-   "lang": "ko",
-   "published_kst": "11/09 20:06",
-   "published_iso": "2026-11-09T20:06:14+09:00",
-   "sort_key": 1794222374.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "a352439744",
-   "title": "급락후 韓증시만 반등 못했다…수급 공백·밋밋한 실적에 발목",
-   "url": "https://www.yna.co.kr/view/AKR20261109098700008",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 16:26",
-   "published_iso": "2026-11-09T16:26:12+09:00",
-   "sort_key": 1794209172.0,
-   "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 9일 코스피는 지수 하단을 받쳐줄 매수 주체가 없다는 시장의 한계를 고스란히 보여주는 흐름을 보였다.",
-   "matched": []
-  },
-  {
-   "id": "a0fdd3bc98",
-   "title": "[여주소식] 농업인의 날 맞아 11일부터 지역 농산물 20% 할인",
-   "url": "https://www.yna.co.kr/view/AKR20261109128400061",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 16:26",
-   "published_iso": "2026-11-09T16:26:03+09:00",
-   "sort_key": 1794209163.0,
-   "excerpt": "(여주=연합뉴스) 경기 여주시는 농업인의 날(11월 11일)을 맞아 채소와 과일 등 지역 농산물을 20% 할인 판매하는 행사를 한다고 9일 밝혔...",
-   "matched": []
-  },
-  {
-   "id": "5ed183cd18",
-   "title": "Government's EV targets expected to be reduced this week",
-   "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/09 16:20",
-   "published_iso": "2026-11-09T16:20:17+09:00",
-   "sort_key": 1794208817.0,
-   "excerpt": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
-   "matched": []
-  },
-  {
-   "id": "0ce794f375",
-   "title": "보험금 타내려 본인 소유 창고에 불 지른 60대 징역 3년",
-   "url": "https://www.yna.co.kr/view/AKR20261109127100063",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 16:19",
-   "published_iso": "2026-11-09T16:19:22+09:00",
-   "sort_key": 1794208762.0,
-   "excerpt": "(천안=연합뉴스) 유의주 기자 = 보험금을 타내기 위해 자신이 운영하는 물류창고에 불을 지른 60대에게 실형이 선고됐다.",
-   "matched": []
-  },
-  {
-   "id": "afdd310901",
-   "title": "삼전닉스 반등에도 코스피는 0.8% 또 하락…'5천피'는 사수(종합)",
-   "url": "https://www.yna.co.kr/view/AKR20261109117751008",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 16:18",
-   "published_iso": "2026-11-09T16:18:25+09:00",
-   "sort_key": 1794208705.0,
-   "excerpt": "(서울=연합뉴스) 김유향 기자 = 지난주 연일 급락한 코스피는 9일 장중 반등을 시도했지만 결국 하락세를 이어갔다.",
-   "matched": []
-  },
-  {
-   "id": "85dd5446f7",
-   "title": "한춘옥 통합시의원 \"전남형 청년창업사관학교 교육과정 부실\"",
-   "url": "https://www.yna.co.kr/view/AKR20261109124500054",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 16:18",
-   "published_iso": "2026-11-09T16:18:12+09:00",
-   "sort_key": 1794208692.0,
-   "excerpt": "(전남광주=연합뉴스) 박철홍 기자 = 전남형 청년창업사관학교의 교육과정이 부실하고 창업지원금 관리도 허술하다는 지적이 제기됐다.",
-   "matched": []
-  },
-  {
-   "id": "a8fb49096f",
-   "title": "스피어 \"싱가포르 종속회사 주식 95억에 추가취득…지분율 100%\"",
-   "url": "https://www.yna.co.kr/view/AKR20261109126100008",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 16:12",
-   "published_iso": "2026-11-09T16:12:02+09:00",
-   "sort_key": 1794208322.0,
-   "excerpt": "(서울=연합뉴스) 코스닥 상장사 스피어[347700]는 싱가포르의 니켈 등 특수합금 사업투자 주요 종속회사(Sphere Nickel Cobalt...",
-   "matched": []
-  },
-  {
-   "id": "cb50590d50",
-   "title": "광주상의, 내년 3천500명 인력양성·350명 일자리창출",
-   "url": "https://www.yna.co.kr/view/AKR20261109120700054",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 16:07",
-   "published_iso": "2026-11-09T16:07:25+09:00",
-   "sort_key": 1794208045.0,
-   "excerpt": "(전남광주=연합뉴스) 전승현 기자 = 광주상공회의소가 운영하는 광주지역인적자원개발위원회(광주인자위)는 2027년에 3천500명 인력양성과 350...",
-   "matched": []
-  },
-  {
-   "id": "c2f5e2de96",
-   "title": "민형배 전남광주시장 별정직 비서, 횡령 전과 논란",
-   "url": "https://www.yna.co.kr/view/AKR20261109117900054",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 16:06",
-   "published_iso": "2026-11-09T16:06:15+09:00",
-   "sort_key": 1794207975.0,
-   "excerpt": "(전남광주=연합뉴스) 장덕종 기자 = 민형배 전남광주통합특별시장의 별정직 수행비서가 횡령 전과가 있는 것으로 알려져 논란이 일고 있다.",
-   "matched": []
-  },
-  {
-   "id": "9c77f63c59",
-   "title": "[속보] 장중 2%대 반등했던 코스피, 결국 0.8% 하락…5000피는 사수",
-   "url": "https://www.hankyung.com/article/2026110953477",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 15:36",
-   "published_iso": "2026-11-09T15:36:22+09:00",
-   "sort_key": 1794206182.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "c11d657396",
-   "title": "[단독] 미래차 기술도 앞서가는 中…톱10 중 7곳 점령",
-   "url": "https://www.hankyung.com/article/202611095312i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 15:35",
-   "published_iso": "2026-11-09T15:35:33+09:00",
-   "sort_key": 1794206133.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "e74e7c4a88",
-   "title": "패스트파이브, 창사 첫 공채…4개 부문 13개 직군 뽑는다",
-   "url": "https://www.hankyung.com/article/202611095322i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 15:31",
-   "published_iso": "2026-11-09T15:31:58+09:00",
-   "sort_key": 1794205918.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "89f6fa7061",
-   "title": "\"일 안 하고 쉬어요\"…미혼 청년 절반 결혼 안 한다",
-   "url": "https://www.hankyung.com/article/2026110952917",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 15:30",
-   "published_iso": "2026-11-09T15:30:40+09:00",
-   "sort_key": 1794205840.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "eeba29cd09",
-   "title": "이케아, 이달 19일 대전에 3번째 도심형 매장 문 연다",
-   "url": "https://www.hankyung.com/article/202611095306i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 15:26",
-   "published_iso": "2026-11-09T15:26:53+09:00",
-   "sort_key": 1794205613.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "c331b81817",
-   "title": "박창숙 \"우수한 펨테크 아이디어, 성과 나도록 도울 것\"",
-   "url": "https://www.hankyung.com/article/202611095277i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 15:22",
-   "published_iso": "2026-11-09T15:22:27+09:00",
-   "sort_key": 1794205347.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "9f5ebb00f9",
-   "title": "\"소아암 치료에 써달라\"…이건희 유산 '3000억'이 만든 기적",
-   "url": "https://www.hankyung.com/article/202611095257g",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 15:19",
-   "published_iso": "2026-11-09T15:19:43+09:00",
-   "sort_key": 1794205183.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "5705f2249b",
-   "title": "한전, 에너지캐시백 가입 200만호 돌파…제주 가정 1년치 전력 절약",
-   "url": "https://www.hankyung.com/article/202611095227i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 15:03",
-   "published_iso": "2026-11-09T15:03:48+09:00",
-   "sort_key": 1794204228.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "2965feb8b5",
-   "title": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
-   "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/09 15:01",
-   "published_iso": "2026-11-09T15:01:52+09:00",
-   "sort_key": 1794204112.0,
-   "excerpt": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
-   "matched": []
-  },
-  {
-   "id": "1beeb62134",
-   "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
-   "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
-   "source": "CNBC Economy",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/09 11:50",
-   "published_iso": "2026-11-09T11:50:22+09:00",
-   "sort_key": 1794192622.0,
-   "excerpt": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
-   "matched": []
-  },
-  {
-   "id": "b7aeda071a",
-   "title": "가덕도신공항 부지조성 실시설계 착수…내년 상반기 본공사 착공",
-   "url": "https://www.yna.co.kr/view/AKR20261109051600003",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 10:37",
-   "published_iso": "2026-11-09T10:37:56+09:00",
-   "sort_key": 1794188276.0,
-   "excerpt": "(서울=연합뉴스) 홍규빈 기자 = 국토교통부와 가덕도신공항건설공단이 가덕도신공항 부지조성공사 수의계약 예비 대상자인 대우건설 컨소시엄과 협의해 ...",
-   "matched": []
-  },
-  {
-   "id": "6bbdb1aa9a",
-   "title": "국힘 부산의원들, 산업은행 본점 조속한 부산이전 촉구",
-   "url": "https://www.yna.co.kr/view/AKR20261109055300051",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 10:30",
-   "published_iso": "2026-11-09T10:30:16+09:00",
-   "sort_key": 1794187816.0,
-   "excerpt": "(부산=연합뉴스) 민영규 기자 = 국민의힘 부산지역 국회의원들은 9일 한국산업은행 본점의 조속한 부산이전을 촉구했다.",
-   "matched": []
-  },
-  {
-   "id": "55e5cb5694",
-   "title": "\"철책 너머 세계로\"…김포시, 2차 평화경제특구 도전",
-   "url": "https://www.yna.co.kr/view/AKR20261109053500065",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 10:25",
-   "published_iso": "2026-11-09T10:25:21+09:00",
-   "sort_key": 1794187521.0,
-   "excerpt": "(김포=연합뉴스) 천정인 기자 = 경기도 김포시는 평화경제특구 2차 후보지 공모에 도전한다고 9일 밝혔다.",
-   "matched": []
-  },
-  {
-   "id": "9a9ab8f0b6",
-   "title": "NH농협은행, 금융이력 부족한 개인·개인사업자 심사 개선",
-   "url": "https://www.yna.co.kr/view/AKR20261109051500002",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 10:22",
-   "published_iso": "2026-11-09T10:22:19+09:00",
-   "sort_key": 1794187339.0,
-   "excerpt": "(서울=연합뉴스) 채새롬 기자 = NH농협은행은 포용금융 확대를 위해 금융 이력이 부족한 개인 및 개인사업자를 대상으로 대안정보 기반의 신용평가...",
-   "matched": []
-  },
-  {
-   "id": "7d61cf5bb7",
-   "title": "[용인소식] 내년 장애인일자리 사업 참여자 299명 모집",
-   "url": "https://www.yna.co.kr/view/AKR20261109052600061",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 10:19",
-   "published_iso": "2026-11-09T10:19:46+09:00",
-   "sort_key": 1794187186.0,
-   "excerpt": "(용인=연합뉴스) 경기 용인시는 장애인의 사회참여 기회를 확대하고 안정적인 소득을 보장하기 위해 &apos;2027년 장애인일자리사업&apos; 참여자 299명을...",
-   "matched": []
-  },
-  {
-   "id": "00dcbfe3d6",
-   "title": "중진공, 미국 멤피스 의료센터와 협약…\"中企 미국 진출 뒷받침\"",
-   "url": "https://www.yna.co.kr/view/AKR20261109051000030",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 10:15",
-   "published_iso": "2026-11-09T10:15:50+09:00",
-   "sort_key": 1794186950.0,
-   "excerpt": "(서울=연합뉴스) 이상서 기자 = 중소벤처기업진흥공단은 5일(현지시간) 미국 테네시주 멤피스에서 미국 보훈부 산하 멤피스 보훈의료센터와 함께 국...",
-   "matched": []
-  },
-  {
-   "id": "cace73fcc8",
-   "title": "용인 공세~지곡동 연결도로 연내 착공…2029년 말 완공 목표",
-   "url": "https://www.yna.co.kr/view/AKR20261109050400061",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 10:14",
-   "published_iso": "2026-11-09T10:14:46+09:00",
-   "sort_key": 1794186886.0,
-   "excerpt": "(용인=연합뉴스) 김광호 기자 = 경기 용인시는 기흥구 공세동과 지곡동을 잇는 도로를 연내 착공해 2029년 말 개통할 계획이라고 9일 밝혔다....",
-   "matched": []
-  },
-  {
-   "id": "32d6b0b0a4",
-   "title": "\"사람 몰리는 이유 있어\"…남대문 '스카프리오' 동창 등판",
-   "url": "https://www.hankyung.com/article/2026110943037",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 10:06",
-   "published_iso": "2026-11-09T10:06:37+09:00",
-   "sort_key": 1794186397.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "90e01c79e4",
-   "title": "\"하루 1만5000보 걷는다더니\"…골프화 업체가 주목한 사람들 [권용훈의 트렌드워치]",
-   "url": "https://www.hankyung.com/article/202611083448i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 10:00",
-   "published_iso": "2026-11-09T10:00:06+09:00",
-   "sort_key": 1794186006.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "2afa01620a",
-   "title": "김동선, 한화M&S 보통주 338만주 추가 공개매수…주당 8000원",
-   "url": "https://www.hankyung.com/article/202611094114g",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 09:57",
-   "published_iso": "2026-11-09T09:57:18+09:00",
-   "sort_key": 1794185838.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "433fbd4bd5",
-   "title": "국산차 최초 WEC 8개 레이스 완주…제네시스 레이싱 새역사",
-   "url": "https://www.hankyung.com/article/202611094230g",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 09:56",
-   "published_iso": "2026-11-09T09:56:04+09:00",
-   "sort_key": 1794185764.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "ea67a7b35e",
-   "title": "\"이모님 '테슬라' 주세요\"…하이트진로가 끝내 못 쓴 '그 이름'",
-   "url": "https://www.hankyung.com/article/202611094248i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 09:55",
-   "published_iso": "2026-11-09T09:55:06+09:00",
-   "sort_key": 1794185706.0,
-   "excerpt": "",
-   "matched": [
-    "TSLA"
-   ]
-  },
-  {
-   "id": "20e3822023",
-   "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-   "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/09 09:50",
-   "published_iso": "2026-11-09T09:50:06+09:00",
-   "sort_key": 1794185406.0,
-   "excerpt": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
-   "matched": [
-    "NVDA"
-   ]
-  },
-  {
-   "id": "2f805de98a",
-   "title": "허리 감싸고 '볼 키스'…젠슨 황, 불륜女와 찍힌 모습 재소환",
-   "url": "https://www.hankyung.com/article/2026110940727",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 09:35",
-   "published_iso": "2026-11-09T09:35:47+09:00",
-   "sort_key": 1794184547.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "bc786579c5",
-   "title": "현대모비스 '청소년 공학 리더 페스티벌' 개최",
-   "url": "https://www.hankyung.com/article/202611094094g",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 09:31",
-   "published_iso": "2026-11-09T09:31:15+09:00",
-   "sort_key": 1794184275.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "944991de75",
-   "title": "\"제니·장원영처럼 입고 싶어요\"…日 2030 쓸어담은 '패션템'",
-   "url": "https://www.hankyung.com/article/202611093878g",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 09:23",
-   "published_iso": "2026-11-09T09:23:06+09:00",
-   "sort_key": 1794183786.0,
-   "excerpt": "",
-   "matched": []
-  },
-  {
-   "id": "a050d1c23a",
-   "title": "Doing these things now will help you save money at Christmas",
-   "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/09 09:09",
-   "published_iso": "2026-11-09T09:09:14+09:00",
-   "sort_key": 1794182954.0,
-   "excerpt": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
-   "matched": []
-  },
-  {
-   "id": "3120ee4f90",
-   "title": "When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I.",
-   "url": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/09 08:34",
-   "published_iso": "2026-11-09T08:34:09+09:00",
-   "sort_key": 1794180849.0,
-   "excerpt": "A federal indictment alleges that three men used generative A.I. to impersonate voices of chief executives and lawyers to defraud companies of millions of dollars.",
-   "matched": []
-  },
-  {
-   "id": "4b95f0387c",
-   "title": "한·동티모르, '무상원조 기본협정' 추진…ODA 협력 폭 넓힌다",
-   "url": "https://www.yna.co.kr/view/AKR20261108038900371",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 07:00",
-   "published_iso": "2026-11-09T07:00:02+09:00",
-   "sort_key": 1794175202.0,
-   "excerpt": "(서울=연합뉴스) 성도현 기자 = 대한민국과 동티모르가 지난 6일 정상회담에서 &apos;무상원조 기본협정&apos; 추진을 공식화함에 따라 그간 소규모 개별 사...",
-   "matched": [],
-   "analysis": {
-    "summary": "한국·동티모르 무상원조 기본협정 추진",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "2afc03788a",
-   "title": "\"한국인도 깜짝 놀랐다\"…멕시코 셰프가 끓인 'K라면'의 변신",
-   "url": "https://www.hankyung.com/article/202611083111i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 07:00",
-   "published_iso": "2026-11-09T07:00:01+09:00",
-   "sort_key": 1794175201.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "멕시코 셰프가 끓인 K라면",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "cf41071ca6",
-   "title": "美해군·해병대 고위급, 울산 조선소 찾았다…'마스가' 속도 붙나",
-   "url": "https://www.hankyung.com/article/2026110935497",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 06:23",
-   "published_iso": "2026-11-09T06:23:19+09:00",
-   "sort_key": 1794172999.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "미 해군·해병대 고위급이 울산 조선소 방문 — 한미 조선 협력 속도",
-    "impact": "조선 협력 기대",
-    "affected": "HD현대중공업, 조선주"
-   }
-  },
-  {
-   "id": "7b3d414339",
-   "title": "\"변명 여지 없다\"…젠슨 황, '中 스파이 의심 女'와 불륜 인정",
-   "url": "https://www.hankyung.com/article/2026110935347",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 06:14",
-   "published_iso": "2026-11-09T06:14:03+09:00",
-   "sort_key": 1794172443.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "젠슨 황이 '중국 스파이 의심 여성'과의 불륜을 인정",
-    "impact": "엔비디아 경영 위험 부각",
-    "affected": "엔비디아, 반도체주",
-    "important": true,
-    "important_tag": "산업·실적",
-    "why_important": "젠슨 황이 중국 스파이 의심 여성과의 관계를 인정 — 엔비디아에 경영·규제 위험이 겹침"
-   }
-  },
-  {
-   "id": "84ab0fe30f",
-   "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
-   "url": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/09 06:11",
-   "published_iso": "2026-11-09T06:11:51+09:00",
-   "sort_key": 1794172311.0,
-   "excerpt": "The secretary of state’s role in drafting a secret memo highlights how top officials were concerned by this past spring about Jensen Huang’s relationship with a woman tied to Chinese intelligence.",
-   "matched": [
-    "NVDA"
-   ],
-   "analysis": {
-    "summary": "루비오 국무장관이 젠슨 황과 중국 스파이 연루를 경고하는 비밀 메모 작성에 관여",
-    "impact": "엔비디아 대중국 규제 압박 가능성",
-    "affected": "엔비디아"
-   }
-  },
-  {
-   "id": "d002eac075",
-   "title": "맞춤형 HBM이 바꾼 SK·삼성 인사…기술통이 미주사업 이끈다",
-   "url": "https://www.yna.co.kr/view/AKR20261108042900003",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 06:09",
-   "published_iso": "2026-11-09T06:09:00+09:00",
-   "sort_key": 1794172140.0,
-   "excerpt": "(서울=연합뉴스) 박초롱 기자 = SK하이닉스가 미국 반도체 사업을 이끄는 자리에 메모리 개발 전문가를 발탁하면서 SK하이닉스와 삼성전자 모두 ...",
-   "matched": [
-    "000660.KS"
-   ],
-   "analysis": {
-    "summary": "맞춤형 HBM 경쟁으로 SK하이닉스·삼성이 기술 전문가를 미국 사업 책임자로",
-    "impact": "시장 영향은 제한적",
-    "affected": "SK하이닉스, 삼성전자"
-   }
-  },
-  {
-   "id": "b955cc249b",
-   "title": "서울 아파트 84㎡ vs 59㎡ 가격차 1억7천만원…1년새 30%↓",
-   "url": "https://www.yna.co.kr/view/AKR20261108023200003",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 06:01",
-   "published_iso": "2026-11-09T06:01:01+09:00",
-   "sort_key": 1794171661.0,
-   "excerpt": "(서울=연합뉴스) 오예진 기자 = 대출 규제 강화로 서울 아파트 소형 평수 수요가 늘어나면서 중형인 국민평형(84㎡)과 소형(59㎡)의 가격 차...",
-   "matched": [],
-   "analysis": {
-    "summary": "서울 아파트 84㎡와 59㎡ 가격 차이가 1년 새 30% 줄어 1억 7천만 원",
-    "impact": "대출 규제로 소형 수요 증가",
-    "affected": "부동산"
-   }
-  },
-  {
-   "id": "20199e8bc5",
-   "title": "\"커피 마시려면 절 25번\"…가상 사찰에 1만8000명 몰렸다 [권용훈의 트렌드워치]",
-   "url": "https://www.hankyung.com/article/202611072250i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 06:00",
-   "published_iso": "2026-11-09T06:00:12+09:00",
-   "sort_key": 1794171612.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "가상 사찰 체험에 1만 8천 명 몰림",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "ff32538cc5",
-   "title": "서울관, 바르셀로나 스마트시티 전시서 352만달러 수출상담",
-   "url": "https://www.yna.co.kr/view/AKR20261108039200004",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 06:00",
-   "published_iso": "2026-11-09T06:00:06+09:00",
-   "sort_key": 1794171606.0,
-   "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시가 세계 최대 스마트시티 전시회에서 서울의 인공지능(AI) 기반 도시 기술을 선보여 352만달러(약 47...",
-   "matched": [],
-   "analysis": {
-    "summary": "서울관이 바르셀로나 스마트시티 전시에서 352만 달러 수출 상담",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "bdedd523b4",
-   "title": "서울시, 마곡·창동 창업허브 입주기업 25곳 모집",
-   "url": "https://www.yna.co.kr/view/AKR20261108039800004",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 06:00",
-   "published_iso": "2026-11-09T06:00:06+09:00",
-   "sort_key": 1794171606.0,
-   "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시가 대기업과의 기술협력을 희망하는 기술 스타트업과 문화·콘텐츠 분야 창업기업을 대상으로 창업 공간 입주기...",
-   "matched": [],
-   "analysis": {
-    "summary": "서울시 마곡·창동 창업허브 입주기업 모집",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "ee20e95831",
-   "title": "대법 \"차사고 렌터비, 사용가치 같은 차 시장요금 기준으로\"",
-   "url": "https://www.yna.co.kr/view/AKR20261108042500004",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 06:00",
-   "published_iso": "2026-11-09T06:00:03+09:00",
-   "sort_key": 1794171603.0,
-   "excerpt": "(서울=연합뉴스) 이미령 기자 = 교통사고로 차를 수리하는 동안 사용한 렌터카 비용은 객관적 사용 가치가 같은 차를 시장에서 빌릴 때 드는 비용...",
-   "matched": [],
-   "analysis": {
-    "summary": "대법원 '사고 렌터카 비용은 같은 가치 차의 시장 요금 기준'",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "2876ce786e",
-   "title": "롯데百, 버번 위스키 팝업 운영…롯데온은 겨울 패션 할인전",
-   "url": "https://www.yna.co.kr/view/AKR20261108043400030",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 06:00",
-   "published_iso": "2026-11-09T06:00:02+09:00",
-   "sort_key": 1794171602.0,
-   "excerpt": "(서울=연합뉴스) 김세린 기자 = 롯데백화점과 롯데온이 각각 프리미엄 위스키 팝업스토어와 겨울 패션 할인 행사를 진행한다.",
-   "matched": [],
-   "analysis": {
-    "summary": "롯데백화점 위스키 팝업, 롯데온 겨울 패션 할인",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "6078f0c55e",
-   "title": "퇴출 코인이 범죄자금 세탁 수단으로…장외거래 '사각지대'",
-   "url": "https://www.yna.co.kr/view/AKR20261107001000002",
-   "source": "연합뉴스 경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/09 05:57",
-   "published_iso": "2026-11-09T05:57:00+09:00",
-   "sort_key": 1794171420.0,
-   "excerpt": "(서울=연합뉴스) 박수현 기자 = A씨는 작년 10월 가상자산(코인) P2P(개인간 거래) 플랫폼에서 S 코인 3천285개를 1천800만원에 매...",
-   "matched": [],
-   "analysis": {
-    "summary": "상장 폐지된 코인이 범죄 자금 세탁 수단으로",
-    "impact": "가상자산 규제 강화 가능성",
-    "affected": "가상자산"
-   }
-  },
-  {
-   "id": "dd09302bd8",
-   "title": "Medicare Advantage vs. Traditional Medicare, Explained",
-   "url": "https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/09 05:35",
-   "published_iso": "2026-11-09T05:35:27+09:00",
-   "sort_key": 1794170127.0,
-   "excerpt": "When you sign up for the retiree health plan, the two options can present a financial puzzle. But cost is just one factor.",
-   "matched": [],
-   "analysis": {
-    "summary": "미국 은퇴자 건강보험 두 가지 선택지 설명",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "a38288e4bc",
-   "title": "How a Duck Named Olivia Helped Pass D.C.’s Foie Gras Ban",
-   "url": "https://www.nytimes.com/2026/11/08/us/dc-foie-gras-ban.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/09 02:03",
-   "published_iso": "2026-11-09T02:03:40+09:00",
-   "sort_key": 1794157420.0,
-   "excerpt": "Initiative 86, which bars the force-feeding of birds and the sale of foie gras, passed handily but restaurateurs and prominent chefs are preparing for a fight.",
-   "matched": [],
-   "analysis": {
-    "summary": "오리 한 마리가 워싱턴DC 푸아그라 금지에 기여",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "e692bf6a5e",
-   "title": "Why the Iran War Has Spurred Both Clean Energy and Fossil Fuels",
-   "url": "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/09 00:39",
-   "published_iso": "2026-11-09T00:39:13+09:00",
-   "sort_key": 1794152353.0,
-   "excerpt": "The shock to global oil prices has caused a surge in demand for electric vehicles while propelling a race for immediate, secure power supplies.",
-   "matched": [],
-   "analysis": {
-    "summary": "이란 전쟁이 청정에너지와 화석연료 수요를 함께 끌어올림",
-    "impact": "에너지 업종 전반 수혜",
-    "affected": "에너지, 신재생"
-   }
-  },
-  {
-   "id": "b628553be4",
-   "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-   "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/09 00:37",
-   "published_iso": "2026-11-09T00:37:25+09:00",
-   "sort_key": 1794152245.0,
-   "excerpt": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-   "matched": [],
-   "analysis": {
-    "summary": "영국이 16세 미만의 중고거래 앱 이용 금지 검토",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "89f9e3cdb5",
-   "title": "\"창구 출금만 됩니다\"…불편해도 돈 숨기는 직장인들",
-   "url": "https://www.hankyung.com/article/202611082882i",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 23:24",
-   "published_iso": "2026-11-08T23:24:13+09:00",
-   "sort_key": 1794147853.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "'창구 출금만 됩니다' — 불편해도 돈을 숨기는 직장인들",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "ec8b36c6fd",
-   "title": "\"비자·마스터카드서 수수료 독립\"…한국형 '터치 결제' 나온다",
-   "url": "https://www.hankyung.com/article/2026110833851",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 19:54",
-   "published_iso": "2026-11-08T19:54:30+09:00",
-   "sort_key": 1794135270.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "비자·마스터카드 수수료에서 벗어난 한국형 터치 결제 출시",
-    "impact": "카드 결제 수수료 구조 변화",
-    "affected": "카드사, 결제"
-   }
-  },
-  {
-   "id": "6d231868bf",
-   "title": "Can My Company Force Me to Reveal My Personal Email?",
-   "url": "https://www.nytimes.com/2026/11/08/business/personal-email-employer-privacy.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/08 19:01",
-   "published_iso": "2026-11-08T19:01:43+09:00",
-   "sort_key": 1794132103.0,
-   "excerpt": "Plus: Ways to leave your mentee and new-parent strife.",
-   "matched": [],
-   "analysis": {
-    "summary": "회사가 개인 이메일 공개를 요구할 수 있나",
-    "impact": "시장 영향 없음",
-    "affected": "해당 없음"
-   }
-  },
-  {
-   "id": "9d7cfe1a37",
-   "title": "The World Can’t Get Enough Anime. Can Japan Cash In on Its Success?",
-   "url": "https://www.nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html",
-   "source": "NYT Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/08 19:00",
-   "published_iso": "2026-11-08T19:00:26+09:00",
-   "sort_key": 1794132026.0,
-   "excerpt": "Sony is building an anime empire, betting that global fandom can fuel growth for both the company and the country as foreign rivals and A.I. swarm the scene.",
-   "matched": [],
-   "analysis": {
-    "summary": "세계적 애니메이션 열풍 — 소니가 애니 제국 구축",
-    "impact": "콘텐츠 수익 확대",
-    "affected": "소니"
-   }
-  },
-  {
-   "id": "a39738716e",
-   "title": "\"투자보다 생존\" 월급 줄 돈 빌리는 기업 급증",
-   "url": "https://www.hankyung.com/article/2026110832801",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 18:16",
-   "published_iso": "2026-11-08T18:16:28+09:00",
-   "sort_key": 1794129388.0,
-   "excerpt": "",
-   "matched": [],
-   "analysis": {
-    "summary": "'투자보다 생존' — 월급 줄 돈을 빌리는 기업 급증",
-    "impact": "기업 자금난 신호 — 부실 위험",
-    "affected": "중소기업, 은행",
-    "important": true,
-    "important_tag": "거시경제",
-    "why_important": "월급 줄 돈을 빌리는 기업이 급증 — 경기 둔화와 기업 부실 신호"
-   }
-  },
-  {
-   "id": "2c536636d6",
-   "title": "삼성전자, 보유 현금 200조원 첫 돌파",
-   "url": "https://www.hankyung.com/article/2026110833367",
-   "source": "한국경제",
-   "group": "국내 경제언론",
-   "lang": "ko",
-   "published_kst": "11/08 18:14",
-   "published_iso": "2026-11-08T18:14:23+09:00",
-   "sort_key": 1794129263.0,
-   "excerpt": "",
-   "matched": [
-    "005930.KS"
-   ],
-   "analysis": {
-    "summary": "삼성전자 보유 현금이 처음으로 200조 원 넘어",
-    "impact": "주주환원·투자 여력 확대",
-    "affected": "삼성전자",
-    "important": true,
-    "important_tag": "관심종목",
-    "why_important": "관심종목 삼성전자의 현금이 처음 200조 원을 넘음 — 급락장에서 주주환원·투자 여력"
-   }
-  },
-  {
-   "id": "2e6c6a8a31",
-   "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
-   "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "group": "해외 경제언론",
-   "lang": "en",
-   "published_kst": "11/07 10:41",
-   "published_iso": "2026-11-07T10:41:36+09:00",
-   "sort_key": 1794015696.0,
-   "excerpt": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
-   "matched": [],
-   "analysis": {
-    "summary": "영국 금리 인상으로 주택담보대출 월 200파운드 증가",
-    "impact": "영국 가계 부담",
-    "affected": "영국 은행"
-   }
-  }
- ],
- "news_groups": {
-  "국내 정책당국": [
-   {
-    "id": "eb0bd7131d",
-    "title": "제19회 아시아 고위공무원 초청연수 실시",
-    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079901",
-    "source": "재정경제부 보도자료",
-    "group": "국내 정책당국",
-    "lang": "ko",
-    "published_kst": "11/09 20:06",
-    "published_iso": "2026-11-09T20:06:14+09:00",
-    "sort_key": 1794222374.0,
-    "excerpt": "",
-    "matched": []
-   }
   ],
-  "국내 경제언론": [
-   {
-    "id": "a352439744",
-    "title": "급락후 韓증시만 반등 못했다…수급 공백·밋밋한 실적에 발목",
-    "url": "https://www.yna.co.kr/view/AKR20261109098700008",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 16:26",
-    "published_iso": "2026-11-09T16:26:12+09:00",
-    "sort_key": 1794209172.0,
-    "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 9일 코스피는 지수 하단을 받쳐줄 매수 주체가 없다는 시장의 한계를 고스란히 보여주는 흐름을 보였다.",
-    "matched": []
-   },
-   {
-    "id": "a0fdd3bc98",
-    "title": "[여주소식] 농업인의 날 맞아 11일부터 지역 농산물 20% 할인",
-    "url": "https://www.yna.co.kr/view/AKR20261109128400061",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 16:26",
-    "published_iso": "2026-11-09T16:26:03+09:00",
-    "sort_key": 1794209163.0,
-    "excerpt": "(여주=연합뉴스) 경기 여주시는 농업인의 날(11월 11일)을 맞아 채소와 과일 등 지역 농산물을 20% 할인 판매하는 행사를 한다고 9일 밝혔...",
-    "matched": []
-   },
-   {
-    "id": "0ce794f375",
-    "title": "보험금 타내려 본인 소유 창고에 불 지른 60대 징역 3년",
-    "url": "https://www.yna.co.kr/view/AKR20261109127100063",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 16:19",
-    "published_iso": "2026-11-09T16:19:22+09:00",
-    "sort_key": 1794208762.0,
-    "excerpt": "(천안=연합뉴스) 유의주 기자 = 보험금을 타내기 위해 자신이 운영하는 물류창고에 불을 지른 60대에게 실형이 선고됐다.",
-    "matched": []
-   },
-   {
-    "id": "afdd310901",
-    "title": "삼전닉스 반등에도 코스피는 0.8% 또 하락…'5천피'는 사수(종합)",
-    "url": "https://www.yna.co.kr/view/AKR20261109117751008",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 16:18",
-    "published_iso": "2026-11-09T16:18:25+09:00",
-    "sort_key": 1794208705.0,
-    "excerpt": "(서울=연합뉴스) 김유향 기자 = 지난주 연일 급락한 코스피는 9일 장중 반등을 시도했지만 결국 하락세를 이어갔다.",
-    "matched": []
-   },
-   {
-    "id": "85dd5446f7",
-    "title": "한춘옥 통합시의원 \"전남형 청년창업사관학교 교육과정 부실\"",
-    "url": "https://www.yna.co.kr/view/AKR20261109124500054",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 16:18",
-    "published_iso": "2026-11-09T16:18:12+09:00",
-    "sort_key": 1794208692.0,
-    "excerpt": "(전남광주=연합뉴스) 박철홍 기자 = 전남형 청년창업사관학교의 교육과정이 부실하고 창업지원금 관리도 허술하다는 지적이 제기됐다.",
-    "matched": []
-   },
-   {
-    "id": "a8fb49096f",
-    "title": "스피어 \"싱가포르 종속회사 주식 95억에 추가취득…지분율 100%\"",
-    "url": "https://www.yna.co.kr/view/AKR20261109126100008",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 16:12",
-    "published_iso": "2026-11-09T16:12:02+09:00",
-    "sort_key": 1794208322.0,
-    "excerpt": "(서울=연합뉴스) 코스닥 상장사 스피어[347700]는 싱가포르의 니켈 등 특수합금 사업투자 주요 종속회사(Sphere Nickel Cobalt...",
-    "matched": []
-   },
-   {
-    "id": "cb50590d50",
-    "title": "광주상의, 내년 3천500명 인력양성·350명 일자리창출",
-    "url": "https://www.yna.co.kr/view/AKR20261109120700054",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 16:07",
-    "published_iso": "2026-11-09T16:07:25+09:00",
-    "sort_key": 1794208045.0,
-    "excerpt": "(전남광주=연합뉴스) 전승현 기자 = 광주상공회의소가 운영하는 광주지역인적자원개발위원회(광주인자위)는 2027년에 3천500명 인력양성과 350...",
-    "matched": []
-   },
-   {
-    "id": "c2f5e2de96",
-    "title": "민형배 전남광주시장 별정직 비서, 횡령 전과 논란",
-    "url": "https://www.yna.co.kr/view/AKR20261109117900054",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 16:06",
-    "published_iso": "2026-11-09T16:06:15+09:00",
-    "sort_key": 1794207975.0,
-    "excerpt": "(전남광주=연합뉴스) 장덕종 기자 = 민형배 전남광주통합특별시장의 별정직 수행비서가 횡령 전과가 있는 것으로 알려져 논란이 일고 있다.",
-    "matched": []
-   },
-   {
-    "id": "9c77f63c59",
-    "title": "[속보] 장중 2%대 반등했던 코스피, 결국 0.8% 하락…5000피는 사수",
-    "url": "https://www.hankyung.com/article/2026110953477",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 15:36",
-    "published_iso": "2026-11-09T15:36:22+09:00",
-    "sort_key": 1794206182.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "c11d657396",
-    "title": "[단독] 미래차 기술도 앞서가는 中…톱10 중 7곳 점령",
-    "url": "https://www.hankyung.com/article/202611095312i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 15:35",
-    "published_iso": "2026-11-09T15:35:33+09:00",
-    "sort_key": 1794206133.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "e74e7c4a88",
-    "title": "패스트파이브, 창사 첫 공채…4개 부문 13개 직군 뽑는다",
-    "url": "https://www.hankyung.com/article/202611095322i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 15:31",
-    "published_iso": "2026-11-09T15:31:58+09:00",
-    "sort_key": 1794205918.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "89f6fa7061",
-    "title": "\"일 안 하고 쉬어요\"…미혼 청년 절반 결혼 안 한다",
-    "url": "https://www.hankyung.com/article/2026110952917",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 15:30",
-    "published_iso": "2026-11-09T15:30:40+09:00",
-    "sort_key": 1794205840.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "eeba29cd09",
-    "title": "이케아, 이달 19일 대전에 3번째 도심형 매장 문 연다",
-    "url": "https://www.hankyung.com/article/202611095306i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 15:26",
-    "published_iso": "2026-11-09T15:26:53+09:00",
-    "sort_key": 1794205613.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "c331b81817",
-    "title": "박창숙 \"우수한 펨테크 아이디어, 성과 나도록 도울 것\"",
-    "url": "https://www.hankyung.com/article/202611095277i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 15:22",
-    "published_iso": "2026-11-09T15:22:27+09:00",
-    "sort_key": 1794205347.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "9f5ebb00f9",
-    "title": "\"소아암 치료에 써달라\"…이건희 유산 '3000억'이 만든 기적",
-    "url": "https://www.hankyung.com/article/202611095257g",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 15:19",
-    "published_iso": "2026-11-09T15:19:43+09:00",
-    "sort_key": 1794205183.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "5705f2249b",
-    "title": "한전, 에너지캐시백 가입 200만호 돌파…제주 가정 1년치 전력 절약",
-    "url": "https://www.hankyung.com/article/202611095227i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 15:03",
-    "published_iso": "2026-11-09T15:03:48+09:00",
-    "sort_key": 1794204228.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "b7aeda071a",
-    "title": "가덕도신공항 부지조성 실시설계 착수…내년 상반기 본공사 착공",
-    "url": "https://www.yna.co.kr/view/AKR20261109051600003",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 10:37",
-    "published_iso": "2026-11-09T10:37:56+09:00",
-    "sort_key": 1794188276.0,
-    "excerpt": "(서울=연합뉴스) 홍규빈 기자 = 국토교통부와 가덕도신공항건설공단이 가덕도신공항 부지조성공사 수의계약 예비 대상자인 대우건설 컨소시엄과 협의해 ...",
-    "matched": []
-   },
-   {
-    "id": "6bbdb1aa9a",
-    "title": "국힘 부산의원들, 산업은행 본점 조속한 부산이전 촉구",
-    "url": "https://www.yna.co.kr/view/AKR20261109055300051",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 10:30",
-    "published_iso": "2026-11-09T10:30:16+09:00",
-    "sort_key": 1794187816.0,
-    "excerpt": "(부산=연합뉴스) 민영규 기자 = 국민의힘 부산지역 국회의원들은 9일 한국산업은행 본점의 조속한 부산이전을 촉구했다.",
-    "matched": []
-   },
-   {
-    "id": "55e5cb5694",
-    "title": "\"철책 너머 세계로\"…김포시, 2차 평화경제특구 도전",
-    "url": "https://www.yna.co.kr/view/AKR20261109053500065",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 10:25",
-    "published_iso": "2026-11-09T10:25:21+09:00",
-    "sort_key": 1794187521.0,
-    "excerpt": "(김포=연합뉴스) 천정인 기자 = 경기도 김포시는 평화경제특구 2차 후보지 공모에 도전한다고 9일 밝혔다.",
-    "matched": []
-   },
-   {
-    "id": "9a9ab8f0b6",
-    "title": "NH농협은행, 금융이력 부족한 개인·개인사업자 심사 개선",
-    "url": "https://www.yna.co.kr/view/AKR20261109051500002",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 10:22",
-    "published_iso": "2026-11-09T10:22:19+09:00",
-    "sort_key": 1794187339.0,
-    "excerpt": "(서울=연합뉴스) 채새롬 기자 = NH농협은행은 포용금융 확대를 위해 금융 이력이 부족한 개인 및 개인사업자를 대상으로 대안정보 기반의 신용평가...",
-    "matched": []
-   },
-   {
-    "id": "7d61cf5bb7",
-    "title": "[용인소식] 내년 장애인일자리 사업 참여자 299명 모집",
-    "url": "https://www.yna.co.kr/view/AKR20261109052600061",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 10:19",
-    "published_iso": "2026-11-09T10:19:46+09:00",
-    "sort_key": 1794187186.0,
-    "excerpt": "(용인=연합뉴스) 경기 용인시는 장애인의 사회참여 기회를 확대하고 안정적인 소득을 보장하기 위해 &apos;2027년 장애인일자리사업&apos; 참여자 299명을...",
-    "matched": []
-   },
-   {
-    "id": "00dcbfe3d6",
-    "title": "중진공, 미국 멤피스 의료센터와 협약…\"中企 미국 진출 뒷받침\"",
-    "url": "https://www.yna.co.kr/view/AKR20261109051000030",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 10:15",
-    "published_iso": "2026-11-09T10:15:50+09:00",
-    "sort_key": 1794186950.0,
-    "excerpt": "(서울=연합뉴스) 이상서 기자 = 중소벤처기업진흥공단은 5일(현지시간) 미국 테네시주 멤피스에서 미국 보훈부 산하 멤피스 보훈의료센터와 함께 국...",
-    "matched": []
-   },
-   {
-    "id": "cace73fcc8",
-    "title": "용인 공세~지곡동 연결도로 연내 착공…2029년 말 완공 목표",
-    "url": "https://www.yna.co.kr/view/AKR20261109050400061",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 10:14",
-    "published_iso": "2026-11-09T10:14:46+09:00",
-    "sort_key": 1794186886.0,
-    "excerpt": "(용인=연합뉴스) 김광호 기자 = 경기 용인시는 기흥구 공세동과 지곡동을 잇는 도로를 연내 착공해 2029년 말 개통할 계획이라고 9일 밝혔다....",
-    "matched": []
-   },
-   {
-    "id": "32d6b0b0a4",
-    "title": "\"사람 몰리는 이유 있어\"…남대문 '스카프리오' 동창 등판",
-    "url": "https://www.hankyung.com/article/2026110943037",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 10:06",
-    "published_iso": "2026-11-09T10:06:37+09:00",
-    "sort_key": 1794186397.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "90e01c79e4",
-    "title": "\"하루 1만5000보 걷는다더니\"…골프화 업체가 주목한 사람들 [권용훈의 트렌드워치]",
-    "url": "https://www.hankyung.com/article/202611083448i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 10:00",
-    "published_iso": "2026-11-09T10:00:06+09:00",
-    "sort_key": 1794186006.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "2afa01620a",
-    "title": "김동선, 한화M&S 보통주 338만주 추가 공개매수…주당 8000원",
-    "url": "https://www.hankyung.com/article/202611094114g",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 09:57",
-    "published_iso": "2026-11-09T09:57:18+09:00",
-    "sort_key": 1794185838.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "433fbd4bd5",
-    "title": "국산차 최초 WEC 8개 레이스 완주…제네시스 레이싱 새역사",
-    "url": "https://www.hankyung.com/article/202611094230g",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 09:56",
-    "published_iso": "2026-11-09T09:56:04+09:00",
-    "sort_key": 1794185764.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "ea67a7b35e",
-    "title": "\"이모님 '테슬라' 주세요\"…하이트진로가 끝내 못 쓴 '그 이름'",
-    "url": "https://www.hankyung.com/article/202611094248i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 09:55",
-    "published_iso": "2026-11-09T09:55:06+09:00",
-    "sort_key": 1794185706.0,
-    "excerpt": "",
-    "matched": [
-     "TSLA"
-    ]
-   },
-   {
-    "id": "2f805de98a",
-    "title": "허리 감싸고 '볼 키스'…젠슨 황, 불륜女와 찍힌 모습 재소환",
-    "url": "https://www.hankyung.com/article/2026110940727",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 09:35",
-    "published_iso": "2026-11-09T09:35:47+09:00",
-    "sort_key": 1794184547.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "bc786579c5",
-    "title": "현대모비스 '청소년 공학 리더 페스티벌' 개최",
-    "url": "https://www.hankyung.com/article/202611094094g",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 09:31",
-    "published_iso": "2026-11-09T09:31:15+09:00",
-    "sort_key": 1794184275.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "944991de75",
-    "title": "\"제니·장원영처럼 입고 싶어요\"…日 2030 쓸어담은 '패션템'",
-    "url": "https://www.hankyung.com/article/202611093878g",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 09:23",
-    "published_iso": "2026-11-09T09:23:06+09:00",
-    "sort_key": 1794183786.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "4b95f0387c",
-    "title": "한·동티모르, '무상원조 기본협정' 추진…ODA 협력 폭 넓힌다",
-    "url": "https://www.yna.co.kr/view/AKR20261108038900371",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 07:00",
-    "published_iso": "2026-11-09T07:00:02+09:00",
-    "sort_key": 1794175202.0,
-    "excerpt": "(서울=연합뉴스) 성도현 기자 = 대한민국과 동티모르가 지난 6일 정상회담에서 &apos;무상원조 기본협정&apos; 추진을 공식화함에 따라 그간 소규모 개별 사...",
-    "matched": [],
-    "analysis": {
-     "summary": "한국·동티모르 무상원조 기본협정 추진",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
+  "watchlist": [
+    {
+      "name": "삼성전자",
+      "symbol": "005930.KS",
+      "unit": "",
+      "keywords": [
+        "삼성전자",
+        "Samsung Electronics",
+        "삼성 반도체"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 189900.0,
+      "prev_close": 229000.0,
+      "change": -39100.0,
+      "change_pct": -17.07,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1794205802,
+      "asof_date": null,
+      "news": [
+        {
+          "id": "2c536636d6",
+          "title": "삼성전자, 보유 현금 200조원 첫 돌파",
+          "url": "https://www.hankyung.com/article/2026110833367",
+          "source": "한국경제",
+          "published_kst": "11/08 18:14"
+        }
+      ]
+    },
+    {
+      "name": "SK하이닉스",
+      "symbol": "000660.KS",
+      "unit": "",
+      "keywords": [
+        "SK하이닉스",
+        "SK Hynix",
+        "하이닉스",
+        "HBM"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 1136000.0,
+      "prev_close": 1472000.0,
+      "change": -336000.0,
+      "change_pct": -22.83,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1794205827,
+      "asof_date": null,
+      "news": [
+        {
+          "id": "d002eac075",
+          "title": "맞춤형 HBM이 바꾼 SK·삼성 인사…기술통이 미주사업 이끈다",
+          "url": "https://www.yna.co.kr/view/AKR20261108042900003",
+          "source": "연합뉴스 경제",
+          "published_kst": "11/09 06:09"
+        }
+      ]
+    },
+    {
+      "name": "현대차",
+      "symbol": "005380.KS",
+      "unit": "",
+      "keywords": [
+        "현대차",
+        "현대자동차",
+        "Hyundai Motor"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 271500.0,
+      "prev_close": 287000.0,
+      "change": -15500.0,
+      "change_pct": -5.4,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1794205821,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "LG에너지솔루션",
+      "symbol": "373220.KS",
+      "unit": "",
+      "keywords": [
+        "LG에너지솔루션",
+        "LG Energy Solution",
+        "이차전지",
+        "배터리"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 318000.0,
+      "prev_close": 356000.0,
+      "change": -38000.0,
+      "change_pct": -10.67,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1794205809,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "NAVER",
+      "symbol": "035420.KS",
+      "unit": "",
+      "keywords": [
+        "네이버",
+        "NAVER"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 187100.0,
+      "prev_close": 175400.0,
+      "change": 11700.0,
+      "change_pct": 6.67,
+      "currency": "KRW",
+      "source": "yahoo",
+      "asof_epoch": 1794205819,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "엔비디아",
+      "symbol": "NVDA",
+      "unit": "",
+      "keywords": [
+        "엔비디아",
+        "Nvidia",
+        "NVDA"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 186.64,
+      "prev_close": 204.64,
+      "change": -18.0,
+      "change_pct": -8.8,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1793998800,
+      "asof_date": null,
+      "news": [
+        {
+          "id": "20e3822023",
+          "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+          "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "published_kst": "11/09 09:50"
+        },
+        {
+          "id": "84ab0fe30f",
+          "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
+          "url": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
+          "source": "NYT Business",
+          "published_kst": "11/09 06:11"
+        }
+      ]
+    },
+    {
+      "name": "애플",
+      "symbol": "AAPL",
+      "unit": "",
+      "keywords": [
+        "애플",
+        "Apple",
+        "AAPL"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 342.37,
+      "prev_close": 344.63,
+      "change": -2.26,
+      "change_pct": -0.66,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1793998801,
+      "asof_date": null,
+      "news": []
+    },
+    {
+      "name": "테슬라",
+      "symbol": "TSLA",
+      "unit": "",
+      "keywords": [
+        "테슬라",
+        "Tesla",
+        "TSLA"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 358.22,
+      "prev_close": 399.81,
+      "change": -41.59,
+      "change_pct": -10.4,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1793998801,
+      "asof_date": null,
+      "news": [
+        {
+          "id": "ea67a7b35e",
+          "title": "\"이모님 '테슬라' 주세요\"…하이트진로가 끝내 못 쓴 '그 이름'",
+          "url": "https://www.hankyung.com/article/202611094248i",
+          "source": "한국경제",
+          "published_kst": "11/09 09:55"
+        }
+      ]
+    },
+    {
+      "name": "마이크로소프트",
+      "symbol": "MSFT",
+      "unit": "",
+      "keywords": [
+        "마이크로소프트",
+        "Microsoft",
+        "MSFT"
+      ],
+      "ok": true,
+      "attempts": [],
+      "price": 530.61,
+      "prev_close": 521.91,
+      "change": 8.7,
+      "change_pct": 1.67,
+      "currency": "USD",
+      "source": "yahoo",
+      "asof_epoch": 1793998801,
+      "asof_date": null,
+      "news": []
     }
-   },
-   {
-    "id": "2afc03788a",
-    "title": "\"한국인도 깜짝 놀랐다\"…멕시코 셰프가 끓인 'K라면'의 변신",
-    "url": "https://www.hankyung.com/article/202611083111i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 07:00",
-    "published_iso": "2026-11-09T07:00:01+09:00",
-    "sort_key": 1794175201.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "멕시코 셰프가 끓인 K라면",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "cf41071ca6",
-    "title": "美해군·해병대 고위급, 울산 조선소 찾았다…'마스가' 속도 붙나",
-    "url": "https://www.hankyung.com/article/2026110935497",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 06:23",
-    "published_iso": "2026-11-09T06:23:19+09:00",
-    "sort_key": 1794172999.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "미 해군·해병대 고위급이 울산 조선소 방문 — 한미 조선 협력 속도",
-     "impact": "조선 협력 기대",
-     "affected": "HD현대중공업, 조선주"
-    }
-   },
-   {
-    "id": "7b3d414339",
-    "title": "\"변명 여지 없다\"…젠슨 황, '中 스파이 의심 女'와 불륜 인정",
-    "url": "https://www.hankyung.com/article/2026110935347",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 06:14",
-    "published_iso": "2026-11-09T06:14:03+09:00",
-    "sort_key": 1794172443.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "젠슨 황이 '중국 스파이 의심 여성'과의 불륜을 인정",
-     "impact": "엔비디아 경영 위험 부각",
-     "affected": "엔비디아, 반도체주",
-     "important": true,
-     "important_tag": "산업·실적",
-     "why_important": "젠슨 황이 중국 스파이 의심 여성과의 관계를 인정 — 엔비디아에 경영·규제 위험이 겹침"
-    }
-   },
-   {
-    "id": "d002eac075",
-    "title": "맞춤형 HBM이 바꾼 SK·삼성 인사…기술통이 미주사업 이끈다",
-    "url": "https://www.yna.co.kr/view/AKR20261108042900003",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 06:09",
-    "published_iso": "2026-11-09T06:09:00+09:00",
-    "sort_key": 1794172140.0,
-    "excerpt": "(서울=연합뉴스) 박초롱 기자 = SK하이닉스가 미국 반도체 사업을 이끄는 자리에 메모리 개발 전문가를 발탁하면서 SK하이닉스와 삼성전자 모두 ...",
-    "matched": [
-     "000660.KS"
-    ],
-    "analysis": {
-     "summary": "맞춤형 HBM 경쟁으로 SK하이닉스·삼성이 기술 전문가를 미국 사업 책임자로",
-     "impact": "시장 영향은 제한적",
-     "affected": "SK하이닉스, 삼성전자"
-    }
-   },
-   {
-    "id": "b955cc249b",
-    "title": "서울 아파트 84㎡ vs 59㎡ 가격차 1억7천만원…1년새 30%↓",
-    "url": "https://www.yna.co.kr/view/AKR20261108023200003",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 06:01",
-    "published_iso": "2026-11-09T06:01:01+09:00",
-    "sort_key": 1794171661.0,
-    "excerpt": "(서울=연합뉴스) 오예진 기자 = 대출 규제 강화로 서울 아파트 소형 평수 수요가 늘어나면서 중형인 국민평형(84㎡)과 소형(59㎡)의 가격 차...",
-    "matched": [],
-    "analysis": {
-     "summary": "서울 아파트 84㎡와 59㎡ 가격 차이가 1년 새 30% 줄어 1억 7천만 원",
-     "impact": "대출 규제로 소형 수요 증가",
-     "affected": "부동산"
-    }
-   },
-   {
-    "id": "20199e8bc5",
-    "title": "\"커피 마시려면 절 25번\"…가상 사찰에 1만8000명 몰렸다 [권용훈의 트렌드워치]",
-    "url": "https://www.hankyung.com/article/202611072250i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 06:00",
-    "published_iso": "2026-11-09T06:00:12+09:00",
-    "sort_key": 1794171612.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "가상 사찰 체험에 1만 8천 명 몰림",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "ff32538cc5",
-    "title": "서울관, 바르셀로나 스마트시티 전시서 352만달러 수출상담",
-    "url": "https://www.yna.co.kr/view/AKR20261108039200004",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 06:00",
-    "published_iso": "2026-11-09T06:00:06+09:00",
-    "sort_key": 1794171606.0,
-    "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시가 세계 최대 스마트시티 전시회에서 서울의 인공지능(AI) 기반 도시 기술을 선보여 352만달러(약 47...",
-    "matched": [],
-    "analysis": {
-     "summary": "서울관이 바르셀로나 스마트시티 전시에서 352만 달러 수출 상담",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "bdedd523b4",
-    "title": "서울시, 마곡·창동 창업허브 입주기업 25곳 모집",
-    "url": "https://www.yna.co.kr/view/AKR20261108039800004",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 06:00",
-    "published_iso": "2026-11-09T06:00:06+09:00",
-    "sort_key": 1794171606.0,
-    "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시가 대기업과의 기술협력을 희망하는 기술 스타트업과 문화·콘텐츠 분야 창업기업을 대상으로 창업 공간 입주기...",
-    "matched": [],
-    "analysis": {
-     "summary": "서울시 마곡·창동 창업허브 입주기업 모집",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "ee20e95831",
-    "title": "대법 \"차사고 렌터비, 사용가치 같은 차 시장요금 기준으로\"",
-    "url": "https://www.yna.co.kr/view/AKR20261108042500004",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 06:00",
-    "published_iso": "2026-11-09T06:00:03+09:00",
-    "sort_key": 1794171603.0,
-    "excerpt": "(서울=연합뉴스) 이미령 기자 = 교통사고로 차를 수리하는 동안 사용한 렌터카 비용은 객관적 사용 가치가 같은 차를 시장에서 빌릴 때 드는 비용...",
-    "matched": [],
-    "analysis": {
-     "summary": "대법원 '사고 렌터카 비용은 같은 가치 차의 시장 요금 기준'",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "2876ce786e",
-    "title": "롯데百, 버번 위스키 팝업 운영…롯데온은 겨울 패션 할인전",
-    "url": "https://www.yna.co.kr/view/AKR20261108043400030",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 06:00",
-    "published_iso": "2026-11-09T06:00:02+09:00",
-    "sort_key": 1794171602.0,
-    "excerpt": "(서울=연합뉴스) 김세린 기자 = 롯데백화점과 롯데온이 각각 프리미엄 위스키 팝업스토어와 겨울 패션 할인 행사를 진행한다.",
-    "matched": [],
-    "analysis": {
-     "summary": "롯데백화점 위스키 팝업, 롯데온 겨울 패션 할인",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "6078f0c55e",
-    "title": "퇴출 코인이 범죄자금 세탁 수단으로…장외거래 '사각지대'",
-    "url": "https://www.yna.co.kr/view/AKR20261107001000002",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/09 05:57",
-    "published_iso": "2026-11-09T05:57:00+09:00",
-    "sort_key": 1794171420.0,
-    "excerpt": "(서울=연합뉴스) 박수현 기자 = A씨는 작년 10월 가상자산(코인) P2P(개인간 거래) 플랫폼에서 S 코인 3천285개를 1천800만원에 매...",
-    "matched": [],
-    "analysis": {
-     "summary": "상장 폐지된 코인이 범죄 자금 세탁 수단으로",
-     "impact": "가상자산 규제 강화 가능성",
-     "affected": "가상자산"
-    }
-   },
-   {
-    "id": "89f9e3cdb5",
-    "title": "\"창구 출금만 됩니다\"…불편해도 돈 숨기는 직장인들",
-    "url": "https://www.hankyung.com/article/202611082882i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 23:24",
-    "published_iso": "2026-11-08T23:24:13+09:00",
-    "sort_key": 1794147853.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "'창구 출금만 됩니다' — 불편해도 돈을 숨기는 직장인들",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "ec8b36c6fd",
-    "title": "\"비자·마스터카드서 수수료 독립\"…한국형 '터치 결제' 나온다",
-    "url": "https://www.hankyung.com/article/2026110833851",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 19:54",
-    "published_iso": "2026-11-08T19:54:30+09:00",
-    "sort_key": 1794135270.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "비자·마스터카드 수수료에서 벗어난 한국형 터치 결제 출시",
-     "impact": "카드 결제 수수료 구조 변화",
-     "affected": "카드사, 결제"
-    }
-   },
-   {
-    "id": "a39738716e",
-    "title": "\"투자보다 생존\" 월급 줄 돈 빌리는 기업 급증",
-    "url": "https://www.hankyung.com/article/2026110832801",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 18:16",
-    "published_iso": "2026-11-08T18:16:28+09:00",
-    "sort_key": 1794129388.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "'투자보다 생존' — 월급 줄 돈을 빌리는 기업 급증",
-     "impact": "기업 자금난 신호 — 부실 위험",
-     "affected": "중소기업, 은행",
-     "important": true,
-     "important_tag": "거시경제",
-     "why_important": "월급 줄 돈을 빌리는 기업이 급증 — 경기 둔화와 기업 부실 신호"
-    }
-   },
-   {
-    "id": "2c536636d6",
-    "title": "삼성전자, 보유 현금 200조원 첫 돌파",
-    "url": "https://www.hankyung.com/article/2026110833367",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/08 18:14",
-    "published_iso": "2026-11-08T18:14:23+09:00",
-    "sort_key": 1794129263.0,
-    "excerpt": "",
-    "matched": [
-     "005930.KS"
-    ],
-    "analysis": {
-     "summary": "삼성전자 보유 현금이 처음으로 200조 원 넘어",
-     "impact": "주주환원·투자 여력 확대",
-     "affected": "삼성전자",
-     "important": true,
-     "important_tag": "관심종목",
-     "why_important": "관심종목 삼성전자의 현금이 처음 200조 원을 넘음 — 급락장에서 주주환원·투자 여력"
-    }
-   }
   ],
-  "해외 경제언론": [
-   {
-    "id": "5ed183cd18",
-    "title": "Government's EV targets expected to be reduced this week",
-    "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/09 16:20",
-    "published_iso": "2026-11-09T16:20:17+09:00",
-    "sort_key": 1794208817.0,
-    "excerpt": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
-    "matched": []
-   },
-   {
-    "id": "2965feb8b5",
-    "title": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
-    "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/09 15:01",
-    "published_iso": "2026-11-09T15:01:52+09:00",
-    "sort_key": 1794204112.0,
-    "excerpt": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
-    "matched": []
-   },
-   {
-    "id": "1beeb62134",
-    "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
-    "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
-    "source": "CNBC Economy",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/09 11:50",
-    "published_iso": "2026-11-09T11:50:22+09:00",
-    "sort_key": 1794192622.0,
-    "excerpt": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
-    "matched": []
-   },
-   {
-    "id": "20e3822023",
-    "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-    "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/09 09:50",
-    "published_iso": "2026-11-09T09:50:06+09:00",
-    "sort_key": 1794185406.0,
-    "excerpt": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
-    "matched": [
-     "NVDA"
-    ]
-   },
-   {
-    "id": "a050d1c23a",
-    "title": "Doing these things now will help you save money at Christmas",
-    "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/09 09:09",
-    "published_iso": "2026-11-09T09:09:14+09:00",
-    "sort_key": 1794182954.0,
-    "excerpt": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
-    "matched": []
-   },
-   {
-    "id": "3120ee4f90",
-    "title": "When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I.",
-    "url": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/09 08:34",
-    "published_iso": "2026-11-09T08:34:09+09:00",
-    "sort_key": 1794180849.0,
-    "excerpt": "A federal indictment alleges that three men used generative A.I. to impersonate voices of chief executives and lawyers to defraud companies of millions of dollars.",
-    "matched": []
-   },
-   {
-    "id": "84ab0fe30f",
-    "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
-    "url": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/09 06:11",
-    "published_iso": "2026-11-09T06:11:51+09:00",
-    "sort_key": 1794172311.0,
-    "excerpt": "The secretary of state’s role in drafting a secret memo highlights how top officials were concerned by this past spring about Jensen Huang’s relationship with a woman tied to Chinese intelligence.",
-    "matched": [
-     "NVDA"
+  "news": [
+    {
+      "id": "eb0bd7131d",
+      "title": "제19회 아시아 고위공무원 초청연수 실시",
+      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079901",
+      "source": "재정경제부 보도자료",
+      "group": "국내 정책당국",
+      "lang": "ko",
+      "published_kst": "11/09 20:06",
+      "published_iso": "2026-11-09T20:06:14+09:00",
+      "sort_key": 1794222374.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "아시아 고위공무원 초청연수 실시",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "a352439744",
+      "title": "급락후 韓증시만 반등 못했다…수급 공백·밋밋한 실적에 발목",
+      "url": "https://www.yna.co.kr/view/AKR20261109098700008",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 16:26",
+      "published_iso": "2026-11-09T16:26:12+09:00",
+      "sort_key": 1794209172.0,
+      "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 9일 코스피는 지수 하단을 받쳐줄 매수 주체가 없다는 시장의 한계를 고스란히 보여주는 흐름을 보였다.",
+      "matched": [],
+      "analysis": {
+        "summary": "급락 뒤 다른 나라와 달리 한국 증시만 반등 못 함 — 사 줄 주체 없고 실적도 밋밋",
+        "impact": "국내 증시 약세 지속",
+        "affected": "코스피",
+        "important": true,
+        "important_tag": "거시경제",
+        "why_important": "세계 증시가 반등할 때 한국만 못 올랐음 — 사 줄 주체가 없고 실적 기대도 약하다는 신호"
+      }
+    },
+    {
+      "id": "a0fdd3bc98",
+      "title": "[여주소식] 농업인의 날 맞아 11일부터 지역 농산물 20% 할인",
+      "url": "https://www.yna.co.kr/view/AKR20261109128400061",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 16:26",
+      "published_iso": "2026-11-09T16:26:03+09:00",
+      "sort_key": 1794209163.0,
+      "excerpt": "(여주=연합뉴스) 경기 여주시는 농업인의 날(11월 11일)을 맞아 채소와 과일 등 지역 농산물을 20% 할인 판매하는 행사를 한다고 9일 밝혔...",
+      "matched": [],
+      "analysis": {
+        "summary": "여주시 농업인의 날 지역 농산물 20% 할인",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "5ed183cd18",
+      "title": "Government's EV targets expected to be reduced this week",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/09 16:20",
+      "published_iso": "2026-11-09T16:20:17+09:00",
+      "sort_key": 1794208817.0,
+      "excerpt": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+      "matched": [],
+      "analysis": {
+        "summary": "영국 정부가 이번 주 전기차 보급 목표를 낮출 전망",
+        "impact": "전기차 수요 둔화",
+        "affected": "영국 자동차"
+      }
+    },
+    {
+      "id": "0ce794f375",
+      "title": "보험금 타내려 본인 소유 창고에 불 지른 60대 징역 3년",
+      "url": "https://www.yna.co.kr/view/AKR20261109127100063",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 16:19",
+      "published_iso": "2026-11-09T16:19:22+09:00",
+      "sort_key": 1794208762.0,
+      "excerpt": "(천안=연합뉴스) 유의주 기자 = 보험금을 타내기 위해 자신이 운영하는 물류창고에 불을 지른 60대에게 실형이 선고됐다.",
+      "matched": [],
+      "analysis": {
+        "summary": "보험금을 노리고 자기 창고에 불 지른 60대 징역 3년",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "afdd310901",
+      "title": "삼전닉스 반등에도 코스피는 0.8% 또 하락…'5천피'는 사수(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261109117751008",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 16:18",
+      "published_iso": "2026-11-09T16:18:25+09:00",
+      "sort_key": 1794208705.0,
+      "excerpt": "(서울=연합뉴스) 김유향 기자 = 지난주 연일 급락한 코스피는 9일 장중 반등을 시도했지만 결국 하락세를 이어갔다.",
+      "matched": [],
+      "analysis": {
+        "summary": "삼성전자·SK하이닉스 반등에도 코스피 0.8% 하락 — 5,000선은 지킴",
+        "impact": "국내 증시 약세",
+        "affected": "코스피"
+      }
+    },
+    {
+      "id": "85dd5446f7",
+      "title": "한춘옥 통합시의원 \"전남형 청년창업사관학교 교육과정 부실\"",
+      "url": "https://www.yna.co.kr/view/AKR20261109124500054",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 16:18",
+      "published_iso": "2026-11-09T16:18:12+09:00",
+      "sort_key": 1794208692.0,
+      "excerpt": "(전남광주=연합뉴스) 박철홍 기자 = 전남형 청년창업사관학교의 교육과정이 부실하고 창업지원금 관리도 허술하다는 지적이 제기됐다.",
+      "matched": [],
+      "analysis": {
+        "summary": "전남형 청년창업사관학교 교육과정 부실 지적",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "a8fb49096f",
+      "title": "스피어 \"싱가포르 종속회사 주식 95억에 추가취득…지분율 100%\"",
+      "url": "https://www.yna.co.kr/view/AKR20261109126100008",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 16:12",
+      "published_iso": "2026-11-09T16:12:02+09:00",
+      "sort_key": 1794208322.0,
+      "excerpt": "(서울=연합뉴스) 코스닥 상장사 스피어[347700]는 싱가포르의 니켈 등 특수합금 사업투자 주요 종속회사(Sphere Nickel Cobalt...",
+      "matched": [],
+      "analysis": {
+        "summary": "스피어가 싱가포르 자회사 지분을 95억 원에 사서 100% 확보",
+        "impact": "시장 영향은 제한적",
+        "affected": "스피어"
+      }
+    },
+    {
+      "id": "cb50590d50",
+      "title": "광주상의, 내년 3천500명 인력양성·350명 일자리창출",
+      "url": "https://www.yna.co.kr/view/AKR20261109120700054",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 16:07",
+      "published_iso": "2026-11-09T16:07:25+09:00",
+      "sort_key": 1794208045.0,
+      "excerpt": "(전남광주=연합뉴스) 전승현 기자 = 광주상공회의소가 운영하는 광주지역인적자원개발위원회(광주인자위)는 2027년에 3천500명 인력양성과 350...",
+      "matched": [],
+      "analysis": {
+        "summary": "광주상의 내년 3,500명 인력 양성 계획",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "c2f5e2de96",
+      "title": "민형배 전남광주시장 별정직 비서, 횡령 전과 논란",
+      "url": "https://www.yna.co.kr/view/AKR20261109117900054",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 16:06",
+      "published_iso": "2026-11-09T16:06:15+09:00",
+      "sort_key": 1794207975.0,
+      "excerpt": "(전남광주=연합뉴스) 장덕종 기자 = 민형배 전남광주통합특별시장의 별정직 수행비서가 횡령 전과가 있는 것으로 알려져 논란이 일고 있다.",
+      "matched": [],
+      "analysis": {
+        "summary": "전남광주시장 비서의 횡령 전과 논란",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "9c77f63c59",
+      "title": "[속보] 장중 2%대 반등했던 코스피, 결국 0.8% 하락…5000피는 사수",
+      "url": "https://www.hankyung.com/article/2026110953477",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 15:36",
+      "published_iso": "2026-11-09T15:36:22+09:00",
+      "sort_key": 1794206182.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "장중 2% 넘게 올랐던 코스피가 결국 0.8% 하락 (속보)",
+        "impact": "국내 증시 약세",
+        "affected": "코스피"
+      }
+    },
+    {
+      "id": "c11d657396",
+      "title": "[단독] 미래차 기술도 앞서가는 中…톱10 중 7곳 점령",
+      "url": "https://www.hankyung.com/article/202611095312i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 15:35",
+      "published_iso": "2026-11-09T15:35:33+09:00",
+      "sort_key": 1794206133.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "미래차 기술 톱10 중 7곳을 중국이 차지 (단독)",
+        "impact": "국내 완성차·부품 경쟁 압박",
+        "affected": "현대차, 자동차 부품"
+      }
+    },
+    {
+      "id": "e74e7c4a88",
+      "title": "패스트파이브, 창사 첫 공채…4개 부문 13개 직군 뽑는다",
+      "url": "https://www.hankyung.com/article/202611095322i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 15:31",
+      "published_iso": "2026-11-09T15:31:58+09:00",
+      "sort_key": 1794205918.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "패스트파이브 창사 첫 공채",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "89f6fa7061",
+      "title": "\"일 안 하고 쉬어요\"…미혼 청년 절반 결혼 안 한다",
+      "url": "https://www.hankyung.com/article/2026110952917",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 15:30",
+      "published_iso": "2026-11-09T15:30:40+09:00",
+      "sort_key": 1794205840.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "미혼 청년 절반이 결혼 안 한다",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "eeba29cd09",
+      "title": "이케아, 이달 19일 대전에 3번째 도심형 매장 문 연다",
+      "url": "https://www.hankyung.com/article/202611095306i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 15:26",
+      "published_iso": "2026-11-09T15:26:53+09:00",
+      "sort_key": 1794205613.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "이케아가 19일 대전에 도심형 매장 개점",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "c331b81817",
+      "title": "박창숙 \"우수한 펨테크 아이디어, 성과 나도록 도울 것\"",
+      "url": "https://www.hankyung.com/article/202611095277i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 15:22",
+      "published_iso": "2026-11-09T15:22:27+09:00",
+      "sort_key": 1794205347.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "펨테크 아이디어 지원 인터뷰",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "9f5ebb00f9",
+      "title": "\"소아암 치료에 써달라\"…이건희 유산 '3000억'이 만든 기적",
+      "url": "https://www.hankyung.com/article/202611095257g",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 15:19",
+      "published_iso": "2026-11-09T15:19:43+09:00",
+      "sort_key": 1794205183.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "이건희 유산 3,000억 원이 소아암 치료에 쓰임",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "5705f2249b",
+      "title": "한전, 에너지캐시백 가입 200만호 돌파…제주 가정 1년치 전력 절약",
+      "url": "https://www.hankyung.com/article/202611095227i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 15:03",
+      "published_iso": "2026-11-09T15:03:48+09:00",
+      "sort_key": 1794204228.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "한전 에너지캐시백 가입 200만 가구 돌파",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "2965feb8b5",
+      "title": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/09 15:01",
+      "published_iso": "2026-11-09T15:01:52+09:00",
+      "sort_key": 1794204112.0,
+      "excerpt": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
+      "matched": [],
+      "analysis": {
+        "summary": "젠슨 황 개인 스캔들이 국가안보 문제로 번진 이유",
+        "impact": "엔비디아 경영 위험",
+        "affected": "엔비디아"
+      }
+    },
+    {
+      "id": "1beeb62134",
+      "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "source": "CNBC Economy",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/09 11:50",
+      "published_iso": "2026-11-09T11:50:22+09:00",
+      "sort_key": 1794192622.0,
+      "excerpt": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
+      "matched": [],
+      "analysis": {
+        "summary": "중국 10월 생산자물가가 5.7%로 4년여 만에 최고 — 소비자물가는 둔화",
+        "impact": "중국발 원가 상승 압력",
+        "affected": "세계 물가, 원자재",
+        "important": true,
+        "important_tag": "거시경제",
+        "why_important": "중국 생산자물가가 4년여 만에 최고(5.7%) — 세계 물가를 다시 밀어 올릴 수 있음"
+      }
+    },
+    {
+      "id": "b7aeda071a",
+      "title": "가덕도신공항 부지조성 실시설계 착수…내년 상반기 본공사 착공",
+      "url": "https://www.yna.co.kr/view/AKR20261109051600003",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 10:37",
+      "published_iso": "2026-11-09T10:37:56+09:00",
+      "sort_key": 1794188276.0,
+      "excerpt": "(서울=연합뉴스) 홍규빈 기자 = 국토교통부와 가덕도신공항건설공단이 가덕도신공항 부지조성공사 수의계약 예비 대상자인 대우건설 컨소시엄과 협의해 ...",
+      "matched": [],
+      "analysis": {
+        "summary": "가덕도신공항 부지 공사 실시설계 착수 — 내년 상반기 착공",
+        "impact": "건설사 수주 기대",
+        "affected": "대우건설"
+      }
+    },
+    {
+      "id": "6bbdb1aa9a",
+      "title": "국힘 부산의원들, 산업은행 본점 조속한 부산이전 촉구",
+      "url": "https://www.yna.co.kr/view/AKR20261109055300051",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 10:30",
+      "published_iso": "2026-11-09T10:30:16+09:00",
+      "sort_key": 1794187816.0,
+      "excerpt": "(부산=연합뉴스) 민영규 기자 = 국민의힘 부산지역 국회의원들은 9일 한국산업은행 본점의 조속한 부산이전을 촉구했다.",
+      "matched": [],
+      "analysis": {
+        "summary": "국민의힘 부산 의원들이 산업은행 본점 부산 이전 촉구",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "55e5cb5694",
+      "title": "\"철책 너머 세계로\"…김포시, 2차 평화경제특구 도전",
+      "url": "https://www.yna.co.kr/view/AKR20261109053500065",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 10:25",
+      "published_iso": "2026-11-09T10:25:21+09:00",
+      "sort_key": 1794187521.0,
+      "excerpt": "(김포=연합뉴스) 천정인 기자 = 경기도 김포시는 평화경제특구 2차 후보지 공모에 도전한다고 9일 밝혔다.",
+      "matched": [],
+      "analysis": {
+        "summary": "김포시가 평화경제특구 2차 공모에 도전",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "9a9ab8f0b6",
+      "title": "NH농협은행, 금융이력 부족한 개인·개인사업자 심사 개선",
+      "url": "https://www.yna.co.kr/view/AKR20261109051500002",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 10:22",
+      "published_iso": "2026-11-09T10:22:19+09:00",
+      "sort_key": 1794187339.0,
+      "excerpt": "(서울=연합뉴스) 채새롬 기자 = NH농협은행은 포용금융 확대를 위해 금융 이력이 부족한 개인 및 개인사업자를 대상으로 대안정보 기반의 신용평가...",
+      "matched": [],
+      "analysis": {
+        "summary": "NH농협은행이 금융 이력 부족한 고객 대출 심사 개선",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "7d61cf5bb7",
+      "title": "[용인소식] 내년 장애인일자리 사업 참여자 299명 모집",
+      "url": "https://www.yna.co.kr/view/AKR20261109052600061",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 10:19",
+      "published_iso": "2026-11-09T10:19:46+09:00",
+      "sort_key": 1794187186.0,
+      "excerpt": "(용인=연합뉴스) 경기 용인시는 장애인의 사회참여 기회를 확대하고 안정적인 소득을 보장하기 위해 &apos;2027년 장애인일자리사업&apos; 참여자 299명을...",
+      "matched": [],
+      "analysis": {
+        "summary": "용인시 장애인 일자리 299명 모집",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "00dcbfe3d6",
+      "title": "중진공, 미국 멤피스 의료센터와 협약…\"中企 미국 진출 뒷받침\"",
+      "url": "https://www.yna.co.kr/view/AKR20261109051000030",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 10:15",
+      "published_iso": "2026-11-09T10:15:50+09:00",
+      "sort_key": 1794186950.0,
+      "excerpt": "(서울=연합뉴스) 이상서 기자 = 중소벤처기업진흥공단은 5일(현지시간) 미국 테네시주 멤피스에서 미국 보훈부 산하 멤피스 보훈의료센터와 함께 국...",
+      "matched": [],
+      "analysis": {
+        "summary": "중진공이 미국 멤피스 의료센터와 협약",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "cace73fcc8",
+      "title": "용인 공세~지곡동 연결도로 연내 착공…2029년 말 완공 목표",
+      "url": "https://www.yna.co.kr/view/AKR20261109050400061",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 10:14",
+      "published_iso": "2026-11-09T10:14:46+09:00",
+      "sort_key": 1794186886.0,
+      "excerpt": "(용인=연합뉴스) 김광호 기자 = 경기 용인시는 기흥구 공세동과 지곡동을 잇는 도로를 연내 착공해 2029년 말 개통할 계획이라고 9일 밝혔다....",
+      "matched": [],
+      "analysis": {
+        "summary": "용인 공세~지곡동 연결도로 연내 착공",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "32d6b0b0a4",
+      "title": "\"사람 몰리는 이유 있어\"…남대문 '스카프리오' 동창 등판",
+      "url": "https://www.hankyung.com/article/2026110943037",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 10:06",
+      "published_iso": "2026-11-09T10:06:37+09:00",
+      "sort_key": 1794186397.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "남대문 스카프 가게 이야기 후속",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "90e01c79e4",
+      "title": "\"하루 1만5000보 걷는다더니\"…골프화 업체가 주목한 사람들 [권용훈의 트렌드워치]",
+      "url": "https://www.hankyung.com/article/202611083448i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 10:00",
+      "published_iso": "2026-11-09T10:00:06+09:00",
+      "sort_key": 1794186006.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "골프화 업체가 하루 1만 5천 보 걷는 사람들에 주목",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "2afa01620a",
+      "title": "김동선, 한화M&S 보통주 338만주 추가 공개매수…주당 8000원",
+      "url": "https://www.hankyung.com/article/202611094114g",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 09:57",
+      "published_iso": "2026-11-09T09:57:18+09:00",
+      "sort_key": 1794185838.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "김동선이 한화M&S 보통주 338만 주를 주당 8,000원에 추가 공개매수",
+        "impact": "시장 영향은 제한적",
+        "affected": "한화"
+      }
+    },
+    {
+      "id": "433fbd4bd5",
+      "title": "국산차 최초 WEC 8개 레이스 완주…제네시스 레이싱 새역사",
+      "url": "https://www.hankyung.com/article/202611094230g",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 09:56",
+      "published_iso": "2026-11-09T09:56:04+09:00",
+      "sort_key": 1794185764.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "제네시스 레이싱이 국산차 최초로 WEC 8개 레이스 완주",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "ea67a7b35e",
+      "title": "\"이모님 '테슬라' 주세요\"…하이트진로가 끝내 못 쓴 '그 이름'",
+      "url": "https://www.hankyung.com/article/202611094248i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 09:55",
+      "published_iso": "2026-11-09T09:55:06+09:00",
+      "sort_key": 1794185706.0,
+      "excerpt": "",
+      "matched": [
+        "TSLA"
+      ],
+      "analysis": {
+        "summary": "하이트진로가 '테슬라'라는 이름을 끝내 못 쓴 사연",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "20e3822023",
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/09 09:50",
+      "published_iso": "2026-11-09T09:50:06+09:00",
+      "sort_key": 1794185406.0,
+      "excerpt": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+      "matched": [
+        "NVDA"
+      ],
+      "analysis": {
+        "summary": "엔비디아가 CEO의 중국 스파이 의심 여성과의 관계를 조사",
+        "impact": "엔비디아 지배구조 위험",
+        "affected": "엔비디아, 반도체주"
+      }
+    },
+    {
+      "id": "2f805de98a",
+      "title": "허리 감싸고 '볼 키스'…젠슨 황, 불륜女와 찍힌 모습 재소환",
+      "url": "https://www.hankyung.com/article/2026110940727",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 09:35",
+      "published_iso": "2026-11-09T09:35:47+09:00",
+      "sort_key": 1794184547.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "젠슨 황과 문제의 여성이 함께 찍힌 사진 재조명",
+        "impact": "시장 영향은 제한적",
+        "affected": "엔비디아"
+      }
+    },
+    {
+      "id": "bc786579c5",
+      "title": "현대모비스 '청소년 공학 리더 페스티벌' 개최",
+      "url": "https://www.hankyung.com/article/202611094094g",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 09:31",
+      "published_iso": "2026-11-09T09:31:15+09:00",
+      "sort_key": 1794184275.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "현대모비스 청소년 공학 축제 개최",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "944991de75",
+      "title": "\"제니·장원영처럼 입고 싶어요\"…日 2030 쓸어담은 '패션템'",
+      "url": "https://www.hankyung.com/article/202611093878g",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 09:23",
+      "published_iso": "2026-11-09T09:23:06+09:00",
+      "sort_key": 1794183786.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "일본 2030이 K팝 스타 패션 상품을 쓸어 담음",
+        "impact": "K패션 수출 기대",
+        "affected": "패션"
+      }
+    },
+    {
+      "id": "a050d1c23a",
+      "title": "Doing these things now will help you save money at Christmas",
+      "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/09 09:09",
+      "published_iso": "2026-11-09T09:09:14+09:00",
+      "sort_key": 1794182954.0,
+      "excerpt": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+      "matched": [],
+      "analysis": {
+        "summary": "지금 준비하면 크리스마스 비용을 아낄 수 있는 방법",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "3120ee4f90",
+      "title": "When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I.",
+      "url": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/09 08:34",
+      "published_iso": "2026-11-09T08:34:09+09:00",
+      "sort_key": 1794180849.0,
+      "excerpt": "A federal indictment alleges that three men used generative A.I. to impersonate voices of chief executives and lawyers to defraud companies of millions of dollars.",
+      "matched": [],
+      "analysis": {
+        "summary": "생성형 AI로 상사를 흉내 내 1억 2,900만 달러를 훔친 사기단 기소",
+        "impact": "AI 사기 위험 부각",
+        "affected": "보안"
+      }
+    },
+    {
+      "id": "4b95f0387c",
+      "title": "한·동티모르, '무상원조 기본협정' 추진…ODA 협력 폭 넓힌다",
+      "url": "https://www.yna.co.kr/view/AKR20261108038900371",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 07:00",
+      "published_iso": "2026-11-09T07:00:02+09:00",
+      "sort_key": 1794175202.0,
+      "excerpt": "(서울=연합뉴스) 성도현 기자 = 대한민국과 동티모르가 지난 6일 정상회담에서 &apos;무상원조 기본협정&apos; 추진을 공식화함에 따라 그간 소규모 개별 사...",
+      "matched": [],
+      "analysis": {
+        "summary": "한국·동티모르 무상원조 기본협정 추진",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "2afc03788a",
+      "title": "\"한국인도 깜짝 놀랐다\"…멕시코 셰프가 끓인 'K라면'의 변신",
+      "url": "https://www.hankyung.com/article/202611083111i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 07:00",
+      "published_iso": "2026-11-09T07:00:01+09:00",
+      "sort_key": 1794175201.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "멕시코 셰프가 끓인 K라면",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "cf41071ca6",
+      "title": "美해군·해병대 고위급, 울산 조선소 찾았다…'마스가' 속도 붙나",
+      "url": "https://www.hankyung.com/article/2026110935497",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 06:23",
+      "published_iso": "2026-11-09T06:23:19+09:00",
+      "sort_key": 1794172999.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "미 해군·해병대 고위급이 울산 조선소 방문 — 한미 조선 협력 속도",
+        "impact": "조선 협력 기대",
+        "affected": "HD현대중공업, 조선주"
+      }
+    },
+    {
+      "id": "7b3d414339",
+      "title": "\"변명 여지 없다\"…젠슨 황, '中 스파이 의심 女'와 불륜 인정",
+      "url": "https://www.hankyung.com/article/2026110935347",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 06:14",
+      "published_iso": "2026-11-09T06:14:03+09:00",
+      "sort_key": 1794172443.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "젠슨 황이 '중국 스파이 의심 여성'과의 불륜을 인정",
+        "impact": "엔비디아 경영 위험 부각",
+        "affected": "엔비디아, 반도체주",
+        "important": true,
+        "important_tag": "산업·실적",
+        "why_important": "젠슨 황이 중국 스파이 의심 여성과의 관계를 인정 — 엔비디아에 경영·규제 위험이 겹침"
+      }
+    },
+    {
+      "id": "84ab0fe30f",
+      "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
+      "url": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/09 06:11",
+      "published_iso": "2026-11-09T06:11:51+09:00",
+      "sort_key": 1794172311.0,
+      "excerpt": "The secretary of state’s role in drafting a secret memo highlights how top officials were concerned by this past spring about Jensen Huang’s relationship with a woman tied to Chinese intelligence.",
+      "matched": [
+        "NVDA"
+      ],
+      "analysis": {
+        "summary": "루비오 국무장관이 젠슨 황과 중국 스파이 연루를 경고하는 비밀 메모 작성에 관여",
+        "impact": "엔비디아 대중국 규제 압박 가능성",
+        "affected": "엔비디아"
+      }
+    },
+    {
+      "id": "d002eac075",
+      "title": "맞춤형 HBM이 바꾼 SK·삼성 인사…기술통이 미주사업 이끈다",
+      "url": "https://www.yna.co.kr/view/AKR20261108042900003",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 06:09",
+      "published_iso": "2026-11-09T06:09:00+09:00",
+      "sort_key": 1794172140.0,
+      "excerpt": "(서울=연합뉴스) 박초롱 기자 = SK하이닉스가 미국 반도체 사업을 이끄는 자리에 메모리 개발 전문가를 발탁하면서 SK하이닉스와 삼성전자 모두 ...",
+      "matched": [
+        "000660.KS"
+      ],
+      "analysis": {
+        "summary": "맞춤형 HBM 경쟁으로 SK하이닉스·삼성이 기술 전문가를 미국 사업 책임자로",
+        "impact": "시장 영향은 제한적",
+        "affected": "SK하이닉스, 삼성전자"
+      }
+    },
+    {
+      "id": "b955cc249b",
+      "title": "서울 아파트 84㎡ vs 59㎡ 가격차 1억7천만원…1년새 30%↓",
+      "url": "https://www.yna.co.kr/view/AKR20261108023200003",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 06:01",
+      "published_iso": "2026-11-09T06:01:01+09:00",
+      "sort_key": 1794171661.0,
+      "excerpt": "(서울=연합뉴스) 오예진 기자 = 대출 규제 강화로 서울 아파트 소형 평수 수요가 늘어나면서 중형인 국민평형(84㎡)과 소형(59㎡)의 가격 차...",
+      "matched": [],
+      "analysis": {
+        "summary": "서울 아파트 84㎡와 59㎡ 가격 차이가 1년 새 30% 줄어 1억 7천만 원",
+        "impact": "대출 규제로 소형 수요 증가",
+        "affected": "부동산"
+      }
+    },
+    {
+      "id": "20199e8bc5",
+      "title": "\"커피 마시려면 절 25번\"…가상 사찰에 1만8000명 몰렸다 [권용훈의 트렌드워치]",
+      "url": "https://www.hankyung.com/article/202611072250i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 06:00",
+      "published_iso": "2026-11-09T06:00:12+09:00",
+      "sort_key": 1794171612.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "가상 사찰 체험에 1만 8천 명 몰림",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "ff32538cc5",
+      "title": "서울관, 바르셀로나 스마트시티 전시서 352만달러 수출상담",
+      "url": "https://www.yna.co.kr/view/AKR20261108039200004",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 06:00",
+      "published_iso": "2026-11-09T06:00:06+09:00",
+      "sort_key": 1794171606.0,
+      "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시가 세계 최대 스마트시티 전시회에서 서울의 인공지능(AI) 기반 도시 기술을 선보여 352만달러(약 47...",
+      "matched": [],
+      "analysis": {
+        "summary": "서울관이 바르셀로나 스마트시티 전시에서 352만 달러 수출 상담",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "bdedd523b4",
+      "title": "서울시, 마곡·창동 창업허브 입주기업 25곳 모집",
+      "url": "https://www.yna.co.kr/view/AKR20261108039800004",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 06:00",
+      "published_iso": "2026-11-09T06:00:06+09:00",
+      "sort_key": 1794171606.0,
+      "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시가 대기업과의 기술협력을 희망하는 기술 스타트업과 문화·콘텐츠 분야 창업기업을 대상으로 창업 공간 입주기...",
+      "matched": [],
+      "analysis": {
+        "summary": "서울시 마곡·창동 창업허브 입주기업 모집",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "ee20e95831",
+      "title": "대법 \"차사고 렌터비, 사용가치 같은 차 시장요금 기준으로\"",
+      "url": "https://www.yna.co.kr/view/AKR20261108042500004",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 06:00",
+      "published_iso": "2026-11-09T06:00:03+09:00",
+      "sort_key": 1794171603.0,
+      "excerpt": "(서울=연합뉴스) 이미령 기자 = 교통사고로 차를 수리하는 동안 사용한 렌터카 비용은 객관적 사용 가치가 같은 차를 시장에서 빌릴 때 드는 비용...",
+      "matched": [],
+      "analysis": {
+        "summary": "대법원 '사고 렌터카 비용은 같은 가치 차의 시장 요금 기준'",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "2876ce786e",
+      "title": "롯데百, 버번 위스키 팝업 운영…롯데온은 겨울 패션 할인전",
+      "url": "https://www.yna.co.kr/view/AKR20261108043400030",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 06:00",
+      "published_iso": "2026-11-09T06:00:02+09:00",
+      "sort_key": 1794171602.0,
+      "excerpt": "(서울=연합뉴스) 김세린 기자 = 롯데백화점과 롯데온이 각각 프리미엄 위스키 팝업스토어와 겨울 패션 할인 행사를 진행한다.",
+      "matched": [],
+      "analysis": {
+        "summary": "롯데백화점 위스키 팝업, 롯데온 겨울 패션 할인",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "6078f0c55e",
+      "title": "퇴출 코인이 범죄자금 세탁 수단으로…장외거래 '사각지대'",
+      "url": "https://www.yna.co.kr/view/AKR20261107001000002",
+      "source": "연합뉴스 경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/09 05:57",
+      "published_iso": "2026-11-09T05:57:00+09:00",
+      "sort_key": 1794171420.0,
+      "excerpt": "(서울=연합뉴스) 박수현 기자 = A씨는 작년 10월 가상자산(코인) P2P(개인간 거래) 플랫폼에서 S 코인 3천285개를 1천800만원에 매...",
+      "matched": [],
+      "analysis": {
+        "summary": "상장 폐지된 코인이 범죄 자금 세탁 수단으로",
+        "impact": "가상자산 규제 강화 가능성",
+        "affected": "가상자산"
+      }
+    },
+    {
+      "id": "dd09302bd8",
+      "title": "Medicare Advantage vs. Traditional Medicare, Explained",
+      "url": "https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/09 05:35",
+      "published_iso": "2026-11-09T05:35:27+09:00",
+      "sort_key": 1794170127.0,
+      "excerpt": "When you sign up for the retiree health plan, the two options can present a financial puzzle. But cost is just one factor.",
+      "matched": [],
+      "analysis": {
+        "summary": "미국 은퇴자 건강보험 두 가지 선택지 설명",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "a38288e4bc",
+      "title": "How a Duck Named Olivia Helped Pass D.C.’s Foie Gras Ban",
+      "url": "https://www.nytimes.com/2026/11/08/us/dc-foie-gras-ban.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/09 02:03",
+      "published_iso": "2026-11-09T02:03:40+09:00",
+      "sort_key": 1794157420.0,
+      "excerpt": "Initiative 86, which bars the force-feeding of birds and the sale of foie gras, passed handily but restaurateurs and prominent chefs are preparing for a fight.",
+      "matched": [],
+      "analysis": {
+        "summary": "오리 한 마리가 워싱턴DC 푸아그라 금지에 기여",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "e692bf6a5e",
+      "title": "Why the Iran War Has Spurred Both Clean Energy and Fossil Fuels",
+      "url": "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/09 00:39",
+      "published_iso": "2026-11-09T00:39:13+09:00",
+      "sort_key": 1794152353.0,
+      "excerpt": "The shock to global oil prices has caused a surge in demand for electric vehicles while propelling a race for immediate, secure power supplies.",
+      "matched": [],
+      "analysis": {
+        "summary": "이란 전쟁이 청정에너지와 화석연료 수요를 함께 끌어올림",
+        "impact": "에너지 업종 전반 수혜",
+        "affected": "에너지, 신재생"
+      }
+    },
+    {
+      "id": "b628553be4",
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/09 00:37",
+      "published_iso": "2026-11-09T00:37:25+09:00",
+      "sort_key": 1794152245.0,
+      "excerpt": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+      "matched": [],
+      "analysis": {
+        "summary": "영국이 16세 미만의 중고거래 앱 이용 금지 검토",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "89f9e3cdb5",
+      "title": "\"창구 출금만 됩니다\"…불편해도 돈 숨기는 직장인들",
+      "url": "https://www.hankyung.com/article/202611082882i",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 23:24",
+      "published_iso": "2026-11-08T23:24:13+09:00",
+      "sort_key": 1794147853.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "'창구 출금만 됩니다' — 불편해도 돈을 숨기는 직장인들",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "ec8b36c6fd",
+      "title": "\"비자·마스터카드서 수수료 독립\"…한국형 '터치 결제' 나온다",
+      "url": "https://www.hankyung.com/article/2026110833851",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 19:54",
+      "published_iso": "2026-11-08T19:54:30+09:00",
+      "sort_key": 1794135270.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "비자·마스터카드 수수료에서 벗어난 한국형 터치 결제 출시",
+        "impact": "카드 결제 수수료 구조 변화",
+        "affected": "카드사, 결제"
+      }
+    },
+    {
+      "id": "6d231868bf",
+      "title": "Can My Company Force Me to Reveal My Personal Email?",
+      "url": "https://www.nytimes.com/2026/11/08/business/personal-email-employer-privacy.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/08 19:01",
+      "published_iso": "2026-11-08T19:01:43+09:00",
+      "sort_key": 1794132103.0,
+      "excerpt": "Plus: Ways to leave your mentee and new-parent strife.",
+      "matched": [],
+      "analysis": {
+        "summary": "회사가 개인 이메일 공개를 요구할 수 있나",
+        "impact": "시장 영향 없음",
+        "affected": "해당 없음"
+      }
+    },
+    {
+      "id": "9d7cfe1a37",
+      "title": "The World Can’t Get Enough Anime. Can Japan Cash In on Its Success?",
+      "url": "https://www.nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html",
+      "source": "NYT Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/08 19:00",
+      "published_iso": "2026-11-08T19:00:26+09:00",
+      "sort_key": 1794132026.0,
+      "excerpt": "Sony is building an anime empire, betting that global fandom can fuel growth for both the company and the country as foreign rivals and A.I. swarm the scene.",
+      "matched": [],
+      "analysis": {
+        "summary": "세계적 애니메이션 열풍 — 소니가 애니 제국 구축",
+        "impact": "콘텐츠 수익 확대",
+        "affected": "소니"
+      }
+    },
+    {
+      "id": "a39738716e",
+      "title": "\"투자보다 생존\" 월급 줄 돈 빌리는 기업 급증",
+      "url": "https://www.hankyung.com/article/2026110832801",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 18:16",
+      "published_iso": "2026-11-08T18:16:28+09:00",
+      "sort_key": 1794129388.0,
+      "excerpt": "",
+      "matched": [],
+      "analysis": {
+        "summary": "'투자보다 생존' — 월급 줄 돈을 빌리는 기업 급증",
+        "impact": "기업 자금난 신호 — 부실 위험",
+        "affected": "중소기업, 은행",
+        "important": true,
+        "important_tag": "거시경제",
+        "why_important": "월급 줄 돈을 빌리는 기업이 급증 — 경기 둔화와 기업 부실 신호"
+      }
+    },
+    {
+      "id": "2c536636d6",
+      "title": "삼성전자, 보유 현금 200조원 첫 돌파",
+      "url": "https://www.hankyung.com/article/2026110833367",
+      "source": "한국경제",
+      "group": "국내 경제언론",
+      "lang": "ko",
+      "published_kst": "11/08 18:14",
+      "published_iso": "2026-11-08T18:14:23+09:00",
+      "sort_key": 1794129263.0,
+      "excerpt": "",
+      "matched": [
+        "005930.KS"
+      ],
+      "analysis": {
+        "summary": "삼성전자 보유 현금이 처음으로 200조 원 넘어",
+        "impact": "주주환원·투자 여력 확대",
+        "affected": "삼성전자",
+        "important": true,
+        "important_tag": "관심종목",
+        "why_important": "관심종목 삼성전자의 현금이 처음 200조 원을 넘음 — 급락장에서 주주환원·투자 여력"
+      }
+    },
+    {
+      "id": "2e6c6a8a31",
+      "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+      "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "group": "해외 경제언론",
+      "lang": "en",
+      "published_kst": "11/07 10:41",
+      "published_iso": "2026-11-07T10:41:36+09:00",
+      "sort_key": 1794015696.0,
+      "excerpt": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+      "matched": [],
+      "analysis": {
+        "summary": "영국 금리 인상으로 주택담보대출 월 200파운드 증가",
+        "impact": "영국 가계 부담",
+        "affected": "영국 은행"
+      }
+    }
+  ],
+  "news_groups": {
+    "국내 정책당국": [
+      {
+        "id": "eb0bd7131d",
+        "title": "제19회 아시아 고위공무원 초청연수 실시",
+        "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079901",
+        "source": "재정경제부 보도자료",
+        "group": "국내 정책당국",
+        "lang": "ko",
+        "published_kst": "11/09 20:06",
+        "published_iso": "2026-11-09T20:06:14+09:00",
+        "sort_key": 1794222374.0,
+        "excerpt": "",
+        "matched": []
+      }
     ],
-    "analysis": {
-     "summary": "루비오 국무장관이 젠슨 황과 중국 스파이 연루를 경고하는 비밀 메모 작성에 관여",
-     "impact": "엔비디아 대중국 규제 압박 가능성",
-     "affected": "엔비디아"
+    "국내 경제언론": [
+      {
+        "id": "a352439744",
+        "title": "급락후 韓증시만 반등 못했다…수급 공백·밋밋한 실적에 발목",
+        "url": "https://www.yna.co.kr/view/AKR20261109098700008",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 16:26",
+        "published_iso": "2026-11-09T16:26:12+09:00",
+        "sort_key": 1794209172.0,
+        "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 9일 코스피는 지수 하단을 받쳐줄 매수 주체가 없다는 시장의 한계를 고스란히 보여주는 흐름을 보였다.",
+        "matched": []
+      },
+      {
+        "id": "a0fdd3bc98",
+        "title": "[여주소식] 농업인의 날 맞아 11일부터 지역 농산물 20% 할인",
+        "url": "https://www.yna.co.kr/view/AKR20261109128400061",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 16:26",
+        "published_iso": "2026-11-09T16:26:03+09:00",
+        "sort_key": 1794209163.0,
+        "excerpt": "(여주=연합뉴스) 경기 여주시는 농업인의 날(11월 11일)을 맞아 채소와 과일 등 지역 농산물을 20% 할인 판매하는 행사를 한다고 9일 밝혔...",
+        "matched": []
+      },
+      {
+        "id": "0ce794f375",
+        "title": "보험금 타내려 본인 소유 창고에 불 지른 60대 징역 3년",
+        "url": "https://www.yna.co.kr/view/AKR20261109127100063",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 16:19",
+        "published_iso": "2026-11-09T16:19:22+09:00",
+        "sort_key": 1794208762.0,
+        "excerpt": "(천안=연합뉴스) 유의주 기자 = 보험금을 타내기 위해 자신이 운영하는 물류창고에 불을 지른 60대에게 실형이 선고됐다.",
+        "matched": []
+      },
+      {
+        "id": "afdd310901",
+        "title": "삼전닉스 반등에도 코스피는 0.8% 또 하락…'5천피'는 사수(종합)",
+        "url": "https://www.yna.co.kr/view/AKR20261109117751008",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 16:18",
+        "published_iso": "2026-11-09T16:18:25+09:00",
+        "sort_key": 1794208705.0,
+        "excerpt": "(서울=연합뉴스) 김유향 기자 = 지난주 연일 급락한 코스피는 9일 장중 반등을 시도했지만 결국 하락세를 이어갔다.",
+        "matched": []
+      },
+      {
+        "id": "85dd5446f7",
+        "title": "한춘옥 통합시의원 \"전남형 청년창업사관학교 교육과정 부실\"",
+        "url": "https://www.yna.co.kr/view/AKR20261109124500054",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 16:18",
+        "published_iso": "2026-11-09T16:18:12+09:00",
+        "sort_key": 1794208692.0,
+        "excerpt": "(전남광주=연합뉴스) 박철홍 기자 = 전남형 청년창업사관학교의 교육과정이 부실하고 창업지원금 관리도 허술하다는 지적이 제기됐다.",
+        "matched": []
+      },
+      {
+        "id": "a8fb49096f",
+        "title": "스피어 \"싱가포르 종속회사 주식 95억에 추가취득…지분율 100%\"",
+        "url": "https://www.yna.co.kr/view/AKR20261109126100008",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 16:12",
+        "published_iso": "2026-11-09T16:12:02+09:00",
+        "sort_key": 1794208322.0,
+        "excerpt": "(서울=연합뉴스) 코스닥 상장사 스피어[347700]는 싱가포르의 니켈 등 특수합금 사업투자 주요 종속회사(Sphere Nickel Cobalt...",
+        "matched": []
+      },
+      {
+        "id": "cb50590d50",
+        "title": "광주상의, 내년 3천500명 인력양성·350명 일자리창출",
+        "url": "https://www.yna.co.kr/view/AKR20261109120700054",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 16:07",
+        "published_iso": "2026-11-09T16:07:25+09:00",
+        "sort_key": 1794208045.0,
+        "excerpt": "(전남광주=연합뉴스) 전승현 기자 = 광주상공회의소가 운영하는 광주지역인적자원개발위원회(광주인자위)는 2027년에 3천500명 인력양성과 350...",
+        "matched": []
+      },
+      {
+        "id": "c2f5e2de96",
+        "title": "민형배 전남광주시장 별정직 비서, 횡령 전과 논란",
+        "url": "https://www.yna.co.kr/view/AKR20261109117900054",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 16:06",
+        "published_iso": "2026-11-09T16:06:15+09:00",
+        "sort_key": 1794207975.0,
+        "excerpt": "(전남광주=연합뉴스) 장덕종 기자 = 민형배 전남광주통합특별시장의 별정직 수행비서가 횡령 전과가 있는 것으로 알려져 논란이 일고 있다.",
+        "matched": []
+      },
+      {
+        "id": "9c77f63c59",
+        "title": "[속보] 장중 2%대 반등했던 코스피, 결국 0.8% 하락…5000피는 사수",
+        "url": "https://www.hankyung.com/article/2026110953477",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 15:36",
+        "published_iso": "2026-11-09T15:36:22+09:00",
+        "sort_key": 1794206182.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "c11d657396",
+        "title": "[단독] 미래차 기술도 앞서가는 中…톱10 중 7곳 점령",
+        "url": "https://www.hankyung.com/article/202611095312i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 15:35",
+        "published_iso": "2026-11-09T15:35:33+09:00",
+        "sort_key": 1794206133.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "e74e7c4a88",
+        "title": "패스트파이브, 창사 첫 공채…4개 부문 13개 직군 뽑는다",
+        "url": "https://www.hankyung.com/article/202611095322i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 15:31",
+        "published_iso": "2026-11-09T15:31:58+09:00",
+        "sort_key": 1794205918.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "89f6fa7061",
+        "title": "\"일 안 하고 쉬어요\"…미혼 청년 절반 결혼 안 한다",
+        "url": "https://www.hankyung.com/article/2026110952917",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 15:30",
+        "published_iso": "2026-11-09T15:30:40+09:00",
+        "sort_key": 1794205840.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "eeba29cd09",
+        "title": "이케아, 이달 19일 대전에 3번째 도심형 매장 문 연다",
+        "url": "https://www.hankyung.com/article/202611095306i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 15:26",
+        "published_iso": "2026-11-09T15:26:53+09:00",
+        "sort_key": 1794205613.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "c331b81817",
+        "title": "박창숙 \"우수한 펨테크 아이디어, 성과 나도록 도울 것\"",
+        "url": "https://www.hankyung.com/article/202611095277i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 15:22",
+        "published_iso": "2026-11-09T15:22:27+09:00",
+        "sort_key": 1794205347.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "9f5ebb00f9",
+        "title": "\"소아암 치료에 써달라\"…이건희 유산 '3000억'이 만든 기적",
+        "url": "https://www.hankyung.com/article/202611095257g",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 15:19",
+        "published_iso": "2026-11-09T15:19:43+09:00",
+        "sort_key": 1794205183.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "5705f2249b",
+        "title": "한전, 에너지캐시백 가입 200만호 돌파…제주 가정 1년치 전력 절약",
+        "url": "https://www.hankyung.com/article/202611095227i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 15:03",
+        "published_iso": "2026-11-09T15:03:48+09:00",
+        "sort_key": 1794204228.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "b7aeda071a",
+        "title": "가덕도신공항 부지조성 실시설계 착수…내년 상반기 본공사 착공",
+        "url": "https://www.yna.co.kr/view/AKR20261109051600003",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 10:37",
+        "published_iso": "2026-11-09T10:37:56+09:00",
+        "sort_key": 1794188276.0,
+        "excerpt": "(서울=연합뉴스) 홍규빈 기자 = 국토교통부와 가덕도신공항건설공단이 가덕도신공항 부지조성공사 수의계약 예비 대상자인 대우건설 컨소시엄과 협의해 ...",
+        "matched": []
+      },
+      {
+        "id": "6bbdb1aa9a",
+        "title": "국힘 부산의원들, 산업은행 본점 조속한 부산이전 촉구",
+        "url": "https://www.yna.co.kr/view/AKR20261109055300051",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 10:30",
+        "published_iso": "2026-11-09T10:30:16+09:00",
+        "sort_key": 1794187816.0,
+        "excerpt": "(부산=연합뉴스) 민영규 기자 = 국민의힘 부산지역 국회의원들은 9일 한국산업은행 본점의 조속한 부산이전을 촉구했다.",
+        "matched": []
+      },
+      {
+        "id": "55e5cb5694",
+        "title": "\"철책 너머 세계로\"…김포시, 2차 평화경제특구 도전",
+        "url": "https://www.yna.co.kr/view/AKR20261109053500065",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 10:25",
+        "published_iso": "2026-11-09T10:25:21+09:00",
+        "sort_key": 1794187521.0,
+        "excerpt": "(김포=연합뉴스) 천정인 기자 = 경기도 김포시는 평화경제특구 2차 후보지 공모에 도전한다고 9일 밝혔다.",
+        "matched": []
+      },
+      {
+        "id": "9a9ab8f0b6",
+        "title": "NH농협은행, 금융이력 부족한 개인·개인사업자 심사 개선",
+        "url": "https://www.yna.co.kr/view/AKR20261109051500002",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 10:22",
+        "published_iso": "2026-11-09T10:22:19+09:00",
+        "sort_key": 1794187339.0,
+        "excerpt": "(서울=연합뉴스) 채새롬 기자 = NH농협은행은 포용금융 확대를 위해 금융 이력이 부족한 개인 및 개인사업자를 대상으로 대안정보 기반의 신용평가...",
+        "matched": []
+      },
+      {
+        "id": "7d61cf5bb7",
+        "title": "[용인소식] 내년 장애인일자리 사업 참여자 299명 모집",
+        "url": "https://www.yna.co.kr/view/AKR20261109052600061",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 10:19",
+        "published_iso": "2026-11-09T10:19:46+09:00",
+        "sort_key": 1794187186.0,
+        "excerpt": "(용인=연합뉴스) 경기 용인시는 장애인의 사회참여 기회를 확대하고 안정적인 소득을 보장하기 위해 &apos;2027년 장애인일자리사업&apos; 참여자 299명을...",
+        "matched": []
+      },
+      {
+        "id": "00dcbfe3d6",
+        "title": "중진공, 미국 멤피스 의료센터와 협약…\"中企 미국 진출 뒷받침\"",
+        "url": "https://www.yna.co.kr/view/AKR20261109051000030",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 10:15",
+        "published_iso": "2026-11-09T10:15:50+09:00",
+        "sort_key": 1794186950.0,
+        "excerpt": "(서울=연합뉴스) 이상서 기자 = 중소벤처기업진흥공단은 5일(현지시간) 미국 테네시주 멤피스에서 미국 보훈부 산하 멤피스 보훈의료센터와 함께 국...",
+        "matched": []
+      },
+      {
+        "id": "cace73fcc8",
+        "title": "용인 공세~지곡동 연결도로 연내 착공…2029년 말 완공 목표",
+        "url": "https://www.yna.co.kr/view/AKR20261109050400061",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 10:14",
+        "published_iso": "2026-11-09T10:14:46+09:00",
+        "sort_key": 1794186886.0,
+        "excerpt": "(용인=연합뉴스) 김광호 기자 = 경기 용인시는 기흥구 공세동과 지곡동을 잇는 도로를 연내 착공해 2029년 말 개통할 계획이라고 9일 밝혔다....",
+        "matched": []
+      },
+      {
+        "id": "32d6b0b0a4",
+        "title": "\"사람 몰리는 이유 있어\"…남대문 '스카프리오' 동창 등판",
+        "url": "https://www.hankyung.com/article/2026110943037",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 10:06",
+        "published_iso": "2026-11-09T10:06:37+09:00",
+        "sort_key": 1794186397.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "90e01c79e4",
+        "title": "\"하루 1만5000보 걷는다더니\"…골프화 업체가 주목한 사람들 [권용훈의 트렌드워치]",
+        "url": "https://www.hankyung.com/article/202611083448i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 10:00",
+        "published_iso": "2026-11-09T10:00:06+09:00",
+        "sort_key": 1794186006.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "2afa01620a",
+        "title": "김동선, 한화M&S 보통주 338만주 추가 공개매수…주당 8000원",
+        "url": "https://www.hankyung.com/article/202611094114g",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 09:57",
+        "published_iso": "2026-11-09T09:57:18+09:00",
+        "sort_key": 1794185838.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "433fbd4bd5",
+        "title": "국산차 최초 WEC 8개 레이스 완주…제네시스 레이싱 새역사",
+        "url": "https://www.hankyung.com/article/202611094230g",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 09:56",
+        "published_iso": "2026-11-09T09:56:04+09:00",
+        "sort_key": 1794185764.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "ea67a7b35e",
+        "title": "\"이모님 '테슬라' 주세요\"…하이트진로가 끝내 못 쓴 '그 이름'",
+        "url": "https://www.hankyung.com/article/202611094248i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 09:55",
+        "published_iso": "2026-11-09T09:55:06+09:00",
+        "sort_key": 1794185706.0,
+        "excerpt": "",
+        "matched": [
+          "TSLA"
+        ]
+      },
+      {
+        "id": "2f805de98a",
+        "title": "허리 감싸고 '볼 키스'…젠슨 황, 불륜女와 찍힌 모습 재소환",
+        "url": "https://www.hankyung.com/article/2026110940727",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 09:35",
+        "published_iso": "2026-11-09T09:35:47+09:00",
+        "sort_key": 1794184547.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "bc786579c5",
+        "title": "현대모비스 '청소년 공학 리더 페스티벌' 개최",
+        "url": "https://www.hankyung.com/article/202611094094g",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 09:31",
+        "published_iso": "2026-11-09T09:31:15+09:00",
+        "sort_key": 1794184275.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "944991de75",
+        "title": "\"제니·장원영처럼 입고 싶어요\"…日 2030 쓸어담은 '패션템'",
+        "url": "https://www.hankyung.com/article/202611093878g",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 09:23",
+        "published_iso": "2026-11-09T09:23:06+09:00",
+        "sort_key": 1794183786.0,
+        "excerpt": "",
+        "matched": []
+      },
+      {
+        "id": "4b95f0387c",
+        "title": "한·동티모르, '무상원조 기본협정' 추진…ODA 협력 폭 넓힌다",
+        "url": "https://www.yna.co.kr/view/AKR20261108038900371",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 07:00",
+        "published_iso": "2026-11-09T07:00:02+09:00",
+        "sort_key": 1794175202.0,
+        "excerpt": "(서울=연합뉴스) 성도현 기자 = 대한민국과 동티모르가 지난 6일 정상회담에서 &apos;무상원조 기본협정&apos; 추진을 공식화함에 따라 그간 소규모 개별 사...",
+        "matched": [],
+        "analysis": {
+          "summary": "한국·동티모르 무상원조 기본협정 추진",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "2afc03788a",
+        "title": "\"한국인도 깜짝 놀랐다\"…멕시코 셰프가 끓인 'K라면'의 변신",
+        "url": "https://www.hankyung.com/article/202611083111i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 07:00",
+        "published_iso": "2026-11-09T07:00:01+09:00",
+        "sort_key": 1794175201.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "멕시코 셰프가 끓인 K라면",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "cf41071ca6",
+        "title": "美해군·해병대 고위급, 울산 조선소 찾았다…'마스가' 속도 붙나",
+        "url": "https://www.hankyung.com/article/2026110935497",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 06:23",
+        "published_iso": "2026-11-09T06:23:19+09:00",
+        "sort_key": 1794172999.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "미 해군·해병대 고위급이 울산 조선소 방문 — 한미 조선 협력 속도",
+          "impact": "조선 협력 기대",
+          "affected": "HD현대중공업, 조선주"
+        }
+      },
+      {
+        "id": "7b3d414339",
+        "title": "\"변명 여지 없다\"…젠슨 황, '中 스파이 의심 女'와 불륜 인정",
+        "url": "https://www.hankyung.com/article/2026110935347",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 06:14",
+        "published_iso": "2026-11-09T06:14:03+09:00",
+        "sort_key": 1794172443.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "젠슨 황이 '중국 스파이 의심 여성'과의 불륜을 인정",
+          "impact": "엔비디아 경영 위험 부각",
+          "affected": "엔비디아, 반도체주",
+          "important": true,
+          "important_tag": "산업·실적",
+          "why_important": "젠슨 황이 중국 스파이 의심 여성과의 관계를 인정 — 엔비디아에 경영·규제 위험이 겹침"
+        }
+      },
+      {
+        "id": "d002eac075",
+        "title": "맞춤형 HBM이 바꾼 SK·삼성 인사…기술통이 미주사업 이끈다",
+        "url": "https://www.yna.co.kr/view/AKR20261108042900003",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 06:09",
+        "published_iso": "2026-11-09T06:09:00+09:00",
+        "sort_key": 1794172140.0,
+        "excerpt": "(서울=연합뉴스) 박초롱 기자 = SK하이닉스가 미국 반도체 사업을 이끄는 자리에 메모리 개발 전문가를 발탁하면서 SK하이닉스와 삼성전자 모두 ...",
+        "matched": [
+          "000660.KS"
+        ],
+        "analysis": {
+          "summary": "맞춤형 HBM 경쟁으로 SK하이닉스·삼성이 기술 전문가를 미국 사업 책임자로",
+          "impact": "시장 영향은 제한적",
+          "affected": "SK하이닉스, 삼성전자"
+        }
+      },
+      {
+        "id": "b955cc249b",
+        "title": "서울 아파트 84㎡ vs 59㎡ 가격차 1억7천만원…1년새 30%↓",
+        "url": "https://www.yna.co.kr/view/AKR20261108023200003",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 06:01",
+        "published_iso": "2026-11-09T06:01:01+09:00",
+        "sort_key": 1794171661.0,
+        "excerpt": "(서울=연합뉴스) 오예진 기자 = 대출 규제 강화로 서울 아파트 소형 평수 수요가 늘어나면서 중형인 국민평형(84㎡)과 소형(59㎡)의 가격 차...",
+        "matched": [],
+        "analysis": {
+          "summary": "서울 아파트 84㎡와 59㎡ 가격 차이가 1년 새 30% 줄어 1억 7천만 원",
+          "impact": "대출 규제로 소형 수요 증가",
+          "affected": "부동산"
+        }
+      },
+      {
+        "id": "20199e8bc5",
+        "title": "\"커피 마시려면 절 25번\"…가상 사찰에 1만8000명 몰렸다 [권용훈의 트렌드워치]",
+        "url": "https://www.hankyung.com/article/202611072250i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 06:00",
+        "published_iso": "2026-11-09T06:00:12+09:00",
+        "sort_key": 1794171612.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "가상 사찰 체험에 1만 8천 명 몰림",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "ff32538cc5",
+        "title": "서울관, 바르셀로나 스마트시티 전시서 352만달러 수출상담",
+        "url": "https://www.yna.co.kr/view/AKR20261108039200004",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 06:00",
+        "published_iso": "2026-11-09T06:00:06+09:00",
+        "sort_key": 1794171606.0,
+        "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시가 세계 최대 스마트시티 전시회에서 서울의 인공지능(AI) 기반 도시 기술을 선보여 352만달러(약 47...",
+        "matched": [],
+        "analysis": {
+          "summary": "서울관이 바르셀로나 스마트시티 전시에서 352만 달러 수출 상담",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "bdedd523b4",
+        "title": "서울시, 마곡·창동 창업허브 입주기업 25곳 모집",
+        "url": "https://www.yna.co.kr/view/AKR20261108039800004",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 06:00",
+        "published_iso": "2026-11-09T06:00:06+09:00",
+        "sort_key": 1794171606.0,
+        "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시가 대기업과의 기술협력을 희망하는 기술 스타트업과 문화·콘텐츠 분야 창업기업을 대상으로 창업 공간 입주기...",
+        "matched": [],
+        "analysis": {
+          "summary": "서울시 마곡·창동 창업허브 입주기업 모집",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "ee20e95831",
+        "title": "대법 \"차사고 렌터비, 사용가치 같은 차 시장요금 기준으로\"",
+        "url": "https://www.yna.co.kr/view/AKR20261108042500004",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 06:00",
+        "published_iso": "2026-11-09T06:00:03+09:00",
+        "sort_key": 1794171603.0,
+        "excerpt": "(서울=연합뉴스) 이미령 기자 = 교통사고로 차를 수리하는 동안 사용한 렌터카 비용은 객관적 사용 가치가 같은 차를 시장에서 빌릴 때 드는 비용...",
+        "matched": [],
+        "analysis": {
+          "summary": "대법원 '사고 렌터카 비용은 같은 가치 차의 시장 요금 기준'",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "2876ce786e",
+        "title": "롯데百, 버번 위스키 팝업 운영…롯데온은 겨울 패션 할인전",
+        "url": "https://www.yna.co.kr/view/AKR20261108043400030",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 06:00",
+        "published_iso": "2026-11-09T06:00:02+09:00",
+        "sort_key": 1794171602.0,
+        "excerpt": "(서울=연합뉴스) 김세린 기자 = 롯데백화점과 롯데온이 각각 프리미엄 위스키 팝업스토어와 겨울 패션 할인 행사를 진행한다.",
+        "matched": [],
+        "analysis": {
+          "summary": "롯데백화점 위스키 팝업, 롯데온 겨울 패션 할인",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "6078f0c55e",
+        "title": "퇴출 코인이 범죄자금 세탁 수단으로…장외거래 '사각지대'",
+        "url": "https://www.yna.co.kr/view/AKR20261107001000002",
+        "source": "연합뉴스 경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/09 05:57",
+        "published_iso": "2026-11-09T05:57:00+09:00",
+        "sort_key": 1794171420.0,
+        "excerpt": "(서울=연합뉴스) 박수현 기자 = A씨는 작년 10월 가상자산(코인) P2P(개인간 거래) 플랫폼에서 S 코인 3천285개를 1천800만원에 매...",
+        "matched": [],
+        "analysis": {
+          "summary": "상장 폐지된 코인이 범죄 자금 세탁 수단으로",
+          "impact": "가상자산 규제 강화 가능성",
+          "affected": "가상자산"
+        }
+      },
+      {
+        "id": "89f9e3cdb5",
+        "title": "\"창구 출금만 됩니다\"…불편해도 돈 숨기는 직장인들",
+        "url": "https://www.hankyung.com/article/202611082882i",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 23:24",
+        "published_iso": "2026-11-08T23:24:13+09:00",
+        "sort_key": 1794147853.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "'창구 출금만 됩니다' — 불편해도 돈을 숨기는 직장인들",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "ec8b36c6fd",
+        "title": "\"비자·마스터카드서 수수료 독립\"…한국형 '터치 결제' 나온다",
+        "url": "https://www.hankyung.com/article/2026110833851",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 19:54",
+        "published_iso": "2026-11-08T19:54:30+09:00",
+        "sort_key": 1794135270.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "비자·마스터카드 수수료에서 벗어난 한국형 터치 결제 출시",
+          "impact": "카드 결제 수수료 구조 변화",
+          "affected": "카드사, 결제"
+        }
+      },
+      {
+        "id": "a39738716e",
+        "title": "\"투자보다 생존\" 월급 줄 돈 빌리는 기업 급증",
+        "url": "https://www.hankyung.com/article/2026110832801",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 18:16",
+        "published_iso": "2026-11-08T18:16:28+09:00",
+        "sort_key": 1794129388.0,
+        "excerpt": "",
+        "matched": [],
+        "analysis": {
+          "summary": "'투자보다 생존' — 월급 줄 돈을 빌리는 기업 급증",
+          "impact": "기업 자금난 신호 — 부실 위험",
+          "affected": "중소기업, 은행",
+          "important": true,
+          "important_tag": "거시경제",
+          "why_important": "월급 줄 돈을 빌리는 기업이 급증 — 경기 둔화와 기업 부실 신호"
+        }
+      },
+      {
+        "id": "2c536636d6",
+        "title": "삼성전자, 보유 현금 200조원 첫 돌파",
+        "url": "https://www.hankyung.com/article/2026110833367",
+        "source": "한국경제",
+        "group": "국내 경제언론",
+        "lang": "ko",
+        "published_kst": "11/08 18:14",
+        "published_iso": "2026-11-08T18:14:23+09:00",
+        "sort_key": 1794129263.0,
+        "excerpt": "",
+        "matched": [
+          "005930.KS"
+        ],
+        "analysis": {
+          "summary": "삼성전자 보유 현금이 처음으로 200조 원 넘어",
+          "impact": "주주환원·투자 여력 확대",
+          "affected": "삼성전자",
+          "important": true,
+          "important_tag": "관심종목",
+          "why_important": "관심종목 삼성전자의 현금이 처음 200조 원을 넘음 — 급락장에서 주주환원·투자 여력"
+        }
+      }
+    ],
+    "해외 경제언론": [
+      {
+        "id": "5ed183cd18",
+        "title": "Government's EV targets expected to be reduced this week",
+        "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/09 16:20",
+        "published_iso": "2026-11-09T16:20:17+09:00",
+        "sort_key": 1794208817.0,
+        "excerpt": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+        "matched": []
+      },
+      {
+        "id": "2965feb8b5",
+        "title": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
+        "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/09 15:01",
+        "published_iso": "2026-11-09T15:01:52+09:00",
+        "sort_key": 1794204112.0,
+        "excerpt": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
+        "matched": []
+      },
+      {
+        "id": "1beeb62134",
+        "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+        "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+        "source": "CNBC Economy",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/09 11:50",
+        "published_iso": "2026-11-09T11:50:22+09:00",
+        "sort_key": 1794192622.0,
+        "excerpt": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
+        "matched": []
+      },
+      {
+        "id": "20e3822023",
+        "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+        "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/09 09:50",
+        "published_iso": "2026-11-09T09:50:06+09:00",
+        "sort_key": 1794185406.0,
+        "excerpt": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+        "matched": [
+          "NVDA"
+        ]
+      },
+      {
+        "id": "a050d1c23a",
+        "title": "Doing these things now will help you save money at Christmas",
+        "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/09 09:09",
+        "published_iso": "2026-11-09T09:09:14+09:00",
+        "sort_key": 1794182954.0,
+        "excerpt": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+        "matched": []
+      },
+      {
+        "id": "3120ee4f90",
+        "title": "When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I.",
+        "url": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/09 08:34",
+        "published_iso": "2026-11-09T08:34:09+09:00",
+        "sort_key": 1794180849.0,
+        "excerpt": "A federal indictment alleges that three men used generative A.I. to impersonate voices of chief executives and lawyers to defraud companies of millions of dollars.",
+        "matched": []
+      },
+      {
+        "id": "84ab0fe30f",
+        "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
+        "url": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/09 06:11",
+        "published_iso": "2026-11-09T06:11:51+09:00",
+        "sort_key": 1794172311.0,
+        "excerpt": "The secretary of state’s role in drafting a secret memo highlights how top officials were concerned by this past spring about Jensen Huang’s relationship with a woman tied to Chinese intelligence.",
+        "matched": [
+          "NVDA"
+        ],
+        "analysis": {
+          "summary": "루비오 국무장관이 젠슨 황과 중국 스파이 연루를 경고하는 비밀 메모 작성에 관여",
+          "impact": "엔비디아 대중국 규제 압박 가능성",
+          "affected": "엔비디아"
+        }
+      },
+      {
+        "id": "dd09302bd8",
+        "title": "Medicare Advantage vs. Traditional Medicare, Explained",
+        "url": "https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/09 05:35",
+        "published_iso": "2026-11-09T05:35:27+09:00",
+        "sort_key": 1794170127.0,
+        "excerpt": "When you sign up for the retiree health plan, the two options can present a financial puzzle. But cost is just one factor.",
+        "matched": [],
+        "analysis": {
+          "summary": "미국 은퇴자 건강보험 두 가지 선택지 설명",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "a38288e4bc",
+        "title": "How a Duck Named Olivia Helped Pass D.C.’s Foie Gras Ban",
+        "url": "https://www.nytimes.com/2026/11/08/us/dc-foie-gras-ban.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/09 02:03",
+        "published_iso": "2026-11-09T02:03:40+09:00",
+        "sort_key": 1794157420.0,
+        "excerpt": "Initiative 86, which bars the force-feeding of birds and the sale of foie gras, passed handily but restaurateurs and prominent chefs are preparing for a fight.",
+        "matched": [],
+        "analysis": {
+          "summary": "오리 한 마리가 워싱턴DC 푸아그라 금지에 기여",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "e692bf6a5e",
+        "title": "Why the Iran War Has Spurred Both Clean Energy and Fossil Fuels",
+        "url": "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/09 00:39",
+        "published_iso": "2026-11-09T00:39:13+09:00",
+        "sort_key": 1794152353.0,
+        "excerpt": "The shock to global oil prices has caused a surge in demand for electric vehicles while propelling a race for immediate, secure power supplies.",
+        "matched": [],
+        "analysis": {
+          "summary": "이란 전쟁이 청정에너지와 화석연료 수요를 함께 끌어올림",
+          "impact": "에너지 업종 전반 수혜",
+          "affected": "에너지, 신재생"
+        }
+      },
+      {
+        "id": "b628553be4",
+        "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/09 00:37",
+        "published_iso": "2026-11-09T00:37:25+09:00",
+        "sort_key": 1794152245.0,
+        "excerpt": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+        "matched": [],
+        "analysis": {
+          "summary": "영국이 16세 미만의 중고거래 앱 이용 금지 검토",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "6d231868bf",
+        "title": "Can My Company Force Me to Reveal My Personal Email?",
+        "url": "https://www.nytimes.com/2026/11/08/business/personal-email-employer-privacy.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/08 19:01",
+        "published_iso": "2026-11-08T19:01:43+09:00",
+        "sort_key": 1794132103.0,
+        "excerpt": "Plus: Ways to leave your mentee and new-parent strife.",
+        "matched": [],
+        "analysis": {
+          "summary": "회사가 개인 이메일 공개를 요구할 수 있나",
+          "impact": "시장 영향 없음",
+          "affected": "해당 없음"
+        }
+      },
+      {
+        "id": "9d7cfe1a37",
+        "title": "The World Can’t Get Enough Anime. Can Japan Cash In on Its Success?",
+        "url": "https://www.nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html",
+        "source": "NYT Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/08 19:00",
+        "published_iso": "2026-11-08T19:00:26+09:00",
+        "sort_key": 1794132026.0,
+        "excerpt": "Sony is building an anime empire, betting that global fandom can fuel growth for both the company and the country as foreign rivals and A.I. swarm the scene.",
+        "matched": [],
+        "analysis": {
+          "summary": "세계적 애니메이션 열풍 — 소니가 애니 제국 구축",
+          "impact": "콘텐츠 수익 확대",
+          "affected": "소니"
+        }
+      },
+      {
+        "id": "2e6c6a8a31",
+        "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+        "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "group": "해외 경제언론",
+        "lang": "en",
+        "published_kst": "11/07 10:41",
+        "published_iso": "2026-11-07T10:41:36+09:00",
+        "sort_key": 1794015696.0,
+        "excerpt": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+        "matched": [],
+        "analysis": {
+          "summary": "영국 금리 인상으로 주택담보대출 월 200파운드 증가",
+          "impact": "영국 가계 부담",
+          "affected": "영국 은행"
+        }
+      }
+    ]
+  },
+  "counts": {
+    "indices_ok": 8,
+    "indices_total": 8,
+    "stocks_ok": 9,
+    "stocks_total": 9,
+    "news": 62,
+    "news_new": 20
+  },
+  "errors": [
+    {
+      "stage": "news",
+      "target": "금융위원회 보도자료",
+      "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
     }
-   },
-   {
-    "id": "dd09302bd8",
-    "title": "Medicare Advantage vs. Traditional Medicare, Explained",
-    "url": "https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/09 05:35",
-    "published_iso": "2026-11-09T05:35:27+09:00",
-    "sort_key": 1794170127.0,
-    "excerpt": "When you sign up for the retiree health plan, the two options can present a financial puzzle. But cost is just one factor.",
-    "matched": [],
-    "analysis": {
-     "summary": "미국 은퇴자 건강보험 두 가지 선택지 설명",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "a38288e4bc",
-    "title": "How a Duck Named Olivia Helped Pass D.C.’s Foie Gras Ban",
-    "url": "https://www.nytimes.com/2026/11/08/us/dc-foie-gras-ban.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/09 02:03",
-    "published_iso": "2026-11-09T02:03:40+09:00",
-    "sort_key": 1794157420.0,
-    "excerpt": "Initiative 86, which bars the force-feeding of birds and the sale of foie gras, passed handily but restaurateurs and prominent chefs are preparing for a fight.",
-    "matched": [],
-    "analysis": {
-     "summary": "오리 한 마리가 워싱턴DC 푸아그라 금지에 기여",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "e692bf6a5e",
-    "title": "Why the Iran War Has Spurred Both Clean Energy and Fossil Fuels",
-    "url": "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/09 00:39",
-    "published_iso": "2026-11-09T00:39:13+09:00",
-    "sort_key": 1794152353.0,
-    "excerpt": "The shock to global oil prices has caused a surge in demand for electric vehicles while propelling a race for immediate, secure power supplies.",
-    "matched": [],
-    "analysis": {
-     "summary": "이란 전쟁이 청정에너지와 화석연료 수요를 함께 끌어올림",
-     "impact": "에너지 업종 전반 수혜",
-     "affected": "에너지, 신재생"
-    }
-   },
-   {
-    "id": "b628553be4",
-    "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-    "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/09 00:37",
-    "published_iso": "2026-11-09T00:37:25+09:00",
-    "sort_key": 1794152245.0,
-    "excerpt": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-    "matched": [],
-    "analysis": {
-     "summary": "영국이 16세 미만의 중고거래 앱 이용 금지 검토",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "6d231868bf",
-    "title": "Can My Company Force Me to Reveal My Personal Email?",
-    "url": "https://www.nytimes.com/2026/11/08/business/personal-email-employer-privacy.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/08 19:01",
-    "published_iso": "2026-11-08T19:01:43+09:00",
-    "sort_key": 1794132103.0,
-    "excerpt": "Plus: Ways to leave your mentee and new-parent strife.",
-    "matched": [],
-    "analysis": {
-     "summary": "회사가 개인 이메일 공개를 요구할 수 있나",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "9d7cfe1a37",
-    "title": "The World Can’t Get Enough Anime. Can Japan Cash In on Its Success?",
-    "url": "https://www.nytimes.com/2026/11/08/business/anime-japan-sony-demonslayer.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/08 19:00",
-    "published_iso": "2026-11-08T19:00:26+09:00",
-    "sort_key": 1794132026.0,
-    "excerpt": "Sony is building an anime empire, betting that global fandom can fuel growth for both the company and the country as foreign rivals and A.I. swarm the scene.",
-    "matched": [],
-    "analysis": {
-     "summary": "세계적 애니메이션 열풍 — 소니가 애니 제국 구축",
-     "impact": "콘텐츠 수익 확대",
-     "affected": "소니"
-    }
-   },
-   {
-    "id": "2e6c6a8a31",
-    "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
-    "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/07 10:41",
-    "published_iso": "2026-11-07T10:41:36+09:00",
-    "sort_key": 1794015696.0,
-    "excerpt": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
-    "matched": [],
-    "analysis": {
-     "summary": "영국 금리 인상으로 주택담보대출 월 200파운드 증가",
-     "impact": "영국 가계 부담",
-     "affected": "영국 은행"
-    }
-   }
   ]
- },
- "counts": {
-  "indices_ok": 8,
-  "indices_total": 8,
-  "stocks_ok": 9,
-  "stocks_total": 9,
-  "news": 62,
-  "news_new": 20
- },
- "errors": [
-  {
-   "stage": "news",
-   "target": "금융위원회 보도자료",
-   "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
-  }
- ]
 }
