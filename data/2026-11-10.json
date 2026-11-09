@@ -1,0 +1,1137 @@
+{
+ "date": "2026-11-10",
+ "generated_at": "2026-11-10 02:25",
+ "weekday": "화",
+ "site": {
+  "title": "오늘의 경제 한 장",
+  "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
+  "author": "asqwkl3215",
+  "timezone_label": "KST",
+  "base_url": "https://marketbrief-byte.github.io"
+ },
+ "indices": [
+  {
+   "name": "코스피",
+   "symbol": "^KS11",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 5018.85,
+   "prev_close": 5859.08,
+   "change": -840.23,
+   "change_pct": -14.34,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1794222340,
+   "asof_date": null
+  },
+  {
+   "name": "코스닥",
+   "symbol": "^KQ11",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 638.97,
+   "prev_close": 734.36,
+   "change": -95.39,
+   "change_pct": -12.99,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1794222340,
+   "asof_date": null
+  },
+  {
+   "name": "S&P 500",
+   "symbol": "^GSPC",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 7546.18,
+   "prev_close": 7541.4,
+   "change": 4.78,
+   "change_pct": 0.06,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1794245133,
+   "asof_date": null
+  },
+  {
+   "name": "나스닥",
+   "symbol": "^IXIC",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 25228.404,
+   "prev_close": 25164.31,
+   "change": 64.094,
+   "change_pct": 0.25,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1794245139,
+   "asof_date": null
+  },
+  {
+   "name": "원/달러",
+   "symbol": "KRW=X",
+   "unit": "원",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 1344.18,
+   "prev_close": 1344.81,
+   "change": -0.63,
+   "change_pct": -0.05,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1794245135,
+   "asof_date": null
+  },
+  {
+   "name": "미 10년 국채",
+   "symbol": "^TNX",
+   "unit": "%",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 4.88,
+   "prev_close": 4.952,
+   "change": -0.072,
+   "change_pct": -1.45,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1794244233,
+   "asof_date": null
+  },
+  {
+   "name": "WTI 유가",
+   "symbol": "CL=F",
+   "unit": "$",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 87.78,
+   "prev_close": 88.12,
+   "change": -0.34,
+   "change_pct": -0.39,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1794244538,
+   "asof_date": null
+  },
+  {
+   "name": "금",
+   "symbol": "GC=F",
+   "unit": "$",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 4113.7,
+   "prev_close": 4073.0,
+   "change": 40.7,
+   "change_pct": 1.0,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1794244541,
+   "asof_date": null
+  }
+ ],
+ "watchlist": [
+  {
+   "name": "삼성전자",
+   "symbol": "005930.KS",
+   "unit": "",
+   "keywords": [
+    "삼성전자",
+    "Samsung Electronics",
+    "삼성 반도체"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 189900.0,
+   "prev_close": 229000.0,
+   "change": -39100.0,
+   "change_pct": -17.07,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1794205802,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "SK하이닉스",
+   "symbol": "000660.KS",
+   "unit": "",
+   "keywords": [
+    "SK하이닉스",
+    "SK Hynix",
+    "하이닉스",
+    "HBM"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 1136000.0,
+   "prev_close": 1472000.0,
+   "change": -336000.0,
+   "change_pct": -22.83,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1794205827,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "현대차",
+   "symbol": "005380.KS",
+   "unit": "",
+   "keywords": [
+    "현대차",
+    "현대자동차",
+    "Hyundai Motor"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 271500.0,
+   "prev_close": 287000.0,
+   "change": -15500.0,
+   "change_pct": -5.4,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1794205821,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "LG에너지솔루션",
+   "symbol": "373220.KS",
+   "unit": "",
+   "keywords": [
+    "LG에너지솔루션",
+    "LG Energy Solution",
+    "이차전지",
+    "배터리"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 318000.0,
+   "prev_close": 356000.0,
+   "change": -38000.0,
+   "change_pct": -10.67,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1794205809,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "NAVER",
+   "symbol": "035420.KS",
+   "unit": "",
+   "keywords": [
+    "네이버",
+    "NAVER"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 187100.0,
+   "prev_close": 175400.0,
+   "change": 11700.0,
+   "change_pct": 6.67,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1794205819,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "엔비디아",
+   "symbol": "NVDA",
+   "unit": "",
+   "keywords": [
+    "엔비디아",
+    "Nvidia",
+    "NVDA"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 177.54,
+   "prev_close": 202.06,
+   "change": -24.52,
+   "change_pct": -12.14,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1794245141,
+   "asof_date": null,
+   "news": [
+    {
+     "id": "f3537ec409",
+     "title": "엔비디아 흔들리는 사이…구글,차세대 AI칩 2종 출시",
+     "url": "https://www.hankyung.com/article/202611096081i",
+     "source": "한국경제",
+     "published_kst": "11/09 23:10"
+    },
+    {
+     "id": "cd35e11842",
+     "title": "젠슨 황, 엔비디아서 물러나나…'후계자' 얘기까지 나온 이유",
+     "url": "https://www.hankyung.com/article/202611096022i",
+     "source": "한국경제",
+     "published_kst": "11/09 21:25"
+    },
+    {
+     "id": "76a8ace5d7",
+     "title": "엔비디아, 업스테이지 등 국내 AI 스타트업 4사 투자한다",
+     "url": "https://www.yna.co.kr/view/AKR20261109146400017",
+     "source": "연합뉴스 경제",
+     "published_kst": "11/09 17:57"
+    },
+    {
+     "id": "8233129c4c",
+     "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
+     "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+     "source": "NYT Business",
+     "published_kst": "11/10 01:47"
+    },
+    {
+     "id": "e460234c4f",
+     "title": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang",
+     "url": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
+     "source": "NYT Business",
+     "published_kst": "11/10 01:24"
+    },
+    {
+     "id": "46f375beb9",
+     "title": "China Rejects Espionage Claims Involving Nvidia C.E.O. Jensen Huang",
+     "url": "https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html",
+     "source": "NYT Business",
+     "published_kst": "11/09 21:33"
+    },
+    {
+     "id": "eda661cf2b",
+     "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+     "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "published_kst": "11/09 16:10"
+    }
+   ]
+  },
+  {
+   "name": "애플",
+   "symbol": "AAPL",
+   "unit": "",
+   "keywords": [
+    "애플",
+    "Apple",
+    "AAPL"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 349.9,
+   "prev_close": 338.32,
+   "change": 11.58,
+   "change_pct": 3.42,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1794245143,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "테슬라",
+   "symbol": "TSLA",
+   "unit": "",
+   "keywords": [
+    "테슬라",
+    "Tesla",
+    "TSLA"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 377.94,
+   "prev_close": 403.82,
+   "change": -25.88,
+   "change_pct": -6.41,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1794245139,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "마이크로소프트",
+   "symbol": "MSFT",
+   "unit": "",
+   "keywords": [
+    "마이크로소프트",
+    "Microsoft",
+    "MSFT"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 544.365,
+   "prev_close": 507.12,
+   "change": 37.245,
+   "change_pct": 7.34,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1794245143,
+   "asof_date": null,
+   "news": []
+  }
+ ],
+ "news": [
+  {
+   "id": "a1175999e1",
+   "title": "Civil servant who secretly held five jobs found guilty of fraud",
+   "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/10 02:17",
+   "published_iso": "2026-11-10T02:17:16+09:00",
+   "sort_key": 1794244636.0,
+   "excerpt": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+   "matched": []
+  },
+  {
+   "id": "1aee93233e",
+   "title": "Oil Prices Fall on Hopes for Peace Between U.S. and Iran",
+   "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/10 02:02",
+   "published_iso": "2026-11-10T02:02:37+09:00",
+   "sort_key": 1794243757.0,
+   "excerpt": "The global benchmark price is now down roughly $20 a barrel since late October, when it traded for around $113.",
+   "matched": []
+  },
+  {
+   "id": "b5009629aa",
+   "title": "Would a Democratic Crackdown on A.I. Hurt the Economy or Save It?",
+   "url": "https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/10 01:59",
+   "published_iso": "2026-11-10T01:59:16+09:00",
+   "sort_key": 1794243556.0,
+   "excerpt": "Voter backlash could threaten the data center boom. Some economists think that could be a good thing.",
+   "matched": []
+  },
+  {
+   "id": "8233129c4c",
+   "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
+   "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/10 01:47",
+   "published_iso": "2026-11-10T01:47:08+09:00",
+   "sort_key": 1794242828.0,
+   "excerpt": "An investigation into Megaspeed, a Singapore company that was buying advanced Nvidia A.I. chips, was transferred to the Justice Department after a top Nvidia executive reached out to Commerce Department officials.",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "f4eb275bd9",
+   "title": "Poundland unable to buy new stock as fears over collapse grow",
+   "url": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/10 01:46",
+   "published_iso": "2026-11-10T01:46:40+09:00",
+   "sort_key": 1794242800.0,
+   "excerpt": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
+   "matched": []
+  },
+  {
+   "id": "e460234c4f",
+   "title": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang",
+   "url": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/10 01:24",
+   "published_iso": "2026-11-10T01:24:05+09:00",
+   "sort_key": 1794241445.0,
+   "excerpt": "The chipmaker’s size and significance to the A.I. trade means that Jensen Huang’s admission of a relationship with a businesswoman suspected of spying for China could reverberate across Wall Street.",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "d8c0bec690",
+   "title": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
+   "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/10 00:18",
+   "published_iso": "2026-11-10T00:18:30+09:00",
+   "sort_key": 1794237510.0,
+   "excerpt": "State leaders and residents in Virginia have opposed NextEra’s acquisition of Dominion Energy, fearing that it will accelerate rate increases.",
+   "matched": []
+  },
+  {
+   "id": "45412aef09",
+   "title": "젠슨 황 스캔들에 떨고 있는 네오클라우드…\"코어위브, 파멸의 악순환\"[박신영의 개장전 요것만]",
+   "url": "https://www.hankyung.com/article/202611106107i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/10 00:16",
+   "published_iso": "2026-11-10T00:16:29+09:00",
+   "sort_key": 1794237389.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "f3537ec409",
+   "title": "엔비디아 흔들리는 사이…구글,차세대 AI칩 2종 출시",
+   "url": "https://www.hankyung.com/article/202611096081i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/09 23:10",
+   "published_iso": "2026-11-09T23:10:36+09:00",
+   "sort_key": 1794233436.0,
+   "excerpt": "",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "e8cc6e6243",
+   "title": "국제유가, 5년 만에 최대 주간 하락…외교적 타결 낙관론 커져",
+   "url": "https://www.hankyung.com/article/202611096082i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/09 22:58",
+   "published_iso": "2026-11-09T22:58:58+09:00",
+   "sort_key": 1794232738.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "e0debfd78b",
+   "title": "How Indispensable Is Jensen Huang?",
+   "url": "https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/09 22:33",
+   "published_iso": "2026-11-09T22:33:07+09:00",
+   "sort_key": 1794231187.0,
+   "excerpt": "The fate of Nvidia’s chief executive, who was romantically involved with a suspected Chinese spy, has wide implications for Silicon Valley, Washington and beyond.",
+   "matched": []
+  },
+  {
+   "id": "fbcc2eabc4",
+   "title": "새 빈틈 파고든 해커…금융 플랫폼 통해 법카 부정결제 잇따라",
+   "url": "https://www.hankyung.com/article/2026110960607",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/09 22:04",
+   "published_iso": "2026-11-09T22:04:30+09:00",
+   "sort_key": 1794229470.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "0878c4f8a6",
+   "title": "출발부터 'X-마스 한정판'이었다는데…뜻밖의 '맥주 바'가 등장한 이유 [현장+]",
+   "url": "https://www.hankyung.com/article/202611094924g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/09 22:00",
+   "published_iso": "2026-11-09T22:00:01+09:00",
+   "sort_key": 1794229201.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "79b0088495",
+   "title": "새 빈틈 노린 해커…금융 플랫폼 통해 법카 부정결제 잇단 시도",
+   "url": "https://www.yna.co.kr/view/AKR20261109157200002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/09 21:35",
+   "published_iso": "2026-11-09T21:35:34+09:00",
+   "sort_key": 1794227734.0,
+   "excerpt": "(서울=연합뉴스) 김지연 강류나 기자 = 스타트업들에 법인카드 발급·지출 관련 서비스를 제공하는 국내 핀테크 플랫폼이 해킹 공격을 받아 일부 카...",
+   "matched": []
+  },
+  {
+   "id": "46f375beb9",
+   "title": "China Rejects Espionage Claims Involving Nvidia C.E.O. Jensen Huang",
+   "url": "https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/09 21:33",
+   "published_iso": "2026-11-09T21:33:37+09:00",
+   "sort_key": 1794227617.0,
+   "excerpt": "The controversy has intensified scrutiny of Mr. Huang’s ties to Beijing and sparked mixed reactions across Asia, where he is widely popular.",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "cd35e11842",
+   "title": "젠슨 황, 엔비디아서 물러나나…'후계자' 얘기까지 나온 이유",
+   "url": "https://www.hankyung.com/article/202611096022i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/09 21:25",
+   "published_iso": "2026-11-09T21:25:14+09:00",
+   "sort_key": 1794227114.0,
+   "excerpt": "",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "d6c94d800e",
+   "title": "예약 열자마자 '먹통'…150만명 몰린 '크리스마스 성지' 어디길래 [현장+]",
+   "url": "https://www.hankyung.com/article/202611094272g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/09 21:00",
+   "published_iso": "2026-11-09T21:00:01+09:00",
+   "sort_key": 1794225601.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "34a84f31f2",
+   "title": "빵값 이어 음료값도 오른다…파리바게뜨, 16일부터 가격 인상",
+   "url": "https://www.hankyung.com/article/2026110960317",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/09 20:59",
+   "published_iso": "2026-11-09T20:59:13+09:00",
+   "sort_key": 1794225553.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "1468aa94a5",
+   "title": "파리바게뜨, 16일부터 제조 음료 10종 가격 평균 2.7% 인상",
+   "url": "https://www.yna.co.kr/view/AKR20261109156300030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/09 20:49",
+   "published_iso": "2026-11-09T20:49:34+09:00",
+   "sort_key": 1794224974.0,
+   "excerpt": "(서울=연합뉴스) 한주홍 기자 = 파리바게뜨는 오는 16일부터 제조 음료 10종의 가격을 평균 2.7% 올린다고 9일 밝혔다.",
+   "matched": []
+  },
+  {
+   "id": "f0802933b9",
+   "title": "\"업종별 하위 25%·할증률 40%로\"…'주가 누르기' 정부안 보완론(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261109147051002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/09 20:26",
+   "published_iso": "2026-11-09T20:26:16+09:00",
+   "sort_key": 1794223576.0,
+   "excerpt": "(세종=연합뉴스) 송정은 기자 = 정부가 추진 중인 이른바 &apos;주가누르기 방지법&apos;의 상장주식 평가 방법과 관련해 업종별 하위 25%에 해당하는 저...",
+   "matched": []
+  },
+  {
+   "id": "7923637a28",
+   "title": "삼성화재, 英캐노피우스 지분 추가인수…해외사업 확대",
+   "url": "https://www.yna.co.kr/view/AKR20261109153600002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/09 19:31",
+   "published_iso": "2026-11-09T19:31:51+09:00",
+   "sort_key": 1794220311.0,
+   "excerpt": "(서울=연합뉴스) 배영경 기자 = 삼성화재[000810]가 영국 특수보험사 캐노피우스 지분을 추가 인수하며 해외사업을 확대한다.",
+   "matched": []
+  },
+  {
+   "id": "5f3b22b98f",
+   "title": "Senator Tells Google to Let Schools Disable A.I. Features in Search",
+   "url": "https://www.nytimes.com/2026/11/09/business/google-ai-school-features.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/09 19:04",
+   "published_iso": "2026-11-09T19:04:01+09:00",
+   "sort_key": 1794218641.0,
+   "excerpt": "The request came from Senator Edward J. Markey of Massachusetts, after Google said it would not turn off artificial intelligence tools for students using its search engine.",
+   "matched": []
+  },
+  {
+   "id": "5ec02dcae8",
+   "title": "조의장 \"체감경기 회복 더뎌…선순환 회복이 조세정책 역할\"",
+   "url": "https://www.yna.co.kr/view/AKR20261109148000001",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/09 18:22",
+   "published_iso": "2026-11-09T18:22:38+09:00",
+   "sort_key": 1794216158.0,
+   "excerpt": "(서울=연합뉴스) 오규진 기자 = 조정식 국회의장은 9일 내년도 세법 개정안 심사와 관련, &quot;경제 선순환을 복원하는 것이 말 그대로 조세 정책의...",
+   "matched": []
+  },
+  {
+   "id": "5f558556ee",
+   "title": "\"업종별 하위 25%·할증률 40%로\"…'주가 누르기' 정부안 보완론",
+   "url": "https://www.yna.co.kr/view/AKR20261109147000002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/09 18:15",
+   "published_iso": "2026-11-09T18:15:08+09:00",
+   "sort_key": 1794215708.0,
+   "excerpt": "(세종=연합뉴스) 송정은 기자 = 정부가 추진 중인 이른바 &apos;주가누르기 방지법&apos;의 상장주식 평가 방법과 관련해 업종별 하위 25%에 해당하는 저...",
+   "matched": []
+  },
+  {
+   "id": "0ff2a7209b",
+   "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+   "url": "https://www.yna.co.kr/view/AKR20261109139700011",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/09 18:00",
+   "published_iso": "2026-11-09T18:00:00+09:00",
+   "sort_key": 1794214800.0,
+   "excerpt": "■ 젠슨 황 리더십 논란 속 서울 AI 데이…엔비디아는 답변 피해",
+   "matched": []
+  },
+  {
+   "id": "76a8ace5d7",
+   "title": "엔비디아, 업스테이지 등 국내 AI 스타트업 4사 투자한다",
+   "url": "https://www.yna.co.kr/view/AKR20261109146400017",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/09 17:57",
+   "published_iso": "2026-11-09T17:57:47+09:00",
+   "sort_key": 1794214667.0,
+   "excerpt": "(서울=연합뉴스) 권하영 기자 = 엔비디아가 국내 인공지능(AI) 스타트업 포인트투테크놀로지에 대한 투자를 발표했다.",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "eda661cf2b",
+   "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+   "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/09 16:10",
+   "published_iso": "2026-11-09T16:10:11+09:00",
+   "sort_key": 1794208211.0,
+   "excerpt": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
+   "matched": [
+    "NVDA"
+   ]
+  }
+ ],
+ "news_groups": {
+  "해외 경제언론": [
+   {
+    "id": "a1175999e1",
+    "title": "Civil servant who secretly held five jobs found guilty of fraud",
+    "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/10 02:17",
+    "published_iso": "2026-11-10T02:17:16+09:00",
+    "sort_key": 1794244636.0,
+    "excerpt": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+    "matched": []
+   },
+   {
+    "id": "1aee93233e",
+    "title": "Oil Prices Fall on Hopes for Peace Between U.S. and Iran",
+    "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/10 02:02",
+    "published_iso": "2026-11-10T02:02:37+09:00",
+    "sort_key": 1794243757.0,
+    "excerpt": "The global benchmark price is now down roughly $20 a barrel since late October, when it traded for around $113.",
+    "matched": []
+   },
+   {
+    "id": "b5009629aa",
+    "title": "Would a Democratic Crackdown on A.I. Hurt the Economy or Save It?",
+    "url": "https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/10 01:59",
+    "published_iso": "2026-11-10T01:59:16+09:00",
+    "sort_key": 1794243556.0,
+    "excerpt": "Voter backlash could threaten the data center boom. Some economists think that could be a good thing.",
+    "matched": []
+   },
+   {
+    "id": "8233129c4c",
+    "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
+    "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/10 01:47",
+    "published_iso": "2026-11-10T01:47:08+09:00",
+    "sort_key": 1794242828.0,
+    "excerpt": "An investigation into Megaspeed, a Singapore company that was buying advanced Nvidia A.I. chips, was transferred to the Justice Department after a top Nvidia executive reached out to Commerce Department officials.",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "f4eb275bd9",
+    "title": "Poundland unable to buy new stock as fears over collapse grow",
+    "url": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/10 01:46",
+    "published_iso": "2026-11-10T01:46:40+09:00",
+    "sort_key": 1794242800.0,
+    "excerpt": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
+    "matched": []
+   },
+   {
+    "id": "e460234c4f",
+    "title": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang",
+    "url": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/10 01:24",
+    "published_iso": "2026-11-10T01:24:05+09:00",
+    "sort_key": 1794241445.0,
+    "excerpt": "The chipmaker’s size and significance to the A.I. trade means that Jensen Huang’s admission of a relationship with a businesswoman suspected of spying for China could reverberate across Wall Street.",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "d8c0bec690",
+    "title": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
+    "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/10 00:18",
+    "published_iso": "2026-11-10T00:18:30+09:00",
+    "sort_key": 1794237510.0,
+    "excerpt": "State leaders and residents in Virginia have opposed NextEra’s acquisition of Dominion Energy, fearing that it will accelerate rate increases.",
+    "matched": []
+   },
+   {
+    "id": "e0debfd78b",
+    "title": "How Indispensable Is Jensen Huang?",
+    "url": "https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/09 22:33",
+    "published_iso": "2026-11-09T22:33:07+09:00",
+    "sort_key": 1794231187.0,
+    "excerpt": "The fate of Nvidia’s chief executive, who was romantically involved with a suspected Chinese spy, has wide implications for Silicon Valley, Washington and beyond.",
+    "matched": []
+   },
+   {
+    "id": "46f375beb9",
+    "title": "China Rejects Espionage Claims Involving Nvidia C.E.O. Jensen Huang",
+    "url": "https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/09 21:33",
+    "published_iso": "2026-11-09T21:33:37+09:00",
+    "sort_key": 1794227617.0,
+    "excerpt": "The controversy has intensified scrutiny of Mr. Huang’s ties to Beijing and sparked mixed reactions across Asia, where he is widely popular.",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "5f3b22b98f",
+    "title": "Senator Tells Google to Let Schools Disable A.I. Features in Search",
+    "url": "https://www.nytimes.com/2026/11/09/business/google-ai-school-features.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/09 19:04",
+    "published_iso": "2026-11-09T19:04:01+09:00",
+    "sort_key": 1794218641.0,
+    "excerpt": "The request came from Senator Edward J. Markey of Massachusetts, after Google said it would not turn off artificial intelligence tools for students using its search engine.",
+    "matched": []
+   },
+   {
+    "id": "eda661cf2b",
+    "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+    "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/09 16:10",
+    "published_iso": "2026-11-09T16:10:11+09:00",
+    "sort_key": 1794208211.0,
+    "excerpt": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
+    "matched": [
+     "NVDA"
+    ]
+   }
+  ],
+  "국내 경제언론": [
+   {
+    "id": "45412aef09",
+    "title": "젠슨 황 스캔들에 떨고 있는 네오클라우드…\"코어위브, 파멸의 악순환\"[박신영의 개장전 요것만]",
+    "url": "https://www.hankyung.com/article/202611106107i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/10 00:16",
+    "published_iso": "2026-11-10T00:16:29+09:00",
+    "sort_key": 1794237389.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "f3537ec409",
+    "title": "엔비디아 흔들리는 사이…구글,차세대 AI칩 2종 출시",
+    "url": "https://www.hankyung.com/article/202611096081i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/09 23:10",
+    "published_iso": "2026-11-09T23:10:36+09:00",
+    "sort_key": 1794233436.0,
+    "excerpt": "",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "e8cc6e6243",
+    "title": "국제유가, 5년 만에 최대 주간 하락…외교적 타결 낙관론 커져",
+    "url": "https://www.hankyung.com/article/202611096082i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/09 22:58",
+    "published_iso": "2026-11-09T22:58:58+09:00",
+    "sort_key": 1794232738.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "fbcc2eabc4",
+    "title": "새 빈틈 파고든 해커…금융 플랫폼 통해 법카 부정결제 잇따라",
+    "url": "https://www.hankyung.com/article/2026110960607",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/09 22:04",
+    "published_iso": "2026-11-09T22:04:30+09:00",
+    "sort_key": 1794229470.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "0878c4f8a6",
+    "title": "출발부터 'X-마스 한정판'이었다는데…뜻밖의 '맥주 바'가 등장한 이유 [현장+]",
+    "url": "https://www.hankyung.com/article/202611094924g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/09 22:00",
+    "published_iso": "2026-11-09T22:00:01+09:00",
+    "sort_key": 1794229201.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "79b0088495",
+    "title": "새 빈틈 노린 해커…금융 플랫폼 통해 법카 부정결제 잇단 시도",
+    "url": "https://www.yna.co.kr/view/AKR20261109157200002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/09 21:35",
+    "published_iso": "2026-11-09T21:35:34+09:00",
+    "sort_key": 1794227734.0,
+    "excerpt": "(서울=연합뉴스) 김지연 강류나 기자 = 스타트업들에 법인카드 발급·지출 관련 서비스를 제공하는 국내 핀테크 플랫폼이 해킹 공격을 받아 일부 카...",
+    "matched": []
+   },
+   {
+    "id": "cd35e11842",
+    "title": "젠슨 황, 엔비디아서 물러나나…'후계자' 얘기까지 나온 이유",
+    "url": "https://www.hankyung.com/article/202611096022i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/09 21:25",
+    "published_iso": "2026-11-09T21:25:14+09:00",
+    "sort_key": 1794227114.0,
+    "excerpt": "",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "d6c94d800e",
+    "title": "예약 열자마자 '먹통'…150만명 몰린 '크리스마스 성지' 어디길래 [현장+]",
+    "url": "https://www.hankyung.com/article/202611094272g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/09 21:00",
+    "published_iso": "2026-11-09T21:00:01+09:00",
+    "sort_key": 1794225601.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "34a84f31f2",
+    "title": "빵값 이어 음료값도 오른다…파리바게뜨, 16일부터 가격 인상",
+    "url": "https://www.hankyung.com/article/2026110960317",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/09 20:59",
+    "published_iso": "2026-11-09T20:59:13+09:00",
+    "sort_key": 1794225553.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "1468aa94a5",
+    "title": "파리바게뜨, 16일부터 제조 음료 10종 가격 평균 2.7% 인상",
+    "url": "https://www.yna.co.kr/view/AKR20261109156300030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/09 20:49",
+    "published_iso": "2026-11-09T20:49:34+09:00",
+    "sort_key": 1794224974.0,
+    "excerpt": "(서울=연합뉴스) 한주홍 기자 = 파리바게뜨는 오는 16일부터 제조 음료 10종의 가격을 평균 2.7% 올린다고 9일 밝혔다.",
+    "matched": []
+   },
+   {
+    "id": "f0802933b9",
+    "title": "\"업종별 하위 25%·할증률 40%로\"…'주가 누르기' 정부안 보완론(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20261109147051002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/09 20:26",
+    "published_iso": "2026-11-09T20:26:16+09:00",
+    "sort_key": 1794223576.0,
+    "excerpt": "(세종=연합뉴스) 송정은 기자 = 정부가 추진 중인 이른바 &apos;주가누르기 방지법&apos;의 상장주식 평가 방법과 관련해 업종별 하위 25%에 해당하는 저...",
+    "matched": []
+   },
+   {
+    "id": "7923637a28",
+    "title": "삼성화재, 英캐노피우스 지분 추가인수…해외사업 확대",
+    "url": "https://www.yna.co.kr/view/AKR20261109153600002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/09 19:31",
+    "published_iso": "2026-11-09T19:31:51+09:00",
+    "sort_key": 1794220311.0,
+    "excerpt": "(서울=연합뉴스) 배영경 기자 = 삼성화재[000810]가 영국 특수보험사 캐노피우스 지분을 추가 인수하며 해외사업을 확대한다.",
+    "matched": []
+   },
+   {
+    "id": "5ec02dcae8",
+    "title": "조의장 \"체감경기 회복 더뎌…선순환 회복이 조세정책 역할\"",
+    "url": "https://www.yna.co.kr/view/AKR20261109148000001",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/09 18:22",
+    "published_iso": "2026-11-09T18:22:38+09:00",
+    "sort_key": 1794216158.0,
+    "excerpt": "(서울=연합뉴스) 오규진 기자 = 조정식 국회의장은 9일 내년도 세법 개정안 심사와 관련, &quot;경제 선순환을 복원하는 것이 말 그대로 조세 정책의...",
+    "matched": []
+   },
+   {
+    "id": "5f558556ee",
+    "title": "\"업종별 하위 25%·할증률 40%로\"…'주가 누르기' 정부안 보완론",
+    "url": "https://www.yna.co.kr/view/AKR20261109147000002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/09 18:15",
+    "published_iso": "2026-11-09T18:15:08+09:00",
+    "sort_key": 1794215708.0,
+    "excerpt": "(세종=연합뉴스) 송정은 기자 = 정부가 추진 중인 이른바 &apos;주가누르기 방지법&apos;의 상장주식 평가 방법과 관련해 업종별 하위 25%에 해당하는 저...",
+    "matched": []
+   },
+   {
+    "id": "0ff2a7209b",
+    "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+    "url": "https://www.yna.co.kr/view/AKR20261109139700011",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/09 18:00",
+    "published_iso": "2026-11-09T18:00:00+09:00",
+    "sort_key": 1794214800.0,
+    "excerpt": "■ 젠슨 황 리더십 논란 속 서울 AI 데이…엔비디아는 답변 피해",
+    "matched": []
+   },
+   {
+    "id": "76a8ace5d7",
+    "title": "엔비디아, 업스테이지 등 국내 AI 스타트업 4사 투자한다",
+    "url": "https://www.yna.co.kr/view/AKR20261109146400017",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/09 17:57",
+    "published_iso": "2026-11-09T17:57:47+09:00",
+    "sort_key": 1794214667.0,
+    "excerpt": "(서울=연합뉴스) 권하영 기자 = 엔비디아가 국내 인공지능(AI) 스타트업 포인트투테크놀로지에 대한 투자를 발표했다.",
+    "matched": [
+     "NVDA"
+    ]
+   }
+  ]
+ },
+ "counts": {
+  "indices_ok": 8,
+  "indices_total": 8,
+  "stocks_ok": 9,
+  "stocks_total": 9,
+  "news": 27,
+  "news_new": 27
+ },
+ "errors": [
+  {
+   "stage": "news",
+   "target": "금융위원회 보도자료",
+   "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
+  }
+ ]
+}
