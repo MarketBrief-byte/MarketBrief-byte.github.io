@@ -1,2114 +1,3094 @@
 {
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13 07:26",
-  "weekday": "금",
-  "site": {
-    "title": "오늘의 경제 한 장",
-    "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
-    "author": "asqwkl3215",
-    "timezone_label": "KST",
-    "base_url": "https://marketbrief-byte.github.io"
+ "date": "2026-11-13",
+ "generated_at": "2026-11-13 11:36",
+ "weekday": "금",
+ "site": {
+  "title": "오늘의 경제 한 장",
+  "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
+  "author": "asqwkl3215",
+  "timezone_label": "KST",
+  "base_url": "https://marketbrief-byte.github.io"
+ },
+ "indices": [
+  {
+   "name": "코스피",
+   "symbol": "^KS11",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 5415.27,
+   "prev_close": 5059.69,
+   "change": 355.58,
+   "change_pct": 7.03,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1794536160,
+   "asof_date": null
   },
-  "indices": [
+  {
+   "name": "코스닥",
+   "symbol": "^KQ11",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 719.23,
+   "prev_close": 644.27,
+   "change": 74.96,
+   "change_pct": 11.63,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1794536160,
+   "asof_date": null
+  },
+  {
+   "name": "S&P 500",
+   "symbol": "^GSPC",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 7592.4,
+   "prev_close": 7353.73,
+   "change": 238.67,
+   "change_pct": 3.25,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1794520703,
+   "asof_date": null
+  },
+  {
+   "name": "나스닥",
+   "symbol": "^IXIC",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 25366.094,
+   "prev_close": 24315.0,
+   "change": 1051.094,
+   "change_pct": 4.32,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1794521759,
+   "asof_date": null
+  },
+  {
+   "name": "원/달러",
+   "symbol": "KRW=X",
+   "unit": "원",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 1332.98,
+   "prev_close": 1362.7,
+   "change": -29.72,
+   "change_pct": -2.18,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1794537362,
+   "asof_date": null
+  },
+  {
+   "name": "미 10년 국채",
+   "symbol": "^TNX",
+   "unit": "%",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 5.103,
+   "prev_close": 4.859,
+   "change": 0.244,
+   "change_pct": 5.02,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1794513594,
+   "asof_date": null
+  },
+  {
+   "name": "WTI 유가",
+   "symbol": "CL=F",
+   "unit": "$",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 88.46,
+   "prev_close": 86.85,
+   "change": 1.61,
+   "change_pct": 1.85,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1794536768,
+   "asof_date": null
+  },
+  {
+   "name": "금",
+   "symbol": "GC=F",
+   "unit": "$",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 3909.9,
+   "prev_close": 4114.5,
+   "change": -204.6,
+   "change_pct": -4.97,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1794536765,
+   "asof_date": null
+  }
+ ],
+ "watchlist": [
+  {
+   "name": "삼성전자",
+   "symbol": "005930.KS",
+   "unit": "",
+   "keywords": [
+    "삼성전자",
+    "Samsung Electronics",
+    "삼성 반도체"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 211500.0,
+   "prev_close": 188700.0,
+   "change": 22800.0,
+   "change_pct": 12.08,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1794536171,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "SK하이닉스",
+   "symbol": "000660.KS",
+   "unit": "",
+   "keywords": [
+    "SK하이닉스",
+    "SK Hynix",
+    "하이닉스",
+    "HBM"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 1265000.0,
+   "prev_close": 1132000.0,
+   "change": 133000.0,
+   "change_pct": 11.75,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1794536170,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "현대차",
+   "symbol": "005380.KS",
+   "unit": "",
+   "keywords": [
+    "현대차",
+    "현대자동차",
+    "Hyundai Motor"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 275250.0,
+   "prev_close": 279500.0,
+   "change": -4250.0,
+   "change_pct": -1.52,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1794536168,
+   "asof_date": null,
+   "news": [
     {
-      "name": "코스피",
-      "symbol": "^KS11",
-      "unit": "pt",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 5342.73,
-      "prev_close": 5383.8,
-      "change": -41.07,
-      "change_pct": -0.76,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1794481540,
-      "asof_date": null
-    },
-    {
-      "name": "코스닥",
-      "symbol": "^KQ11",
-      "unit": "pt",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 696.53,
-      "prev_close": 678.41,
-      "change": 18.12,
-      "change_pct": 2.67,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1794481540,
-      "asof_date": null
-    },
-    {
-      "name": "S&P 500",
-      "symbol": "^GSPC",
-      "unit": "pt",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 7592.4,
-      "prev_close": 7353.73,
-      "change": 238.67,
-      "change_pct": 3.25,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1794520703,
-      "asof_date": null
-    },
-    {
-      "name": "나스닥",
-      "symbol": "^IXIC",
-      "unit": "pt",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 25366.094,
-      "prev_close": 24315.0,
-      "change": 1051.094,
-      "change_pct": 4.32,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1794521759,
-      "asof_date": null
-    },
-    {
-      "name": "원/달러",
-      "symbol": "KRW=X",
-      "unit": "원",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 1334.35,
-      "prev_close": 1356.34,
-      "change": -21.99,
-      "change_pct": -1.62,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1794522370,
-      "asof_date": null
-    },
-    {
-      "name": "미 10년 국채",
-      "symbol": "^TNX",
-      "unit": "%",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 5.103,
-      "prev_close": 4.859,
-      "change": 0.244,
-      "change_pct": 5.02,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1794513594,
-      "asof_date": null
-    },
-    {
-      "name": "WTI 유가",
-      "symbol": "CL=F",
-      "unit": "$",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 88.7,
-      "prev_close": 86.85,
-      "change": 1.85,
-      "change_pct": 2.13,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1794520800,
-      "asof_date": null
-    },
-    {
-      "name": "금",
-      "symbol": "GC=F",
-      "unit": "$",
-      "keywords": [],
-      "ok": true,
-      "attempts": [],
-      "price": 3881.7,
-      "prev_close": 4114.5,
-      "change": -232.8,
-      "change_pct": -5.66,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1794520799,
-      "asof_date": null
+     "id": "fba8aabc49",
+     "title": "현대차, 쏘카·에이펙스모빌리티와 자율주행 생태계 위한 업무협약",
+     "url": "https://www.hankyung.com/article/202611134600g",
+     "source": "한국경제",
+     "published_kst": "11/13 09:57"
     }
-  ],
-  "watchlist": [
+   ]
+  },
+  {
+   "name": "LG에너지솔루션",
+   "symbol": "373220.KS",
+   "unit": "",
+   "keywords": [
+    "LG에너지솔루션",
+    "LG Energy Solution",
+    "이차전지",
+    "배터리"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 330000.0,
+   "prev_close": 337500.0,
+   "change": -7500.0,
+   "change_pct": -2.22,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1794536171,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "NAVER",
+   "symbol": "035420.KS",
+   "unit": "",
+   "keywords": [
+    "네이버",
+    "NAVER"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 181300.0,
+   "prev_close": 190200.0,
+   "change": -8900.0,
+   "change_pct": -4.68,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1794536170,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "엔비디아",
+   "symbol": "NVDA",
+   "unit": "",
+   "keywords": [
+    "엔비디아",
+    "Nvidia",
+    "NVDA"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 166.19,
+   "prev_close": 181.6,
+   "change": -15.41,
+   "change_pct": -8.49,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1794517201,
+   "asof_date": null,
+   "news": [
     {
-      "name": "삼성전자",
-      "symbol": "005930.KS",
-      "unit": "",
-      "keywords": [
-        "삼성전자",
-        "Samsung Electronics",
-        "삼성 반도체"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 208000.0,
-      "prev_close": 201500.0,
-      "change": 6500.0,
-      "change_pct": 3.23,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1794465005,
-      "asof_date": null,
-      "news": []
+     "id": "fef3c14b26",
+     "title": "젠슨 황, 엔비디아 떠났지만…세 번째 '불륜 의혹' 터졌다",
+     "url": "https://www.hankyung.com/article/2026111340177",
+     "source": "한국경제",
+     "published_kst": "11/13 06:15"
     },
     {
-      "name": "SK하이닉스",
-      "symbol": "000660.KS",
-      "unit": "",
-      "keywords": [
-        "SK하이닉스",
-        "SK Hynix",
-        "하이닉스",
-        "HBM"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 1254000.0,
-      "prev_close": 1264000.0,
-      "change": -10000.0,
-      "change_pct": -0.79,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1794465011,
-      "asof_date": null,
-      "news": []
+     "id": "8af87b8fd6",
+     "title": "젠슨 황 엔비디아 CEO 퇴진...엔비디아 주가 '급락'",
+     "url": "https://www.hankyung.com/article/202611123920i",
+     "source": "한국경제",
+     "published_kst": "11/12 23:38"
     },
     {
-      "name": "현대차",
-      "symbol": "005380.KS",
-      "unit": "",
-      "keywords": [
-        "현대차",
-        "현대자동차",
-        "Hyundai Motor"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 266500.0,
-      "prev_close": 293500.0,
-      "change": -27000.0,
-      "change_pct": -9.2,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1794465024,
-      "asof_date": null,
-      "news": []
+     "id": "39669d2d6e",
+     "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
+     "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
+     "source": "NYT Business",
+     "published_kst": "11/13 10:28"
     },
     {
-      "name": "LG에너지솔루션",
-      "symbol": "373220.KS",
-      "unit": "",
-      "keywords": [
-        "LG에너지솔루션",
-        "LG Energy Solution",
-        "이차전지",
-        "배터리"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 329500.0,
-      "prev_close": 346000.0,
-      "change": -16500.0,
-      "change_pct": -4.77,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1794465013,
-      "asof_date": null,
-      "news": []
+     "id": "ea7faee116",
+     "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+     "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "published_kst": "11/13 08:34"
     },
     {
-      "name": "NAVER",
-      "symbol": "035420.KS",
-      "unit": "",
-      "keywords": [
-        "네이버",
-        "NAVER"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 181800.0,
-      "prev_close": 184900.0,
-      "change": -3100.0,
-      "change_pct": -1.68,
-      "currency": "KRW",
-      "source": "yahoo",
-      "asof_epoch": 1794465022,
-      "asof_date": null,
-      "news": []
+     "id": "54870133dd",
+     "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+     "url": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
+     "source": "NYT Business",
+     "published_kst": "11/13 07:54"
     },
     {
-      "name": "엔비디아",
-      "symbol": "NVDA",
-      "unit": "",
-      "keywords": [
-        "엔비디아",
-        "Nvidia",
-        "NVDA"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 166.19,
-      "prev_close": 181.6,
-      "change": -15.41,
-      "change_pct": -8.49,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1794517201,
-      "asof_date": null,
-      "news": [
-        {
-          "id": "fef3c14b26",
-          "title": "젠슨 황, 엔비디아 떠났지만…세 번째 '불륜 의혹' 터졌다",
-          "url": "https://www.hankyung.com/article/2026111340177",
-          "source": "한국경제",
-          "published_kst": "11/13 06:15"
-        },
-        {
-          "id": "8af87b8fd6",
-          "title": "젠슨 황 엔비디아 CEO 퇴진...엔비디아 주가 '급락'",
-          "url": "https://www.hankyung.com/article/202611123920i",
-          "source": "한국경제",
-          "published_kst": "11/12 23:38"
-        },
-        {
-          "id": "dad6a06606",
-          "title": "Jensen Huang’s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving",
-          "url": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html",
-          "source": "NYT Business",
-          "published_kst": "11/13 02:26"
-        },
-        {
-          "id": "a3d887525c",
-          "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
-          "url": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
-          "source": "NYT Business",
-          "published_kst": "11/13 00:53"
-        },
-        {
-          "id": "fc7bcb3f23",
-          "title": "Jensen Huang’s Affairs That Upended Nvidia: Timeline of Events",
-          "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
-          "source": "NYT Business",
-          "published_kst": "11/13 00:51"
-        },
-        {
-          "id": "a020bde731",
-          "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-          "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "published_kst": "11/13 00:10"
-        },
-        {
-          "id": "ae07e93979",
-          "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
-          "url": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
-          "source": "NYT Business",
-          "published_kst": "11/12 23:35"
-        },
-        {
-          "id": "3ce081d2b6",
-          "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
-          "url": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
-          "source": "CNBC Finance",
-          "published_kst": "11/12 16:28"
-        }
-      ]
+     "id": "dad6a06606",
+     "title": "Jensen Huang’s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving",
+     "url": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html",
+     "source": "NYT Business",
+     "published_kst": "11/13 02:26"
     },
     {
-      "name": "애플",
-      "symbol": "AAPL",
-      "unit": "",
-      "keywords": [
-        "애플",
-        "Apple",
-        "AAPL"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 354.88,
-      "prev_close": 344.17,
-      "change": 10.71,
-      "change_pct": 3.11,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1794517201,
-      "asof_date": null,
-      "news": []
+     "id": "a3d887525c",
+     "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
+     "url": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
+     "source": "NYT Business",
+     "published_kst": "11/13 00:53"
     },
     {
-      "name": "테슬라",
-      "symbol": "TSLA",
-      "unit": "",
-      "keywords": [
-        "테슬라",
-        "Tesla",
-        "TSLA"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 397.45,
-      "prev_close": 343.69,
-      "change": 53.76,
-      "change_pct": 15.64,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1794517200,
-      "asof_date": null,
-      "news": []
+     "id": "fc7bcb3f23",
+     "title": "Jensen Huang’s Affairs That Upended Nvidia: Timeline of Events",
+     "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
+     "source": "NYT Business",
+     "published_kst": "11/13 00:51"
     },
     {
-      "name": "마이크로소프트",
-      "symbol": "MSFT",
-      "unit": "",
-      "keywords": [
-        "마이크로소프트",
-        "Microsoft",
-        "MSFT"
-      ],
-      "ok": true,
-      "attempts": [],
-      "price": 523.0,
-      "prev_close": 535.93,
-      "change": -12.93,
-      "change_pct": -2.41,
-      "currency": "USD",
-      "source": "yahoo",
-      "asof_epoch": 1794517201,
-      "asof_date": null,
-      "news": [
-        {
-          "id": "89a9e07870",
-          "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
-          "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
-          "source": "NYT Business",
-          "published_kst": "11/13 07:21"
-        }
-      ]
+     "id": "a020bde731",
+     "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+     "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "published_kst": "11/13 00:10"
+    },
+    {
+     "id": "ae07e93979",
+     "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
+     "url": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
+     "source": "NYT Business",
+     "published_kst": "11/12 23:35"
+    },
+    {
+     "id": "3ce081d2b6",
+     "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
+     "url": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
+     "source": "CNBC Finance",
+     "published_kst": "11/12 16:28"
     }
-  ],
-  "news": [
+   ]
+  },
+  {
+   "name": "애플",
+   "symbol": "AAPL",
+   "unit": "",
+   "keywords": [
+    "애플",
+    "Apple",
+    "AAPL"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 354.88,
+   "prev_close": 344.17,
+   "change": 10.71,
+   "change_pct": 3.11,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1794517201,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "테슬라",
+   "symbol": "TSLA",
+   "unit": "",
+   "keywords": [
+    "테슬라",
+    "Tesla",
+    "TSLA"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 397.45,
+   "prev_close": 343.69,
+   "change": 53.76,
+   "change_pct": 15.64,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1794517200,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "마이크로소프트",
+   "symbol": "MSFT",
+   "unit": "",
+   "keywords": [
+    "마이크로소프트",
+    "Microsoft",
+    "MSFT"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 523.0,
+   "prev_close": 535.93,
+   "change": -12.93,
+   "change_pct": -2.41,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1794517201,
+   "asof_date": null,
+   "news": [
     {
-      "id": "89a9e07870",
-      "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
-      "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/13 07:21",
-      "published_iso": "2026-11-13T07:21:48+09:00",
-      "sort_key": 1794522108.0,
-      "excerpt": "The company said that some of its servers were unexpectedly unavailable, straining the remaining infrastructure, and that it was working to bring users back online.",
-      "matched": [
-        "MSFT"
-      ],
-      "analysis": {
-        "summary": "마이크로소프트 아웃룩·팀즈 등 서비스 장애",
-        "impact": "시장 영향은 제한적",
-        "affected": "마이크로소프트"
-      }
+     "id": "363c84ee64",
+     "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+     "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "published_kst": "11/13 10:53"
     },
     {
-      "id": "d0c084a2e6",
-      "title": "15년 넘게 방치된 송도 길재단 법인 땅, 100억원에 환수한다",
-      "url": "https://www.yna.co.kr/view/AKR20261112083200065",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/13 07:17",
-      "published_iso": "2026-11-13T07:17:00+09:00",
-      "sort_key": 1794521820.0,
-      "excerpt": "(인천=연합뉴스) 홍현기 기자 = 길의료재단을 최대주주로 둔 법인 비알씨(BRC)가 공공기관으로부터 매입한 땅을 15년 이상 개발하지 않은 채 ...",
-      "matched": [],
-      "analysis": {
-        "summary": "15년 넘게 방치된 송도 길재단 법인 땅 100억 원에 환수",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "65a29f5f84",
-      "title": "\"우리의 우상인데…\" 젠슨 황 퇴진에 직원들도 충격 빠졌다",
-      "url": "https://www.hankyung.com/article/2026111340337",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/13 06:40",
-      "published_iso": "2026-11-13T06:40:49+09:00",
-      "sort_key": 1794519649.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "젠슨 황 퇴진에 엔비디아 직원들도 충격",
-        "impact": "엔비디아 조직 동요",
-        "affected": "엔비디아"
-      }
-    },
-    {
-      "id": "8119faad50",
-      "title": "[반려동물] \"겨울철 털뭉치도 건조해요\"…펫 스킨케어 시장 활기",
-      "url": "https://www.yna.co.kr/view/AKR20261112142700030",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/13 06:30",
-      "published_iso": "2026-11-13T06:30:00+09:00",
-      "sort_key": 1794519000.0,
-      "excerpt": "(서울=연합뉴스) 김세린 기자 = 겨울철 건조한 날씨에 반려견과 반려묘의 피부 보습과 목욕 등에 대한 관심이 커지면서 반려동물 스킨케어(피부관리...",
-      "matched": [],
-      "analysis": {
-        "summary": "겨울철 반려동물 스킨케어 시장 활기",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "fef3c14b26",
-      "title": "젠슨 황, 엔비디아 떠났지만…세 번째 '불륜 의혹' 터졌다",
-      "url": "https://www.hankyung.com/article/2026111340177",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/13 06:15",
-      "published_iso": "2026-11-13T06:15:58+09:00",
-      "sort_key": 1794518158.0,
-      "excerpt": "",
-      "matched": [
-        "NVDA"
-      ],
-      "analysis": {
-        "summary": "엔비디아를 떠난 젠슨 황에게 세 번째 불륜 의혹",
-        "impact": "시장 영향은 제한적",
-        "affected": "엔비디아"
-      }
-    },
-    {
-      "id": "9ae79a80c7",
-      "title": "\"8500원 떡 사다주면 2만원\"…한국서 벌어진 '기막힌 풍경'",
-      "url": "https://www.hankyung.com/article/2026111235811",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/13 06:00",
-      "published_iso": "2026-11-13T06:00:21+09:00",
-      "sort_key": 1794517221.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "8,500원 떡 대신 사다 주면 2만 원 — 구매 대행 풍경",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "b1be993a28",
-      "title": "싼타페 사려다 흔들리겠네…공간 키우고 연비 잡은 '신형 투싼' [신차털기]",
-      "url": "https://www.hankyung.com/article/202611122737g",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/13 06:00",
-      "published_iso": "2026-11-13T06:00:09+09:00",
-      "sort_key": 1794517209.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "공간 키우고 연비 잡은 신형 투싼 시승기",
-        "impact": "시장 영향은 제한적",
-        "affected": "현대차"
-      }
-    },
-    {
-      "id": "494835c11e",
-      "title": "서울 아파트 거래신청 두달째 증가…강남3구 가격 하락폭 커져",
-      "url": "https://www.yna.co.kr/view/AKR20261112176200004",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/13 06:00",
-      "published_iso": "2026-11-13T06:00:04+09:00",
-      "sort_key": 1794517204.0,
-      "excerpt": "(서울=연합뉴스) 김동규 기자 = 지난달 서울 아파트 토지거래허가 신청 건수가 두 달 연속 증가한 것으로 나타났다.",
-      "matched": [],
-      "analysis": {
-        "summary": "서울 아파트 거래 신청 두 달째 증가 — 강남3구 가격 하락폭 확대",
-        "impact": "강남 집값 하락세",
-        "affected": "부동산"
-      }
-    },
-    {
-      "id": "2ee8694721",
-      "title": "환율·유가 동반 하락에 10월 수입물가 1.8%↓",
-      "url": "https://www.yna.co.kr/view/AKR20261112167900002",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/13 06:00",
-      "published_iso": "2026-11-13T06:00:03+09:00",
-      "sort_key": 1794517203.0,
-      "excerpt": "(서울=연합뉴스) 채새롬 기자 = 지난달 원/달러 환율과 국제유가가 함께 하락하면서 수입물가지수가 한 달 만에 하락 전환했다.",
-      "matched": [],
-      "analysis": {
-        "summary": "환율·유가가 함께 내려 10월 수입물가 1.8% 하락",
-        "impact": "국내 물가 부담 완화",
-        "affected": "국내 물가, 국고채",
-        "important": true,
-        "important_tag": "거시경제",
-        "why_important": "환율·유가가 함께 내려 10월 수입물가가 1.8% 하락 — 국내 물가 부담이 줄어듦"
-      }
-    },
-    {
-      "id": "eb910eadd4",
-      "title": "하나은행, 금융위 상반기 기술금융 평가서 1위…2위 기업은행",
-      "url": "https://www.yna.co.kr/view/AKR20261112172100002",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/13 06:00",
-      "published_iso": "2026-11-13T06:00:02+09:00",
-      "sort_key": 1794517202.0,
-      "excerpt": "(서울=연합뉴스) 강류나 기자 = 하나은행이 올해 상반기 기술금융 테크평가에서 대형리그 1위를 차지했다.",
-      "matched": [],
-      "analysis": {
-        "summary": "하나은행이 금융위 기술금융 평가 1위",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "ffbb548523",
-      "title": "50대 남성들도 지갑 열었다…자취생 먹던 냉동식품 '대반전' [권용훈의 트렌드워치]",
-      "url": "https://www.hankyung.com/article/202611123887i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/13 06:00",
-      "published_iso": "2026-11-13T06:00:01+09:00",
-      "sort_key": 1794517201.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "50대 남성까지 냉동식품 구매 — 자취생 음식의 반전",
-        "impact": "냉동식품 시장 확대",
-        "affected": "식품"
-      }
-    },
-    {
-      "id": "1b8713b1e7",
-      "title": "'재건축 부담금' 법적 분쟁 조짐에…대형 로펌들 TF 속속 가동",
-      "url": "https://www.yna.co.kr/view/AKR20261112180600004",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/13 06:00",
-      "published_iso": "2026-11-13T06:00:00+09:00",
-      "sort_key": 1794517200.0,
-      "excerpt": "(서울=연합뉴스) 김빛나 기자 = 최근 서울 강남권 재건축 아파트 단지를 대상으로 부담금 부과 절차가 시작되면서 대형 로펌들도 전담 조직을 꾸리...",
-      "matched": [],
-      "analysis": {
-        "summary": "강남 재건축 부담금 분쟁 조짐에 대형 로펌들 TF 가동",
-        "impact": "재건축 사업 지연 가능성",
-        "affected": "건설"
-      }
-    },
-    {
-      "id": "ae58d3fd3c",
-      "title": "트럼프 \"이란과 합의 불필요\"에 국제유가 급등…브렌트유 3.3%↑",
-      "url": "https://www.yna.co.kr/view/AKR20261113010900072",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/13 05:50",
-      "published_iso": "2026-11-13T05:50:52+09:00",
-      "sort_key": 1794516652.0,
-      "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 12일(현지시간) 국제유가는 미국과 이란 간 협상에 대한 기대감이 꺾이면서 급등했다.",
-      "matched": [],
-      "analysis": {
-        "summary": "트럼프 '이란과 합의 필요 없다'에 국제 유가 급등 — 브렌트유 3.3% 상승",
-        "impact": "유가 다시 상승 — 물가·비용 부담",
-        "affected": "정유, 항공, 소매(OLLI·URBN)",
-        "important": true,
-        "important_tag": "거시경제",
-        "why_important": "트럼프 '이란과 합의 불필요' 발언에 브렌트유 3.3% 급등 — 내려가던 유가가 다시 튀어 소매주 비용 변수"
-      }
-    },
-    {
-      "id": "cc25a87212",
-      "title": "SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona",
-      "url": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/13 04:45",
-      "published_iso": "2026-11-13T04:45:26+09:00",
-      "sort_key": 1794512726.0,
-      "excerpt": "Elon Musk’s rocket and artificial intelligence company has spent billions to develop the giant warehouses full of computer servers that power the technology.",
-      "matched": [],
-      "analysis": {
-        "summary": "스페이스X가 텍사스·애리조나 데이터센터에 740억 달러 투자 계획",
-        "impact": "AI 인프라 투자 지속",
-        "affected": "데이터센터, 전력"
-      }
-    },
-    {
-      "id": "bd256d1db8",
-      "title": "Mortgage Rates Remain High as Affordability Challenges Persist",
-      "url": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/13 04:42",
-      "published_iso": "2026-11-13T04:42:30+09:00",
-      "sort_key": 1794512550.0,
-      "excerpt": "The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.",
-      "matched": [],
-      "analysis": {
-        "summary": "미국 30년 주택담보대출 금리 7.11% — 집 사기 여전히 어려워",
-        "impact": "미국 주택 시장 부진",
-        "affected": "미국 건설, 부동산"
-      }
-    },
-    {
-      "id": "1ba52ba6ab",
-      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-      "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-      "source": "CNBC Finance",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/13 04:05",
-      "published_iso": "2026-11-13T04:05:25+09:00",
-      "sort_key": 1794510325.0,
-      "excerpt": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
-      "matched": [],
-      "analysis": {
-        "summary": "연준이 2027년 10월 회의에서는 금리를 결정하지 않기로 — 내년 결정 회의 7번",
-        "impact": "시장 영향은 제한적",
-        "affected": "미국 국채"
-      }
-    },
-    {
-      "id": "482115bd33",
-      "title": "Fed Will Not Hold Policy Vote at October 2027 Meeting",
-      "url": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/13 03:51",
-      "published_iso": "2026-11-13T03:51:05+09:00",
-      "sort_key": 1794509465.0,
-      "excerpt": "The shift to a strategy meeting next October is just the first step in a broader plan by Kevin M. Warsh, the chairman of the Federal Reserve, to change how the central bank operates.",
-      "matched": [],
-      "analysis": {
-        "summary": "연준 2027년 10월 회의를 전략 회의로 전환",
-        "impact": "시장 영향은 제한적",
-        "affected": "미국 국채"
-      }
-    },
-    {
-      "id": "82ba770a29",
-      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-      "source": "연준(Fed) 보도자료",
-      "group": "중앙은행·국제기구",
-      "lang": "en",
-      "published_kst": "11/13 03:30",
-      "published_iso": "2026-11-13T03:30:00+09:00",
-      "sort_key": 1794508200.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "연준 2027년 지급결제 서비스 가격 공지",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "1dd8f2cf95",
-      "title": "What Do You Want to Know About New York Times Journalism and A.I.?",
-      "url": "https://www.nytimes.com/2026/11/12/insider/nyt-journalism-ai.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/13 03:05",
-      "published_iso": "2026-11-13T03:05:44+09:00",
-      "sort_key": 1794506744.0,
-      "excerpt": "New York Times journalists want to answer your questions about how we’re using artificial intelligence in our report.",
-      "matched": [],
-      "analysis": {
-        "summary": "뉴욕타임스 기자들이 AI 관련 독자 질문에 답함",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "b8182560b0",
-      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-      "source": "연준(Fed) 보도자료",
-      "group": "중앙은행·국제기구",
-      "lang": "en",
-      "published_kst": "11/13 02:45",
-      "published_iso": "2026-11-13T02:45:00+09:00",
-      "sort_key": 1794505500.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "연준 2027년 FOMC 일정 수정안 발표",
-        "impact": "시장 영향은 제한적",
-        "affected": "미국 국채"
-      }
-    },
-    {
-      "id": "dad6a06606",
-      "title": "Jensen Huang’s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving",
-      "url": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/13 02:26",
-      "published_iso": "2026-11-13T02:26:06+09:00",
-      "sort_key": 1794504366.0,
-      "excerpt": "Mr. Huang, the company’s co-founder, and his wife oversee a charitable foundation with about $9 billion in assets.",
-      "matched": [
-        "NVDA"
-      ],
-      "analysis": {
-        "summary": "젠슨 황 사임으로 수십억 달러 기부 계획이 복잡해질 수 있음",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "6baae670e7",
-      "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
-      "source": "연준(Fed) 보도자료",
-      "group": "중앙은행·국제기구",
-      "lang": "en",
-      "published_kst": "11/13 01:00",
-      "published_iso": "2026-11-13T01:00:00+09:00",
-      "sort_key": 1794499200.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "연준이 전 은행 직원에게 제재 조치",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "a3d887525c",
-      "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
-      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/13 00:53",
-      "published_iso": "2026-11-13T00:53:16+09:00",
-      "sort_key": 1794498796.0,
-      "excerpt": "News that the chipmaker’s chief executive, Jensen Huang, stepped down drove Nvidia’s stock down and reverberated across global markets.",
-      "matched": [
-        "NVDA"
-      ],
-      "analysis": {
-        "summary": "젠슨 황이 엔비디아 CEO에서 물러나자 주가 급락",
-        "impact": "AI 대장주 경영 공백 — 기술주 전반 부담",
-        "affected": "엔비디아, 반도체주, 나스닥",
-        "important": true,
-        "important_tag": "산업·실적",
-        "why_important": "젠슨 황이 엔비디아 CEO에서 사임, 주가 급락 — AI 붐을 이끈 대장주에 경영 공백"
-      }
-    },
-    {
-      "id": "fc7bcb3f23",
-      "title": "Jensen Huang’s Affairs That Upended Nvidia: Timeline of Events",
-      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/13 00:51",
-      "published_iso": "2026-11-13T00:51:40+09:00",
-      "sort_key": 1794498700.0,
-      "excerpt": "News of the Nvidia co-founder’s relationship with a suspected Chinese spy, and his affair with an executive who reports to him, prompted his exit from the multi-trillion-dollar company.",
-      "matched": [
-        "NVDA"
-      ],
-      "analysis": {
-        "summary": "엔비디아를 뒤흔든 젠슨 황 스캔들 일지",
-        "impact": "시장 영향은 제한적",
-        "affected": "엔비디아"
-      }
-    },
-    {
-      "id": "b04f871e66",
-      "title": "The superstar tech boss - who is Jensen Huang?",
-      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/13 00:48",
-      "published_iso": "2026-11-13T00:48:54+09:00",
-      "sort_key": 1794498534.0,
-      "excerpt": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-      "matched": [],
-      "analysis": {
-        "summary": "슈퍼스타 기술 CEO 젠슨 황은 누구인가",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "1b2d8eadc1",
-      "title": "Jensen Huang Joins a Growing Club: C.E.O.s Brought Down by Affairs",
-      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/13 00:33",
-      "published_iso": "2026-11-13T00:33:27+09:00",
-      "sort_key": 1794497607.0,
-      "excerpt": "The Nvidia founder and chief executive, who resigned on Thursday, is among a group of top bosses whose romantic relationships got them in trouble.",
-      "matched": [],
-      "analysis": {
-        "summary": "젠슨 황도 불륜으로 물러난 CEO 명단에 합류",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "679bb2233a",
-      "title": "Jensen Huang Was the Face of the A.I. Boom Powering the U.S. Economy",
-      "url": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/13 00:12",
-      "published_iso": "2026-11-13T00:12:43+09:00",
-      "sort_key": 1794496363.0,
-      "excerpt": "Nvidia’s ousted leader was a rhetorical and financial booster for investments that are driving economic growth.",
-      "matched": [],
-      "analysis": {
-        "summary": "젠슨 황은 미국 경제를 끌어온 AI 붐의 얼굴이었다",
-        "impact": "AI 투자 심리 위축 가능성",
-        "affected": "AI 관련주"
-      }
-    },
-    {
-      "id": "a020bde731",
-      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/13 00:10",
-      "published_iso": "2026-11-13T00:10:32+09:00",
-      "sort_key": 1794496232.0,
-      "excerpt": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
-      "matched": [
-        "NVDA"
-      ],
-      "analysis": {
-        "summary": "엔비디아 임시 CEO 콜레트 크레스와 차기 후보",
-        "impact": "경영 승계 불확실성",
-        "affected": "엔비디아"
-      }
-    },
-    {
-      "id": "6e0a9a6138",
-      "title": "Oil prices mixed after Trump says no Iran deal needed: 'We've got their Strait'",
-      "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-      "source": "CNBC Finance",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/13 00:08",
-      "published_iso": "2026-11-13T00:08:45+09:00",
-      "sort_key": 1794496125.0,
-      "excerpt": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
-      "matched": [],
-      "analysis": {
-        "summary": "트럼프 '이란 합의 불필요 — 해협은 우리가 쥐고 있다' 발언에 유가 혼조",
-        "impact": "유가 변동성 확대",
-        "affected": "정유"
-      }
-    },
-    {
-      "id": "8af87b8fd6",
-      "title": "젠슨 황 엔비디아 CEO 퇴진...엔비디아 주가 '급락'",
-      "url": "https://www.hankyung.com/article/202611123920i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/12 23:38",
-      "published_iso": "2026-11-12T23:38:29+09:00",
-      "sort_key": 1794494309.0,
-      "excerpt": "",
-      "matched": [
-        "NVDA"
-      ],
-      "analysis": {
-        "summary": "젠슨 황 엔비디아 CEO 퇴진에 주가 급락",
-        "impact": "AI 대장주 약세",
-        "affected": "엔비디아, 반도체주"
-      }
-    },
-    {
-      "id": "ae07e93979",
-      "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
-      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/12 23:35",
-      "published_iso": "2026-11-12T23:35:18+09:00",
-      "sort_key": 1794494118.0,
-      "excerpt": "Ms. Kress, the company’s chief financial officer, joined Nvidia in 2013.",
-      "matched": [
-        "NVDA"
-      ],
-      "analysis": {
-        "summary": "젠슨 황을 대신할 임시 CEO 콜레트 크레스는 누구",
-        "impact": "시장 영향은 제한적",
-        "affected": "엔비디아"
-      }
-    },
-    {
-      "id": "4e47f951ad",
-      "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
-      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/12 23:28",
-      "published_iso": "2026-11-12T23:28:03+09:00",
-      "sort_key": 1794493683.0,
-      "excerpt": "In a statement, Singapore said it held Alice Huang’s passport months after President Trump was briefed that she was a spy.",
-      "matched": [],
-      "analysis": {
-        "summary": "싱가포르 '앨리스 황·메가스피드 조사에 미국이 협조 안 해'",
-        "impact": "미국·싱가포르 마찰",
-        "affected": "엔비디아"
-      }
-    },
-    {
-      "id": "3aa1ebb620",
-      "title": "삼성, AI글라스 출격…\"실시간 통역·관광 가이드 가능\"",
-      "url": "https://www.hankyung.com/article/2026111238961",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/12 23:00",
-      "published_iso": "2026-11-12T23:00:04+09:00",
-      "sort_key": 1794492004.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "삼성이 실시간 통역·관광 안내가 되는 AI 안경 출시",
-        "impact": "신제품 기대",
-        "affected": "삼성전자"
-      }
-    },
-    {
-      "id": "f9197a2aea",
-      "title": "\"65만원이라 비싸다 했는데\"…삼성 'AI 안경' 써보고 '화들짝' [체험기]",
-      "url": "https://www.hankyung.com/article/202611122173i",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/12 23:00",
-      "published_iso": "2026-11-12T23:00:01+09:00",
-      "sort_key": 1794492001.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "65만 원 삼성 AI 안경 체험기",
-        "impact": "시장 영향은 제한적",
-        "affected": "삼성전자"
-      }
-    },
-    {
-      "id": "f46eeb9f1e",
-      "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
-      "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/12 22:27",
-      "published_iso": "2026-11-12T22:27:09+09:00",
-      "sort_key": 1794490029.0,
-      "excerpt": "The UK is seeing impressive growth, but will it last?",
-      "matched": [],
-      "analysis": {
-        "summary": "BBC '영국 경제가 뜻밖에 탄탄한 이유'",
-        "impact": "시장 영향은 제한적",
-        "affected": "파운드"
-      }
-    },
-    {
-      "id": "e599eb57e1",
-      "title": "Wall Street Sees the Writing on the Wall for Jensen Huang",
-      "url": "https://www.nytimes.com/2026/11/12/business/dealbook/wall-street-nvidia-huang-spy.html",
-      "source": "NYT Business",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/12 22:14",
-      "published_iso": "2026-11-12T22:14:39+09:00",
-      "sort_key": 1794489279.0,
-      "excerpt": "The company’s board is weighing the fate of its chief executive. Silicon Valley and Washington are steeling themselves for life without him.",
-      "matched": [],
-      "analysis": {
-        "summary": "월가가 본 젠슨 황 퇴진 신호",
-        "impact": "시장 영향은 제한적",
-        "affected": "엔비디아"
-      }
-    },
-    {
-      "id": "062d0e137e",
-      "title": "\"너무 좋더라\" 한국 온 외국인 몰려든 곳이…'1.8조' 긁었다 [트래블톡]",
-      "url": "https://www.hankyung.com/article/202611110252g",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/12 22:00",
-      "published_iso": "2026-11-12T22:00:01+09:00",
-      "sort_key": 1794488401.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "한국 온 외국인들이 1.8조 원 쓴 곳",
-        "impact": "관광 소비 확대",
-        "affected": "면세점, 유통"
-      }
-    },
-    {
-      "id": "97b8725a97",
-      "title": "경북 예천 소 농장서 구제역 발생…19일까지 전국 집중 소독",
-      "url": "https://www.yna.co.kr/view/AKR20261112181800030",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/12 21:40",
-      "published_iso": "2026-11-12T21:40:26+09:00",
-      "sort_key": 1794487226.0,
-      "excerpt": "(서울=연합뉴스) 한주홍 기자 = 경북 예천군의 소 사육 농장에서 구제역이 발생했다. 올해 들어 국내 구제역 발생 사례는 모두 16건으로 늘었다...",
-      "matched": [],
-      "analysis": {
-        "summary": "경북 예천 소 농장 구제역 — 19일까지 전국 집중 소독",
-        "impact": "축산물 가격 변동 가능성",
-        "affected": "축산"
-      }
-    },
-    {
-      "id": "a780ff1821",
-      "title": "인천 강화 산란계 농장서 고병원성 AI 발생…이달 들어 네 번째(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261112110051030",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/12 21:16",
-      "published_iso": "2026-11-12T21:16:01+09:00",
-      "sort_key": 1794485761.0,
-      "excerpt": "(서울=연합뉴스) 한주홍 기자 = 고병원성 조류인플루엔자(AI) 중앙사고수습본부는 12일 인천 강화군의 산란계 농장(4만8천여 마리 사육)에서 ...",
-      "matched": [],
-      "analysis": {
-        "summary": "인천 강화 산란계 농장 고병원성 조류인플루엔자 — 이달 네 번째",
-        "impact": "계란값 상승 가능성",
-        "affected": "계란, 식품"
-      }
-    },
-    {
-      "id": "eefe79e058",
-      "title": "\"한국이 해외보다 싸게 판다고?\"…와인 애호가들 몰리는 곳 [씬메이커]",
-      "url": "https://www.hankyung.com/article/202611110530g",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/12 21:00",
-      "published_iso": "2026-11-12T21:00:02+09:00",
-      "sort_key": 1794484802.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "한국이 해외보다 싸게 파는 와인 매장에 애호가 몰려",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "d4e1b1f8b7",
-      "title": "안경 벗은 이재용 모습에 '깜짝'…\"돌아가신 이건희 회장인 줄\" [영상]",
-      "url": "https://www.hankyung.com/article/2026111238247",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/12 20:30",
-      "published_iso": "2026-11-12T20:30:05+09:00",
-      "sort_key": 1794483005.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "안경 벗은 이재용 회장 모습 화제",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "2528b97aca",
-      "title": "\"작년엔 없어서 못 팔았는데\"…명동 약사들 한숨 쉬는 이유",
-      "url": "https://www.hankyung.com/article/202611110221g",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/12 20:00",
-      "published_iso": "2026-11-12T20:00:01+09:00",
-      "sort_key": 1794481201.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "작년엔 없어서 못 팔던 상품에 명동 약사들 한숨",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "f99fca9bfe",
-      "title": "은행지주CEO 연임할수록 의결 까다롭게…임추위 전원 독립이사로(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261111175651002",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/12 19:38",
-      "published_iso": "2026-11-12T19:38:16+09:00",
-      "sort_key": 1794479896.0,
-      "excerpt": "(서울=연합뉴스) 배영경 김지연 강류나 기자 = 은행지주 최고경영자(CEO)의 연임 횟수가 늘어날수록 임원후보추천위원회와 주주총회 의결 요건이 ...",
-      "matched": [],
-      "analysis": {
-        "summary": "은행지주 CEO 연임할수록 의결 까다롭게 — 임추위 전원 독립이사",
-        "impact": "금융지주 지배구조 강화",
-        "affected": "금융지주"
-      }
-    },
-    {
-      "id": "853934dfec",
-      "title": "세무사시험 160문제중 1개만 틀린 수석…'스마트안경' 의혹 제기",
-      "url": "https://www.yna.co.kr/view/AKR20261112172800530",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/12 19:15",
-      "published_iso": "2026-11-12T19:15:43+09:00",
-      "sort_key": 1794478543.0,
-      "excerpt": "(서울=연합뉴스) 한혜원 기자 = 올해 세무사 자격시험 수석 합격자가 1차 시험 4과목 160문제 중 단 한 문제만 틀리는 이례적인 고득점을 기...",
-      "matched": [],
-      "analysis": {
-        "summary": "세무사 시험 수석이 160문제 중 1개만 틀려 '스마트안경' 의혹",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "3fa37fd009",
-      "title": "롯데百, 15년 만에 브랜드 디자인 개편",
-      "url": "https://www.hankyung.com/article/2026111235801",
-      "source": "한국경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/12 18:11",
-      "published_iso": "2026-11-12T18:11:44+09:00",
-      "sort_key": 1794474704.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "롯데백화점 15년 만에 브랜드 디자인 개편",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "0aaa9b2b98",
-      "title": "[동정] 남재헌 해수부 차관, 가리비 양식업계와 간담회",
-      "url": "https://www.yna.co.kr/view/AKR20261112169200030",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/12 17:48",
-      "published_iso": "2026-11-12T17:48:39+09:00",
-      "sort_key": 1794473319.0,
-      "excerpt": "▲ 남재헌 해양수산부 차관은 12일 서울에서 가리비 양식 어업인과 업계 관계자들을 만나 포괄적·점진적 환태평양경제동반자협정(CPTPP) 가입에 ...",
-      "matched": [],
-      "analysis": {
-        "summary": "해수부 차관이 가리비 양식업계와 CPTPP 간담회",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "7cf3dfc9a1",
-      "title": "코인마켓 거래소 '플라이빗'도 해킹…\"고객 40명 정보 유출\"",
-      "url": "https://www.yna.co.kr/view/AKR20261112168500002",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/12 17:47",
-      "published_iso": "2026-11-12T17:47:32+09:00",
-      "sort_key": 1794473252.0,
-      "excerpt": "(서울=연합뉴스) 박수현 기자 = 코인마켓 가상자산 거래소 플라이빗에서도 해킹 사고로 고객 40명의 개인정보가 유출되는 사고가 발생했다.",
-      "matched": [],
-      "analysis": {
-        "summary": "코인 거래소 플라이빗도 해킹 — 고객 40명 정보 유출",
-        "impact": "가상자산 보안 우려",
-        "affected": "가상자산"
-      }
-    },
-    {
-      "id": "aefd771b53",
-      "title": "전남광주시, 대규모 사업에 지역 중소기업 참여 확대 모색",
-      "url": "https://www.yna.co.kr/view/AKR20261112164900054",
-      "source": "연합뉴스 경제",
-      "group": "국내 경제언론",
-      "lang": "ko",
-      "published_kst": "11/12 17:45",
-      "published_iso": "2026-11-12T17:45:30+09:00",
-      "sort_key": 1794473130.0,
-      "excerpt": "(전남광주=연합뉴스) 형민우 기자 = 전남광주통합특별시는 12일 광주 홀리데이인 호텔에서 중소기업계와 간담회를 열고, 대규모 투자사업에 지역 중...",
-      "matched": [],
-      "analysis": {
-        "summary": "전남광주시가 대규모 사업에 지역 중소기업 참여 확대 모색",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "40c065b006",
-      "title": "UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth'",
-      "url": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
-      "source": "CNBC Economy",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/12 17:02",
-      "published_iso": "2026-11-12T17:02:15+09:00",
-      "sort_key": 1794470535.0,
-      "excerpt": "The U.K. economy grew 0.7% in the third quarter of the year, in line with estimates.",
-      "matched": [],
-      "analysis": {
-        "summary": "영국 3분기 0.7% 성장 — AI가 '추가 성장 엔진'",
-        "impact": "영국 경기 개선",
-        "affected": "파운드"
-      }
-    },
-    {
-      "id": "3ce081d2b6",
-      "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
-      "url": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
-      "source": "CNBC Finance",
-      "group": "해외 경제언론",
-      "lang": "en",
-      "published_kst": "11/12 16:28",
-      "published_iso": "2026-11-12T16:28:48+09:00",
-      "sort_key": 1794468528.0,
-      "excerpt": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
-      "matched": [
-        "NVDA"
-      ],
-      "analysis": {
-        "summary": "엔비디아 CEO 스캔들로 중국 국가안전부에 관심 집중",
-        "impact": "미중 긴장 요인",
-        "affected": "엔비디아"
-      }
-    },
-    {
-      "id": "7481992e87",
-      "title": "제18회 국제금융기구 채용설명회 개최",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079925",
-      "source": "재정경제부 보도자료",
-      "group": "국내 정책당국",
-      "lang": "ko",
-      "published_kst": "11/12 09:00",
-      "published_iso": "2026-11-12T09:00:00+09:00",
-      "sort_key": 1794441600.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "국제금융기구 채용설명회",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "671067dc79",
-      "title": "범부처 민생안정지원단, 청년 취업지원 현장 점검",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079929",
-      "source": "재정경제부 보도자료",
-      "group": "국내 정책당국",
-      "lang": "ko",
-      "published_kst": "11/12 09:00",
-      "published_iso": "2026-11-12T09:00:00+09:00",
-      "sort_key": 1794441600.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "범부처 민생안정지원단 청년 취업지원 점검",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
-    },
-    {
-      "id": "ba5ee54cf1",
-      "title": "국방분야 혁신제품 최초 지정",
-      "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079935",
-      "source": "재정경제부 보도자료",
-      "group": "국내 정책당국",
-      "lang": "ko",
-      "published_kst": "11/12 09:00",
-      "published_iso": "2026-11-12T09:00:00+09:00",
-      "sort_key": 1794441600.0,
-      "excerpt": "",
-      "matched": [],
-      "analysis": {
-        "summary": "국방 분야 혁신제품 최초 지정",
-        "impact": "시장 영향 없음",
-        "affected": "해당 없음"
-      }
+     "id": "89a9e07870",
+     "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
+     "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+     "source": "NYT Business",
+     "published_kst": "11/13 07:21"
     }
-  ],
-  "news_groups": {
-    "해외 경제언론": [
-      {
-        "id": "89a9e07870",
-        "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
-        "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/13 07:21",
-        "published_iso": "2026-11-13T07:21:48+09:00",
-        "sort_key": 1794522108.0,
-        "excerpt": "The company said that some of its servers were unexpectedly unavailable, straining the remaining infrastructure, and that it was working to bring users back online.",
-        "matched": [
-          "MSFT"
-        ]
-      },
-      {
-        "id": "cc25a87212",
-        "title": "SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona",
-        "url": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/13 04:45",
-        "published_iso": "2026-11-13T04:45:26+09:00",
-        "sort_key": 1794512726.0,
-        "excerpt": "Elon Musk’s rocket and artificial intelligence company has spent billions to develop the giant warehouses full of computer servers that power the technology.",
-        "matched": []
-      },
-      {
-        "id": "bd256d1db8",
-        "title": "Mortgage Rates Remain High as Affordability Challenges Persist",
-        "url": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/13 04:42",
-        "published_iso": "2026-11-13T04:42:30+09:00",
-        "sort_key": 1794512550.0,
-        "excerpt": "The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.",
-        "matched": []
-      },
-      {
-        "id": "1ba52ba6ab",
-        "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-        "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-        "source": "CNBC Finance",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/13 04:05",
-        "published_iso": "2026-11-13T04:05:25+09:00",
-        "sort_key": 1794510325.0,
-        "excerpt": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
-        "matched": []
-      },
-      {
-        "id": "482115bd33",
-        "title": "Fed Will Not Hold Policy Vote at October 2027 Meeting",
-        "url": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/13 03:51",
-        "published_iso": "2026-11-13T03:51:05+09:00",
-        "sort_key": 1794509465.0,
-        "excerpt": "The shift to a strategy meeting next October is just the first step in a broader plan by Kevin M. Warsh, the chairman of the Federal Reserve, to change how the central bank operates.",
-        "matched": []
-      },
-      {
-        "id": "1dd8f2cf95",
-        "title": "What Do You Want to Know About New York Times Journalism and A.I.?",
-        "url": "https://www.nytimes.com/2026/11/12/insider/nyt-journalism-ai.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/13 03:05",
-        "published_iso": "2026-11-13T03:05:44+09:00",
-        "sort_key": 1794506744.0,
-        "excerpt": "New York Times journalists want to answer your questions about how we’re using artificial intelligence in our report.",
-        "matched": []
-      },
-      {
-        "id": "dad6a06606",
-        "title": "Jensen Huang’s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving",
-        "url": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/13 02:26",
-        "published_iso": "2026-11-13T02:26:06+09:00",
-        "sort_key": 1794504366.0,
-        "excerpt": "Mr. Huang, the company’s co-founder, and his wife oversee a charitable foundation with about $9 billion in assets.",
-        "matched": [
-          "NVDA"
-        ]
-      },
-      {
-        "id": "a3d887525c",
-        "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
-        "url": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/13 00:53",
-        "published_iso": "2026-11-13T00:53:16+09:00",
-        "sort_key": 1794498796.0,
-        "excerpt": "News that the chipmaker’s chief executive, Jensen Huang, stepped down drove Nvidia’s stock down and reverberated across global markets.",
-        "matched": [
-          "NVDA"
-        ]
-      },
-      {
-        "id": "fc7bcb3f23",
-        "title": "Jensen Huang’s Affairs That Upended Nvidia: Timeline of Events",
-        "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/13 00:51",
-        "published_iso": "2026-11-13T00:51:40+09:00",
-        "sort_key": 1794498700.0,
-        "excerpt": "News of the Nvidia co-founder’s relationship with a suspected Chinese spy, and his affair with an executive who reports to him, prompted his exit from the multi-trillion-dollar company.",
-        "matched": [
-          "NVDA"
-        ]
-      },
-      {
-        "id": "b04f871e66",
-        "title": "The superstar tech boss - who is Jensen Huang?",
-        "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/13 00:48",
-        "published_iso": "2026-11-13T00:48:54+09:00",
-        "sort_key": 1794498534.0,
-        "excerpt": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-        "matched": []
-      },
-      {
-        "id": "1b2d8eadc1",
-        "title": "Jensen Huang Joins a Growing Club: C.E.O.s Brought Down by Affairs",
-        "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/13 00:33",
-        "published_iso": "2026-11-13T00:33:27+09:00",
-        "sort_key": 1794497607.0,
-        "excerpt": "The Nvidia founder and chief executive, who resigned on Thursday, is among a group of top bosses whose romantic relationships got them in trouble.",
-        "matched": []
-      },
-      {
-        "id": "679bb2233a",
-        "title": "Jensen Huang Was the Face of the A.I. Boom Powering the U.S. Economy",
-        "url": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/13 00:12",
-        "published_iso": "2026-11-13T00:12:43+09:00",
-        "sort_key": 1794496363.0,
-        "excerpt": "Nvidia’s ousted leader was a rhetorical and financial booster for investments that are driving economic growth.",
-        "matched": []
-      },
-      {
-        "id": "a020bde731",
-        "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-        "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/13 00:10",
-        "published_iso": "2026-11-13T00:10:32+09:00",
-        "sort_key": 1794496232.0,
-        "excerpt": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
-        "matched": [
-          "NVDA"
-        ]
-      },
-      {
-        "id": "6e0a9a6138",
-        "title": "Oil prices mixed after Trump says no Iran deal needed: 'We've got their Strait'",
-        "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-        "source": "CNBC Finance",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/13 00:08",
-        "published_iso": "2026-11-13T00:08:45+09:00",
-        "sort_key": 1794496125.0,
-        "excerpt": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
-        "matched": []
-      },
-      {
-        "id": "ae07e93979",
-        "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
-        "url": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/12 23:35",
-        "published_iso": "2026-11-12T23:35:18+09:00",
-        "sort_key": 1794494118.0,
-        "excerpt": "Ms. Kress, the company’s chief financial officer, joined Nvidia in 2013.",
-        "matched": [
-          "NVDA"
-        ]
-      },
-      {
-        "id": "4e47f951ad",
-        "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
-        "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/12 23:28",
-        "published_iso": "2026-11-12T23:28:03+09:00",
-        "sort_key": 1794493683.0,
-        "excerpt": "In a statement, Singapore said it held Alice Huang’s passport months after President Trump was briefed that she was a spy.",
-        "matched": []
-      },
-      {
-        "id": "f46eeb9f1e",
-        "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
-        "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/12 22:27",
-        "published_iso": "2026-11-12T22:27:09+09:00",
-        "sort_key": 1794490029.0,
-        "excerpt": "The UK is seeing impressive growth, but will it last?",
-        "matched": []
-      },
-      {
-        "id": "e599eb57e1",
-        "title": "Wall Street Sees the Writing on the Wall for Jensen Huang",
-        "url": "https://www.nytimes.com/2026/11/12/business/dealbook/wall-street-nvidia-huang-spy.html",
-        "source": "NYT Business",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/12 22:14",
-        "published_iso": "2026-11-12T22:14:39+09:00",
-        "sort_key": 1794489279.0,
-        "excerpt": "The company’s board is weighing the fate of its chief executive. Silicon Valley and Washington are steeling themselves for life without him.",
-        "matched": []
-      },
-      {
-        "id": "40c065b006",
-        "title": "UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth'",
-        "url": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
-        "source": "CNBC Economy",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/12 17:02",
-        "published_iso": "2026-11-12T17:02:15+09:00",
-        "sort_key": 1794470535.0,
-        "excerpt": "The U.K. economy grew 0.7% in the third quarter of the year, in line with estimates.",
-        "matched": []
-      },
-      {
-        "id": "3ce081d2b6",
-        "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
-        "url": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
-        "source": "CNBC Finance",
-        "group": "해외 경제언론",
-        "lang": "en",
-        "published_kst": "11/12 16:28",
-        "published_iso": "2026-11-12T16:28:48+09:00",
-        "sort_key": 1794468528.0,
-        "excerpt": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
-        "matched": [
-          "NVDA"
-        ]
-      }
-    ],
-    "국내 경제언론": [
-      {
-        "id": "d0c084a2e6",
-        "title": "15년 넘게 방치된 송도 길재단 법인 땅, 100억원에 환수한다",
-        "url": "https://www.yna.co.kr/view/AKR20261112083200065",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/13 07:17",
-        "published_iso": "2026-11-13T07:17:00+09:00",
-        "sort_key": 1794521820.0,
-        "excerpt": "(인천=연합뉴스) 홍현기 기자 = 길의료재단을 최대주주로 둔 법인 비알씨(BRC)가 공공기관으로부터 매입한 땅을 15년 이상 개발하지 않은 채 ...",
-        "matched": []
-      },
-      {
-        "id": "65a29f5f84",
-        "title": "\"우리의 우상인데…\" 젠슨 황 퇴진에 직원들도 충격 빠졌다",
-        "url": "https://www.hankyung.com/article/2026111340337",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/13 06:40",
-        "published_iso": "2026-11-13T06:40:49+09:00",
-        "sort_key": 1794519649.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "8119faad50",
-        "title": "[반려동물] \"겨울철 털뭉치도 건조해요\"…펫 스킨케어 시장 활기",
-        "url": "https://www.yna.co.kr/view/AKR20261112142700030",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/13 06:30",
-        "published_iso": "2026-11-13T06:30:00+09:00",
-        "sort_key": 1794519000.0,
-        "excerpt": "(서울=연합뉴스) 김세린 기자 = 겨울철 건조한 날씨에 반려견과 반려묘의 피부 보습과 목욕 등에 대한 관심이 커지면서 반려동물 스킨케어(피부관리...",
-        "matched": []
-      },
-      {
-        "id": "fef3c14b26",
-        "title": "젠슨 황, 엔비디아 떠났지만…세 번째 '불륜 의혹' 터졌다",
-        "url": "https://www.hankyung.com/article/2026111340177",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/13 06:15",
-        "published_iso": "2026-11-13T06:15:58+09:00",
-        "sort_key": 1794518158.0,
-        "excerpt": "",
-        "matched": [
-          "NVDA"
-        ]
-      },
-      {
-        "id": "9ae79a80c7",
-        "title": "\"8500원 떡 사다주면 2만원\"…한국서 벌어진 '기막힌 풍경'",
-        "url": "https://www.hankyung.com/article/2026111235811",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/13 06:00",
-        "published_iso": "2026-11-13T06:00:21+09:00",
-        "sort_key": 1794517221.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "b1be993a28",
-        "title": "싼타페 사려다 흔들리겠네…공간 키우고 연비 잡은 '신형 투싼' [신차털기]",
-        "url": "https://www.hankyung.com/article/202611122737g",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/13 06:00",
-        "published_iso": "2026-11-13T06:00:09+09:00",
-        "sort_key": 1794517209.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "494835c11e",
-        "title": "서울 아파트 거래신청 두달째 증가…강남3구 가격 하락폭 커져",
-        "url": "https://www.yna.co.kr/view/AKR20261112176200004",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/13 06:00",
-        "published_iso": "2026-11-13T06:00:04+09:00",
-        "sort_key": 1794517204.0,
-        "excerpt": "(서울=연합뉴스) 김동규 기자 = 지난달 서울 아파트 토지거래허가 신청 건수가 두 달 연속 증가한 것으로 나타났다.",
-        "matched": []
-      },
-      {
-        "id": "2ee8694721",
-        "title": "환율·유가 동반 하락에 10월 수입물가 1.8%↓",
-        "url": "https://www.yna.co.kr/view/AKR20261112167900002",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/13 06:00",
-        "published_iso": "2026-11-13T06:00:03+09:00",
-        "sort_key": 1794517203.0,
-        "excerpt": "(서울=연합뉴스) 채새롬 기자 = 지난달 원/달러 환율과 국제유가가 함께 하락하면서 수입물가지수가 한 달 만에 하락 전환했다.",
-        "matched": []
-      },
-      {
-        "id": "eb910eadd4",
-        "title": "하나은행, 금융위 상반기 기술금융 평가서 1위…2위 기업은행",
-        "url": "https://www.yna.co.kr/view/AKR20261112172100002",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/13 06:00",
-        "published_iso": "2026-11-13T06:00:02+09:00",
-        "sort_key": 1794517202.0,
-        "excerpt": "(서울=연합뉴스) 강류나 기자 = 하나은행이 올해 상반기 기술금융 테크평가에서 대형리그 1위를 차지했다.",
-        "matched": []
-      },
-      {
-        "id": "ffbb548523",
-        "title": "50대 남성들도 지갑 열었다…자취생 먹던 냉동식품 '대반전' [권용훈의 트렌드워치]",
-        "url": "https://www.hankyung.com/article/202611123887i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/13 06:00",
-        "published_iso": "2026-11-13T06:00:01+09:00",
-        "sort_key": 1794517201.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "1b8713b1e7",
-        "title": "'재건축 부담금' 법적 분쟁 조짐에…대형 로펌들 TF 속속 가동",
-        "url": "https://www.yna.co.kr/view/AKR20261112180600004",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/13 06:00",
-        "published_iso": "2026-11-13T06:00:00+09:00",
-        "sort_key": 1794517200.0,
-        "excerpt": "(서울=연합뉴스) 김빛나 기자 = 최근 서울 강남권 재건축 아파트 단지를 대상으로 부담금 부과 절차가 시작되면서 대형 로펌들도 전담 조직을 꾸리...",
-        "matched": []
-      },
-      {
-        "id": "ae58d3fd3c",
-        "title": "트럼프 \"이란과 합의 불필요\"에 국제유가 급등…브렌트유 3.3%↑",
-        "url": "https://www.yna.co.kr/view/AKR20261113010900072",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/13 05:50",
-        "published_iso": "2026-11-13T05:50:52+09:00",
-        "sort_key": 1794516652.0,
-        "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 12일(현지시간) 국제유가는 미국과 이란 간 협상에 대한 기대감이 꺾이면서 급등했다.",
-        "matched": []
-      },
-      {
-        "id": "8af87b8fd6",
-        "title": "젠슨 황 엔비디아 CEO 퇴진...엔비디아 주가 '급락'",
-        "url": "https://www.hankyung.com/article/202611123920i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/12 23:38",
-        "published_iso": "2026-11-12T23:38:29+09:00",
-        "sort_key": 1794494309.0,
-        "excerpt": "",
-        "matched": [
-          "NVDA"
-        ]
-      },
-      {
-        "id": "3aa1ebb620",
-        "title": "삼성, AI글라스 출격…\"실시간 통역·관광 가이드 가능\"",
-        "url": "https://www.hankyung.com/article/2026111238961",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/12 23:00",
-        "published_iso": "2026-11-12T23:00:04+09:00",
-        "sort_key": 1794492004.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "f9197a2aea",
-        "title": "\"65만원이라 비싸다 했는데\"…삼성 'AI 안경' 써보고 '화들짝' [체험기]",
-        "url": "https://www.hankyung.com/article/202611122173i",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/12 23:00",
-        "published_iso": "2026-11-12T23:00:01+09:00",
-        "sort_key": 1794492001.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "062d0e137e",
-        "title": "\"너무 좋더라\" 한국 온 외국인 몰려든 곳이…'1.8조' 긁었다 [트래블톡]",
-        "url": "https://www.hankyung.com/article/202611110252g",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/12 22:00",
-        "published_iso": "2026-11-12T22:00:01+09:00",
-        "sort_key": 1794488401.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "97b8725a97",
-        "title": "경북 예천 소 농장서 구제역 발생…19일까지 전국 집중 소독",
-        "url": "https://www.yna.co.kr/view/AKR20261112181800030",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/12 21:40",
-        "published_iso": "2026-11-12T21:40:26+09:00",
-        "sort_key": 1794487226.0,
-        "excerpt": "(서울=연합뉴스) 한주홍 기자 = 경북 예천군의 소 사육 농장에서 구제역이 발생했다. 올해 들어 국내 구제역 발생 사례는 모두 16건으로 늘었다...",
-        "matched": []
-      },
-      {
-        "id": "a780ff1821",
-        "title": "인천 강화 산란계 농장서 고병원성 AI 발생…이달 들어 네 번째(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261112110051030",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/12 21:16",
-        "published_iso": "2026-11-12T21:16:01+09:00",
-        "sort_key": 1794485761.0,
-        "excerpt": "(서울=연합뉴스) 한주홍 기자 = 고병원성 조류인플루엔자(AI) 중앙사고수습본부는 12일 인천 강화군의 산란계 농장(4만8천여 마리 사육)에서 ...",
-        "matched": []
-      },
-      {
-        "id": "eefe79e058",
-        "title": "\"한국이 해외보다 싸게 판다고?\"…와인 애호가들 몰리는 곳 [씬메이커]",
-        "url": "https://www.hankyung.com/article/202611110530g",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/12 21:00",
-        "published_iso": "2026-11-12T21:00:02+09:00",
-        "sort_key": 1794484802.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "d4e1b1f8b7",
-        "title": "안경 벗은 이재용 모습에 '깜짝'…\"돌아가신 이건희 회장인 줄\" [영상]",
-        "url": "https://www.hankyung.com/article/2026111238247",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/12 20:30",
-        "published_iso": "2026-11-12T20:30:05+09:00",
-        "sort_key": 1794483005.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "2528b97aca",
-        "title": "\"작년엔 없어서 못 팔았는데\"…명동 약사들 한숨 쉬는 이유",
-        "url": "https://www.hankyung.com/article/202611110221g",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/12 20:00",
-        "published_iso": "2026-11-12T20:00:01+09:00",
-        "sort_key": 1794481201.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "f99fca9bfe",
-        "title": "은행지주CEO 연임할수록 의결 까다롭게…임추위 전원 독립이사로(종합)",
-        "url": "https://www.yna.co.kr/view/AKR20261111175651002",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/12 19:38",
-        "published_iso": "2026-11-12T19:38:16+09:00",
-        "sort_key": 1794479896.0,
-        "excerpt": "(서울=연합뉴스) 배영경 김지연 강류나 기자 = 은행지주 최고경영자(CEO)의 연임 횟수가 늘어날수록 임원후보추천위원회와 주주총회 의결 요건이 ...",
-        "matched": []
-      },
-      {
-        "id": "853934dfec",
-        "title": "세무사시험 160문제중 1개만 틀린 수석…'스마트안경' 의혹 제기",
-        "url": "https://www.yna.co.kr/view/AKR20261112172800530",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/12 19:15",
-        "published_iso": "2026-11-12T19:15:43+09:00",
-        "sort_key": 1794478543.0,
-        "excerpt": "(서울=연합뉴스) 한혜원 기자 = 올해 세무사 자격시험 수석 합격자가 1차 시험 4과목 160문제 중 단 한 문제만 틀리는 이례적인 고득점을 기...",
-        "matched": []
-      },
-      {
-        "id": "3fa37fd009",
-        "title": "롯데百, 15년 만에 브랜드 디자인 개편",
-        "url": "https://www.hankyung.com/article/2026111235801",
-        "source": "한국경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/12 18:11",
-        "published_iso": "2026-11-12T18:11:44+09:00",
-        "sort_key": 1794474704.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "0aaa9b2b98",
-        "title": "[동정] 남재헌 해수부 차관, 가리비 양식업계와 간담회",
-        "url": "https://www.yna.co.kr/view/AKR20261112169200030",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/12 17:48",
-        "published_iso": "2026-11-12T17:48:39+09:00",
-        "sort_key": 1794473319.0,
-        "excerpt": "▲ 남재헌 해양수산부 차관은 12일 서울에서 가리비 양식 어업인과 업계 관계자들을 만나 포괄적·점진적 환태평양경제동반자협정(CPTPP) 가입에 ...",
-        "matched": []
-      },
-      {
-        "id": "7cf3dfc9a1",
-        "title": "코인마켓 거래소 '플라이빗'도 해킹…\"고객 40명 정보 유출\"",
-        "url": "https://www.yna.co.kr/view/AKR20261112168500002",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/12 17:47",
-        "published_iso": "2026-11-12T17:47:32+09:00",
-        "sort_key": 1794473252.0,
-        "excerpt": "(서울=연합뉴스) 박수현 기자 = 코인마켓 가상자산 거래소 플라이빗에서도 해킹 사고로 고객 40명의 개인정보가 유출되는 사고가 발생했다.",
-        "matched": []
-      },
-      {
-        "id": "aefd771b53",
-        "title": "전남광주시, 대규모 사업에 지역 중소기업 참여 확대 모색",
-        "url": "https://www.yna.co.kr/view/AKR20261112164900054",
-        "source": "연합뉴스 경제",
-        "group": "국내 경제언론",
-        "lang": "ko",
-        "published_kst": "11/12 17:45",
-        "published_iso": "2026-11-12T17:45:30+09:00",
-        "sort_key": 1794473130.0,
-        "excerpt": "(전남광주=연합뉴스) 형민우 기자 = 전남광주통합특별시는 12일 광주 홀리데이인 호텔에서 중소기업계와 간담회를 열고, 대규모 투자사업에 지역 중...",
-        "matched": []
-      }
-    ],
-    "중앙은행·국제기구": [
-      {
-        "id": "82ba770a29",
-        "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-        "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-        "source": "연준(Fed) 보도자료",
-        "group": "중앙은행·국제기구",
-        "lang": "en",
-        "published_kst": "11/13 03:30",
-        "published_iso": "2026-11-13T03:30:00+09:00",
-        "sort_key": 1794508200.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "b8182560b0",
-        "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-        "source": "연준(Fed) 보도자료",
-        "group": "중앙은행·국제기구",
-        "lang": "en",
-        "published_kst": "11/13 02:45",
-        "published_iso": "2026-11-13T02:45:00+09:00",
-        "sort_key": 1794505500.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "6baae670e7",
-        "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-        "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
-        "source": "연준(Fed) 보도자료",
-        "group": "중앙은행·국제기구",
-        "lang": "en",
-        "published_kst": "11/13 01:00",
-        "published_iso": "2026-11-13T01:00:00+09:00",
-        "sort_key": 1794499200.0,
-        "excerpt": "",
-        "matched": []
-      }
-    ],
-    "국내 정책당국": [
-      {
-        "id": "7481992e87",
-        "title": "제18회 국제금융기구 채용설명회 개최",
-        "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079925",
-        "source": "재정경제부 보도자료",
-        "group": "국내 정책당국",
-        "lang": "ko",
-        "published_kst": "11/12 09:00",
-        "published_iso": "2026-11-12T09:00:00+09:00",
-        "sort_key": 1794441600.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "671067dc79",
-        "title": "범부처 민생안정지원단, 청년 취업지원 현장 점검",
-        "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079929",
-        "source": "재정경제부 보도자료",
-        "group": "국내 정책당국",
-        "lang": "ko",
-        "published_kst": "11/12 09:00",
-        "published_iso": "2026-11-12T09:00:00+09:00",
-        "sort_key": 1794441600.0,
-        "excerpt": "",
-        "matched": []
-      },
-      {
-        "id": "ba5ee54cf1",
-        "title": "국방분야 혁신제품 최초 지정",
-        "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079935",
-        "source": "재정경제부 보도자료",
-        "group": "국내 정책당국",
-        "lang": "ko",
-        "published_kst": "11/12 09:00",
-        "published_iso": "2026-11-12T09:00:00+09:00",
-        "sort_key": 1794441600.0,
-        "excerpt": "",
-        "matched": []
-      }
+   ]
+  }
+ ],
+ "news": [
+  {
+   "id": "6501a89cfe",
+   "title": "이억원 \"증안펀드, 굉장히 긴급할 때 한시·예외적 사용\"",
+   "url": "https://www.yna.co.kr/view/AKR20261113080800002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 11:30",
+   "published_iso": "2026-11-13T11:30:03+09:00",
+   "sort_key": 1794537003.0,
+   "excerpt": "(서울=연합뉴스) 배영경 김지연 강류나 기자 = 이억원 금융위원장은 13일 증시안정펀드(증안펀드) 가동은 신중해야 한다는 입장을 밝혔다.",
+   "matched": []
+  },
+  {
+   "id": "de9036df2e",
+   "title": "국민연금 3분기 美주식 평가액, 전분기 대비 36억弗 증가",
+   "url": "https://www.yna.co.kr/view/AKR20261113078200008",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 11:23",
+   "published_iso": "2026-11-13T11:23:08+09:00",
+   "sort_key": 1794536588.0,
+   "excerpt": "(서울=연합뉴스) 황철환 기자 = 7월 글로벌 반도체 급락의 충격으로 국내 증시가 약세를 지속 중인 가운데서도 국민연금의 미국 보유주식 평가액은...",
+   "matched": []
+  },
+  {
+   "id": "6ce5eec08e",
+   "title": "서울시, 독산·대림·천호동 등 6곳 '신통기획 후보지' 추가선정",
+   "url": "https://www.yna.co.kr/view/AKR20261113041800004",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 11:15",
+   "published_iso": "2026-11-13T11:15:00+09:00",
+   "sort_key": 1794536100.0,
+   "excerpt": "(서울=연합뉴스) 김준태 기자 = 서울시는 지난달 30일과 이달 12일 두 차례에 걸쳐 &apos;2026년 제4차 신속통합기획(신통기획) 주택재개발 후...",
+   "matched": []
+  },
+  {
+   "id": "c002af5afa",
+   "title": "김제 지평선 쌀, 몽골 식탁 오른다…첫 수출 2t",
+   "url": "https://www.yna.co.kr/view/AKR20261113071500055",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 11:13",
+   "published_iso": "2026-11-13T11:13:04+09:00",
+   "sort_key": 1794535984.0,
+   "excerpt": "(김제=연합뉴스) 백도인 기자 = 전북 김제시 금만농협이 생산한 지평선 쌀이 몽골 수출길에 올랐다.",
+   "matched": []
+  },
+  {
+   "id": "18e057d73b",
+   "title": "창원상공회의소 새 회장 12월 15일 선출…현 회장은 불출마",
+   "url": "https://www.yna.co.kr/view/AKR20261113075500052",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 11:11",
+   "published_iso": "2026-11-13T11:11:11+09:00",
+   "sort_key": 1794535871.0,
+   "excerpt": "(창원=연합뉴스) 김선경 기자 = 창원상공회의소는 12월 15일 임시의원총회를 열고 6대 회장을 선출한다고 13일 밝혔다.",
+   "matched": []
+  },
+  {
+   "id": "6d9267624d",
+   "title": "수도권 아파트에 내년 1분기까지 4만4천 가구 입주",
+   "url": "https://www.yna.co.kr/view/AKR20261113072000003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 11:10",
+   "published_iso": "2026-11-13T11:10:00+09:00",
+   "sort_key": 1794535800.0,
+   "excerpt": "(서울=연합뉴스) 오예진 기자 = 서울을 포함한 수도권에서 내년 1분기까지 아파트 입주 물량이 4만4천가구에 이르는 것으로 나타났다.",
+   "matched": []
+  },
+  {
+   "id": "1047504748",
+   "title": "정부, 경기 판단 '회복 흐름'에서 '견조한 성장세'로 상향(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261113040251002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 11:04",
+   "published_iso": "2026-11-13T11:04:11+09:00",
+   "sort_key": 1794535451.0,
+   "excerpt": "(세종=연합뉴스) 안채원 기자 = 정부가 수출 호조와 주요 경제지표 개선에 힘입어 우리 경제가 견조한 성장세를 보이고 있다고 진단했다.",
+   "matched": []
+  },
+  {
+   "id": "884165c374",
+   "title": "\"점심은 제가 살게요\" 이재용, 李 대통령 앞에서 카드 꺼내 [영상]",
+   "url": "https://www.hankyung.com/article/202611134759H",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 11:02",
+   "published_iso": "2026-11-13T11:02:54+09:00",
+   "sort_key": 1794535374.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "8e8de30736",
+   "title": "\"싸게 사려고 '시간세' 냅니다\"…절약 위해 '시간' 투자하는 사람들 [트렌드+]",
+   "url": "https://www.hankyung.com/article/202611122735g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 11:00",
+   "published_iso": "2026-11-13T11:00:06+09:00",
+   "sort_key": 1794535206.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "696d82e701",
+   "title": "인도양 해저지형 4곳에 조선시대 지리학자 이름 붙인다",
+   "url": "https://www.yna.co.kr/view/AKR20261112126500051",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 11:00",
+   "published_iso": "2026-11-13T11:00:01+09:00",
+   "sort_key": 1794535201.0,
+   "excerpt": "(부산=연합뉴스) 이영재 기자 = 한국에서 약 1만㎞ 떨어진 인도양 해저 지형에 &apos;정상기&apos;, &apos;신경준&apos;, &apos;최한기&apos;, &apos;한백겸&apos; 등 조선시대 지...",
+   "matched": []
+  },
+  {
+   "id": "363c84ee64",
+   "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+   "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/13 10:53",
+   "published_iso": "2026-11-13T10:53:55+09:00",
+   "sort_key": 1794534835.0,
+   "excerpt": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+   "matched": [
+    "MSFT"
+   ]
+  },
+  {
+   "id": "70a983439a",
+   "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+   "url": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+   "source": "CNBC Finance",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/13 10:48",
+   "published_iso": "2026-11-13T10:48:50+09:00",
+   "sort_key": 1794534530.0,
+   "excerpt": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September.",
+   "matched": []
+  },
+  {
+   "id": "39669d2d6e",
+   "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
+   "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/13 10:28",
+   "published_iso": "2026-11-13T10:28:40+09:00",
+   "sort_key": 1794533320.0,
+   "excerpt": "Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like Megaspeed.",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "c3e050d4b2",
+   "title": "LS엠트론, 멕시코 사출성형기 시장 공략…현지 테크센터 신설",
+   "url": "https://www.hankyung.com/article/202611134696i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 10:27",
+   "published_iso": "2026-11-13T10:27:13+09:00",
+   "sort_key": 1794533233.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "6e19687964",
+   "title": "씨이랩, 3분기 누적 매출 64% 증가…수주잔고 102배 늘어",
+   "url": "https://www.hankyung.com/article/202611134666i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 10:17",
+   "published_iso": "2026-11-13T10:17:18+09:00",
+   "sort_key": 1794532638.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "d709c768a7",
+   "title": "Huang and Lutnick Summoned to Testify Before Congress",
+   "url": "https://www.nytimes.com/2026/11/12/business/jensen-huang-howard-lutnick-testify-capitol-hill.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/13 10:10",
+   "published_iso": "2026-11-13T10:10:19+09:00",
+   "sort_key": 1794532219.0,
+   "excerpt": "Senator Tim Scott said he had requested that the Nvidia co-founder and the commerce secretary appear before the Senate Banking Committee.",
+   "matched": []
+  },
+  {
+   "id": "fba8aabc49",
+   "title": "현대차, 쏘카·에이펙스모빌리티와 자율주행 생태계 위한 업무협약",
+   "url": "https://www.hankyung.com/article/202611134600g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 09:57",
+   "published_iso": "2026-11-13T09:57:40+09:00",
+   "sort_key": 1794531460.0,
+   "excerpt": "",
+   "matched": [
+    "005380.KS"
+   ]
+  },
+  {
+   "id": "3ae327d8e6",
+   "title": "켐트로스, 반도체 소재 매출 185% 급증…3분기 최대 실적",
+   "url": "https://www.hankyung.com/article/202611134546i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 09:55",
+   "published_iso": "2026-11-13T09:55:19+09:00",
+   "sort_key": 1794531319.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "f808c63a30",
+   "title": "이 대통령, 자본시장 간담회 주재…의무공개매수·코스닥 세그먼트 분리 논의",
+   "url": "https://www.hankyung.com/article/2026111344836",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 09:33",
+   "published_iso": "2026-11-13T09:33:41+09:00",
+   "sort_key": 1794530021.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "2575f51fc7",
+   "title": "\"직원 절반 자른다고?\"…中 발칵 뒤집은 회장의 한마디 [차이나 워치]",
+   "url": "https://www.hankyung.com/article/202611134440i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 09:27",
+   "published_iso": "2026-11-13T09:27:34+09:00",
+   "sort_key": 1794529654.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "9f4b56b096",
+   "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+   "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/13 09:13",
+   "published_iso": "2026-11-13T09:13:35+09:00",
+   "sort_key": 1794528815.0,
+   "excerpt": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+   "matched": []
+  },
+  {
+   "id": "a583573278",
+   "title": "권대영 1차관, 「월급방위대 TF」 킥오프 회의 개최",
+   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079949",
+   "source": "재정경제부 보도자료",
+   "group": "국내 정책당국",
+   "lang": "ko",
+   "published_kst": "11/13 09:00",
+   "published_iso": "2026-11-13T09:00:00+09:00",
+   "sort_key": 1794528000.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "532b8f3ec3",
+   "title": "[보도참고] 2026년 11월 최근 경제동향",
+   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079950",
+   "source": "재정경제부 보도자료",
+   "group": "국내 정책당국",
+   "lang": "ko",
+   "published_kst": "11/13 09:00",
+   "published_iso": "2026-11-13T09:00:00+09:00",
+   "sort_key": 1794528000.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "ea7faee116",
+   "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+   "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/13 08:34",
+   "published_iso": "2026-11-13T08:34:05+09:00",
+   "sort_key": 1794526445.0,
+   "excerpt": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "54870133dd",
+   "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+   "url": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/13 07:54",
+   "published_iso": "2026-11-13T07:54:19+09:00",
+   "sort_key": 1794524059.0,
+   "excerpt": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop.",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "89a9e07870",
+   "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
+   "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/13 07:21",
+   "published_iso": "2026-11-13T07:21:48+09:00",
+   "sort_key": 1794522108.0,
+   "excerpt": "The company said that some of its servers were unexpectedly unavailable, straining the remaining infrastructure, and that it was working to bring users back online.",
+   "matched": [
+    "MSFT"
+   ],
+   "analysis": {
+    "summary": "마이크로소프트 아웃룩·팀즈 등 서비스 장애",
+    "impact": "시장 영향은 제한적",
+    "affected": "마이크로소프트"
+   }
+  },
+  {
+   "id": "d0c084a2e6",
+   "title": "15년 넘게 방치된 송도 길재단 법인 땅, 100억원에 환수한다",
+   "url": "https://www.yna.co.kr/view/AKR20261112083200065",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 07:17",
+   "published_iso": "2026-11-13T07:17:00+09:00",
+   "sort_key": 1794521820.0,
+   "excerpt": "(인천=연합뉴스) 홍현기 기자 = 길의료재단을 최대주주로 둔 법인 비알씨(BRC)가 공공기관으로부터 매입한 땅을 15년 이상 개발하지 않은 채 ...",
+   "matched": [],
+   "analysis": {
+    "summary": "15년 넘게 방치된 송도 길재단 법인 땅 100억 원에 환수",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "65a29f5f84",
+   "title": "\"우리의 우상인데…\" 젠슨 황 퇴진에 직원들도 충격 빠졌다",
+   "url": "https://www.hankyung.com/article/2026111340337",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 06:40",
+   "published_iso": "2026-11-13T06:40:49+09:00",
+   "sort_key": 1794519649.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "젠슨 황 퇴진에 엔비디아 직원들도 충격",
+    "impact": "엔비디아 조직 동요",
+    "affected": "엔비디아"
+   }
+  },
+  {
+   "id": "8119faad50",
+   "title": "[반려동물] \"겨울철 털뭉치도 건조해요\"…펫 스킨케어 시장 활기",
+   "url": "https://www.yna.co.kr/view/AKR20261112142700030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 06:30",
+   "published_iso": "2026-11-13T06:30:00+09:00",
+   "sort_key": 1794519000.0,
+   "excerpt": "(서울=연합뉴스) 김세린 기자 = 겨울철 건조한 날씨에 반려견과 반려묘의 피부 보습과 목욕 등에 대한 관심이 커지면서 반려동물 스킨케어(피부관리...",
+   "matched": [],
+   "analysis": {
+    "summary": "겨울철 반려동물 스킨케어 시장 활기",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "fef3c14b26",
+   "title": "젠슨 황, 엔비디아 떠났지만…세 번째 '불륜 의혹' 터졌다",
+   "url": "https://www.hankyung.com/article/2026111340177",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 06:15",
+   "published_iso": "2026-11-13T06:15:58+09:00",
+   "sort_key": 1794518158.0,
+   "excerpt": "",
+   "matched": [
+    "NVDA"
+   ],
+   "analysis": {
+    "summary": "엔비디아를 떠난 젠슨 황에게 세 번째 불륜 의혹",
+    "impact": "시장 영향은 제한적",
+    "affected": "엔비디아"
+   }
+  },
+  {
+   "id": "9ae79a80c7",
+   "title": "\"8500원 떡 사다주면 2만원\"…한국서 벌어진 '기막힌 풍경'",
+   "url": "https://www.hankyung.com/article/2026111235811",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 06:00",
+   "published_iso": "2026-11-13T06:00:21+09:00",
+   "sort_key": 1794517221.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "8,500원 떡 대신 사다 주면 2만 원 — 구매 대행 풍경",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "b1be993a28",
+   "title": "싼타페 사려다 흔들리겠네…공간 키우고 연비 잡은 '신형 투싼' [신차털기]",
+   "url": "https://www.hankyung.com/article/202611122737g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 06:00",
+   "published_iso": "2026-11-13T06:00:09+09:00",
+   "sort_key": 1794517209.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "공간 키우고 연비 잡은 신형 투싼 시승기",
+    "impact": "시장 영향은 제한적",
+    "affected": "현대차"
+   }
+  },
+  {
+   "id": "494835c11e",
+   "title": "서울 아파트 거래신청 두달째 증가…강남3구 가격 하락폭 커져",
+   "url": "https://www.yna.co.kr/view/AKR20261112176200004",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 06:00",
+   "published_iso": "2026-11-13T06:00:04+09:00",
+   "sort_key": 1794517204.0,
+   "excerpt": "(서울=연합뉴스) 김동규 기자 = 지난달 서울 아파트 토지거래허가 신청 건수가 두 달 연속 증가한 것으로 나타났다.",
+   "matched": [],
+   "analysis": {
+    "summary": "서울 아파트 거래 신청 두 달째 증가 — 강남3구 가격 하락폭 확대",
+    "impact": "강남 집값 하락세",
+    "affected": "부동산"
+   }
+  },
+  {
+   "id": "2ee8694721",
+   "title": "환율·유가 동반 하락에 10월 수입물가 1.8%↓",
+   "url": "https://www.yna.co.kr/view/AKR20261112167900002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 06:00",
+   "published_iso": "2026-11-13T06:00:03+09:00",
+   "sort_key": 1794517203.0,
+   "excerpt": "(서울=연합뉴스) 채새롬 기자 = 지난달 원/달러 환율과 국제유가가 함께 하락하면서 수입물가지수가 한 달 만에 하락 전환했다.",
+   "matched": [],
+   "analysis": {
+    "summary": "환율·유가가 함께 내려 10월 수입물가 1.8% 하락",
+    "impact": "국내 물가 부담 완화",
+    "affected": "국내 물가, 국고채",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "환율·유가가 함께 내려 10월 수입물가가 1.8% 하락 — 국내 물가 부담이 줄어듦"
+   }
+  },
+  {
+   "id": "eb910eadd4",
+   "title": "하나은행, 금융위 상반기 기술금융 평가서 1위…2위 기업은행",
+   "url": "https://www.yna.co.kr/view/AKR20261112172100002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 06:00",
+   "published_iso": "2026-11-13T06:00:02+09:00",
+   "sort_key": 1794517202.0,
+   "excerpt": "(서울=연합뉴스) 강류나 기자 = 하나은행이 올해 상반기 기술금융 테크평가에서 대형리그 1위를 차지했다.",
+   "matched": [],
+   "analysis": {
+    "summary": "하나은행이 금융위 기술금융 평가 1위",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "ffbb548523",
+   "title": "50대 남성들도 지갑 열었다…자취생 먹던 냉동식품 '대반전' [권용훈의 트렌드워치]",
+   "url": "https://www.hankyung.com/article/202611123887i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 06:00",
+   "published_iso": "2026-11-13T06:00:01+09:00",
+   "sort_key": 1794517201.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "50대 남성까지 냉동식품 구매 — 자취생 음식의 반전",
+    "impact": "냉동식품 시장 확대",
+    "affected": "식품"
+   }
+  },
+  {
+   "id": "1b8713b1e7",
+   "title": "'재건축 부담금' 법적 분쟁 조짐에…대형 로펌들 TF 속속 가동",
+   "url": "https://www.yna.co.kr/view/AKR20261112180600004",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 06:00",
+   "published_iso": "2026-11-13T06:00:00+09:00",
+   "sort_key": 1794517200.0,
+   "excerpt": "(서울=연합뉴스) 김빛나 기자 = 최근 서울 강남권 재건축 아파트 단지를 대상으로 부담금 부과 절차가 시작되면서 대형 로펌들도 전담 조직을 꾸리...",
+   "matched": [],
+   "analysis": {
+    "summary": "강남 재건축 부담금 분쟁 조짐에 대형 로펌들 TF 가동",
+    "impact": "재건축 사업 지연 가능성",
+    "affected": "건설"
+   }
+  },
+  {
+   "id": "ae58d3fd3c",
+   "title": "트럼프 \"이란과 합의 불필요\"에 국제유가 급등…브렌트유 3.3%↑",
+   "url": "https://www.yna.co.kr/view/AKR20261113010900072",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/13 05:50",
+   "published_iso": "2026-11-13T05:50:52+09:00",
+   "sort_key": 1794516652.0,
+   "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 12일(현지시간) 국제유가는 미국과 이란 간 협상에 대한 기대감이 꺾이면서 급등했다.",
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프 '이란과 합의 필요 없다'에 국제 유가 급등 — 브렌트유 3.3% 상승",
+    "impact": "유가 다시 상승 — 물가·비용 부담",
+    "affected": "정유, 항공, 소매(OLLI·URBN)",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "트럼프 '이란과 합의 불필요' 발언에 브렌트유 3.3% 급등 — 내려가던 유가가 다시 튀어 소매주 비용 변수"
+   }
+  },
+  {
+   "id": "cc25a87212",
+   "title": "SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona",
+   "url": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/13 04:45",
+   "published_iso": "2026-11-13T04:45:26+09:00",
+   "sort_key": 1794512726.0,
+   "excerpt": "Elon Musk’s rocket and artificial intelligence company has spent billions to develop the giant warehouses full of computer servers that power the technology.",
+   "matched": [],
+   "analysis": {
+    "summary": "스페이스X가 텍사스·애리조나 데이터센터에 740억 달러 투자 계획",
+    "impact": "AI 인프라 투자 지속",
+    "affected": "데이터센터, 전력"
+   }
+  },
+  {
+   "id": "bd256d1db8",
+   "title": "Mortgage Rates Remain High as Affordability Challenges Persist",
+   "url": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/13 04:42",
+   "published_iso": "2026-11-13T04:42:30+09:00",
+   "sort_key": 1794512550.0,
+   "excerpt": "The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.",
+   "matched": [],
+   "analysis": {
+    "summary": "미국 30년 주택담보대출 금리 7.11% — 집 사기 여전히 어려워",
+    "impact": "미국 주택 시장 부진",
+    "affected": "미국 건설, 부동산"
+   }
+  },
+  {
+   "id": "1ba52ba6ab",
+   "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+   "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+   "source": "CNBC Finance",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/13 04:05",
+   "published_iso": "2026-11-13T04:05:25+09:00",
+   "sort_key": 1794510325.0,
+   "excerpt": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
+   "matched": [],
+   "analysis": {
+    "summary": "연준이 2027년 10월 회의에서는 금리를 결정하지 않기로 — 내년 결정 회의 7번",
+    "impact": "시장 영향은 제한적",
+    "affected": "미국 국채"
+   }
+  },
+  {
+   "id": "482115bd33",
+   "title": "Fed Will Not Hold Policy Vote at October 2027 Meeting",
+   "url": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/13 03:51",
+   "published_iso": "2026-11-13T03:51:05+09:00",
+   "sort_key": 1794509465.0,
+   "excerpt": "The shift to a strategy meeting next October is just the first step in a broader plan by Kevin M. Warsh, the chairman of the Federal Reserve, to change how the central bank operates.",
+   "matched": [],
+   "analysis": {
+    "summary": "연준 2027년 10월 회의를 전략 회의로 전환",
+    "impact": "시장 영향은 제한적",
+    "affected": "미국 국채"
+   }
+  },
+  {
+   "id": "82ba770a29",
+   "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+   "source": "연준(Fed) 보도자료",
+   "group": "중앙은행·국제기구",
+   "lang": "en",
+   "published_kst": "11/13 03:30",
+   "published_iso": "2026-11-13T03:30:00+09:00",
+   "sort_key": 1794508200.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "연준 2027년 지급결제 서비스 가격 공지",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "1dd8f2cf95",
+   "title": "What Do You Want to Know About New York Times Journalism and A.I.?",
+   "url": "https://www.nytimes.com/2026/11/12/insider/nyt-journalism-ai.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/13 03:05",
+   "published_iso": "2026-11-13T03:05:44+09:00",
+   "sort_key": 1794506744.0,
+   "excerpt": "New York Times journalists want to answer your questions about how we’re using artificial intelligence in our report.",
+   "matched": [],
+   "analysis": {
+    "summary": "뉴욕타임스 기자들이 AI 관련 독자 질문에 답함",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "b8182560b0",
+   "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+   "source": "연준(Fed) 보도자료",
+   "group": "중앙은행·국제기구",
+   "lang": "en",
+   "published_kst": "11/13 02:45",
+   "published_iso": "2026-11-13T02:45:00+09:00",
+   "sort_key": 1794505500.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "연준 2027년 FOMC 일정 수정안 발표",
+    "impact": "시장 영향은 제한적",
+    "affected": "미국 국채"
+   }
+  },
+  {
+   "id": "dad6a06606",
+   "title": "Jensen Huang’s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving",
+   "url": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/13 02:26",
+   "published_iso": "2026-11-13T02:26:06+09:00",
+   "sort_key": 1794504366.0,
+   "excerpt": "Mr. Huang, the company’s co-founder, and his wife oversee a charitable foundation with about $9 billion in assets.",
+   "matched": [
+    "NVDA"
+   ],
+   "analysis": {
+    "summary": "젠슨 황 사임으로 수십억 달러 기부 계획이 복잡해질 수 있음",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "6baae670e7",
+   "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+   "source": "연준(Fed) 보도자료",
+   "group": "중앙은행·국제기구",
+   "lang": "en",
+   "published_kst": "11/13 01:00",
+   "published_iso": "2026-11-13T01:00:00+09:00",
+   "sort_key": 1794499200.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "연준이 전 은행 직원에게 제재 조치",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "a3d887525c",
+   "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
+   "url": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/13 00:53",
+   "published_iso": "2026-11-13T00:53:16+09:00",
+   "sort_key": 1794498796.0,
+   "excerpt": "News that the chipmaker’s chief executive, Jensen Huang, stepped down drove Nvidia’s stock down and reverberated across global markets.",
+   "matched": [
+    "NVDA"
+   ],
+   "analysis": {
+    "summary": "젠슨 황이 엔비디아 CEO에서 물러나자 주가 급락",
+    "impact": "AI 대장주 경영 공백 — 기술주 전반 부담",
+    "affected": "엔비디아, 반도체주, 나스닥",
+    "important": true,
+    "important_tag": "산업·실적",
+    "why_important": "젠슨 황이 엔비디아 CEO에서 사임, 주가 급락 — AI 붐을 이끈 대장주에 경영 공백"
+   }
+  },
+  {
+   "id": "fc7bcb3f23",
+   "title": "Jensen Huang’s Affairs That Upended Nvidia: Timeline of Events",
+   "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/13 00:51",
+   "published_iso": "2026-11-13T00:51:40+09:00",
+   "sort_key": 1794498700.0,
+   "excerpt": "News of the Nvidia co-founder’s relationship with a suspected Chinese spy, and his affair with an executive who reports to him, prompted his exit from the multi-trillion-dollar company.",
+   "matched": [
+    "NVDA"
+   ],
+   "analysis": {
+    "summary": "엔비디아를 뒤흔든 젠슨 황 스캔들 일지",
+    "impact": "시장 영향은 제한적",
+    "affected": "엔비디아"
+   }
+  },
+  {
+   "id": "b04f871e66",
+   "title": "The superstar tech boss - who is Jensen Huang?",
+   "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/13 00:48",
+   "published_iso": "2026-11-13T00:48:54+09:00",
+   "sort_key": 1794498534.0,
+   "excerpt": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+   "matched": [],
+   "analysis": {
+    "summary": "슈퍼스타 기술 CEO 젠슨 황은 누구인가",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "1b2d8eadc1",
+   "title": "Jensen Huang Joins a Growing Club: C.E.O.s Brought Down by Affairs",
+   "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/13 00:33",
+   "published_iso": "2026-11-13T00:33:27+09:00",
+   "sort_key": 1794497607.0,
+   "excerpt": "The Nvidia founder and chief executive, who resigned on Thursday, is among a group of top bosses whose romantic relationships got them in trouble.",
+   "matched": [],
+   "analysis": {
+    "summary": "젠슨 황도 불륜으로 물러난 CEO 명단에 합류",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "679bb2233a",
+   "title": "Jensen Huang Was the Face of the A.I. Boom Powering the U.S. Economy",
+   "url": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/13 00:12",
+   "published_iso": "2026-11-13T00:12:43+09:00",
+   "sort_key": 1794496363.0,
+   "excerpt": "Nvidia’s ousted leader was a rhetorical and financial booster for investments that are driving economic growth.",
+   "matched": [],
+   "analysis": {
+    "summary": "젠슨 황은 미국 경제를 끌어온 AI 붐의 얼굴이었다",
+    "impact": "AI 투자 심리 위축 가능성",
+    "affected": "AI 관련주"
+   }
+  },
+  {
+   "id": "a020bde731",
+   "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+   "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/13 00:10",
+   "published_iso": "2026-11-13T00:10:32+09:00",
+   "sort_key": 1794496232.0,
+   "excerpt": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
+   "matched": [
+    "NVDA"
+   ],
+   "analysis": {
+    "summary": "엔비디아 임시 CEO 콜레트 크레스와 차기 후보",
+    "impact": "경영 승계 불확실성",
+    "affected": "엔비디아"
+   }
+  },
+  {
+   "id": "6e0a9a6138",
+   "title": "Oil prices mixed after Trump says no Iran deal needed: 'We've got their Strait'",
+   "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+   "source": "CNBC Finance",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/13 00:08",
+   "published_iso": "2026-11-13T00:08:45+09:00",
+   "sort_key": 1794496125.0,
+   "excerpt": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프 '이란 합의 불필요 — 해협은 우리가 쥐고 있다' 발언에 유가 혼조",
+    "impact": "유가 변동성 확대",
+    "affected": "정유"
+   }
+  },
+  {
+   "id": "8af87b8fd6",
+   "title": "젠슨 황 엔비디아 CEO 퇴진...엔비디아 주가 '급락'",
+   "url": "https://www.hankyung.com/article/202611123920i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/12 23:38",
+   "published_iso": "2026-11-12T23:38:29+09:00",
+   "sort_key": 1794494309.0,
+   "excerpt": "",
+   "matched": [
+    "NVDA"
+   ],
+   "analysis": {
+    "summary": "젠슨 황 엔비디아 CEO 퇴진에 주가 급락",
+    "impact": "AI 대장주 약세",
+    "affected": "엔비디아, 반도체주"
+   }
+  },
+  {
+   "id": "ae07e93979",
+   "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
+   "url": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/12 23:35",
+   "published_iso": "2026-11-12T23:35:18+09:00",
+   "sort_key": 1794494118.0,
+   "excerpt": "Ms. Kress, the company’s chief financial officer, joined Nvidia in 2013.",
+   "matched": [
+    "NVDA"
+   ],
+   "analysis": {
+    "summary": "젠슨 황을 대신할 임시 CEO 콜레트 크레스는 누구",
+    "impact": "시장 영향은 제한적",
+    "affected": "엔비디아"
+   }
+  },
+  {
+   "id": "4e47f951ad",
+   "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
+   "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/12 23:28",
+   "published_iso": "2026-11-12T23:28:03+09:00",
+   "sort_key": 1794493683.0,
+   "excerpt": "In a statement, Singapore said it held Alice Huang’s passport months after President Trump was briefed that she was a spy.",
+   "matched": [],
+   "analysis": {
+    "summary": "싱가포르 '앨리스 황·메가스피드 조사에 미국이 협조 안 해'",
+    "impact": "미국·싱가포르 마찰",
+    "affected": "엔비디아"
+   }
+  },
+  {
+   "id": "3aa1ebb620",
+   "title": "삼성, AI글라스 출격…\"실시간 통역·관광 가이드 가능\"",
+   "url": "https://www.hankyung.com/article/2026111238961",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/12 23:00",
+   "published_iso": "2026-11-12T23:00:04+09:00",
+   "sort_key": 1794492004.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "삼성이 실시간 통역·관광 안내가 되는 AI 안경 출시",
+    "impact": "신제품 기대",
+    "affected": "삼성전자"
+   }
+  },
+  {
+   "id": "f9197a2aea",
+   "title": "\"65만원이라 비싸다 했는데\"…삼성 'AI 안경' 써보고 '화들짝' [체험기]",
+   "url": "https://www.hankyung.com/article/202611122173i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/12 23:00",
+   "published_iso": "2026-11-12T23:00:01+09:00",
+   "sort_key": 1794492001.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "65만 원 삼성 AI 안경 체험기",
+    "impact": "시장 영향은 제한적",
+    "affected": "삼성전자"
+   }
+  },
+  {
+   "id": "f46eeb9f1e",
+   "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+   "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/12 22:27",
+   "published_iso": "2026-11-12T22:27:09+09:00",
+   "sort_key": 1794490029.0,
+   "excerpt": "The UK is seeing impressive growth, but will it last?",
+   "matched": [],
+   "analysis": {
+    "summary": "BBC '영국 경제가 뜻밖에 탄탄한 이유'",
+    "impact": "시장 영향은 제한적",
+    "affected": "파운드"
+   }
+  },
+  {
+   "id": "e599eb57e1",
+   "title": "Wall Street Sees the Writing on the Wall for Jensen Huang",
+   "url": "https://www.nytimes.com/2026/11/12/business/dealbook/wall-street-nvidia-huang-spy.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/12 22:14",
+   "published_iso": "2026-11-12T22:14:39+09:00",
+   "sort_key": 1794489279.0,
+   "excerpt": "The company’s board is weighing the fate of its chief executive. Silicon Valley and Washington are steeling themselves for life without him.",
+   "matched": [],
+   "analysis": {
+    "summary": "월가가 본 젠슨 황 퇴진 신호",
+    "impact": "시장 영향은 제한적",
+    "affected": "엔비디아"
+   }
+  },
+  {
+   "id": "062d0e137e",
+   "title": "\"너무 좋더라\" 한국 온 외국인 몰려든 곳이…'1.8조' 긁었다 [트래블톡]",
+   "url": "https://www.hankyung.com/article/202611110252g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/12 22:00",
+   "published_iso": "2026-11-12T22:00:01+09:00",
+   "sort_key": 1794488401.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "한국 온 외국인들이 1.8조 원 쓴 곳",
+    "impact": "관광 소비 확대",
+    "affected": "면세점, 유통"
+   }
+  },
+  {
+   "id": "97b8725a97",
+   "title": "경북 예천 소 농장서 구제역 발생…19일까지 전국 집중 소독",
+   "url": "https://www.yna.co.kr/view/AKR20261112181800030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/12 21:40",
+   "published_iso": "2026-11-12T21:40:26+09:00",
+   "sort_key": 1794487226.0,
+   "excerpt": "(서울=연합뉴스) 한주홍 기자 = 경북 예천군의 소 사육 농장에서 구제역이 발생했다. 올해 들어 국내 구제역 발생 사례는 모두 16건으로 늘었다...",
+   "matched": [],
+   "analysis": {
+    "summary": "경북 예천 소 농장 구제역 — 19일까지 전국 집중 소독",
+    "impact": "축산물 가격 변동 가능성",
+    "affected": "축산"
+   }
+  },
+  {
+   "id": "a780ff1821",
+   "title": "인천 강화 산란계 농장서 고병원성 AI 발생…이달 들어 네 번째(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261112110051030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/12 21:16",
+   "published_iso": "2026-11-12T21:16:01+09:00",
+   "sort_key": 1794485761.0,
+   "excerpt": "(서울=연합뉴스) 한주홍 기자 = 고병원성 조류인플루엔자(AI) 중앙사고수습본부는 12일 인천 강화군의 산란계 농장(4만8천여 마리 사육)에서 ...",
+   "matched": [],
+   "analysis": {
+    "summary": "인천 강화 산란계 농장 고병원성 조류인플루엔자 — 이달 네 번째",
+    "impact": "계란값 상승 가능성",
+    "affected": "계란, 식품"
+   }
+  },
+  {
+   "id": "eefe79e058",
+   "title": "\"한국이 해외보다 싸게 판다고?\"…와인 애호가들 몰리는 곳 [씬메이커]",
+   "url": "https://www.hankyung.com/article/202611110530g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/12 21:00",
+   "published_iso": "2026-11-12T21:00:02+09:00",
+   "sort_key": 1794484802.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "한국이 해외보다 싸게 파는 와인 매장에 애호가 몰려",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "d4e1b1f8b7",
+   "title": "안경 벗은 이재용 모습에 '깜짝'…\"돌아가신 이건희 회장인 줄\" [영상]",
+   "url": "https://www.hankyung.com/article/2026111238247",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/12 20:30",
+   "published_iso": "2026-11-12T20:30:05+09:00",
+   "sort_key": 1794483005.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "안경 벗은 이재용 회장 모습 화제",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "2528b97aca",
+   "title": "\"작년엔 없어서 못 팔았는데\"…명동 약사들 한숨 쉬는 이유",
+   "url": "https://www.hankyung.com/article/202611110221g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/12 20:00",
+   "published_iso": "2026-11-12T20:00:01+09:00",
+   "sort_key": 1794481201.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "작년엔 없어서 못 팔던 상품에 명동 약사들 한숨",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "f99fca9bfe",
+   "title": "은행지주CEO 연임할수록 의결 까다롭게…임추위 전원 독립이사로(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261111175651002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/12 19:38",
+   "published_iso": "2026-11-12T19:38:16+09:00",
+   "sort_key": 1794479896.0,
+   "excerpt": "(서울=연합뉴스) 배영경 김지연 강류나 기자 = 은행지주 최고경영자(CEO)의 연임 횟수가 늘어날수록 임원후보추천위원회와 주주총회 의결 요건이 ...",
+   "matched": [],
+   "analysis": {
+    "summary": "은행지주 CEO 연임할수록 의결 까다롭게 — 임추위 전원 독립이사",
+    "impact": "금융지주 지배구조 강화",
+    "affected": "금융지주"
+   }
+  },
+  {
+   "id": "853934dfec",
+   "title": "세무사시험 160문제중 1개만 틀린 수석…'스마트안경' 의혹 제기",
+   "url": "https://www.yna.co.kr/view/AKR20261112172800530",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/12 19:15",
+   "published_iso": "2026-11-12T19:15:43+09:00",
+   "sort_key": 1794478543.0,
+   "excerpt": "(서울=연합뉴스) 한혜원 기자 = 올해 세무사 자격시험 수석 합격자가 1차 시험 4과목 160문제 중 단 한 문제만 틀리는 이례적인 고득점을 기...",
+   "matched": [],
+   "analysis": {
+    "summary": "세무사 시험 수석이 160문제 중 1개만 틀려 '스마트안경' 의혹",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "3fa37fd009",
+   "title": "롯데百, 15년 만에 브랜드 디자인 개편",
+   "url": "https://www.hankyung.com/article/2026111235801",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/12 18:11",
+   "published_iso": "2026-11-12T18:11:44+09:00",
+   "sort_key": 1794474704.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "롯데백화점 15년 만에 브랜드 디자인 개편",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "0aaa9b2b98",
+   "title": "[동정] 남재헌 해수부 차관, 가리비 양식업계와 간담회",
+   "url": "https://www.yna.co.kr/view/AKR20261112169200030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/12 17:48",
+   "published_iso": "2026-11-12T17:48:39+09:00",
+   "sort_key": 1794473319.0,
+   "excerpt": "▲ 남재헌 해양수산부 차관은 12일 서울에서 가리비 양식 어업인과 업계 관계자들을 만나 포괄적·점진적 환태평양경제동반자협정(CPTPP) 가입에 ...",
+   "matched": [],
+   "analysis": {
+    "summary": "해수부 차관이 가리비 양식업계와 CPTPP 간담회",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "7cf3dfc9a1",
+   "title": "코인마켓 거래소 '플라이빗'도 해킹…\"고객 40명 정보 유출\"",
+   "url": "https://www.yna.co.kr/view/AKR20261112168500002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/12 17:47",
+   "published_iso": "2026-11-12T17:47:32+09:00",
+   "sort_key": 1794473252.0,
+   "excerpt": "(서울=연합뉴스) 박수현 기자 = 코인마켓 가상자산 거래소 플라이빗에서도 해킹 사고로 고객 40명의 개인정보가 유출되는 사고가 발생했다.",
+   "matched": [],
+   "analysis": {
+    "summary": "코인 거래소 플라이빗도 해킹 — 고객 40명 정보 유출",
+    "impact": "가상자산 보안 우려",
+    "affected": "가상자산"
+   }
+  },
+  {
+   "id": "aefd771b53",
+   "title": "전남광주시, 대규모 사업에 지역 중소기업 참여 확대 모색",
+   "url": "https://www.yna.co.kr/view/AKR20261112164900054",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/12 17:45",
+   "published_iso": "2026-11-12T17:45:30+09:00",
+   "sort_key": 1794473130.0,
+   "excerpt": "(전남광주=연합뉴스) 형민우 기자 = 전남광주통합특별시는 12일 광주 홀리데이인 호텔에서 중소기업계와 간담회를 열고, 대규모 투자사업에 지역 중...",
+   "matched": [],
+   "analysis": {
+    "summary": "전남광주시가 대규모 사업에 지역 중소기업 참여 확대 모색",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "40c065b006",
+   "title": "UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth'",
+   "url": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
+   "source": "CNBC Economy",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/12 17:02",
+   "published_iso": "2026-11-12T17:02:15+09:00",
+   "sort_key": 1794470535.0,
+   "excerpt": "The U.K. economy grew 0.7% in the third quarter of the year, in line with estimates.",
+   "matched": [],
+   "analysis": {
+    "summary": "영국 3분기 0.7% 성장 — AI가 '추가 성장 엔진'",
+    "impact": "영국 경기 개선",
+    "affected": "파운드"
+   }
+  },
+  {
+   "id": "3ce081d2b6",
+   "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
+   "url": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
+   "source": "CNBC Finance",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/12 16:28",
+   "published_iso": "2026-11-12T16:28:48+09:00",
+   "sort_key": 1794468528.0,
+   "excerpt": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
+   "matched": [
+    "NVDA"
+   ],
+   "analysis": {
+    "summary": "엔비디아 CEO 스캔들로 중국 국가안전부에 관심 집중",
+    "impact": "미중 긴장 요인",
+    "affected": "엔비디아"
+   }
+  },
+  {
+   "id": "7481992e87",
+   "title": "제18회 국제금융기구 채용설명회 개최",
+   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079925",
+   "source": "재정경제부 보도자료",
+   "group": "국내 정책당국",
+   "lang": "ko",
+   "published_kst": "11/12 09:00",
+   "published_iso": "2026-11-12T09:00:00+09:00",
+   "sort_key": 1794441600.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "국제금융기구 채용설명회",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "671067dc79",
+   "title": "범부처 민생안정지원단, 청년 취업지원 현장 점검",
+   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079929",
+   "source": "재정경제부 보도자료",
+   "group": "국내 정책당국",
+   "lang": "ko",
+   "published_kst": "11/12 09:00",
+   "published_iso": "2026-11-12T09:00:00+09:00",
+   "sort_key": 1794441600.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "범부처 민생안정지원단 청년 취업지원 점검",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  },
+  {
+   "id": "ba5ee54cf1",
+   "title": "국방분야 혁신제품 최초 지정",
+   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079935",
+   "source": "재정경제부 보도자료",
+   "group": "국내 정책당국",
+   "lang": "ko",
+   "published_kst": "11/12 09:00",
+   "published_iso": "2026-11-12T09:00:00+09:00",
+   "sort_key": 1794441600.0,
+   "excerpt": "",
+   "matched": [],
+   "analysis": {
+    "summary": "국방 분야 혁신제품 최초 지정",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
+  }
+ ],
+ "news_groups": {
+  "국내 경제언론": [
+   {
+    "id": "6501a89cfe",
+    "title": "이억원 \"증안펀드, 굉장히 긴급할 때 한시·예외적 사용\"",
+    "url": "https://www.yna.co.kr/view/AKR20261113080800002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 11:30",
+    "published_iso": "2026-11-13T11:30:03+09:00",
+    "sort_key": 1794537003.0,
+    "excerpt": "(서울=연합뉴스) 배영경 김지연 강류나 기자 = 이억원 금융위원장은 13일 증시안정펀드(증안펀드) 가동은 신중해야 한다는 입장을 밝혔다.",
+    "matched": []
+   },
+   {
+    "id": "de9036df2e",
+    "title": "국민연금 3분기 美주식 평가액, 전분기 대비 36억弗 증가",
+    "url": "https://www.yna.co.kr/view/AKR20261113078200008",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 11:23",
+    "published_iso": "2026-11-13T11:23:08+09:00",
+    "sort_key": 1794536588.0,
+    "excerpt": "(서울=연합뉴스) 황철환 기자 = 7월 글로벌 반도체 급락의 충격으로 국내 증시가 약세를 지속 중인 가운데서도 국민연금의 미국 보유주식 평가액은...",
+    "matched": []
+   },
+   {
+    "id": "6ce5eec08e",
+    "title": "서울시, 독산·대림·천호동 등 6곳 '신통기획 후보지' 추가선정",
+    "url": "https://www.yna.co.kr/view/AKR20261113041800004",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 11:15",
+    "published_iso": "2026-11-13T11:15:00+09:00",
+    "sort_key": 1794536100.0,
+    "excerpt": "(서울=연합뉴스) 김준태 기자 = 서울시는 지난달 30일과 이달 12일 두 차례에 걸쳐 &apos;2026년 제4차 신속통합기획(신통기획) 주택재개발 후...",
+    "matched": []
+   },
+   {
+    "id": "c002af5afa",
+    "title": "김제 지평선 쌀, 몽골 식탁 오른다…첫 수출 2t",
+    "url": "https://www.yna.co.kr/view/AKR20261113071500055",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 11:13",
+    "published_iso": "2026-11-13T11:13:04+09:00",
+    "sort_key": 1794535984.0,
+    "excerpt": "(김제=연합뉴스) 백도인 기자 = 전북 김제시 금만농협이 생산한 지평선 쌀이 몽골 수출길에 올랐다.",
+    "matched": []
+   },
+   {
+    "id": "18e057d73b",
+    "title": "창원상공회의소 새 회장 12월 15일 선출…현 회장은 불출마",
+    "url": "https://www.yna.co.kr/view/AKR20261113075500052",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 11:11",
+    "published_iso": "2026-11-13T11:11:11+09:00",
+    "sort_key": 1794535871.0,
+    "excerpt": "(창원=연합뉴스) 김선경 기자 = 창원상공회의소는 12월 15일 임시의원총회를 열고 6대 회장을 선출한다고 13일 밝혔다.",
+    "matched": []
+   },
+   {
+    "id": "6d9267624d",
+    "title": "수도권 아파트에 내년 1분기까지 4만4천 가구 입주",
+    "url": "https://www.yna.co.kr/view/AKR20261113072000003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 11:10",
+    "published_iso": "2026-11-13T11:10:00+09:00",
+    "sort_key": 1794535800.0,
+    "excerpt": "(서울=연합뉴스) 오예진 기자 = 서울을 포함한 수도권에서 내년 1분기까지 아파트 입주 물량이 4만4천가구에 이르는 것으로 나타났다.",
+    "matched": []
+   },
+   {
+    "id": "1047504748",
+    "title": "정부, 경기 판단 '회복 흐름'에서 '견조한 성장세'로 상향(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20261113040251002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 11:04",
+    "published_iso": "2026-11-13T11:04:11+09:00",
+    "sort_key": 1794535451.0,
+    "excerpt": "(세종=연합뉴스) 안채원 기자 = 정부가 수출 호조와 주요 경제지표 개선에 힘입어 우리 경제가 견조한 성장세를 보이고 있다고 진단했다.",
+    "matched": []
+   },
+   {
+    "id": "884165c374",
+    "title": "\"점심은 제가 살게요\" 이재용, 李 대통령 앞에서 카드 꺼내 [영상]",
+    "url": "https://www.hankyung.com/article/202611134759H",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 11:02",
+    "published_iso": "2026-11-13T11:02:54+09:00",
+    "sort_key": 1794535374.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "8e8de30736",
+    "title": "\"싸게 사려고 '시간세' 냅니다\"…절약 위해 '시간' 투자하는 사람들 [트렌드+]",
+    "url": "https://www.hankyung.com/article/202611122735g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 11:00",
+    "published_iso": "2026-11-13T11:00:06+09:00",
+    "sort_key": 1794535206.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "696d82e701",
+    "title": "인도양 해저지형 4곳에 조선시대 지리학자 이름 붙인다",
+    "url": "https://www.yna.co.kr/view/AKR20261112126500051",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 11:00",
+    "published_iso": "2026-11-13T11:00:01+09:00",
+    "sort_key": 1794535201.0,
+    "excerpt": "(부산=연합뉴스) 이영재 기자 = 한국에서 약 1만㎞ 떨어진 인도양 해저 지형에 &apos;정상기&apos;, &apos;신경준&apos;, &apos;최한기&apos;, &apos;한백겸&apos; 등 조선시대 지...",
+    "matched": []
+   },
+   {
+    "id": "c3e050d4b2",
+    "title": "LS엠트론, 멕시코 사출성형기 시장 공략…현지 테크센터 신설",
+    "url": "https://www.hankyung.com/article/202611134696i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 10:27",
+    "published_iso": "2026-11-13T10:27:13+09:00",
+    "sort_key": 1794533233.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "6e19687964",
+    "title": "씨이랩, 3분기 누적 매출 64% 증가…수주잔고 102배 늘어",
+    "url": "https://www.hankyung.com/article/202611134666i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 10:17",
+    "published_iso": "2026-11-13T10:17:18+09:00",
+    "sort_key": 1794532638.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "fba8aabc49",
+    "title": "현대차, 쏘카·에이펙스모빌리티와 자율주행 생태계 위한 업무협약",
+    "url": "https://www.hankyung.com/article/202611134600g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 09:57",
+    "published_iso": "2026-11-13T09:57:40+09:00",
+    "sort_key": 1794531460.0,
+    "excerpt": "",
+    "matched": [
+     "005380.KS"
     ]
-  },
-  "counts": {
-    "indices_ok": 8,
-    "indices_total": 8,
-    "stocks_ok": 9,
-    "stocks_total": 9,
-    "news": 53,
-    "news_new": 22
-  },
-  "errors": [
-    {
-      "stage": "news",
-      "target": "금융위원회 보도자료",
-      "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
+   },
+   {
+    "id": "3ae327d8e6",
+    "title": "켐트로스, 반도체 소재 매출 185% 급증…3분기 최대 실적",
+    "url": "https://www.hankyung.com/article/202611134546i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 09:55",
+    "published_iso": "2026-11-13T09:55:19+09:00",
+    "sort_key": 1794531319.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "f808c63a30",
+    "title": "이 대통령, 자본시장 간담회 주재…의무공개매수·코스닥 세그먼트 분리 논의",
+    "url": "https://www.hankyung.com/article/2026111344836",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 09:33",
+    "published_iso": "2026-11-13T09:33:41+09:00",
+    "sort_key": 1794530021.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "2575f51fc7",
+    "title": "\"직원 절반 자른다고?\"…中 발칵 뒤집은 회장의 한마디 [차이나 워치]",
+    "url": "https://www.hankyung.com/article/202611134440i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 09:27",
+    "published_iso": "2026-11-13T09:27:34+09:00",
+    "sort_key": 1794529654.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "d0c084a2e6",
+    "title": "15년 넘게 방치된 송도 길재단 법인 땅, 100억원에 환수한다",
+    "url": "https://www.yna.co.kr/view/AKR20261112083200065",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 07:17",
+    "published_iso": "2026-11-13T07:17:00+09:00",
+    "sort_key": 1794521820.0,
+    "excerpt": "(인천=연합뉴스) 홍현기 기자 = 길의료재단을 최대주주로 둔 법인 비알씨(BRC)가 공공기관으로부터 매입한 땅을 15년 이상 개발하지 않은 채 ...",
+    "matched": [],
+    "analysis": {
+     "summary": "15년 넘게 방치된 송도 길재단 법인 땅 100억 원에 환수",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
     }
+   },
+   {
+    "id": "65a29f5f84",
+    "title": "\"우리의 우상인데…\" 젠슨 황 퇴진에 직원들도 충격 빠졌다",
+    "url": "https://www.hankyung.com/article/2026111340337",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 06:40",
+    "published_iso": "2026-11-13T06:40:49+09:00",
+    "sort_key": 1794519649.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "젠슨 황 퇴진에 엔비디아 직원들도 충격",
+     "impact": "엔비디아 조직 동요",
+     "affected": "엔비디아"
+    }
+   },
+   {
+    "id": "8119faad50",
+    "title": "[반려동물] \"겨울철 털뭉치도 건조해요\"…펫 스킨케어 시장 활기",
+    "url": "https://www.yna.co.kr/view/AKR20261112142700030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 06:30",
+    "published_iso": "2026-11-13T06:30:00+09:00",
+    "sort_key": 1794519000.0,
+    "excerpt": "(서울=연합뉴스) 김세린 기자 = 겨울철 건조한 날씨에 반려견과 반려묘의 피부 보습과 목욕 등에 대한 관심이 커지면서 반려동물 스킨케어(피부관리...",
+    "matched": [],
+    "analysis": {
+     "summary": "겨울철 반려동물 스킨케어 시장 활기",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "fef3c14b26",
+    "title": "젠슨 황, 엔비디아 떠났지만…세 번째 '불륜 의혹' 터졌다",
+    "url": "https://www.hankyung.com/article/2026111340177",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 06:15",
+    "published_iso": "2026-11-13T06:15:58+09:00",
+    "sort_key": 1794518158.0,
+    "excerpt": "",
+    "matched": [
+     "NVDA"
+    ],
+    "analysis": {
+     "summary": "엔비디아를 떠난 젠슨 황에게 세 번째 불륜 의혹",
+     "impact": "시장 영향은 제한적",
+     "affected": "엔비디아"
+    }
+   },
+   {
+    "id": "9ae79a80c7",
+    "title": "\"8500원 떡 사다주면 2만원\"…한국서 벌어진 '기막힌 풍경'",
+    "url": "https://www.hankyung.com/article/2026111235811",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 06:00",
+    "published_iso": "2026-11-13T06:00:21+09:00",
+    "sort_key": 1794517221.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "8,500원 떡 대신 사다 주면 2만 원 — 구매 대행 풍경",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "b1be993a28",
+    "title": "싼타페 사려다 흔들리겠네…공간 키우고 연비 잡은 '신형 투싼' [신차털기]",
+    "url": "https://www.hankyung.com/article/202611122737g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 06:00",
+    "published_iso": "2026-11-13T06:00:09+09:00",
+    "sort_key": 1794517209.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "공간 키우고 연비 잡은 신형 투싼 시승기",
+     "impact": "시장 영향은 제한적",
+     "affected": "현대차"
+    }
+   },
+   {
+    "id": "494835c11e",
+    "title": "서울 아파트 거래신청 두달째 증가…강남3구 가격 하락폭 커져",
+    "url": "https://www.yna.co.kr/view/AKR20261112176200004",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 06:00",
+    "published_iso": "2026-11-13T06:00:04+09:00",
+    "sort_key": 1794517204.0,
+    "excerpt": "(서울=연합뉴스) 김동규 기자 = 지난달 서울 아파트 토지거래허가 신청 건수가 두 달 연속 증가한 것으로 나타났다.",
+    "matched": [],
+    "analysis": {
+     "summary": "서울 아파트 거래 신청 두 달째 증가 — 강남3구 가격 하락폭 확대",
+     "impact": "강남 집값 하락세",
+     "affected": "부동산"
+    }
+   },
+   {
+    "id": "2ee8694721",
+    "title": "환율·유가 동반 하락에 10월 수입물가 1.8%↓",
+    "url": "https://www.yna.co.kr/view/AKR20261112167900002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 06:00",
+    "published_iso": "2026-11-13T06:00:03+09:00",
+    "sort_key": 1794517203.0,
+    "excerpt": "(서울=연합뉴스) 채새롬 기자 = 지난달 원/달러 환율과 국제유가가 함께 하락하면서 수입물가지수가 한 달 만에 하락 전환했다.",
+    "matched": [],
+    "analysis": {
+     "summary": "환율·유가가 함께 내려 10월 수입물가 1.8% 하락",
+     "impact": "국내 물가 부담 완화",
+     "affected": "국내 물가, 국고채",
+     "important": true,
+     "important_tag": "거시경제",
+     "why_important": "환율·유가가 함께 내려 10월 수입물가가 1.8% 하락 — 국내 물가 부담이 줄어듦"
+    }
+   },
+   {
+    "id": "eb910eadd4",
+    "title": "하나은행, 금융위 상반기 기술금융 평가서 1위…2위 기업은행",
+    "url": "https://www.yna.co.kr/view/AKR20261112172100002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 06:00",
+    "published_iso": "2026-11-13T06:00:02+09:00",
+    "sort_key": 1794517202.0,
+    "excerpt": "(서울=연합뉴스) 강류나 기자 = 하나은행이 올해 상반기 기술금융 테크평가에서 대형리그 1위를 차지했다.",
+    "matched": [],
+    "analysis": {
+     "summary": "하나은행이 금융위 기술금융 평가 1위",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "ffbb548523",
+    "title": "50대 남성들도 지갑 열었다…자취생 먹던 냉동식품 '대반전' [권용훈의 트렌드워치]",
+    "url": "https://www.hankyung.com/article/202611123887i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 06:00",
+    "published_iso": "2026-11-13T06:00:01+09:00",
+    "sort_key": 1794517201.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "50대 남성까지 냉동식품 구매 — 자취생 음식의 반전",
+     "impact": "냉동식품 시장 확대",
+     "affected": "식품"
+    }
+   },
+   {
+    "id": "1b8713b1e7",
+    "title": "'재건축 부담금' 법적 분쟁 조짐에…대형 로펌들 TF 속속 가동",
+    "url": "https://www.yna.co.kr/view/AKR20261112180600004",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 06:00",
+    "published_iso": "2026-11-13T06:00:00+09:00",
+    "sort_key": 1794517200.0,
+    "excerpt": "(서울=연합뉴스) 김빛나 기자 = 최근 서울 강남권 재건축 아파트 단지를 대상으로 부담금 부과 절차가 시작되면서 대형 로펌들도 전담 조직을 꾸리...",
+    "matched": [],
+    "analysis": {
+     "summary": "강남 재건축 부담금 분쟁 조짐에 대형 로펌들 TF 가동",
+     "impact": "재건축 사업 지연 가능성",
+     "affected": "건설"
+    }
+   },
+   {
+    "id": "ae58d3fd3c",
+    "title": "트럼프 \"이란과 합의 불필요\"에 국제유가 급등…브렌트유 3.3%↑",
+    "url": "https://www.yna.co.kr/view/AKR20261113010900072",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/13 05:50",
+    "published_iso": "2026-11-13T05:50:52+09:00",
+    "sort_key": 1794516652.0,
+    "excerpt": "(뉴욕=연합뉴스) 김연숙 특파원 = 12일(현지시간) 국제유가는 미국과 이란 간 협상에 대한 기대감이 꺾이면서 급등했다.",
+    "matched": [],
+    "analysis": {
+     "summary": "트럼프 '이란과 합의 필요 없다'에 국제 유가 급등 — 브렌트유 3.3% 상승",
+     "impact": "유가 다시 상승 — 물가·비용 부담",
+     "affected": "정유, 항공, 소매(OLLI·URBN)",
+     "important": true,
+     "important_tag": "거시경제",
+     "why_important": "트럼프 '이란과 합의 불필요' 발언에 브렌트유 3.3% 급등 — 내려가던 유가가 다시 튀어 소매주 비용 변수"
+    }
+   },
+   {
+    "id": "8af87b8fd6",
+    "title": "젠슨 황 엔비디아 CEO 퇴진...엔비디아 주가 '급락'",
+    "url": "https://www.hankyung.com/article/202611123920i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/12 23:38",
+    "published_iso": "2026-11-12T23:38:29+09:00",
+    "sort_key": 1794494309.0,
+    "excerpt": "",
+    "matched": [
+     "NVDA"
+    ],
+    "analysis": {
+     "summary": "젠슨 황 엔비디아 CEO 퇴진에 주가 급락",
+     "impact": "AI 대장주 약세",
+     "affected": "엔비디아, 반도체주"
+    }
+   },
+   {
+    "id": "3aa1ebb620",
+    "title": "삼성, AI글라스 출격…\"실시간 통역·관광 가이드 가능\"",
+    "url": "https://www.hankyung.com/article/2026111238961",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/12 23:00",
+    "published_iso": "2026-11-12T23:00:04+09:00",
+    "sort_key": 1794492004.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "삼성이 실시간 통역·관광 안내가 되는 AI 안경 출시",
+     "impact": "신제품 기대",
+     "affected": "삼성전자"
+    }
+   },
+   {
+    "id": "f9197a2aea",
+    "title": "\"65만원이라 비싸다 했는데\"…삼성 'AI 안경' 써보고 '화들짝' [체험기]",
+    "url": "https://www.hankyung.com/article/202611122173i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/12 23:00",
+    "published_iso": "2026-11-12T23:00:01+09:00",
+    "sort_key": 1794492001.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "65만 원 삼성 AI 안경 체험기",
+     "impact": "시장 영향은 제한적",
+     "affected": "삼성전자"
+    }
+   },
+   {
+    "id": "062d0e137e",
+    "title": "\"너무 좋더라\" 한국 온 외국인 몰려든 곳이…'1.8조' 긁었다 [트래블톡]",
+    "url": "https://www.hankyung.com/article/202611110252g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/12 22:00",
+    "published_iso": "2026-11-12T22:00:01+09:00",
+    "sort_key": 1794488401.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "한국 온 외국인들이 1.8조 원 쓴 곳",
+     "impact": "관광 소비 확대",
+     "affected": "면세점, 유통"
+    }
+   },
+   {
+    "id": "97b8725a97",
+    "title": "경북 예천 소 농장서 구제역 발생…19일까지 전국 집중 소독",
+    "url": "https://www.yna.co.kr/view/AKR20261112181800030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/12 21:40",
+    "published_iso": "2026-11-12T21:40:26+09:00",
+    "sort_key": 1794487226.0,
+    "excerpt": "(서울=연합뉴스) 한주홍 기자 = 경북 예천군의 소 사육 농장에서 구제역이 발생했다. 올해 들어 국내 구제역 발생 사례는 모두 16건으로 늘었다...",
+    "matched": [],
+    "analysis": {
+     "summary": "경북 예천 소 농장 구제역 — 19일까지 전국 집중 소독",
+     "impact": "축산물 가격 변동 가능성",
+     "affected": "축산"
+    }
+   },
+   {
+    "id": "a780ff1821",
+    "title": "인천 강화 산란계 농장서 고병원성 AI 발생…이달 들어 네 번째(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20261112110051030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/12 21:16",
+    "published_iso": "2026-11-12T21:16:01+09:00",
+    "sort_key": 1794485761.0,
+    "excerpt": "(서울=연합뉴스) 한주홍 기자 = 고병원성 조류인플루엔자(AI) 중앙사고수습본부는 12일 인천 강화군의 산란계 농장(4만8천여 마리 사육)에서 ...",
+    "matched": [],
+    "analysis": {
+     "summary": "인천 강화 산란계 농장 고병원성 조류인플루엔자 — 이달 네 번째",
+     "impact": "계란값 상승 가능성",
+     "affected": "계란, 식품"
+    }
+   },
+   {
+    "id": "eefe79e058",
+    "title": "\"한국이 해외보다 싸게 판다고?\"…와인 애호가들 몰리는 곳 [씬메이커]",
+    "url": "https://www.hankyung.com/article/202611110530g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/12 21:00",
+    "published_iso": "2026-11-12T21:00:02+09:00",
+    "sort_key": 1794484802.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "한국이 해외보다 싸게 파는 와인 매장에 애호가 몰려",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "d4e1b1f8b7",
+    "title": "안경 벗은 이재용 모습에 '깜짝'…\"돌아가신 이건희 회장인 줄\" [영상]",
+    "url": "https://www.hankyung.com/article/2026111238247",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/12 20:30",
+    "published_iso": "2026-11-12T20:30:05+09:00",
+    "sort_key": 1794483005.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "안경 벗은 이재용 회장 모습 화제",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "2528b97aca",
+    "title": "\"작년엔 없어서 못 팔았는데\"…명동 약사들 한숨 쉬는 이유",
+    "url": "https://www.hankyung.com/article/202611110221g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/12 20:00",
+    "published_iso": "2026-11-12T20:00:01+09:00",
+    "sort_key": 1794481201.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "작년엔 없어서 못 팔던 상품에 명동 약사들 한숨",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "f99fca9bfe",
+    "title": "은행지주CEO 연임할수록 의결 까다롭게…임추위 전원 독립이사로(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20261111175651002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/12 19:38",
+    "published_iso": "2026-11-12T19:38:16+09:00",
+    "sort_key": 1794479896.0,
+    "excerpt": "(서울=연합뉴스) 배영경 김지연 강류나 기자 = 은행지주 최고경영자(CEO)의 연임 횟수가 늘어날수록 임원후보추천위원회와 주주총회 의결 요건이 ...",
+    "matched": [],
+    "analysis": {
+     "summary": "은행지주 CEO 연임할수록 의결 까다롭게 — 임추위 전원 독립이사",
+     "impact": "금융지주 지배구조 강화",
+     "affected": "금융지주"
+    }
+   },
+   {
+    "id": "853934dfec",
+    "title": "세무사시험 160문제중 1개만 틀린 수석…'스마트안경' 의혹 제기",
+    "url": "https://www.yna.co.kr/view/AKR20261112172800530",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/12 19:15",
+    "published_iso": "2026-11-12T19:15:43+09:00",
+    "sort_key": 1794478543.0,
+    "excerpt": "(서울=연합뉴스) 한혜원 기자 = 올해 세무사 자격시험 수석 합격자가 1차 시험 4과목 160문제 중 단 한 문제만 틀리는 이례적인 고득점을 기...",
+    "matched": [],
+    "analysis": {
+     "summary": "세무사 시험 수석이 160문제 중 1개만 틀려 '스마트안경' 의혹",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "3fa37fd009",
+    "title": "롯데百, 15년 만에 브랜드 디자인 개편",
+    "url": "https://www.hankyung.com/article/2026111235801",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/12 18:11",
+    "published_iso": "2026-11-12T18:11:44+09:00",
+    "sort_key": 1794474704.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "롯데백화점 15년 만에 브랜드 디자인 개편",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "0aaa9b2b98",
+    "title": "[동정] 남재헌 해수부 차관, 가리비 양식업계와 간담회",
+    "url": "https://www.yna.co.kr/view/AKR20261112169200030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/12 17:48",
+    "published_iso": "2026-11-12T17:48:39+09:00",
+    "sort_key": 1794473319.0,
+    "excerpt": "▲ 남재헌 해양수산부 차관은 12일 서울에서 가리비 양식 어업인과 업계 관계자들을 만나 포괄적·점진적 환태평양경제동반자협정(CPTPP) 가입에 ...",
+    "matched": [],
+    "analysis": {
+     "summary": "해수부 차관이 가리비 양식업계와 CPTPP 간담회",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "7cf3dfc9a1",
+    "title": "코인마켓 거래소 '플라이빗'도 해킹…\"고객 40명 정보 유출\"",
+    "url": "https://www.yna.co.kr/view/AKR20261112168500002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/12 17:47",
+    "published_iso": "2026-11-12T17:47:32+09:00",
+    "sort_key": 1794473252.0,
+    "excerpt": "(서울=연합뉴스) 박수현 기자 = 코인마켓 가상자산 거래소 플라이빗에서도 해킹 사고로 고객 40명의 개인정보가 유출되는 사고가 발생했다.",
+    "matched": [],
+    "analysis": {
+     "summary": "코인 거래소 플라이빗도 해킹 — 고객 40명 정보 유출",
+     "impact": "가상자산 보안 우려",
+     "affected": "가상자산"
+    }
+   },
+   {
+    "id": "aefd771b53",
+    "title": "전남광주시, 대규모 사업에 지역 중소기업 참여 확대 모색",
+    "url": "https://www.yna.co.kr/view/AKR20261112164900054",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/12 17:45",
+    "published_iso": "2026-11-12T17:45:30+09:00",
+    "sort_key": 1794473130.0,
+    "excerpt": "(전남광주=연합뉴스) 형민우 기자 = 전남광주통합특별시는 12일 광주 홀리데이인 호텔에서 중소기업계와 간담회를 열고, 대규모 투자사업에 지역 중...",
+    "matched": [],
+    "analysis": {
+     "summary": "전남광주시가 대규모 사업에 지역 중소기업 참여 확대 모색",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   }
+  ],
+  "해외 경제언론": [
+   {
+    "id": "363c84ee64",
+    "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+    "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/13 10:53",
+    "published_iso": "2026-11-13T10:53:55+09:00",
+    "sort_key": 1794534835.0,
+    "excerpt": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+    "matched": [
+     "MSFT"
+    ]
+   },
+   {
+    "id": "70a983439a",
+    "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+    "url": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+    "source": "CNBC Finance",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/13 10:48",
+    "published_iso": "2026-11-13T10:48:50+09:00",
+    "sort_key": 1794534530.0,
+    "excerpt": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September.",
+    "matched": []
+   },
+   {
+    "id": "39669d2d6e",
+    "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
+    "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/13 10:28",
+    "published_iso": "2026-11-13T10:28:40+09:00",
+    "sort_key": 1794533320.0,
+    "excerpt": "Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like Megaspeed.",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "d709c768a7",
+    "title": "Huang and Lutnick Summoned to Testify Before Congress",
+    "url": "https://www.nytimes.com/2026/11/12/business/jensen-huang-howard-lutnick-testify-capitol-hill.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/13 10:10",
+    "published_iso": "2026-11-13T10:10:19+09:00",
+    "sort_key": 1794532219.0,
+    "excerpt": "Senator Tim Scott said he had requested that the Nvidia co-founder and the commerce secretary appear before the Senate Banking Committee.",
+    "matched": []
+   },
+   {
+    "id": "9f4b56b096",
+    "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+    "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/13 09:13",
+    "published_iso": "2026-11-13T09:13:35+09:00",
+    "sort_key": 1794528815.0,
+    "excerpt": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+    "matched": []
+   },
+   {
+    "id": "ea7faee116",
+    "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+    "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/13 08:34",
+    "published_iso": "2026-11-13T08:34:05+09:00",
+    "sort_key": 1794526445.0,
+    "excerpt": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "54870133dd",
+    "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+    "url": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/13 07:54",
+    "published_iso": "2026-11-13T07:54:19+09:00",
+    "sort_key": 1794524059.0,
+    "excerpt": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop.",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "89a9e07870",
+    "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
+    "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/13 07:21",
+    "published_iso": "2026-11-13T07:21:48+09:00",
+    "sort_key": 1794522108.0,
+    "excerpt": "The company said that some of its servers were unexpectedly unavailable, straining the remaining infrastructure, and that it was working to bring users back online.",
+    "matched": [
+     "MSFT"
+    ],
+    "analysis": {
+     "summary": "마이크로소프트 아웃룩·팀즈 등 서비스 장애",
+     "impact": "시장 영향은 제한적",
+     "affected": "마이크로소프트"
+    }
+   },
+   {
+    "id": "cc25a87212",
+    "title": "SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona",
+    "url": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/13 04:45",
+    "published_iso": "2026-11-13T04:45:26+09:00",
+    "sort_key": 1794512726.0,
+    "excerpt": "Elon Musk’s rocket and artificial intelligence company has spent billions to develop the giant warehouses full of computer servers that power the technology.",
+    "matched": [],
+    "analysis": {
+     "summary": "스페이스X가 텍사스·애리조나 데이터센터에 740억 달러 투자 계획",
+     "impact": "AI 인프라 투자 지속",
+     "affected": "데이터센터, 전력"
+    }
+   },
+   {
+    "id": "bd256d1db8",
+    "title": "Mortgage Rates Remain High as Affordability Challenges Persist",
+    "url": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/13 04:42",
+    "published_iso": "2026-11-13T04:42:30+09:00",
+    "sort_key": 1794512550.0,
+    "excerpt": "The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.",
+    "matched": [],
+    "analysis": {
+     "summary": "미국 30년 주택담보대출 금리 7.11% — 집 사기 여전히 어려워",
+     "impact": "미국 주택 시장 부진",
+     "affected": "미국 건설, 부동산"
+    }
+   },
+   {
+    "id": "1ba52ba6ab",
+    "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+    "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+    "source": "CNBC Finance",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/13 04:05",
+    "published_iso": "2026-11-13T04:05:25+09:00",
+    "sort_key": 1794510325.0,
+    "excerpt": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
+    "matched": [],
+    "analysis": {
+     "summary": "연준이 2027년 10월 회의에서는 금리를 결정하지 않기로 — 내년 결정 회의 7번",
+     "impact": "시장 영향은 제한적",
+     "affected": "미국 국채"
+    }
+   },
+   {
+    "id": "482115bd33",
+    "title": "Fed Will Not Hold Policy Vote at October 2027 Meeting",
+    "url": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/13 03:51",
+    "published_iso": "2026-11-13T03:51:05+09:00",
+    "sort_key": 1794509465.0,
+    "excerpt": "The shift to a strategy meeting next October is just the first step in a broader plan by Kevin M. Warsh, the chairman of the Federal Reserve, to change how the central bank operates.",
+    "matched": [],
+    "analysis": {
+     "summary": "연준 2027년 10월 회의를 전략 회의로 전환",
+     "impact": "시장 영향은 제한적",
+     "affected": "미국 국채"
+    }
+   },
+   {
+    "id": "1dd8f2cf95",
+    "title": "What Do You Want to Know About New York Times Journalism and A.I.?",
+    "url": "https://www.nytimes.com/2026/11/12/insider/nyt-journalism-ai.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/13 03:05",
+    "published_iso": "2026-11-13T03:05:44+09:00",
+    "sort_key": 1794506744.0,
+    "excerpt": "New York Times journalists want to answer your questions about how we’re using artificial intelligence in our report.",
+    "matched": [],
+    "analysis": {
+     "summary": "뉴욕타임스 기자들이 AI 관련 독자 질문에 답함",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "dad6a06606",
+    "title": "Jensen Huang’s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving",
+    "url": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/13 02:26",
+    "published_iso": "2026-11-13T02:26:06+09:00",
+    "sort_key": 1794504366.0,
+    "excerpt": "Mr. Huang, the company’s co-founder, and his wife oversee a charitable foundation with about $9 billion in assets.",
+    "matched": [
+     "NVDA"
+    ],
+    "analysis": {
+     "summary": "젠슨 황 사임으로 수십억 달러 기부 계획이 복잡해질 수 있음",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "a3d887525c",
+    "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
+    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/13 00:53",
+    "published_iso": "2026-11-13T00:53:16+09:00",
+    "sort_key": 1794498796.0,
+    "excerpt": "News that the chipmaker’s chief executive, Jensen Huang, stepped down drove Nvidia’s stock down and reverberated across global markets.",
+    "matched": [
+     "NVDA"
+    ],
+    "analysis": {
+     "summary": "젠슨 황이 엔비디아 CEO에서 물러나자 주가 급락",
+     "impact": "AI 대장주 경영 공백 — 기술주 전반 부담",
+     "affected": "엔비디아, 반도체주, 나스닥",
+     "important": true,
+     "important_tag": "산업·실적",
+     "why_important": "젠슨 황이 엔비디아 CEO에서 사임, 주가 급락 — AI 붐을 이끈 대장주에 경영 공백"
+    }
+   },
+   {
+    "id": "fc7bcb3f23",
+    "title": "Jensen Huang’s Affairs That Upended Nvidia: Timeline of Events",
+    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/13 00:51",
+    "published_iso": "2026-11-13T00:51:40+09:00",
+    "sort_key": 1794498700.0,
+    "excerpt": "News of the Nvidia co-founder’s relationship with a suspected Chinese spy, and his affair with an executive who reports to him, prompted his exit from the multi-trillion-dollar company.",
+    "matched": [
+     "NVDA"
+    ],
+    "analysis": {
+     "summary": "엔비디아를 뒤흔든 젠슨 황 스캔들 일지",
+     "impact": "시장 영향은 제한적",
+     "affected": "엔비디아"
+    }
+   },
+   {
+    "id": "b04f871e66",
+    "title": "The superstar tech boss - who is Jensen Huang?",
+    "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/13 00:48",
+    "published_iso": "2026-11-13T00:48:54+09:00",
+    "sort_key": 1794498534.0,
+    "excerpt": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+    "matched": [],
+    "analysis": {
+     "summary": "슈퍼스타 기술 CEO 젠슨 황은 누구인가",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "1b2d8eadc1",
+    "title": "Jensen Huang Joins a Growing Club: C.E.O.s Brought Down by Affairs",
+    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/13 00:33",
+    "published_iso": "2026-11-13T00:33:27+09:00",
+    "sort_key": 1794497607.0,
+    "excerpt": "The Nvidia founder and chief executive, who resigned on Thursday, is among a group of top bosses whose romantic relationships got them in trouble.",
+    "matched": [],
+    "analysis": {
+     "summary": "젠슨 황도 불륜으로 물러난 CEO 명단에 합류",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "679bb2233a",
+    "title": "Jensen Huang Was the Face of the A.I. Boom Powering the U.S. Economy",
+    "url": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/13 00:12",
+    "published_iso": "2026-11-13T00:12:43+09:00",
+    "sort_key": 1794496363.0,
+    "excerpt": "Nvidia’s ousted leader was a rhetorical and financial booster for investments that are driving economic growth.",
+    "matched": [],
+    "analysis": {
+     "summary": "젠슨 황은 미국 경제를 끌어온 AI 붐의 얼굴이었다",
+     "impact": "AI 투자 심리 위축 가능성",
+     "affected": "AI 관련주"
+    }
+   },
+   {
+    "id": "a020bde731",
+    "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+    "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/13 00:10",
+    "published_iso": "2026-11-13T00:10:32+09:00",
+    "sort_key": 1794496232.0,
+    "excerpt": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
+    "matched": [
+     "NVDA"
+    ],
+    "analysis": {
+     "summary": "엔비디아 임시 CEO 콜레트 크레스와 차기 후보",
+     "impact": "경영 승계 불확실성",
+     "affected": "엔비디아"
+    }
+   },
+   {
+    "id": "6e0a9a6138",
+    "title": "Oil prices mixed after Trump says no Iran deal needed: 'We've got their Strait'",
+    "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+    "source": "CNBC Finance",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/13 00:08",
+    "published_iso": "2026-11-13T00:08:45+09:00",
+    "sort_key": 1794496125.0,
+    "excerpt": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
+    "matched": [],
+    "analysis": {
+     "summary": "트럼프 '이란 합의 불필요 — 해협은 우리가 쥐고 있다' 발언에 유가 혼조",
+     "impact": "유가 변동성 확대",
+     "affected": "정유"
+    }
+   },
+   {
+    "id": "ae07e93979",
+    "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
+    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/12 23:35",
+    "published_iso": "2026-11-12T23:35:18+09:00",
+    "sort_key": 1794494118.0,
+    "excerpt": "Ms. Kress, the company’s chief financial officer, joined Nvidia in 2013.",
+    "matched": [
+     "NVDA"
+    ],
+    "analysis": {
+     "summary": "젠슨 황을 대신할 임시 CEO 콜레트 크레스는 누구",
+     "impact": "시장 영향은 제한적",
+     "affected": "엔비디아"
+    }
+   },
+   {
+    "id": "4e47f951ad",
+    "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
+    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/12 23:28",
+    "published_iso": "2026-11-12T23:28:03+09:00",
+    "sort_key": 1794493683.0,
+    "excerpt": "In a statement, Singapore said it held Alice Huang’s passport months after President Trump was briefed that she was a spy.",
+    "matched": [],
+    "analysis": {
+     "summary": "싱가포르 '앨리스 황·메가스피드 조사에 미국이 협조 안 해'",
+     "impact": "미국·싱가포르 마찰",
+     "affected": "엔비디아"
+    }
+   },
+   {
+    "id": "f46eeb9f1e",
+    "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+    "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/12 22:27",
+    "published_iso": "2026-11-12T22:27:09+09:00",
+    "sort_key": 1794490029.0,
+    "excerpt": "The UK is seeing impressive growth, but will it last?",
+    "matched": [],
+    "analysis": {
+     "summary": "BBC '영국 경제가 뜻밖에 탄탄한 이유'",
+     "impact": "시장 영향은 제한적",
+     "affected": "파운드"
+    }
+   },
+   {
+    "id": "e599eb57e1",
+    "title": "Wall Street Sees the Writing on the Wall for Jensen Huang",
+    "url": "https://www.nytimes.com/2026/11/12/business/dealbook/wall-street-nvidia-huang-spy.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/12 22:14",
+    "published_iso": "2026-11-12T22:14:39+09:00",
+    "sort_key": 1794489279.0,
+    "excerpt": "The company’s board is weighing the fate of its chief executive. Silicon Valley and Washington are steeling themselves for life without him.",
+    "matched": [],
+    "analysis": {
+     "summary": "월가가 본 젠슨 황 퇴진 신호",
+     "impact": "시장 영향은 제한적",
+     "affected": "엔비디아"
+    }
+   },
+   {
+    "id": "40c065b006",
+    "title": "UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth'",
+    "url": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
+    "source": "CNBC Economy",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/12 17:02",
+    "published_iso": "2026-11-12T17:02:15+09:00",
+    "sort_key": 1794470535.0,
+    "excerpt": "The U.K. economy grew 0.7% in the third quarter of the year, in line with estimates.",
+    "matched": [],
+    "analysis": {
+     "summary": "영국 3분기 0.7% 성장 — AI가 '추가 성장 엔진'",
+     "impact": "영국 경기 개선",
+     "affected": "파운드"
+    }
+   },
+   {
+    "id": "3ce081d2b6",
+    "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
+    "url": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
+    "source": "CNBC Finance",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/12 16:28",
+    "published_iso": "2026-11-12T16:28:48+09:00",
+    "sort_key": 1794468528.0,
+    "excerpt": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
+    "matched": [
+     "NVDA"
+    ],
+    "analysis": {
+     "summary": "엔비디아 CEO 스캔들로 중국 국가안전부에 관심 집중",
+     "impact": "미중 긴장 요인",
+     "affected": "엔비디아"
+    }
+   }
+  ],
+  "국내 정책당국": [
+   {
+    "id": "a583573278",
+    "title": "권대영 1차관, 「월급방위대 TF」 킥오프 회의 개최",
+    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079949",
+    "source": "재정경제부 보도자료",
+    "group": "국내 정책당국",
+    "lang": "ko",
+    "published_kst": "11/13 09:00",
+    "published_iso": "2026-11-13T09:00:00+09:00",
+    "sort_key": 1794528000.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "532b8f3ec3",
+    "title": "[보도참고] 2026년 11월 최근 경제동향",
+    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079950",
+    "source": "재정경제부 보도자료",
+    "group": "국내 정책당국",
+    "lang": "ko",
+    "published_kst": "11/13 09:00",
+    "published_iso": "2026-11-13T09:00:00+09:00",
+    "sort_key": 1794528000.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "7481992e87",
+    "title": "제18회 국제금융기구 채용설명회 개최",
+    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079925",
+    "source": "재정경제부 보도자료",
+    "group": "국내 정책당국",
+    "lang": "ko",
+    "published_kst": "11/12 09:00",
+    "published_iso": "2026-11-12T09:00:00+09:00",
+    "sort_key": 1794441600.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "국제금융기구 채용설명회",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "671067dc79",
+    "title": "범부처 민생안정지원단, 청년 취업지원 현장 점검",
+    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079929",
+    "source": "재정경제부 보도자료",
+    "group": "국내 정책당국",
+    "lang": "ko",
+    "published_kst": "11/12 09:00",
+    "published_iso": "2026-11-12T09:00:00+09:00",
+    "sort_key": 1794441600.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "범부처 민생안정지원단 청년 취업지원 점검",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "ba5ee54cf1",
+    "title": "국방분야 혁신제품 최초 지정",
+    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079935",
+    "source": "재정경제부 보도자료",
+    "group": "국내 정책당국",
+    "lang": "ko",
+    "published_kst": "11/12 09:00",
+    "published_iso": "2026-11-12T09:00:00+09:00",
+    "sort_key": 1794441600.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "국방 분야 혁신제품 최초 지정",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   }
+  ],
+  "중앙은행·국제기구": [
+   {
+    "id": "82ba770a29",
+    "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+    "source": "연준(Fed) 보도자료",
+    "group": "중앙은행·국제기구",
+    "lang": "en",
+    "published_kst": "11/13 03:30",
+    "published_iso": "2026-11-13T03:30:00+09:00",
+    "sort_key": 1794508200.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "연준 2027년 지급결제 서비스 가격 공지",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "b8182560b0",
+    "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+    "source": "연준(Fed) 보도자료",
+    "group": "중앙은행·국제기구",
+    "lang": "en",
+    "published_kst": "11/13 02:45",
+    "published_iso": "2026-11-13T02:45:00+09:00",
+    "sort_key": 1794505500.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "연준 2027년 FOMC 일정 수정안 발표",
+     "impact": "시장 영향은 제한적",
+     "affected": "미국 국채"
+    }
+   },
+   {
+    "id": "6baae670e7",
+    "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+    "source": "연준(Fed) 보도자료",
+    "group": "중앙은행·국제기구",
+    "lang": "en",
+    "published_kst": "11/13 01:00",
+    "published_iso": "2026-11-13T01:00:00+09:00",
+    "sort_key": 1794499200.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "연준이 전 은행 직원에게 제재 조치",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   }
   ]
+ },
+ "counts": {
+  "indices_ok": 8,
+  "indices_total": 8,
+  "stocks_ok": 9,
+  "stocks_total": 9,
+  "news": 78,
+  "news_new": 25
+ },
+ "errors": [
+  {
+   "stage": "news",
+   "target": "금융위원회 보도자료",
+   "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
+  }
+ ]
 }
