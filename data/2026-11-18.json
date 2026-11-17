@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "generated_at": "2026-11-18 01:51",
+ "generated_at": "2026-11-18 07:26",
  "weekday": "수",
  "site": {
   "title": "오늘의 경제 한 장",
@@ -49,13 +49,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 7306.13,
+   "price": 7340.53,
    "prev_close": 7520.93,
-   "change": -214.8,
-   "change_pct": -2.86,
+   "change": -180.4,
+   "change_pct": -2.4,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1794934284,
+   "asof_epoch": 1794951732,
    "asof_date": null
   },
   {
@@ -65,13 +65,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 24120.264,
+   "price": 24328.383,
    "prev_close": 25065.87,
-   "change": -945.606,
-   "change_pct": -3.77,
+   "change": -737.487,
+   "change_pct": -2.94,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1794934281,
+   "asof_epoch": 1794953759,
    "asof_date": null
   },
   {
@@ -81,13 +81,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 1335.28,
+   "price": 1334.87,
    "prev_close": 1341.91,
-   "change": -6.63,
-   "change_pct": -0.49,
+   "change": -7.04,
+   "change_pct": -0.52,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1794934282,
+   "asof_epoch": 1794953675,
    "asof_date": null
   },
   {
@@ -97,13 +97,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 5.101,
+   "price": 5.103,
    "prev_close": 4.998,
-   "change": 0.103,
-   "change_pct": 2.06,
+   "change": 0.105,
+   "change_pct": 2.1,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1794933373,
+   "asof_epoch": 1794945593,
    "asof_date": null
   },
   {
@@ -113,13 +113,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 86.57,
+   "price": 85.61,
    "prev_close": 88.74,
-   "change": -2.17,
-   "change_pct": -2.45,
+   "change": -3.13,
+   "change_pct": -3.53,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1794933682,
+   "asof_epoch": 1794952799,
    "asof_date": null
   },
   {
@@ -129,13 +129,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 3869.6,
+   "price": 3851.9,
    "prev_close": 3885.3,
-   "change": -15.7,
-   "change_pct": -0.4,
+   "change": -33.4,
+   "change_pct": -0.86,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1794933681,
+   "asof_epoch": 1794952799,
    "asof_date": null
   }
  ],
@@ -224,7 +224,15 @@
    "source": "yahoo",
    "asof_epoch": 1794897003,
    "asof_date": null,
-   "news": []
+   "news": [
+    {
+     "id": "c4b8ff7ea2",
+     "title": "조선·방산 뜨고 석화·배터리 지고…금융권 신용공여 순위 재편",
+     "url": "https://www.yna.co.kr/view/AKR20261117157900002",
+     "source": "연합뉴스 경제",
+     "published_kst": "11/18 05:53"
+    }
+   ]
   },
   {
    "name": "NAVER",
@@ -257,13 +265,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 152.88,
+   "price": 155.46,
    "prev_close": 168.89,
-   "change": -16.01,
-   "change_pct": -9.48,
+   "change": -13.43,
+   "change_pct": -7.95,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1794934284,
+   "asof_epoch": 1794949200,
    "asof_date": null,
    "news": [
     {
@@ -279,6 +287,34 @@
      "url": "https://www.hankyung.com/article/202611172971i",
      "source": "한국경제",
      "published_kst": "11/17 20:31"
+    },
+    {
+     "id": "b51f8109ce",
+     "title": "Jensen Huang’s daughter, a close ally, remains in a senior role at Nvidia.",
+     "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huangs-daughter-a-close-ally-remains-in-a-senior-role-at-nvidia",
+     "source": "NYT Business",
+     "published_kst": "11/18 07:20"
+    },
+    {
+     "id": "1eb6c4f0c3",
+     "title": "New Nvidia boss says momentum goes on as firm reports bumper results after Huang quits",
+     "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "published_kst": "11/18 07:19"
+    },
+    {
+     "id": "b36d63ced4",
+     "title": "What to know about the Nvidia turmoil.",
+     "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/what-to-know-about-the-nvidia-turmoil",
+     "source": "NYT Business",
+     "published_kst": "11/18 06:01"
+    },
+    {
+     "id": "f8af7ba8ee",
+     "title": "Stocks Down Just Ahead of Nvidia’s Earnings Report",
+     "url": "https://www.nytimes.com/2026/11/17/business/economy/stock-market-nvidia-earnings.html",
+     "source": "NYT Business",
+     "published_kst": "11/18 05:38"
     },
     {
      "id": "b83c0d1555",
@@ -321,13 +357,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 351.165,
+   "price": 351.91,
    "prev_close": 348.51,
-   "change": 2.655,
-   "change_pct": 0.76,
+   "change": 3.4,
+   "change_pct": 0.98,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1794934283,
+   "asof_epoch": 1794949201,
    "asof_date": null,
    "news": [
     {
@@ -336,6 +372,13 @@
      "url": "https://www.yna.co.kr/view/AKR20261117137300002",
      "source": "연합뉴스 경제",
      "published_kst": "11/17 17:33"
+    },
+    {
+     "id": "70c1fe99c8",
+     "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
+     "url": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
+     "source": "NYT Business",
+     "published_kst": "11/18 06:39"
     },
     {
      "id": "7d91861a30",
@@ -357,13 +400,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 377.89,
+   "price": 380.11,
    "prev_close": 379.78,
-   "change": -1.89,
-   "change_pct": -0.5,
+   "change": 0.33,
+   "change_pct": 0.09,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1794934281,
+   "asof_epoch": 1794949201,
    "asof_date": null,
    "news": []
   },
@@ -378,18 +421,329 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 497.04,
+   "price": 506.24,
    "prev_close": 533.16,
-   "change": -36.12,
-   "change_pct": -6.77,
+   "change": -26.92,
+   "change_pct": -5.05,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1794934283,
+   "asof_epoch": 1794949201,
    "asof_date": null,
    "news": []
   }
  ],
  "news": [
+  {
+   "id": "f55f22e38f",
+   "title": "Here’s the latest.",
+   "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/heres-the-latest",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/18 07:22",
+   "published_iso": "2026-11-18T07:22:03+09:00",
+   "sort_key": 1794954123.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "b51f8109ce",
+   "title": "Jensen Huang’s daughter, a close ally, remains in a senior role at Nvidia.",
+   "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huangs-daughter-a-close-ally-remains-in-a-senior-role-at-nvidia",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/18 07:20",
+   "published_iso": "2026-11-18T07:20:01+09:00",
+   "sort_key": 1794954001.0,
+   "excerpt": "",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "1eb6c4f0c3",
+   "title": "New Nvidia boss says momentum goes on as firm reports bumper results after Huang quits",
+   "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/18 07:19",
+   "published_iso": "2026-11-18T07:19:22+09:00",
+   "sort_key": 1794953962.0,
+   "excerpt": "Nvidia's ousted CEO Jensen Huang earlier on Tuesday offered to return, despite the board's disinterest.",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "8cd2249a09",
+   "title": "Jensen Huang carried a secret for more than a year. It led to his downfall.",
+   "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huang-carried-a-secret-for-more-than-a-year-it-led-to-his-downfall",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/18 06:53",
+   "published_iso": "2026-11-18T06:53:20+09:00",
+   "sort_key": 1794952400.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "70c1fe99c8",
+   "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
+   "url": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/18 06:39",
+   "published_iso": "2026-11-18T06:39:25+09:00",
+   "sort_key": 1794951565.0,
+   "excerpt": "The disruption followed days of unrelated problems in the past week that interrupted air travel and work at offices, schools and government.",
+   "matched": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "c5092fa926",
+   "title": "\"케이크 한 조각에 담긴 말 못한 마음\"…이슬아·박혜진의 크리스마스 이야기 [전문]",
+   "url": "https://www.hankyung.com/article/202611173039i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 06:30",
+   "published_iso": "2026-11-18T06:30:06+09:00",
+   "sort_key": 1794951006.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "3aa2938214",
+   "title": "\"김치 사 먹으면 담글 때보다 2.3배 비싸…4인 가족 77만원\"",
+   "url": "https://www.yna.co.kr/view/AKR20261117142800030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 06:30",
+   "published_iso": "2026-11-18T06:30:02+09:00",
+   "sort_key": 1794951002.0,
+   "excerpt": "(서울=연합뉴스) 한주홍 기자 = 4인 가족이 김치를 직접 담그는 대신 완제품을 사 먹으면 비용이 2배 넘게 든다는 조사 결과가 나왔다.",
+   "matched": []
+  },
+  {
+   "id": "b36d63ced4",
+   "title": "What to know about the Nvidia turmoil.",
+   "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/what-to-know-about-the-nvidia-turmoil",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/18 06:01",
+   "published_iso": "2026-11-18T06:01:05+09:00",
+   "sort_key": 1794949265.0,
+   "excerpt": "",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "490733cb89",
+   "title": "'스타벅스 다음은 여기' 돌풍…SNS 발칵 뒤집은 '이 음료'",
+   "url": "https://www.hankyung.com/article/2026111726641",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 06:00",
+   "published_iso": "2026-11-18T06:00:20+09:00",
+   "sort_key": 1794949220.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "ce0b4786c7",
+   "title": "배달앱 결제액 역대 최대인데…비만약 확산이 새 변수로 [권용훈의 트렌드워치]",
+   "url": "https://www.hankyung.com/article/202611168369i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 06:00",
+   "published_iso": "2026-11-18T06:00:15+09:00",
+   "sort_key": 1794949215.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "b686d93972",
+   "title": "\"왜 이렇게 아이폰이 많아요?\" 농담했던 이재용…현실은 달랐다 [트렌드시그널]",
+   "url": "https://www.hankyung.com/article/202611172385g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 06:00",
+   "published_iso": "2026-11-18T06:00:12+09:00",
+   "sort_key": 1794949212.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "ed37f3eb9c",
+   "title": "행정기관 대거 세종 이전 예정에…'무산' 공공주택사업 살아날까",
+   "url": "https://www.yna.co.kr/view/AKR20261117149500063",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 06:00",
+   "published_iso": "2026-11-18T06:00:07+09:00",
+   "sort_key": 1794949207.0,
+   "excerpt": "(세종=연합뉴스) 양영석 기자 = 경제성이 떨어진다는 이유로 사업시행자인 한국토지주택공사(LH)가 포기하겠다고 밝힌 세종시 공공주택사업 해제 결...",
+   "matched": []
+  },
+  {
+   "id": "46516fb1bd",
+   "title": "\"저 연구원인데요\"…한 달 넘게 카톡하던 미녀의 충격 정체 [털리는 대한민국]",
+   "url": "https://www.hankyung.com/article/202611171907H",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 06:00",
+   "published_iso": "2026-11-18T06:00:06+09:00",
+   "sort_key": 1794949206.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "e602ef981e",
+   "title": "주변부 시스템까지 전수 보안점검…대형사 평가 연 1회→2회",
+   "url": "https://www.yna.co.kr/view/AKR20261117167100002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 06:00",
+   "published_iso": "2026-11-18T06:00:03+09:00",
+   "sort_key": 1794949203.0,
+   "excerpt": "(서울=연합뉴스) 강류나 기자 = 금융당국이 인공지능(AI) 해킹 등 고도화되는 사이버 공격에 대응하기 위해 대형 금융사 보안 점검 횟수를 늘리...",
+   "matched": []
+  },
+  {
+   "id": "2076abfae3",
+   "title": "9월 은행 대출 연체율 0.59%…동월 기준 10년만에 최고",
+   "url": "https://www.yna.co.kr/view/AKR20261117164300002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 06:00",
+   "published_iso": "2026-11-18T06:00:02+09:00",
+   "sort_key": 1794949202.0,
+   "excerpt": "(서울=연합뉴스) 강류나 기자 = 올해 9월 국내 은행의 원화 대출 연체율이 동월 기준으로 10년 만에 가장 높은 수준을 기록한 것으로 나타났다...",
+   "matched": []
+  },
+  {
+   "id": "d42face610",
+   "title": "트럼프家 스테이블코인도 레임덕?…한 달째 1달러 하회",
+   "url": "https://www.yna.co.kr/view/AKR20261117158100002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 05:57",
+   "published_iso": "2026-11-18T05:57:01+09:00",
+   "sort_key": 1794949021.0,
+   "excerpt": "(서울=연합뉴스) 박수현 기자 = 도널드 트럼프 미국 대통령의 가족이 설립한 가상자산(코인) 기업 &apos;월드 리버티 파이낸셜&apos;(WLFI)의 달러 기...",
+   "matched": []
+  },
+  {
+   "id": "2c7066c1c6",
+   "title": "세계 4번째 수출 1조달러 초읽기…돼지털 팔던 나라의 기적",
+   "url": "https://www.yna.co.kr/view/AKR20261117142400003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 05:55",
+   "published_iso": "2026-11-18T05:55:01+09:00",
+   "sort_key": 1794948901.0,
+   "excerpt": "(서울=연합뉴스) 신창용 기자 = 우리나라가 이르면 오는 19일 사상 첫 연간 수출 1조달러 시대를 연다. 미국·독일·중국에 이은 세계 4번째 ...",
+   "matched": []
+  },
+  {
+   "id": "1acbe4c5cc",
+   "title": "미래에셋생명 해킹 유출 1만명 넘어…스트리미 2천명으로 늘어",
+   "url": "https://www.yna.co.kr/view/AKR20261117164600002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 05:55",
+   "published_iso": "2026-11-18T05:55:01+09:00",
+   "sort_key": 1794948901.0,
+   "excerpt": "(서울=연합뉴스) 강수련 박수현 기자 = 해킹 침해사고가 발생한 미래에셋생명[085620]의 개인신용정보 유출 규모가 1만명을 넘어선 것으로 나...",
+   "matched": []
+  },
+  {
+   "id": "c4b8ff7ea2",
+   "title": "조선·방산 뜨고 석화·배터리 지고…금융권 신용공여 순위 재편",
+   "url": "https://www.yna.co.kr/view/AKR20261117157900002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 05:53",
+   "published_iso": "2026-11-18T05:53:00+09:00",
+   "sort_key": 1794948780.0,
+   "excerpt": "(서울=연합뉴스) 채새롬 기자 = 조선·방산업 호황과 석유화학·이차전지 업황 부진이 이어지면서 주요 금융지주의 거액 신용공여 현황에서도 업종별 ...",
+   "matched": [
+    "373220.KS"
+   ]
+  },
+  {
+   "id": "71f4a04632",
+   "title": "What Was That Alert on TV and the Radio? It Was Only a Test.",
+   "url": "https://www.nytimes.com/2026/11/17/business/media/nationwide-emergency-alert-test-fema.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/18 05:38",
+   "published_iso": "2026-11-18T05:38:29+09:00",
+   "sort_key": 1794947909.0,
+   "excerpt": "A national test mandated every three years was broadcast on television and radio at 2:20 p.m. Eastern time on Tuesday.",
+   "matched": []
+  },
+  {
+   "id": "f8af7ba8ee",
+   "title": "Stocks Down Just Ahead of Nvidia’s Earnings Report",
+   "url": "https://www.nytimes.com/2026/11/17/business/economy/stock-market-nvidia-earnings.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/18 05:38",
+   "published_iso": "2026-11-18T05:38:02+09:00",
+   "sort_key": 1794947882.0,
+   "excerpt": "The chip maker is scheduled to release its quarterly results amid broader jitters about the A.I. trade.",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "304b29b4cc",
+   "title": "I.R.S. Opens Criminal Probes as Part of Trump’s Pursuit of Left-Wing Groups",
+   "url": "https://www.nytimes.com/2026/11/17/us/politics/irs-criminal-investigations.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/18 04:50",
+   "published_iso": "2026-11-18T04:50:00+09:00",
+   "sort_key": 1794945000.0,
+   "excerpt": "An internal I.R.S. memo viewed by The New York Times reveals how the agency is carrying out President Trump’s orders to investigate “domestic terrorism.”",
+   "matched": []
+  },
+  {
+   "id": "8481a1d7c5",
+   "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
+   "source": "유럽중앙은행(ECB)",
+   "group": "중앙은행·국제기구",
+   "lang": "en",
+   "published_kst": "11/18 03:30",
+   "published_iso": "2026-11-18T03:30:00+09:00",
+   "sort_key": 1794940200.0,
+   "excerpt": "",
+   "matched": []
+  },
   {
    "id": "cc6012957b",
    "title": "Trump’s New A.I. Chip Rules Rattle Southeast Asia",
@@ -812,6 +1166,133 @@
  "news_groups": {
   "해외 경제언론": [
    {
+    "id": "f55f22e38f",
+    "title": "Here’s the latest.",
+    "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/heres-the-latest",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 07:22",
+    "published_iso": "2026-11-18T07:22:03+09:00",
+    "sort_key": 1794954123.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "b51f8109ce",
+    "title": "Jensen Huang’s daughter, a close ally, remains in a senior role at Nvidia.",
+    "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huangs-daughter-a-close-ally-remains-in-a-senior-role-at-nvidia",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 07:20",
+    "published_iso": "2026-11-18T07:20:01+09:00",
+    "sort_key": 1794954001.0,
+    "excerpt": "",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "1eb6c4f0c3",
+    "title": "New Nvidia boss says momentum goes on as firm reports bumper results after Huang quits",
+    "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 07:19",
+    "published_iso": "2026-11-18T07:19:22+09:00",
+    "sort_key": 1794953962.0,
+    "excerpt": "Nvidia's ousted CEO Jensen Huang earlier on Tuesday offered to return, despite the board's disinterest.",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "8cd2249a09",
+    "title": "Jensen Huang carried a secret for more than a year. It led to his downfall.",
+    "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huang-carried-a-secret-for-more-than-a-year-it-led-to-his-downfall",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 06:53",
+    "published_iso": "2026-11-18T06:53:20+09:00",
+    "sort_key": 1794952400.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "70c1fe99c8",
+    "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
+    "url": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 06:39",
+    "published_iso": "2026-11-18T06:39:25+09:00",
+    "sort_key": 1794951565.0,
+    "excerpt": "The disruption followed days of unrelated problems in the past week that interrupted air travel and work at offices, schools and government.",
+    "matched": [
+     "AAPL"
+    ]
+   },
+   {
+    "id": "b36d63ced4",
+    "title": "What to know about the Nvidia turmoil.",
+    "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/what-to-know-about-the-nvidia-turmoil",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 06:01",
+    "published_iso": "2026-11-18T06:01:05+09:00",
+    "sort_key": 1794949265.0,
+    "excerpt": "",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "71f4a04632",
+    "title": "What Was That Alert on TV and the Radio? It Was Only a Test.",
+    "url": "https://www.nytimes.com/2026/11/17/business/media/nationwide-emergency-alert-test-fema.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 05:38",
+    "published_iso": "2026-11-18T05:38:29+09:00",
+    "sort_key": 1794947909.0,
+    "excerpt": "A national test mandated every three years was broadcast on television and radio at 2:20 p.m. Eastern time on Tuesday.",
+    "matched": []
+   },
+   {
+    "id": "f8af7ba8ee",
+    "title": "Stocks Down Just Ahead of Nvidia’s Earnings Report",
+    "url": "https://www.nytimes.com/2026/11/17/business/economy/stock-market-nvidia-earnings.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 05:38",
+    "published_iso": "2026-11-18T05:38:02+09:00",
+    "sort_key": 1794947882.0,
+    "excerpt": "The chip maker is scheduled to release its quarterly results amid broader jitters about the A.I. trade.",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "304b29b4cc",
+    "title": "I.R.S. Opens Criminal Probes as Part of Trump’s Pursuit of Left-Wing Groups",
+    "url": "https://www.nytimes.com/2026/11/17/us/politics/irs-criminal-investigations.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 04:50",
+    "published_iso": "2026-11-18T04:50:00+09:00",
+    "sort_key": 1794945000.0,
+    "excerpt": "An internal I.R.S. memo viewed by The New York Times reveals how the agency is carrying out President Trump’s orders to investigate “domestic terrorism.”",
+    "matched": []
+   },
+   {
     "id": "cc6012957b",
     "title": "Trump’s New A.I. Chip Rules Rattle Southeast Asia",
     "url": "https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html",
@@ -1031,6 +1512,177 @@
   ],
   "국내 경제언론": [
    {
+    "id": "c5092fa926",
+    "title": "\"케이크 한 조각에 담긴 말 못한 마음\"…이슬아·박혜진의 크리스마스 이야기 [전문]",
+    "url": "https://www.hankyung.com/article/202611173039i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 06:30",
+    "published_iso": "2026-11-18T06:30:06+09:00",
+    "sort_key": 1794951006.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "3aa2938214",
+    "title": "\"김치 사 먹으면 담글 때보다 2.3배 비싸…4인 가족 77만원\"",
+    "url": "https://www.yna.co.kr/view/AKR20261117142800030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 06:30",
+    "published_iso": "2026-11-18T06:30:02+09:00",
+    "sort_key": 1794951002.0,
+    "excerpt": "(서울=연합뉴스) 한주홍 기자 = 4인 가족이 김치를 직접 담그는 대신 완제품을 사 먹으면 비용이 2배 넘게 든다는 조사 결과가 나왔다.",
+    "matched": []
+   },
+   {
+    "id": "490733cb89",
+    "title": "'스타벅스 다음은 여기' 돌풍…SNS 발칵 뒤집은 '이 음료'",
+    "url": "https://www.hankyung.com/article/2026111726641",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 06:00",
+    "published_iso": "2026-11-18T06:00:20+09:00",
+    "sort_key": 1794949220.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "ce0b4786c7",
+    "title": "배달앱 결제액 역대 최대인데…비만약 확산이 새 변수로 [권용훈의 트렌드워치]",
+    "url": "https://www.hankyung.com/article/202611168369i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 06:00",
+    "published_iso": "2026-11-18T06:00:15+09:00",
+    "sort_key": 1794949215.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "b686d93972",
+    "title": "\"왜 이렇게 아이폰이 많아요?\" 농담했던 이재용…현실은 달랐다 [트렌드시그널]",
+    "url": "https://www.hankyung.com/article/202611172385g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 06:00",
+    "published_iso": "2026-11-18T06:00:12+09:00",
+    "sort_key": 1794949212.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "ed37f3eb9c",
+    "title": "행정기관 대거 세종 이전 예정에…'무산' 공공주택사업 살아날까",
+    "url": "https://www.yna.co.kr/view/AKR20261117149500063",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 06:00",
+    "published_iso": "2026-11-18T06:00:07+09:00",
+    "sort_key": 1794949207.0,
+    "excerpt": "(세종=연합뉴스) 양영석 기자 = 경제성이 떨어진다는 이유로 사업시행자인 한국토지주택공사(LH)가 포기하겠다고 밝힌 세종시 공공주택사업 해제 결...",
+    "matched": []
+   },
+   {
+    "id": "46516fb1bd",
+    "title": "\"저 연구원인데요\"…한 달 넘게 카톡하던 미녀의 충격 정체 [털리는 대한민국]",
+    "url": "https://www.hankyung.com/article/202611171907H",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 06:00",
+    "published_iso": "2026-11-18T06:00:06+09:00",
+    "sort_key": 1794949206.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "e602ef981e",
+    "title": "주변부 시스템까지 전수 보안점검…대형사 평가 연 1회→2회",
+    "url": "https://www.yna.co.kr/view/AKR20261117167100002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 06:00",
+    "published_iso": "2026-11-18T06:00:03+09:00",
+    "sort_key": 1794949203.0,
+    "excerpt": "(서울=연합뉴스) 강류나 기자 = 금융당국이 인공지능(AI) 해킹 등 고도화되는 사이버 공격에 대응하기 위해 대형 금융사 보안 점검 횟수를 늘리...",
+    "matched": []
+   },
+   {
+    "id": "2076abfae3",
+    "title": "9월 은행 대출 연체율 0.59%…동월 기준 10년만에 최고",
+    "url": "https://www.yna.co.kr/view/AKR20261117164300002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 06:00",
+    "published_iso": "2026-11-18T06:00:02+09:00",
+    "sort_key": 1794949202.0,
+    "excerpt": "(서울=연합뉴스) 강류나 기자 = 올해 9월 국내 은행의 원화 대출 연체율이 동월 기준으로 10년 만에 가장 높은 수준을 기록한 것으로 나타났다...",
+    "matched": []
+   },
+   {
+    "id": "d42face610",
+    "title": "트럼프家 스테이블코인도 레임덕?…한 달째 1달러 하회",
+    "url": "https://www.yna.co.kr/view/AKR20261117158100002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 05:57",
+    "published_iso": "2026-11-18T05:57:01+09:00",
+    "sort_key": 1794949021.0,
+    "excerpt": "(서울=연합뉴스) 박수현 기자 = 도널드 트럼프 미국 대통령의 가족이 설립한 가상자산(코인) 기업 &apos;월드 리버티 파이낸셜&apos;(WLFI)의 달러 기...",
+    "matched": []
+   },
+   {
+    "id": "2c7066c1c6",
+    "title": "세계 4번째 수출 1조달러 초읽기…돼지털 팔던 나라의 기적",
+    "url": "https://www.yna.co.kr/view/AKR20261117142400003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 05:55",
+    "published_iso": "2026-11-18T05:55:01+09:00",
+    "sort_key": 1794948901.0,
+    "excerpt": "(서울=연합뉴스) 신창용 기자 = 우리나라가 이르면 오는 19일 사상 첫 연간 수출 1조달러 시대를 연다. 미국·독일·중국에 이은 세계 4번째 ...",
+    "matched": []
+   },
+   {
+    "id": "1acbe4c5cc",
+    "title": "미래에셋생명 해킹 유출 1만명 넘어…스트리미 2천명으로 늘어",
+    "url": "https://www.yna.co.kr/view/AKR20261117164600002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 05:55",
+    "published_iso": "2026-11-18T05:55:01+09:00",
+    "sort_key": 1794948901.0,
+    "excerpt": "(서울=연합뉴스) 강수련 박수현 기자 = 해킹 침해사고가 발생한 미래에셋생명[085620]의 개인신용정보 유출 규모가 1만명을 넘어선 것으로 나...",
+    "matched": []
+   },
+   {
+    "id": "c4b8ff7ea2",
+    "title": "조선·방산 뜨고 석화·배터리 지고…금융권 신용공여 순위 재편",
+    "url": "https://www.yna.co.kr/view/AKR20261117157900002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 05:53",
+    "published_iso": "2026-11-18T05:53:00+09:00",
+    "sort_key": 1794948780.0,
+    "excerpt": "(서울=연합뉴스) 채새롬 기자 = 조선·방산업 호황과 석유화학·이차전지 업황 부진이 이어지면서 주요 금융지주의 거액 신용공여 현황에서도 업종별 ...",
+    "matched": [
+     "373220.KS"
+    ]
+   },
+   {
     "id": "939bb1e63d",
     "title": "中 장악한 AI 무기는 '이것'…아마존·구글·메타 \"대비에 10년 걸려\"[박신영의 개장전 요것만]",
     "url": "https://www.hankyung.com/article/202611183128i",
@@ -1231,6 +1883,21 @@
      "AAPL"
     ]
    }
+  ],
+  "중앙은행·국제기구": [
+   {
+    "id": "8481a1d7c5",
+    "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
+    "source": "유럽중앙은행(ECB)",
+    "group": "중앙은행·국제기구",
+    "lang": "en",
+    "published_kst": "11/18 03:30",
+    "published_iso": "2026-11-18T03:30:00+09:00",
+    "sort_key": 1794940200.0,
+    "excerpt": "",
+    "matched": []
+   }
   ]
  },
  "counts": {
@@ -1238,8 +1905,8 @@
   "indices_total": 8,
   "stocks_ok": 9,
   "stocks_total": 9,
-  "news": 31,
-  "news_new": 31
+  "news": 54,
+  "news_new": 23
  },
  "errors": [
   {
