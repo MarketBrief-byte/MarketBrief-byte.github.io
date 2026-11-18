@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "generated_at": "2026-11-18 12:40",
+ "generated_at": "2026-11-18 16:26",
  "weekday": "수",
  "site": {
   "title": "오늘의 경제 한 장",
@@ -17,13 +17,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 4995.72,
+   "price": 5067.44,
    "prev_close": 5375.36,
-   "change": -379.64,
-   "change_pct": -7.06,
+   "change": -307.92,
+   "change_pct": -5.73,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1794972050,
+   "asof_epoch": 1794983440,
    "asof_date": null
   },
   {
@@ -33,13 +33,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 653.24,
+   "price": 662.81,
    "prev_close": 705.1,
-   "change": -51.86,
-   "change_pct": -7.35,
+   "change": -42.29,
+   "change_pct": -6.0,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1794972050,
+   "asof_epoch": 1794983580,
    "asof_date": null
   },
   {
@@ -81,13 +81,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 1330.28,
+   "price": 1332.98,
    "prev_close": 1336.26,
-   "change": -5.98,
-   "change_pct": -0.45,
+   "change": -3.28,
+   "change_pct": -0.25,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1794973256,
+   "asof_epoch": 1794986786,
    "asof_date": null
   },
   {
@@ -113,13 +113,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 85.08,
-   "prev_close": 88.74,
-   "change": -3.66,
-   "change_pct": -4.12,
+   "price": 83.96,
+   "prev_close": 88.56,
+   "change": -4.6,
+   "change_pct": -5.19,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1794972628,
+   "asof_epoch": 1794986188,
    "asof_date": null
   },
   {
@@ -129,13 +129,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 3794.6,
-   "prev_close": 3885.3,
-   "change": -90.7,
-   "change_pct": -2.33,
+   "price": 3774.7,
+   "prev_close": 3886.3,
+   "change": -111.6,
+   "change_pct": -2.87,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1794972650,
+   "asof_epoch": 1794986185,
    "asof_date": null
   }
  ],
@@ -151,13 +151,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 190900.0,
+   "price": 194700.0,
    "prev_close": 206000.0,
-   "change": -15100.0,
-   "change_pct": -7.33,
+   "change": -11300.0,
+   "change_pct": -5.49,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1794972057,
+   "asof_epoch": 1794983416,
    "asof_date": null,
    "news": []
   },
@@ -173,13 +173,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 1129500.0,
+   "price": 1144000.0,
    "prev_close": 1277000.0,
-   "change": -147500.0,
-   "change_pct": -11.55,
+   "change": -133000.0,
+   "change_pct": -10.42,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1794972058,
+   "asof_epoch": 1794983414,
    "asof_date": null,
    "news": []
   },
@@ -194,13 +194,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 255500.0,
+   "price": 267000.0,
    "prev_close": 272500.0,
-   "change": -17000.0,
-   "change_pct": -6.24,
+   "change": -5500.0,
+   "change_pct": -2.02,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1794972057,
+   "asof_epoch": 1794983429,
    "asof_date": null,
    "news": []
   },
@@ -216,13 +216,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 300250.0,
+   "price": 305000.0,
    "prev_close": 335500.0,
-   "change": -35250.0,
-   "change_pct": -10.51,
+   "change": -30500.0,
+   "change_pct": -9.09,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1794972055,
+   "asof_epoch": 1794983403,
    "asof_date": null,
    "news": [
     {
@@ -244,13 +244,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 168900.0,
+   "price": 170300.0,
    "prev_close": 194300.0,
-   "change": -25400.0,
-   "change_pct": -13.07,
+   "change": -24000.0,
+   "change_pct": -12.35,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1794972057,
+   "asof_epoch": 1794983426,
    "asof_date": null,
    "news": [
     {
@@ -295,6 +295,13 @@
      "url": "https://www.hankyung.com/article/202611172971i",
      "source": "한국경제",
      "published_kst": "11/17 20:31"
+    },
+    {
+     "id": "f2571879ac",
+     "title": "How important are Nvidia and Jensen Huang to the US economy?",
+     "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "published_kst": "11/18 15:04"
     },
     {
      "id": "b1a28720a6",
@@ -473,6 +480,281 @@
    "published_iso": "2026-11-18T19:41:40+09:00",
    "sort_key": 1794998500.0,
    "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "da738fb475",
+   "title": "강릉시 벤처펀드 투자설명회…운용사 3곳 1:1 상담",
+   "url": "https://www.yna.co.kr/view/AKR20261118147100062",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 16:20",
+   "published_iso": "2026-11-18T16:20:16+09:00",
+   "sort_key": 1794986416.0,
+   "excerpt": "(강릉=연합뉴스) 유형재 기자 = 강원 강릉시는 18일 시청 대회의실에서 &apos;강원 전략산업 벤처펀드 투자설명회&apos;를 개최했다.",
+   "matched": []
+  },
+  {
+   "id": "e81b4644f4",
+   "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
+   "url": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+   "source": "CNBC Finance",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/18 16:17",
+   "published_iso": "2026-11-18T16:17:11+09:00",
+   "sort_key": 1794986231.0,
+   "excerpt": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
+   "matched": []
+  },
+  {
+   "id": "79407dbc2a",
+   "title": "Higher fuel prices push UK inflation to 3.6%",
+   "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/18 16:15",
+   "published_iso": "2026-11-18T16:15:33+09:00",
+   "sort_key": 1794986133.0,
+   "excerpt": "There are also signs inflation is impacting the wider economy, with the cost raw materials and goods leaving factories climbing.",
+   "matched": []
+  },
+  {
+   "id": "8d6ac5649f",
+   "title": "양주시, 지방보조금 전용 계좌 운영 업무 협약 체결",
+   "url": "https://www.yna.co.kr/view/AKR20261118146000060",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 16:13",
+   "published_iso": "2026-11-18T16:13:57+09:00",
+   "sort_key": 1794986037.0,
+   "excerpt": "(양주=연합뉴스) 노승혁 기자 = 경기 양주시는 18일 양주새마을금고, 하나신용협동조합과 지방보조금 전용 계좌(금고 외 금융기관) 업무 협약을 ...",
+   "matched": []
+  },
+  {
+   "id": "a30422b2f0",
+   "title": "태백시, 원자력환경공단에 지하연구시설 지역상생 방안 건의",
+   "url": "https://www.yna.co.kr/view/AKR20261118144900062",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 16:11",
+   "published_iso": "2026-11-18T16:11:51+09:00",
+   "sort_key": 1794985911.0,
+   "excerpt": "(태백=연합뉴스) 이상학 기자 = 강원 태백시가 연구용 지하연구시설(URL) 구축 과정에서 지역업체 참여와 주민 편의시설 조성 등을 추진해달라고...",
+   "matched": []
+  },
+  {
+   "id": "67f776650b",
+   "title": "코스피, 2% 오른 5,067 마감…하루 만에 '5천피' 탈환(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261118143200008",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 16:10",
+   "published_iso": "2026-11-18T16:10:50+09:00",
+   "sort_key": 1794985850.0,
+   "excerpt": "(서울=연합뉴스) 김유아 기자 = 18일 코스피가 상승 마감하며 하루 만에 &apos;5천피&apos;(코스피 5,000)를 탈환했다.",
+   "matched": []
+  },
+  {
+   "id": "a6c1163a9e",
+   "title": "'결혼해야 한다' 55%, 12년 만에 최고…걸림돌은 돈·일자리(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261118091651002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 16:03",
+   "published_iso": "2026-11-18T16:03:08+09:00",
+   "sort_key": 1794985388.0,
+   "excerpt": "(세종=연합뉴스) 송정은 기자 = 결혼에 관한 긍정적인 인식이 높아지고 있는 가운데 미혼 남성과 여성 간의 견해 차이는 여전한 것으로 조사됐다.",
+   "matched": []
+  },
+  {
+   "id": "7e980e433b",
+   "title": "강원랜드·코트라, '청년·기업·스타트업 상생 콘서트' 개최",
+   "url": "https://www.yna.co.kr/view/AKR20261118142200062",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 15:55",
+   "published_iso": "2026-11-18T15:55:54+09:00",
+   "sort_key": 1794984954.0,
+   "excerpt": "(원주=연합뉴스) 강태현 기자 = 강원랜드와 코트라(KOTRA)는 18일 호텔인터불고 원주에서 지역 기업의 해외 진출과 청년 취업·창업을 돕기 ...",
+   "matched": []
+  },
+  {
+   "id": "4a76256a2e",
+   "title": "공정률 35%에 예산도 미확보…전주 쑥고개로 확장 '준공 차질'",
+   "url": "https://www.yna.co.kr/view/AKR20261118141100055",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 15:55",
+   "published_iso": "2026-11-18T15:55:35+09:00",
+   "sort_key": 1794984935.0,
+   "excerpt": "(전주=연합뉴스) 김동철 기자 = 전북 전주시가 서부신시가지와 효천지구 일대의 극심한 교통량 분산을 위해 추진 중인 &apos;쑥고개로 확장공사&apos;가 사업...",
+   "matched": []
+  },
+  {
+   "id": "0f3990fe4d",
+   "title": "[게시판] 미래에셋, 과학기술인공제회와 '사랑의 김장김치 나눔' 봉사",
+   "url": "https://www.yna.co.kr/view/AKR20261118140700008",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 15:55",
+   "published_iso": "2026-11-18T15:55:05+09:00",
+   "sort_key": 1794984905.0,
+   "excerpt": "▲ 미래에셋증권[006800]은 과학기술인공제회와 함께 &apos;사랑의 김장김치 나눔&apos; 봉사활동을 진행했다고 18일 밝혔다. 이 행사는 소외된 이웃이 ...",
+   "matched": []
+  },
+  {
+   "id": "abe30e8f53",
+   "title": "\"자동차 넘어 반도체로\"…보스턴다이내믹스 아틀라스, 제조 현장 진출 본격화",
+   "url": "https://www.hankyung.com/article/202611184897g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 15:16",
+   "published_iso": "2026-11-18T15:16:13+09:00",
+   "sort_key": 1794982573.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "e94340e52d",
+   "title": "SNT에너지, 원전산업 발전 공로로 산업통상부 장관 표창",
+   "url": "https://www.hankyung.com/article/202611184974i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 15:14",
+   "published_iso": "2026-11-18T15:14:08+09:00",
+   "sort_key": 1794982448.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "f2571879ac",
+   "title": "How important are Nvidia and Jensen Huang to the US economy?",
+   "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/18 15:04",
+   "published_iso": "2026-11-18T15:04:21+09:00",
+   "sort_key": 1794981861.0,
+   "excerpt": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "b95fa5ba78",
+   "title": "[단독] 中 원료 없이 원가 낮췄다…천보, 정부 지원금 150억 확보",
+   "url": "https://www.hankyung.com/article/202611184826i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 14:50",
+   "published_iso": "2026-11-18T14:50:24+09:00",
+   "sort_key": 1794981024.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "b2a7933d46",
+   "title": "[단독] 지슨 \"AI 시험 부정행위 감시장비 연내 출시\"",
+   "url": "https://www.hankyung.com/article/202611184823i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 14:49",
+   "published_iso": "2026-11-18T14:49:10+09:00",
+   "sort_key": 1794980950.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "4afd41c9af",
+   "title": "한화시스템, 드론 잡는 'AI 레이다' 美 첫 수출",
+   "url": "https://www.hankyung.com/article/202611184776i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 14:45",
+   "published_iso": "2026-11-18T14:45:19+09:00",
+   "sort_key": 1794980719.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "48ed495a24",
+   "title": "국내 주요 대기업, 미래 성장동력 확보 위해 AI·데이터 회사 계열 편입",
+   "url": "https://www.hankyung.com/article/202611184603i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 14:41",
+   "published_iso": "2026-11-18T14:41:08+09:00",
+   "sort_key": 1794980468.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "d53cb6faf1",
+   "title": "음속 5배 미사일 심장 만든다…현대로템, 새 연구 기지 증설",
+   "url": "https://www.hankyung.com/article/202611184741i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 14:38",
+   "published_iso": "2026-11-18T14:38:32+09:00",
+   "sort_key": 1794980312.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "51e07052da",
+   "title": "Security flaw found in Java, world's third-largest programming language",
+   "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/18 14:33",
+   "published_iso": "2026-11-18T14:33:13+09:00",
+   "sort_key": 1794979993.0,
+   "excerpt": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+   "matched": []
+  },
+  {
+   "id": "ae56f2bdb5",
+   "title": "2026 세계행정학회 서울대회 개막식",
+   "url": "https://www.hankyung.com/article/202611184710i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/18 14:07",
+   "published_iso": "2026-11-18T14:07:56+09:00",
+   "sort_key": 1794978476.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "b294e0be2d",
+   "title": "Japan Attempts to Revive U.S. Steel",
+   "url": "https://www.nytimes.com/2026/11/18/business/us-steel-nippon-takeover-japan.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/18 14:00",
+   "published_iso": "2026-11-18T14:00:31+09:00",
+   "sort_key": 1794978031.0,
+   "excerpt": "After its fraught takeover of steel maker U.S. Steel, a Japanese manufacturer is attempting to revitalize the American company’s facilities, including its oldest mill outside Pittsburgh.",
    "matched": []
   },
   {
@@ -1888,636 +2170,215 @@
     "matched": []
    }
   ],
-  "해외 경제언론": [
-   {
-    "id": "45065a85d9",
-    "title": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
-    "url": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 12:26",
-    "published_iso": "2026-11-18T12:26:28+09:00",
-    "sort_key": 1794972388.0,
-    "excerpt": "The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines.",
-    "matched": []
-   },
-   {
-    "id": "77154ded1f",
-    "title": "Three things to watch as Trump, Xi and Putin meet in China",
-    "url": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
-    "source": "CNBC Finance",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 12:25",
-    "published_iso": "2026-11-18T12:25:32+09:00",
-    "sort_key": 1794972332.0,
-    "excerpt": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting.",
-    "matched": []
-   },
-   {
-    "id": "88c202caa7",
-    "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
-    "url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-    "source": "CNBC Finance",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 12:17",
-    "published_iso": "2026-11-18T12:17:55+09:00",
-    "sort_key": 1794971875.0,
-    "excerpt": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
-    "matched": []
-   },
-   {
-    "id": "aa5360fcc4",
-    "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
-    "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 11:40",
-    "published_iso": "2026-11-18T11:40:45+09:00",
-    "sort_key": 1794969645.0,
-    "excerpt": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
-    "matched": []
-   },
-   {
-    "id": "b1a28720a6",
-    "title": "Nvidia Has No Plans to Bring Back Jensen Huang",
-    "url": "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 09:47",
-    "published_iso": "2026-11-18T09:47:02+09:00",
-    "sort_key": 1794962822.0,
-    "excerpt": "As the former chief executive and his allies lobbied for his return, the company’s chair said the board “does not intend to reinstate Jensen as C.E.O.”",
-    "matched": [
-     "NVDA"
-    ]
-   },
-   {
-    "id": "66d74eefcb",
-    "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
-    "url": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
-    "source": "CNBC Economy",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 09:35",
-    "published_iso": "2026-11-18T09:35:31+09:00",
-    "sort_key": 1794962131.0,
-    "excerpt": "Semiconductor shipments spiked almost 50% year on year.",
-    "matched": []
-   },
-   {
-    "id": "ca73aba529",
-    "title": "Europe plans to catch the next computer chip wave",
-    "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 09:00",
-    "published_iso": "2026-11-18T09:00:24+09:00",
-    "sort_key": 1794960024.0,
-    "excerpt": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
-    "matched": []
-   },
-   {
-    "id": "5563c6adad",
-    "title": "Commerce Secretary Howard Lutnick took a softer line on Nvidia as calls for tougher controls grew.",
-    "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/commerce-secretary-howard-lutnick-took-a-softer-line-on-nvidia-as-calls-for-tougher-controls-grew",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 08:19",
-    "published_iso": "2026-11-18T08:19:54+09:00",
-    "sort_key": 1794957594.0,
-    "excerpt": "",
-    "matched": [
-     "NVDA"
-    ]
-   },
-   {
-    "id": "3e19db2c7d",
-    "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-    "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 08:02",
-    "published_iso": "2026-11-18T08:02:12+09:00",
-    "sort_key": 1794956532.0,
-    "excerpt": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
-    "matched": [
-     "NVDA"
-    ]
-   },
-   {
-    "id": "feb2b35c94",
-    "title": "Trump had urged Jensen Huang to fight for his job.",
-    "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/trump-had-urged-jensen-huang-to-fight-for-his-job",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 07:53",
-    "published_iso": "2026-11-18T07:53:13+09:00",
-    "sort_key": 1794955993.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "f55f22e38f",
-    "title": "Here’s the latest.",
-    "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/heres-the-latest",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 07:22",
-    "published_iso": "2026-11-18T07:22:03+09:00",
-    "sort_key": 1794954123.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "최신 소식 모음",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "b51f8109ce",
-    "title": "Jensen Huang’s daughter, a close ally, remains in a senior role at Nvidia.",
-    "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huangs-daughter-a-close-ally-remains-in-a-senior-role-at-nvidia",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 07:20",
-    "published_iso": "2026-11-18T07:20:01+09:00",
-    "sort_key": 1794954001.0,
-    "excerpt": "",
-    "matched": [
-     "NVDA"
-    ],
-    "analysis": {
-     "summary": "젠슨 황의 딸은 엔비디아 고위직에 그대로 남아",
-     "impact": "시장 영향은 제한적",
-     "affected": "엔비디아"
-    }
-   },
-   {
-    "id": "1eb6c4f0c3",
-    "title": "New Nvidia boss says momentum goes on as firm reports bumper results after Huang quits",
-    "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 07:19",
-    "published_iso": "2026-11-18T07:19:22+09:00",
-    "sort_key": 1794953962.0,
-    "excerpt": "Nvidia's ousted CEO Jensen Huang earlier on Tuesday offered to return, despite the board's disinterest.",
-    "matched": [
-     "NVDA"
-    ],
-    "analysis": {
-     "summary": "엔비디아 새 대표 '성장세 계속' — 젠슨 황 사임 뒤 첫 실적도 호조",
-     "impact": "AI 수요 견조 확인",
-     "affected": "엔비디아, 반도체주",
-     "important": true,
-     "important_tag": "산업·실적",
-     "why_important": "젠슨 황이 물러난 뒤 엔비디아 첫 실적도 호조 — AI 수요는 아직 꺾이지 않음"
-    }
-   },
-   {
-    "id": "8cd2249a09",
-    "title": "Jensen Huang carried a secret for more than a year. It led to his downfall.",
-    "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huang-carried-a-secret-for-more-than-a-year-it-led-to-his-downfall",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 06:53",
-    "published_iso": "2026-11-18T06:53:20+09:00",
-    "sort_key": 1794952400.0,
-    "excerpt": "",
-    "matched": [],
-    "analysis": {
-     "summary": "젠슨 황이 1년 넘게 감춘 비밀이 몰락으로",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "70c1fe99c8",
-    "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
-    "url": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 06:39",
-    "published_iso": "2026-11-18T06:39:25+09:00",
-    "sort_key": 1794951565.0,
-    "excerpt": "The disruption followed days of unrelated problems in the past week that interrupted air travel and work at offices, schools and government.",
-    "matched": [
-     "AAPL"
-    ],
-    "analysis": {
-     "summary": "애플페이·아이클라우드 장애 대응",
-     "impact": "시장 영향은 제한적",
-     "affected": "애플"
-    }
-   },
-   {
-    "id": "b36d63ced4",
-    "title": "What to know about the Nvidia turmoil.",
-    "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/what-to-know-about-the-nvidia-turmoil",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 06:01",
-    "published_iso": "2026-11-18T06:01:05+09:00",
-    "sort_key": 1794949265.0,
-    "excerpt": "",
-    "matched": [
-     "NVDA"
-    ],
-    "analysis": {
-     "summary": "엔비디아 혼란에 대해 알아야 할 것",
-     "impact": "시장 영향은 제한적",
-     "affected": "엔비디아"
-    }
-   },
-   {
-    "id": "71f4a04632",
-    "title": "What Was That Alert on TV and the Radio? It Was Only a Test.",
-    "url": "https://www.nytimes.com/2026/11/17/business/media/nationwide-emergency-alert-test-fema.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 05:38",
-    "published_iso": "2026-11-18T05:38:29+09:00",
-    "sort_key": 1794947909.0,
-    "excerpt": "A national test mandated every three years was broadcast on television and radio at 2:20 p.m. Eastern time on Tuesday.",
-    "matched": [],
-    "analysis": {
-     "summary": "미국 TV·라디오 전국 경보 시험 방송",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "f8af7ba8ee",
-    "title": "Stocks Down Just Ahead of Nvidia’s Earnings Report",
-    "url": "https://www.nytimes.com/2026/11/17/business/economy/stock-market-nvidia-earnings.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 05:38",
-    "published_iso": "2026-11-18T05:38:02+09:00",
-    "sort_key": 1794947882.0,
-    "excerpt": "The chip maker is scheduled to release its quarterly results amid broader jitters about the A.I. trade.",
-    "matched": [
-     "NVDA"
-    ],
-    "analysis": {
-     "summary": "엔비디아 실적 발표 직전 증시 하락",
-     "impact": "실적 앞 경계감",
-     "affected": "미국 증시"
-    }
-   },
-   {
-    "id": "304b29b4cc",
-    "title": "I.R.S. Opens Criminal Probes as Part of Trump’s Pursuit of Left-Wing Groups",
-    "url": "https://www.nytimes.com/2026/11/17/us/politics/irs-criminal-investigations.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 04:50",
-    "published_iso": "2026-11-18T04:50:00+09:00",
-    "sort_key": 1794945000.0,
-    "excerpt": "An internal I.R.S. memo viewed by The New York Times reveals how the agency is carrying out President Trump’s orders to investigate “domestic terrorism.”",
-    "matched": [],
-    "analysis": {
-     "summary": "국세청이 트럼프의 진보 단체 추적의 일환으로 형사 수사",
-     "impact": "시장 영향은 제한적",
-     "affected": "미국 정치"
-    }
-   },
-   {
-    "id": "45ebf0b30e",
-    "title": "Government backs welfare shake-up to prevent 'lost generation'",
-    "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 03:43",
-    "published_iso": "2026-11-18T03:43:05+09:00",
-    "sort_key": 1794940985.0,
-    "excerpt": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
-    "matched": []
-   },
-   {
-    "id": "cc6012957b",
-    "title": "Trump’s New A.I. Chip Rules Rattle Southeast Asia",
-    "url": "https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 01:42",
-    "published_iso": "2026-11-18T01:42:30+09:00",
-    "sort_key": 1794933750.0,
-    "excerpt": "New U.S. restrictions could jeopardize billions in investment and force countries in the region to strike an increasingly difficult balance between Washington and Beijing.",
-    "matched": [],
-    "analysis": {
-     "summary": "트럼프의 새 AI 칩 규제에 동남아 흔들 — 수십억 달러 투자 위험",
-     "impact": "AI 칩 수출 통제 확대",
-     "affected": "엔비디아, 동남아 데이터센터",
-     "important": true,
-     "important_tag": "정책·무역",
-     "why_important": "미국의 새 AI 칩 규제가 동남아까지 확대 — 중국 우회 경로 차단, 반도체 공급망 변수"
-    }
-   },
-   {
-    "id": "b83c0d1555",
-    "title": "Jensen Huang says he would return as Nvidia boss if asked by the board",
-    "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 01:39",
-    "published_iso": "2026-11-18T01:39:54+09:00",
-    "sort_key": 1794933594.0,
-    "excerpt": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-    "matched": [
-     "NVDA"
-    ],
-    "analysis": {
-     "summary": "젠슨 황 '이사회가 요청하면 복귀하겠다'",
-     "impact": "엔비디아 경영 불확실성",
-     "affected": "엔비디아"
-    }
-   },
-   {
-    "id": "0129ad5864",
-    "title": "Jensen Huang Says He Would Return to Nvidia if Asked",
-    "url": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 01:21",
-    "published_iso": "2026-11-18T01:21:23+09:00",
-    "sort_key": 1794932483.0,
-    "excerpt": "Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese intelligence.",
-    "matched": [
-     "NVDA"
-    ],
-    "analysis": {
-     "summary": "젠슨 황 '요청받으면 엔비디아로 돌아갈 것'",
-     "impact": "엔비디아 경영 불확실성",
-     "affected": "엔비디아"
-    }
-   },
-   {
-    "id": "48dc1a3164",
-    "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
-    "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 00:56",
-    "published_iso": "2026-11-18T00:56:04+09:00",
-    "sort_key": 1794930964.0,
-    "excerpt": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
-    "matched": [],
-    "analysis": {
-     "summary": "영국 기업들 '25세 미만 채용 여력 없어'",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "4f4157d2ed",
-    "title": "Fed Governor Cook Won’t Attend White House Hearing Without Changes",
-    "url": "https://www.nytimes.com/2026/11/17/business/economy/fed-governor-lisa-cook-trump-white-house-hearing.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 00:10",
-    "published_iso": "2026-11-18T00:10:40+09:00",
-    "sort_key": 1794928240.0,
-    "excerpt": "Lawyers for Lisa Cook, the Federal Reserve governor President Trump is trying to fire, called the hearing process a “facade.”",
-    "matched": [],
-    "analysis": {
-     "summary": "리사 쿡 연준 이사가 조건 바뀌지 않으면 백악관 청문회 불참",
-     "impact": "연준 독립성 논란",
-     "affected": "미국 국채"
-    }
-   },
-   {
-    "id": "80311802f1",
-    "title": "Speed camera fault may have allowed drivers to escape fines",
-    "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/18 00:08",
-    "published_iso": "2026-11-18T00:08:48+09:00",
-    "sort_key": 1794928128.0,
-    "excerpt": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
-    "matched": [],
-    "analysis": {
-     "summary": "영국 과속 카메라 결함으로 벌금 면제 가능성",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "672946f245",
-    "title": "How new US chip restrictions on South East Asia will hit China",
-    "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/17 23:25",
-    "published_iso": "2026-11-17T23:25:45+09:00",
-    "sort_key": 1794925545.0,
-    "excerpt": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-    "matched": [],
-    "analysis": {
-     "summary": "미국의 동남아 칩 규제가 중국에 미칠 영향",
-     "impact": "중국 AI 칩 접근 차단",
-     "affected": "반도체주"
-    }
-   },
-   {
-    "id": "632c763b05",
-    "title": "Democrats Promised Lower Prices. What Can They Actually Do?",
-    "url": "https://www.nytimes.com/2026/11/17/podcasts/the-daily/democrats-promised-lower-prices-what-can-they-actually-do.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/17 23:01",
-    "published_iso": "2026-11-17T23:01:13+09:00",
-    "sort_key": 1794924073.0,
-    "excerpt": "Three reporters talk about what options the party really has to try to bring down the cost of living.",
-    "matched": [],
-    "analysis": {
-     "summary": "민주당이 약속한 물가 인하, 실제로 무엇을 할 수 있나",
-     "impact": "시장 영향은 제한적",
-     "affected": "미국 정치"
-    }
-   },
-   {
-    "id": "ba8bd9e96f",
-    "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
-    "url": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
-    "source": "CNBC Economy",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/17 22:40",
-    "published_iso": "2026-11-17T22:40:54+09:00",
-    "sort_key": 1794922854.0,
-    "excerpt": "The forecast represents one of the most hawkish views among policymakers.",
-    "matched": [],
-    "analysis": {
-     "summary": "무살렘 세인트루이스 연은 총재 '앞으로 몇 달간 4번 더 인상 필요할 수도'",
-     "impact": "금리 인상 압력 크게 확대",
-     "affected": "미국 국채, 달러, 미국 증시",
-     "important": true,
-     "important_tag": "거시경제",
-     "why_important": "무살렘 연은 총재 '몇 달간 4번 더 금리 인상 필요할 수도' — 연준에서 가장 강한 인상론"
-    }
-   },
-   {
-    "id": "0c5065d2c5",
-    "title": "A Kalshi Ad With Martha Stewart Warns Against Insider Trading",
-    "url": "https://www.nytimes.com/2026/11/17/business/dealbook/kalshi-martha-stewart-ad.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/17 22:27",
-    "published_iso": "2026-11-17T22:27:14+09:00",
-    "sort_key": 1794922034.0,
-    "excerpt": "The lifestyle guru appears in a new ad by the prediction market Kalshi as it announces changes to how it polices illicit trading on its platform.",
-    "matched": [],
-    "analysis": {
-     "summary": "마사 스튜어트가 출연한 칼시 내부자 거래 경고 광고",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "34735eeafc",
-    "title": "Nvidia’s Earnings Call Is a High-Stakes Moment",
-    "url": "https://www.nytimes.com/2026/11/17/business/dealbook/nvidia-ai-earnings-huang.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/17 22:02",
-    "published_iso": "2026-11-17T22:02:17+09:00",
-    "sort_key": 1794920537.0,
-    "excerpt": "Wall Street is bracing for the chip maker’s latest earnings call, as analysts seek clues about the artificial intelligence giant’s future.",
-    "matched": [
-     "NVDA"
-    ],
-    "analysis": {
-     "summary": "엔비디아 실적 발표가 중대한 순간",
-     "impact": "실적 변동성",
-     "affected": "엔비디아"
-    }
-   },
-   {
-    "id": "3e07271339",
-    "title": "Government must act now or lose Royal Mail, former minister warns",
-    "url": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/17 21:43",
-    "published_iso": "2026-11-17T21:43:07+09:00",
-    "sort_key": 1794919387.0,
-    "excerpt": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
-    "matched": [],
-    "analysis": {
-     "summary": "영국 전 장관 '정부가 나서지 않으면 로열메일을 잃을 것'",
-     "impact": "시장 영향 없음",
-     "affected": "해당 없음"
-    }
-   },
-   {
-    "id": "8e590781f9",
-    "title": "Disney Plans to Finance Growth With $3 Billion in Cost Savings",
-    "url": "https://www.nytimes.com/2026/11/17/business/disney-earnings-3billion-savings.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/17 20:30",
-    "published_iso": "2026-11-17T20:30:05+09:00",
-    "sort_key": 1794915005.0,
-    "excerpt": "The company reported a surge in quarterly profit and, in a surprise, said it would stop disclosing how much money its streaming business makes.",
-    "matched": [],
-    "analysis": {
-     "summary": "디즈니가 30억 달러 비용 절감으로 성장 자금 마련 — 분기 이익 급증",
-     "impact": "디즈니 실적 호조",
-     "affected": "디즈니"
-    }
-   },
-   {
-    "id": "bfcaf275b2",
-    "title": "US government confirms investigation into tech firm Megaspeed",
-    "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/17 20:17",
-    "published_iso": "2026-11-17T20:17:32+09:00",
-    "sort_key": 1794914252.0,
-    "excerpt": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-    "matched": [],
-    "analysis": {
-     "summary": "미국 정부가 메가스피드 조사 확인",
-     "impact": "칩 유출 조사",
-     "affected": "엔비디아"
-    }
-   },
-   {
-    "id": "f2c1b44c92",
-    "title": "As Trump and Xi Mingle, Their Governments Are Arming Up",
-    "url": "https://www.nytimes.com/2026/11/17/business/trump-xi-meeting-tensions.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/17 19:03",
-    "published_iso": "2026-11-17T19:03:49+09:00",
-    "sort_key": 1794909829.0,
-    "excerpt": "Public displays of friendship contrast with mounting trade and investment restrictions, highlighting the widening rift between the two economies.",
-    "matched": [],
-    "analysis": {
-     "summary": "트럼프·시진핑이 친한 척해도 정부끼리는 무장 중",
-     "impact": "미중 갈등 지속",
-     "affected": "미중 무역"
-    }
-   },
-   {
-    "id": "7d91861a30",
-    "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-    "url": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
-    "source": "CNBC Finance",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/17 17:52",
-    "published_iso": "2026-11-17T17:52:45+09:00",
-    "sort_key": 1794905565.0,
-    "excerpt": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
-    "matched": [
-     "NVDA",
-     "AAPL"
-    ],
-    "analysis": {
-     "summary": "엔비디아부터 애플까지 커지는 중국 딜레마",
-     "impact": "미중 사업 위험",
-     "affected": "미국 기술주"
-    }
-   }
-  ],
   "국내 경제언론": [
+   {
+    "id": "da738fb475",
+    "title": "강릉시 벤처펀드 투자설명회…운용사 3곳 1:1 상담",
+    "url": "https://www.yna.co.kr/view/AKR20261118147100062",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 16:20",
+    "published_iso": "2026-11-18T16:20:16+09:00",
+    "sort_key": 1794986416.0,
+    "excerpt": "(강릉=연합뉴스) 유형재 기자 = 강원 강릉시는 18일 시청 대회의실에서 &apos;강원 전략산업 벤처펀드 투자설명회&apos;를 개최했다.",
+    "matched": []
+   },
+   {
+    "id": "8d6ac5649f",
+    "title": "양주시, 지방보조금 전용 계좌 운영 업무 협약 체결",
+    "url": "https://www.yna.co.kr/view/AKR20261118146000060",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 16:13",
+    "published_iso": "2026-11-18T16:13:57+09:00",
+    "sort_key": 1794986037.0,
+    "excerpt": "(양주=연합뉴스) 노승혁 기자 = 경기 양주시는 18일 양주새마을금고, 하나신용협동조합과 지방보조금 전용 계좌(금고 외 금융기관) 업무 협약을 ...",
+    "matched": []
+   },
+   {
+    "id": "a30422b2f0",
+    "title": "태백시, 원자력환경공단에 지하연구시설 지역상생 방안 건의",
+    "url": "https://www.yna.co.kr/view/AKR20261118144900062",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 16:11",
+    "published_iso": "2026-11-18T16:11:51+09:00",
+    "sort_key": 1794985911.0,
+    "excerpt": "(태백=연합뉴스) 이상학 기자 = 강원 태백시가 연구용 지하연구시설(URL) 구축 과정에서 지역업체 참여와 주민 편의시설 조성 등을 추진해달라고...",
+    "matched": []
+   },
+   {
+    "id": "67f776650b",
+    "title": "코스피, 2% 오른 5,067 마감…하루 만에 '5천피' 탈환(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20261118143200008",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 16:10",
+    "published_iso": "2026-11-18T16:10:50+09:00",
+    "sort_key": 1794985850.0,
+    "excerpt": "(서울=연합뉴스) 김유아 기자 = 18일 코스피가 상승 마감하며 하루 만에 &apos;5천피&apos;(코스피 5,000)를 탈환했다.",
+    "matched": []
+   },
+   {
+    "id": "a6c1163a9e",
+    "title": "'결혼해야 한다' 55%, 12년 만에 최고…걸림돌은 돈·일자리(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20261118091651002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 16:03",
+    "published_iso": "2026-11-18T16:03:08+09:00",
+    "sort_key": 1794985388.0,
+    "excerpt": "(세종=연합뉴스) 송정은 기자 = 결혼에 관한 긍정적인 인식이 높아지고 있는 가운데 미혼 남성과 여성 간의 견해 차이는 여전한 것으로 조사됐다.",
+    "matched": []
+   },
+   {
+    "id": "7e980e433b",
+    "title": "강원랜드·코트라, '청년·기업·스타트업 상생 콘서트' 개최",
+    "url": "https://www.yna.co.kr/view/AKR20261118142200062",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 15:55",
+    "published_iso": "2026-11-18T15:55:54+09:00",
+    "sort_key": 1794984954.0,
+    "excerpt": "(원주=연합뉴스) 강태현 기자 = 강원랜드와 코트라(KOTRA)는 18일 호텔인터불고 원주에서 지역 기업의 해외 진출과 청년 취업·창업을 돕기 ...",
+    "matched": []
+   },
+   {
+    "id": "4a76256a2e",
+    "title": "공정률 35%에 예산도 미확보…전주 쑥고개로 확장 '준공 차질'",
+    "url": "https://www.yna.co.kr/view/AKR20261118141100055",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 15:55",
+    "published_iso": "2026-11-18T15:55:35+09:00",
+    "sort_key": 1794984935.0,
+    "excerpt": "(전주=연합뉴스) 김동철 기자 = 전북 전주시가 서부신시가지와 효천지구 일대의 극심한 교통량 분산을 위해 추진 중인 &apos;쑥고개로 확장공사&apos;가 사업...",
+    "matched": []
+   },
+   {
+    "id": "0f3990fe4d",
+    "title": "[게시판] 미래에셋, 과학기술인공제회와 '사랑의 김장김치 나눔' 봉사",
+    "url": "https://www.yna.co.kr/view/AKR20261118140700008",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 15:55",
+    "published_iso": "2026-11-18T15:55:05+09:00",
+    "sort_key": 1794984905.0,
+    "excerpt": "▲ 미래에셋증권[006800]은 과학기술인공제회와 함께 &apos;사랑의 김장김치 나눔&apos; 봉사활동을 진행했다고 18일 밝혔다. 이 행사는 소외된 이웃이 ...",
+    "matched": []
+   },
+   {
+    "id": "abe30e8f53",
+    "title": "\"자동차 넘어 반도체로\"…보스턴다이내믹스 아틀라스, 제조 현장 진출 본격화",
+    "url": "https://www.hankyung.com/article/202611184897g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 15:16",
+    "published_iso": "2026-11-18T15:16:13+09:00",
+    "sort_key": 1794982573.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "e94340e52d",
+    "title": "SNT에너지, 원전산업 발전 공로로 산업통상부 장관 표창",
+    "url": "https://www.hankyung.com/article/202611184974i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 15:14",
+    "published_iso": "2026-11-18T15:14:08+09:00",
+    "sort_key": 1794982448.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "b95fa5ba78",
+    "title": "[단독] 中 원료 없이 원가 낮췄다…천보, 정부 지원금 150억 확보",
+    "url": "https://www.hankyung.com/article/202611184826i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 14:50",
+    "published_iso": "2026-11-18T14:50:24+09:00",
+    "sort_key": 1794981024.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "b2a7933d46",
+    "title": "[단독] 지슨 \"AI 시험 부정행위 감시장비 연내 출시\"",
+    "url": "https://www.hankyung.com/article/202611184823i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 14:49",
+    "published_iso": "2026-11-18T14:49:10+09:00",
+    "sort_key": 1794980950.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "4afd41c9af",
+    "title": "한화시스템, 드론 잡는 'AI 레이다' 美 첫 수출",
+    "url": "https://www.hankyung.com/article/202611184776i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 14:45",
+    "published_iso": "2026-11-18T14:45:19+09:00",
+    "sort_key": 1794980719.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "48ed495a24",
+    "title": "국내 주요 대기업, 미래 성장동력 확보 위해 AI·데이터 회사 계열 편입",
+    "url": "https://www.hankyung.com/article/202611184603i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 14:41",
+    "published_iso": "2026-11-18T14:41:08+09:00",
+    "sort_key": 1794980468.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "d53cb6faf1",
+    "title": "음속 5배 미사일 심장 만든다…현대로템, 새 연구 기지 증설",
+    "url": "https://www.hankyung.com/article/202611184741i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 14:38",
+    "published_iso": "2026-11-18T14:38:32+09:00",
+    "sort_key": 1794980312.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "ae56f2bdb5",
+    "title": "2026 세계행정학회 서울대회 개막식",
+    "url": "https://www.hankyung.com/article/202611184710i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/18 14:07",
+    "published_iso": "2026-11-18T14:07:56+09:00",
+    "sort_key": 1794978476.0,
+    "excerpt": "",
+    "matched": []
+   },
    {
     "id": "ed3c821709",
     "title": "[표] 코스닥시장 3분기 누적 순이익 상·하위 20개사",
@@ -3244,6 +3105,702 @@
     }
    }
   ],
+  "해외 경제언론": [
+   {
+    "id": "e81b4644f4",
+    "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
+    "url": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+    "source": "CNBC Finance",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 16:17",
+    "published_iso": "2026-11-18T16:17:11+09:00",
+    "sort_key": 1794986231.0,
+    "excerpt": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
+    "matched": []
+   },
+   {
+    "id": "79407dbc2a",
+    "title": "Higher fuel prices push UK inflation to 3.6%",
+    "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 16:15",
+    "published_iso": "2026-11-18T16:15:33+09:00",
+    "sort_key": 1794986133.0,
+    "excerpt": "There are also signs inflation is impacting the wider economy, with the cost raw materials and goods leaving factories climbing.",
+    "matched": []
+   },
+   {
+    "id": "f2571879ac",
+    "title": "How important are Nvidia and Jensen Huang to the US economy?",
+    "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 15:04",
+    "published_iso": "2026-11-18T15:04:21+09:00",
+    "sort_key": 1794981861.0,
+    "excerpt": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "51e07052da",
+    "title": "Security flaw found in Java, world's third-largest programming language",
+    "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 14:33",
+    "published_iso": "2026-11-18T14:33:13+09:00",
+    "sort_key": 1794979993.0,
+    "excerpt": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+    "matched": []
+   },
+   {
+    "id": "b294e0be2d",
+    "title": "Japan Attempts to Revive U.S. Steel",
+    "url": "https://www.nytimes.com/2026/11/18/business/us-steel-nippon-takeover-japan.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 14:00",
+    "published_iso": "2026-11-18T14:00:31+09:00",
+    "sort_key": 1794978031.0,
+    "excerpt": "After its fraught takeover of steel maker U.S. Steel, a Japanese manufacturer is attempting to revitalize the American company’s facilities, including its oldest mill outside Pittsburgh.",
+    "matched": []
+   },
+   {
+    "id": "45065a85d9",
+    "title": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
+    "url": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 12:26",
+    "published_iso": "2026-11-18T12:26:28+09:00",
+    "sort_key": 1794972388.0,
+    "excerpt": "The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines.",
+    "matched": []
+   },
+   {
+    "id": "77154ded1f",
+    "title": "Three things to watch as Trump, Xi and Putin meet in China",
+    "url": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+    "source": "CNBC Finance",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 12:25",
+    "published_iso": "2026-11-18T12:25:32+09:00",
+    "sort_key": 1794972332.0,
+    "excerpt": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting.",
+    "matched": []
+   },
+   {
+    "id": "88c202caa7",
+    "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+    "url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+    "source": "CNBC Finance",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 12:17",
+    "published_iso": "2026-11-18T12:17:55+09:00",
+    "sort_key": 1794971875.0,
+    "excerpt": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+    "matched": []
+   },
+   {
+    "id": "aa5360fcc4",
+    "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+    "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 11:40",
+    "published_iso": "2026-11-18T11:40:45+09:00",
+    "sort_key": 1794969645.0,
+    "excerpt": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+    "matched": []
+   },
+   {
+    "id": "b1a28720a6",
+    "title": "Nvidia Has No Plans to Bring Back Jensen Huang",
+    "url": "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 09:47",
+    "published_iso": "2026-11-18T09:47:02+09:00",
+    "sort_key": 1794962822.0,
+    "excerpt": "As the former chief executive and his allies lobbied for his return, the company’s chair said the board “does not intend to reinstate Jensen as C.E.O.”",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "66d74eefcb",
+    "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
+    "url": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
+    "source": "CNBC Economy",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 09:35",
+    "published_iso": "2026-11-18T09:35:31+09:00",
+    "sort_key": 1794962131.0,
+    "excerpt": "Semiconductor shipments spiked almost 50% year on year.",
+    "matched": []
+   },
+   {
+    "id": "ca73aba529",
+    "title": "Europe plans to catch the next computer chip wave",
+    "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 09:00",
+    "published_iso": "2026-11-18T09:00:24+09:00",
+    "sort_key": 1794960024.0,
+    "excerpt": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+    "matched": []
+   },
+   {
+    "id": "5563c6adad",
+    "title": "Commerce Secretary Howard Lutnick took a softer line on Nvidia as calls for tougher controls grew.",
+    "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/commerce-secretary-howard-lutnick-took-a-softer-line-on-nvidia-as-calls-for-tougher-controls-grew",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 08:19",
+    "published_iso": "2026-11-18T08:19:54+09:00",
+    "sort_key": 1794957594.0,
+    "excerpt": "",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "3e19db2c7d",
+    "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+    "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 08:02",
+    "published_iso": "2026-11-18T08:02:12+09:00",
+    "sort_key": 1794956532.0,
+    "excerpt": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "feb2b35c94",
+    "title": "Trump had urged Jensen Huang to fight for his job.",
+    "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/trump-had-urged-jensen-huang-to-fight-for-his-job",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 07:53",
+    "published_iso": "2026-11-18T07:53:13+09:00",
+    "sort_key": 1794955993.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "f55f22e38f",
+    "title": "Here’s the latest.",
+    "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/heres-the-latest",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 07:22",
+    "published_iso": "2026-11-18T07:22:03+09:00",
+    "sort_key": 1794954123.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "최신 소식 모음",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "b51f8109ce",
+    "title": "Jensen Huang’s daughter, a close ally, remains in a senior role at Nvidia.",
+    "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huangs-daughter-a-close-ally-remains-in-a-senior-role-at-nvidia",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 07:20",
+    "published_iso": "2026-11-18T07:20:01+09:00",
+    "sort_key": 1794954001.0,
+    "excerpt": "",
+    "matched": [
+     "NVDA"
+    ],
+    "analysis": {
+     "summary": "젠슨 황의 딸은 엔비디아 고위직에 그대로 남아",
+     "impact": "시장 영향은 제한적",
+     "affected": "엔비디아"
+    }
+   },
+   {
+    "id": "1eb6c4f0c3",
+    "title": "New Nvidia boss says momentum goes on as firm reports bumper results after Huang quits",
+    "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 07:19",
+    "published_iso": "2026-11-18T07:19:22+09:00",
+    "sort_key": 1794953962.0,
+    "excerpt": "Nvidia's ousted CEO Jensen Huang earlier on Tuesday offered to return, despite the board's disinterest.",
+    "matched": [
+     "NVDA"
+    ],
+    "analysis": {
+     "summary": "엔비디아 새 대표 '성장세 계속' — 젠슨 황 사임 뒤 첫 실적도 호조",
+     "impact": "AI 수요 견조 확인",
+     "affected": "엔비디아, 반도체주",
+     "important": true,
+     "important_tag": "산업·실적",
+     "why_important": "젠슨 황이 물러난 뒤 엔비디아 첫 실적도 호조 — AI 수요는 아직 꺾이지 않음"
+    }
+   },
+   {
+    "id": "8cd2249a09",
+    "title": "Jensen Huang carried a secret for more than a year. It led to his downfall.",
+    "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huang-carried-a-secret-for-more-than-a-year-it-led-to-his-downfall",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 06:53",
+    "published_iso": "2026-11-18T06:53:20+09:00",
+    "sort_key": 1794952400.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "젠슨 황이 1년 넘게 감춘 비밀이 몰락으로",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "70c1fe99c8",
+    "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
+    "url": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 06:39",
+    "published_iso": "2026-11-18T06:39:25+09:00",
+    "sort_key": 1794951565.0,
+    "excerpt": "The disruption followed days of unrelated problems in the past week that interrupted air travel and work at offices, schools and government.",
+    "matched": [
+     "AAPL"
+    ],
+    "analysis": {
+     "summary": "애플페이·아이클라우드 장애 대응",
+     "impact": "시장 영향은 제한적",
+     "affected": "애플"
+    }
+   },
+   {
+    "id": "b36d63ced4",
+    "title": "What to know about the Nvidia turmoil.",
+    "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/what-to-know-about-the-nvidia-turmoil",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 06:01",
+    "published_iso": "2026-11-18T06:01:05+09:00",
+    "sort_key": 1794949265.0,
+    "excerpt": "",
+    "matched": [
+     "NVDA"
+    ],
+    "analysis": {
+     "summary": "엔비디아 혼란에 대해 알아야 할 것",
+     "impact": "시장 영향은 제한적",
+     "affected": "엔비디아"
+    }
+   },
+   {
+    "id": "71f4a04632",
+    "title": "What Was That Alert on TV and the Radio? It Was Only a Test.",
+    "url": "https://www.nytimes.com/2026/11/17/business/media/nationwide-emergency-alert-test-fema.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 05:38",
+    "published_iso": "2026-11-18T05:38:29+09:00",
+    "sort_key": 1794947909.0,
+    "excerpt": "A national test mandated every three years was broadcast on television and radio at 2:20 p.m. Eastern time on Tuesday.",
+    "matched": [],
+    "analysis": {
+     "summary": "미국 TV·라디오 전국 경보 시험 방송",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "f8af7ba8ee",
+    "title": "Stocks Down Just Ahead of Nvidia’s Earnings Report",
+    "url": "https://www.nytimes.com/2026/11/17/business/economy/stock-market-nvidia-earnings.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 05:38",
+    "published_iso": "2026-11-18T05:38:02+09:00",
+    "sort_key": 1794947882.0,
+    "excerpt": "The chip maker is scheduled to release its quarterly results amid broader jitters about the A.I. trade.",
+    "matched": [
+     "NVDA"
+    ],
+    "analysis": {
+     "summary": "엔비디아 실적 발표 직전 증시 하락",
+     "impact": "실적 앞 경계감",
+     "affected": "미국 증시"
+    }
+   },
+   {
+    "id": "304b29b4cc",
+    "title": "I.R.S. Opens Criminal Probes as Part of Trump’s Pursuit of Left-Wing Groups",
+    "url": "https://www.nytimes.com/2026/11/17/us/politics/irs-criminal-investigations.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 04:50",
+    "published_iso": "2026-11-18T04:50:00+09:00",
+    "sort_key": 1794945000.0,
+    "excerpt": "An internal I.R.S. memo viewed by The New York Times reveals how the agency is carrying out President Trump’s orders to investigate “domestic terrorism.”",
+    "matched": [],
+    "analysis": {
+     "summary": "국세청이 트럼프의 진보 단체 추적의 일환으로 형사 수사",
+     "impact": "시장 영향은 제한적",
+     "affected": "미국 정치"
+    }
+   },
+   {
+    "id": "45ebf0b30e",
+    "title": "Government backs welfare shake-up to prevent 'lost generation'",
+    "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 03:43",
+    "published_iso": "2026-11-18T03:43:05+09:00",
+    "sort_key": 1794940985.0,
+    "excerpt": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+    "matched": []
+   },
+   {
+    "id": "cc6012957b",
+    "title": "Trump’s New A.I. Chip Rules Rattle Southeast Asia",
+    "url": "https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 01:42",
+    "published_iso": "2026-11-18T01:42:30+09:00",
+    "sort_key": 1794933750.0,
+    "excerpt": "New U.S. restrictions could jeopardize billions in investment and force countries in the region to strike an increasingly difficult balance between Washington and Beijing.",
+    "matched": [],
+    "analysis": {
+     "summary": "트럼프의 새 AI 칩 규제에 동남아 흔들 — 수십억 달러 투자 위험",
+     "impact": "AI 칩 수출 통제 확대",
+     "affected": "엔비디아, 동남아 데이터센터",
+     "important": true,
+     "important_tag": "정책·무역",
+     "why_important": "미국의 새 AI 칩 규제가 동남아까지 확대 — 중국 우회 경로 차단, 반도체 공급망 변수"
+    }
+   },
+   {
+    "id": "b83c0d1555",
+    "title": "Jensen Huang says he would return as Nvidia boss if asked by the board",
+    "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 01:39",
+    "published_iso": "2026-11-18T01:39:54+09:00",
+    "sort_key": 1794933594.0,
+    "excerpt": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+    "matched": [
+     "NVDA"
+    ],
+    "analysis": {
+     "summary": "젠슨 황 '이사회가 요청하면 복귀하겠다'",
+     "impact": "엔비디아 경영 불확실성",
+     "affected": "엔비디아"
+    }
+   },
+   {
+    "id": "0129ad5864",
+    "title": "Jensen Huang Says He Would Return to Nvidia if Asked",
+    "url": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 01:21",
+    "published_iso": "2026-11-18T01:21:23+09:00",
+    "sort_key": 1794932483.0,
+    "excerpt": "Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese intelligence.",
+    "matched": [
+     "NVDA"
+    ],
+    "analysis": {
+     "summary": "젠슨 황 '요청받으면 엔비디아로 돌아갈 것'",
+     "impact": "엔비디아 경영 불확실성",
+     "affected": "엔비디아"
+    }
+   },
+   {
+    "id": "48dc1a3164",
+    "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+    "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 00:56",
+    "published_iso": "2026-11-18T00:56:04+09:00",
+    "sort_key": 1794930964.0,
+    "excerpt": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+    "matched": [],
+    "analysis": {
+     "summary": "영국 기업들 '25세 미만 채용 여력 없어'",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "4f4157d2ed",
+    "title": "Fed Governor Cook Won’t Attend White House Hearing Without Changes",
+    "url": "https://www.nytimes.com/2026/11/17/business/economy/fed-governor-lisa-cook-trump-white-house-hearing.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 00:10",
+    "published_iso": "2026-11-18T00:10:40+09:00",
+    "sort_key": 1794928240.0,
+    "excerpt": "Lawyers for Lisa Cook, the Federal Reserve governor President Trump is trying to fire, called the hearing process a “facade.”",
+    "matched": [],
+    "analysis": {
+     "summary": "리사 쿡 연준 이사가 조건 바뀌지 않으면 백악관 청문회 불참",
+     "impact": "연준 독립성 논란",
+     "affected": "미국 국채"
+    }
+   },
+   {
+    "id": "80311802f1",
+    "title": "Speed camera fault may have allowed drivers to escape fines",
+    "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/18 00:08",
+    "published_iso": "2026-11-18T00:08:48+09:00",
+    "sort_key": 1794928128.0,
+    "excerpt": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+    "matched": [],
+    "analysis": {
+     "summary": "영국 과속 카메라 결함으로 벌금 면제 가능성",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "672946f245",
+    "title": "How new US chip restrictions on South East Asia will hit China",
+    "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/17 23:25",
+    "published_iso": "2026-11-17T23:25:45+09:00",
+    "sort_key": 1794925545.0,
+    "excerpt": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+    "matched": [],
+    "analysis": {
+     "summary": "미국의 동남아 칩 규제가 중국에 미칠 영향",
+     "impact": "중국 AI 칩 접근 차단",
+     "affected": "반도체주"
+    }
+   },
+   {
+    "id": "632c763b05",
+    "title": "Democrats Promised Lower Prices. What Can They Actually Do?",
+    "url": "https://www.nytimes.com/2026/11/17/podcasts/the-daily/democrats-promised-lower-prices-what-can-they-actually-do.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/17 23:01",
+    "published_iso": "2026-11-17T23:01:13+09:00",
+    "sort_key": 1794924073.0,
+    "excerpt": "Three reporters talk about what options the party really has to try to bring down the cost of living.",
+    "matched": [],
+    "analysis": {
+     "summary": "민주당이 약속한 물가 인하, 실제로 무엇을 할 수 있나",
+     "impact": "시장 영향은 제한적",
+     "affected": "미국 정치"
+    }
+   },
+   {
+    "id": "ba8bd9e96f",
+    "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
+    "url": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
+    "source": "CNBC Economy",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/17 22:40",
+    "published_iso": "2026-11-17T22:40:54+09:00",
+    "sort_key": 1794922854.0,
+    "excerpt": "The forecast represents one of the most hawkish views among policymakers.",
+    "matched": [],
+    "analysis": {
+     "summary": "무살렘 세인트루이스 연은 총재 '앞으로 몇 달간 4번 더 인상 필요할 수도'",
+     "impact": "금리 인상 압력 크게 확대",
+     "affected": "미국 국채, 달러, 미국 증시",
+     "important": true,
+     "important_tag": "거시경제",
+     "why_important": "무살렘 연은 총재 '몇 달간 4번 더 금리 인상 필요할 수도' — 연준에서 가장 강한 인상론"
+    }
+   },
+   {
+    "id": "0c5065d2c5",
+    "title": "A Kalshi Ad With Martha Stewart Warns Against Insider Trading",
+    "url": "https://www.nytimes.com/2026/11/17/business/dealbook/kalshi-martha-stewart-ad.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/17 22:27",
+    "published_iso": "2026-11-17T22:27:14+09:00",
+    "sort_key": 1794922034.0,
+    "excerpt": "The lifestyle guru appears in a new ad by the prediction market Kalshi as it announces changes to how it polices illicit trading on its platform.",
+    "matched": [],
+    "analysis": {
+     "summary": "마사 스튜어트가 출연한 칼시 내부자 거래 경고 광고",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "34735eeafc",
+    "title": "Nvidia’s Earnings Call Is a High-Stakes Moment",
+    "url": "https://www.nytimes.com/2026/11/17/business/dealbook/nvidia-ai-earnings-huang.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/17 22:02",
+    "published_iso": "2026-11-17T22:02:17+09:00",
+    "sort_key": 1794920537.0,
+    "excerpt": "Wall Street is bracing for the chip maker’s latest earnings call, as analysts seek clues about the artificial intelligence giant’s future.",
+    "matched": [
+     "NVDA"
+    ],
+    "analysis": {
+     "summary": "엔비디아 실적 발표가 중대한 순간",
+     "impact": "실적 변동성",
+     "affected": "엔비디아"
+    }
+   },
+   {
+    "id": "3e07271339",
+    "title": "Government must act now or lose Royal Mail, former minister warns",
+    "url": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/17 21:43",
+    "published_iso": "2026-11-17T21:43:07+09:00",
+    "sort_key": 1794919387.0,
+    "excerpt": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
+    "matched": [],
+    "analysis": {
+     "summary": "영국 전 장관 '정부가 나서지 않으면 로열메일을 잃을 것'",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "8e590781f9",
+    "title": "Disney Plans to Finance Growth With $3 Billion in Cost Savings",
+    "url": "https://www.nytimes.com/2026/11/17/business/disney-earnings-3billion-savings.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/17 20:30",
+    "published_iso": "2026-11-17T20:30:05+09:00",
+    "sort_key": 1794915005.0,
+    "excerpt": "The company reported a surge in quarterly profit and, in a surprise, said it would stop disclosing how much money its streaming business makes.",
+    "matched": [],
+    "analysis": {
+     "summary": "디즈니가 30억 달러 비용 절감으로 성장 자금 마련 — 분기 이익 급증",
+     "impact": "디즈니 실적 호조",
+     "affected": "디즈니"
+    }
+   },
+   {
+    "id": "bfcaf275b2",
+    "title": "US government confirms investigation into tech firm Megaspeed",
+    "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/17 20:17",
+    "published_iso": "2026-11-17T20:17:32+09:00",
+    "sort_key": 1794914252.0,
+    "excerpt": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+    "matched": [],
+    "analysis": {
+     "summary": "미국 정부가 메가스피드 조사 확인",
+     "impact": "칩 유출 조사",
+     "affected": "엔비디아"
+    }
+   },
+   {
+    "id": "f2c1b44c92",
+    "title": "As Trump and Xi Mingle, Their Governments Are Arming Up",
+    "url": "https://www.nytimes.com/2026/11/17/business/trump-xi-meeting-tensions.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/17 19:03",
+    "published_iso": "2026-11-17T19:03:49+09:00",
+    "sort_key": 1794909829.0,
+    "excerpt": "Public displays of friendship contrast with mounting trade and investment restrictions, highlighting the widening rift between the two economies.",
+    "matched": [],
+    "analysis": {
+     "summary": "트럼프·시진핑이 친한 척해도 정부끼리는 무장 중",
+     "impact": "미중 갈등 지속",
+     "affected": "미중 무역"
+    }
+   },
+   {
+    "id": "7d91861a30",
+    "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
+    "url": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
+    "source": "CNBC Finance",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/17 17:52",
+    "published_iso": "2026-11-17T17:52:45+09:00",
+    "sort_key": 1794905565.0,
+    "excerpt": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
+    "matched": [
+     "NVDA",
+     "AAPL"
+    ],
+    "analysis": {
+     "summary": "엔비디아부터 애플까지 커지는 중국 딜레마",
+     "impact": "미중 사업 위험",
+     "affected": "미국 기술주"
+    }
+   }
+  ],
   "중앙은행·국제기구": [
    {
     "id": "8481a1d7c5",
@@ -3270,8 +3827,8 @@
   "indices_total": 8,
   "stocks_ok": 9,
   "stocks_total": 9,
-  "news": 83,
-  "news_new": 29
+  "news": 104,
+  "news_new": 21
  },
  "errors": [
   {
