@@ -351,7 +351,12 @@
    "published_iso": "2026-11-22T07:17:00+09:00",
    "sort_key": 1795299420.0,
    "excerpt": "(연합뉴스) 최은지 기자 = 주거환경개선 시행자가 주민들의 이주비 대출이자를 대납하거나 사업성 개선을 위해 지급한 돈을 &apos;사례금&apos;으로 보고 세금...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "이주비 대출이자 대납에 매긴 95억 원 세금, 법원이 취소",
+    "impact": "재개발·정비사업 세금 부담 완화 선례",
+    "affected": "건설·정비사업"
+   }
   },
   {
    "id": "467bd4c68e",
@@ -364,7 +369,12 @@
    "published_iso": "2026-11-22T07:00:01+09:00",
    "sort_key": 1795298401.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "불확실성의 시대에 이사회가 할 일 (칼럼)",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "3011e619db",
@@ -377,7 +387,12 @@
    "published_iso": "2026-11-22T06:35:00+09:00",
    "sort_key": 1795296900.0,
    "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 법원의 제동으로 부실기업의 증시 퇴출이 잠정 중단된 가운데 상장폐지 사정권에 드는 기업들이 켜켜이 늘어나고 있...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "법원 제동으로 부실기업 상장폐지 중단 — 관리종목만 쌓여",
+    "impact": "부실 종목 정리 지연, 투자자 위험",
+    "affected": "코스닥 관리종목"
+   }
   },
   {
    "id": "8d1bad6baf",
@@ -390,7 +405,12 @@
    "published_iso": "2026-11-22T06:31:02+09:00",
    "sort_key": 1795296662.0,
    "excerpt": "(서울=연합뉴스) 구정모 이상서 기자 = &quot;한국 여행이 재미있어서 벌써 3번이나 찾았어요. 대도시 말고도 다른 지역도 여행하고 싶은데 어떻게 가...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "외국인 관광객 2천만 시대 — 서울 쏠림, 지방 관광 살려야",
+    "impact": "시장 영향은 제한적",
+    "affected": "여행·관광"
+   }
   },
   {
    "id": "115428aaf0",
@@ -403,7 +423,12 @@
    "published_iso": "2026-11-22T06:30:01+09:00",
    "sort_key": 1795296601.0,
    "excerpt": "(서울=연합뉴스) 강수지 기자 = 국내 환경·사회·지배구조(ESG) 채권 발행이 올해 들어 증가했지만, 발행 주체는 공공기관과 은행에 집중된 것...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "국내 ESG채권 발행 16% 증가 — 공공기관·은행 쏠림",
+    "impact": "시장 영향은 제한적",
+    "affected": "채권"
+   }
   },
   {
    "id": "e9ab21015f",
@@ -416,7 +441,12 @@
    "published_iso": "2026-11-22T06:21:01+09:00",
    "sort_key": 1795296061.0,
    "excerpt": "(세종=연합뉴스) 오진송 기자 = 서울 집값 상승세가 이어지는 가운데 서울에서 내 집 마련에 필요한 기간이 오히려 2년 줄었다는 조사 결과가 나...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "서울 집값 올랐는데 내 집 마련 기간 14년 → 12년으로 줄어",
+    "impact": "시장 영향은 제한적",
+    "affected": "부동산"
+   }
   },
   {
    "id": "bcf2547002",
@@ -429,7 +459,12 @@
    "published_iso": "2026-11-22T06:20:00+09:00",
    "sort_key": 1795296000.0,
    "excerpt": "(서울=연합뉴스) 김유아 기자 = 지난주 국내 증시가 급락하는 동안 로봇주는 내년 초 호재 기대감을 안고 상승세를 이어가며 존재감을 드러냈다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "국내 증시 급락에도 로봇주 상승 — 반도체 장비주 시총 추월",
+    "impact": "테마 쏠림",
+    "affected": "로봇주"
+   }
   },
   {
    "id": "b081125827",
@@ -442,7 +477,15 @@
    "published_iso": "2026-11-22T06:15:02+09:00",
    "sort_key": 1795295702.0,
    "excerpt": "(서울=연합뉴스) 신창용 기자 = 한국이 올해 사상 처음으로 연간 수출 1조달러를 달성하며 세계 4위 수출강국 반열에 오를 전망이다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한국 연간 수출 1조 달러로 세계 4위 전망 — 반도체 빼면 8위",
+    "impact": "반도체 의존 수출 구조",
+    "affected": "반도체, 수출기업",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "한국 연간 수출이 처음 1조 달러, 세계 4위 전망 — 반도체를 빼면 8위라 반도체 의존이 그만큼 큼"
+   }
   },
   {
    "id": "8d9ad3e2f5",
@@ -457,7 +500,12 @@
    "excerpt": "(서울=연합뉴스) 김윤구 기자 = 중국 상하이 공장에서 생산된 테슬라 전기차가 국내에서 돌풍을 일으키면서 올해 한국의 대(對)중국 자동차 수입액...",
    "matched": [
     "TSLA"
-   ]
+   ],
+   "analysis": {
+    "summary": "테슬라 중국산 전기차 돌풍에 대중국 자동차 무역적자 6조 원 역대 최대",
+    "impact": "국내 전기차 경쟁 심화",
+    "affected": "현대차, 기아, 테슬라"
+   }
   },
   {
    "id": "b5346b6329",
@@ -470,7 +518,12 @@
    "published_iso": "2026-11-22T06:00:04+09:00",
    "sort_key": 1795294804.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "검색량 급증한 여행 명소 소개",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "2b80628749",
@@ -483,7 +536,12 @@
    "published_iso": "2026-11-22T03:29:14+09:00",
    "sort_key": 1795285754.0,
    "excerpt": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "다마고치 향수가 계속되는 이유",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "a819c41e47",
@@ -496,7 +554,12 @@
    "published_iso": "2026-11-22T02:59:58+09:00",
    "sort_key": 1795283998.0,
    "excerpt": "As new car prices rise beyond the means of most buyers, the used market has become much more important for consumers and the auto industry.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "신차값 급등에 중고차 시장 호황",
+    "impact": "중고차 업체 수혜",
+    "affected": "중고차 업계"
+   }
   },
   {
    "id": "2ca0a48425",
@@ -509,7 +572,12 @@
    "published_iso": "2026-11-22T00:04:56+09:00",
    "sort_key": 1795273496.0,
    "excerpt": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "기술 장애 잇따르며 '종말 대비' 소비 늘어",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "33032e6acd",
@@ -522,7 +590,12 @@
    "published_iso": "2026-11-21T23:01:15+09:00",
    "sort_key": 1795269675.0,
    "excerpt": "The salt is a flaky favorite of food influencers and famous chefs. A revelation this week raised questions about what makes artisanal “artisanal.”",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "맬던 소금 원산지 논란",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "ccddf19330",
@@ -535,7 +608,12 @@
    "published_iso": "2026-11-21T22:00:06+09:00",
    "sort_key": 1795266006.0,
    "excerpt": "The chief executive of Tesla and SpaceX spoke with Andrew Ross Sorkin at the DealBook Summit.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "머스크, 정치·합병 가능성·우크라이나에 대해 인터뷰",
+    "impact": "테슬라·스페이스X 합병 관측",
+    "affected": "테슬라"
+   }
   },
   {
    "id": "3d32cd36be",
@@ -548,7 +626,12 @@
    "published_iso": "2026-11-21T20:00:02+09:00",
    "sort_key": 1795258802.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "외국인 카지노 손님 몰려 파라다이스만 웃었다",
+    "impact": "시장 영향은 제한적",
+    "affected": "파라다이스"
+   }
   },
   {
    "id": "6d38a5f3e8",
@@ -561,7 +644,12 @@
    "published_iso": "2026-11-21T19:03:45+09:00",
    "sort_key": 1795255425.0,
    "excerpt": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "앤트로픽 상장, 월가와 실리콘밸리의 시각 차 드러내",
+    "impact": "AI 기업 가치 논쟁",
+    "affected": "AI 관련주"
+   }
   },
   {
    "id": "4c68479e97",
@@ -574,7 +662,12 @@
    "published_iso": "2026-11-21T19:02:21+09:00",
    "sort_key": 1795255341.0,
    "excerpt": "One person’s attempt to prepare for the unthinkable.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "AI 비상사태 등 재난 대비법",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "0c11f6968c",
@@ -587,7 +680,12 @@
    "published_iso": "2026-11-21T19:02:15+09:00",
    "sort_key": 1795255335.0,
    "excerpt": "Our photographer made portraits of the event’s interview subjects, including Hailey Bieber, Satya Nadella and Zohran Mamdani, after they left the stage.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "2026 딜북 서밋 인물 사진",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "4da008aa8d",
@@ -600,7 +698,12 @@
    "published_iso": "2026-11-21T18:00:01+09:00",
    "sort_key": 1795251601.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "주말 인기 식당 소개",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "4571d89e50",
@@ -613,7 +716,12 @@
    "published_iso": "2026-11-21T16:26:00+09:00",
    "sort_key": 1795245960.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "최태원, 한일 AI 플랫폼 함께 만들자 제안",
+    "impact": "시장 영향은 제한적",
+    "affected": "SK"
+   }
   },
   {
    "id": "e0907b24b5",
@@ -626,7 +734,12 @@
    "published_iso": "2026-11-21T15:00:02+09:00",
    "sort_key": 1795240802.0,
    "excerpt": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중국, 정상회의로 세계 영향력 넓혀",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "4020e157bd",
@@ -639,7 +752,15 @@
    "published_iso": "2026-11-21T14:58:05+09:00",
    "sort_key": 1795240685.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "손정의 1,350조 원 AI 계획 — SK하이닉스 통째 인수 구상 폭로",
+    "impact": "SK하이닉스 지배구조·주가 변수",
+    "affected": "SK하이닉스, 소프트뱅크",
+    "important": true,
+    "important_tag": "산업·실적",
+    "why_important": "손정의가 1,350조 원 AI 계획에서 SK하이닉스 인수까지 구상했다는 보도 — 코스피 대장주 지배구조 변수"
+   }
   },
   {
    "id": "cf45aca2ca",
@@ -652,7 +773,12 @@
    "published_iso": "2026-11-21T14:00:05+09:00",
    "sort_key": 1795237205.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "꽁치값 30% 올라도 과메기 잘 팔려",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "a09e1ef4c1",
@@ -665,7 +791,12 @@
    "published_iso": "2026-11-21T13:00:01+09:00",
    "sort_key": 1795233601.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "광고 모델, 고액 스타 대신 인플루언서로",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   }
  ],
  "news_groups": {
