@@ -438,7 +438,12 @@
    "excerpt": "President Trump intervened on behalf of the returning Nvidia chief in a bid to boost a key company driving the stock market. The company’s share price soared.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "젠슨 황 엔비디아 복귀 — 트럼프가 AI를 위해 어디까지 하는지 보여줘",
+    "impact": "AI 산업에 대한 정부 지원 의지 확인",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "f1f7ae156b",
@@ -453,7 +458,15 @@
    "excerpt": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "미국, 엔비디아 사건 중심의 싱가포르 메가스피드를 거래 제한 명단에 올려",
+    "impact": "대중국 AI 칩 우회 수출 단속 강화",
+    "affected": "엔비디아, 반도체",
+    "important": true,
+    "important_tag": "정책·무역",
+    "why_important": "미국이 엔비디아 사건 중심의 싱가포르 메가스피드를 거래 제한 명단에 추가 — 대중국 AI 칩 우회 수출 단속"
+   }
   },
   {
    "id": "ac36a3c57e",
@@ -466,7 +479,12 @@
    "published_iso": "2026-11-24T07:18:13+09:00",
    "sort_key": 1795472293.0,
    "excerpt": "(서울=연합뉴스) 정준영 기자 = 서울 강남구(구청장 김현기)는 다음 달 8일 오후 1시 30분 강남구민회관에서 &apos;제4회 정비사업 아카데미&apos;를 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "강남구 정비사업 조합원 지위 양도 강의",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "0a8a9dbfc3",
@@ -479,7 +497,12 @@
    "published_iso": "2026-11-24T07:00:05+09:00",
    "sort_key": 1795471205.0,
    "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "막힌 중동 바닷길, 희망봉 항로 다시 부상 (칼럼)",
+    "impact": "해운 운임·항로 변화",
+    "affected": "해운"
+   }
   },
   {
    "id": "34600f5067",
@@ -492,7 +515,12 @@
    "published_iso": "2026-11-24T07:00:04+09:00",
    "sort_key": 1795471204.0,
    "excerpt": "(대전=연합뉴스) 박주영 기자 = 과학기술계 정부출연 연구기관(이하 출연연)이 모여있는 대전 대덕연구개발특구의 안정적인 인프라가 오히려 창업 실...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "대전, 벤처투자는 많은데 창업 의향은 가장 낮아",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "085af946ab",
@@ -505,7 +533,12 @@
    "published_iso": "2026-11-24T07:00:01+09:00",
    "sort_key": 1795471201.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "4시간 20만 원, 2030이 몰리는 곳",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "3ca3a0d65b",
@@ -518,7 +551,12 @@
    "published_iso": "2026-11-24T06:31:04+09:00",
    "sort_key": 1795469464.0,
    "excerpt": "Audra Fordin recognized an undeniable need to make automobile education more accessible, and did something about it.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "여성 운전자를 돕는 정비사 이야기",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "929c81bf2a",
@@ -533,7 +571,12 @@
    "excerpt": "Nvidia’s board said Mr. Huang would not be back. But President Trump, who pushed for Mr. Huang’s reinstatement, effectively overrode the board, governance experts said.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "젠슨 황 복귀로 트럼프가 엔비디아 이사회 결정을 사실상 뒤집어",
+    "impact": "기업 지배구조에 정치 개입 논란",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "06d9c93a2a",
@@ -546,7 +589,12 @@
    "published_iso": "2026-11-24T06:07:00+09:00",
    "sort_key": 1795468020.0,
    "excerpt": "(세종=연합뉴스) 오진송 기자 = 내년 3월부터 주택조합과 공동주택 리모델링 사업에도 공사비 검증 의무제도가 도입된다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "내년 3월부터 주택조합도 공사비 검증 의무",
+    "impact": "시장 영향은 제한적",
+    "affected": "건설"
+   }
   },
   {
    "id": "abfd316059",
@@ -559,7 +607,12 @@
    "published_iso": "2026-11-24T06:03:03+09:00",
    "sort_key": 1795467783.0,
    "excerpt": "(서울=연합뉴스) 이상서 기자 = 한중 자유무역협정(FTA) 서비스·투자 후속협상이 실질타결되면서 여행 및 뷰티 업계가 중국을 겨냥한 사업 확대...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한중 FTA 서비스·투자 후속협상 실질 타결 — 뷰티·여행업 기대",
+    "impact": "중국 시장 재공략 기회",
+    "affected": "화장품, 여행"
+   }
   },
   {
    "id": "5b5a2db041",
@@ -572,7 +625,15 @@
    "published_iso": "2026-11-24T06:02:17+09:00",
    "sort_key": 1795467737.0,
    "excerpt": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "뉴욕 연은 윌리엄스 '물가 잡으려면 시간을 두고 금리 더 올릴 듯'",
+    "impact": "미국 금리 인상 지속 전망",
+    "affected": "미국 금리, 달러",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "뉴욕 연은 윌리엄스가 '시간을 두고 금리를 더 올릴 것'을 시사 — 연준 추가 인상 전망 강화"
+   }
   },
   {
    "id": "b84aff7edb",
@@ -585,7 +646,12 @@
    "published_iso": "2026-11-24T06:00:59+09:00",
    "sort_key": 1795467659.0,
    "excerpt": "Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia— until he reversed course",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "베센트의 젠슨 황 입장 번복이 보여주는 트럼프의 중국 전략 (칼럼)",
+    "impact": "젠슨 황 엔비디아 복귀 관련 같은 내용",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "8751e82230",
@@ -598,7 +664,12 @@
    "published_iso": "2026-11-24T06:00:11+09:00",
    "sort_key": 1795467611.0,
    "excerpt": "(서울=연합뉴스) 장하나 기자 = 국내 기업의 경기 전망이 3개월 만에 긍정적으로 돌아섰다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "계절 수요 기대에 기업 경기전망 3개월 만에 긍정적",
+    "impact": "국내 경기 심리 소폭 개선",
+    "affected": "국내 기업"
+   }
   },
   {
    "id": "9e716aa9c5",
@@ -611,7 +682,12 @@
    "published_iso": "2026-11-24T06:00:10+09:00",
    "sort_key": 1795467610.0,
    "excerpt": "(세종=연합뉴스) 오진송 기자 = 인공지능(AI)과 로봇 등 첨단기술을 활용한 건설현장의 안전관리 및 자동화 기술을 한자리에서 볼 수 있는 전시...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "AI·로봇 스마트건설 엑스포 25일 개막",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "eb36dacf06",
@@ -624,7 +700,12 @@
    "published_iso": "2026-11-24T06:00:08+09:00",
    "sort_key": 1795467608.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "일본 주문 몰리는데 생굴값 하락 이유",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "e7e22b8b30",
@@ -637,7 +718,12 @@
    "published_iso": "2026-11-24T06:00:06+09:00",
    "sort_key": 1795467606.0,
    "excerpt": "(서울=연합뉴스) 구정모 기자 = 중소벤처기업부는 국내 첨단기술(딥테크) 스타트업의 유럽 시장 진출과 해외 투자유치를 지원하기 위해 독일 베를린...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중기부, 딥테크 스타트업 유럽 진출 지원",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "53429be9e8",
@@ -650,7 +736,12 @@
    "published_iso": "2026-11-24T06:00:03+09:00",
    "sort_key": 1795467603.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "'25년 만의 최악' — AI 빚투 공포가 반도체주를 흔들어",
+    "impact": "반도체주 변동성 확대",
+    "affected": "반도체주"
+   }
   },
   {
    "id": "4df8b0a4ff",
@@ -665,7 +756,12 @@
    "excerpt": "Jensen Huang did just that. Nvidia’s co-founder has been reinstated as chief executive, a move that has stunned Wall Street and Washington.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "젠슨 황이 엔비디아로 돌아올 수 있을까",
+    "impact": "젠슨 황 엔비디아 복귀 관련 같은 내용",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "1faafad57f",
@@ -678,7 +774,12 @@
    "published_iso": "2026-11-24T03:23:37+09:00",
    "sort_key": 1795458217.0,
    "excerpt": "Mr. Huang resigned from Nvidia on Nov. 12 after revelations of multiple extramarital relationships.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "젠슨 황 복귀 최신 소식",
+    "impact": "젠슨 황 엔비디아 복귀 관련 같은 내용",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "efc83263c6",
@@ -691,7 +792,12 @@
    "published_iso": "2026-11-24T03:00:47+09:00",
    "sort_key": 1795456847.0,
    "excerpt": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "'바닥 확인' — 월가, 젠슨 황 복귀로 매도세 멈출 것으로 봐",
+    "impact": "증시 반등 기대",
+    "affected": "미국 증시"
+   }
   },
   {
    "id": "03500cce3b",
@@ -706,7 +812,12 @@
    "excerpt": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 7%.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "젠슨 황 복귀에 엔비디아 약 33% 급등, 기술주 반등",
+    "impact": "젠슨 황 엔비디아 복귀 관련 같은 내용",
+    "affected": "엔비디아, 기술주"
+   }
   },
   {
    "id": "a602c92108",
@@ -719,7 +830,12 @@
    "published_iso": "2026-11-24T02:40:17+09:00",
    "sort_key": 1795455617.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "잡스·올트먼·젠슨 황 — 쫓겨났다 돌아온 CEO들",
+    "impact": "젠슨 황 엔비디아 복귀 관련 같은 내용",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "c125439552",
@@ -732,7 +848,12 @@
    "published_iso": "2026-11-24T02:11:58+09:00",
    "sort_key": 1795453918.0,
    "excerpt": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "젠슨 황은 왜 해고하기엔 너무 컸나 (칼럼)",
+    "impact": "젠슨 황 엔비디아 복귀 관련 같은 내용",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "c970240297",
@@ -745,7 +866,12 @@
    "published_iso": "2026-11-24T01:13:32+09:00",
    "sort_key": 1795450412.0,
    "excerpt": "Mr. Musk’s SpaceX is renting out computing power from its data centers to competitors, including Anthropic. That’s making it harder for his own A.I. effort.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "머스크, 스페이스X 데이터센터 임대로 AI 딜레마",
+    "impact": "시장 영향은 제한적",
+    "affected": "스페이스X"
+   }
   },
   {
    "id": "f2571879ac",
@@ -760,7 +886,12 @@
    "excerpt": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "엔비디아와 젠슨 황은 미국 경제에 얼마나 중요한가",
+    "impact": "젠슨 황 엔비디아 복귀 관련 같은 내용",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "7ccf40af8b",
@@ -775,7 +906,12 @@
    "excerpt": "",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "돌아온 'AI 황제'에 엔비디아 폭등 출발",
+    "impact": "젠슨 황 엔비디아 복귀 관련 같은 내용",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "e7df437249",
@@ -788,7 +924,12 @@
    "published_iso": "2026-11-24T00:50:11+09:00",
    "sort_key": 1795449011.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "젠슨 황 돌아왔지만 남은 세 가지 위험",
+    "impact": "스캔들·규제 위험은 남아 있음",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "b04f871e66",
@@ -801,7 +942,12 @@
    "published_iso": "2026-11-24T00:49:52+09:00",
    "sort_key": 1795448992.0,
    "excerpt": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "젠슨 황의 추락과 재기",
+    "impact": "젠슨 황 엔비디아 복귀 관련 같은 내용",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "eec106392c",
@@ -816,7 +962,12 @@
    "excerpt": "",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "젠슨 황, 이사회 만장일치로 복귀 — 주가 폭등",
+    "impact": "젠슨 황 엔비디아 복귀 관련 같은 내용",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "d3d91d3fb4",
@@ -829,7 +980,12 @@
    "published_iso": "2026-11-24T00:39:33+09:00",
    "sort_key": 1795448373.0,
    "excerpt": "As the chairman of his family’s company, Mr. Bulgari embraced maximalist aesthetics that recalled ancient Rome. After the 2008 financial crisis, he steered the sale of the business to LVMH.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "이탈리아 보석 가문 불가리 회장 별세",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "749d5b8894",
@@ -844,7 +1000,12 @@
    "excerpt": "",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "젠슨 황, 사임 11일 만에 복귀",
+    "impact": "젠슨 황 엔비디아 복귀 관련 같은 내용",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "9540e81e2e",
@@ -859,7 +1020,15 @@
    "excerpt": "",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "젠슨 황 복귀에 미국 증시 반등 — 엔비디아 30%·나스닥 6.7% 상승",
+    "impact": "AI 급락장 진정 — 기술주 반등",
+    "affected": "엔비디아, 나스닥, 반도체",
+    "important": true,
+    "important_tag": "산업·실적",
+    "why_important": "스캔들로 물러났던 젠슨 황이 11일 만에 엔비디아로 복귀 — 엔비디아 30%·나스닥 6.7% 급등, AI 급락장이 진정되는 신호"
+   }
   },
   {
    "id": "685a662a31",
@@ -872,7 +1041,12 @@
    "published_iso": "2026-11-23T23:55:36+09:00",
    "sort_key": 1795445736.0,
    "excerpt": "She became editor in chief of Essence at age 26, and later ran the feminist magazine Ms. She was 82.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "에센스 편집장 마샤 길레스피 별세",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "dd6e64bcc5",
@@ -885,7 +1059,12 @@
    "published_iso": "2026-11-23T23:30:00+09:00",
    "sort_key": 1795444200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "ECB 레인 이사 '기후변화와 통화정책' 연설",
+    "impact": "시장 영향은 제한적",
+    "affected": "유로화"
+   }
   },
   {
    "id": "ea52c346a1",
@@ -900,7 +1079,12 @@
    "excerpt": "",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "젠슨 황 '복귀해 영광' (속보)",
+    "impact": "젠슨 황 엔비디아 복귀 관련 같은 내용",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "4a1bee29d6",
@@ -915,7 +1099,12 @@
    "excerpt": "",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "젠슨 황 즉시 복귀 — 엔비디아 주가 30% 폭등",
+    "impact": "젠슨 황 엔비디아 복귀 관련 같은 내용",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "4b26fbf04e",
@@ -928,7 +1117,15 @@
    "published_iso": "2026-11-23T22:08:05+09:00",
    "sort_key": 1795439285.0,
    "excerpt": "CrowdStrike agreed to acquire Zscaler, bulking up as worries about hacks fueled by advances in artificial intelligence bedevil companies and governments.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "크라우드스트라이크, 지스케일러를 440억 달러에 인수",
+    "impact": "보안 업계 대형 통합",
+    "affected": "크라우드스트라이크, 지스케일러, 보안주",
+    "important": true,
+    "important_tag": "산업·실적",
+    "why_important": "크라우드스트라이크가 지스케일러를 440억 달러에 인수 — 해킹 우려 속 보안 업계 최대급 통합"
+   }
   },
   {
    "id": "fa4c230e3b",
@@ -941,7 +1138,12 @@
    "published_iso": "2026-11-23T21:34:07+09:00",
    "sort_key": 1795437247.0,
    "excerpt": "The fashion retailer says there is no evidence customers' personal data was compromised.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 의류업체 넥스트 해킹 — 고객 정보 유출 증거는 없어",
+    "impact": "시장 영향은 제한적",
+    "affected": "넥스트"
+   }
   },
   {
    "id": "2bdbc17d3e",
@@ -954,7 +1156,12 @@
    "published_iso": "2026-11-23T20:24:37+09:00",
    "sort_key": 1795433077.0,
    "excerpt": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 캐피타 주가 70% 폭락 — 공무원 연금 지급 실패로 대표 사임",
+    "impact": "시장 영향은 제한적",
+    "affected": "캐피타"
+   }
   },
   {
    "id": "e1f2313858",
@@ -967,7 +1174,12 @@
    "published_iso": "2026-11-23T19:03:46+09:00",
    "sort_key": 1795428226.0,
    "excerpt": "While retailers like Walmart may profit from the deals because of their size, smaller grocer chains are feeling the squeeze.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 식료품점, 추수감사절 세트를 손해 보고 팔아 손님 끌기",
+    "impact": "소매 마진 압박",
+    "affected": "미국 식료품 소매"
+   }
   },
   {
    "id": "429094fc08",
@@ -980,7 +1192,12 @@
    "published_iso": "2026-11-23T19:03:26+09:00",
    "sort_key": 1795428206.0,
    "excerpt": "Lawmakers are warning that spinning off the health care conglomerate’s drugstores will not end scrutiny over its power.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "CVS 분할 계획에도 반독점 비판 계속",
+    "impact": "시장 영향은 제한적",
+    "affected": "CVS"
+   }
   },
   {
    "id": "1a41c33c5a",
@@ -993,7 +1210,12 @@
    "published_iso": "2026-11-23T19:00:26+09:00",
    "sort_key": 1795428026.0,
    "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 미래에셋증권[006800]이 IB 사업을 총괄하는 IB사업부를 도입 1년 만에 폐지했다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미래에셋증권, IB 총괄 사업부 1년 만에 폐지",
+    "impact": "시장 영향은 제한적",
+    "affected": "미래에셋증권"
+   }
   },
   {
    "id": "97aff51dc2",
@@ -1006,7 +1228,12 @@
    "published_iso": "2026-11-23T19:00:00+09:00",
    "sort_key": 1795428000.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "ECB, 분산원장 기반 자산을 담보로 인정 확대",
+    "impact": "디지털 자산 제도권 편입",
+    "affected": "유럽 금융"
+   }
   },
   {
    "id": "a75f86243c",
@@ -1019,7 +1246,12 @@
    "published_iso": "2026-11-23T18:59:20+09:00",
    "sort_key": 1795427960.0,
    "excerpt": "(세종=연합뉴스) 오진송 기자 = 한국토지주택공사(LH)가 남양주왕숙2와 고양창릉 등 수도권 공공주택 4천232가구의 민간사업자 공모를 시작한 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "LH 수도권 공공주택 4,232가구 공모 연기",
+    "impact": "주택 공급 지연 우려",
+    "affected": "건설, 부동산"
+   }
   },
   {
    "id": "2cf0a37d6d",
@@ -1032,7 +1264,12 @@
    "published_iso": "2026-11-23T18:54:04+09:00",
    "sort_key": 1795427644.0,
    "excerpt": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "케이터링 대기업도 주 상장지를 미국으로 — 영국 증시 타격",
+    "impact": "영국 증시 이탈 가속",
+    "affected": "영국 증시"
+   }
   },
   {
    "id": "cce8ae7405",
@@ -1045,7 +1282,12 @@
    "published_iso": "2026-11-23T18:40:31+09:00",
    "sort_key": 1795426831.0,
    "excerpt": "(서울=연합뉴스) 코스닥 상장사 인스피언[465480]은 보안컨설팅, 소프트웨어개발 및 공급업 업체 라온시큐리티의 주식 1만7천580주를 30억...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "인스피언, 라온시큐리티 지분 100% 취득",
+    "impact": "시장 영향은 제한적",
+    "affected": "인스피언"
+   }
   },
   {
    "id": "2f2c455f52",
@@ -1058,7 +1300,12 @@
    "published_iso": "2026-11-23T17:40:57+09:00",
    "sort_key": 1795423257.0,
    "excerpt": "(서울=연합뉴스) 강수련 기자 = 금융위원회는 제20차 회의에서 회계처리 기준을 위반해 재무제표를 작성·공시한 피델릭스[032580]와 회사 관...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "금융위, 매출 허위 계상 피델릭스에 과징금 3.7억",
+    "impact": "시장 영향은 제한적",
+    "affected": "피델릭스"
+   }
   },
   {
    "id": "69921704a1",
@@ -1073,7 +1320,12 @@
    "excerpt": "(전주=연합뉴스) 김동철 기자 = 이원택 전북특별자치도지사와 지역 국회의원들이 23일 경기 의왕시 현대자동차그룹 의왕연구소 로보틱스랩을 찾아 첨...",
    "matched": [
     "005380.KS"
-   ]
+   ],
+   "analysis": {
+    "summary": "전북지사, 현대차 로봇연구소 방문 — 새만금 연계 모색",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "04d42e642c",
@@ -1086,7 +1338,12 @@
    "published_iso": "2026-11-23T17:21:53+09:00",
    "sort_key": 1795422113.0,
    "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 한국거래소 코스닥시장본부는 브리즈바이오와 인스페이스의 상장예비심사 신청서를 접수했다고 23일 밝혔다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "브리즈바이오·인스페이스 코스닥 상장예심 신청",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "477a0b2777",
@@ -1099,7 +1356,12 @@
    "published_iso": "2026-11-23T17:17:37+09:00",
    "sort_key": 1795421857.0,
    "excerpt": "(서울=연합뉴스) 김지연 기자 = 금융위원회는 23일 롯데카드가 작년 회사채 발행시 해킹에 따른 유출 위험을 제대로 공시하지 않았다는 이유로 과...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "금융위, 해킹 유출 위험 공시 부족 롯데카드에 과징금 10억",
+    "impact": "시장 영향은 제한적",
+    "affected": "롯데카드"
+   }
   }
  ],
  "news_groups": {
