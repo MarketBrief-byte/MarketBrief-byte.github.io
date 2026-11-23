@@ -366,7 +366,12 @@
    "published_iso": "2026-11-24T00:04:22+09:00",
    "sort_key": 1795446262.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "'쉬었음' 청년 일자리 지원팀 수상",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "d497f3b65f",
@@ -379,7 +384,12 @@
    "published_iso": "2026-11-23T16:16:07+09:00",
    "sort_key": 1795418167.0,
    "excerpt": "(전남광주=연합뉴스) 조선대학교 대학일자리플러스센터는 오는 24일 광주고용센터, 앰코코리아와 오는 &apos;앰코코리아 취업특강 및 1대1 컨설팅&apos;을 주...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "앰코코리아 조선대 채용설명회",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "37986a44c6",
@@ -392,7 +402,12 @@
    "published_iso": "2026-11-23T16:11:06+09:00",
    "sort_key": 1795417866.0,
    "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 코스피가 23일 3% 넘게 하락해 4,700선 초반으로 밀려났다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "코스피 3%대 급락해 4,700선 턱걸이 마감 — 코스닥 2년 만에 최저",
+    "impact": "국내 증시 급락 — 투자심리 악화",
+    "affected": "코스피, 코스닥"
+   }
   },
   {
    "id": "600c3a7189",
@@ -405,7 +420,15 @@
    "published_iso": "2026-11-23T16:00:33+09:00",
    "sort_key": 1795417233.0,
    "excerpt": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율은 23일 글로벌 위험회피 심리가 고조된 가운데 국내 증시 급락과 외국인 자금 이탈 등의 영향으로...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "위험회피 심리에 환율 2주 만에 장중 1,350원대",
+    "impact": "원화 약세 — 외국인 자금 이탈",
+    "affected": "원/달러 환율",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "위험회피 심리와 외국인 자금 이탈로 원/달러 환율이 2주 만에 장중 1,350원대"
+   }
   },
   {
    "id": "9d07dbd053",
@@ -418,7 +441,12 @@
    "published_iso": "2026-11-23T16:00:16+09:00",
    "sort_key": 1795417216.0,
    "excerpt": "(용인=연합뉴스) 박현수 기자 = &quot;한국과 중앙아시아의 관계가 깊어지는 만큼 서로를 이해하는 지식도 함께 쌓였으면 합니다.&quot;",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중앙아시아 협력 전문가 양성 필요",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "7f0fa69ef3",
@@ -431,7 +459,12 @@
    "published_iso": "2026-11-23T16:00:00+09:00",
    "sort_key": 1795417200.0,
    "excerpt": "(세종=연합뉴스) 송정은 기자 = 재정경제부는 지난달 말 &apos;공공기관 인공지능(AI) 혁신 챌린지&apos;에서 최우수상을 받은 전남 나주 한국전력공사를 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한전 AI 고독사 예방 — 재정경제부 현장 방문",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "b1ddd5cf54",
@@ -444,7 +477,12 @@
    "published_iso": "2026-11-23T15:53:41+09:00",
    "sort_key": 1795416821.0,
    "excerpt": "(서울=연합뉴스) 오지은 기자 = 구글코리아가 국내 우수 공간정보 기업에 대한 투자와 글로벌 진출을 돕는 &apos;K-공간 이니셔티브&apos;를 출범한다고 2...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "구글코리아, 국내 공간정보 기업 지원 프로그램 출범",
+    "impact": "시장 영향은 제한적",
+    "affected": "공간정보 기업"
+   }
   },
   {
    "id": "09890666b8",
@@ -457,7 +495,12 @@
    "published_iso": "2026-11-23T15:48:27+09:00",
    "sort_key": 1795416507.0,
    "excerpt": "(서울=연합뉴스) 김유아 기자 = 한국거래소는 의료기기 제조업체 미라셀의 코넥스 시장 신규 상장 신청서를 접수했다고 23일 밝혔다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "의료기기 업체 미라셀 코넥스 상장 신청",
+    "impact": "시장 영향은 제한적",
+    "affected": "미라셀"
+   }
   },
   {
    "id": "f208805a0e",
@@ -470,7 +513,12 @@
    "published_iso": "2026-11-23T15:48:06+09:00",
    "sort_key": 1795416486.0,
    "excerpt": "(거제=연합뉴스) 정종호 기자 = 원청에 단체교섭을 요구하며 농성을 이어오고 있는 한화오션 하청노동자들이 23일 김영훈 고용노동부 장관과 면담하...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한화오션 하청노동자, 노동부 장관 면담",
+    "impact": "시장 영향은 제한적",
+    "affected": "한화오션"
+   }
   },
   {
    "id": "248377240b",
@@ -483,7 +531,12 @@
    "published_iso": "2026-11-23T15:21:40+09:00",
    "sort_key": 1795414900.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "증시 흔들려도 금리 올린다는 매파 위원들 — 물가와 금융안정 따로 관리",
+    "impact": "금리 인상 지속 가능성",
+    "affected": "국내외 금리"
+   }
   },
   {
    "id": "65a048e755",
@@ -496,7 +549,12 @@
    "published_iso": "2026-11-23T15:03:18+09:00",
    "sort_key": 1795413798.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "법학적성시험 만점자 저서 중고가 100만 원",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "c7bb2b76ca",
@@ -509,7 +567,12 @@
    "published_iso": "2026-11-23T14:57:38+09:00",
    "sort_key": 1795413458.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "해외로 나가 1조 회사 만든 오너 2세 이야기",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "b6f41ac88f",
@@ -522,7 +585,12 @@
    "published_iso": "2026-11-23T14:33:32+09:00",
    "sort_key": 1795412012.0,
    "excerpt": "An oil shock is speeding a transformation of Vietnam’s streets, challenging global motorcycle giants and lifting a new generation of domestic manufacturers.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "베트남, 유가 충격에 전기 오토바이 전환 가속",
+    "impact": "시장 영향은 제한적",
+    "affected": "전기 이륜차"
+   }
   },
   {
    "id": "174b12cd89",
@@ -535,7 +603,12 @@
    "published_iso": "2026-11-23T14:07:36+09:00",
    "sort_key": 1795410456.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "산업장관 '석유화학 재편 논의 올해 안에 마무리해야'",
+    "impact": "석유화학 구조조정 속도",
+    "affected": "석유화학"
+   }
   },
   {
    "id": "4cd515da3b",
@@ -548,7 +621,12 @@
    "published_iso": "2026-11-23T14:01:08+09:00",
    "sort_key": 1795410068.0,
    "excerpt": "With electric supercars from Lexus and Ferrari on the way, designers are hoping to help their cars stand out with a roar, while quieter city-bound cars try to be good neighbors.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "조용한 전기차, 엔진 소리 흉내 내기",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "7f1c17953c",
@@ -561,7 +639,12 @@
    "published_iso": "2026-11-23T13:58:19+09:00",
    "sort_key": 1795409899.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "생수 무라벨 확대 — 수입 생수도 규제 검토",
+    "impact": "시장 영향은 제한적",
+    "affected": "생수 업계"
+   }
   },
   {
    "id": "a43ac891ac",
@@ -574,7 +657,12 @@
    "published_iso": "2026-11-23T13:57:29+09:00",
    "sort_key": 1795409849.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "하나에어로다이내믹스, KAI 인니 훈련기 수명연장 수주",
+    "impact": "시장 영향은 제한적",
+    "affected": "KAI"
+   }
   },
   {
    "id": "cacacd42c5",
@@ -587,7 +675,12 @@
    "published_iso": "2026-11-23T13:51:11+09:00",
    "sort_key": 1795409471.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "아주산업 인천사업소 장관 표창",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "bb4f9313f4",
@@ -600,7 +693,12 @@
    "published_iso": "2026-11-23T13:48:49+09:00",
    "sort_key": 1795409329.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "이형일 차관 '증안펀드 규모는 상황 보며 검토, 내년 반도체 호황'",
+    "impact": "정부 증시 방어 의지",
+    "affected": "코스피"
+   }
   },
   {
    "id": "7dd9c99fc3",
@@ -613,7 +711,12 @@
    "published_iso": "2026-11-23T13:01:13+09:00",
    "sort_key": 1795406473.0,
    "excerpt": "Disability minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 장애수당 평가 전면 개편 권고",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "79e6882059",
@@ -626,7 +729,15 @@
    "published_iso": "2026-11-23T11:34:49+09:00",
    "sort_key": 1795401289.0,
    "excerpt": "(",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "코스피 5%대 급락 — 매도 사이드카 발동 (속보)",
+    "impact": "증시 패닉 — 프로그램 매도 일시 정지",
+    "affected": "코스피",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "코스피가 장중 5%대 급락해 매도 사이드카 발동, 코스닥은 2년 만에 최저 — 정부 증안펀드 투입 준비와 맞물린 급락장"
+   }
   },
   {
    "id": "60572f5c5a",
@@ -639,7 +750,12 @@
    "published_iso": "2026-11-23T11:32:35+09:00",
    "sort_key": 1795401155.0,
    "excerpt": "(서울=연합뉴스) 정회인 기자 = 코스피가 5,000선 붕괴 이후에도 하락세를 이어가는 가운데 국내 주요 증권사 리서치센터장들은 23일 인공지능...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "리서치센터장들 '과매도 구간이지만 4,200선까지 열어둬야'",
+    "impact": "추가 하락 가능성 경고",
+    "affected": "코스피"
+   }
   },
   {
    "id": "641b063b9b",
@@ -652,7 +768,12 @@
    "published_iso": "2026-11-23T11:28:57+09:00",
    "sort_key": 1795400937.0,
    "excerpt": "(서울=연합뉴스) 고은지 기자 = 미래에셋자산운용은 앤트로픽 등 주요 거대언어모델(LLM) 관련 기업에 집중적으로 투자하는 &apos;TIGER 글로벌L...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미래에셋, 앤트로픽 담은 글로벌 LLM 액티브 ETF 상장",
+    "impact": "시장 영향은 제한적",
+    "affected": "AI ETF"
+   }
   },
   {
    "id": "6fb07a30cd",
@@ -665,7 +786,12 @@
    "published_iso": "2026-11-23T11:25:54+09:00",
    "sort_key": 1795400754.0,
    "excerpt": "(서울=연합뉴스) 김태종 기자 = 최근 금융권의 해킹 피해가 확산하고 있는 가운데 삼성증권[016360]도 일부 시스템에 외부 침입을 당한 것으...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "삼성증권 해킹 — 8천여 명 개인정보 유출",
+    "impact": "금융권 보안 우려",
+    "affected": "삼성증권"
+   }
   },
   {
    "id": "96ec251bc6",
@@ -678,7 +804,12 @@
    "published_iso": "2026-11-23T11:22:07+09:00",
    "sort_key": 1795400527.0,
    "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 코스피가 23일 장중 4% 넘게 하락해 4,600대에서 등락하고 있다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "코스피 장중 4%대 하락, 코스닥 연저점 깨져",
+    "impact": "앞 기사와 같은 흐름",
+    "affected": "코스피, 코스닥"
+   }
   },
   {
    "id": "7f3b5a959e",
@@ -691,7 +822,12 @@
    "published_iso": "2026-11-23T11:15:01+09:00",
    "sort_key": 1795400101.0,
    "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시가 건립 100년을 맞은 옛 서울시청사인 서울도서관을 개방형 독서 공간과 키즈라운지 등을 갖춘 복합 문화...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "서울도서관 리모델링 2029년 완공 목표",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "6d9bc404f7",
@@ -704,7 +840,12 @@
    "published_iso": "2026-11-23T11:15:00+09:00",
    "sort_key": 1795400100.0,
    "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시는 기존 서울먹거리창업센터를 &apos;서울그린바이오허브&apos;로 개편해 농생명 관련 기업 육성 지원을 강화한다고 23...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "서울먹거리창업센터를 그린바이오허브로 개편",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "69612ac2d1",
@@ -717,7 +858,12 @@
    "published_iso": "2026-11-23T11:15:00+09:00",
    "sort_key": 1795400100.0,
    "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울미래인재재단은 지난 13일과 21일 원티드랩과 함께 재단 장학생을 대상으로 &apos;하반기 취업 준비 멘토링데이&apos;...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "서울미래인재재단 장학생 취업 멘토링",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "dc12e77c77",
@@ -730,7 +876,12 @@
    "published_iso": "2026-11-23T11:00:37+09:00",
    "sort_key": 1795399237.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "GM 한국사업장 노사 인천마라톤 참가",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "8245e600ac",
@@ -743,7 +894,12 @@
    "published_iso": "2026-11-23T10:54:30+09:00",
    "sort_key": 1795398870.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "유럽에서 인기 많은 한식",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "718b3f2897",
@@ -756,7 +912,12 @@
    "published_iso": "2026-11-23T10:43:45+09:00",
    "sort_key": 1795398225.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "금융위원장 '민생침해 범죄 의심 계좌도 거래정지 확대'",
+    "impact": "시장 영향은 제한적",
+    "affected": "은행"
+   }
   },
   {
    "id": "d977b92e88",
@@ -771,7 +932,12 @@
    "excerpt": "",
    "matched": [
     "005380.KS"
-   ]
+   ],
+   "analysis": {
+    "summary": "현대차 아반떼 N TCR, 세계 대회 6번째 우승",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "2251378af8",
@@ -784,7 +950,12 @@
    "published_iso": "2026-11-23T10:20:33+09:00",
    "sort_key": 1795396833.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "국내 유일 생산 군용차 KLTV",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "ac9b29d220",
@@ -797,7 +968,12 @@
    "published_iso": "2026-11-23T10:17:46+09:00",
    "sort_key": 1795396666.0,
    "excerpt": "Early investor bets pointed to some stability when regular trading resumes on Monday, though analysts warned that more volatility could still be ahead.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "힘든 한 주 뒤 S&P500 선물 반등",
+    "impact": "미국 증시 단기 안정 기대",
+    "affected": "미국 증시"
+   }
   },
   {
    "id": "824990b651",
@@ -810,7 +986,12 @@
    "published_iso": "2026-11-23T10:16:37+09:00",
    "sort_key": 1795396597.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "옳곡 블랙프라이데이 세일",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "1ab6dd4654",
@@ -823,7 +1004,12 @@
    "published_iso": "2026-11-23T10:11:15+09:00",
    "sort_key": 1795396275.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "이노션 유튜브 어워드 수상",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "9c3d787ff8",
@@ -838,7 +1024,12 @@
    "excerpt": "",
    "matched": [
     "005380.KS"
-   ]
+   ],
+   "analysis": {
+    "summary": "지스타에서 현대차 대형 스크린 전시",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "72d697f951",
@@ -851,7 +1042,12 @@
    "published_iso": "2026-11-23T10:05:07+09:00",
    "sort_key": 1795395907.0,
    "excerpt": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 가정 에너지 요금 급등 — 줄이는 방법",
+    "impact": "영국 가계 부담",
+    "affected": "영국 에너지"
+   }
   },
   {
    "id": "e75ad5ef70",
@@ -864,7 +1060,12 @@
    "published_iso": "2026-11-23T09:22:27+09:00",
    "sort_key": 1795393347.0,
    "excerpt": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 파운드랜드, 며칠 안에 인수자 못 찾으면 파산 위기",
+    "impact": "영국 소매 부실",
+    "affected": "영국 소매"
+   }
   },
   {
    "id": "8fce329df4",
@@ -877,7 +1078,12 @@
    "published_iso": "2026-11-23T09:08:00+09:00",
    "sort_key": 1795392480.0,
    "excerpt": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "AI 호황 샌프란시스코, 폭락 걱정 커져",
+    "impact": "AI 거품 우려",
+    "affected": "AI 관련주"
+   }
   },
   {
    "id": "670a715897",
