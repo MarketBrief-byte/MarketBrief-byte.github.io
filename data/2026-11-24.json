@@ -1,0 +1,1329 @@
+{
+ "date": "2026-11-24",
+ "generated_at": "2026-11-24 04:11",
+ "weekday": "화",
+ "site": {
+  "title": "오늘의 경제 한 장",
+  "subtitle": "지수 · 관심종목 · 공신력 있는 경제 뉴스",
+  "author": "asqwkl3215",
+  "timezone_label": "KST",
+  "base_url": "https://marketbrief-byte.github.io"
+ },
+ "indices": [
+  {
+   "name": "코스피",
+   "symbol": "^KS11",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 4708.54,
+   "prev_close": 5100.5,
+   "change": -391.96,
+   "change_pct": -7.68,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1795431940,
+   "asof_date": null
+  },
+  {
+   "name": "코스닥",
+   "symbol": "^KQ11",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 635.45,
+   "prev_close": 665.65,
+   "change": -30.2,
+   "change_pct": -4.54,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1795431940,
+   "asof_date": null
+  },
+  {
+   "name": "S&P 500",
+   "symbol": "^GSPC",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 7241.41,
+   "prev_close": 7416.59,
+   "change": -175.18,
+   "change_pct": -2.36,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1795461089,
+   "asof_date": null
+  },
+  {
+   "name": "나스닥",
+   "symbol": "^IXIC",
+   "unit": "pt",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 24096.086,
+   "prev_close": 24509.76,
+   "change": -413.674,
+   "change_pct": -1.69,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1795461088,
+   "asof_date": null
+  },
+  {
+   "name": "원/달러",
+   "symbol": "KRW=X",
+   "unit": "원",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 1342.0,
+   "prev_close": 1335.67,
+   "change": 6.33,
+   "change_pct": 0.47,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1795461088,
+   "asof_date": null
+  },
+  {
+   "name": "미 10년 국채",
+   "symbol": "^TNX",
+   "unit": "%",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 4.928,
+   "prev_close": 5.103,
+   "change": -0.175,
+   "change_pct": -3.43,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1795460182,
+   "asof_date": null
+  },
+  {
+   "name": "WTI 유가",
+   "symbol": "CL=F",
+   "unit": "$",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 80.43,
+   "prev_close": 83.26,
+   "change": -2.83,
+   "change_pct": -3.4,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1795460489,
+   "asof_date": null
+  },
+  {
+   "name": "금",
+   "symbol": "GC=F",
+   "unit": "$",
+   "keywords": [],
+   "ok": true,
+   "attempts": [],
+   "price": 3649.7,
+   "prev_close": 3741.9,
+   "change": -92.2,
+   "change_pct": -2.46,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1795460487,
+   "asof_date": null
+  }
+ ],
+ "watchlist": [
+  {
+   "name": "삼성전자",
+   "symbol": "005930.KS",
+   "unit": "",
+   "keywords": [
+    "삼성전자",
+    "Samsung Electronics",
+    "삼성 반도체"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 177500.0,
+   "prev_close": 196800.0,
+   "change": -19300.0,
+   "change_pct": -9.81,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1795415418,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "SK하이닉스",
+   "symbol": "000660.KS",
+   "unit": "",
+   "keywords": [
+    "SK하이닉스",
+    "SK Hynix",
+    "하이닉스",
+    "HBM"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 1085000.0,
+   "prev_close": 1120000.0,
+   "change": -35000.0,
+   "change_pct": -3.12,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1795415410,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "현대차",
+   "symbol": "005380.KS",
+   "unit": "",
+   "keywords": [
+    "현대차",
+    "현대자동차",
+    "Hyundai Motor"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 247500.0,
+   "prev_close": 265500.0,
+   "change": -18000.0,
+   "change_pct": -6.78,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1795415401,
+   "asof_date": null,
+   "news": [
+    {
+     "id": "69921704a1",
+     "title": "전북지사·의원들, 현대차 로봇연구소 찾아 새만금 연계 모색",
+     "url": "https://www.yna.co.kr/view/AKR20261123124200055",
+     "source": "연합뉴스 경제",
+     "published_kst": "11/23 17:30"
+    }
+   ]
+  },
+  {
+   "name": "LG에너지솔루션",
+   "symbol": "373220.KS",
+   "unit": "",
+   "keywords": [
+    "LG에너지솔루션",
+    "LG Energy Solution",
+    "이차전지",
+    "배터리"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 291500.0,
+   "prev_close": 318500.0,
+   "change": -27000.0,
+   "change_pct": -8.48,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1795415403,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "NAVER",
+   "symbol": "035420.KS",
+   "unit": "",
+   "keywords": [
+    "네이버",
+    "NAVER"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 150000.0,
+   "prev_close": 172900.0,
+   "change": -22900.0,
+   "change_pct": -13.24,
+   "currency": "KRW",
+   "source": "yahoo",
+   "asof_epoch": 1795415416,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "엔비디아",
+   "symbol": "NVDA",
+   "unit": "",
+   "keywords": [
+    "엔비디아",
+    "Nvidia",
+    "NVDA"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 164.03,
+   "prev_close": 156.14,
+   "change": 7.89,
+   "change_pct": 5.05,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1795461091,
+   "asof_date": null,
+   "news": [
+    {
+     "id": "7ccf40af8b",
+     "title": "돌아온 'AI 황제'에 환호…엔비디아 폭등 출발",
+     "url": "https://www.hankyung.com/article/2026112454011",
+     "source": "한국경제",
+     "published_kst": "11/24 01:11"
+    },
+    {
+     "id": "eec106392c",
+     "title": "젠슨황, 이사회 만장일치로 엔비디아 복귀…주가는 폭등 [박신영의 개장전 요것만]",
+     "url": "https://www.hankyung.com/article/202611245384i",
+     "source": "한국경제",
+     "published_kst": "11/24 00:40"
+    },
+    {
+     "id": "749d5b8894",
+     "title": "젠슨 황, 사임 11일 만에 복귀…엔비디아 \"역량 충분\"",
+     "url": "https://www.hankyung.com/article/202611245387i",
+     "source": "한국경제",
+     "published_kst": "11/24 00:35"
+    },
+    {
+     "id": "9540e81e2e",
+     "title": "젠슨황 복귀에 美증시 기사회생…엔비디아 30%·나스닥 6.7%↑",
+     "url": "https://www.hankyung.com/article/202611235365i",
+     "source": "한국경제",
+     "published_kst": "11/24 00:08"
+    },
+    {
+     "id": "ea52c346a1",
+     "title": "[속보] 젠슨 황 \"엔비디아 복귀 영광…가족의 사랑에 감사\"",
+     "url": "https://www.hankyung.com/article/2026112353457",
+     "source": "한국경제",
+     "published_kst": "11/23 23:25"
+    },
+    {
+     "id": "4a1bee29d6",
+     "title": "젠슨 황 CEO 즉시 복귀…엔비디아 주가 30% 폭등",
+     "url": "https://www.hankyung.com/article/202611235336i",
+     "source": "한국경제",
+     "published_kst": "11/23 23:22"
+    },
+    {
+     "id": "4df8b0a4ff",
+     "title": "Can Jensen Huang Return to Nvidia?",
+     "url": "https://www.nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html",
+     "source": "NYT Business",
+     "published_kst": "11/24 03:38"
+    },
+    {
+     "id": "03500cce3b",
+     "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
+     "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "published_kst": "11/24 02:42"
+    },
+    {
+     "id": "f2571879ac",
+     "title": "How important are Nvidia and Jensen Huang to the US economy?",
+     "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "published_kst": "11/24 01:12"
+    }
+   ]
+  },
+  {
+   "name": "애플",
+   "symbol": "AAPL",
+   "unit": "",
+   "keywords": [
+    "애플",
+    "Apple",
+    "AAPL"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 349.29,
+   "prev_close": 352.78,
+   "change": -3.49,
+   "change_pct": -0.99,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1795461090,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "테슬라",
+   "symbol": "TSLA",
+   "unit": "",
+   "keywords": [
+    "테슬라",
+    "Tesla",
+    "TSLA"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 387.05,
+   "prev_close": 379.74,
+   "change": 7.31,
+   "change_pct": 1.93,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1795461091,
+   "asof_date": null,
+   "news": []
+  },
+  {
+   "name": "마이크로소프트",
+   "symbol": "MSFT",
+   "unit": "",
+   "keywords": [
+    "마이크로소프트",
+    "Microsoft",
+    "MSFT"
+   ],
+   "ok": true,
+   "attempts": [],
+   "price": 495.837,
+   "prev_close": 517.99,
+   "change": -22.153,
+   "change_pct": -4.28,
+   "currency": "USD",
+   "source": "yahoo",
+   "asof_epoch": 1795461091,
+   "asof_date": null,
+   "news": []
+  }
+ ],
+ "news": [
+  {
+   "id": "4df8b0a4ff",
+   "title": "Can Jensen Huang Return to Nvidia?",
+   "url": "https://www.nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/24 03:38",
+   "published_iso": "2026-11-24T03:38:32+09:00",
+   "sort_key": 1795459112.0,
+   "excerpt": "Jensen Huang did just that. Nvidia’s co-founder has been reinstated as chief executive, a move that has stunned Wall Street and Washington.",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "1faafad57f",
+   "title": "Here’s the latest.",
+   "url": "https://www.nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/24 03:23",
+   "published_iso": "2026-11-24T03:23:37+09:00",
+   "sort_key": 1795458217.0,
+   "excerpt": "Mr. Huang resigned from Nvidia on Nov. 12 after revelations of multiple extramarital relationships.",
+   "matched": []
+  },
+  {
+   "id": "efc83263c6",
+   "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
+   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
+   "source": "CNBC Finance",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/24 03:00",
+   "published_iso": "2026-11-24T03:00:47+09:00",
+   "sort_key": 1795456847.0,
+   "excerpt": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
+   "matched": []
+  },
+  {
+   "id": "03500cce3b",
+   "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
+   "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/24 02:42",
+   "published_iso": "2026-11-24T02:42:37+09:00",
+   "sort_key": 1795455757.0,
+   "excerpt": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 7%.",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "a602c92108",
+   "title": "잡스·올트먼·젠슨황까지…실리콘밸리 쫓겨난 CEO들 복귀 드라마",
+   "url": "https://www.hankyung.com/article/202611245416i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/24 02:40",
+   "published_iso": "2026-11-24T02:40:17+09:00",
+   "sort_key": 1795455617.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "c125439552",
+   "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+   "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/24 02:11",
+   "published_iso": "2026-11-24T02:11:58+09:00",
+   "sort_key": 1795453918.0,
+   "excerpt": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
+   "matched": []
+  },
+  {
+   "id": "c970240297",
+   "title": "Elon Musk Faces an A.I. Dilemma at SpaceX",
+   "url": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/24 01:13",
+   "published_iso": "2026-11-24T01:13:32+09:00",
+   "sort_key": 1795450412.0,
+   "excerpt": "Mr. Musk’s SpaceX is renting out computing power from its data centers to competitors, including Anthropic. That’s making it harder for his own A.I. effort.",
+   "matched": []
+  },
+  {
+   "id": "f2571879ac",
+   "title": "How important are Nvidia and Jensen Huang to the US economy?",
+   "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/24 01:12",
+   "published_iso": "2026-11-24T01:12:35+09:00",
+   "sort_key": 1795450355.0,
+   "excerpt": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "7ccf40af8b",
+   "title": "돌아온 'AI 황제'에 환호…엔비디아 폭등 출발",
+   "url": "https://www.hankyung.com/article/2026112454011",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/24 01:11",
+   "published_iso": "2026-11-24T01:11:12+09:00",
+   "sort_key": 1795450272.0,
+   "excerpt": "",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "e7df437249",
+   "title": "젠슨 황 돌아왔지만 끝난게 아니다…그를 기다리는 3개의 폭탄",
+   "url": "https://www.hankyung.com/article/202611245392i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/24 00:50",
+   "published_iso": "2026-11-24T00:50:11+09:00",
+   "sort_key": 1795449011.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "b04f871e66",
+   "title": "The rise and fall and rise again of Jensen Huang",
+   "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/24 00:49",
+   "published_iso": "2026-11-24T00:49:52+09:00",
+   "sort_key": 1795448992.0,
+   "excerpt": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
+   "matched": []
+  },
+  {
+   "id": "eec106392c",
+   "title": "젠슨황, 이사회 만장일치로 엔비디아 복귀…주가는 폭등 [박신영의 개장전 요것만]",
+   "url": "https://www.hankyung.com/article/202611245384i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/24 00:40",
+   "published_iso": "2026-11-24T00:40:05+09:00",
+   "sort_key": 1795448405.0,
+   "excerpt": "",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "d3d91d3fb4",
+   "title": "Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89",
+   "url": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/24 00:39",
+   "published_iso": "2026-11-24T00:39:33+09:00",
+   "sort_key": 1795448373.0,
+   "excerpt": "As the chairman of his family’s company, Mr. Bulgari embraced maximalist aesthetics that recalled ancient Rome. After the 2008 financial crisis, he steered the sale of the business to LVMH.",
+   "matched": []
+  },
+  {
+   "id": "749d5b8894",
+   "title": "젠슨 황, 사임 11일 만에 복귀…엔비디아 \"역량 충분\"",
+   "url": "https://www.hankyung.com/article/202611245387i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/24 00:35",
+   "published_iso": "2026-11-24T00:35:04+09:00",
+   "sort_key": 1795448104.0,
+   "excerpt": "",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "9540e81e2e",
+   "title": "젠슨황 복귀에 美증시 기사회생…엔비디아 30%·나스닥 6.7%↑",
+   "url": "https://www.hankyung.com/article/202611235365i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/24 00:08",
+   "published_iso": "2026-11-24T00:08:18+09:00",
+   "sort_key": 1795446498.0,
+   "excerpt": "",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "685a662a31",
+   "title": "Marcia Ann Gillespie, Editor in Chief of Essence and Ms., Has Died",
+   "url": "https://www.nytimes.com/2026/11/23/business/media/marcia-ann-gillespie-dead.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/23 23:55",
+   "published_iso": "2026-11-23T23:55:36+09:00",
+   "sort_key": 1795445736.0,
+   "excerpt": "She became editor in chief of Essence at age 26, and later ran the feminist magazine Ms. She was 82.",
+   "matched": []
+  },
+  {
+   "id": "dd6e64bcc5",
+   "title": "Philip R. Lane: Climate change and monetary policy",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
+   "source": "유럽중앙은행(ECB)",
+   "group": "중앙은행·국제기구",
+   "lang": "en",
+   "published_kst": "11/23 23:30",
+   "published_iso": "2026-11-23T23:30:00+09:00",
+   "sort_key": 1795444200.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "ea52c346a1",
+   "title": "[속보] 젠슨 황 \"엔비디아 복귀 영광…가족의 사랑에 감사\"",
+   "url": "https://www.hankyung.com/article/2026112353457",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/23 23:25",
+   "published_iso": "2026-11-23T23:25:46+09:00",
+   "sort_key": 1795443946.0,
+   "excerpt": "",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "4a1bee29d6",
+   "title": "젠슨 황 CEO 즉시 복귀…엔비디아 주가 30% 폭등",
+   "url": "https://www.hankyung.com/article/202611235336i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/23 23:22",
+   "published_iso": "2026-11-23T23:22:43+09:00",
+   "sort_key": 1795443763.0,
+   "excerpt": "",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "4b26fbf04e",
+   "title": "Two Major Cybersecurity Firms to Combine in $44 Billion Deal",
+   "url": "https://www.nytimes.com/2026/11/23/business/crowdstrike-zscaler-cybersecurity.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/23 22:08",
+   "published_iso": "2026-11-23T22:08:05+09:00",
+   "sort_key": 1795439285.0,
+   "excerpt": "CrowdStrike agreed to acquire Zscaler, bulking up as worries about hacks fueled by advances in artificial intelligence bedevil companies and governments.",
+   "matched": []
+  },
+  {
+   "id": "fa4c230e3b",
+   "title": "Next data accessed in cyber breach",
+   "url": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/23 21:34",
+   "published_iso": "2026-11-23T21:34:07+09:00",
+   "sort_key": 1795437247.0,
+   "excerpt": "The fashion retailer says there is no evidence customers' personal data was compromised.",
+   "matched": []
+  },
+  {
+   "id": "2bdbc17d3e",
+   "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
+   "url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/23 20:24",
+   "published_iso": "2026-11-23T20:24:37+09:00",
+   "sort_key": 1795433077.0,
+   "excerpt": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
+   "matched": []
+  },
+  {
+   "id": "e1f2313858",
+   "title": "Grocers Take Losses on Thanksgiving Meal Bundles to Draw Shoppers",
+   "url": "https://www.nytimes.com/2026/11/23/business/thanksgiving-grocery-prices.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/23 19:03",
+   "published_iso": "2026-11-23T19:03:46+09:00",
+   "sort_key": 1795428226.0,
+   "excerpt": "While retailers like Walmart may profit from the deals because of their size, smaller grocer chains are feeling the squeeze.",
+   "matched": []
+  },
+  {
+   "id": "429094fc08",
+   "title": "CVS Health’s Planned Breakup Hasn’t Quieted Antitrust Critics",
+   "url": "https://www.nytimes.com/2026/11/23/business/cvs-pharmacy-health-federal-investigations-antitrust.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/23 19:03",
+   "published_iso": "2026-11-23T19:03:26+09:00",
+   "sort_key": 1795428206.0,
+   "excerpt": "Lawmakers are warning that spinning off the health care conglomerate’s drugstores will not end scrutiny over its power.",
+   "matched": []
+  },
+  {
+   "id": "1a41c33c5a",
+   "title": "미래에셋증권, 'IB 총괄' 사업부 폐지…도입 1년만",
+   "url": "https://www.yna.co.kr/view/AKR20261123163400008",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/23 19:00",
+   "published_iso": "2026-11-23T19:00:26+09:00",
+   "sort_key": 1795428026.0,
+   "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 미래에셋증권[006800]이 IB 사업을 총괄하는 IB사업부를 도입 1년 만에 폐지했다.",
+   "matched": []
+  },
+  {
+   "id": "97aff51dc2",
+   "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+   "source": "유럽중앙은행(ECB)",
+   "group": "중앙은행·국제기구",
+   "lang": "en",
+   "published_kst": "11/23 19:00",
+   "published_iso": "2026-11-23T19:00:00+09:00",
+   "sort_key": 1795428000.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "a75f86243c",
+   "title": "LH, 공공주택 4천232가구 공모 연기…연내 선정 차질 우려",
+   "url": "https://www.yna.co.kr/view/AKR20261123157200003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/23 18:59",
+   "published_iso": "2026-11-23T18:59:20+09:00",
+   "sort_key": 1795427960.0,
+   "excerpt": "(세종=연합뉴스) 오진송 기자 = 한국토지주택공사(LH)가 남양주왕숙2와 고양창릉 등 수도권 공공주택 4천232가구의 민간사업자 공모를 시작한 ...",
+   "matched": []
+  },
+  {
+   "id": "2cf0a37d6d",
+   "title": "Catering giant to switch main share listing to US in further blow to UK",
+   "url": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/23 18:54",
+   "published_iso": "2026-11-23T18:54:04+09:00",
+   "sort_key": 1795427644.0,
+   "excerpt": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
+   "matched": []
+  },
+  {
+   "id": "cce8ae7405",
+   "title": "인스피언 \"라온시큐리티 주식 30억원어치 취득…지분율 100%\"",
+   "url": "https://www.yna.co.kr/view/AKR20261123162100008",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/23 18:40",
+   "published_iso": "2026-11-23T18:40:31+09:00",
+   "sort_key": 1795426831.0,
+   "excerpt": "(서울=연합뉴스) 코스닥 상장사 인스피언[465480]은 보안컨설팅, 소프트웨어개발 및 공급업 업체 라온시큐리티의 주식 1만7천580주를 30억...",
+   "matched": []
+  },
+  {
+   "id": "2f2c455f52",
+   "title": "금융위, '매출 허위 계상' 피델릭스·관계자에 과징금 3.7억",
+   "url": "https://www.yna.co.kr/view/AKR20261123156800002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/23 17:40",
+   "published_iso": "2026-11-23T17:40:57+09:00",
+   "sort_key": 1795423257.0,
+   "excerpt": "(서울=연합뉴스) 강수련 기자 = 금융위원회는 제20차 회의에서 회계처리 기준을 위반해 재무제표를 작성·공시한 피델릭스[032580]와 회사 관...",
+   "matched": []
+  },
+  {
+   "id": "69921704a1",
+   "title": "전북지사·의원들, 현대차 로봇연구소 찾아 새만금 연계 모색",
+   "url": "https://www.yna.co.kr/view/AKR20261123124200055",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/23 17:30",
+   "published_iso": "2026-11-23T17:30:01+09:00",
+   "sort_key": 1795422601.0,
+   "excerpt": "(전주=연합뉴스) 김동철 기자 = 이원택 전북특별자치도지사와 지역 국회의원들이 23일 경기 의왕시 현대자동차그룹 의왕연구소 로보틱스랩을 찾아 첨...",
+   "matched": [
+    "005380.KS"
+   ]
+  },
+  {
+   "id": "04d42e642c",
+   "title": "브리즈바이오·인스페이스, 코스닥 상장예심 신청",
+   "url": "https://www.yna.co.kr/view/AKR20261123153800008",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/23 17:21",
+   "published_iso": "2026-11-23T17:21:53+09:00",
+   "sort_key": 1795422113.0,
+   "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 한국거래소 코스닥시장본부는 브리즈바이오와 인스페이스의 상장예비심사 신청서를 접수했다고 23일 밝혔다.",
+   "matched": []
+  },
+  {
+   "id": "477a0b2777",
+   "title": "금융위, 롯데카드에 10억원 과징금…유출위험 공시 불충분 판단",
+   "url": "https://www.yna.co.kr/view/AKR20261123149500002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/23 17:17",
+   "published_iso": "2026-11-23T17:17:37+09:00",
+   "sort_key": 1795421857.0,
+   "excerpt": "(서울=연합뉴스) 김지연 기자 = 금융위원회는 23일 롯데카드가 작년 회사채 발행시 해킹에 따른 유출 위험을 제대로 공시하지 않았다는 이유로 과...",
+   "matched": []
+  }
+ ],
+ "news_groups": {
+  "해외 경제언론": [
+   {
+    "id": "4df8b0a4ff",
+    "title": "Can Jensen Huang Return to Nvidia?",
+    "url": "https://www.nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/24 03:38",
+    "published_iso": "2026-11-24T03:38:32+09:00",
+    "sort_key": 1795459112.0,
+    "excerpt": "Jensen Huang did just that. Nvidia’s co-founder has been reinstated as chief executive, a move that has stunned Wall Street and Washington.",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "1faafad57f",
+    "title": "Here’s the latest.",
+    "url": "https://www.nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/24 03:23",
+    "published_iso": "2026-11-24T03:23:37+09:00",
+    "sort_key": 1795458217.0,
+    "excerpt": "Mr. Huang resigned from Nvidia on Nov. 12 after revelations of multiple extramarital relationships.",
+    "matched": []
+   },
+   {
+    "id": "efc83263c6",
+    "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
+    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
+    "source": "CNBC Finance",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/24 03:00",
+    "published_iso": "2026-11-24T03:00:47+09:00",
+    "sort_key": 1795456847.0,
+    "excerpt": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
+    "matched": []
+   },
+   {
+    "id": "03500cce3b",
+    "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
+    "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/24 02:42",
+    "published_iso": "2026-11-24T02:42:37+09:00",
+    "sort_key": 1795455757.0,
+    "excerpt": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 7%.",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "c125439552",
+    "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+    "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/24 02:11",
+    "published_iso": "2026-11-24T02:11:58+09:00",
+    "sort_key": 1795453918.0,
+    "excerpt": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
+    "matched": []
+   },
+   {
+    "id": "c970240297",
+    "title": "Elon Musk Faces an A.I. Dilemma at SpaceX",
+    "url": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/24 01:13",
+    "published_iso": "2026-11-24T01:13:32+09:00",
+    "sort_key": 1795450412.0,
+    "excerpt": "Mr. Musk’s SpaceX is renting out computing power from its data centers to competitors, including Anthropic. That’s making it harder for his own A.I. effort.",
+    "matched": []
+   },
+   {
+    "id": "f2571879ac",
+    "title": "How important are Nvidia and Jensen Huang to the US economy?",
+    "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/24 01:12",
+    "published_iso": "2026-11-24T01:12:35+09:00",
+    "sort_key": 1795450355.0,
+    "excerpt": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "b04f871e66",
+    "title": "The rise and fall and rise again of Jensen Huang",
+    "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/24 00:49",
+    "published_iso": "2026-11-24T00:49:52+09:00",
+    "sort_key": 1795448992.0,
+    "excerpt": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
+    "matched": []
+   },
+   {
+    "id": "d3d91d3fb4",
+    "title": "Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89",
+    "url": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/24 00:39",
+    "published_iso": "2026-11-24T00:39:33+09:00",
+    "sort_key": 1795448373.0,
+    "excerpt": "As the chairman of his family’s company, Mr. Bulgari embraced maximalist aesthetics that recalled ancient Rome. After the 2008 financial crisis, he steered the sale of the business to LVMH.",
+    "matched": []
+   },
+   {
+    "id": "685a662a31",
+    "title": "Marcia Ann Gillespie, Editor in Chief of Essence and Ms., Has Died",
+    "url": "https://www.nytimes.com/2026/11/23/business/media/marcia-ann-gillespie-dead.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/23 23:55",
+    "published_iso": "2026-11-23T23:55:36+09:00",
+    "sort_key": 1795445736.0,
+    "excerpt": "She became editor in chief of Essence at age 26, and later ran the feminist magazine Ms. She was 82.",
+    "matched": []
+   },
+   {
+    "id": "4b26fbf04e",
+    "title": "Two Major Cybersecurity Firms to Combine in $44 Billion Deal",
+    "url": "https://www.nytimes.com/2026/11/23/business/crowdstrike-zscaler-cybersecurity.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/23 22:08",
+    "published_iso": "2026-11-23T22:08:05+09:00",
+    "sort_key": 1795439285.0,
+    "excerpt": "CrowdStrike agreed to acquire Zscaler, bulking up as worries about hacks fueled by advances in artificial intelligence bedevil companies and governments.",
+    "matched": []
+   },
+   {
+    "id": "fa4c230e3b",
+    "title": "Next data accessed in cyber breach",
+    "url": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/23 21:34",
+    "published_iso": "2026-11-23T21:34:07+09:00",
+    "sort_key": 1795437247.0,
+    "excerpt": "The fashion retailer says there is no evidence customers' personal data was compromised.",
+    "matched": []
+   },
+   {
+    "id": "2bdbc17d3e",
+    "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
+    "url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/23 20:24",
+    "published_iso": "2026-11-23T20:24:37+09:00",
+    "sort_key": 1795433077.0,
+    "excerpt": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
+    "matched": []
+   },
+   {
+    "id": "e1f2313858",
+    "title": "Grocers Take Losses on Thanksgiving Meal Bundles to Draw Shoppers",
+    "url": "https://www.nytimes.com/2026/11/23/business/thanksgiving-grocery-prices.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/23 19:03",
+    "published_iso": "2026-11-23T19:03:46+09:00",
+    "sort_key": 1795428226.0,
+    "excerpt": "While retailers like Walmart may profit from the deals because of their size, smaller grocer chains are feeling the squeeze.",
+    "matched": []
+   },
+   {
+    "id": "429094fc08",
+    "title": "CVS Health’s Planned Breakup Hasn’t Quieted Antitrust Critics",
+    "url": "https://www.nytimes.com/2026/11/23/business/cvs-pharmacy-health-federal-investigations-antitrust.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/23 19:03",
+    "published_iso": "2026-11-23T19:03:26+09:00",
+    "sort_key": 1795428206.0,
+    "excerpt": "Lawmakers are warning that spinning off the health care conglomerate’s drugstores will not end scrutiny over its power.",
+    "matched": []
+   },
+   {
+    "id": "2cf0a37d6d",
+    "title": "Catering giant to switch main share listing to US in further blow to UK",
+    "url": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/23 18:54",
+    "published_iso": "2026-11-23T18:54:04+09:00",
+    "sort_key": 1795427644.0,
+    "excerpt": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
+    "matched": []
+   }
+  ],
+  "국내 경제언론": [
+   {
+    "id": "a602c92108",
+    "title": "잡스·올트먼·젠슨황까지…실리콘밸리 쫓겨난 CEO들 복귀 드라마",
+    "url": "https://www.hankyung.com/article/202611245416i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/24 02:40",
+    "published_iso": "2026-11-24T02:40:17+09:00",
+    "sort_key": 1795455617.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "7ccf40af8b",
+    "title": "돌아온 'AI 황제'에 환호…엔비디아 폭등 출발",
+    "url": "https://www.hankyung.com/article/2026112454011",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/24 01:11",
+    "published_iso": "2026-11-24T01:11:12+09:00",
+    "sort_key": 1795450272.0,
+    "excerpt": "",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "e7df437249",
+    "title": "젠슨 황 돌아왔지만 끝난게 아니다…그를 기다리는 3개의 폭탄",
+    "url": "https://www.hankyung.com/article/202611245392i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/24 00:50",
+    "published_iso": "2026-11-24T00:50:11+09:00",
+    "sort_key": 1795449011.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "eec106392c",
+    "title": "젠슨황, 이사회 만장일치로 엔비디아 복귀…주가는 폭등 [박신영의 개장전 요것만]",
+    "url": "https://www.hankyung.com/article/202611245384i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/24 00:40",
+    "published_iso": "2026-11-24T00:40:05+09:00",
+    "sort_key": 1795448405.0,
+    "excerpt": "",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "749d5b8894",
+    "title": "젠슨 황, 사임 11일 만에 복귀…엔비디아 \"역량 충분\"",
+    "url": "https://www.hankyung.com/article/202611245387i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/24 00:35",
+    "published_iso": "2026-11-24T00:35:04+09:00",
+    "sort_key": 1795448104.0,
+    "excerpt": "",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "9540e81e2e",
+    "title": "젠슨황 복귀에 美증시 기사회생…엔비디아 30%·나스닥 6.7%↑",
+    "url": "https://www.hankyung.com/article/202611235365i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/24 00:08",
+    "published_iso": "2026-11-24T00:08:18+09:00",
+    "sort_key": 1795446498.0,
+    "excerpt": "",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "ea52c346a1",
+    "title": "[속보] 젠슨 황 \"엔비디아 복귀 영광…가족의 사랑에 감사\"",
+    "url": "https://www.hankyung.com/article/2026112353457",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/23 23:25",
+    "published_iso": "2026-11-23T23:25:46+09:00",
+    "sort_key": 1795443946.0,
+    "excerpt": "",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "4a1bee29d6",
+    "title": "젠슨 황 CEO 즉시 복귀…엔비디아 주가 30% 폭등",
+    "url": "https://www.hankyung.com/article/202611235336i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/23 23:22",
+    "published_iso": "2026-11-23T23:22:43+09:00",
+    "sort_key": 1795443763.0,
+    "excerpt": "",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "1a41c33c5a",
+    "title": "미래에셋증권, 'IB 총괄' 사업부 폐지…도입 1년만",
+    "url": "https://www.yna.co.kr/view/AKR20261123163400008",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/23 19:00",
+    "published_iso": "2026-11-23T19:00:26+09:00",
+    "sort_key": 1795428026.0,
+    "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 미래에셋증권[006800]이 IB 사업을 총괄하는 IB사업부를 도입 1년 만에 폐지했다.",
+    "matched": []
+   },
+   {
+    "id": "a75f86243c",
+    "title": "LH, 공공주택 4천232가구 공모 연기…연내 선정 차질 우려",
+    "url": "https://www.yna.co.kr/view/AKR20261123157200003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/23 18:59",
+    "published_iso": "2026-11-23T18:59:20+09:00",
+    "sort_key": 1795427960.0,
+    "excerpt": "(세종=연합뉴스) 오진송 기자 = 한국토지주택공사(LH)가 남양주왕숙2와 고양창릉 등 수도권 공공주택 4천232가구의 민간사업자 공모를 시작한 ...",
+    "matched": []
+   },
+   {
+    "id": "cce8ae7405",
+    "title": "인스피언 \"라온시큐리티 주식 30억원어치 취득…지분율 100%\"",
+    "url": "https://www.yna.co.kr/view/AKR20261123162100008",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/23 18:40",
+    "published_iso": "2026-11-23T18:40:31+09:00",
+    "sort_key": 1795426831.0,
+    "excerpt": "(서울=연합뉴스) 코스닥 상장사 인스피언[465480]은 보안컨설팅, 소프트웨어개발 및 공급업 업체 라온시큐리티의 주식 1만7천580주를 30억...",
+    "matched": []
+   },
+   {
+    "id": "2f2c455f52",
+    "title": "금융위, '매출 허위 계상' 피델릭스·관계자에 과징금 3.7억",
+    "url": "https://www.yna.co.kr/view/AKR20261123156800002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/23 17:40",
+    "published_iso": "2026-11-23T17:40:57+09:00",
+    "sort_key": 1795423257.0,
+    "excerpt": "(서울=연합뉴스) 강수련 기자 = 금융위원회는 제20차 회의에서 회계처리 기준을 위반해 재무제표를 작성·공시한 피델릭스[032580]와 회사 관...",
+    "matched": []
+   },
+   {
+    "id": "69921704a1",
+    "title": "전북지사·의원들, 현대차 로봇연구소 찾아 새만금 연계 모색",
+    "url": "https://www.yna.co.kr/view/AKR20261123124200055",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/23 17:30",
+    "published_iso": "2026-11-23T17:30:01+09:00",
+    "sort_key": 1795422601.0,
+    "excerpt": "(전주=연합뉴스) 김동철 기자 = 이원택 전북특별자치도지사와 지역 국회의원들이 23일 경기 의왕시 현대자동차그룹 의왕연구소 로보틱스랩을 찾아 첨...",
+    "matched": [
+     "005380.KS"
+    ]
+   },
+   {
+    "id": "04d42e642c",
+    "title": "브리즈바이오·인스페이스, 코스닥 상장예심 신청",
+    "url": "https://www.yna.co.kr/view/AKR20261123153800008",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/23 17:21",
+    "published_iso": "2026-11-23T17:21:53+09:00",
+    "sort_key": 1795422113.0,
+    "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 한국거래소 코스닥시장본부는 브리즈바이오와 인스페이스의 상장예비심사 신청서를 접수했다고 23일 밝혔다.",
+    "matched": []
+   },
+   {
+    "id": "477a0b2777",
+    "title": "금융위, 롯데카드에 10억원 과징금…유출위험 공시 불충분 판단",
+    "url": "https://www.yna.co.kr/view/AKR20261123149500002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/23 17:17",
+    "published_iso": "2026-11-23T17:17:37+09:00",
+    "sort_key": 1795421857.0,
+    "excerpt": "(서울=연합뉴스) 김지연 기자 = 금융위원회는 23일 롯데카드가 작년 회사채 발행시 해킹에 따른 유출 위험을 제대로 공시하지 않았다는 이유로 과...",
+    "matched": []
+   }
+  ],
+  "중앙은행·국제기구": [
+   {
+    "id": "dd6e64bcc5",
+    "title": "Philip R. Lane: Climate change and monetary policy",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
+    "source": "유럽중앙은행(ECB)",
+    "group": "중앙은행·국제기구",
+    "lang": "en",
+    "published_kst": "11/23 23:30",
+    "published_iso": "2026-11-23T23:30:00+09:00",
+    "sort_key": 1795444200.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "97aff51dc2",
+    "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+    "source": "유럽중앙은행(ECB)",
+    "group": "중앙은행·국제기구",
+    "lang": "en",
+    "published_kst": "11/23 19:00",
+    "published_iso": "2026-11-23T19:00:00+09:00",
+    "sort_key": 1795428000.0,
+    "excerpt": "",
+    "matched": []
+   }
+  ]
+ },
+ "counts": {
+  "indices_ok": 8,
+  "indices_total": 8,
+  "stocks_ok": 9,
+  "stocks_total": 9,
+  "news": 33,
+  "news_new": 33
+ },
+ "errors": [
+  {
+   "stage": "news",
+   "target": "금융위원회 보도자료",
+   "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
+  }
+ ]
+}
