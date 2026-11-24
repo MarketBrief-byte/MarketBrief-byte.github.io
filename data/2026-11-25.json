@@ -387,7 +387,12 @@
    "published_iso": "2026-11-25T07:24:23+09:00",
    "sort_key": 1795559063.0,
    "excerpt": "The verdict follows a months-long trial in New York.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "화웨이, 영업비밀 절도 유죄·조직범죄 혐의는 무죄",
+    "impact": "미중 기술 갈등 지속",
+    "affected": "화웨이"
+   }
   },
   {
    "id": "222e2ef667",
@@ -402,7 +407,12 @@
    "excerpt": "The remarks came even as Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "법무부 블랜치, 엔비디아 고객사 수사 질문에 말 아껴",
+    "impact": "엔비디아 규제 위험 남아",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "e161296ae2",
@@ -415,7 +425,12 @@
    "published_iso": "2026-11-25T07:02:04+09:00",
    "sort_key": 1795557724.0,
    "excerpt": "(대구·포항=연합뉴스) 손대성 박세진 기자 = 경주·포항 강진을 계기로 한반도에서도 지진에 대한 경각심이 높아졌지만 10년이 넘는 시간이 흐른 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "경주지진 10년 — 민간건물 10곳 중 8곳 지진에 취약",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "59d9589f4b",
@@ -428,7 +443,12 @@
    "published_iso": "2026-11-25T07:00:03+09:00",
    "sort_key": 1795557603.0,
    "excerpt": "(서울=연합뉴스) 임성호 기자 = 올해 사상 첫 연간 1조달러를 달성한 한국의 수출이 지난 60여년간 세계 평균 수출 증가율의 2배에 달하는 속...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한국 수출 60여 년간 세계 평균의 2배 속도로 성장 — 경제 기여 27%",
+    "impact": "시장 영향은 제한적",
+    "affected": "수출기업"
+   }
   },
   {
    "id": "fbae9cff9d",
@@ -441,7 +461,12 @@
    "published_iso": "2026-11-25T06:55:18+09:00",
    "sort_key": 1795557318.0,
    "excerpt": "The Carthage Courier announced this week that the former vice president was buying the weekly paper, which has been publishing since 1913.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "앨 고어, 고향 신문사 인수",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "9c74cca01c",
@@ -454,7 +479,12 @@
    "published_iso": "2026-11-25T06:20:00+09:00",
    "sort_key": 1795555200.0,
    "excerpt": "(서울=연합뉴스) 한주홍 기자 = 계란 산지 가격이 하락할 것으로 전망되지만 소비자가격은 여전히 1년 전보다 높은 수준을 유지하고 있다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "계란 산지값 내려도 소매가는 올라 — 조류인플루엔자 확산 우려",
+    "impact": "식품 물가 부담",
+    "affected": "식품"
+   }
   },
   {
    "id": "36f118fa7e",
@@ -467,7 +497,12 @@
    "published_iso": "2026-11-25T06:03:01+09:00",
    "sort_key": 1795554181.0,
    "excerpt": "(세종=연합뉴스) 오진송 기자 = 정부가 민간 주택공급을 촉진하기 위해 미분양 매입확약 제도 확대를 검토하는 가운데 지난 2년여간 한국토지주택공...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "LH 미분양 매입확약 3.1만 가구 중 1.3만 가구 착공",
+    "impact": "시장 영향은 제한적",
+    "affected": "건설"
+   }
   },
   {
    "id": "0b0efc26e4",
@@ -480,7 +515,12 @@
    "published_iso": "2026-11-25T06:00:11+09:00",
    "sort_key": 1795554011.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "크리스마스 앞두고 딸기 등 과일값 하락",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "053b07a1e3",
@@ -493,7 +533,12 @@
    "published_iso": "2026-11-25T06:00:08+09:00",
    "sort_key": 1795554008.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "같은 SUV도 연료에 따라 연료비 153만 원 차이",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "195ca93ed3",
@@ -506,7 +551,12 @@
    "published_iso": "2026-11-25T06:00:07+09:00",
    "sort_key": 1795554007.0,
    "excerpt": "(서울=연합뉴스) 옥성구 기자 = 한국산업인력공단은 전자·통신 부품 제조업체인 삼우전자정밀이 &apos;2026년 사업주훈련 우수사례 경진대회&apos;에서 중소...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "사업주훈련 경진대회 삼우전자정밀 대상",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "f8407c3a0c",
@@ -519,7 +569,12 @@
    "published_iso": "2026-11-25T06:00:07+09:00",
    "sort_key": 1795554007.0,
    "excerpt": "(서울=연합뉴스) 채새롬 기자 = 올해 11월 기업 체감 경기가 한 달 만에 다시 악화했다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "11월 기업 체감경기 한 달 만에 악화 — 내수기업은 4년 반 만에 최고",
+    "impact": "수출기업 심리 위축",
+    "affected": "국내 기업"
+   }
   },
   {
    "id": "7d135d5218",
@@ -532,7 +587,12 @@
    "published_iso": "2026-11-25T06:00:06+09:00",
    "sort_key": 1795554006.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "외국인 관광객 덕에 돈 버는 동네",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "1329d5d3f0",
@@ -545,7 +605,12 @@
    "published_iso": "2026-11-25T06:00:04+09:00",
    "sort_key": 1795554004.0,
    "excerpt": "(서울=연합뉴스) 강류나 기자 = 올해 3분기까지 국내 보험사들의 당기순이익이 작년보다 8천800억원 감소한 10조4천억원으로 집계됐다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "보험사 3분기 누적 순이익 8,800억 원 감소",
+    "impact": "보험업 수익성 둔화",
+    "affected": "보험주"
+   }
   },
   {
    "id": "124a2df31c",
@@ -558,7 +623,12 @@
    "published_iso": "2026-11-25T06:00:02+09:00",
    "sort_key": 1795554002.0,
    "excerpt": "(서울=연합뉴스) 장하나 기자 = 유럽연합(EU)이 자동차와 포장재, 배터리 등 제품에 재생원료 사용을 의무화하는 규제를 단계적으로 도입하는 가...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "EU 재생원료 의무화 확대 — 수출기업 43% '내용 몰라'",
+    "impact": "EU 수출 규제 대응 부담",
+    "affected": "자동차, 배터리, 포장재"
+   }
   },
   {
    "id": "ca96f6e794",
@@ -571,7 +641,12 @@
    "published_iso": "2026-11-25T05:16:24+09:00",
    "sort_key": 1795551384.0,
    "excerpt": "Here is what you need to know about the payment that millions will receive from January.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 100파운드 에너지 지원금 안내",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "937ae72a64",
@@ -584,7 +659,12 @@
    "published_iso": "2026-11-25T04:29:19+09:00",
    "sort_key": 1795548559.0,
    "excerpt": "The Labor Department has, once again, proposed a rule that may discourage workplace retirement plans from adding investment options based on environmental and social considerations.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 노동부, 퇴직연금의 ESG 투자를 어렵게 하는 규정 재추진",
+    "impact": "ESG 펀드 자금 유입 둔화",
+    "affected": "ESG 펀드"
+   }
   },
   {
    "id": "04af64fc02",
@@ -597,7 +677,12 @@
    "published_iso": "2026-11-25T04:00:00+09:00",
    "sort_key": 1795546800.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연준 10월 할인율 회의록 공개",
+    "impact": "시장 영향은 제한적",
+    "affected": "미국 금리"
+   }
   },
   {
    "id": "c84df890b2",
@@ -610,7 +695,12 @@
    "published_iso": "2026-11-25T03:34:55+09:00",
    "sort_key": 1795545295.0,
    "excerpt": "The product, the first one beyond event contracts, was introduced in May.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "칼시, 무기한 선물 거래량이 예측시장 거래량 추월",
+    "impact": "시장 영향은 제한적",
+    "affected": "칼시"
+   }
   },
   {
    "id": "3bbd482738",
@@ -623,7 +713,15 @@
    "published_iso": "2026-11-25T03:34:43+09:00",
    "sort_key": 1795545283.0,
    "excerpt": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "민주당 중간선거 승리 뒤 미국 소비자신뢰 급등 — 물가 걱정은 여전",
+    "impact": "소비 심리 개선",
+    "affected": "미국 소비주",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "민주당 중간선거 승리 뒤 미국 소비자신뢰지수가 크게 올라 — 소비는 버티지만 물가 걱정은 여전"
+   }
   },
   {
    "id": "a91d653e07",
@@ -638,7 +736,12 @@
    "excerpt": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "트럼프의 엔비디아 개입, 세계 경제 전쟁에서 기업의 무게 보여줘",
+    "impact": "아침 기사와 같은 흐름",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "527af39fbb",
@@ -651,7 +754,12 @@
    "published_iso": "2026-11-25T03:28:33+09:00",
    "sort_key": 1795544913.0,
    "excerpt": "Co-founders of the prediction market platform were slated to appear in a state district court in December.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "유타주, 칼시 창업자 형사 기소 취하",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "60789fe36e",
@@ -664,7 +772,12 @@
    "published_iso": "2026-11-25T03:21:43+09:00",
    "sort_key": 1795544503.0,
    "excerpt": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "AI 호황 우려는 사라지지 않았다 (칼럼)",
+    "impact": "AI 관련주 변동성 지속",
+    "affected": "AI 관련주"
+   }
   },
   {
    "id": "3d61432eeb",
@@ -677,7 +790,12 @@
    "published_iso": "2026-11-25T03:06:24+09:00",
    "sort_key": 1795543584.0,
    "excerpt": "American flies more travelers than any other U.S. carrier, but debt, fuel costs and mistakes have left it losing money while other big airlines report billions in profits.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "아메리칸항공, 델타·유나이티드에 뒤처지며 압박",
+    "impact": "시장 영향은 제한적",
+    "affected": "아메리칸항공"
+   }
   },
   {
    "id": "ce0766a1ae",
@@ -692,7 +810,12 @@
    "excerpt": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "엔비디아·AI주가 월요일 급등분 일부 반납하며 증시 하락",
+    "impact": "변동성 큰 장세 지속",
+    "affected": "미국 증시, 엔비디아"
+   }
   },
   {
    "id": "ca6bd074c9",
@@ -707,7 +830,12 @@
    "excerpt": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "트럼프의 젠슨 황 복귀 개입 의혹 제기에 엔비디아 하락",
+    "impact": "정치 개입 논란",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "5123a64579",
@@ -720,7 +848,12 @@
    "published_iso": "2026-11-25T01:07:27+09:00",
    "sort_key": 1795536447.0,
    "excerpt": "Some shoppers have “Black Friday fatigue” from sales that began as early as the first week in November.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "블랙프라이데이 할인 시작이 빨라진 이유",
+    "impact": "연말 소비 분산",
+    "affected": "미국 소매"
+   }
   },
   {
    "id": "ce7507bfab",
@@ -733,7 +866,12 @@
    "published_iso": "2026-11-25T00:55:22+09:00",
    "sort_key": 1795535722.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "앤트로픽, 사상 최대 상장 며칠 만에 공모가 아래로 — 월가는 '매수' 유지",
+    "impact": "AI 상장주 변동성",
+    "affected": "앤트로픽"
+   }
   },
   {
    "id": "fb671f90ea",
@@ -746,7 +884,12 @@
    "published_iso": "2026-11-25T00:46:23+09:00",
    "sort_key": 1795535183.0,
    "excerpt": "A host of newcomers are pushing into the high-end water space, which has long been occupied by brands like Fiji, Evian and Voss.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "술 대신 고급 생수가 인기",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "1f0832f9f2",
@@ -759,7 +902,12 @@
    "published_iso": "2026-11-25T00:18:27+09:00",
    "sort_key": 1795533507.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "삼성 금융 계열사 CEO 전원 유임",
+    "impact": "시장 영향은 제한적",
+    "affected": "삼성생명, 삼성화재"
+   }
   },
   {
    "id": "a418d7516c",
@@ -772,7 +920,12 @@
    "published_iso": "2026-11-25T00:00:01+09:00",
    "sort_key": 1795532401.0,
    "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시가 은평구 새절역과 관악구 서울대입구역을 잇는 경전철 서부선 사업을 민간투자 방식으로 다시 추진한다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "서울 서부선 경전철, 민자사업으로 재추진",
+    "impact": "시장 영향은 제한적",
+    "affected": "건설"
+   }
   },
   {
    "id": "3e254b53a0",
@@ -785,7 +938,15 @@
    "published_iso": "2026-11-24T23:46:46+09:00",
    "sort_key": 1795531606.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프 정부 '과잉생산' 관세 예고 — 한국 영향은",
+    "impact": "한국 수출품도 관세 대상 될 수 있음",
+    "affected": "철강, 자동차, 반도체",
+    "important": true,
+    "important_tag": "정책·무역",
+    "why_important": "트럼프 정부가 '과잉생산' 국가 제품에 관세를 예고 — 중국을 겨냥하지만 한국 철강·자동차도 영향권"
+   }
   },
   {
    "id": "e812e2dc07",
@@ -798,7 +959,12 @@
    "published_iso": "2026-11-24T23:10:03+09:00",
    "sort_key": 1795529403.0,
    "excerpt": "Transportation administrators and some key executives for the contractor handling an equipment upgrade were in transit on Nov. 13, highlighting that Friday can be a bad day for something to go wrong.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "FAA 전국 운항 중단 때 항공 당국 고위직은 출장 중",
+    "impact": "시장 영향은 제한적",
+    "affected": "항공"
+   }
   },
   {
    "id": "2c9149d395",
@@ -811,7 +977,12 @@
    "published_iso": "2026-11-24T23:01:03+09:00",
    "sort_key": 1795528863.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중국 겨냥 규제에 한국 자동차 업계도 비상",
+    "impact": "자동차 수출 부담",
+    "affected": "현대차, 기아"
+   }
   },
   {
    "id": "d75f44a442",
@@ -824,7 +995,12 @@
    "published_iso": "2026-11-24T22:35:25+09:00",
    "sort_key": 1795527325.0,
    "excerpt": "The reinstatement of Jensen Huang atop Nvidia, following pressure from President Trump, shattered norms for corporate governance. What comes next is unclear.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "젠슨 황 복귀가 미국 기업 지배구조 규칙을 바꿔",
+    "impact": "시장 영향은 제한적",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "7a85209059",
@@ -837,7 +1013,12 @@
    "published_iso": "2026-11-24T22:03:20+09:00",
    "sort_key": 1795525400.0,
    "excerpt": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 펍 체인 마스턴스, 월드컵 덕에 이익 급증",
+    "impact": "시장 영향은 제한적",
+    "affected": "영국 외식"
+   }
   },
   {
    "id": "8340b1b2a7",
@@ -850,7 +1031,12 @@
    "published_iso": "2026-11-24T21:00:08+09:00",
    "sort_key": 1795521608.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한때 MZ 명소, 4년 만에 문 닫아",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "e54ec46669",
@@ -863,7 +1049,12 @@
    "published_iso": "2026-11-24T20:38:21+09:00",
    "sort_key": 1795520301.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "젠슨 황 공백을 우려한 트럼프의 움직임",
+    "impact": "아침 기사와 같은 흐름",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "bf477c8d0b",
@@ -876,7 +1067,12 @@
    "published_iso": "2026-11-24T20:00:04+09:00",
    "sort_key": 1795518004.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "사생활 문제만으로 대표 해임할 수 있나 (칼럼)",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "4199d8f4bb",
@@ -889,7 +1085,12 @@
    "published_iso": "2026-11-24T20:00:00+09:00",
    "sort_key": 1795518000.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "크로아티아 중앙은행 총재 연설",
+    "impact": "시장 영향은 제한적",
+    "affected": "유로화"
+   }
   },
   {
    "id": "c342cdaebc",
@@ -902,7 +1103,12 @@
    "published_iso": "2026-11-24T19:48:01+09:00",
    "sort_key": 1795517281.0,
    "excerpt": "(서울=연합뉴스) 장보인 기자 = 정부가 석유 최고가격제 출구 전략을 단계적으로 마련해야 한다는 에너지 국책연구기관의 제언이 나왔다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "석유 최고가격제, 가격 억제 효과 있었지만 출구 전략 필요",
+    "impact": "정유 수익성 변수",
+    "affected": "정유"
+   }
   },
   {
    "id": "1ec6a45e41",
@@ -915,7 +1121,12 @@
    "published_iso": "2026-11-24T19:19:53+09:00",
    "sort_key": 1795515593.0,
    "excerpt": "(서울=연합뉴스) 강류나 기자 = 하나금융그룹 계열사인 하나저축은행에서 해킹 사고가 발생해 고객 552명의 개인정보가 유출됐다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "하나저축은행 해킹 — 고객 552명 정보 유출",
+    "impact": "금융권 보안 우려",
+    "affected": "하나금융"
+   }
   },
   {
    "id": "4784f46748",
@@ -928,7 +1139,15 @@
    "published_iso": "2026-11-24T19:08:52+09:00",
    "sort_key": 1795514932.0,
    "excerpt": "(브뤼셀·서울=연합뉴스) 현윤경 특파원 장보인 기자 = 내달부터 내년 6월 18일까지 200일간 유럽연합(EU)에 무관세로 수출할 수 있는 한국...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "다음 달부터 EU행 한국산 하이브리드차 무관세 6만 7,924대로 제한",
+    "impact": "유럽 하이브리드 수출 제약",
+    "affected": "현대차, 기아",
+    "important": true,
+    "important_tag": "정책·무역",
+    "why_important": "EU가 다음 달부터 한국산 하이브리드차 무관세 수입을 6만 7,924대로 제한 — 현대차·기아 유럽 수출에 부담"
+   }
   },
   {
    "id": "50e865f7ca",
@@ -941,7 +1160,12 @@
    "published_iso": "2026-11-24T19:04:07+09:00",
    "sort_key": 1795514647.0,
    "excerpt": "An investigation into prediction market companies found that 18- to 20-year-olds in New York City are losing money at a high rate.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "뉴욕시의회 '18~20세 젊은이들 칼시에서 손실'",
+    "impact": "예측시장 규제 압력",
+    "affected": "칼시"
+   }
   },
   {
    "id": "5e374d7a32",
@@ -956,7 +1180,12 @@
    "excerpt": "(서울=연합뉴스) 강태우 기자 = 삼성 준법감시위원회(준감위)가 삼성전자의 주주환원 결정 과정을 둘러싼 논란과 관련해 준법 위반이나 이해상충에 ...",
    "matched": [
     "005930.KS"
-   ]
+   ],
+   "analysis": {
+    "summary": "삼성 준감위 '삼성전자 주주환원 결정, 준법 위반 아냐'",
+    "impact": "주주환원 논란 일단락",
+    "affected": "삼성전자"
+   }
   },
   {
    "id": "bc24d97cdd",
@@ -969,7 +1198,12 @@
    "published_iso": "2026-11-24T18:30:00+09:00",
    "sort_key": 1795512600.0,
    "excerpt": "(인천=연합뉴스) 김상연 기자 = 인천상공회의소는 24일 송도국제도시 오크우드프리미어 인천에서 정동영 통일부 장관을 초청해 인천경제 활성화 정책...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "인천상의, 통일부 장관 초청 간담회",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "55519b5f41",
@@ -984,7 +1218,12 @@
    "excerpt": "",
    "matched": [
     "005930.KS"
-   ]
+   ],
+   "analysis": {
+    "summary": "삼성전자 반도체 호황에 임원 70명 발탁",
+    "impact": "시장 영향은 제한적",
+    "affected": "삼성전자"
+   }
   },
   {
    "id": "78f72aa3ad",
@@ -997,7 +1236,12 @@
    "published_iso": "2026-11-24T18:00:00+09:00",
    "sort_key": 1795510800.0,
    "excerpt": "■ 젠슨황 복귀에 6%대 급반등, &apos;5천피&apos; 회복…코스닥 4.8%↑",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연합뉴스 18시 헤드라인",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "8318e18da4",
@@ -1010,7 +1254,12 @@
    "published_iso": "2026-11-24T17:59:22+09:00",
    "sort_key": 1795510762.0,
    "excerpt": "(서울=연합뉴스) 박수현 기자 = 정부가 디지털자산기본법 제정안을 공개한 가운데 더불어민주당 민병덕 의원이 다음 달 4일 업계 의견을 수렴하기 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "디지털자산기본법 정부안 공개",
+    "impact": "가상자산 제도화 진전",
+    "affected": "가상자산"
+   }
   },
   {
    "id": "2a8b53d168",
@@ -1023,7 +1272,12 @@
    "published_iso": "2026-11-24T09:11:08+09:00",
    "sort_key": 1795479068.0,
    "excerpt": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 강아지 번식업자 몰래카메라 고발",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   }
  ],
  "news_groups": {
