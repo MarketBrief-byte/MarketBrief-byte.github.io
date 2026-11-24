@@ -457,7 +457,12 @@
    "published_iso": "2026-11-24T16:20:51+09:00",
    "sort_key": 1795504851.0,
    "excerpt": "(서울=연합뉴스) 김유아 기자 = 지난주부터 연일 하락하던 코스피가 젠슨 황 엔비디아 최고경영자(CEO) 복귀 소식에 6%대의 급반등으로 장을 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "젠슨 황 복귀에 코스피 급반등 — 반등 지속될지 주목",
+    "impact": "증시 투자심리 회복",
+    "affected": "코스피"
+   }
   },
   {
    "id": "616d1784ac",
@@ -470,7 +475,12 @@
    "published_iso": "2026-11-24T16:12:53+09:00",
    "sort_key": 1795504373.0,
    "excerpt": "(서울=연합뉴스) 김지연 기자 = 금융위원회는 여전업권이 디지털자산과 인공지능(AI)이 가져올 변화를 새로운 기회로 활용하는 한편 혁신적인 금융...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "금융위 '여신전문금융업, 디지털자산·AI 활용해야'",
+    "impact": "시장 영향은 제한적",
+    "affected": "카드·캐피탈"
+   }
   },
   {
    "id": "f8bca2ee9a",
@@ -483,7 +493,12 @@
    "published_iso": "2026-11-24T16:12:45+09:00",
    "sort_key": 1795504365.0,
    "excerpt": "(서울=연합뉴스) 김유아 기자 = 삼성전자[005930]와 SK하이닉스[000660]가 24일 젠슨 황 엔비디아 최고경영자(CEO) 복귀 소식으...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "삼성전자·SK하이닉스 나란히 6.7% 급반등, 장비주도 상승",
+    "impact": "반도체주 반등",
+    "affected": "삼성전자, SK하이닉스, 반도체 장비"
+   }
   },
   {
    "id": "5c934461e4",
@@ -496,7 +511,15 @@
    "published_iso": "2026-11-24T16:11:10+09:00",
    "sort_key": 1795504270.0,
    "excerpt": "(서울=연합뉴스) 강수련 유동현 강류나 기자 = 금융위원회가 가상자산거래소 대주주 지분 소유 한도를 원칙적으로 20%, 최대 34%로 제한하면서...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "가상자산거래소 대주주 지분 20% 제한 추진 — 업비트·빗썸 지배구조 바뀌나",
+    "impact": "거래소 지배구조 대수술 가능성",
+    "affected": "두나무, 빗썸, 가상자산",
+    "important": true,
+    "important_tag": "정책·무역",
+    "why_important": "금융위가 가상자산거래소 대주주 지분을 원칙 20%로 제한 추진 — 업비트·빗썸 지배구조를 바꿀 수 있는 규제"
+   }
   },
   {
    "id": "8e1c19f364",
@@ -509,7 +532,12 @@
    "published_iso": "2026-11-24T16:08:56+09:00",
    "sort_key": 1795504136.0,
    "excerpt": "(서울=연합뉴스) 김유향 기자 = 의료용 기기 제조기업 엠비디[498150]가 코스닥 시장에 신규 상장한 24일 약 40% 급락 마감했다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "엠비디, 코스닥 상장 첫날 39% 급락",
+    "impact": "공모주 투자심리 냉각",
+    "affected": "엠비디, 공모주"
+   }
   },
   {
    "id": "3694f79f82",
@@ -522,7 +550,12 @@
    "published_iso": "2026-11-24T16:04:50+09:00",
    "sort_key": 1795503890.0,
    "excerpt": "(부산=연합뉴스) 차근호 기자 = 부산대학교와 GS건설이 실내 공기 중 유해 물질과 곰팡이 등을 동시에 감지할 수 있는 인공지능(AI) 기반 센...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "부산대·GS건설, 실내 유해물질 감지 AI 센서 개발",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "6a15672c55",
@@ -535,7 +568,15 @@
    "published_iso": "2026-11-24T16:04:43+09:00",
    "sort_key": 1795503883.0,
    "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 24일 코스피가 젠슨 황 엔비디아 최고경영자(CEO)의 경영 복귀 소식에 6% 넘게 올라 &apos;5천피&apos;(코스피 5...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "젠슨 황 복귀에 코스피 6%대 급반등해 5,000선 회복, 코스닥 4.8% 상승",
+    "impact": "급락장 진정",
+    "affected": "코스피, 코스닥",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "젠슨 황 복귀 소식에 코스피가 6% 넘게 올라 5,000선을 되찾고 코스닥도 4.8% 상승 — 전날 5% 급락을 하루 만에 대부분 만회"
+   }
   },
   {
    "id": "a1d5ec1a0b",
@@ -548,7 +589,12 @@
    "published_iso": "2026-11-24T16:00:00+09:00",
    "sort_key": 1795503600.0,
    "excerpt": "(서울=연합뉴스) 옥성구 기자 = 고용노동부와 전국 대한상공회의소는 24일 서울 중구 대한상의에서 간담회를 열고, 지역 청년의 일할 기회를 넓히...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "노동부·대한상의, 지역 청년 일자리 협력",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "d50754aa2b",
@@ -561,7 +607,12 @@
    "published_iso": "2026-11-24T15:57:09+09:00",
    "sort_key": 1795503429.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "농협은행 명예퇴직 신청",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "0498093f95",
@@ -574,7 +625,12 @@
    "published_iso": "2026-11-24T15:55:36+09:00",
    "sort_key": 1795503336.0,
    "excerpt": "Bank of France Governor Emmanuel Moulin told CNBC he still expects growth, pointing to resilience in sectors including defense, aerospace and electricity.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "프랑스 경기침체 위험 — 중앙은행 총재는 성장 전망 유지",
+    "impact": "유럽 경기 둔화 우려",
+    "affected": "유로화, 유럽 증시"
+   }
   },
   {
    "id": "47ebe570de",
@@ -587,7 +643,12 @@
    "published_iso": "2026-11-24T15:52:15+09:00",
    "sort_key": 1795503135.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "젠슨 황 부부의 재산 관리법",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "d292c6a6c1",
@@ -600,7 +661,12 @@
    "published_iso": "2026-11-24T15:49:22+09:00",
    "sort_key": 1795502962.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "고 이건희 회장 의료 유산, 감염병 대응 인프라로",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "8d344a3939",
@@ -613,7 +679,12 @@
    "published_iso": "2026-11-24T15:48:52+09:00",
    "sort_key": 1795502932.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "2026 대한민국디자인대상 시상",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "e1d12bddd6",
@@ -626,7 +697,12 @@
    "published_iso": "2026-11-24T15:47:35+09:00",
    "sort_key": 1795502855.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "친환경대전 수출상담 400건",
+    "impact": "시장 영향은 제한적",
+    "affected": "친환경 기업"
+   }
   },
   {
    "id": "d4725e9b5d",
@@ -639,7 +715,12 @@
    "published_iso": "2026-11-24T15:44:53+09:00",
    "sort_key": 1795502693.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "첫 코인거래소 13년 만에 디지털자산 금융업 편입",
+    "impact": "가상자산 제도권 편입",
+    "affected": "가상자산"
+   }
   },
   {
    "id": "a16e8de425",
@@ -652,7 +733,12 @@
    "published_iso": "2026-11-24T15:44:47+09:00",
    "sort_key": 1795502687.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "계란 자급률 사실상 100% — 올겨울 수입 불필요",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "2ae41751f5",
@@ -665,7 +751,12 @@
    "published_iso": "2026-11-24T15:40:11+09:00",
    "sort_key": 1795502411.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "계란 난각번호의 뜻",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "ca1f89b67e",
@@ -678,7 +769,12 @@
    "published_iso": "2026-11-24T14:47:04+09:00",
    "sort_key": 1795499224.0,
    "excerpt": "(서울=연합뉴스) 김세린 기자 = 농협중앙회는 24일 농업·농촌 발전과 농업인 소득 증대에 기여한 공직자 6명을 &apos;농업발전혁신인상 농업정책혁신부...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "농협중앙회 공직자 감사패",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "704c31d3a2",
@@ -691,7 +787,12 @@
    "published_iso": "2026-11-24T14:46:49+09:00",
    "sort_key": 1795499209.0,
    "excerpt": "(서울=연합뉴스) 강류나 기자 = 금융위원회는 국민성장펀드가 올해 승인 목표인 30조원을 달성할 수 있다고 24일 밝혔다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "국민성장펀드 올해 30조 원 달성 전망, 내년 40조 원으로 확대",
+    "impact": "첨단산업 정책자금 확대",
+    "affected": "반도체, AI, 첨단산업"
+   }
   },
   {
    "id": "718f86a0b3",
@@ -704,7 +805,12 @@
    "published_iso": "2026-11-24T14:46:35+09:00",
    "sort_key": 1795499195.0,
    "excerpt": "(부산=연합뉴스) 민영규 기자 = 국회 국토교통위원회 여야 간사가 중동전쟁으로 인한 가덕신공항 공사비 현실화 문제를 해결하기 위한 법안을 공동으...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "가덕신공항 공사비 현실화 법안 공동발의",
+    "impact": "시장 영향은 제한적",
+    "affected": "건설"
+   }
   },
   {
    "id": "004142d954",
@@ -717,7 +823,12 @@
    "published_iso": "2026-11-24T14:44:35+09:00",
    "sort_key": 1795499075.0,
    "excerpt": "▲ 신한금융그룹은 24일 서울 소공동 롯데호텔에서 열린 &apos;2026 대한민국 지속가능성대회&apos;에서 대한민국 지속가능성보고서상(KRCA)을 수상하며 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "신한금융 지속가능성보고서상 수상",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "e299c1c0c7",
@@ -730,7 +841,12 @@
    "published_iso": "2026-11-24T14:41:02+09:00",
    "sort_key": 1795498862.0,
    "excerpt": "(서울=연합뉴스) 강태우 기자 = 이찬희 삼성 준법감시위원회(준감위) 위원장이 삼성전자의 주주환원 결정 시점을 둘러싼 이해상충 논란과 관련해 &quot;...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "삼성 준감위원장 '주주환원 이해상충 논란 신중히 보겠다'",
+    "impact": "삼성전자 주주환원 정책 변수",
+    "affected": "삼성전자"
+   }
   },
   {
    "id": "dea14eefc5",
@@ -743,7 +859,12 @@
    "published_iso": "2026-11-24T14:30:00+09:00",
    "sort_key": 1795498200.0,
    "excerpt": "■ 중고교 내신시험 스마트기기 적발시 당일 전과목 0점…최대 퇴학",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연합뉴스 14시 30분 헤드라인",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "1b2a23a3fb",
@@ -756,7 +877,12 @@
    "published_iso": "2026-11-24T14:29:55+09:00",
    "sort_key": 1795498195.0,
    "excerpt": "(원주=연합뉴스) 임보연 기자 = 강원 원주시는 지역 물가 안정과 소상공인 경영 부담 완화를 위해 착한가격업소 4곳을 추가 지정한다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "원주시 착한가격업소 추가 지정",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "d26a174539",
@@ -769,7 +895,12 @@
    "published_iso": "2026-11-24T14:27:59+09:00",
    "sort_key": 1795498079.0,
    "excerpt": "▲ 정분달씨 별세, 김춘오(교보증권 재경부장)씨 모친상 = 24일, 평촌한림대성심병원 장례식장 VIP 2호실, 발인 26일 오전 6시. ☎ 03...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "부고",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "8183f4f297",
@@ -784,7 +915,12 @@
    "excerpt": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "트럼프 '엔비디아가 젠슨 황 복귀하도록 설득' 발언에 역풍",
+    "impact": "정치 개입 논란 지속",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "3b77a0cde6",
@@ -797,7 +933,12 @@
    "published_iso": "2026-11-24T13:28:08+09:00",
    "sort_key": 1795494488.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "스마트폰 부진 속 삼성의 반전 성적표",
+    "impact": "시장 영향은 제한적",
+    "affected": "삼성전자"
+   }
   },
   {
    "id": "7fa386ec77",
@@ -810,7 +951,12 @@
    "published_iso": "2026-11-24T13:00:01+09:00",
    "sort_key": 1795492801.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "치킨집 메뉴판에 닭볶음탕이 늘어난 이유",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "8ba8d3e5b4",
@@ -823,7 +969,12 @@
    "published_iso": "2026-11-24T12:14:44+09:00",
    "sort_key": 1795490084.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "석유 최고가격제 장기화 부작용 — 단계적 출구 필요",
+    "impact": "정유업 수익성 변수",
+    "affected": "정유"
+   }
   },
   {
    "id": "b3fe219705",
@@ -836,7 +987,12 @@
    "published_iso": "2026-11-24T12:11:29+09:00",
    "sort_key": 1795489889.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중국의 하늘을 나는 차",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "3642310645",
@@ -849,7 +1005,12 @@
    "published_iso": "2026-11-24T11:06:14+09:00",
    "sort_key": 1795485974.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "아이엘, 산업용 휴머노이드 자체 개발 (단독)",
+    "impact": "시장 영향은 제한적",
+    "affected": "아이엘"
+   }
   },
   {
    "id": "2949b91891",
@@ -862,7 +1023,12 @@
    "published_iso": "2026-11-24T11:02:13+09:00",
    "sort_key": 1795485733.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영풍, 환경개선 5,400억 원 썼다지만 설비투자는 반토막",
+    "impact": "시장 영향은 제한적",
+    "affected": "영풍"
+   }
   },
   {
    "id": "eebae395e8",
@@ -875,7 +1041,12 @@
    "published_iso": "2026-11-24T10:57:54+09:00",
    "sort_key": 1795485474.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "허니버터칩 매운맛 트러플 출시",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "3d515c500b",
@@ -888,7 +1059,12 @@
    "published_iso": "2026-11-24T10:48:12+09:00",
    "sort_key": 1795484892.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "삼성SDI 2027년 정기 인사 — 11명 승진",
+    "impact": "시장 영향은 제한적",
+    "affected": "삼성SDI"
+   }
   },
   {
    "id": "03553c7103",
@@ -903,7 +1079,12 @@
    "excerpt": "President Trump’s move to put Jensen Huang back at the helm of Nvidia caps his indifference to the warnings of his own intelligence agencies.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "트럼프의 엔비디아 개입이 안보 우려를 밀어내",
+    "impact": "대중국 수출 통제 완화 우려",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "dd3918c59b",
@@ -916,7 +1097,12 @@
    "published_iso": "2026-11-24T09:28:48+09:00",
    "sort_key": 1795480128.0,
    "excerpt": "Increasing numbers of corporate landlords could usher in big changes for renters",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 대형 임대업자 증가 — 임대시장 양극화 우려",
+    "impact": "시장 영향은 제한적",
+    "affected": "영국 부동산"
+   }
   },
   {
    "id": "f6f682309d",
@@ -931,7 +1117,12 @@
    "excerpt": "Mr. Trump, a close ally of Mr. Huang, led a campaign to assure the chip company’s board that the longtime chief executive did not present a national security risk.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "트럼프 개입 뒤 젠슨 황 엔비디아 복귀",
+    "impact": "아침 기사와 같은 내용",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "01d513eea1",
@@ -944,7 +1135,12 @@
    "published_iso": "2026-11-24T09:01:04+09:00",
    "sort_key": 1795478464.0,
    "excerpt": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "월 250파운드 내고 생활 잡무 대행",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "d29cbd528c",
@@ -957,7 +1153,12 @@
    "published_iso": "2026-11-24T09:00:00+09:00",
    "sort_key": 1795478400.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "아세안+3 재무차관·중앙은행 부총재 회의 참석",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "7358010919",
@@ -970,7 +1171,12 @@
    "published_iso": "2026-11-24T09:00:00+09:00",
    "sort_key": 1795478400.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "2026 다자개발은행 프로젝트 플라자 개최",
+    "impact": "시장 영향은 제한적",
+    "affected": "해외 건설"
+   }
   },
   {
    "id": "0841976b6a",
