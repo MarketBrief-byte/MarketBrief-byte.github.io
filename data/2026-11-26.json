@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "generated_at": "2026-11-26 02:55",
+ "generated_at": "2026-11-26 07:26",
  "weekday": "목",
  "site": {
   "title": "오늘의 경제 한 장",
@@ -49,13 +49,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 7140.09,
+   "price": 7182.78,
    "prev_close": 7323.63,
-   "change": -183.54,
-   "change_pct": -2.51,
+   "change": -140.85,
+   "change_pct": -1.92,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1795629352,
+   "asof_epoch": 1795642326,
    "asof_date": null
   },
   {
@@ -65,13 +65,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 23351.707,
+   "price": 23585.803,
    "prev_close": 24429.88,
-   "change": -1078.173,
-   "change_pct": -4.41,
+   "change": -844.077,
+   "change_pct": -3.46,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1795629354,
+   "asof_epoch": 1795644959,
    "asof_date": null
   },
   {
@@ -81,13 +81,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 1345.13,
+   "price": 1343.19,
    "prev_close": 1330.4,
-   "change": 14.73,
-   "change_pct": 1.11,
+   "change": 12.79,
+   "change_pct": 0.96,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1795629346,
+   "asof_epoch": 1795645432,
    "asof_date": null
   },
   {
@@ -97,13 +97,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 4.832,
+   "price": 4.848,
    "prev_close": 5.052,
-   "change": -0.22,
-   "change_pct": -4.35,
+   "change": -0.204,
+   "change_pct": -4.04,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1795628453,
+   "asof_epoch": 1795636793,
    "asof_date": null
   },
   {
@@ -113,13 +113,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 83.49,
+   "price": 84.15,
    "prev_close": 83.98,
-   "change": -0.49,
-   "change_pct": -0.58,
+   "change": 0.17,
+   "change_pct": 0.2,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1795628756,
+   "asof_epoch": 1795643998,
    "asof_date": null
   },
   {
@@ -129,13 +129,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 3533.7,
+   "price": 3617.8,
    "prev_close": 3515.4,
-   "change": 18.3,
-   "change_pct": 0.52,
+   "change": 102.4,
+   "change_pct": 2.91,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1795628758,
+   "asof_epoch": 1795643997,
    "asof_date": null
   }
  ],
@@ -257,15 +257,29 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 146.405,
+   "price": 149.3,
    "prev_close": 150.96,
-   "change": -4.555,
-   "change_pct": -3.02,
+   "change": -1.66,
+   "change_pct": -1.1,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1795629357,
+   "asof_epoch": 1795640401,
    "asof_date": null,
    "news": [
+    {
+     "id": "4e0a3c12c4",
+     "title": "A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records",
+     "url": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
+     "source": "NYT Business",
+     "published_kst": "11/26 06:36"
+    },
+    {
+     "id": "775d27b357",
+     "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+     "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "published_kst": "11/26 01:42"
+    },
     {
      "id": "9a6cce0417",
      "title": "Why the Nvidia Rally Fizzled",
@@ -293,13 +307,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 353.73,
+   "price": 355.58,
    "prev_close": 352.45,
-   "change": 1.28,
-   "change_pct": 0.36,
+   "change": 3.13,
+   "change_pct": 0.89,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1795629357,
+   "asof_epoch": 1795640402,
    "asof_date": null,
    "news": []
   },
@@ -314,13 +328,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 371.3,
+   "price": 380.14,
    "prev_close": 383.72,
-   "change": -12.42,
-   "change_pct": -3.24,
+   "change": -3.58,
+   "change_pct": -0.93,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1795629348,
+   "asof_epoch": 1795640402,
    "asof_date": null,
    "news": []
   },
@@ -335,18 +349,215 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 489.82,
+   "price": 489.93,
    "prev_close": 508.29,
-   "change": -18.47,
-   "change_pct": -3.63,
+   "change": -18.36,
+   "change_pct": -3.61,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1795629357,
+   "asof_epoch": 1795640402,
    "asof_date": null,
    "news": []
   }
  ],
  "news": [
+  {
+   "id": "dacd2ab1df",
+   "title": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
+   "url": "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/26 07:16",
+   "published_iso": "2026-11-26T07:16:49+09:00",
+   "sort_key": 1795645009.0,
+   "excerpt": "Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium. But Middle Eastern business contacts of the two Trump envoys pulled out because of political winds.",
+   "matched": []
+  },
+  {
+   "id": "c1bc1d5a96",
+   "title": "[우분투칼럼] 에티오피아-에리트레아 갈등…홍해 위기의 또 다른 단면",
+   "url": "https://www.yna.co.kr/view/AKR20261124123800898",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 07:00",
+   "published_iso": "2026-11-26T07:00:06+09:00",
+   "sort_key": 1795644006.0,
+   "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
+   "matched": []
+  },
+  {
+   "id": "eaea116a1d",
+   "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
+   "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
+   "source": "CNBC Economy",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/26 06:56",
+   "published_iso": "2026-11-26T06:56:43+09:00",
+   "sort_key": 1795643803.0,
+   "excerpt": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
+   "matched": []
+  },
+  {
+   "id": "8f704e458f",
+   "title": "빗썸, 3분기 가상자산 처분손실 690억원…작년 동기 86배",
+   "url": "https://www.yna.co.kr/view/AKR20261125165200002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 06:45",
+   "published_iso": "2026-11-26T06:45:01+09:00",
+   "sort_key": 1795643101.0,
+   "excerpt": "(서울=연합뉴스) 박수현 기자 = 올해 3분기 빗썸의 자체 취득한 가상자산의 처분손실이 690억원으로 작년 동기의 86배에 달한 것으로 나타났다...",
+   "matched": []
+  },
+  {
+   "id": "1b18ea57f9",
+   "title": "A Man in Denver Has Been Throwing Eggs at Waymo Vehicles",
+   "url": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/26 06:36",
+   "published_iso": "2026-11-26T06:36:34+09:00",
+   "sort_key": 1795642594.0,
+   "excerpt": "The man, who drove a Toyota Corolla from a fleet leased to Lyft drivers, used orange cones to trap the self-driving vehicles before pelting them with eggs, the police said. No charges have been filed.",
+   "matched": []
+  },
+  {
+   "id": "4e0a3c12c4",
+   "title": "A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records",
+   "url": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/26 06:36",
+   "published_iso": "2026-11-26T06:36:24+09:00",
+   "sort_key": 1795642584.0,
+   "excerpt": "Three data providers say they have no evidence to support the online claim that insider trading generated a 9,000 percent return.",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "bac4bb0a5e",
+   "title": "[반려동물] \"사료·간식도 동네 편의점서\"…전용매대 늘리고 매출도 '쑥'",
+   "url": "https://www.yna.co.kr/view/AKR20261125112300030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 06:15",
+   "published_iso": "2026-11-26T06:15:00+09:00",
+   "sort_key": 1795641300.0,
+   "excerpt": "(서울=연합뉴스) 김세린 기자 = 반려동물 양육 가구가 늘어나면서 사료와 간식 등을 가까운 편의점에서 구매하려는 수요도 커지고 있는 것으로 나타...",
+   "matched": []
+  },
+  {
+   "id": "4b54c46dea",
+   "title": "업비트서 바이낸스로 반년간 4천억원 순유출…\"파생상품 수요\"",
+   "url": "https://www.yna.co.kr/view/AKR20261125137600002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 06:13",
+   "published_iso": "2026-11-26T06:13:01+09:00",
+   "sort_key": 1795641181.0,
+   "excerpt": "(서울=연합뉴스) 박수현 기자 = 국내 최대 가상자산 거래소인 업비트에서 해외 거래소 바이낸스로 최근 반년간 4천억원어치가 넘는 가상자산이 순유...",
+   "matched": []
+  },
+  {
+   "id": "cb296a4aa8",
+   "title": "AI 시험 부정행위 장비 판매 관련 지갑에 28억원어치 테더 유입",
+   "url": "https://www.yna.co.kr/view/AKR20261125177600002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 06:05",
+   "published_iso": "2026-11-26T06:05:01+09:00",
+   "sort_key": 1795640701.0,
+   "excerpt": "(서울=연합뉴스) 유동현 기자 = 시험 부정행위에 활용된 인공지능(AI) 전자기기 판매와 관련된 가상자산 지갑에 약 28억원 규모의 스테이블코인...",
+   "matched": []
+  },
+  {
+   "id": "1249883e63",
+   "title": "지역 간 주거 격차 완화 방안 모색…국제주택도시금융포럼",
+   "url": "https://www.yna.co.kr/view/AKR20261125127700003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 06:00",
+   "published_iso": "2026-11-26T06:00:17+09:00",
+   "sort_key": 1795640417.0,
+   "excerpt": "(세종=연합뉴스) 오진송 기자 = 국내외 주택·금융 전문가들이 지역 간 주거 격차를 완화하고 주택시장 안정을 도모하기 위한 금융 혁신 방안을 논...",
+   "matched": []
+  },
+  {
+   "id": "82149a66f6",
+   "title": "국민 84% \"서비스산업 중요\"…취업 선호도는 제조업보다 낮아",
+   "url": "https://www.yna.co.kr/view/AKR20261125156200003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 06:00",
+   "published_iso": "2026-11-26T06:00:05+09:00",
+   "sort_key": 1795640405.0,
+   "excerpt": "(서울=연합뉴스) 장하나 기자 = 국민 10명 중 8명꼴로 서비스산업을 경제 성장의 핵심 산업으로 인식하고는 있지만 일자리의 질과 경쟁력에 대한...",
+   "matched": []
+  },
+  {
+   "id": "11d818a1d1",
+   "title": "서울신용보증재단, 소상공인 규제혁신 공로 '대통령 표창' 수상",
+   "url": "https://www.yna.co.kr/view/AKR20261125166000004",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 06:00",
+   "published_iso": "2026-11-26T06:00:01+09:00",
+   "sort_key": 1795640401.0,
+   "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울신용보증재단은 25일 여의도 KBIZ홀에서 열린 중소벤처기업부 주관 &apos;2026년 대한민국 규제혁신 대상&apos; ...",
+   "matched": []
+  },
+  {
+   "id": "f0784a636c",
+   "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+   "source": "연준(Fed) 보도자료",
+   "group": "중앙은행·국제기구",
+   "lang": "en",
+   "published_kst": "11/26 05:00",
+   "published_iso": "2026-11-26T05:00:00+09:00",
+   "sort_key": 1795636800.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "7486b0f513",
+   "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+   "source": "연준(Fed) 보도자료",
+   "group": "중앙은행·국제기구",
+   "lang": "en",
+   "published_kst": "11/26 05:00",
+   "published_iso": "2026-11-26T05:00:00+09:00",
+   "sort_key": 1795636800.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "9f1f912485",
+   "title": "Traveling to Bhutan in 2026: Wood-Fired Pizzas and Monks With Cellphones",
+   "url": "https://www.nytimes.com/2026/11/25/travel/bhutan-travel.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/26 04:34",
+   "published_iso": "2026-11-26T04:34:40+09:00",
+   "sort_key": 1795635280.0,
+   "excerpt": "The view of the Himalayan country as ancient and immutable is being challenged by young Bhutanese who are opening restaurants and shops, and getting beyond “gross national happiness.” A traveler explores.",
+   "matched": []
+  },
   {
    "id": "20b847b4ed",
    "title": "Poundland collapses putting 11,000 jobs at risk",
@@ -424,6 +635,21 @@
    "sort_key": 1795625001.0,
    "excerpt": "After two years of deregulation, congressional committees led by Democrats will shine the spotlight back on corporate America.",
    "matched": []
+  },
+  {
+   "id": "775d27b357",
+   "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+   "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/26 01:42",
+   "published_iso": "2026-11-26T01:42:11+09:00",
+   "sort_key": 1795624931.0,
+   "excerpt": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+   "matched": [
+    "NVDA"
+   ]
   },
   {
    "id": "57742bad7d",
@@ -784,6 +1010,73 @@
  "news_groups": {
   "해외 경제언론": [
    {
+    "id": "dacd2ab1df",
+    "title": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
+    "url": "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/26 07:16",
+    "published_iso": "2026-11-26T07:16:49+09:00",
+    "sort_key": 1795645009.0,
+    "excerpt": "Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium. But Middle Eastern business contacts of the two Trump envoys pulled out because of political winds.",
+    "matched": []
+   },
+   {
+    "id": "eaea116a1d",
+    "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
+    "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
+    "source": "CNBC Economy",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/26 06:56",
+    "published_iso": "2026-11-26T06:56:43+09:00",
+    "sort_key": 1795643803.0,
+    "excerpt": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
+    "matched": []
+   },
+   {
+    "id": "1b18ea57f9",
+    "title": "A Man in Denver Has Been Throwing Eggs at Waymo Vehicles",
+    "url": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/26 06:36",
+    "published_iso": "2026-11-26T06:36:34+09:00",
+    "sort_key": 1795642594.0,
+    "excerpt": "The man, who drove a Toyota Corolla from a fleet leased to Lyft drivers, used orange cones to trap the self-driving vehicles before pelting them with eggs, the police said. No charges have been filed.",
+    "matched": []
+   },
+   {
+    "id": "4e0a3c12c4",
+    "title": "A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records",
+    "url": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/26 06:36",
+    "published_iso": "2026-11-26T06:36:24+09:00",
+    "sort_key": 1795642584.0,
+    "excerpt": "Three data providers say they have no evidence to support the online claim that insider trading generated a 9,000 percent return.",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "9f1f912485",
+    "title": "Traveling to Bhutan in 2026: Wood-Fired Pizzas and Monks With Cellphones",
+    "url": "https://www.nytimes.com/2026/11/25/travel/bhutan-travel.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/26 04:34",
+    "published_iso": "2026-11-26T04:34:40+09:00",
+    "sort_key": 1795635280.0,
+    "excerpt": "The view of the Himalayan country as ancient and immutable is being challenged by young Bhutanese who are opening restaurants and shops, and getting beyond “gross national happiness.” A traveler explores.",
+    "matched": []
+   },
+   {
     "id": "20b847b4ed",
     "title": "Poundland collapses putting 11,000 jobs at risk",
     "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
@@ -834,6 +1127,21 @@
     "sort_key": 1795625001.0,
     "excerpt": "After two years of deregulation, congressional committees led by Democrats will shine the spotlight back on corporate America.",
     "matched": []
+   },
+   {
+    "id": "775d27b357",
+    "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+    "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/26 01:42",
+    "published_iso": "2026-11-26T01:42:11+09:00",
+    "sort_key": 1795624931.0,
+    "excerpt": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+    "matched": [
+     "NVDA"
+    ]
    },
    {
     "id": "35460b7c3e",
@@ -983,35 +1291,111 @@
     "matched": []
    }
   ],
-  "중앙은행·국제기구": [
+  "국내 경제언론": [
    {
-    "id": "b1f3c3dc97",
-    "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
-    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
-    "source": "유럽중앙은행(ECB)",
-    "group": "중앙은행·국제기구",
-    "lang": "en",
-    "published_kst": "11/26 02:30",
-    "published_iso": "2026-11-26T02:30:00+09:00",
-    "sort_key": 1795627800.0,
-    "excerpt": "",
+    "id": "c1bc1d5a96",
+    "title": "[우분투칼럼] 에티오피아-에리트레아 갈등…홍해 위기의 또 다른 단면",
+    "url": "https://www.yna.co.kr/view/AKR20261124123800898",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 07:00",
+    "published_iso": "2026-11-26T07:00:06+09:00",
+    "sort_key": 1795644006.0,
+    "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
     "matched": []
    },
    {
-    "id": "9ca6d694b6",
-    "title": "Card payments edge past cash in shops; euro area consumers want both",
-    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
-    "source": "유럽중앙은행(ECB)",
-    "group": "중앙은행·국제기구",
-    "lang": "en",
-    "published_kst": "11/25 19:00",
-    "published_iso": "2026-11-25T19:00:00+09:00",
-    "sort_key": 1795600800.0,
-    "excerpt": "",
+    "id": "8f704e458f",
+    "title": "빗썸, 3분기 가상자산 처분손실 690억원…작년 동기 86배",
+    "url": "https://www.yna.co.kr/view/AKR20261125165200002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 06:45",
+    "published_iso": "2026-11-26T06:45:01+09:00",
+    "sort_key": 1795643101.0,
+    "excerpt": "(서울=연합뉴스) 박수현 기자 = 올해 3분기 빗썸의 자체 취득한 가상자산의 처분손실이 690억원으로 작년 동기의 86배에 달한 것으로 나타났다...",
     "matched": []
-   }
-  ],
-  "국내 경제언론": [
+   },
+   {
+    "id": "bac4bb0a5e",
+    "title": "[반려동물] \"사료·간식도 동네 편의점서\"…전용매대 늘리고 매출도 '쑥'",
+    "url": "https://www.yna.co.kr/view/AKR20261125112300030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 06:15",
+    "published_iso": "2026-11-26T06:15:00+09:00",
+    "sort_key": 1795641300.0,
+    "excerpt": "(서울=연합뉴스) 김세린 기자 = 반려동물 양육 가구가 늘어나면서 사료와 간식 등을 가까운 편의점에서 구매하려는 수요도 커지고 있는 것으로 나타...",
+    "matched": []
+   },
+   {
+    "id": "4b54c46dea",
+    "title": "업비트서 바이낸스로 반년간 4천억원 순유출…\"파생상품 수요\"",
+    "url": "https://www.yna.co.kr/view/AKR20261125137600002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 06:13",
+    "published_iso": "2026-11-26T06:13:01+09:00",
+    "sort_key": 1795641181.0,
+    "excerpt": "(서울=연합뉴스) 박수현 기자 = 국내 최대 가상자산 거래소인 업비트에서 해외 거래소 바이낸스로 최근 반년간 4천억원어치가 넘는 가상자산이 순유...",
+    "matched": []
+   },
+   {
+    "id": "cb296a4aa8",
+    "title": "AI 시험 부정행위 장비 판매 관련 지갑에 28억원어치 테더 유입",
+    "url": "https://www.yna.co.kr/view/AKR20261125177600002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 06:05",
+    "published_iso": "2026-11-26T06:05:01+09:00",
+    "sort_key": 1795640701.0,
+    "excerpt": "(서울=연합뉴스) 유동현 기자 = 시험 부정행위에 활용된 인공지능(AI) 전자기기 판매와 관련된 가상자산 지갑에 약 28억원 규모의 스테이블코인...",
+    "matched": []
+   },
+   {
+    "id": "1249883e63",
+    "title": "지역 간 주거 격차 완화 방안 모색…국제주택도시금융포럼",
+    "url": "https://www.yna.co.kr/view/AKR20261125127700003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 06:00",
+    "published_iso": "2026-11-26T06:00:17+09:00",
+    "sort_key": 1795640417.0,
+    "excerpt": "(세종=연합뉴스) 오진송 기자 = 국내외 주택·금융 전문가들이 지역 간 주거 격차를 완화하고 주택시장 안정을 도모하기 위한 금융 혁신 방안을 논...",
+    "matched": []
+   },
+   {
+    "id": "82149a66f6",
+    "title": "국민 84% \"서비스산업 중요\"…취업 선호도는 제조업보다 낮아",
+    "url": "https://www.yna.co.kr/view/AKR20261125156200003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 06:00",
+    "published_iso": "2026-11-26T06:00:05+09:00",
+    "sort_key": 1795640405.0,
+    "excerpt": "(서울=연합뉴스) 장하나 기자 = 국민 10명 중 8명꼴로 서비스산업을 경제 성장의 핵심 산업으로 인식하고는 있지만 일자리의 질과 경쟁력에 대한...",
+    "matched": []
+   },
+   {
+    "id": "11d818a1d1",
+    "title": "서울신용보증재단, 소상공인 규제혁신 공로 '대통령 표창' 수상",
+    "url": "https://www.yna.co.kr/view/AKR20261125166000004",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 06:00",
+    "published_iso": "2026-11-26T06:00:01+09:00",
+    "sort_key": 1795640401.0,
+    "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울신용보증재단은 25일 여의도 KBIZ홀에서 열린 중소벤처기업부 주관 &apos;2026년 대한민국 규제혁신 대상&apos; ...",
+    "matched": []
+   },
    {
     "id": "6d865b89d7",
     "title": "美 10월 PCE 3.8%↑…12월 금리인상 힘실려",
@@ -1220,6 +1604,60 @@
     "excerpt": "(서울=연합뉴스) 장하나 기자 = 내년 2월 임기 만료를 앞둔 류진 한국경제인협회 회장이 3연임 가능성을 시사했다.",
     "matched": []
    }
+  ],
+  "중앙은행·국제기구": [
+   {
+    "id": "f0784a636c",
+    "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+    "source": "연준(Fed) 보도자료",
+    "group": "중앙은행·국제기구",
+    "lang": "en",
+    "published_kst": "11/26 05:00",
+    "published_iso": "2026-11-26T05:00:00+09:00",
+    "sort_key": 1795636800.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "7486b0f513",
+    "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+    "source": "연준(Fed) 보도자료",
+    "group": "중앙은행·국제기구",
+    "lang": "en",
+    "published_kst": "11/26 05:00",
+    "published_iso": "2026-11-26T05:00:00+09:00",
+    "sort_key": 1795636800.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "b1f3c3dc97",
+    "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
+    "source": "유럽중앙은행(ECB)",
+    "group": "중앙은행·국제기구",
+    "lang": "en",
+    "published_kst": "11/26 02:30",
+    "published_iso": "2026-11-26T02:30:00+09:00",
+    "sort_key": 1795627800.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "9ca6d694b6",
+    "title": "Card payments edge past cash in shops; euro area consumers want both",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
+    "source": "유럽중앙은행(ECB)",
+    "group": "중앙은행·국제기구",
+    "lang": "en",
+    "published_kst": "11/25 19:00",
+    "published_iso": "2026-11-25T19:00:00+09:00",
+    "sort_key": 1795600800.0,
+    "excerpt": "",
+    "matched": []
+   }
   ]
  },
  "counts": {
@@ -1227,14 +1665,19 @@
   "indices_total": 8,
   "stocks_ok": 9,
   "stocks_total": 9,
-  "news": 33,
-  "news_new": 33
+  "news": 49,
+  "news_new": 16
  },
  "errors": [
   {
    "stage": "news",
    "target": "금융위원회 보도자료",
    "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
+  },
+  {
+   "stage": "news",
+   "target": "한국경제",
+   "message": "HTTPError: 403 Client Error: Forbidden for url: https://www.hankyung.com/feed/economy"
   }
  ]
 }
