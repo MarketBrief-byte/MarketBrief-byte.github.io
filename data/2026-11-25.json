@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25 07:26",
+ "generated_at": "2026-11-25 13:52",
  "weekday": "수",
  "site": {
   "title": "오늘의 경제 한 장",
@@ -17,13 +17,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 5006.03,
-   "prev_close": 4968.48,
-   "change": 37.55,
-   "change_pct": 0.76,
+   "price": 4725.46,
+   "prev_close": 5067.44,
+   "change": -341.98,
+   "change_pct": -6.75,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1795518340,
+   "asof_epoch": 1795581160,
    "asof_date": null
   },
   {
@@ -33,13 +33,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 665.88,
-   "prev_close": 650.06,
-   "change": 15.82,
-   "change_pct": 2.43,
+   "price": 652.79,
+   "prev_close": 662.81,
+   "change": -10.02,
+   "change_pct": -1.51,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1795518340,
+   "asof_epoch": 1795581160,
    "asof_date": null
   },
   {
@@ -55,7 +55,7 @@
    "change_pct": -1.9,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1795557250,
+   "asof_epoch": 1795554000,
    "asof_date": null
   },
   {
@@ -81,13 +81,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 1340.56,
-   "prev_close": 1333.01,
-   "change": 7.55,
-   "change_pct": 0.57,
+   "price": 1342.98,
+   "prev_close": 1330.4,
+   "change": 12.58,
+   "change_pct": 0.95,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1795558932,
+   "asof_epoch": 1795581437,
    "asof_date": null
   },
   {
@@ -113,13 +113,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 81.69,
+   "price": 80.71,
    "prev_close": 83.21,
-   "change": -1.52,
-   "change_pct": -1.83,
+   "change": -2.5,
+   "change_pct": -3.0,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1795557595,
+   "asof_epoch": 1795581747,
    "asof_date": null
   },
   {
@@ -129,13 +129,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 3555.1,
+   "price": 3546.4,
    "prev_close": 3685.5,
-   "change": -130.4,
-   "change_pct": -3.54,
+   "change": -139.1,
+   "change_pct": -3.77,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1795557597,
+   "asof_epoch": 1795581746,
    "asof_date": null
   }
  ],
@@ -151,13 +151,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 189400.0,
-   "prev_close": 190300.0,
-   "change": -900.0,
-   "change_pct": -0.47,
+   "price": 172300.0,
+   "prev_close": 194700.0,
+   "change": -22400.0,
+   "change_pct": -11.5,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1795501809,
+   "asof_epoch": 1795581162,
    "asof_date": null,
    "news": [
     {
@@ -188,13 +188,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 1158000.0,
-   "prev_close": 1098000.0,
-   "change": 60000.0,
-   "change_pct": 5.46,
+   "price": 1047000.0,
+   "prev_close": 1144000.0,
+   "change": -97000.0,
+   "change_pct": -8.48,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1795501812,
+   "asof_epoch": 1795581163,
    "asof_date": null,
    "news": []
   },
@@ -209,13 +209,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 275000.0,
-   "prev_close": 259000.0,
-   "change": 16000.0,
-   "change_pct": 6.18,
+   "price": 270500.0,
+   "prev_close": 267000.0,
+   "change": 3500.0,
+   "change_pct": 1.31,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1795501801,
+   "asof_epoch": 1795581163,
    "asof_date": null,
    "news": []
   },
@@ -231,13 +231,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 314500.0,
-   "prev_close": 305500.0,
-   "change": 9000.0,
-   "change_pct": 2.95,
+   "price": 310000.0,
+   "prev_close": 305000.0,
+   "change": 5000.0,
+   "change_pct": 1.64,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1795501809,
+   "asof_epoch": 1795581162,
    "asof_date": null,
    "news": []
   },
@@ -251,13 +251,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 156100.0,
-   "prev_close": 170000.0,
-   "change": -13900.0,
-   "change_pct": -8.18,
+   "price": 159800.0,
+   "prev_close": 170300.0,
+   "change": -10500.0,
+   "change_pct": -6.17,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1795501829,
+   "asof_epoch": 1795581161,
    "asof_date": null,
    "news": []
   },
@@ -281,6 +281,20 @@
    "asof_epoch": 1795554001,
    "asof_date": null,
    "news": [
+    {
+     "id": "dd9641ab20",
+     "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+     "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+     "source": "CNBC Finance",
+     "published_kst": "11/25 10:13"
+    },
+    {
+     "id": "7b396d8d47",
+     "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
+     "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "published_kst": "11/25 10:03"
+    },
     {
      "id": "222e2ef667",
      "title": "Blanche Downplays Questions Over Nvidia as Company’s Customers Come Under Scrutiny",
@@ -376,6 +390,426 @@
   }
  ],
  "news": [
+  {
+   "id": "594ca7efe4",
+   "title": "KB국민은행, '2026-2차 공동구매정기예금'…최고 연 3.9%",
+   "url": "https://www.yna.co.kr/view/AKR20261125103500002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/25 13:45",
+   "published_iso": "2026-11-25T13:45:45+09:00",
+   "sort_key": 1795581945.0,
+   "excerpt": "(서울=연합뉴스) 이도흔 기자 = KB국민은행은 판매 금액에 따라 차등금리를 제공하는 정기예금 상품 &apos;2026-2차 공동구매 정기예금&apos;을 출시했...",
+   "matched": []
+  },
+  {
+   "id": "03b25ae7f2",
+   "title": "역도·레슬링, IBK기업은행과 후원 협약…3년간 최대 14억원",
+   "url": "https://www.yna.co.kr/view/AKR20261125103700007",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/25 13:45",
+   "published_iso": "2026-11-25T13:45:18+09:00",
+   "sort_key": 1795581918.0,
+   "excerpt": "(서울=연합뉴스) 이대호 기자 = 대한역도연맹은 24일 서울 을지로 IBK기업은행 본점에서 IBK기업은행, 대한레슬링협회와 역도·레슬링 종목 공...",
+   "matched": []
+  },
+  {
+   "id": "23d5e10b3f",
+   "title": "양주시, 산북 도시재생사업 성과공유회 열어",
+   "url": "https://www.yna.co.kr/view/AKR20261125103200060",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/25 13:45",
+   "published_iso": "2026-11-25T13:45:09+09:00",
+   "sort_key": 1795581909.0,
+   "excerpt": "(양주=연합뉴스) 노승혁 기자 = 경기 양주시는 25∼27일 산북동 샘내마을 도시재생사업을 통해 변화한 마을의 모습과 지난 4년간의 주요 성과를...",
+   "matched": []
+  },
+  {
+   "id": "217c665718",
+   "title": "소상공인협회 \"소상공인 줄폐업 위기…노동법 개정 중단해야\"",
+   "url": "https://www.yna.co.kr/view/AKR20261125101100030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/25 13:43",
+   "published_iso": "2026-11-25T13:43:53+09:00",
+   "sort_key": 1795581833.0,
+   "excerpt": "(서울=연합뉴스) 이상서 기자 = 송치영 소상공인연합회장은 25일 소상공인 811만명의 생존권 사수를 위해 정부의 노동관계법 개정 추진을 중단하...",
+   "matched": []
+  },
+  {
+   "id": "6b24ee6126",
+   "title": "\"격차만 1400대 벌렸다\"…프리미엄 고성능 1위 굳힌 수입車",
+   "url": "https://www.hankyung.com/article/202611259198g",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/25 13:43",
+   "published_iso": "2026-11-25T13:43:12+09:00",
+   "sort_key": 1795581792.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "ccc8544f1c",
+   "title": "중견기업 3분기 수출 368억달러…2개 분기 연속 역대 최고",
+   "url": "https://www.yna.co.kr/view/AKR20261125102600003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/25 13:42",
+   "published_iso": "2026-11-25T13:42:44+09:00",
+   "sort_key": 1795581764.0,
+   "excerpt": "(세종=연합뉴스) 신창용 기자 = 국내 중견기업의 올해 3분기 수출이 반도체 호조에 힘입어 2개 분기 연속 역대 최고치를 경신했다.",
+   "matched": []
+  },
+  {
+   "id": "a46aa5f71b",
+   "title": "카카오뱅크, 자사주 27만주 소각 결정…66억원 규모",
+   "url": "https://www.yna.co.kr/view/AKR20261125101700002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/25 13:36",
+   "published_iso": "2026-11-25T13:36:41+09:00",
+   "sort_key": 1795581401.0,
+   "excerpt": "(서울=연합뉴스) 이도흔 기자 = 카카오뱅크[323410]는 66억원 규모의 자사주 소각을 결정했다고 25일 밝혔다.",
+   "matched": []
+  },
+  {
+   "id": "a2c14952ed",
+   "title": "박재호 중진공 이사장 \"해외 지원거점 사수…청창사 예산 확보\"",
+   "url": "https://www.yna.co.kr/view/AKR20261125098400030",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/25 13:36",
+   "published_iso": "2026-11-25T13:36:24+09:00",
+   "sort_key": 1795581384.0,
+   "excerpt": "(서울=연합뉴스) 구정모 기자 = 박재호 중소벤처기업진흥공단 신임 이사장은 25일 중소·벤처기업에 특화된 해외 진출 지원 거점의 독자적 기능을 ...",
+   "matched": []
+  },
+  {
+   "id": "b301d20a20",
+   "title": "[게시판] KB국민은행, 한국무역협회와 국내 수출기업 금융지원",
+   "url": "https://www.yna.co.kr/view/AKR20261125099600002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/25 13:36",
+   "published_iso": "2026-11-25T13:36:13+09:00",
+   "sort_key": 1795581373.0,
+   "excerpt": "▲ KB국민은행은 24일부터 25일까지 한국무역협회가 개최한 해외 바이어 초청 수출상담회 &apos;코리아 그랜드 소싱페어&apos;에 참여해 국내 수출기업을 위...",
+   "matched": []
+  },
+  {
+   "id": "f0137dc215",
+   "title": "\"우리한테 돈 맡겨놨냐\"…'벼랑 끝' 사장님들 분노한 이유",
+   "url": "https://www.hankyung.com/article/202611259195i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/25 13:30",
+   "published_iso": "2026-11-25T13:30:03+09:00",
+   "sort_key": 1795581003.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "e45f9494aa",
+   "title": "[포토] 코리아 핀테크 위크 2026 개막",
+   "url": "https://www.hankyung.com/article/202611259311i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/25 13:19",
+   "published_iso": "2026-11-25T13:19:16+09:00",
+   "sort_key": 1795580356.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "66a2199eae",
+   "title": "[단독] '축하 턱'도 보험으로…홀인원보험 5년 새 9배 늘었다",
+   "url": "https://www.hankyung.com/article/202611245999i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/25 13:18",
+   "published_iso": "2026-11-25T13:18:12+09:00",
+   "sort_key": 1795580292.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "3a20715f32",
+   "title": "\"60대 베테랑 필요하긴 한데\"…정년 연장 대신 선택한 방법",
+   "url": "https://www.hankyung.com/article/202611258968i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/25 13:13",
+   "published_iso": "2026-11-25T13:13:25+09:00",
+   "sort_key": 1795580005.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "2efc868044",
+   "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+   "url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+   "source": "CNBC Economy",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/25 13:06",
+   "published_iso": "2026-11-25T13:06:01+09:00",
+   "sort_key": 1795579561.0,
+   "excerpt": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
+   "matched": []
+  },
+  {
+   "id": "5c5b6fc414",
+   "title": "\"AI 다음은 신약이다\"…中 빅테크, 바이오 전쟁",
+   "url": "https://www.hankyung.com/article/202610103402i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/25 13:00",
+   "published_iso": "2026-11-25T13:00:11+09:00",
+   "sort_key": 1795579211.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "ee09ba887d",
+   "title": "[단독] 中 여성들 한국와서 사가던 '마르디 메크르디'…중국 현지 생산·판매로 승부수",
+   "url": "https://www.hankyung.com/article/202611247421i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/25 13:00",
+   "published_iso": "2026-11-25T13:00:07+09:00",
+   "sort_key": 1795579207.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "c7483526f4",
+   "title": "미래에셋생명, 건강보험 신계약 CSM 2년 만에 두배로 늘었다",
+   "url": "https://www.hankyung.com/article/202611259279i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/25 12:56",
+   "published_iso": "2026-11-25T12:56:01+09:00",
+   "sort_key": 1795578961.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "1683344d8c",
+   "title": "Martha Firestone Ford, Owner of Detroit Lions, Dies at 101",
+   "url": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/25 12:52",
+   "published_iso": "2026-11-25T12:52:08+09:00",
+   "sort_key": 1795578728.0,
+   "excerpt": "Mrs. Ford, who took over the team after the 2014 death of her husband, William Clay Ford Sr., was one of a handful of female owners in the N.F.L.",
+   "matched": []
+  },
+  {
+   "id": "9470763ef7",
+   "title": "DealBook Summit 2026: It’s Time to Fix Health Care",
+   "url": "https://www.nytimes.com/2026/11/24/business/dealbook/health-care-task-force.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/25 10:24",
+   "published_iso": "2026-11-25T10:24:19+09:00",
+   "sort_key": 1795569859.0,
+   "excerpt": "Experts said problems of cost, trust and dysfunction had reached crisis levels, but voters could be the impetus to force change.",
+   "matched": []
+  },
+  {
+   "id": "dd9641ab20",
+   "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+   "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+   "source": "CNBC Finance",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/25 10:13",
+   "published_iso": "2026-11-25T10:13:56+09:00",
+   "sort_key": 1795569236.0,
+   "excerpt": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "7b396d8d47",
+   "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
+   "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/25 10:03",
+   "published_iso": "2026-11-25T10:03:05+09:00",
+   "sort_key": 1795568585.0,
+   "excerpt": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "7940036035",
+   "title": "US preparing to unveil plan for new tariffs on global trading partners",
+   "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/25 09:38",
+   "published_iso": "2026-11-25T09:38:01+09:00",
+   "sort_key": 1795567081.0,
+   "excerpt": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "matched": []
+  },
+  {
+   "id": "d55d4faa02",
+   "title": "Why tiny cars are taking off across Europe",
+   "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/25 09:34",
+   "published_iso": "2026-11-25T09:34:05+09:00",
+   "sort_key": 1795566845.0,
+   "excerpt": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+   "matched": []
+  },
+  {
+   "id": "604b9172ef",
+   "title": "What will the energy cap changes mean for my bills?",
+   "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/25 09:33",
+   "published_iso": "2026-11-25T09:33:25+09:00",
+   "sort_key": 1795566805.0,
+   "excerpt": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+   "matched": []
+  },
+  {
+   "id": "2917d94631",
+   "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+   "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/25 09:30",
+   "published_iso": "2026-11-25T09:30:52+09:00",
+   "sort_key": 1795566652.0,
+   "excerpt": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+   "matched": []
+  },
+  {
+   "id": "2f68837013",
+   "title": "Households braced for soaring energy bills with new price cap to be announced",
+   "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/25 09:29",
+   "published_iso": "2026-11-25T09:29:58+09:00",
+   "sort_key": 1795566598.0,
+   "excerpt": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+   "matched": []
+  },
+  {
+   "id": "dbf07599b5",
+   "title": "DealBook Summit 2026: The Cost of Being Pragmatic in a Chaotic World",
+   "url": "https://www.nytimes.com/2026/11/24/business/dealbook/world-chaos-pragmatism.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/25 08:03",
+   "published_iso": "2026-11-25T08:03:18+09:00",
+   "sort_key": 1795561398.0,
+   "excerpt": "At the summit marking DealBook’s 25th year, business leaders explored the dangers of mistrust in turbulent times.",
+   "matched": []
+  },
+  {
+   "id": "91dd383395",
+   "title": "DealBook Summit 2026: Help Wanted to Succeed in an A.I. World",
+   "url": "https://www.nytimes.com/2026/11/24/business/dealbook/work-jobs-task-force.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/25 08:01",
+   "published_iso": "2026-11-25T08:01:20+09:00",
+   "sort_key": 1795561280.0,
+   "excerpt": "While young people are facing daunting challenges in the labor market, there are ways to improve the chance of landing a good job.",
+   "matched": []
+  },
+  {
+   "id": "dc28bbcffc",
+   "title": "DealBook Summit 2026: After the Upheaval From the Midterm Elections, Who Has the Edge in 2028?",
+   "url": "https://www.nytimes.com/2026/11/24/business/dealbook/midterm-elections-task-force.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/25 08:00",
+   "published_iso": "2026-11-25T08:00:25+09:00",
+   "sort_key": 1795561225.0,
+   "excerpt": "Are the Democrats’ gains in the midterm elections lasting? Or just another swing of the political pendulum?",
+   "matched": []
+  },
+  {
+   "id": "d10c95b32f",
+   "title": "DealBook Summit 2026: Rein in A.I., but Don’t Pause It",
+   "url": "https://www.nytimes.com/2026/11/24/business/dealbook/ai-task-force.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/25 07:59",
+   "published_iso": "2026-11-25T07:59:27+09:00",
+   "sort_key": 1795561167.0,
+   "excerpt": "A panel of experts said protections on artificial intelligence could be adopted without stifling the technology’s development.",
+   "matched": []
+  },
+  {
+   "id": "b1795bf437",
+   "title": "DealBook Summit 2026: Groundbreakers Tell What Is On Their Minds",
+   "url": "https://www.nytimes.com/2026/11/24/business/dealbook/dealbook-summit-groundbreakers.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/25 07:57",
+   "published_iso": "2026-11-25T07:57:53+09:00",
+   "sort_key": 1795561073.0,
+   "excerpt": "Leaders from a range of disciplines who led talks at the summit about global issues responded to questions in advance. Their answers have been lightly edited.",
+   "matched": []
+  },
+  {
+   "id": "f63416909d",
+   "title": "25 Years of DealBook Moments",
+   "url": "https://www.nytimes.com/2026/11/24/business/dealbook/25-years-photographs-moments.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/25 07:56",
+   "published_iso": "2026-11-25T07:56:21+09:00",
+   "sort_key": 1795560981.0,
+   "excerpt": "These photographs are drawn from events since DealBook began publishing that have left an indelible mark on business, policy and culture. We’re still feeling their ripples today.",
+   "matched": []
+  },
   {
    "id": "ad056cd737",
    "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
@@ -1281,277 +1715,215 @@
   }
  ],
  "news_groups": {
-  "해외 경제언론": [
-   {
-    "id": "ad056cd737",
-    "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-    "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/25 07:24",
-    "published_iso": "2026-11-25T07:24:23+09:00",
-    "sort_key": 1795559063.0,
-    "excerpt": "The verdict follows a months-long trial in New York.",
-    "matched": []
-   },
-   {
-    "id": "222e2ef667",
-    "title": "Blanche Downplays Questions Over Nvidia as Company’s Customers Come Under Scrutiny",
-    "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/25 07:02",
-    "published_iso": "2026-11-25T07:02:13+09:00",
-    "sort_key": 1795557733.0,
-    "excerpt": "The remarks came even as Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries.",
-    "matched": [
-     "NVDA"
-    ]
-   },
-   {
-    "id": "fbae9cff9d",
-    "title": "‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper",
-    "url": "https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/25 06:55",
-    "published_iso": "2026-11-25T06:55:18+09:00",
-    "sort_key": 1795557318.0,
-    "excerpt": "The Carthage Courier announced this week that the former vice president was buying the weekly paper, which has been publishing since 1913.",
-    "matched": []
-   },
-   {
-    "id": "ca96f6e794",
-    "title": "Will I get the £100 energy payment and when will I receive it?",
-    "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/25 05:16",
-    "published_iso": "2026-11-25T05:16:24+09:00",
-    "sort_key": 1795551384.0,
-    "excerpt": "Here is what you need to know about the payment that millions will receive from January.",
-    "matched": []
-   },
-   {
-    "id": "937ae72a64",
-    "title": "Putting Socially Conscious Investments in 401(k) Plans Could Get Harder",
-    "url": "https://www.nytimes.com/2026/11/24/your-money/401k-esg-rules.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/25 04:29",
-    "published_iso": "2026-11-25T04:29:19+09:00",
-    "sort_key": 1795548559.0,
-    "excerpt": "The Labor Department has, once again, proposed a rule that may discourage workplace retirement plans from adding investment options based on environmental and social considerations.",
-    "matched": []
-   },
-   {
-    "id": "c84df890b2",
-    "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
-    "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
-    "source": "CNBC Finance",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/25 03:34",
-    "published_iso": "2026-11-25T03:34:55+09:00",
-    "sort_key": 1795545295.0,
-    "excerpt": "The product, the first one beyond event contracts, was introduced in May.",
-    "matched": []
-   },
-   {
-    "id": "3bbd482738",
-    "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
-    "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-    "source": "CNBC Economy",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/25 03:34",
-    "published_iso": "2026-11-25T03:34:43+09:00",
-    "sort_key": 1795545283.0,
-    "excerpt": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
-    "matched": []
-   },
-   {
-    "id": "a91d653e07",
-    "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
-    "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/25 03:34",
-    "published_iso": "2026-11-25T03:34:38+09:00",
-    "sort_key": 1795545278.0,
-    "excerpt": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.",
-    "matched": [
-     "NVDA"
-    ]
-   },
-   {
-    "id": "527af39fbb",
-    "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
-    "url": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
-    "source": "CNBC Finance",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/25 03:28",
-    "published_iso": "2026-11-25T03:28:33+09:00",
-    "sort_key": 1795544913.0,
-    "excerpt": "Co-founders of the prediction market platform were slated to appear in a state district court in December.",
-    "matched": []
-   },
-   {
-    "id": "60789fe36e",
-    "title": "Faisal Islam: Fears over the AI boom haven't gone away",
-    "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/25 03:21",
-    "published_iso": "2026-11-25T03:21:43+09:00",
-    "sort_key": 1795544503.0,
-    "excerpt": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-    "matched": []
-   },
-   {
-    "id": "3d61432eeb",
-    "title": "Pressure Builds at American Airlines as It Lags Delta and United",
-    "url": "https://www.nytimes.com/2026/11/24/business/american-airlines-delta-united.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/25 03:06",
-    "published_iso": "2026-11-25T03:06:24+09:00",
-    "sort_key": 1795543584.0,
-    "excerpt": "American flies more travelers than any other U.S. carrier, but debt, fuel costs and mistakes have left it losing money while other big airlines report billions in profits.",
-    "matched": []
-   },
-   {
-    "id": "ce0766a1ae",
-    "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
-    "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/25 02:51",
-    "published_iso": "2026-11-25T02:51:26+09:00",
-    "sort_key": 1795542686.0,
-    "excerpt": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
-    "matched": [
-     "NVDA"
-    ]
-   },
-   {
-    "id": "ca6bd074c9",
-    "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
-    "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/25 02:04",
-    "published_iso": "2026-11-25T02:04:20+09:00",
-    "sort_key": 1795539860.0,
-    "excerpt": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
-    "matched": [
-     "NVDA"
-    ]
-   },
-   {
-    "id": "5123a64579",
-    "title": "Black Friday Deals Starting Earlier This Year? It’s Not Just in Your Head.",
-    "url": "https://www.nytimes.com/2026/11/24/style/black-friday-sales-2026-earlier.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/25 01:07",
-    "published_iso": "2026-11-25T01:07:27+09:00",
-    "sort_key": 1795536447.0,
-    "excerpt": "Some shoppers have “Black Friday fatigue” from sales that began as early as the first week in November.",
-    "matched": []
-   },
-   {
-    "id": "fb671f90ea",
-    "title": "Luxury Water Is Luring Drinkers Who Have Lost Their Thirst for Alcohol",
-    "url": "https://www.nytimes.com/2026/11/24/business/luxury-water-fiji-evian-voss.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/25 00:46",
-    "published_iso": "2026-11-25T00:46:23+09:00",
-    "sort_key": 1795535183.0,
-    "excerpt": "A host of newcomers are pushing into the high-end water space, which has long been occupied by brands like Fiji, Evian and Voss.",
-    "matched": []
-   },
-   {
-    "id": "e812e2dc07",
-    "title": "Top Aviation Officials Were Traveling When F.A.A.’s Nationwide Ground Stop Halted Flights",
-    "url": "https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/24 23:10",
-    "published_iso": "2026-11-24T23:10:03+09:00",
-    "sort_key": 1795529403.0,
-    "excerpt": "Transportation administrators and some key executives for the contractor handling an equipment upgrade were in transit on Nov. 13, highlighting that Friday can be a bad day for something to go wrong.",
-    "matched": []
-   },
-   {
-    "id": "d75f44a442",
-    "title": "How Huang’s Return Rewrote Corporate America’s Rules",
-    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/huang-nvidia-trump.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/24 22:35",
-    "published_iso": "2026-11-24T22:35:25+09:00",
-    "sort_key": 1795527325.0,
-    "excerpt": "The reinstatement of Jensen Huang atop Nvidia, following pressure from President Trump, shattered norms for corporate governance. What comes next is unclear.",
-    "matched": []
-   },
-   {
-    "id": "7a85209059",
-    "title": "World Cup drove profits surge, says Marston's",
-    "url": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/24 22:03",
-    "published_iso": "2026-11-24T22:03:20+09:00",
-    "sort_key": 1795525400.0,
-    "excerpt": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
-    "matched": []
-   },
-   {
-    "id": "50e865f7ca",
-    "title": "Young New Yorkers Are Losing on Kalshi, City Council Says",
-    "url": "https://www.nytimes.com/2026/11/24/business/kalshi-nyc-council.html",
-    "source": "NYT Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/24 19:04",
-    "published_iso": "2026-11-24T19:04:07+09:00",
-    "sort_key": 1795514647.0,
-    "excerpt": "An investigation into prediction market companies found that 18- to 20-year-olds in New York City are losing money at a high rate.",
-    "matched": []
-   },
-   {
-    "id": "2a8b53d168",
-    "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
-    "url": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "group": "해외 경제언론",
-    "lang": "en",
-    "published_kst": "11/24 09:11",
-    "published_iso": "2026-11-24T09:11:08+09:00",
-    "sort_key": 1795479068.0,
-    "excerpt": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
-    "matched": []
-   }
-  ],
   "국내 경제언론": [
+   {
+    "id": "594ca7efe4",
+    "title": "KB국민은행, '2026-2차 공동구매정기예금'…최고 연 3.9%",
+    "url": "https://www.yna.co.kr/view/AKR20261125103500002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 13:45",
+    "published_iso": "2026-11-25T13:45:45+09:00",
+    "sort_key": 1795581945.0,
+    "excerpt": "(서울=연합뉴스) 이도흔 기자 = KB국민은행은 판매 금액에 따라 차등금리를 제공하는 정기예금 상품 &apos;2026-2차 공동구매 정기예금&apos;을 출시했...",
+    "matched": []
+   },
+   {
+    "id": "03b25ae7f2",
+    "title": "역도·레슬링, IBK기업은행과 후원 협약…3년간 최대 14억원",
+    "url": "https://www.yna.co.kr/view/AKR20261125103700007",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 13:45",
+    "published_iso": "2026-11-25T13:45:18+09:00",
+    "sort_key": 1795581918.0,
+    "excerpt": "(서울=연합뉴스) 이대호 기자 = 대한역도연맹은 24일 서울 을지로 IBK기업은행 본점에서 IBK기업은행, 대한레슬링협회와 역도·레슬링 종목 공...",
+    "matched": []
+   },
+   {
+    "id": "23d5e10b3f",
+    "title": "양주시, 산북 도시재생사업 성과공유회 열어",
+    "url": "https://www.yna.co.kr/view/AKR20261125103200060",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 13:45",
+    "published_iso": "2026-11-25T13:45:09+09:00",
+    "sort_key": 1795581909.0,
+    "excerpt": "(양주=연합뉴스) 노승혁 기자 = 경기 양주시는 25∼27일 산북동 샘내마을 도시재생사업을 통해 변화한 마을의 모습과 지난 4년간의 주요 성과를...",
+    "matched": []
+   },
+   {
+    "id": "217c665718",
+    "title": "소상공인협회 \"소상공인 줄폐업 위기…노동법 개정 중단해야\"",
+    "url": "https://www.yna.co.kr/view/AKR20261125101100030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 13:43",
+    "published_iso": "2026-11-25T13:43:53+09:00",
+    "sort_key": 1795581833.0,
+    "excerpt": "(서울=연합뉴스) 이상서 기자 = 송치영 소상공인연합회장은 25일 소상공인 811만명의 생존권 사수를 위해 정부의 노동관계법 개정 추진을 중단하...",
+    "matched": []
+   },
+   {
+    "id": "6b24ee6126",
+    "title": "\"격차만 1400대 벌렸다\"…프리미엄 고성능 1위 굳힌 수입車",
+    "url": "https://www.hankyung.com/article/202611259198g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 13:43",
+    "published_iso": "2026-11-25T13:43:12+09:00",
+    "sort_key": 1795581792.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "ccc8544f1c",
+    "title": "중견기업 3분기 수출 368억달러…2개 분기 연속 역대 최고",
+    "url": "https://www.yna.co.kr/view/AKR20261125102600003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 13:42",
+    "published_iso": "2026-11-25T13:42:44+09:00",
+    "sort_key": 1795581764.0,
+    "excerpt": "(세종=연합뉴스) 신창용 기자 = 국내 중견기업의 올해 3분기 수출이 반도체 호조에 힘입어 2개 분기 연속 역대 최고치를 경신했다.",
+    "matched": []
+   },
+   {
+    "id": "a46aa5f71b",
+    "title": "카카오뱅크, 자사주 27만주 소각 결정…66억원 규모",
+    "url": "https://www.yna.co.kr/view/AKR20261125101700002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 13:36",
+    "published_iso": "2026-11-25T13:36:41+09:00",
+    "sort_key": 1795581401.0,
+    "excerpt": "(서울=연합뉴스) 이도흔 기자 = 카카오뱅크[323410]는 66억원 규모의 자사주 소각을 결정했다고 25일 밝혔다.",
+    "matched": []
+   },
+   {
+    "id": "a2c14952ed",
+    "title": "박재호 중진공 이사장 \"해외 지원거점 사수…청창사 예산 확보\"",
+    "url": "https://www.yna.co.kr/view/AKR20261125098400030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 13:36",
+    "published_iso": "2026-11-25T13:36:24+09:00",
+    "sort_key": 1795581384.0,
+    "excerpt": "(서울=연합뉴스) 구정모 기자 = 박재호 중소벤처기업진흥공단 신임 이사장은 25일 중소·벤처기업에 특화된 해외 진출 지원 거점의 독자적 기능을 ...",
+    "matched": []
+   },
+   {
+    "id": "b301d20a20",
+    "title": "[게시판] KB국민은행, 한국무역협회와 국내 수출기업 금융지원",
+    "url": "https://www.yna.co.kr/view/AKR20261125099600002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 13:36",
+    "published_iso": "2026-11-25T13:36:13+09:00",
+    "sort_key": 1795581373.0,
+    "excerpt": "▲ KB국민은행은 24일부터 25일까지 한국무역협회가 개최한 해외 바이어 초청 수출상담회 &apos;코리아 그랜드 소싱페어&apos;에 참여해 국내 수출기업을 위...",
+    "matched": []
+   },
+   {
+    "id": "f0137dc215",
+    "title": "\"우리한테 돈 맡겨놨냐\"…'벼랑 끝' 사장님들 분노한 이유",
+    "url": "https://www.hankyung.com/article/202611259195i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 13:30",
+    "published_iso": "2026-11-25T13:30:03+09:00",
+    "sort_key": 1795581003.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "e45f9494aa",
+    "title": "[포토] 코리아 핀테크 위크 2026 개막",
+    "url": "https://www.hankyung.com/article/202611259311i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 13:19",
+    "published_iso": "2026-11-25T13:19:16+09:00",
+    "sort_key": 1795580356.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "66a2199eae",
+    "title": "[단독] '축하 턱'도 보험으로…홀인원보험 5년 새 9배 늘었다",
+    "url": "https://www.hankyung.com/article/202611245999i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 13:18",
+    "published_iso": "2026-11-25T13:18:12+09:00",
+    "sort_key": 1795580292.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "3a20715f32",
+    "title": "\"60대 베테랑 필요하긴 한데\"…정년 연장 대신 선택한 방법",
+    "url": "https://www.hankyung.com/article/202611258968i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 13:13",
+    "published_iso": "2026-11-25T13:13:25+09:00",
+    "sort_key": 1795580005.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "5c5b6fc414",
+    "title": "\"AI 다음은 신약이다\"…中 빅테크, 바이오 전쟁",
+    "url": "https://www.hankyung.com/article/202610103402i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 13:00",
+    "published_iso": "2026-11-25T13:00:11+09:00",
+    "sort_key": 1795579211.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "ee09ba887d",
+    "title": "[단독] 中 여성들 한국와서 사가던 '마르디 메크르디'…중국 현지 생산·판매로 승부수",
+    "url": "https://www.hankyung.com/article/202611247421i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 13:00",
+    "published_iso": "2026-11-25T13:00:07+09:00",
+    "sort_key": 1795579207.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "c7483526f4",
+    "title": "미래에셋생명, 건강보험 신계약 CSM 2년 만에 두배로 늘었다",
+    "url": "https://www.hankyung.com/article/202611259279i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 12:56",
+    "published_iso": "2026-11-25T12:56:01+09:00",
+    "sort_key": 1795578961.0,
+    "excerpt": "",
+    "matched": []
+   },
    {
     "id": "e161296ae2",
     "title": "[경주지진 10년, 안전을 묻다] ② 강진 겪었지만 민간건물 10곳 중 8곳 지진 취약",
@@ -1563,7 +1935,12 @@
     "published_iso": "2026-11-25T07:02:04+09:00",
     "sort_key": 1795557724.0,
     "excerpt": "(대구·포항=연합뉴스) 손대성 박세진 기자 = 경주·포항 강진을 계기로 한반도에서도 지진에 대한 경각심이 높아졌지만 10년이 넘는 시간이 흐른 ...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "경주지진 10년 — 민간건물 10곳 중 8곳 지진에 취약",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "59d9589f4b",
@@ -1576,7 +1953,12 @@
     "published_iso": "2026-11-25T07:00:03+09:00",
     "sort_key": 1795557603.0,
     "excerpt": "(서울=연합뉴스) 임성호 기자 = 올해 사상 첫 연간 1조달러를 달성한 한국의 수출이 지난 60여년간 세계 평균 수출 증가율의 2배에 달하는 속...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "한국 수출 60여 년간 세계 평균의 2배 속도로 성장 — 경제 기여 27%",
+     "impact": "시장 영향은 제한적",
+     "affected": "수출기업"
+    }
    },
    {
     "id": "9c74cca01c",
@@ -1589,7 +1971,12 @@
     "published_iso": "2026-11-25T06:20:00+09:00",
     "sort_key": 1795555200.0,
     "excerpt": "(서울=연합뉴스) 한주홍 기자 = 계란 산지 가격이 하락할 것으로 전망되지만 소비자가격은 여전히 1년 전보다 높은 수준을 유지하고 있다.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "계란 산지값 내려도 소매가는 올라 — 조류인플루엔자 확산 우려",
+     "impact": "식품 물가 부담",
+     "affected": "식품"
+    }
    },
    {
     "id": "36f118fa7e",
@@ -1602,7 +1989,12 @@
     "published_iso": "2026-11-25T06:03:01+09:00",
     "sort_key": 1795554181.0,
     "excerpt": "(세종=연합뉴스) 오진송 기자 = 정부가 민간 주택공급을 촉진하기 위해 미분양 매입확약 제도 확대를 검토하는 가운데 지난 2년여간 한국토지주택공...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "LH 미분양 매입확약 3.1만 가구 중 1.3만 가구 착공",
+     "impact": "시장 영향은 제한적",
+     "affected": "건설"
+    }
    },
    {
     "id": "0b0efc26e4",
@@ -1615,7 +2007,12 @@
     "published_iso": "2026-11-25T06:00:11+09:00",
     "sort_key": 1795554011.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "크리스마스 앞두고 딸기 등 과일값 하락",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "053b07a1e3",
@@ -1628,7 +2025,12 @@
     "published_iso": "2026-11-25T06:00:08+09:00",
     "sort_key": 1795554008.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "같은 SUV도 연료에 따라 연료비 153만 원 차이",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "195ca93ed3",
@@ -1641,7 +2043,12 @@
     "published_iso": "2026-11-25T06:00:07+09:00",
     "sort_key": 1795554007.0,
     "excerpt": "(서울=연합뉴스) 옥성구 기자 = 한국산업인력공단은 전자·통신 부품 제조업체인 삼우전자정밀이 &apos;2026년 사업주훈련 우수사례 경진대회&apos;에서 중소...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "사업주훈련 경진대회 삼우전자정밀 대상",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "f8407c3a0c",
@@ -1654,7 +2061,12 @@
     "published_iso": "2026-11-25T06:00:07+09:00",
     "sort_key": 1795554007.0,
     "excerpt": "(서울=연합뉴스) 채새롬 기자 = 올해 11월 기업 체감 경기가 한 달 만에 다시 악화했다.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "11월 기업 체감경기 한 달 만에 악화 — 내수기업은 4년 반 만에 최고",
+     "impact": "수출기업 심리 위축",
+     "affected": "국내 기업"
+    }
    },
    {
     "id": "7d135d5218",
@@ -1667,7 +2079,12 @@
     "published_iso": "2026-11-25T06:00:06+09:00",
     "sort_key": 1795554006.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "외국인 관광객 덕에 돈 버는 동네",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "1329d5d3f0",
@@ -1680,7 +2097,12 @@
     "published_iso": "2026-11-25T06:00:04+09:00",
     "sort_key": 1795554004.0,
     "excerpt": "(서울=연합뉴스) 강류나 기자 = 올해 3분기까지 국내 보험사들의 당기순이익이 작년보다 8천800억원 감소한 10조4천억원으로 집계됐다.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "보험사 3분기 누적 순이익 8,800억 원 감소",
+     "impact": "보험업 수익성 둔화",
+     "affected": "보험주"
+    }
    },
    {
     "id": "124a2df31c",
@@ -1693,7 +2115,12 @@
     "published_iso": "2026-11-25T06:00:02+09:00",
     "sort_key": 1795554002.0,
     "excerpt": "(서울=연합뉴스) 장하나 기자 = 유럽연합(EU)이 자동차와 포장재, 배터리 등 제품에 재생원료 사용을 의무화하는 규제를 단계적으로 도입하는 가...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "EU 재생원료 의무화 확대 — 수출기업 43% '내용 몰라'",
+     "impact": "EU 수출 규제 대응 부담",
+     "affected": "자동차, 배터리, 포장재"
+    }
    },
    {
     "id": "ce7507bfab",
@@ -1706,7 +2133,12 @@
     "published_iso": "2026-11-25T00:55:22+09:00",
     "sort_key": 1795535722.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "앤트로픽, 사상 최대 상장 며칠 만에 공모가 아래로 — 월가는 '매수' 유지",
+     "impact": "AI 상장주 변동성",
+     "affected": "앤트로픽"
+    }
    },
    {
     "id": "1f0832f9f2",
@@ -1719,7 +2151,12 @@
     "published_iso": "2026-11-25T00:18:27+09:00",
     "sort_key": 1795533507.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "삼성 금융 계열사 CEO 전원 유임",
+     "impact": "시장 영향은 제한적",
+     "affected": "삼성생명, 삼성화재"
+    }
    },
    {
     "id": "a418d7516c",
@@ -1732,7 +2169,12 @@
     "published_iso": "2026-11-25T00:00:01+09:00",
     "sort_key": 1795532401.0,
     "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시가 은평구 새절역과 관악구 서울대입구역을 잇는 경전철 서부선 사업을 민간투자 방식으로 다시 추진한다.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "서울 서부선 경전철, 민자사업으로 재추진",
+     "impact": "시장 영향은 제한적",
+     "affected": "건설"
+    }
    },
    {
     "id": "3e254b53a0",
@@ -1745,7 +2187,15 @@
     "published_iso": "2026-11-24T23:46:46+09:00",
     "sort_key": 1795531606.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "트럼프 정부 '과잉생산' 관세 예고 — 한국 영향은",
+     "impact": "한국 수출품도 관세 대상 될 수 있음",
+     "affected": "철강, 자동차, 반도체",
+     "important": true,
+     "important_tag": "정책·무역",
+     "why_important": "트럼프 정부가 '과잉생산' 국가 제품에 관세를 예고 — 중국을 겨냥하지만 한국 철강·자동차도 영향권"
+    }
    },
    {
     "id": "2c9149d395",
@@ -1758,7 +2208,12 @@
     "published_iso": "2026-11-24T23:01:03+09:00",
     "sort_key": 1795528863.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "중국 겨냥 규제에 한국 자동차 업계도 비상",
+     "impact": "자동차 수출 부담",
+     "affected": "현대차, 기아"
+    }
    },
    {
     "id": "8340b1b2a7",
@@ -1771,7 +2226,12 @@
     "published_iso": "2026-11-24T21:00:08+09:00",
     "sort_key": 1795521608.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "한때 MZ 명소, 4년 만에 문 닫아",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "e54ec46669",
@@ -1784,7 +2244,12 @@
     "published_iso": "2026-11-24T20:38:21+09:00",
     "sort_key": 1795520301.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "젠슨 황 공백을 우려한 트럼프의 움직임",
+     "impact": "아침 기사와 같은 흐름",
+     "affected": "엔비디아"
+    }
    },
    {
     "id": "bf477c8d0b",
@@ -1797,7 +2262,12 @@
     "published_iso": "2026-11-24T20:00:04+09:00",
     "sort_key": 1795518004.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "사생활 문제만으로 대표 해임할 수 있나 (칼럼)",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "c342cdaebc",
@@ -1810,7 +2280,12 @@
     "published_iso": "2026-11-24T19:48:01+09:00",
     "sort_key": 1795517281.0,
     "excerpt": "(서울=연합뉴스) 장보인 기자 = 정부가 석유 최고가격제 출구 전략을 단계적으로 마련해야 한다는 에너지 국책연구기관의 제언이 나왔다.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "석유 최고가격제, 가격 억제 효과 있었지만 출구 전략 필요",
+     "impact": "정유 수익성 변수",
+     "affected": "정유"
+    }
    },
    {
     "id": "1ec6a45e41",
@@ -1823,7 +2298,12 @@
     "published_iso": "2026-11-24T19:19:53+09:00",
     "sort_key": 1795515593.0,
     "excerpt": "(서울=연합뉴스) 강류나 기자 = 하나금융그룹 계열사인 하나저축은행에서 해킹 사고가 발생해 고객 552명의 개인정보가 유출됐다.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "하나저축은행 해킹 — 고객 552명 정보 유출",
+     "impact": "금융권 보안 우려",
+     "affected": "하나금융"
+    }
    },
    {
     "id": "4784f46748",
@@ -1836,7 +2316,15 @@
     "published_iso": "2026-11-24T19:08:52+09:00",
     "sort_key": 1795514932.0,
     "excerpt": "(브뤼셀·서울=연합뉴스) 현윤경 특파원 장보인 기자 = 내달부터 내년 6월 18일까지 200일간 유럽연합(EU)에 무관세로 수출할 수 있는 한국...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "다음 달부터 EU행 한국산 하이브리드차 무관세 6만 7,924대로 제한",
+     "impact": "유럽 하이브리드 수출 제약",
+     "affected": "현대차, 기아",
+     "important": true,
+     "important_tag": "정책·무역",
+     "why_important": "EU가 다음 달부터 한국산 하이브리드차 무관세 수입을 6만 7,924대로 제한 — 현대차·기아 유럽 수출에 부담"
+    }
    },
    {
     "id": "5e374d7a32",
@@ -1851,7 +2339,12 @@
     "excerpt": "(서울=연합뉴스) 강태우 기자 = 삼성 준법감시위원회(준감위)가 삼성전자의 주주환원 결정 과정을 둘러싼 논란과 관련해 준법 위반이나 이해상충에 ...",
     "matched": [
      "005930.KS"
-    ]
+    ],
+    "analysis": {
+     "summary": "삼성 준감위 '삼성전자 주주환원 결정, 준법 위반 아냐'",
+     "impact": "주주환원 논란 일단락",
+     "affected": "삼성전자"
+    }
    },
    {
     "id": "bc24d97cdd",
@@ -1864,7 +2357,12 @@
     "published_iso": "2026-11-24T18:30:00+09:00",
     "sort_key": 1795512600.0,
     "excerpt": "(인천=연합뉴스) 김상연 기자 = 인천상공회의소는 24일 송도국제도시 오크우드프리미어 인천에서 정동영 통일부 장관을 초청해 인천경제 활성화 정책...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "인천상의, 통일부 장관 초청 간담회",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "55519b5f41",
@@ -1879,7 +2377,12 @@
     "excerpt": "",
     "matched": [
      "005930.KS"
-    ]
+    ],
+    "analysis": {
+     "summary": "삼성전자 반도체 호황에 임원 70명 발탁",
+     "impact": "시장 영향은 제한적",
+     "affected": "삼성전자"
+    }
    },
    {
     "id": "78f72aa3ad",
@@ -1892,7 +2395,12 @@
     "published_iso": "2026-11-24T18:00:00+09:00",
     "sort_key": 1795510800.0,
     "excerpt": "■ 젠슨황 복귀에 6%대 급반등, &apos;5천피&apos; 회복…코스닥 4.8%↑",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "연합뉴스 18시 헤드라인",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "8318e18da4",
@@ -1905,7 +2413,597 @@
     "published_iso": "2026-11-24T17:59:22+09:00",
     "sort_key": 1795510762.0,
     "excerpt": "(서울=연합뉴스) 박수현 기자 = 정부가 디지털자산기본법 제정안을 공개한 가운데 더불어민주당 민병덕 의원이 다음 달 4일 업계 의견을 수렴하기 ...",
+    "matched": [],
+    "analysis": {
+     "summary": "디지털자산기본법 정부안 공개",
+     "impact": "가상자산 제도화 진전",
+     "affected": "가상자산"
+    }
+   }
+  ],
+  "해외 경제언론": [
+   {
+    "id": "2efc868044",
+    "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+    "url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+    "source": "CNBC Economy",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 13:06",
+    "published_iso": "2026-11-25T13:06:01+09:00",
+    "sort_key": 1795579561.0,
+    "excerpt": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
     "matched": []
+   },
+   {
+    "id": "1683344d8c",
+    "title": "Martha Firestone Ford, Owner of Detroit Lions, Dies at 101",
+    "url": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 12:52",
+    "published_iso": "2026-11-25T12:52:08+09:00",
+    "sort_key": 1795578728.0,
+    "excerpt": "Mrs. Ford, who took over the team after the 2014 death of her husband, William Clay Ford Sr., was one of a handful of female owners in the N.F.L.",
+    "matched": []
+   },
+   {
+    "id": "9470763ef7",
+    "title": "DealBook Summit 2026: It’s Time to Fix Health Care",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/health-care-task-force.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 10:24",
+    "published_iso": "2026-11-25T10:24:19+09:00",
+    "sort_key": 1795569859.0,
+    "excerpt": "Experts said problems of cost, trust and dysfunction had reached crisis levels, but voters could be the impetus to force change.",
+    "matched": []
+   },
+   {
+    "id": "dd9641ab20",
+    "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+    "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+    "source": "CNBC Finance",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 10:13",
+    "published_iso": "2026-11-25T10:13:56+09:00",
+    "sort_key": 1795569236.0,
+    "excerpt": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "7b396d8d47",
+    "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
+    "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 10:03",
+    "published_iso": "2026-11-25T10:03:05+09:00",
+    "sort_key": 1795568585.0,
+    "excerpt": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "7940036035",
+    "title": "US preparing to unveil plan for new tariffs on global trading partners",
+    "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 09:38",
+    "published_iso": "2026-11-25T09:38:01+09:00",
+    "sort_key": 1795567081.0,
+    "excerpt": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+    "matched": []
+   },
+   {
+    "id": "d55d4faa02",
+    "title": "Why tiny cars are taking off across Europe",
+    "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 09:34",
+    "published_iso": "2026-11-25T09:34:05+09:00",
+    "sort_key": 1795566845.0,
+    "excerpt": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+    "matched": []
+   },
+   {
+    "id": "604b9172ef",
+    "title": "What will the energy cap changes mean for my bills?",
+    "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 09:33",
+    "published_iso": "2026-11-25T09:33:25+09:00",
+    "sort_key": 1795566805.0,
+    "excerpt": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+    "matched": []
+   },
+   {
+    "id": "2917d94631",
+    "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+    "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 09:30",
+    "published_iso": "2026-11-25T09:30:52+09:00",
+    "sort_key": 1795566652.0,
+    "excerpt": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+    "matched": []
+   },
+   {
+    "id": "2f68837013",
+    "title": "Households braced for soaring energy bills with new price cap to be announced",
+    "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 09:29",
+    "published_iso": "2026-11-25T09:29:58+09:00",
+    "sort_key": 1795566598.0,
+    "excerpt": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+    "matched": []
+   },
+   {
+    "id": "dbf07599b5",
+    "title": "DealBook Summit 2026: The Cost of Being Pragmatic in a Chaotic World",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/world-chaos-pragmatism.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 08:03",
+    "published_iso": "2026-11-25T08:03:18+09:00",
+    "sort_key": 1795561398.0,
+    "excerpt": "At the summit marking DealBook’s 25th year, business leaders explored the dangers of mistrust in turbulent times.",
+    "matched": []
+   },
+   {
+    "id": "91dd383395",
+    "title": "DealBook Summit 2026: Help Wanted to Succeed in an A.I. World",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/work-jobs-task-force.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 08:01",
+    "published_iso": "2026-11-25T08:01:20+09:00",
+    "sort_key": 1795561280.0,
+    "excerpt": "While young people are facing daunting challenges in the labor market, there are ways to improve the chance of landing a good job.",
+    "matched": []
+   },
+   {
+    "id": "dc28bbcffc",
+    "title": "DealBook Summit 2026: After the Upheaval From the Midterm Elections, Who Has the Edge in 2028?",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/midterm-elections-task-force.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 08:00",
+    "published_iso": "2026-11-25T08:00:25+09:00",
+    "sort_key": 1795561225.0,
+    "excerpt": "Are the Democrats’ gains in the midterm elections lasting? Or just another swing of the political pendulum?",
+    "matched": []
+   },
+   {
+    "id": "d10c95b32f",
+    "title": "DealBook Summit 2026: Rein in A.I., but Don’t Pause It",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/ai-task-force.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 07:59",
+    "published_iso": "2026-11-25T07:59:27+09:00",
+    "sort_key": 1795561167.0,
+    "excerpt": "A panel of experts said protections on artificial intelligence could be adopted without stifling the technology’s development.",
+    "matched": []
+   },
+   {
+    "id": "b1795bf437",
+    "title": "DealBook Summit 2026: Groundbreakers Tell What Is On Their Minds",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/dealbook-summit-groundbreakers.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 07:57",
+    "published_iso": "2026-11-25T07:57:53+09:00",
+    "sort_key": 1795561073.0,
+    "excerpt": "Leaders from a range of disciplines who led talks at the summit about global issues responded to questions in advance. Their answers have been lightly edited.",
+    "matched": []
+   },
+   {
+    "id": "f63416909d",
+    "title": "25 Years of DealBook Moments",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/25-years-photographs-moments.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 07:56",
+    "published_iso": "2026-11-25T07:56:21+09:00",
+    "sort_key": 1795560981.0,
+    "excerpt": "These photographs are drawn from events since DealBook began publishing that have left an indelible mark on business, policy and culture. We’re still feeling their ripples today.",
+    "matched": []
+   },
+   {
+    "id": "ad056cd737",
+    "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+    "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 07:24",
+    "published_iso": "2026-11-25T07:24:23+09:00",
+    "sort_key": 1795559063.0,
+    "excerpt": "The verdict follows a months-long trial in New York.",
+    "matched": [],
+    "analysis": {
+     "summary": "화웨이, 영업비밀 절도 유죄·조직범죄 혐의는 무죄",
+     "impact": "미중 기술 갈등 지속",
+     "affected": "화웨이"
+    }
+   },
+   {
+    "id": "222e2ef667",
+    "title": "Blanche Downplays Questions Over Nvidia as Company’s Customers Come Under Scrutiny",
+    "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 07:02",
+    "published_iso": "2026-11-25T07:02:13+09:00",
+    "sort_key": 1795557733.0,
+    "excerpt": "The remarks came even as Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries.",
+    "matched": [
+     "NVDA"
+    ],
+    "analysis": {
+     "summary": "법무부 블랜치, 엔비디아 고객사 수사 질문에 말 아껴",
+     "impact": "엔비디아 규제 위험 남아",
+     "affected": "엔비디아"
+    }
+   },
+   {
+    "id": "fbae9cff9d",
+    "title": "‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper",
+    "url": "https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 06:55",
+    "published_iso": "2026-11-25T06:55:18+09:00",
+    "sort_key": 1795557318.0,
+    "excerpt": "The Carthage Courier announced this week that the former vice president was buying the weekly paper, which has been publishing since 1913.",
+    "matched": [],
+    "analysis": {
+     "summary": "앨 고어, 고향 신문사 인수",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "ca96f6e794",
+    "title": "Will I get the £100 energy payment and when will I receive it?",
+    "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 05:16",
+    "published_iso": "2026-11-25T05:16:24+09:00",
+    "sort_key": 1795551384.0,
+    "excerpt": "Here is what you need to know about the payment that millions will receive from January.",
+    "matched": [],
+    "analysis": {
+     "summary": "영국 100파운드 에너지 지원금 안내",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "937ae72a64",
+    "title": "Putting Socially Conscious Investments in 401(k) Plans Could Get Harder",
+    "url": "https://www.nytimes.com/2026/11/24/your-money/401k-esg-rules.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 04:29",
+    "published_iso": "2026-11-25T04:29:19+09:00",
+    "sort_key": 1795548559.0,
+    "excerpt": "The Labor Department has, once again, proposed a rule that may discourage workplace retirement plans from adding investment options based on environmental and social considerations.",
+    "matched": [],
+    "analysis": {
+     "summary": "미국 노동부, 퇴직연금의 ESG 투자를 어렵게 하는 규정 재추진",
+     "impact": "ESG 펀드 자금 유입 둔화",
+     "affected": "ESG 펀드"
+    }
+   },
+   {
+    "id": "c84df890b2",
+    "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+    "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+    "source": "CNBC Finance",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 03:34",
+    "published_iso": "2026-11-25T03:34:55+09:00",
+    "sort_key": 1795545295.0,
+    "excerpt": "The product, the first one beyond event contracts, was introduced in May.",
+    "matched": [],
+    "analysis": {
+     "summary": "칼시, 무기한 선물 거래량이 예측시장 거래량 추월",
+     "impact": "시장 영향은 제한적",
+     "affected": "칼시"
+    }
+   },
+   {
+    "id": "3bbd482738",
+    "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+    "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+    "source": "CNBC Economy",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 03:34",
+    "published_iso": "2026-11-25T03:34:43+09:00",
+    "sort_key": 1795545283.0,
+    "excerpt": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
+    "matched": [],
+    "analysis": {
+     "summary": "민주당 중간선거 승리 뒤 미국 소비자신뢰 급등 — 물가 걱정은 여전",
+     "impact": "소비 심리 개선",
+     "affected": "미국 소비주",
+     "important": true,
+     "important_tag": "거시경제",
+     "why_important": "민주당 중간선거 승리 뒤 미국 소비자신뢰지수가 크게 올라 — 소비는 버티지만 물가 걱정은 여전"
+    }
+   },
+   {
+    "id": "a91d653e07",
+    "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
+    "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 03:34",
+    "published_iso": "2026-11-25T03:34:38+09:00",
+    "sort_key": 1795545278.0,
+    "excerpt": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.",
+    "matched": [
+     "NVDA"
+    ],
+    "analysis": {
+     "summary": "트럼프의 엔비디아 개입, 세계 경제 전쟁에서 기업의 무게 보여줘",
+     "impact": "아침 기사와 같은 흐름",
+     "affected": "엔비디아"
+    }
+   },
+   {
+    "id": "527af39fbb",
+    "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+    "url": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+    "source": "CNBC Finance",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 03:28",
+    "published_iso": "2026-11-25T03:28:33+09:00",
+    "sort_key": 1795544913.0,
+    "excerpt": "Co-founders of the prediction market platform were slated to appear in a state district court in December.",
+    "matched": [],
+    "analysis": {
+     "summary": "유타주, 칼시 창업자 형사 기소 취하",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "60789fe36e",
+    "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+    "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 03:21",
+    "published_iso": "2026-11-25T03:21:43+09:00",
+    "sort_key": 1795544503.0,
+    "excerpt": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+    "matched": [],
+    "analysis": {
+     "summary": "AI 호황 우려는 사라지지 않았다 (칼럼)",
+     "impact": "AI 관련주 변동성 지속",
+     "affected": "AI 관련주"
+    }
+   },
+   {
+    "id": "3d61432eeb",
+    "title": "Pressure Builds at American Airlines as It Lags Delta and United",
+    "url": "https://www.nytimes.com/2026/11/24/business/american-airlines-delta-united.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 03:06",
+    "published_iso": "2026-11-25T03:06:24+09:00",
+    "sort_key": 1795543584.0,
+    "excerpt": "American flies more travelers than any other U.S. carrier, but debt, fuel costs and mistakes have left it losing money while other big airlines report billions in profits.",
+    "matched": [],
+    "analysis": {
+     "summary": "아메리칸항공, 델타·유나이티드에 뒤처지며 압박",
+     "impact": "시장 영향은 제한적",
+     "affected": "아메리칸항공"
+    }
+   },
+   {
+    "id": "ce0766a1ae",
+    "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
+    "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 02:51",
+    "published_iso": "2026-11-25T02:51:26+09:00",
+    "sort_key": 1795542686.0,
+    "excerpt": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
+    "matched": [
+     "NVDA"
+    ],
+    "analysis": {
+     "summary": "엔비디아·AI주가 월요일 급등분 일부 반납하며 증시 하락",
+     "impact": "변동성 큰 장세 지속",
+     "affected": "미국 증시, 엔비디아"
+    }
+   },
+   {
+    "id": "ca6bd074c9",
+    "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+    "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 02:04",
+    "published_iso": "2026-11-25T02:04:20+09:00",
+    "sort_key": 1795539860.0,
+    "excerpt": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
+    "matched": [
+     "NVDA"
+    ],
+    "analysis": {
+     "summary": "트럼프의 젠슨 황 복귀 개입 의혹 제기에 엔비디아 하락",
+     "impact": "정치 개입 논란",
+     "affected": "엔비디아"
+    }
+   },
+   {
+    "id": "5123a64579",
+    "title": "Black Friday Deals Starting Earlier This Year? It’s Not Just in Your Head.",
+    "url": "https://www.nytimes.com/2026/11/24/style/black-friday-sales-2026-earlier.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 01:07",
+    "published_iso": "2026-11-25T01:07:27+09:00",
+    "sort_key": 1795536447.0,
+    "excerpt": "Some shoppers have “Black Friday fatigue” from sales that began as early as the first week in November.",
+    "matched": [],
+    "analysis": {
+     "summary": "블랙프라이데이 할인 시작이 빨라진 이유",
+     "impact": "연말 소비 분산",
+     "affected": "미국 소매"
+    }
+   },
+   {
+    "id": "fb671f90ea",
+    "title": "Luxury Water Is Luring Drinkers Who Have Lost Their Thirst for Alcohol",
+    "url": "https://www.nytimes.com/2026/11/24/business/luxury-water-fiji-evian-voss.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/25 00:46",
+    "published_iso": "2026-11-25T00:46:23+09:00",
+    "sort_key": 1795535183.0,
+    "excerpt": "A host of newcomers are pushing into the high-end water space, which has long been occupied by brands like Fiji, Evian and Voss.",
+    "matched": [],
+    "analysis": {
+     "summary": "술 대신 고급 생수가 인기",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "e812e2dc07",
+    "title": "Top Aviation Officials Were Traveling When F.A.A.’s Nationwide Ground Stop Halted Flights",
+    "url": "https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/24 23:10",
+    "published_iso": "2026-11-24T23:10:03+09:00",
+    "sort_key": 1795529403.0,
+    "excerpt": "Transportation administrators and some key executives for the contractor handling an equipment upgrade were in transit on Nov. 13, highlighting that Friday can be a bad day for something to go wrong.",
+    "matched": [],
+    "analysis": {
+     "summary": "FAA 전국 운항 중단 때 항공 당국 고위직은 출장 중",
+     "impact": "시장 영향은 제한적",
+     "affected": "항공"
+    }
+   },
+   {
+    "id": "d75f44a442",
+    "title": "How Huang’s Return Rewrote Corporate America’s Rules",
+    "url": "https://www.nytimes.com/2026/11/24/business/dealbook/huang-nvidia-trump.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/24 22:35",
+    "published_iso": "2026-11-24T22:35:25+09:00",
+    "sort_key": 1795527325.0,
+    "excerpt": "The reinstatement of Jensen Huang atop Nvidia, following pressure from President Trump, shattered norms for corporate governance. What comes next is unclear.",
+    "matched": [],
+    "analysis": {
+     "summary": "젠슨 황 복귀가 미국 기업 지배구조 규칙을 바꿔",
+     "impact": "시장 영향은 제한적",
+     "affected": "엔비디아"
+    }
+   },
+   {
+    "id": "7a85209059",
+    "title": "World Cup drove profits surge, says Marston's",
+    "url": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/24 22:03",
+    "published_iso": "2026-11-24T22:03:20+09:00",
+    "sort_key": 1795525400.0,
+    "excerpt": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
+    "matched": [],
+    "analysis": {
+     "summary": "영국 펍 체인 마스턴스, 월드컵 덕에 이익 급증",
+     "impact": "시장 영향은 제한적",
+     "affected": "영국 외식"
+    }
+   },
+   {
+    "id": "50e865f7ca",
+    "title": "Young New Yorkers Are Losing on Kalshi, City Council Says",
+    "url": "https://www.nytimes.com/2026/11/24/business/kalshi-nyc-council.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/24 19:04",
+    "published_iso": "2026-11-24T19:04:07+09:00",
+    "sort_key": 1795514647.0,
+    "excerpt": "An investigation into prediction market companies found that 18- to 20-year-olds in New York City are losing money at a high rate.",
+    "matched": [],
+    "analysis": {
+     "summary": "뉴욕시의회 '18~20세 젊은이들 칼시에서 손실'",
+     "impact": "예측시장 규제 압력",
+     "affected": "칼시"
+    }
+   },
+   {
+    "id": "2a8b53d168",
+    "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+    "url": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/24 09:11",
+    "published_iso": "2026-11-24T09:11:08+09:00",
+    "sort_key": 1795479068.0,
+    "excerpt": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
+    "matched": [],
+    "analysis": {
+     "summary": "영국 강아지 번식업자 몰래카메라 고발",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    }
   ],
   "중앙은행·국제기구": [
@@ -1920,7 +3018,12 @@
     "published_iso": "2026-11-25T04:00:00+09:00",
     "sort_key": 1795546800.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "연준 10월 할인율 회의록 공개",
+     "impact": "시장 영향은 제한적",
+     "affected": "미국 금리"
+    }
    },
    {
     "id": "4199d8f4bb",
@@ -1933,7 +3036,12 @@
     "published_iso": "2026-11-24T20:00:00+09:00",
     "sort_key": 1795518000.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "크로아티아 중앙은행 총재 연설",
+     "impact": "시장 영향은 제한적",
+     "affected": "유로화"
+    }
    }
   ]
  },
@@ -1942,8 +3050,8 @@
   "indices_total": 8,
   "stocks_ok": 9,
   "stocks_total": 9,
-  "news": 49,
-  "news_new": 17
+  "news": 81,
+  "news_new": 32
  },
  "errors": [
   {
