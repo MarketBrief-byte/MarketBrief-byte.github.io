@@ -372,7 +372,12 @@
    "published_iso": "2026-11-26T07:16:49+09:00",
    "sort_key": 1795645009.0,
    "excerpt": "Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium. But Middle Eastern business contacts of the two Trump envoys pulled out because of political winds.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "루크오일 해외 자산 매각 — 쿠슈너·위트코프 측에는 안 팔아",
+    "impact": "시장 영향은 제한적",
+    "affected": "러시아 에너지"
+   }
   },
   {
    "id": "c1bc1d5a96",
@@ -385,7 +390,12 @@
    "published_iso": "2026-11-26T07:00:06+09:00",
    "sort_key": 1795644006.0,
    "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "에티오피아-에리트레아 갈등과 홍해 위기 (칼럼)",
+    "impact": "해운 항로 불안",
+    "affected": "해운"
+   }
   },
   {
    "id": "eaea116a1d",
@@ -398,7 +408,12 @@
    "published_iso": "2026-11-26T06:56:43+09:00",
    "sort_key": 1795643803.0,
    "excerpt": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "그린스펀은 생산성에 걸었지만 워시는 금리를 올려야 (칼럼)",
+    "impact": "미국 금리 인상 압력",
+    "affected": "미국 금리"
+   }
   },
   {
    "id": "8f704e458f",
@@ -411,7 +426,12 @@
    "published_iso": "2026-11-26T06:45:01+09:00",
    "sort_key": 1795643101.0,
    "excerpt": "(서울=연합뉴스) 박수현 기자 = 올해 3분기 빗썸의 자체 취득한 가상자산의 처분손실이 690억원으로 작년 동기의 86배에 달한 것으로 나타났다...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "빗썸 3분기 가상자산 처분손실 690억 원 — 작년의 86배",
+    "impact": "가상자산 거래소 실적 악화",
+    "affected": "빗썸"
+   }
   },
   {
    "id": "1b18ea57f9",
@@ -424,7 +444,12 @@
    "published_iso": "2026-11-26T06:36:34+09:00",
    "sort_key": 1795642594.0,
    "excerpt": "The man, who drove a Toyota Corolla from a fleet leased to Lyft drivers, used orange cones to trap the self-driving vehicles before pelting them with eggs, the police said. No charges have been filed.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "덴버에서 웨이모 차량에 계란 던지는 남성",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "4e0a3c12c4",
@@ -439,7 +464,12 @@
    "excerpt": "Three data providers say they have no evidence to support the online claim that insider trading generated a 9,000 percent return.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "엔비디아 급등으로 3억 달러 벌었다는 소문, 거래 기록으로 확인 안 돼",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "bac4bb0a5e",
@@ -452,7 +482,12 @@
    "published_iso": "2026-11-26T06:15:00+09:00",
    "sort_key": 1795641300.0,
    "excerpt": "(서울=연합뉴스) 김세린 기자 = 반려동물 양육 가구가 늘어나면서 사료와 간식 등을 가까운 편의점에서 구매하려는 수요도 커지고 있는 것으로 나타...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "편의점 반려동물 용품 매출 증가",
+    "impact": "시장 영향은 제한적",
+    "affected": "편의점"
+   }
   },
   {
    "id": "4b54c46dea",
@@ -465,7 +500,12 @@
    "published_iso": "2026-11-26T06:13:01+09:00",
    "sort_key": 1795641181.0,
    "excerpt": "(서울=연합뉴스) 박수현 기자 = 국내 최대 가상자산 거래소인 업비트에서 해외 거래소 바이낸스로 최근 반년간 4천억원어치가 넘는 가상자산이 순유...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "업비트에서 바이낸스로 반년간 4천억 원 순유출 — 파생상품 수요",
+    "impact": "국내 거래소 자금 이탈",
+    "affected": "가상자산 거래소"
+   }
   },
   {
    "id": "cb296a4aa8",
@@ -478,7 +518,12 @@
    "published_iso": "2026-11-26T06:05:01+09:00",
    "sort_key": 1795640701.0,
    "excerpt": "(서울=연합뉴스) 유동현 기자 = 시험 부정행위에 활용된 인공지능(AI) 전자기기 판매와 관련된 가상자산 지갑에 약 28억원 규모의 스테이블코인...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "AI 시험 부정 장비 판매 관련 지갑에 28억 원 유입",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "1249883e63",
@@ -491,7 +536,12 @@
    "published_iso": "2026-11-26T06:00:17+09:00",
    "sort_key": 1795640417.0,
    "excerpt": "(세종=연합뉴스) 오진송 기자 = 국내외 주택·금융 전문가들이 지역 간 주거 격차를 완화하고 주택시장 안정을 도모하기 위한 금융 혁신 방안을 논...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "국제주택도시금융포럼, 지역 주거 격차 완화 논의",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "82149a66f6",
@@ -504,7 +554,12 @@
    "published_iso": "2026-11-26T06:00:05+09:00",
    "sort_key": 1795640405.0,
    "excerpt": "(서울=연합뉴스) 장하나 기자 = 국민 10명 중 8명꼴로 서비스산업을 경제 성장의 핵심 산업으로 인식하고는 있지만 일자리의 질과 경쟁력에 대한...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "국민 84% '서비스산업 중요' — 취업 선호는 제조업보다 낮아",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "11d818a1d1",
@@ -517,7 +572,12 @@
    "published_iso": "2026-11-26T06:00:01+09:00",
    "sort_key": 1795640401.0,
    "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울신용보증재단은 25일 여의도 KBIZ홀에서 열린 중소벤처기업부 주관 &apos;2026년 대한민국 규제혁신 대상&apos; ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "서울신용보증재단 대통령 표창",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "f0784a636c",
@@ -530,7 +590,12 @@
    "published_iso": "2026-11-26T05:00:00+09:00",
    "sort_key": 1795636800.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 당국, 대출 규정 적용 금액 기준 발표",
+    "impact": "시장 영향은 제한적",
+    "affected": "미국 금융"
+   }
   },
   {
    "id": "7486b0f513",
@@ -543,7 +608,12 @@
    "published_iso": "2026-11-26T05:00:00+09:00",
    "sort_key": 1795636800.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 당국, 소액 대출 감정평가 면제 기준 발표",
+    "impact": "시장 영향은 제한적",
+    "affected": "미국 금융"
+   }
   },
   {
    "id": "9f1f912485",
@@ -556,7 +626,12 @@
    "published_iso": "2026-11-26T04:34:40+09:00",
    "sort_key": 1795635280.0,
    "excerpt": "The view of the Himalayan country as ancient and immutable is being challenged by young Bhutanese who are opening restaurants and shops, and getting beyond “gross national happiness.” A traveler explores.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "2026년 부탄 여행기",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "20b847b4ed",
@@ -569,7 +644,12 @@
    "published_iso": "2026-11-26T02:53:34+09:00",
    "sort_key": 1795629214.0,
    "excerpt": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 파운드랜드 파산 — 1만 1천 명 일자리 위기",
+    "impact": "영국 소매 부실",
+    "affected": "영국 소매"
+   }
   },
   {
    "id": "8366bafb9d",
@@ -582,7 +662,12 @@
    "published_iso": "2026-11-26T02:48:09+09:00",
    "sort_key": 1795628889.0,
    "excerpt": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "AI 우려 커지며 미국 증시 추가 하락",
+    "impact": "기술주 약세 지속",
+    "affected": "미국 증시"
+   }
   },
   {
    "id": "b1f3c3dc97",
@@ -595,7 +680,12 @@
    "published_iso": "2026-11-26T02:30:00+09:00",
    "sort_key": 1795627800.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "스웨덴 중앙은행, 유로 결제 시스템 T2 합류 합의",
+    "impact": "시장 영향은 제한적",
+    "affected": "유럽 금융"
+   }
   },
   {
    "id": "092caf8271",
@@ -608,7 +698,12 @@
    "published_iso": "2026-11-26T02:08:03+09:00",
    "sort_key": 1795626483.0,
    "excerpt": "Kalshi traders have cut the odds of OpenAI confirming an IPO before June 2027, as AI stocks and related markets have weakened.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "예측시장, 오픈AI 상장 기대 시점을 2027년 뒤로 미뤄",
+    "impact": "AI 기업 상장 열기 식어",
+    "affected": "AI 관련주"
+   }
   },
   {
    "id": "6d865b89d7",
@@ -621,7 +716,12 @@
    "published_iso": "2026-11-26T01:51:52+09:00",
    "sort_key": 1795625512.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 10월 PCE 물가 3.8% 상승 — 12월 금리 인상에 힘 실려",
+    "impact": "앞 기사와 같은 내용",
+    "affected": "미국 금리"
+   }
   },
   {
    "id": "ece3be2c3d",
@@ -634,7 +734,12 @@
    "published_iso": "2026-11-26T01:43:21+09:00",
    "sort_key": 1795625001.0,
    "excerpt": "After two years of deregulation, congressional committees led by Democrats will shine the spotlight back on corporate America.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "민주당 의회 장악으로 기업 감시 강화",
+    "impact": "규제 강화 가능성",
+    "affected": "미국 기업"
+   }
   },
   {
    "id": "775d27b357",
@@ -649,7 +754,12 @@
    "excerpt": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "트럼프 계좌, 올해 엔비디아 주식 44번 거래 기록",
+    "impact": "이해충돌 논란",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "57742bad7d",
@@ -662,7 +772,12 @@
    "published_iso": "2026-11-26T01:28:22+09:00",
    "sort_key": 1795624102.0,
    "excerpt": "(서울=연합뉴스) 한혜원 기자 = 전국민주노동조합총연맹(민주노총) 차기 위원장 선거에서 과반 득표자가 나오지 않아 사상 첫 3선에 도전하는 양경...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "민주노총 위원장 선거 결선으로",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "d3257b4a1c",
@@ -675,7 +790,12 @@
    "published_iso": "2026-11-26T01:26:29+09:00",
    "sort_key": 1795623989.0,
    "excerpt": "(서울=연합뉴스) 신창용 기자 = 미국이 강제노동 관세에 이어 과잉생산 관세까지 부과하기로 했지만 한국에 적용되는 관세 상한은 기존 한미 합의대...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "역대급 대미 흑자에도 관세 상한 15% 유지 — 일단 안도",
+    "impact": "한국 수출 관세 부담 제한",
+    "affected": "수출기업"
+   }
   },
   {
    "id": "35460b7c3e",
@@ -688,7 +808,12 @@
    "published_iso": "2026-11-26T01:17:13+09:00",
    "sort_key": 1795623433.0,
    "excerpt": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "장난감 값까지 올라 — 미국인 연말 계획 줄여",
+    "impact": "미국 소비 위축 신호",
+    "affected": "미국 소매"
+   }
   },
   {
    "id": "99703aada1",
@@ -701,7 +826,12 @@
    "published_iso": "2026-11-26T01:06:45+09:00",
    "sort_key": 1795622805.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프가 젠슨 황 복귀를 원한 또 다른 이유",
+    "impact": "시장 영향은 제한적",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "7271974677",
@@ -714,7 +844,12 @@
    "published_iso": "2026-11-26T00:58:36+09:00",
    "sort_key": 1795622316.0,
    "excerpt": "The latest escalation came as the administration confronts continued legal obstacles and new scrutiny from an incoming Democratic-led Congress.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프 정부, 중국·EU 등에 새 관세 발표",
+    "impact": "앞 기사와 같은 내용",
+    "affected": "수출기업"
+   }
   },
   {
    "id": "8e1c50f857",
@@ -727,7 +862,12 @@
    "published_iso": "2026-11-26T00:43:56+09:00",
    "sort_key": 1795621436.0,
    "excerpt": "As the share price drops, it could act as a brake on Silicon Valley’s frenzied investing in younger companies.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "앤트로픽 주가 하락이 스타트업 투자에 제동 걸 수도",
+    "impact": "AI 스타트업 자금 조달 위축",
+    "affected": "AI 관련주"
+   }
   },
   {
    "id": "9a0d628d84",
@@ -740,7 +880,15 @@
    "published_iso": "2026-11-25T23:47:47+09:00",
    "sort_key": 1795618067.0,
    "excerpt": "Nvidia, Anthropic and other tech companies tumbled as investors also weighed developments in global trade and the path of interest rates.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "AI·관세·물가 걱정에 증시 매도 계속 — 엔비디아·앤트로픽 하락",
+    "impact": "미국 증시 약세 지속",
+    "affected": "미국 증시, 기술주",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "AI 거품·관세·물가 걱정이 겹쳐 미국 증시 매도가 이어짐 — 엔비디아 반등도 사그라듦"
+   }
   },
   {
    "id": "0c3830a640",
@@ -753,7 +901,12 @@
    "published_iso": "2026-11-25T23:21:56+09:00",
    "sort_key": 1795616516.0,
    "excerpt": "The Federal Reserve is widely expected to raise interest rates next month.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "또 높은 물가 지표 — 연준 다음 달 금리 인상 유력",
+    "impact": "미국 금리 인상 전망 강화",
+    "affected": "미국 금리, 달러"
+   }
   },
   {
    "id": "d525df0165",
@@ -766,7 +919,15 @@
    "published_iso": "2026-11-25T23:20:55+09:00",
    "sort_key": 1795616455.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 새 관세 발표 — 한국·일본 15% 유지, 중국은 최대 40%",
+    "impact": "중국 수출 타격, 한국은 상한 유지",
+    "affected": "수출기업, 중국",
+    "important": true,
+    "important_tag": "정책·무역",
+    "why_important": "미국이 새 관세를 발표 — 중국은 최대 40%, 한국·일본은 15% 상한 유지"
+   }
   },
   {
    "id": "4fc9c7b0e2",
@@ -779,7 +940,12 @@
    "published_iso": "2026-11-25T23:18:45+09:00",
    "sort_key": 1795616325.0,
    "excerpt": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "연준이 보는 물가 PCE 10월 3.8%로 가속",
+    "impact": "앞 기사와 같은 내용",
+    "affected": "미국 금리"
+   }
   },
   {
    "id": "77e5309372",
@@ -792,7 +958,12 @@
    "published_iso": "2026-11-25T23:14:26+09:00",
    "sort_key": 1795616066.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 과잉생산 관세 발표 예고 — 한국은 15% 상한 유지",
+    "impact": "앞 기사와 같은 내용",
+    "affected": "수출기업"
+   }
   },
   {
    "id": "1b34e01693",
@@ -805,7 +976,12 @@
    "published_iso": "2026-11-25T23:08:16+09:00",
    "sort_key": 1795615696.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "OSB저축은행 대표 연임 수순",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "865ee5fb51",
@@ -818,7 +994,15 @@
    "published_iso": "2026-11-25T22:44:18+09:00",
    "sort_key": 1795614258.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 10월 PCE 물가 3.8% 상승, 3분기 GDP 4.3% 성장",
+    "impact": "경기 강하고 물가 높아 금리 인상 압력",
+    "affected": "미국 금리, 달러",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "연준이 보는 물가(PCE)가 10월 3.8%로 올랐고 3분기 성장률은 4.3% — 경기는 강하고 물가는 높아 12월 금리 인상이 유력해짐"
+   }
   },
   {
    "id": "16e6e88584",
@@ -831,7 +1015,12 @@
    "published_iso": "2026-11-25T22:10:15+09:00",
    "sort_key": 1795612215.0,
    "excerpt": "(서울=연합뉴스) 배영경 김지연 기자 = 산업은행이 10조원대 규모의 증권시장안정펀드(증안펀드)에 참여하는 금융회사들을 대상으로 기존 약정금 집...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "10조 원대 증안펀드 확대되나 — 산은, 금융사 추가 출자 타진",
+    "impact": "증시 방어 자금 확대",
+    "affected": "코스피"
+   }
   },
   {
    "id": "9a6cce0417",
@@ -846,7 +1035,12 @@
    "excerpt": "Jensen Huang may be running Nvidia again, but investors are losing faith in the artificial intelligence boom the chipmaker has underpinned.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "엔비디아 반등이 식은 이유",
+    "impact": "기술주 투자심리 약화",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "e8fc69496a",
@@ -859,7 +1053,12 @@
    "published_iso": "2026-11-25T21:49:18+09:00",
    "sort_key": 1795610958.0,
    "excerpt": "(서울=연합뉴스) 옥성구 기자 = 직원 임금 1억9천여만원을 체불해놓고 미국으로 도피했다가 24년 만에 국내에 입국한 사업주가 구속됐다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "임금 체불하고 24년 미국 도피한 사업주 구속",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "093729f17c",
@@ -872,7 +1071,12 @@
    "published_iso": "2026-11-25T21:33:27+09:00",
    "sort_key": 1795610007.0,
    "excerpt": "(서울=연합뉴스) 오예진 고동욱 기자 = 이재명 대통령은 25일 서울 은평구의 공적주택 현장을 방문해 실제 품질과 여건을 살펴보고, 정책 관련자...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "2030년까지 수도권 아파트 182조 원 발주 — 50만 호 착공",
+    "impact": "건설 수주 확대",
+    "affected": "건설주"
+   }
   },
   {
    "id": "41209e3c7e",
@@ -887,7 +1091,12 @@
    "excerpt": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "엔비디아 급등락이 워시 의장의 시장 신호 읽기를 시험 (칼럼)",
+    "impact": "시장 영향은 제한적",
+    "affected": "미국 금리"
+   }
   },
   {
    "id": "840106c2f6",
@@ -900,7 +1109,12 @@
    "published_iso": "2026-11-25T21:20:16+09:00",
    "sort_key": 1795609216.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국, 중국 AI 칩 우회로 차단 — 동남아 데이터센터 고객 쟁탈전",
+    "impact": "동남아 데이터센터 수요 재편",
+    "affected": "데이터센터, 반도체"
+   }
   },
   {
    "id": "54d0978ef9",
@@ -913,7 +1127,12 @@
    "published_iso": "2026-11-25T21:02:34+09:00",
    "sort_key": 1795608154.0,
    "excerpt": "(서울=연합뉴스) 임기창 김동규 기자 = 오세훈 서울시장이 주택 공급 확대를 위해 정부에 정비사업 관련 규제 완화를 요구한 것을 두고 서울시와 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "서울시·국토부, 정비사업 규제완화 공방",
+    "impact": "시장 영향은 제한적",
+    "affected": "건설, 부동산"
+   }
   },
   {
    "id": "ebb3388618",
@@ -926,7 +1145,12 @@
    "published_iso": "2026-11-25T21:01:28+09:00",
    "sort_key": 1795608088.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "외국인 몰리는 K뷰티 명소",
+    "impact": "시장 영향은 제한적",
+    "affected": "화장품"
+   }
   },
   {
    "id": "9d58405368",
@@ -939,7 +1163,12 @@
    "published_iso": "2026-11-25T20:01:04+09:00",
    "sort_key": 1795604464.0,
    "excerpt": "See the full conversations, led by journalists from The Times, about the impact of the midterm elections, what to expect next in the A.I. revolution, how to make America healthier and the future of work and purpose.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "딜북 서밋 토론 영상",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "d78c35764e",
@@ -952,7 +1181,12 @@
    "published_iso": "2026-11-25T19:11:27+09:00",
    "sort_key": 1795601487.0,
    "excerpt": "(서울=연합뉴스) 고동욱 기자 = 이재명 대통령은 25일 서울 은평구의 &apos;공적주택&apos; 현장을 방문해 실제 품질과 여건을 살펴보고, 정책 관련자들과...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "LH '5년간 공적주택 50만 호 착공' — 대통령 '초과 달성하라'",
+    "impact": "건설 수요 확대",
+    "affected": "건설주"
+   }
   },
   {
    "id": "dc5f35b2e7",
@@ -965,7 +1199,12 @@
    "published_iso": "2026-11-25T19:06:44+09:00",
    "sort_key": 1795601204.0,
    "excerpt": "(서울=연합뉴스) 장하나 기자 = 내년 2월 임기 만료를 앞둔 류진 한국경제인협회 회장이 3연임 가능성을 시사했다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한경협 회장 연임 시사",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "d10141bb1d",
@@ -978,7 +1217,12 @@
    "published_iso": "2026-11-25T19:03:55+09:00",
    "sort_key": 1795601035.0,
    "excerpt": "With pop-up menus and widgets, your phone or tablet gives you quick ways to check information and get things done with less effort.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "앱을 더 빠르게 쓰는 방법",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "0774f534f2",
@@ -991,7 +1235,12 @@
    "published_iso": "2026-11-25T19:03:12+09:00",
    "sort_key": 1795600992.0,
    "excerpt": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "누구도 대체 불가능하지 않다 — 젠슨 황만 빼고 (칼럼)",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "9ca6d694b6",
@@ -1004,7 +1253,12 @@
    "published_iso": "2026-11-25T19:00:00+09:00",
    "sort_key": 1795600800.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "유로존 매장 결제에서 카드가 현금을 앞질러",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   }
  ],
  "news_groups": {
