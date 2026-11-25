@@ -401,7 +401,12 @@
    "published_iso": "2026-11-25T16:23:46+09:00",
    "sort_key": 1795591426.0,
    "excerpt": "(서울=연합뉴스) 강수지 기자 = 반도체주가 큰 폭으로 조정받으면서 최근 일주일간 상장지수펀드(ETF) 수익률 상위권을 인버스 상품이 휩쓸었다....",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "반도체주 급락에 인버스 ETF가 수익률 상위권 — 화장품도 강세",
+    "impact": "하락 베팅 상품 쏠림",
+    "affected": "인버스 ETF, 화장품"
+   }
   },
   {
    "id": "a9a655fede",
@@ -414,7 +419,12 @@
    "published_iso": "2026-11-25T16:14:48+09:00",
    "sort_key": 1795590888.0,
    "excerpt": "(서울=연합뉴스) 임은진 기자 = 젠슨 황 엔비디아 최고경영자(CEO) 복귀 소식에 전날 급등했던 주가가 하루 만에 6% 넘게 급락하며 상승분을...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "'젠슨 황 랠리' 하루 만에 끝 — 메모리 과잉·관세 우려로 투자심리 냉각",
+    "impact": "반도체 업황 의구심 확산",
+    "affected": "반도체주"
+   }
   },
   {
    "id": "910682a727",
@@ -427,7 +437,15 @@
    "published_iso": "2026-11-25T16:11:22+09:00",
    "sort_key": 1795590682.0,
    "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 코스피가 25일 6% 넘게 급락해 4,600대로 밀려났다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "코스피 6%대 급락해 4,697 — 전날 급등분 모두 반납",
+    "impact": "극심한 변동성 — 투자심리 불안",
+    "affected": "코스피",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "코스피가 하루 만에 6% 넘게 떨어져 전날 급등분을 모두 반납 — 삼성전자·SK하이닉스 9~11% 급락, 메모리 과잉·관세 우려"
+   }
   },
   {
    "id": "89ca10df97",
@@ -440,7 +458,12 @@
    "published_iso": "2026-11-25T16:10:40+09:00",
    "sort_key": 1795590640.0,
    "excerpt": "(인천=연합뉴스) 홍현기 기자 = 올해 인천경제자유구역 외국인직접투자(FDI) 신고 실적이 지난해의 절반 수준에도 못 미치는 것으로 나타났다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "인천경제자유구역 올해 외국인투자 작년의 절반 수준",
+    "impact": "시장 영향은 제한적",
+    "affected": "인천 지역"
+   }
   },
   {
    "id": "4527bd1b96",
@@ -453,7 +476,12 @@
    "published_iso": "2026-11-25T16:05:32+09:00",
    "sort_key": 1795590332.0,
    "excerpt": "(서울=연합뉴스) 김유아 기자 = 한국거래소는 25일 서울 여의도 사옥에서 상장사 이사들을 대상으로 기업 밸류업 설명회를 개최했다고 밝혔다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한국거래소, 상장사 이사 대상 밸류업 설명회",
+    "impact": "시장 영향은 제한적",
+    "affected": "상장사"
+   }
   },
   {
    "id": "b5d2204e32",
@@ -466,7 +494,12 @@
    "published_iso": "2026-11-25T16:03:45+09:00",
    "sort_key": 1795590225.0,
    "excerpt": "(서울=연합뉴스) 김유향 임은진 기자 = 미국 증시에서 AI 기술주가 하락한 영향에 25일 국내 증시에서도 반도체주가 급락했다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "삼성전자·SK하이닉스 9~11% 급락 — 삼성전자 시총 1천조 원 아래로",
+    "impact": "앞 기사와 같은 흐름",
+    "affected": "삼성전자, SK하이닉스"
+   }
   },
   {
    "id": "0a194c7b2e",
@@ -479,7 +512,12 @@
    "published_iso": "2026-11-25T16:00:03+09:00",
    "sort_key": 1795590003.0,
    "excerpt": "(서울=연합뉴스) 김지연 기자 = &quot;제가 요즘 주목하는 종목은 야자수반도체입니다.&quot;",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "금감원장 종목 추천 가짜 영상 주의",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "12a1c7bbb4",
@@ -492,7 +530,12 @@
    "published_iso": "2026-11-25T16:00:02+09:00",
    "sort_key": 1795590002.0,
    "excerpt": "(김해=연합뉴스) 김동민 기자 = 경남 김해시는 올해 처음 추진한 지산학 협력사업 &apos;2026 김해 글로컬 스타트업 브리지&apos;를 통해 115억원 규...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "김해 스타트업, 미국서 115억 원 구매계약",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "594ca7efe4",
@@ -505,7 +548,12 @@
    "published_iso": "2026-11-25T13:45:45+09:00",
    "sort_key": 1795581945.0,
    "excerpt": "(서울=연합뉴스) 이도흔 기자 = KB국민은행은 판매 금액에 따라 차등금리를 제공하는 정기예금 상품 &apos;2026-2차 공동구매 정기예금&apos;을 출시했...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "KB국민은행 공동구매 정기예금 최고 연 3.9%",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "03b25ae7f2",
@@ -518,7 +566,12 @@
    "published_iso": "2026-11-25T13:45:18+09:00",
    "sort_key": 1795581918.0,
    "excerpt": "(서울=연합뉴스) 이대호 기자 = 대한역도연맹은 24일 서울 을지로 IBK기업은행 본점에서 IBK기업은행, 대한레슬링협회와 역도·레슬링 종목 공...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "역도·레슬링, IBK기업은행과 후원 협약",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "23d5e10b3f",
@@ -531,7 +584,12 @@
    "published_iso": "2026-11-25T13:45:09+09:00",
    "sort_key": 1795581909.0,
    "excerpt": "(양주=연합뉴스) 노승혁 기자 = 경기 양주시는 25∼27일 산북동 샘내마을 도시재생사업을 통해 변화한 마을의 모습과 지난 4년간의 주요 성과를...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "양주시 도시재생 성과공유회",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "217c665718",
@@ -544,7 +602,12 @@
    "published_iso": "2026-11-25T13:43:53+09:00",
    "sort_key": 1795581833.0,
    "excerpt": "(서울=연합뉴스) 이상서 기자 = 송치영 소상공인연합회장은 25일 소상공인 811만명의 생존권 사수를 위해 정부의 노동관계법 개정 추진을 중단하...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "소상공인연합회 '줄폐업 위기 — 노동법 개정 중단해야'",
+    "impact": "시장 영향은 제한적",
+    "affected": "자영업"
+   }
   },
   {
    "id": "6b24ee6126",
@@ -557,7 +620,12 @@
    "published_iso": "2026-11-25T13:43:12+09:00",
    "sort_key": 1795581792.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "프리미엄 고성능차 시장 1위 굳힌 수입차",
+    "impact": "시장 영향은 제한적",
+    "affected": "수입차"
+   }
   },
   {
    "id": "ccc8544f1c",
@@ -570,7 +638,12 @@
    "published_iso": "2026-11-25T13:42:44+09:00",
    "sort_key": 1795581764.0,
    "excerpt": "(세종=연합뉴스) 신창용 기자 = 국내 중견기업의 올해 3분기 수출이 반도체 호조에 힘입어 2개 분기 연속 역대 최고치를 경신했다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중견기업 3분기 수출 368억 달러 — 2개 분기 연속 최고",
+    "impact": "수출 호조 지속",
+    "affected": "수출기업"
+   }
   },
   {
    "id": "a46aa5f71b",
@@ -583,7 +656,12 @@
    "published_iso": "2026-11-25T13:36:41+09:00",
    "sort_key": 1795581401.0,
    "excerpt": "(서울=연합뉴스) 이도흔 기자 = 카카오뱅크[323410]는 66억원 규모의 자사주 소각을 결정했다고 25일 밝혔다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "카카오뱅크 66억 원 규모 자사주 소각",
+    "impact": "주주환원",
+    "affected": "카카오뱅크"
+   }
   },
   {
    "id": "a2c14952ed",
@@ -596,7 +674,12 @@
    "published_iso": "2026-11-25T13:36:24+09:00",
    "sort_key": 1795581384.0,
    "excerpt": "(서울=연합뉴스) 구정모 기자 = 박재호 중소벤처기업진흥공단 신임 이사장은 25일 중소·벤처기업에 특화된 해외 진출 지원 거점의 독자적 기능을 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중진공 신임 이사장 '해외 지원 거점 지키겠다'",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "b301d20a20",
@@ -609,7 +692,12 @@
    "published_iso": "2026-11-25T13:36:13+09:00",
    "sort_key": 1795581373.0,
    "excerpt": "▲ KB국민은행은 24일부터 25일까지 한국무역협회가 개최한 해외 바이어 초청 수출상담회 &apos;코리아 그랜드 소싱페어&apos;에 참여해 국내 수출기업을 위...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "KB국민은행, 무역협회와 수출기업 금융지원",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "f0137dc215",
@@ -622,7 +710,12 @@
    "published_iso": "2026-11-25T13:30:03+09:00",
    "sort_key": 1795581003.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "벼랑 끝 사장님들이 분노한 이유",
+    "impact": "시장 영향은 제한적",
+    "affected": "자영업"
+   }
   },
   {
    "id": "e45f9494aa",
@@ -635,7 +728,12 @@
    "published_iso": "2026-11-25T13:19:16+09:00",
    "sort_key": 1795580356.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "코리아 핀테크 위크 2026 개막",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "66a2199eae",
@@ -648,7 +746,12 @@
    "published_iso": "2026-11-25T13:18:12+09:00",
    "sort_key": 1795580292.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "홀인원보험 5년 새 9배 증가 (단독)",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "3a20715f32",
@@ -661,7 +764,12 @@
    "published_iso": "2026-11-25T13:13:25+09:00",
    "sort_key": 1795580005.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "정년 연장 대신 재고용 택하는 기업들",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "2efc868044",
@@ -674,7 +782,12 @@
    "published_iso": "2026-11-25T13:06:01+09:00",
    "sort_key": 1795579561.0,
    "excerpt": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "IMF 전망 상향에 UAE '내년 7~8% 성장 자신'",
+    "impact": "중동 경제 견조",
+    "affected": "중동"
+   }
   },
   {
    "id": "5c5b6fc414",
@@ -687,7 +800,12 @@
    "published_iso": "2026-11-25T13:00:11+09:00",
    "sort_key": 1795579211.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중국 빅테크, AI 다음은 신약 — 바이오 경쟁",
+    "impact": "시장 영향은 제한적",
+    "affected": "바이오"
+   }
   },
   {
    "id": "ee09ba887d",
@@ -700,7 +818,12 @@
    "published_iso": "2026-11-25T13:00:07+09:00",
    "sort_key": 1795579207.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "마르디 메크르디, 중국 현지 생산·판매로 전환 (단독)",
+    "impact": "시장 영향은 제한적",
+    "affected": "의류"
+   }
   },
   {
    "id": "c7483526f4",
@@ -713,7 +836,12 @@
    "published_iso": "2026-11-25T12:56:01+09:00",
    "sort_key": 1795578961.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미래에셋생명 건강보험 신계약 이익 2년 만에 두 배",
+    "impact": "시장 영향은 제한적",
+    "affected": "미래에셋생명"
+   }
   },
   {
    "id": "1683344d8c",
@@ -726,7 +854,12 @@
    "published_iso": "2026-11-25T12:52:08+09:00",
    "sort_key": 1795578728.0,
    "excerpt": "Mrs. Ford, who took over the team after the 2014 death of her husband, William Clay Ford Sr., was one of a handful of female owners in the N.F.L.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "디트로이트 라이언스 구단주 별세",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "9470763ef7",
@@ -739,7 +872,12 @@
    "published_iso": "2026-11-25T10:24:19+09:00",
    "sort_key": 1795569859.0,
    "excerpt": "Experts said problems of cost, trust and dysfunction had reached crisis levels, but voters could be the impetus to force change.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "딜북 서밋 — 의료 시스템 개혁 필요",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "dd9641ab20",
@@ -754,7 +892,12 @@
    "excerpt": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "젠슨 황 복귀가 보여준 미중 AI 경쟁",
+    "impact": "시장 영향은 제한적",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "7b396d8d47",
@@ -769,7 +912,12 @@
    "excerpt": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "트럼프, 젠슨 황 구출로 정치 운명을 엔비디아에 묶어",
+    "impact": "시장 영향은 제한적",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "7940036035",
@@ -782,7 +930,12 @@
    "published_iso": "2026-11-25T09:38:01+09:00",
    "sort_key": 1795567081.0,
    "excerpt": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국, 주요 교역국 대상 새 관세 계획 발표 준비",
+    "impact": "아침에 고른 '과잉생산 관세'와 같은 흐름",
+    "affected": "수출기업"
+   }
   },
   {
    "id": "d55d4faa02",
@@ -795,7 +948,12 @@
    "published_iso": "2026-11-25T09:34:05+09:00",
    "sort_key": 1795566845.0,
    "excerpt": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "유럽에서 초소형차 인기",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "604b9172ef",
@@ -808,7 +966,12 @@
    "published_iso": "2026-11-25T09:33:25+09:00",
    "sort_key": 1795566805.0,
    "excerpt": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 에너지 요금 상한 변경이 가계에 미칠 영향",
+    "impact": "영국 가계 부담",
+    "affected": "영국 에너지"
+   }
   },
   {
    "id": "2917d94631",
@@ -821,7 +984,12 @@
    "published_iso": "2026-11-25T09:30:52+09:00",
    "sort_key": 1795566652.0,
    "excerpt": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 가정의 에너지 요금 절약법",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "2f68837013",
@@ -834,7 +1002,12 @@
    "published_iso": "2026-11-25T09:29:58+09:00",
    "sort_key": 1795566598.0,
    "excerpt": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 1월 가스요금 크게 오를 예정",
+    "impact": "영국 물가 부담",
+    "affected": "영국 에너지"
+   }
   },
   {
    "id": "dbf07599b5",
@@ -847,7 +1020,12 @@
    "published_iso": "2026-11-25T08:03:18+09:00",
    "sort_key": 1795561398.0,
    "excerpt": "At the summit marking DealBook’s 25th year, business leaders explored the dangers of mistrust in turbulent times.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "딜북 서밋 — 혼란한 세상에서 실용주의의 대가",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "91dd383395",
@@ -860,7 +1038,12 @@
    "published_iso": "2026-11-25T08:01:20+09:00",
    "sort_key": 1795561280.0,
    "excerpt": "While young people are facing daunting challenges in the labor market, there are ways to improve the chance of landing a good job.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "딜북 서밋 — AI 시대 청년 일자리",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "dc28bbcffc",
@@ -873,7 +1056,12 @@
    "published_iso": "2026-11-25T08:00:25+09:00",
    "sort_key": 1795561225.0,
    "excerpt": "Are the Democrats’ gains in the midterm elections lasting? Or just another swing of the political pendulum?",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "딜북 서밋 — 중간선거 이후 정치 판세",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "d10c95b32f",
@@ -886,7 +1074,12 @@
    "published_iso": "2026-11-25T07:59:27+09:00",
    "sort_key": 1795561167.0,
    "excerpt": "A panel of experts said protections on artificial intelligence could be adopted without stifling the technology’s development.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "딜북 서밋 — AI 규제는 하되 멈추지는 말아야",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "b1795bf437",
@@ -899,7 +1092,12 @@
    "published_iso": "2026-11-25T07:57:53+09:00",
    "sort_key": 1795561073.0,
    "excerpt": "Leaders from a range of disciplines who led talks at the summit about global issues responded to questions in advance. Their answers have been lightly edited.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "딜북 서밋 — 각 분야 선구자들의 생각",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "f63416909d",
@@ -912,7 +1110,12 @@
    "published_iso": "2026-11-25T07:56:21+09:00",
    "sort_key": 1795560981.0,
    "excerpt": "These photographs are drawn from events since DealBook began publishing that have left an indelible mark on business, policy and culture. We’re still feeling their ripples today.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "딜북 25년 사진 모음",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "ad056cd737",
