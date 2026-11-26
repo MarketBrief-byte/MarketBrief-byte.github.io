@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "generated_at": "2026-11-26 07:26",
+ "generated_at": "2026-11-26 13:06",
  "weekday": "목",
  "site": {
   "title": "오늘의 경제 한 장",
@@ -17,13 +17,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 4697.51,
-   "prev_close": 5067.44,
-   "change": -369.93,
-   "change_pct": -7.3,
+   "price": 4768.46,
+   "prev_close": 5137.89,
+   "change": -369.43,
+   "change_pct": -7.19,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1795604740,
+   "asof_epoch": 1795664810,
    "asof_date": null
   },
   {
@@ -33,13 +33,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 650.64,
-   "prev_close": 662.81,
-   "change": -12.17,
-   "change_pct": -1.84,
+   "price": 663.86,
+   "prev_close": 684.81,
+   "change": -20.95,
+   "change_pct": -3.06,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1795604740,
+   "asof_epoch": 1795664810,
    "asof_date": null
   },
   {
@@ -81,13 +81,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 1343.19,
-   "prev_close": 1330.4,
-   "change": 12.79,
-   "change_pct": 0.96,
+   "price": 1342.58,
+   "prev_close": 1334.79,
+   "change": 7.79,
+   "change_pct": 0.58,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1795645432,
+   "asof_epoch": 1795666018,
    "asof_date": null
   },
   {
@@ -113,13 +113,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 84.15,
+   "price": 84.33,
    "prev_close": 83.98,
-   "change": 0.17,
-   "change_pct": 0.2,
+   "change": 0.35,
+   "change_pct": 0.42,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1795643998,
+   "asof_epoch": 1795665409,
    "asof_date": null
   },
   {
@@ -129,13 +129,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 3617.8,
+   "price": 3602.6,
    "prev_close": 3515.4,
-   "change": 102.4,
-   "change_pct": 2.91,
+   "change": 87.2,
+   "change_pct": 2.48,
    "currency": "USD",
    "source": "yahoo",
-   "asof_epoch": 1795643997,
+   "asof_epoch": 1795665416,
    "asof_date": null
   }
  ],
@@ -151,13 +151,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 170700.0,
-   "prev_close": 194700.0,
-   "change": -24000.0,
-   "change_pct": -12.33,
+   "price": 173900.0,
+   "prev_close": 196900.0,
+   "change": -23000.0,
+   "change_pct": -11.68,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1795588210,
+   "asof_epoch": 1795664818,
    "asof_date": null,
    "news": []
   },
@@ -173,13 +173,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 1030000.0,
-   "prev_close": 1144000.0,
-   "change": -114000.0,
-   "change_pct": -9.97,
+   "price": 1070000.0,
+   "prev_close": 1183000.0,
+   "change": -113000.0,
+   "change_pct": -9.55,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1795588202,
+   "asof_epoch": 1795664817,
    "asof_date": null,
    "news": []
   },
@@ -194,13 +194,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 269500.0,
-   "prev_close": 267000.0,
-   "change": 2500.0,
-   "change_pct": 0.94,
+   "price": 261500.0,
+   "prev_close": 267500.0,
+   "change": -6000.0,
+   "change_pct": -2.24,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1795588222,
+   "asof_epoch": 1795664816,
    "asof_date": null,
    "news": []
   },
@@ -216,13 +216,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 308500.0,
-   "prev_close": 305000.0,
-   "change": 3500.0,
-   "change_pct": 1.15,
+   "price": 304500.0,
+   "prev_close": 302000.0,
+   "change": 2500.0,
+   "change_pct": 0.83,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1795588204,
+   "asof_epoch": 1795664817,
    "asof_date": null,
    "news": []
   },
@@ -236,13 +236,13 @@
    ],
    "ok": true,
    "attempts": [],
-   "price": 159000.0,
-   "prev_close": 170300.0,
-   "change": -11300.0,
-   "change_pct": -6.64,
+   "price": 159800.0,
+   "prev_close": 168300.0,
+   "change": -8500.0,
+   "change_pct": -5.05,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1795588228,
+   "asof_epoch": 1795664819,
    "asof_date": null,
    "news": []
   },
@@ -266,6 +266,13 @@
    "asof_epoch": 1795640401,
    "asof_date": null,
    "news": [
+    {
+     "id": "7cde5943a4",
+     "title": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.",
+     "url": "https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html",
+     "source": "NYT Business",
+     "published_kst": "11/26 10:53"
+    },
     {
      "id": "4e0a3c12c4",
      "title": "A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records",
@@ -361,6 +368,346 @@
   }
  ],
  "news": [
+  {
+   "id": "25bb18290e",
+   "title": "개인투자용 국채 12월 발행 미실시",
+   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000080049",
+   "source": "재정경제부 보도자료",
+   "group": "국내 정책당국",
+   "lang": "ko",
+   "published_kst": "11/26 19:00",
+   "published_iso": "2026-11-26T19:00:00+09:00",
+   "sort_key": 1795687200.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "1cd322bb30",
+   "title": "통화정책방향 기자간담회 하는 한국은행 총재",
+   "url": "https://www.hankyung.com/article/202611262079i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 12:47",
+   "published_iso": "2026-11-26T12:47:40+09:00",
+   "sort_key": 1795664860.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "85743a45b1",
+   "title": "[포토] 의사봉 두드리는 신현송 한국은행 총재",
+   "url": "https://www.hankyung.com/article/202611262076i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 12:45",
+   "published_iso": "2026-11-26T12:45:06+09:00",
+   "sort_key": 1795664706.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "5a7f93d429",
+   "title": "은행·증권사, 가상자산 보관업 진출 쉬워진다…현물 ETF 기반도 마련 [디지털자산법 대해부②]",
+   "url": "https://www.hankyung.com/article/202611260728i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 12:29",
+   "published_iso": "2026-11-26T12:29:48+09:00",
+   "sort_key": 1795663788.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "f8cda85b65",
+   "title": "[단독] 자기자본 1000억 규제 땐 코인원·디지털엑스 인가 '비상' [디지털자산법 대해부①]",
+   "url": "https://www.hankyung.com/article/202611261838i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 12:22",
+   "published_iso": "2026-11-26T12:22:08+09:00",
+   "sort_key": 1795663328.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "c6deceb334",
+   "title": "한은 총재 \"반도체 시총 2천조, 수익 3배밖에 안돼…설명 불가\"",
+   "url": "https://www.yna.co.kr/view/AKR20261126102000002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 12:18",
+   "published_iso": "2026-11-26T12:18:18+09:00",
+   "sort_key": 1795663098.0,
+   "excerpt": "(서울=연합뉴스) 채새롬 이도흔 기자 = 신현송 한국은행 총재는 &quot;반도체 기업의 올해 영업이익이 700조원인데 시총이 2천조로 수익의 3배밖에 ...",
+   "matched": []
+  },
+  {
+   "id": "eb3f428b5f",
+   "title": "춘천시 카자흐스탄 방문해 태권도 교류·체육시설 벤치마킹",
+   "url": "https://www.yna.co.kr/view/AKR20261126093000062",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 12:15",
+   "published_iso": "2026-11-26T12:15:03+09:00",
+   "sort_key": 1795662903.0,
+   "excerpt": "(춘천=연합뉴스) 이상학 기자 = 강원 춘천시가 태권도 국제교류 확대와 대형 체육시설 벤치마킹을 위해 카자흐스탄을 방문한다.",
+   "matched": []
+  },
+  {
+   "id": "527a3b0b4c",
+   "title": "한은 총재 \"잠재성장률 추정치 높이는 방향…내달 발표\"",
+   "url": "https://www.yna.co.kr/view/AKR20261126100700002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 12:04",
+   "published_iso": "2026-11-26T12:04:29+09:00",
+   "sort_key": 1795662269.0,
+   "excerpt": "(서울=연합뉴스) 채새롬 이도흔 기자 = 신현송 한국은행 총재는 잠재성장률을 현재 통화정책 기준으로 삼기는 어렵다며 추정치를 높이는 방향을 내년...",
+   "matched": []
+  },
+  {
+   "id": "92f44d3dd9",
+   "title": "올해 수도권 소형 아파트 7% 상승…중대형 오름폭 웃돌아",
+   "url": "https://www.yna.co.kr/view/AKR20261126099900003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 12:00",
+   "published_iso": "2026-11-26T12:00:47+09:00",
+   "sort_key": 1795662047.0,
+   "excerpt": "(서울=연합뉴스) 오예진 기자 = 올해 1∼10월 수도권 아파트 시장에서 전용면적 60㎡ 이하 소형의 상승률이 중대형 상승률을 웃돈 것으로 나타...",
+   "matched": []
+  },
+  {
+   "id": "98c6b9ac16",
+   "title": "물가에 가계 실질소비 '제자리'…쓸 돈 13분기 만에 줄었다",
+   "url": "https://www.yna.co.kr/view/AKR20261126077400002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 12:00",
+   "published_iso": "2026-11-26T12:00:15+09:00",
+   "sort_key": 1795662015.0,
+   "excerpt": "(세종=연합뉴스) 이대희 송정은 기자 = 올해 3분기 가계 소비지출이 23분기 연속 증가했지만 물가 상승 영향을 제외한 실질 소비지출은 1년 전...",
+   "matched": []
+  },
+  {
+   "id": "1faa6ebf39",
+   "title": "동물실험 대체·암환자 심리지원…공공데이터·AI 활용대회 대상",
+   "url": "https://www.yna.co.kr/view/AKR20261126025600530",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 12:00",
+   "published_iso": "2026-11-26T12:00:13+09:00",
+   "sort_key": 1795662013.0,
+   "excerpt": "(서울=연합뉴스) 양정우 기자 = 인공지능(AI)을 활용해 동물실험을 대체·보완할 수 있는 안전성 평가 플랫폼과 암 생존자의 재발 불안을 예측해...",
+   "matched": []
+  },
+  {
+   "id": "6e86076247",
+   "title": "내달 노동감독 지방 위임…서울 경비업·경기 식품제조 중점감독",
+   "url": "https://www.yna.co.kr/view/AKR20261126040800530",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 12:00",
+   "published_iso": "2026-11-26T12:00:11+09:00",
+   "sort_key": 1795662011.0,
+   "excerpt": "(서울=연합뉴스) 한혜원 기자 = 고용노동부는 다음 달 8일부터 노동감독관 직무집행법이 시행돼 서울, 전남광주, 경기, 경남, 제주 등 지방정부...",
+   "matched": []
+  },
+  {
+   "id": "69d97a23b4",
+   "title": "내년 노인일자리 역대 최대 118만개…내일부터 참여자 모집",
+   "url": "https://www.yna.co.kr/view/AKR20261126033200530",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 12:00",
+   "published_iso": "2026-11-26T12:00:11+09:00",
+   "sort_key": 1795662011.0,
+   "excerpt": "(서울=연합뉴스) 김영신 기자 = 정부가 내년 역대 최대 규모인 118만개의 노인일자리를 제공하기로 하고 27일부터 다음 달 24일까지 참여자를...",
+   "matched": []
+  },
+  {
+   "id": "bcb3dd5099",
+   "title": "“보험 가입 안 해도 OK”…미래에셋생명, AI 건강관리 앱 '눈길'",
+   "url": "https://www.hankyung.com/article/202611259593i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 12:00",
+   "published_iso": "2026-11-26T12:00:03+09:00",
+   "sort_key": 1795662003.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "ed887ff308",
+   "title": "[속보] 한은 총재 \"반도체 시총 2000조, 수익 3배밖에 안돼…설명 불가\"",
+   "url": "https://www.hankyung.com/article/2026112620127",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 11:57",
+   "published_iso": "2026-11-26T11:57:24+09:00",
+   "sort_key": 1795661844.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "40c1414fb4",
+   "title": "[속보] 한은 총재 \"잠재성장률 추정치 높이는 방향…내달 발표\"",
+   "url": "https://www.hankyung.com/article/2026112619937",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 11:50",
+   "published_iso": "2026-11-26T11:50:06+09:00",
+   "sort_key": 1795661406.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "e64cdc990e",
+   "title": "[속보] 한은 총재 \"취약차주, 재정 동반한 금융정책으로 대응 적합\"",
+   "url": "https://www.hankyung.com/article/2026112619707",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/26 11:43",
+   "published_iso": "2026-11-26T11:43:55+09:00",
+   "sort_key": 1795661035.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "b69c72f7a3",
+   "title": "UK government set to publish new treaties agreed with EU",
+   "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/26 11:13",
+   "published_iso": "2026-11-26T11:13:00+09:00",
+   "sort_key": 1795659180.0,
+   "excerpt": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+   "matched": []
+  },
+  {
+   "id": "b54d1d2bde",
+   "title": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses",
+   "url": "https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/26 11:01",
+   "published_iso": "2026-11-26T11:01:20+09:00",
+   "sort_key": 1795658480.0,
+   "excerpt": "A preliminary injunction halted an early regulatory review of the network’s operations in eight cities, including New York, Los Angeles and Chicago.",
+   "matched": []
+  },
+  {
+   "id": "7cde5943a4",
+   "title": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.",
+   "url": "https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/26 10:53",
+   "published_iso": "2026-11-26T10:53:20+09:00",
+   "sort_key": 1795658000.0,
+   "excerpt": "The retreat of the stock market in recent days shows how President Trump’s push to reinstall the company’s chief executive has collided with the realities of his other policies.",
+   "matched": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "5bfa4d5f1d",
+   "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+   "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+   "source": "CNBC Finance",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/26 10:34",
+   "published_iso": "2026-11-26T10:34:58+09:00",
+   "sort_key": 1795656898.0,
+   "excerpt": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
+   "matched": []
+  },
+  {
+   "id": "27217ba350",
+   "title": "US approves SpaceX plan to send a million data satellites to space",
+   "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/26 09:07",
+   "published_iso": "2026-11-26T09:07:51+09:00",
+   "sort_key": 1795651671.0,
+   "excerpt": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+   "matched": []
+  },
+  {
+   "id": "b87f2b7bfb",
+   "title": "Guitar wars - the transatlantic battle over the Stratocaster",
+   "url": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/26 09:01",
+   "published_iso": "2026-11-26T09:01:37+09:00",
+   "sort_key": 1795651297.0,
+   "excerpt": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
+   "matched": []
+  },
+  {
+   "id": "5d90c9f6ab",
+   "title": "[보도참고] 2026년 3/4분기 가계동향조사 결과",
+   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000080050",
+   "source": "재정경제부 보도자료",
+   "group": "국내 정책당국",
+   "lang": "ko",
+   "published_kst": "11/26 09:00",
+   "published_iso": "2026-11-26T09:00:00+09:00",
+   "sort_key": 1795651200.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "36285694c5",
+   "title": "권대영 1차관, 「월급방위대 TF」 2차 회의 개최",
+   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000080055",
+   "source": "재정경제부 보도자료",
+   "group": "국내 정책당국",
+   "lang": "ko",
+   "published_kst": "11/26 09:00",
+   "published_iso": "2026-11-26T09:00:00+09:00",
+   "sort_key": 1795651200.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "508ee12685",
+   "title": "AI시대, 전략산업의 미래를 위한 정책과제 제안",
+   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000080058",
+   "source": "재정경제부 보도자료",
+   "group": "국내 정책당국",
+   "lang": "ko",
+   "published_kst": "11/26 09:00",
+   "published_iso": "2026-11-26T09:00:00+09:00",
+   "sort_key": 1795651200.0,
+   "excerpt": "",
+   "matched": []
+  },
   {
    "id": "dacd2ab1df",
    "title": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
@@ -1153,6 +1500,19 @@
    }
   },
   {
+   "id": "e642eaae7a",
+   "title": "이형일 부총리, 임금체계 개편 우수기업 방문",
+   "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000080064",
+   "source": "재정경제부 보도자료",
+   "group": "국내 정책당국",
+   "lang": "ko",
+   "published_kst": "11/25 20:16",
+   "published_iso": "2026-11-25T20:16:35+09:00",
+   "sort_key": 1795605395.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
    "id": "9d58405368",
    "title": "Watch the Task Force Panel Discussions From the DealBook Summit",
    "url": "https://www.nytimes.com/2026/11/25/business/dealbook/watch-task-force-dealbook-summit.html",
@@ -1262,7 +1622,802 @@
   }
  ],
  "news_groups": {
+  "국내 정책당국": [
+   {
+    "id": "25bb18290e",
+    "title": "개인투자용 국채 12월 발행 미실시",
+    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000080049",
+    "source": "재정경제부 보도자료",
+    "group": "국내 정책당국",
+    "lang": "ko",
+    "published_kst": "11/26 19:00",
+    "published_iso": "2026-11-26T19:00:00+09:00",
+    "sort_key": 1795687200.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "5d90c9f6ab",
+    "title": "[보도참고] 2026년 3/4분기 가계동향조사 결과",
+    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000080050",
+    "source": "재정경제부 보도자료",
+    "group": "국내 정책당국",
+    "lang": "ko",
+    "published_kst": "11/26 09:00",
+    "published_iso": "2026-11-26T09:00:00+09:00",
+    "sort_key": 1795651200.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "36285694c5",
+    "title": "권대영 1차관, 「월급방위대 TF」 2차 회의 개최",
+    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000080055",
+    "source": "재정경제부 보도자료",
+    "group": "국내 정책당국",
+    "lang": "ko",
+    "published_kst": "11/26 09:00",
+    "published_iso": "2026-11-26T09:00:00+09:00",
+    "sort_key": 1795651200.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "508ee12685",
+    "title": "AI시대, 전략산업의 미래를 위한 정책과제 제안",
+    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000080058",
+    "source": "재정경제부 보도자료",
+    "group": "국내 정책당국",
+    "lang": "ko",
+    "published_kst": "11/26 09:00",
+    "published_iso": "2026-11-26T09:00:00+09:00",
+    "sort_key": 1795651200.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "e642eaae7a",
+    "title": "이형일 부총리, 임금체계 개편 우수기업 방문",
+    "url": "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000080064",
+    "source": "재정경제부 보도자료",
+    "group": "국내 정책당국",
+    "lang": "ko",
+    "published_kst": "11/25 20:16",
+    "published_iso": "2026-11-25T20:16:35+09:00",
+    "sort_key": 1795605395.0,
+    "excerpt": "",
+    "matched": []
+   }
+  ],
+  "국내 경제언론": [
+   {
+    "id": "1cd322bb30",
+    "title": "통화정책방향 기자간담회 하는 한국은행 총재",
+    "url": "https://www.hankyung.com/article/202611262079i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 12:47",
+    "published_iso": "2026-11-26T12:47:40+09:00",
+    "sort_key": 1795664860.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "85743a45b1",
+    "title": "[포토] 의사봉 두드리는 신현송 한국은행 총재",
+    "url": "https://www.hankyung.com/article/202611262076i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 12:45",
+    "published_iso": "2026-11-26T12:45:06+09:00",
+    "sort_key": 1795664706.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "5a7f93d429",
+    "title": "은행·증권사, 가상자산 보관업 진출 쉬워진다…현물 ETF 기반도 마련 [디지털자산법 대해부②]",
+    "url": "https://www.hankyung.com/article/202611260728i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 12:29",
+    "published_iso": "2026-11-26T12:29:48+09:00",
+    "sort_key": 1795663788.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "f8cda85b65",
+    "title": "[단독] 자기자본 1000억 규제 땐 코인원·디지털엑스 인가 '비상' [디지털자산법 대해부①]",
+    "url": "https://www.hankyung.com/article/202611261838i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 12:22",
+    "published_iso": "2026-11-26T12:22:08+09:00",
+    "sort_key": 1795663328.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "c6deceb334",
+    "title": "한은 총재 \"반도체 시총 2천조, 수익 3배밖에 안돼…설명 불가\"",
+    "url": "https://www.yna.co.kr/view/AKR20261126102000002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 12:18",
+    "published_iso": "2026-11-26T12:18:18+09:00",
+    "sort_key": 1795663098.0,
+    "excerpt": "(서울=연합뉴스) 채새롬 이도흔 기자 = 신현송 한국은행 총재는 &quot;반도체 기업의 올해 영업이익이 700조원인데 시총이 2천조로 수익의 3배밖에 ...",
+    "matched": []
+   },
+   {
+    "id": "eb3f428b5f",
+    "title": "춘천시 카자흐스탄 방문해 태권도 교류·체육시설 벤치마킹",
+    "url": "https://www.yna.co.kr/view/AKR20261126093000062",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 12:15",
+    "published_iso": "2026-11-26T12:15:03+09:00",
+    "sort_key": 1795662903.0,
+    "excerpt": "(춘천=연합뉴스) 이상학 기자 = 강원 춘천시가 태권도 국제교류 확대와 대형 체육시설 벤치마킹을 위해 카자흐스탄을 방문한다.",
+    "matched": []
+   },
+   {
+    "id": "527a3b0b4c",
+    "title": "한은 총재 \"잠재성장률 추정치 높이는 방향…내달 발표\"",
+    "url": "https://www.yna.co.kr/view/AKR20261126100700002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 12:04",
+    "published_iso": "2026-11-26T12:04:29+09:00",
+    "sort_key": 1795662269.0,
+    "excerpt": "(서울=연합뉴스) 채새롬 이도흔 기자 = 신현송 한국은행 총재는 잠재성장률을 현재 통화정책 기준으로 삼기는 어렵다며 추정치를 높이는 방향을 내년...",
+    "matched": []
+   },
+   {
+    "id": "92f44d3dd9",
+    "title": "올해 수도권 소형 아파트 7% 상승…중대형 오름폭 웃돌아",
+    "url": "https://www.yna.co.kr/view/AKR20261126099900003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 12:00",
+    "published_iso": "2026-11-26T12:00:47+09:00",
+    "sort_key": 1795662047.0,
+    "excerpt": "(서울=연합뉴스) 오예진 기자 = 올해 1∼10월 수도권 아파트 시장에서 전용면적 60㎡ 이하 소형의 상승률이 중대형 상승률을 웃돈 것으로 나타...",
+    "matched": []
+   },
+   {
+    "id": "98c6b9ac16",
+    "title": "물가에 가계 실질소비 '제자리'…쓸 돈 13분기 만에 줄었다",
+    "url": "https://www.yna.co.kr/view/AKR20261126077400002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 12:00",
+    "published_iso": "2026-11-26T12:00:15+09:00",
+    "sort_key": 1795662015.0,
+    "excerpt": "(세종=연합뉴스) 이대희 송정은 기자 = 올해 3분기 가계 소비지출이 23분기 연속 증가했지만 물가 상승 영향을 제외한 실질 소비지출은 1년 전...",
+    "matched": []
+   },
+   {
+    "id": "1faa6ebf39",
+    "title": "동물실험 대체·암환자 심리지원…공공데이터·AI 활용대회 대상",
+    "url": "https://www.yna.co.kr/view/AKR20261126025600530",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 12:00",
+    "published_iso": "2026-11-26T12:00:13+09:00",
+    "sort_key": 1795662013.0,
+    "excerpt": "(서울=연합뉴스) 양정우 기자 = 인공지능(AI)을 활용해 동물실험을 대체·보완할 수 있는 안전성 평가 플랫폼과 암 생존자의 재발 불안을 예측해...",
+    "matched": []
+   },
+   {
+    "id": "6e86076247",
+    "title": "내달 노동감독 지방 위임…서울 경비업·경기 식품제조 중점감독",
+    "url": "https://www.yna.co.kr/view/AKR20261126040800530",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 12:00",
+    "published_iso": "2026-11-26T12:00:11+09:00",
+    "sort_key": 1795662011.0,
+    "excerpt": "(서울=연합뉴스) 한혜원 기자 = 고용노동부는 다음 달 8일부터 노동감독관 직무집행법이 시행돼 서울, 전남광주, 경기, 경남, 제주 등 지방정부...",
+    "matched": []
+   },
+   {
+    "id": "69d97a23b4",
+    "title": "내년 노인일자리 역대 최대 118만개…내일부터 참여자 모집",
+    "url": "https://www.yna.co.kr/view/AKR20261126033200530",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 12:00",
+    "published_iso": "2026-11-26T12:00:11+09:00",
+    "sort_key": 1795662011.0,
+    "excerpt": "(서울=연합뉴스) 김영신 기자 = 정부가 내년 역대 최대 규모인 118만개의 노인일자리를 제공하기로 하고 27일부터 다음 달 24일까지 참여자를...",
+    "matched": []
+   },
+   {
+    "id": "bcb3dd5099",
+    "title": "“보험 가입 안 해도 OK”…미래에셋생명, AI 건강관리 앱 '눈길'",
+    "url": "https://www.hankyung.com/article/202611259593i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 12:00",
+    "published_iso": "2026-11-26T12:00:03+09:00",
+    "sort_key": 1795662003.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "ed887ff308",
+    "title": "[속보] 한은 총재 \"반도체 시총 2000조, 수익 3배밖에 안돼…설명 불가\"",
+    "url": "https://www.hankyung.com/article/2026112620127",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 11:57",
+    "published_iso": "2026-11-26T11:57:24+09:00",
+    "sort_key": 1795661844.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "40c1414fb4",
+    "title": "[속보] 한은 총재 \"잠재성장률 추정치 높이는 방향…내달 발표\"",
+    "url": "https://www.hankyung.com/article/2026112619937",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 11:50",
+    "published_iso": "2026-11-26T11:50:06+09:00",
+    "sort_key": 1795661406.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "e64cdc990e",
+    "title": "[속보] 한은 총재 \"취약차주, 재정 동반한 금융정책으로 대응 적합\"",
+    "url": "https://www.hankyung.com/article/2026112619707",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 11:43",
+    "published_iso": "2026-11-26T11:43:55+09:00",
+    "sort_key": 1795661035.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "c1bc1d5a96",
+    "title": "[우분투칼럼] 에티오피아-에리트레아 갈등…홍해 위기의 또 다른 단면",
+    "url": "https://www.yna.co.kr/view/AKR20261124123800898",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 07:00",
+    "published_iso": "2026-11-26T07:00:06+09:00",
+    "sort_key": 1795644006.0,
+    "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
+    "matched": [],
+    "analysis": {
+     "summary": "에티오피아-에리트레아 갈등과 홍해 위기 (칼럼)",
+     "impact": "해운 항로 불안",
+     "affected": "해운"
+    }
+   },
+   {
+    "id": "8f704e458f",
+    "title": "빗썸, 3분기 가상자산 처분손실 690억원…작년 동기 86배",
+    "url": "https://www.yna.co.kr/view/AKR20261125165200002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 06:45",
+    "published_iso": "2026-11-26T06:45:01+09:00",
+    "sort_key": 1795643101.0,
+    "excerpt": "(서울=연합뉴스) 박수현 기자 = 올해 3분기 빗썸의 자체 취득한 가상자산의 처분손실이 690억원으로 작년 동기의 86배에 달한 것으로 나타났다...",
+    "matched": [],
+    "analysis": {
+     "summary": "빗썸 3분기 가상자산 처분손실 690억 원 — 작년의 86배",
+     "impact": "가상자산 거래소 실적 악화",
+     "affected": "빗썸"
+    }
+   },
+   {
+    "id": "bac4bb0a5e",
+    "title": "[반려동물] \"사료·간식도 동네 편의점서\"…전용매대 늘리고 매출도 '쑥'",
+    "url": "https://www.yna.co.kr/view/AKR20261125112300030",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 06:15",
+    "published_iso": "2026-11-26T06:15:00+09:00",
+    "sort_key": 1795641300.0,
+    "excerpt": "(서울=연합뉴스) 김세린 기자 = 반려동물 양육 가구가 늘어나면서 사료와 간식 등을 가까운 편의점에서 구매하려는 수요도 커지고 있는 것으로 나타...",
+    "matched": [],
+    "analysis": {
+     "summary": "편의점 반려동물 용품 매출 증가",
+     "impact": "시장 영향은 제한적",
+     "affected": "편의점"
+    }
+   },
+   {
+    "id": "4b54c46dea",
+    "title": "업비트서 바이낸스로 반년간 4천억원 순유출…\"파생상품 수요\"",
+    "url": "https://www.yna.co.kr/view/AKR20261125137600002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 06:13",
+    "published_iso": "2026-11-26T06:13:01+09:00",
+    "sort_key": 1795641181.0,
+    "excerpt": "(서울=연합뉴스) 박수현 기자 = 국내 최대 가상자산 거래소인 업비트에서 해외 거래소 바이낸스로 최근 반년간 4천억원어치가 넘는 가상자산이 순유...",
+    "matched": [],
+    "analysis": {
+     "summary": "업비트에서 바이낸스로 반년간 4천억 원 순유출 — 파생상품 수요",
+     "impact": "국내 거래소 자금 이탈",
+     "affected": "가상자산 거래소"
+    }
+   },
+   {
+    "id": "cb296a4aa8",
+    "title": "AI 시험 부정행위 장비 판매 관련 지갑에 28억원어치 테더 유입",
+    "url": "https://www.yna.co.kr/view/AKR20261125177600002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 06:05",
+    "published_iso": "2026-11-26T06:05:01+09:00",
+    "sort_key": 1795640701.0,
+    "excerpt": "(서울=연합뉴스) 유동현 기자 = 시험 부정행위에 활용된 인공지능(AI) 전자기기 판매와 관련된 가상자산 지갑에 약 28억원 규모의 스테이블코인...",
+    "matched": [],
+    "analysis": {
+     "summary": "AI 시험 부정 장비 판매 관련 지갑에 28억 원 유입",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "1249883e63",
+    "title": "지역 간 주거 격차 완화 방안 모색…국제주택도시금융포럼",
+    "url": "https://www.yna.co.kr/view/AKR20261125127700003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 06:00",
+    "published_iso": "2026-11-26T06:00:17+09:00",
+    "sort_key": 1795640417.0,
+    "excerpt": "(세종=연합뉴스) 오진송 기자 = 국내외 주택·금융 전문가들이 지역 간 주거 격차를 완화하고 주택시장 안정을 도모하기 위한 금융 혁신 방안을 논...",
+    "matched": [],
+    "analysis": {
+     "summary": "국제주택도시금융포럼, 지역 주거 격차 완화 논의",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "82149a66f6",
+    "title": "국민 84% \"서비스산업 중요\"…취업 선호도는 제조업보다 낮아",
+    "url": "https://www.yna.co.kr/view/AKR20261125156200003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 06:00",
+    "published_iso": "2026-11-26T06:00:05+09:00",
+    "sort_key": 1795640405.0,
+    "excerpt": "(서울=연합뉴스) 장하나 기자 = 국민 10명 중 8명꼴로 서비스산업을 경제 성장의 핵심 산업으로 인식하고는 있지만 일자리의 질과 경쟁력에 대한...",
+    "matched": [],
+    "analysis": {
+     "summary": "국민 84% '서비스산업 중요' — 취업 선호는 제조업보다 낮아",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "11d818a1d1",
+    "title": "서울신용보증재단, 소상공인 규제혁신 공로 '대통령 표창' 수상",
+    "url": "https://www.yna.co.kr/view/AKR20261125166000004",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 06:00",
+    "published_iso": "2026-11-26T06:00:01+09:00",
+    "sort_key": 1795640401.0,
+    "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울신용보증재단은 25일 여의도 KBIZ홀에서 열린 중소벤처기업부 주관 &apos;2026년 대한민국 규제혁신 대상&apos; ...",
+    "matched": [],
+    "analysis": {
+     "summary": "서울신용보증재단 대통령 표창",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "6d865b89d7",
+    "title": "美 10월 PCE 3.8%↑…12월 금리인상 힘실려",
+    "url": "https://www.hankyung.com/article/2026112506871",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 01:51",
+    "published_iso": "2026-11-26T01:51:52+09:00",
+    "sort_key": 1795625512.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "미국 10월 PCE 물가 3.8% 상승 — 12월 금리 인상에 힘 실려",
+     "impact": "앞 기사와 같은 내용",
+     "affected": "미국 금리"
+    }
+   },
+   {
+    "id": "57742bad7d",
+    "title": "민주노총 위원장 선거 결선으로…양경수·엄길용 2파전",
+    "url": "https://www.yna.co.kr/view/AKR20261126001900530",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 01:28",
+    "published_iso": "2026-11-26T01:28:22+09:00",
+    "sort_key": 1795624102.0,
+    "excerpt": "(서울=연합뉴스) 한혜원 기자 = 전국민주노동조합총연맹(민주노총) 차기 위원장 선거에서 과반 득표자가 나오지 않아 사상 첫 3선에 도전하는 양경...",
+    "matched": [],
+    "analysis": {
+     "summary": "민주노총 위원장 선거 결선으로",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "d3257b4a1c",
+    "title": "역대급 대미흑자 관세 부메랑 피했다…15% 사수에 일단 안도",
+    "url": "https://www.yna.co.kr/view/AKR20261126002000003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 01:26",
+    "published_iso": "2026-11-26T01:26:29+09:00",
+    "sort_key": 1795623989.0,
+    "excerpt": "(서울=연합뉴스) 신창용 기자 = 미국이 강제노동 관세에 이어 과잉생산 관세까지 부과하기로 했지만 한국에 적용되는 관세 상한은 기존 한미 합의대...",
+    "matched": [],
+    "analysis": {
+     "summary": "역대급 대미 흑자에도 관세 상한 15% 유지 — 일단 안도",
+     "impact": "한국 수출 관세 부담 제한",
+     "affected": "수출기업"
+    }
+   },
+   {
+    "id": "99703aada1",
+    "title": "트럼프가 젠슨황 복귀원한 또다른 이유…美AI업계 두갈래 전쟁",
+    "url": "https://www.hankyung.com/article/202611260716i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/26 01:06",
+    "published_iso": "2026-11-26T01:06:45+09:00",
+    "sort_key": 1795622805.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "트럼프가 젠슨 황 복귀를 원한 또 다른 이유",
+     "impact": "시장 영향은 제한적",
+     "affected": "엔비디아"
+    }
+   },
+   {
+    "id": "d525df0165",
+    "title": "美 새 관세 발표…한국·일본 15% 유지,중국은 최대 40%",
+    "url": "https://www.hankyung.com/article/202611250639i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 23:20",
+    "published_iso": "2026-11-25T23:20:55+09:00",
+    "sort_key": 1795616455.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "미국 새 관세 발표 — 한국·일본 15% 유지, 중국은 최대 40%",
+     "impact": "중국 수출 타격, 한국은 상한 유지",
+     "affected": "수출기업, 중국",
+     "important": true,
+     "important_tag": "정책·무역",
+     "why_important": "미국이 새 관세를 발표 — 중국은 최대 40%, 한국·일본은 15% 상한 유지"
+    }
+   },
+   {
+    "id": "77e5309372",
+    "title": "美 '과잉생산 관세' 발표 예고…\"한국엔 15% 상한 유지\"",
+    "url": "https://www.hankyung.com/article/2026112506641",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 23:14",
+    "published_iso": "2026-11-25T23:14:26+09:00",
+    "sort_key": 1795616066.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "미국 과잉생산 관세 발표 예고 — 한국은 15% 상한 유지",
+     "impact": "앞 기사와 같은 내용",
+     "affected": "수출기업"
+    }
+   },
+   {
+    "id": "1b34e01693",
+    "title": "OSB저축은행, 장찬 대표 연임 수순",
+    "url": "https://www.hankyung.com/article/202611250422i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 23:08",
+    "published_iso": "2026-11-25T23:08:16+09:00",
+    "sort_key": 1795615696.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "OSB저축은행 대표 연임 수순",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "865ee5fb51",
+    "title": "美 10월 PCE는 연 3.8% 상승에 3분기 GDP는 연 4.3% 성장",
+    "url": "https://www.hankyung.com/article/202611250630i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 22:44",
+    "published_iso": "2026-11-25T22:44:18+09:00",
+    "sort_key": 1795614258.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "미국 10월 PCE 물가 3.8% 상승, 3분기 GDP 4.3% 성장",
+     "impact": "경기 강하고 물가 높아 금리 인상 압력",
+     "affected": "미국 금리, 달러",
+     "important": true,
+     "important_tag": "거시경제",
+     "why_important": "연준이 보는 물가(PCE)가 10월 3.8%로 올랐고 3분기 성장률은 4.3% — 경기는 강하고 물가는 높아 12월 금리 인상이 유력해짐"
+    }
+   },
+   {
+    "id": "16e6e88584",
+    "title": "10조원대 증안펀드 확대되나…산은, 금융사 추가 출자 타진",
+    "url": "https://www.yna.co.kr/view/AKR20261125183800002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 22:10",
+    "published_iso": "2026-11-25T22:10:15+09:00",
+    "sort_key": 1795612215.0,
+    "excerpt": "(서울=연합뉴스) 배영경 김지연 기자 = 산업은행이 10조원대 규모의 증권시장안정펀드(증안펀드)에 참여하는 금융회사들을 대상으로 기존 약정금 집...",
+    "matched": [],
+    "analysis": {
+     "summary": "10조 원대 증안펀드 확대되나 — 산은, 금융사 추가 출자 타진",
+     "impact": "증시 방어 자금 확대",
+     "affected": "코스피"
+    }
+   },
+   {
+    "id": "e8fc69496a",
+    "title": "임금 1.9억 체불하고 24년간 미국 도피…국내 입국 한달만 구속",
+    "url": "https://www.yna.co.kr/view/AKR20261125182700530",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 21:49",
+    "published_iso": "2026-11-25T21:49:18+09:00",
+    "sort_key": 1795610958.0,
+    "excerpt": "(서울=연합뉴스) 옥성구 기자 = 직원 임금 1억9천여만원을 체불해놓고 미국으로 도피했다가 24년 만에 국내에 입국한 사업주가 구속됐다.",
+    "matched": [],
+    "analysis": {
+     "summary": "임금 체불하고 24년 미국 도피한 사업주 구속",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   },
+   {
+    "id": "093729f17c",
+    "title": "2030년까지 수도권에 아파트 발주 182조원…50만호 착공(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20261125168651001",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 21:33",
+    "published_iso": "2026-11-25T21:33:27+09:00",
+    "sort_key": 1795610007.0,
+    "excerpt": "(서울=연합뉴스) 오예진 고동욱 기자 = 이재명 대통령은 25일 서울 은평구의 공적주택 현장을 방문해 실제 품질과 여건을 살펴보고, 정책 관련자...",
+    "matched": [],
+    "analysis": {
+     "summary": "2030년까지 수도권 아파트 182조 원 발주 — 50만 호 착공",
+     "impact": "건설 수주 확대",
+     "affected": "건설주"
+    }
+   },
+   {
+    "id": "840106c2f6",
+    "title": "美, 中 AI칩 우회로 차단…동남아 데이터센터 '고객 쟁탈전'",
+    "url": "https://www.hankyung.com/article/202611250573i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 21:20",
+    "published_iso": "2026-11-25T21:20:16+09:00",
+    "sort_key": 1795609216.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "미국, 중국 AI 칩 우회로 차단 — 동남아 데이터센터 고객 쟁탈전",
+     "impact": "동남아 데이터센터 수요 재편",
+     "affected": "데이터센터, 반도체"
+    }
+   },
+   {
+    "id": "54d0978ef9",
+    "title": "서울시·국토부, 정비사업 규제완화 놓고 '장외 공방'(종합)",
+    "url": "https://www.yna.co.kr/view/AKR20261125122851003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 21:02",
+    "published_iso": "2026-11-25T21:02:34+09:00",
+    "sort_key": 1795608154.0,
+    "excerpt": "(서울=연합뉴스) 임기창 김동규 기자 = 오세훈 서울시장이 주택 공급 확대를 위해 정부에 정비사업 관련 규제 완화를 요구한 것을 두고 서울시와 ...",
+    "matched": [],
+    "analysis": {
+     "summary": "서울시·국토부, 정비사업 규제완화 공방",
+     "impact": "시장 영향은 제한적",
+     "affected": "건설, 부동산"
+    }
+   },
+   {
+    "id": "ebb3388618",
+    "title": "\"가운 믿고 바릅니다\"…외국인 몰리는 뜻밖의 'K뷰티 성지'",
+    "url": "https://www.hankyung.com/article/202611250203g",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 21:01",
+    "published_iso": "2026-11-25T21:01:28+09:00",
+    "sort_key": 1795608088.0,
+    "excerpt": "",
+    "matched": [],
+    "analysis": {
+     "summary": "외국인 몰리는 K뷰티 명소",
+     "impact": "시장 영향은 제한적",
+     "affected": "화장품"
+    }
+   },
+   {
+    "id": "d78c35764e",
+    "title": "LH \"5년간 공적주택 50만호 착공\"…李대통령 \"초과 달성하라\"",
+    "url": "https://www.yna.co.kr/view/AKR20261125168600001",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 19:11",
+    "published_iso": "2026-11-25T19:11:27+09:00",
+    "sort_key": 1795601487.0,
+    "excerpt": "(서울=연합뉴스) 고동욱 기자 = 이재명 대통령은 25일 서울 은평구의 &apos;공적주택&apos; 현장을 방문해 실제 품질과 여건을 살펴보고, 정책 관련자들과...",
+    "matched": [],
+    "analysis": {
+     "summary": "LH '5년간 공적주택 50만 호 착공' — 대통령 '초과 달성하라'",
+     "impact": "건설 수요 확대",
+     "affected": "건설주"
+    }
+   },
+   {
+    "id": "dc5f35b2e7",
+    "title": "한경협 류진 연임 가능성 시사…\"현장 고생하는데 놀 순 없어\"",
+    "url": "https://www.yna.co.kr/view/AKR20261125170600003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/25 19:06",
+    "published_iso": "2026-11-25T19:06:44+09:00",
+    "sort_key": 1795601204.0,
+    "excerpt": "(서울=연합뉴스) 장하나 기자 = 내년 2월 임기 만료를 앞둔 류진 한국경제인협회 회장이 3연임 가능성을 시사했다.",
+    "matched": [],
+    "analysis": {
+     "summary": "한경협 회장 연임 시사",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
+   }
+  ],
   "해외 경제언론": [
+   {
+    "id": "b69c72f7a3",
+    "title": "UK government set to publish new treaties agreed with EU",
+    "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/26 11:13",
+    "published_iso": "2026-11-26T11:13:00+09:00",
+    "sort_key": 1795659180.0,
+    "excerpt": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+    "matched": []
+   },
+   {
+    "id": "b54d1d2bde",
+    "title": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses",
+    "url": "https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/26 11:01",
+    "published_iso": "2026-11-26T11:01:20+09:00",
+    "sort_key": 1795658480.0,
+    "excerpt": "A preliminary injunction halted an early regulatory review of the network’s operations in eight cities, including New York, Los Angeles and Chicago.",
+    "matched": []
+   },
+   {
+    "id": "7cde5943a4",
+    "title": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.",
+    "url": "https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/26 10:53",
+    "published_iso": "2026-11-26T10:53:20+09:00",
+    "sort_key": 1795658000.0,
+    "excerpt": "The retreat of the stock market in recent days shows how President Trump’s push to reinstall the company’s chief executive has collided with the realities of his other policies.",
+    "matched": [
+     "NVDA"
+    ]
+   },
+   {
+    "id": "5bfa4d5f1d",
+    "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+    "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+    "source": "CNBC Finance",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/26 10:34",
+    "published_iso": "2026-11-26T10:34:58+09:00",
+    "sort_key": 1795656898.0,
+    "excerpt": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
+    "matched": []
+   },
+   {
+    "id": "27217ba350",
+    "title": "US approves SpaceX plan to send a million data satellites to space",
+    "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/26 09:07",
+    "published_iso": "2026-11-26T09:07:51+09:00",
+    "sort_key": 1795651671.0,
+    "excerpt": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+    "matched": []
+   },
+   {
+    "id": "b87f2b7bfb",
+    "title": "Guitar wars - the transatlantic battle over the Stratocaster",
+    "url": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/26 09:01",
+    "published_iso": "2026-11-26T09:01:37+09:00",
+    "sort_key": 1795651297.0,
+    "excerpt": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
+    "matched": []
+   },
    {
     "id": "dacd2ab1df",
     "title": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
@@ -1274,7 +2429,12 @@
     "published_iso": "2026-11-26T07:16:49+09:00",
     "sort_key": 1795645009.0,
     "excerpt": "Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium. But Middle Eastern business contacts of the two Trump envoys pulled out because of political winds.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "루크오일 해외 자산 매각 — 쿠슈너·위트코프 측에는 안 팔아",
+     "impact": "시장 영향은 제한적",
+     "affected": "러시아 에너지"
+    }
    },
    {
     "id": "eaea116a1d",
@@ -1287,7 +2447,12 @@
     "published_iso": "2026-11-26T06:56:43+09:00",
     "sort_key": 1795643803.0,
     "excerpt": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "그린스펀은 생산성에 걸었지만 워시는 금리를 올려야 (칼럼)",
+     "impact": "미국 금리 인상 압력",
+     "affected": "미국 금리"
+    }
    },
    {
     "id": "1b18ea57f9",
@@ -1300,7 +2465,12 @@
     "published_iso": "2026-11-26T06:36:34+09:00",
     "sort_key": 1795642594.0,
     "excerpt": "The man, who drove a Toyota Corolla from a fleet leased to Lyft drivers, used orange cones to trap the self-driving vehicles before pelting them with eggs, the police said. No charges have been filed.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "덴버에서 웨이모 차량에 계란 던지는 남성",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "4e0a3c12c4",
@@ -1315,7 +2485,12 @@
     "excerpt": "Three data providers say they have no evidence to support the online claim that insider trading generated a 9,000 percent return.",
     "matched": [
      "NVDA"
-    ]
+    ],
+    "analysis": {
+     "summary": "엔비디아 급등으로 3억 달러 벌었다는 소문, 거래 기록으로 확인 안 돼",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "9f1f912485",
@@ -1328,7 +2503,12 @@
     "published_iso": "2026-11-26T04:34:40+09:00",
     "sort_key": 1795635280.0,
     "excerpt": "The view of the Himalayan country as ancient and immutable is being challenged by young Bhutanese who are opening restaurants and shops, and getting beyond “gross national happiness.” A traveler explores.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "2026년 부탄 여행기",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "20b847b4ed",
@@ -1341,7 +2521,12 @@
     "published_iso": "2026-11-26T02:53:34+09:00",
     "sort_key": 1795629214.0,
     "excerpt": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "영국 파운드랜드 파산 — 1만 1천 명 일자리 위기",
+     "impact": "영국 소매 부실",
+     "affected": "영국 소매"
+    }
    },
    {
     "id": "8366bafb9d",
@@ -1354,7 +2539,12 @@
     "published_iso": "2026-11-26T02:48:09+09:00",
     "sort_key": 1795628889.0,
     "excerpt": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "AI 우려 커지며 미국 증시 추가 하락",
+     "impact": "기술주 약세 지속",
+     "affected": "미국 증시"
+    }
    },
    {
     "id": "092caf8271",
@@ -1367,7 +2557,12 @@
     "published_iso": "2026-11-26T02:08:03+09:00",
     "sort_key": 1795626483.0,
     "excerpt": "Kalshi traders have cut the odds of OpenAI confirming an IPO before June 2027, as AI stocks and related markets have weakened.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "예측시장, 오픈AI 상장 기대 시점을 2027년 뒤로 미뤄",
+     "impact": "AI 기업 상장 열기 식어",
+     "affected": "AI 관련주"
+    }
    },
    {
     "id": "ece3be2c3d",
@@ -1380,7 +2575,12 @@
     "published_iso": "2026-11-26T01:43:21+09:00",
     "sort_key": 1795625001.0,
     "excerpt": "After two years of deregulation, congressional committees led by Democrats will shine the spotlight back on corporate America.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "민주당 의회 장악으로 기업 감시 강화",
+     "impact": "규제 강화 가능성",
+     "affected": "미국 기업"
+    }
    },
    {
     "id": "775d27b357",
@@ -1395,7 +2595,12 @@
     "excerpt": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
     "matched": [
      "NVDA"
-    ]
+    ],
+    "analysis": {
+     "summary": "트럼프 계좌, 올해 엔비디아 주식 44번 거래 기록",
+     "impact": "이해충돌 논란",
+     "affected": "엔비디아"
+    }
    },
    {
     "id": "35460b7c3e",
@@ -1408,7 +2613,12 @@
     "published_iso": "2026-11-26T01:17:13+09:00",
     "sort_key": 1795623433.0,
     "excerpt": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "장난감 값까지 올라 — 미국인 연말 계획 줄여",
+     "impact": "미국 소비 위축 신호",
+     "affected": "미국 소매"
+    }
    },
    {
     "id": "7271974677",
@@ -1421,7 +2631,12 @@
     "published_iso": "2026-11-26T00:58:36+09:00",
     "sort_key": 1795622316.0,
     "excerpt": "The latest escalation came as the administration confronts continued legal obstacles and new scrutiny from an incoming Democratic-led Congress.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "트럼프 정부, 중국·EU 등에 새 관세 발표",
+     "impact": "앞 기사와 같은 내용",
+     "affected": "수출기업"
+    }
    },
    {
     "id": "8e1c50f857",
@@ -1434,7 +2649,12 @@
     "published_iso": "2026-11-26T00:43:56+09:00",
     "sort_key": 1795621436.0,
     "excerpt": "As the share price drops, it could act as a brake on Silicon Valley’s frenzied investing in younger companies.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "앤트로픽 주가 하락이 스타트업 투자에 제동 걸 수도",
+     "impact": "AI 스타트업 자금 조달 위축",
+     "affected": "AI 관련주"
+    }
    },
    {
     "id": "9a0d628d84",
@@ -1447,7 +2667,15 @@
     "published_iso": "2026-11-25T23:47:47+09:00",
     "sort_key": 1795618067.0,
     "excerpt": "Nvidia, Anthropic and other tech companies tumbled as investors also weighed developments in global trade and the path of interest rates.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "AI·관세·물가 걱정에 증시 매도 계속 — 엔비디아·앤트로픽 하락",
+     "impact": "미국 증시 약세 지속",
+     "affected": "미국 증시, 기술주",
+     "important": true,
+     "important_tag": "거시경제",
+     "why_important": "AI 거품·관세·물가 걱정이 겹쳐 미국 증시 매도가 이어짐 — 엔비디아 반등도 사그라듦"
+    }
    },
    {
     "id": "0c3830a640",
@@ -1460,7 +2688,12 @@
     "published_iso": "2026-11-25T23:21:56+09:00",
     "sort_key": 1795616516.0,
     "excerpt": "The Federal Reserve is widely expected to raise interest rates next month.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "또 높은 물가 지표 — 연준 다음 달 금리 인상 유력",
+     "impact": "미국 금리 인상 전망 강화",
+     "affected": "미국 금리, 달러"
+    }
    },
    {
     "id": "4fc9c7b0e2",
@@ -1473,7 +2706,12 @@
     "published_iso": "2026-11-25T23:18:45+09:00",
     "sort_key": 1795616325.0,
     "excerpt": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "연준이 보는 물가 PCE 10월 3.8%로 가속",
+     "impact": "앞 기사와 같은 내용",
+     "affected": "미국 금리"
+    }
    },
    {
     "id": "9a6cce0417",
@@ -1488,7 +2726,12 @@
     "excerpt": "Jensen Huang may be running Nvidia again, but investors are losing faith in the artificial intelligence boom the chipmaker has underpinned.",
     "matched": [
      "NVDA"
-    ]
+    ],
+    "analysis": {
+     "summary": "엔비디아 반등이 식은 이유",
+     "impact": "기술주 투자심리 약화",
+     "affected": "엔비디아"
+    }
    },
    {
     "id": "41209e3c7e",
@@ -1503,7 +2746,12 @@
     "excerpt": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
     "matched": [
      "NVDA"
-    ]
+    ],
+    "analysis": {
+     "summary": "엔비디아 급등락이 워시 의장의 시장 신호 읽기를 시험 (칼럼)",
+     "impact": "시장 영향은 제한적",
+     "affected": "미국 금리"
+    }
    },
    {
     "id": "9d58405368",
@@ -1516,7 +2764,12 @@
     "published_iso": "2026-11-25T20:01:04+09:00",
     "sort_key": 1795604464.0,
     "excerpt": "See the full conversations, led by journalists from The Times, about the impact of the midterm elections, what to expect next in the A.I. revolution, how to make America healthier and the future of work and purpose.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "딜북 서밋 토론 영상",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "d10141bb1d",
@@ -1529,7 +2782,12 @@
     "published_iso": "2026-11-25T19:03:55+09:00",
     "sort_key": 1795601035.0,
     "excerpt": "With pop-up menus and widgets, your phone or tablet gives you quick ways to check information and get things done with less effort.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "앱을 더 빠르게 쓰는 방법",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "0774f534f2",
@@ -1542,321 +2800,12 @@
     "published_iso": "2026-11-25T19:03:12+09:00",
     "sort_key": 1795600992.0,
     "excerpt": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
-    "matched": []
-   }
-  ],
-  "국내 경제언론": [
-   {
-    "id": "c1bc1d5a96",
-    "title": "[우분투칼럼] 에티오피아-에리트레아 갈등…홍해 위기의 또 다른 단면",
-    "url": "https://www.yna.co.kr/view/AKR20261124123800898",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/26 07:00",
-    "published_iso": "2026-11-26T07:00:06+09:00",
-    "sort_key": 1795644006.0,
-    "excerpt": "[※ 편집자 주 = 연합뉴스 글로벌문화교류단이 국내 주요 대학 아프리카 연구기관 등과 손잡고 &apos;우분투 칼럼&apos;을 게재합니다. 우분투 칼럼에는 인류...",
-    "matched": []
-   },
-   {
-    "id": "8f704e458f",
-    "title": "빗썸, 3분기 가상자산 처분손실 690억원…작년 동기 86배",
-    "url": "https://www.yna.co.kr/view/AKR20261125165200002",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/26 06:45",
-    "published_iso": "2026-11-26T06:45:01+09:00",
-    "sort_key": 1795643101.0,
-    "excerpt": "(서울=연합뉴스) 박수현 기자 = 올해 3분기 빗썸의 자체 취득한 가상자산의 처분손실이 690억원으로 작년 동기의 86배에 달한 것으로 나타났다...",
-    "matched": []
-   },
-   {
-    "id": "bac4bb0a5e",
-    "title": "[반려동물] \"사료·간식도 동네 편의점서\"…전용매대 늘리고 매출도 '쑥'",
-    "url": "https://www.yna.co.kr/view/AKR20261125112300030",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/26 06:15",
-    "published_iso": "2026-11-26T06:15:00+09:00",
-    "sort_key": 1795641300.0,
-    "excerpt": "(서울=연합뉴스) 김세린 기자 = 반려동물 양육 가구가 늘어나면서 사료와 간식 등을 가까운 편의점에서 구매하려는 수요도 커지고 있는 것으로 나타...",
-    "matched": []
-   },
-   {
-    "id": "4b54c46dea",
-    "title": "업비트서 바이낸스로 반년간 4천억원 순유출…\"파생상품 수요\"",
-    "url": "https://www.yna.co.kr/view/AKR20261125137600002",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/26 06:13",
-    "published_iso": "2026-11-26T06:13:01+09:00",
-    "sort_key": 1795641181.0,
-    "excerpt": "(서울=연합뉴스) 박수현 기자 = 국내 최대 가상자산 거래소인 업비트에서 해외 거래소 바이낸스로 최근 반년간 4천억원어치가 넘는 가상자산이 순유...",
-    "matched": []
-   },
-   {
-    "id": "cb296a4aa8",
-    "title": "AI 시험 부정행위 장비 판매 관련 지갑에 28억원어치 테더 유입",
-    "url": "https://www.yna.co.kr/view/AKR20261125177600002",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/26 06:05",
-    "published_iso": "2026-11-26T06:05:01+09:00",
-    "sort_key": 1795640701.0,
-    "excerpt": "(서울=연합뉴스) 유동현 기자 = 시험 부정행위에 활용된 인공지능(AI) 전자기기 판매와 관련된 가상자산 지갑에 약 28억원 규모의 스테이블코인...",
-    "matched": []
-   },
-   {
-    "id": "1249883e63",
-    "title": "지역 간 주거 격차 완화 방안 모색…국제주택도시금융포럼",
-    "url": "https://www.yna.co.kr/view/AKR20261125127700003",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/26 06:00",
-    "published_iso": "2026-11-26T06:00:17+09:00",
-    "sort_key": 1795640417.0,
-    "excerpt": "(세종=연합뉴스) 오진송 기자 = 국내외 주택·금융 전문가들이 지역 간 주거 격차를 완화하고 주택시장 안정을 도모하기 위한 금융 혁신 방안을 논...",
-    "matched": []
-   },
-   {
-    "id": "82149a66f6",
-    "title": "국민 84% \"서비스산업 중요\"…취업 선호도는 제조업보다 낮아",
-    "url": "https://www.yna.co.kr/view/AKR20261125156200003",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/26 06:00",
-    "published_iso": "2026-11-26T06:00:05+09:00",
-    "sort_key": 1795640405.0,
-    "excerpt": "(서울=연합뉴스) 장하나 기자 = 국민 10명 중 8명꼴로 서비스산업을 경제 성장의 핵심 산업으로 인식하고는 있지만 일자리의 질과 경쟁력에 대한...",
-    "matched": []
-   },
-   {
-    "id": "11d818a1d1",
-    "title": "서울신용보증재단, 소상공인 규제혁신 공로 '대통령 표창' 수상",
-    "url": "https://www.yna.co.kr/view/AKR20261125166000004",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/26 06:00",
-    "published_iso": "2026-11-26T06:00:01+09:00",
-    "sort_key": 1795640401.0,
-    "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울신용보증재단은 25일 여의도 KBIZ홀에서 열린 중소벤처기업부 주관 &apos;2026년 대한민국 규제혁신 대상&apos; ...",
-    "matched": []
-   },
-   {
-    "id": "6d865b89d7",
-    "title": "美 10월 PCE 3.8%↑…12월 금리인상 힘실려",
-    "url": "https://www.hankyung.com/article/2026112506871",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/26 01:51",
-    "published_iso": "2026-11-26T01:51:52+09:00",
-    "sort_key": 1795625512.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "57742bad7d",
-    "title": "민주노총 위원장 선거 결선으로…양경수·엄길용 2파전",
-    "url": "https://www.yna.co.kr/view/AKR20261126001900530",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/26 01:28",
-    "published_iso": "2026-11-26T01:28:22+09:00",
-    "sort_key": 1795624102.0,
-    "excerpt": "(서울=연합뉴스) 한혜원 기자 = 전국민주노동조합총연맹(민주노총) 차기 위원장 선거에서 과반 득표자가 나오지 않아 사상 첫 3선에 도전하는 양경...",
-    "matched": []
-   },
-   {
-    "id": "d3257b4a1c",
-    "title": "역대급 대미흑자 관세 부메랑 피했다…15% 사수에 일단 안도",
-    "url": "https://www.yna.co.kr/view/AKR20261126002000003",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/26 01:26",
-    "published_iso": "2026-11-26T01:26:29+09:00",
-    "sort_key": 1795623989.0,
-    "excerpt": "(서울=연합뉴스) 신창용 기자 = 미국이 강제노동 관세에 이어 과잉생산 관세까지 부과하기로 했지만 한국에 적용되는 관세 상한은 기존 한미 합의대...",
-    "matched": []
-   },
-   {
-    "id": "99703aada1",
-    "title": "트럼프가 젠슨황 복귀원한 또다른 이유…美AI업계 두갈래 전쟁",
-    "url": "https://www.hankyung.com/article/202611260716i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/26 01:06",
-    "published_iso": "2026-11-26T01:06:45+09:00",
-    "sort_key": 1795622805.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "d525df0165",
-    "title": "美 새 관세 발표…한국·일본 15% 유지,중국은 최대 40%",
-    "url": "https://www.hankyung.com/article/202611250639i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/25 23:20",
-    "published_iso": "2026-11-25T23:20:55+09:00",
-    "sort_key": 1795616455.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "77e5309372",
-    "title": "美 '과잉생산 관세' 발표 예고…\"한국엔 15% 상한 유지\"",
-    "url": "https://www.hankyung.com/article/2026112506641",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/25 23:14",
-    "published_iso": "2026-11-25T23:14:26+09:00",
-    "sort_key": 1795616066.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "1b34e01693",
-    "title": "OSB저축은행, 장찬 대표 연임 수순",
-    "url": "https://www.hankyung.com/article/202611250422i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/25 23:08",
-    "published_iso": "2026-11-25T23:08:16+09:00",
-    "sort_key": 1795615696.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "865ee5fb51",
-    "title": "美 10월 PCE는 연 3.8% 상승에 3분기 GDP는 연 4.3% 성장",
-    "url": "https://www.hankyung.com/article/202611250630i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/25 22:44",
-    "published_iso": "2026-11-25T22:44:18+09:00",
-    "sort_key": 1795614258.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "16e6e88584",
-    "title": "10조원대 증안펀드 확대되나…산은, 금융사 추가 출자 타진",
-    "url": "https://www.yna.co.kr/view/AKR20261125183800002",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/25 22:10",
-    "published_iso": "2026-11-25T22:10:15+09:00",
-    "sort_key": 1795612215.0,
-    "excerpt": "(서울=연합뉴스) 배영경 김지연 기자 = 산업은행이 10조원대 규모의 증권시장안정펀드(증안펀드)에 참여하는 금융회사들을 대상으로 기존 약정금 집...",
-    "matched": []
-   },
-   {
-    "id": "e8fc69496a",
-    "title": "임금 1.9억 체불하고 24년간 미국 도피…국내 입국 한달만 구속",
-    "url": "https://www.yna.co.kr/view/AKR20261125182700530",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/25 21:49",
-    "published_iso": "2026-11-25T21:49:18+09:00",
-    "sort_key": 1795610958.0,
-    "excerpt": "(서울=연합뉴스) 옥성구 기자 = 직원 임금 1억9천여만원을 체불해놓고 미국으로 도피했다가 24년 만에 국내에 입국한 사업주가 구속됐다.",
-    "matched": []
-   },
-   {
-    "id": "093729f17c",
-    "title": "2030년까지 수도권에 아파트 발주 182조원…50만호 착공(종합)",
-    "url": "https://www.yna.co.kr/view/AKR20261125168651001",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/25 21:33",
-    "published_iso": "2026-11-25T21:33:27+09:00",
-    "sort_key": 1795610007.0,
-    "excerpt": "(서울=연합뉴스) 오예진 고동욱 기자 = 이재명 대통령은 25일 서울 은평구의 공적주택 현장을 방문해 실제 품질과 여건을 살펴보고, 정책 관련자...",
-    "matched": []
-   },
-   {
-    "id": "840106c2f6",
-    "title": "美, 中 AI칩 우회로 차단…동남아 데이터센터 '고객 쟁탈전'",
-    "url": "https://www.hankyung.com/article/202611250573i",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/25 21:20",
-    "published_iso": "2026-11-25T21:20:16+09:00",
-    "sort_key": 1795609216.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "54d0978ef9",
-    "title": "서울시·국토부, 정비사업 규제완화 놓고 '장외 공방'(종합)",
-    "url": "https://www.yna.co.kr/view/AKR20261125122851003",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/25 21:02",
-    "published_iso": "2026-11-25T21:02:34+09:00",
-    "sort_key": 1795608154.0,
-    "excerpt": "(서울=연합뉴스) 임기창 김동규 기자 = 오세훈 서울시장이 주택 공급 확대를 위해 정부에 정비사업 관련 규제 완화를 요구한 것을 두고 서울시와 ...",
-    "matched": []
-   },
-   {
-    "id": "ebb3388618",
-    "title": "\"가운 믿고 바릅니다\"…외국인 몰리는 뜻밖의 'K뷰티 성지'",
-    "url": "https://www.hankyung.com/article/202611250203g",
-    "source": "한국경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/25 21:01",
-    "published_iso": "2026-11-25T21:01:28+09:00",
-    "sort_key": 1795608088.0,
-    "excerpt": "",
-    "matched": []
-   },
-   {
-    "id": "d78c35764e",
-    "title": "LH \"5년간 공적주택 50만호 착공\"…李대통령 \"초과 달성하라\"",
-    "url": "https://www.yna.co.kr/view/AKR20261125168600001",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/25 19:11",
-    "published_iso": "2026-11-25T19:11:27+09:00",
-    "sort_key": 1795601487.0,
-    "excerpt": "(서울=연합뉴스) 고동욱 기자 = 이재명 대통령은 25일 서울 은평구의 &apos;공적주택&apos; 현장을 방문해 실제 품질과 여건을 살펴보고, 정책 관련자들과...",
-    "matched": []
-   },
-   {
-    "id": "dc5f35b2e7",
-    "title": "한경협 류진 연임 가능성 시사…\"현장 고생하는데 놀 순 없어\"",
-    "url": "https://www.yna.co.kr/view/AKR20261125170600003",
-    "source": "연합뉴스 경제",
-    "group": "국내 경제언론",
-    "lang": "ko",
-    "published_kst": "11/25 19:06",
-    "published_iso": "2026-11-25T19:06:44+09:00",
-    "sort_key": 1795601204.0,
-    "excerpt": "(서울=연합뉴스) 장하나 기자 = 내년 2월 임기 만료를 앞둔 류진 한국경제인협회 회장이 3연임 가능성을 시사했다.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "누구도 대체 불가능하지 않다 — 젠슨 황만 빼고 (칼럼)",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    }
   ],
   "중앙은행·국제기구": [
@@ -1871,7 +2820,12 @@
     "published_iso": "2026-11-26T05:00:00+09:00",
     "sort_key": 1795636800.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "미국 당국, 대출 규정 적용 금액 기준 발표",
+     "impact": "시장 영향은 제한적",
+     "affected": "미국 금융"
+    }
    },
    {
     "id": "7486b0f513",
@@ -1884,7 +2838,12 @@
     "published_iso": "2026-11-26T05:00:00+09:00",
     "sort_key": 1795636800.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "미국 당국, 소액 대출 감정평가 면제 기준 발표",
+     "impact": "시장 영향은 제한적",
+     "affected": "미국 금융"
+    }
    },
    {
     "id": "b1f3c3dc97",
@@ -1897,7 +2856,12 @@
     "published_iso": "2026-11-26T02:30:00+09:00",
     "sort_key": 1795627800.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "스웨덴 중앙은행, 유로 결제 시스템 T2 합류 합의",
+     "impact": "시장 영향은 제한적",
+     "affected": "유럽 금융"
+    }
    },
    {
     "id": "9ca6d694b6",
@@ -1910,7 +2874,12 @@
     "published_iso": "2026-11-25T19:00:00+09:00",
     "sort_key": 1795600800.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "유로존 매장 결제에서 카드가 현금을 앞질러",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    }
   ]
  },
@@ -1919,19 +2888,14 @@
   "indices_total": 8,
   "stocks_ok": 9,
   "stocks_total": 9,
-  "news": 49,
-  "news_new": 16
+  "news": 76,
+  "news_new": 27
  },
  "errors": [
   {
    "stage": "news",
    "target": "금융위원회 보도자료",
    "message": "HTTPError: 503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
-  },
-  {
-   "stage": "news",
-   "target": "한국경제",
-   "message": "HTTPError: 403 Client Error: Forbidden for url: https://www.hankyung.com/feed/economy"
   }
  ]
 }
