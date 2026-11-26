@@ -379,7 +379,12 @@
    "published_iso": "2026-11-26T19:00:00+09:00",
    "sort_key": 1795687200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "개인투자용 국채 12월 발행 안 해",
+    "impact": "시장 영향은 제한적",
+    "affected": "국채"
+   }
   },
   {
    "id": "77e96eff2e",
@@ -392,7 +397,12 @@
    "published_iso": "2026-11-26T16:18:48+09:00",
    "sort_key": 1795677528.0,
    "excerpt": "(춘천=연합뉴스) 이상학 기자 = 강원지역의 높은 자가용 의존도와 낮은 도시가스 보급률이 소비자물가 상승을 부추기는 주요 원인으로 분석됐다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "강원, 자가용·석유 난방 의존도 높아 물가 상승 부채질",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "65f221430b",
@@ -405,7 +415,12 @@
    "published_iso": "2026-11-26T16:17:26+09:00",
    "sort_key": 1795677446.0,
    "excerpt": "(서울=연합뉴스) 이도흔 기자 = NH농협은행은 대안신용평가 연구 성과와 이를 활용한 포용금융 사업화 전략을 발표하는 &apos;NH크레딧 ON(溫) 성...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "농협은행, 대안신용평가로 포용금융 확대",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "71869dc811",
@@ -418,7 +433,12 @@
    "published_iso": "2026-11-26T16:16:07+09:00",
    "sort_key": 1795677367.0,
    "excerpt": "▲ NH농협은행은 만기를 유지하면 원금과 최소 약정 이자를 보장받을 수 있는 &apos;지수연동예금(ELD) 26-13호&apos;를 출시한다고 26일 밝혔다. ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "농협은행 원금보장형 지수연동예금 출시",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "0a410a4c70",
@@ -431,7 +451,15 @@
    "published_iso": "2026-11-26T16:14:41+09:00",
    "sort_key": 1795677281.0,
    "excerpt": "(서울=연합뉴스) 한지훈 채새롬 이도흔 기자 = 한국은행이 내년 한국 경제성장률 전망치를 기존 2.9%에서 4.1%로 대폭 상향 조정했다. 올해...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한은, 내년 성장률 전망 2.9% → 4.1%로 대폭 상향, 경상흑자 5,400억 달러",
+    "impact": "경기 낙관 — 금리 인상 여지",
+    "affected": "국내 경제, 원화",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "한은이 기준금리를 올리고 내년 성장률 전망을 2.9%에서 4.1%로 대폭 상향 — 경기 자신감이 커져 추가 인상 여지"
+   }
   },
   {
    "id": "008ad6db64",
@@ -444,7 +472,12 @@
    "published_iso": "2026-11-26T16:12:19+09:00",
    "sort_key": 1795677139.0,
    "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 전날 6% 넘게 급락했던 코스피가 26일 0.29% 상승하는 데 그쳤다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "전날 6% 급락한 코스피 0.29% 상승에 그쳐",
+    "impact": "반등 힘 약함",
+    "affected": "코스피"
+   }
   },
   {
    "id": "932e9970a1",
@@ -457,7 +490,12 @@
    "published_iso": "2026-11-26T16:11:25+09:00",
    "sort_key": 1795677085.0,
    "excerpt": "(서울=연합뉴스) 김지연 기자 = 원/달러 환율은 한국은행 금융통화위원회(금통위)가 기준금리를 인상한 26일 한때 1,340원대 아래로 내려갔지...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "기준금리 인상에도 원/달러 환율 보합",
+    "impact": "시장 영향은 제한적",
+    "affected": "원/달러 환율"
+   }
   },
   {
    "id": "f3924b7722",
@@ -470,7 +508,12 @@
    "published_iso": "2026-11-26T16:00:05+09:00",
    "sort_key": 1795676405.0,
    "excerpt": "(세종=연합뉴스) 이대희 기자 = 올해 공동주택 공시가격 상승으로 서울 강남권 주요 아파트의 보유세가 1년 새 40% 넘게 증가한 것으로 추산됐...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "원베일리 84㎡ 보유세 2,800만 원 — 1년 새 45% 급증",
+    "impact": "강남 주택 보유 부담 증가",
+    "affected": "부동산"
+   }
   },
   {
    "id": "01c6ee32d2",
@@ -483,7 +526,12 @@
    "published_iso": "2026-11-26T16:00:02+09:00",
    "sort_key": 1795676402.0,
    "excerpt": "(서울=연합뉴스) 신창용 기자 = 정부는 미국 무역대표부(USTR)의 무역법 301조 과잉생산 관세 발표와 관련해 최종 관세율이 기존 한미 관세...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "산업부 '과잉생산 관세 25%는 추정치, 최종 15% 유지 전망'",
+    "impact": "앞서 고른 관세 기사와 같은 흐름",
+    "affected": "수출기업"
+   }
   },
   {
    "id": "b5f29314fe",
@@ -496,7 +544,12 @@
    "published_iso": "2026-11-26T15:50:14+09:00",
    "sort_key": 1795675814.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "비대면진료 과도한 규제 조정 추진",
+    "impact": "시장 영향은 제한적",
+    "affected": "원격의료"
+   }
   },
   {
    "id": "aa7adfb05f",
@@ -509,7 +562,12 @@
    "published_iso": "2026-11-26T15:43:56+09:00",
    "sort_key": 1795675436.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "지역경제 혁신 현장 소개",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "783d1c710a",
@@ -522,7 +580,12 @@
    "published_iso": "2026-11-26T15:42:08+09:00",
    "sort_key": 1795675328.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한국식품산업협회 중소기업 자문",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "843d901a3f",
@@ -535,7 +598,12 @@
    "published_iso": "2026-11-26T15:40:52+09:00",
    "sort_key": 1795675252.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한국전기공사협회 신생 업체 입찰 문턱 완화",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "cf501082ff",
@@ -548,7 +616,12 @@
    "published_iso": "2026-11-26T15:40:10+09:00",
    "sort_key": 1795675210.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한국관광협회중앙회 정책 건의",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "71bf6658ca",
@@ -561,7 +634,12 @@
    "published_iso": "2026-11-26T15:39:06+09:00",
    "sort_key": 1795675146.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한국원자력산업협회, 원전 기업 지원",
+    "impact": "시장 영향은 제한적",
+    "affected": "원전"
+   }
   },
   {
    "id": "967b4220dc",
@@ -574,7 +652,12 @@
    "published_iso": "2026-11-26T15:37:22+09:00",
    "sort_key": 1795675042.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한국세무사회 고향사랑 기부 홍보",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "35a5035eac",
@@ -587,7 +670,12 @@
    "published_iso": "2026-11-26T15:35:48+09:00",
    "sort_key": 1795674948.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "전국퇴직금융인협회 장애인 금융교육",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "b2806a3d9f",
@@ -600,7 +688,12 @@
    "published_iso": "2026-11-26T14:14:22+09:00",
    "sort_key": 1795670062.0,
    "excerpt": "The plane overran a runway after landing at Miami International Airport on Wednesday, and stopped near a fence. FedEx said there were no injuries.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "페덱스 화물기 활주로 이탈로 마이애미 공항 운항 차질",
+    "impact": "시장 영향은 제한적",
+    "affected": "페덱스"
+   }
   },
   {
    "id": "86a17b5446",
@@ -613,7 +706,12 @@
    "published_iso": "2026-11-26T14:00:17+09:00",
    "sort_key": 1795669217.0,
    "excerpt": "From male dancers to handsome hiking companions, a thriving entertainment industry is catering to female fantasies and testing the limits of Beijing’s tolerance.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중국 '여성 시선' 엔터테인먼트 호황",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "1cd322bb30",
@@ -626,7 +724,12 @@
    "published_iso": "2026-11-26T12:47:40+09:00",
    "sort_key": 1795664860.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "통화정책방향 기자간담회 하는 한은 총재 (사진)",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "85743a45b1",
@@ -639,7 +742,12 @@
    "published_iso": "2026-11-26T12:45:06+09:00",
    "sort_key": 1795664706.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "의사봉 두드리는 한은 총재 (사진)",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "5a7f93d429",
@@ -652,7 +760,12 @@
    "published_iso": "2026-11-26T12:29:48+09:00",
    "sort_key": 1795663788.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "은행·증권사 가상자산 보관업 진출 쉬워져 — 현물 ETF 기반 마련",
+    "impact": "가상자산 제도권 편입",
+    "affected": "은행, 증권, 가상자산"
+   }
   },
   {
    "id": "f8cda85b65",
@@ -665,7 +778,12 @@
    "published_iso": "2026-11-26T12:22:08+09:00",
    "sort_key": 1795663328.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "자기자본 1천억 규제 땐 코인원·디지털엑스 인가 비상 (단독)",
+    "impact": "중소 거래소 퇴출 위험",
+    "affected": "가상자산 거래소"
+   }
   },
   {
    "id": "c6deceb334",
@@ -678,7 +796,15 @@
    "published_iso": "2026-11-26T12:18:18+09:00",
    "sort_key": 1795663098.0,
    "excerpt": "(서울=연합뉴스) 채새롬 이도흔 기자 = 신현송 한국은행 총재는 &quot;반도체 기업의 올해 영업이익이 700조원인데 시총이 2천조로 수익의 3배밖에 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한은 총재 '반도체 시총 2천조, 이익의 3배뿐 — 설명 불가'",
+    "impact": "반도체주 과열 경고",
+    "affected": "삼성전자, SK하이닉스",
+    "important": true,
+    "important_tag": "산업·실적",
+    "why_important": "한은 총재가 '반도체 시총 2천조 원이 이익의 3배뿐이라 설명 불가'라며 반도체주 과열을 공개 경고"
+   }
   },
   {
    "id": "eb3f428b5f",
@@ -691,7 +817,12 @@
    "published_iso": "2026-11-26T12:15:03+09:00",
    "sort_key": 1795662903.0,
    "excerpt": "(춘천=연합뉴스) 이상학 기자 = 강원 춘천시가 태권도 국제교류 확대와 대형 체육시설 벤치마킹을 위해 카자흐스탄을 방문한다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "춘천시 카자흐스탄 방문",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "527a3b0b4c",
@@ -704,7 +835,12 @@
    "published_iso": "2026-11-26T12:04:29+09:00",
    "sort_key": 1795662269.0,
    "excerpt": "(서울=연합뉴스) 채새롬 이도흔 기자 = 신현송 한국은행 총재는 잠재성장률을 현재 통화정책 기준으로 삼기는 어렵다며 추정치를 높이는 방향을 내년...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한은 총재 '잠재성장률 추정치 높이는 방향 — 다음 달 발표'",
+    "impact": "금리 판단 기준 변화",
+    "affected": "국내 금리"
+   }
   },
   {
    "id": "92f44d3dd9",
@@ -717,7 +853,12 @@
    "published_iso": "2026-11-26T12:00:47+09:00",
    "sort_key": 1795662047.0,
    "excerpt": "(서울=연합뉴스) 오예진 기자 = 올해 1∼10월 수도권 아파트 시장에서 전용면적 60㎡ 이하 소형의 상승률이 중대형 상승률을 웃돈 것으로 나타...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "올해 수도권 소형 아파트 7% 상승 — 중대형보다 더 올라",
+    "impact": "시장 영향은 제한적",
+    "affected": "부동산"
+   }
   },
   {
    "id": "98c6b9ac16",
@@ -730,7 +871,12 @@
    "published_iso": "2026-11-26T12:00:15+09:00",
    "sort_key": 1795662015.0,
    "excerpt": "(세종=연합뉴스) 이대희 송정은 기자 = 올해 3분기 가계 소비지출이 23분기 연속 증가했지만 물가 상승 영향을 제외한 실질 소비지출은 1년 전...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "물가 탓에 가계 실질소비 제자리 — 처분가능소득 13분기 만에 감소",
+    "impact": "내수 소비 둔화",
+    "affected": "유통, 소비재"
+   }
   },
   {
    "id": "1faa6ebf39",
@@ -743,7 +889,12 @@
    "published_iso": "2026-11-26T12:00:13+09:00",
    "sort_key": 1795662013.0,
    "excerpt": "(서울=연합뉴스) 양정우 기자 = 인공지능(AI)을 활용해 동물실험을 대체·보완할 수 있는 안전성 평가 플랫폼과 암 생존자의 재발 불안을 예측해...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "공공데이터·AI 활용대회 대상",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "6e86076247",
@@ -756,7 +907,12 @@
    "published_iso": "2026-11-26T12:00:11+09:00",
    "sort_key": 1795662011.0,
    "excerpt": "(서울=연합뉴스) 한혜원 기자 = 고용노동부는 다음 달 8일부터 노동감독관 직무집행법이 시행돼 서울, 전남광주, 경기, 경남, 제주 등 지방정부...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "다음 달 노동감독 지방 위임",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "69d97a23b4",
@@ -769,7 +925,12 @@
    "published_iso": "2026-11-26T12:00:11+09:00",
    "sort_key": 1795662011.0,
    "excerpt": "(서울=연합뉴스) 김영신 기자 = 정부가 내년 역대 최대 규모인 118만개의 노인일자리를 제공하기로 하고 27일부터 다음 달 24일까지 참여자를...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "내년 노인일자리 역대 최대 118만 개",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "bcb3dd5099",
@@ -782,7 +943,12 @@
    "published_iso": "2026-11-26T12:00:03+09:00",
    "sort_key": 1795662003.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미래에셋생명 AI 건강관리 앱",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "ed887ff308",
@@ -795,7 +961,12 @@
    "published_iso": "2026-11-26T11:57:24+09:00",
    "sort_key": 1795661844.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한은 총재 '반도체 시총 설명 불가' (속보)",
+    "impact": "앞 기사와 같은 내용",
+    "affected": "반도체주"
+   }
   },
   {
    "id": "40c1414fb4",
@@ -808,7 +979,12 @@
    "published_iso": "2026-11-26T11:50:06+09:00",
    "sort_key": 1795661406.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한은 총재 '잠재성장률 높이는 방향' (속보)",
+    "impact": "앞 기사와 같은 내용",
+    "affected": "국내 금리"
+   }
   },
   {
    "id": "e64cdc990e",
@@ -821,7 +997,12 @@
    "published_iso": "2026-11-26T11:43:55+09:00",
    "sort_key": 1795661035.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한은 총재 '취약차주는 재정과 함께 대응' (속보)",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "b69c72f7a3",
@@ -834,7 +1015,12 @@
    "published_iso": "2026-11-26T11:13:00+09:00",
    "sort_key": 1795659180.0,
    "excerpt": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국, EU와 맺은 새 조약 공개 예정",
+    "impact": "시장 영향은 제한적",
+    "affected": "영국"
+   }
   },
   {
    "id": "b54d1d2bde",
@@ -847,7 +1033,12 @@
    "published_iso": "2026-11-26T11:01:20+09:00",
    "sort_key": 1795658480.0,
    "excerpt": "A preliminary injunction halted an early regulatory review of the network’s operations in eight cities, including New York, Los Angeles and Chicago.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "법원, FCC의 디즈니 ABC 지역 방송 허가 심사 제동",
+    "impact": "시장 영향은 제한적",
+    "affected": "디즈니"
+   }
   },
   {
    "id": "7cde5943a4",
@@ -862,7 +1053,12 @@
    "excerpt": "The retreat of the stock market in recent days shows how President Trump’s push to reinstall the company’s chief executive has collided with the realities of his other policies.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "트럼프가 반긴 엔비디아 급등, 오래가지 못해",
+    "impact": "시장 영향은 제한적",
+    "affected": "엔비디아"
+   }
   },
   {
    "id": "5bfa4d5f1d",
@@ -875,7 +1071,12 @@
    "published_iso": "2026-11-26T10:34:58+09:00",
    "sort_key": 1795656898.0,
    "excerpt": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "시장이 위험을 가장 잘못 보는 곳 — AI 호황·변동성·고수익 채권",
+    "impact": "위험자산 거품 경고",
+    "affected": "AI 관련주, 회사채"
+   }
   },
   {
    "id": "27217ba350",
@@ -888,7 +1089,12 @@
    "published_iso": "2026-11-26T09:07:51+09:00",
    "sort_key": 1795651671.0,
    "excerpt": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국, 스페이스X 데이터 위성 100만 개 발사 계획 승인",
+    "impact": "우주 데이터센터 경쟁",
+    "affected": "스페이스X"
+   }
   },
   {
    "id": "b87f2b7bfb",
@@ -901,7 +1107,12 @@
    "published_iso": "2026-11-26T09:01:37+09:00",
    "sort_key": 1795651297.0,
    "excerpt": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "펜더와 독일 업체의 스트라토캐스터 분쟁",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "5d90c9f6ab",
@@ -914,7 +1125,12 @@
    "published_iso": "2026-11-26T09:00:00+09:00",
    "sort_key": 1795651200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "2026년 3분기 가계동향조사 결과 (보도참고)",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "36285694c5",
@@ -927,7 +1143,12 @@
    "published_iso": "2026-11-26T09:00:00+09:00",
    "sort_key": 1795651200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "월급방위대 TF 2차 회의",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "508ee12685",
@@ -940,7 +1161,12 @@
    "published_iso": "2026-11-26T09:00:00+09:00",
    "sort_key": 1795651200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "AI 시대 전략산업 정책과제 제안",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "dacd2ab1df",
@@ -1744,7 +1970,12 @@
    "published_iso": "2026-11-25T20:16:35+09:00",
    "sort_key": 1795605395.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "부총리, 임금체계 개편 우수기업 방문",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "9d58405368",
