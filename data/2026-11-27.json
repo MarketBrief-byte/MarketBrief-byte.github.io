@@ -389,7 +389,12 @@
    "published_iso": "2026-11-27T07:07:40+09:00",
    "sort_key": 1795730860.0,
    "excerpt": "(서울=연합뉴스) 정준영 기자 = 서울 강서구(구청장 진교훈)는 오는 30일부터 다음달 11일까지 &apos;2027년 어르신일자리 및 사회활동 지원사업...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "강서구 내년 어르신 일자리 6,163명 모집",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "6ed65fa89f",
@@ -402,7 +407,12 @@
    "published_iso": "2026-11-27T07:00:05+09:00",
    "sort_key": 1795730405.0,
    "excerpt": "(서울=연합뉴스) 조현영 기자 = 국가시험뿐 아니라 토익(TOEIC) 등 어학 시험에서도 인공지능(AI)과 스마트 기기를 활용한 부정행위가 적발...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "토익 점수 조작 제안 — AI·스마트기기 부정행위",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "552bfee2da",
@@ -415,7 +425,12 @@
    "published_iso": "2026-11-27T06:23:11+09:00",
    "sort_key": 1795728191.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "'모든 아이에게 주식 선물' 약속한 머스크의 폭탄 발언",
+    "impact": "시장 영향은 제한적",
+    "affected": "테슬라"
+   }
   },
   {
    "id": "369146cb73",
@@ -430,7 +445,12 @@
    "excerpt": "",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "엔비디아 판매상 '중국에 1%라도 임대하면 칩 공급 중단'",
+    "impact": "중국 우회 수요 차단",
+    "affected": "엔비디아, 데이터센터"
+   }
   },
   {
    "id": "9c536f695d",
@@ -443,7 +463,12 @@
    "published_iso": "2026-11-27T06:00:08+09:00",
    "sort_key": 1795726808.0,
    "excerpt": "(서울=연합뉴스) 김동규 기자 = 서울시 120다산콜재단은 2023년부터 최근까지 해외 기관 방문 17건, 업무협약 2건 등 총 19건의 국제교...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "서울 다산콜센터, 이란에 콜센터 설립 지원",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "05755911bc",
@@ -456,7 +481,12 @@
    "published_iso": "2026-11-27T06:00:06+09:00",
    "sort_key": 1795726806.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "SNS 인증샷 인기에 크리스마스 소품값 60만 원까지",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "380cf569d7",
@@ -469,7 +499,12 @@
    "published_iso": "2026-11-27T06:00:05+09:00",
    "sort_key": 1795726805.0,
    "excerpt": "(서울=연합뉴스) 정수연 기자 = 롯데멤버스는 편의점 세븐일레븐과 함께 토스 앱에서 엘포인트 사후적립 서비스를 선보인다고 27일 밝혔다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "롯데멤버스, 세븐일레븐 결제 포인트 토스앱 사후적립",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "b98dc69e04",
@@ -482,7 +517,12 @@
    "published_iso": "2026-11-27T06:00:04+09:00",
    "sort_key": 1795726804.0,
    "excerpt": "(서울=연합뉴스) 김지연 기자 = 올해 3분기까지 대출 확대 등 영향으로 국내 은행의 이자이익이 작년 같은 기간보다 8.2% 늘었다. 반면 비이...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "은행 3분기 누적 이자이익 48조 원 넘어 — 8.2% 증가",
+    "impact": "은행 실적 호조",
+    "affected": "은행주"
+   }
   },
   {
    "id": "4c061df6fe",
@@ -495,7 +535,12 @@
    "published_iso": "2026-11-27T06:00:03+09:00",
    "sort_key": 1795726803.0,
    "excerpt": "(서울=연합뉴스) 강수련 기자 = 올해 3분기 보험회사 대출잔액이 2조1천억원 줄었지만 연체율과 부실채권비율은 모두 상승한 것으로 나타났다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "3분기 보험사 대출 2.1조 원 감소 — 연체율·부실채권비율 상승",
+    "impact": "보험사 자산 건전성 악화",
+    "affected": "보험주"
+   }
   },
   {
    "id": "e2aa8f1430",
@@ -510,7 +555,12 @@
    "excerpt": "",
    "matched": [
     "005380.KS"
-   ]
+   ],
+   "analysis": {
+    "summary": "현대차, 미국서 역대급 실적 — 내년 신차 두 종 출격",
+    "impact": "시장 영향은 제한적",
+    "affected": "현대차"
+   }
   },
   {
    "id": "f11c3ce230",
@@ -523,7 +573,12 @@
    "published_iso": "2026-11-27T05:37:15+09:00",
    "sort_key": 1795725435.0,
    "excerpt": "The franchise with the iconic red roof began small, in a tiny brick hut in Kansas. Little more than a decade later, it was the world’s biggest pizza chain. He was 95.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "피자헛 공동창업자 댄 카니 별세",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "c331218a77",
@@ -536,7 +591,12 @@
    "published_iso": "2026-11-27T04:55:58+09:00",
    "sort_key": 1795722958.0,
    "excerpt": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프 새 관세가 덜 위협적인 이유 (칼럼)",
+    "impact": "관세 충격 제한적일 수 있음",
+    "affected": "수출기업"
+   }
   },
   {
    "id": "6d461eaccb",
@@ -549,7 +609,12 @@
    "published_iso": "2026-11-27T02:23:31+09:00",
    "sort_key": 1795713811.0,
    "excerpt": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., after he was reinstated at Nvidia, the company he is said to have co-founded while eating there.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "젠슨 황 복귀에 데니스 매장 기념패도 복원",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "1f475a1b7e",
@@ -562,7 +627,12 @@
    "published_iso": "2026-11-27T02:21:21+09:00",
    "sort_key": 1795713681.0,
    "excerpt": "Why is Poundland closing down, and what will happen to staff and suppliers?",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "파운드랜드 매장 폐쇄 관련 다섯 가지 질문",
+    "impact": "시장 영향은 제한적",
+    "affected": "영국 소매"
+   }
   },
   {
    "id": "a2f8f08b11",
@@ -575,7 +645,12 @@
    "published_iso": "2026-11-27T02:03:31+09:00",
    "sort_key": 1795712611.0,
    "excerpt": "President Trump sent a message to trading partners across Asia, many of which depend on trade and investment from both the United States and China, that he is ready to escalate tariffs.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트럼프 새 관세, 다시 중국 압박에 초점",
+    "impact": "미중 갈등 지속",
+    "affected": "중국, 아시아 수출국"
+   }
   },
   {
    "id": "4a8ad48b5c",
@@ -588,7 +663,15 @@
    "published_iso": "2026-11-27T01:29:52+09:00",
    "sort_key": 1795710592.0,
    "excerpt": "The early exit of Christine Lagarde as president of the European Central Bank, and two looming vacancies on the board, will make way for new leadership at the institution.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "ECB, 라가르드 조기 퇴임 뒤 차기 총재로 스페인 데코스 선택",
+    "impact": "유럽 통화정책 수장 교체",
+    "affected": "유로화, 유럽 금리",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "ECB가 라가르드 조기 퇴임 뒤 차기 총재로 스페인 데코스를 선택 — 유럽 통화정책 방향의 변수"
+   }
   },
   {
    "id": "b934334e83",
@@ -603,7 +686,12 @@
    "excerpt": "ETF Action founding partner Mike Akins and GraniteShares CEO Will Rhind react to Nvidia's sharp losses and latest comeback.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "엔비디아 급등락이 드러낸 단일 종목 ETF 위험",
+    "impact": "레버리지 ETF 변동성 위험",
+    "affected": "단일 종목 ETF"
+   }
   },
   {
    "id": "981d7fc375",
@@ -616,7 +704,12 @@
    "published_iso": "2026-11-27T00:28:26+09:00",
    "sort_key": 1795706906.0,
    "excerpt": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "스페인 데코스, ECB 이끈다",
+    "impact": "앞 기사와 같은 내용",
+    "affected": "유로화"
+   }
   },
   {
    "id": "b57e5033f5",
@@ -629,7 +722,12 @@
    "published_iso": "2026-11-27T00:13:32+09:00",
    "sort_key": 1795706012.0,
    "excerpt": "From virtual agents on A.I. platforms to store helpers like Walmart’s Sparky, consumers are using the technology to save money and time.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "AI가 대신 고른 연말 선물",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "eafc105471",
@@ -642,7 +740,12 @@
    "published_iso": "2026-11-27T00:12:12+09:00",
    "sort_key": 1795705932.0,
    "excerpt": "The facilities that power A.I. and other big data needs are in high demand but widely despised. Some developers are trying to build them up instead of out.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "캔자스시티, 고층 데이터센터 건설 불허",
+    "impact": "데이터센터 부지 확보 난항",
+    "affected": "데이터센터"
+   }
   },
   {
    "id": "57bb0bb623",
@@ -655,7 +758,12 @@
    "published_iso": "2026-11-27T00:07:59+09:00",
    "sort_key": 1795705679.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "농협 조합장 1,104명 '본사 지방이전 대상 제외해야'",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "e852c96565",
@@ -668,7 +776,12 @@
    "published_iso": "2026-11-26T23:50:27+09:00",
    "sort_key": 1795704627.0,
    "excerpt": "Many Democratic plans are unlikely to become law under President Trump. But the party is still grappling with the difficult budget math of its agenda.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "민주당 정책의 재원 마련 문제",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "a6cb16310a",
@@ -681,7 +794,12 @@
    "published_iso": "2026-11-26T23:28:22+09:00",
    "sort_key": 1795703302.0,
    "excerpt": "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "노르세 애틀랜틱 전 노선 운항 중단 — 파산 위기",
+    "impact": "시장 영향은 제한적",
+    "affected": "항공"
+   }
   },
   {
    "id": "fe62052673",
@@ -694,7 +812,12 @@
    "published_iso": "2026-11-26T23:00:20+09:00",
    "sort_key": 1795701620.0,
    "excerpt": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 주택담보대출 월 상환액 평균 100파운드 증가",
+    "impact": "영국 가계 부담",
+    "affected": "영국 부동산"
+   }
   },
   {
    "id": "cad4ceb697",
@@ -707,7 +830,12 @@
    "published_iso": "2026-11-26T22:45:53+09:00",
    "sort_key": 1795700753.0,
    "excerpt": "It isn’t always easy to keep New York City’s Thanksgiving parade on track. Here’s a look back at notable moments and mishaps.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "메이시스 추수감사절 퍼레이드 사진",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "8f59fcf158",
@@ -720,7 +848,12 @@
    "published_iso": "2026-11-26T22:40:46+09:00",
    "sort_key": 1795700446.0,
    "excerpt": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "파운드랜드 파산, 미국 소유주 책임인가",
+    "impact": "시장 영향은 제한적",
+    "affected": "영국 소매"
+   }
   },
   {
    "id": "37c53964f6",
@@ -733,7 +866,12 @@
    "published_iso": "2026-11-26T22:19:25+09:00",
    "sort_key": 1795699165.0,
    "excerpt": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "반도체가 새로운 석유 — 올해 처음 수출액이 석유·가스 추월",
+    "impact": "반도체 전략 가치 상승",
+    "affected": "반도체"
+   }
   },
   {
    "id": "5e74120e40",
@@ -746,7 +884,12 @@
    "published_iso": "2026-11-26T22:00:03+09:00",
    "sort_key": 1795698003.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한국은행 '이 시나리오면 2028년 먹구름' 경고",
+    "impact": "중기 경기 위험",
+    "affected": "국내 경제"
+   }
   },
   {
    "id": "02d65ac20e",
@@ -759,7 +902,12 @@
    "published_iso": "2026-11-26T21:46:55+09:00",
    "sort_key": 1795697215.0,
    "excerpt": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 관세 위협에 교역국들 무역협정 압박",
+    "impact": "앞서 고른 관세 기사와 같은 흐름",
+    "affected": "수출기업"
+   }
   },
   {
    "id": "ce9f98e7b7",
@@ -772,7 +920,12 @@
    "published_iso": "2026-11-26T21:30:00+09:00",
    "sort_key": 1795696200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "10월 28~29일 회의록",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "4818b3fc7f",
@@ -787,7 +940,12 @@
    "excerpt": "",
    "matched": [
     "005930.KS"
-   ]
+   ],
+   "analysis": {
+    "summary": "머스크까지 제안 — 몸값 치솟는 삼성전자",
+    "impact": "삼성전자 파운드리 수주 기대",
+    "affected": "삼성전자"
+   }
   },
   {
    "id": "73ba92bcaf",
@@ -802,7 +960,15 @@
    "excerpt": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "엔비디아, 미국 중국 규제 강화에 동남아 4개국 판매 중단",
+    "impact": "엔비디아 매출 감소 위험 — 동남아 데이터센터 타격",
+    "affected": "엔비디아, 반도체, 데이터센터",
+    "important": true,
+    "important_tag": "정책·무역",
+    "why_important": "미국의 대중국 규제 강화로 엔비디아가 동남아 4개국 판매를 중단 — 우회 수출 길이 막히며 엔비디아·데이터센터 수요에 타격"
+   }
   },
   {
    "id": "e18a1cfd15",
@@ -815,7 +981,12 @@
    "published_iso": "2026-11-26T21:03:49+09:00",
    "sort_key": 1795694629.0,
    "excerpt": "The new CEO will lead the Thame-based company from 1 December following Jo Boydell's resignation.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "트래블로지 새 CEO 선임",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "4fbd5df22d",
@@ -828,7 +999,12 @@
    "published_iso": "2026-11-26T20:21:45+09:00",
    "sort_key": 1795692105.0,
    "excerpt": "The changes could see drivers over 70 stripped of licences if they do not meet standards.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 70세 이상 운전자 3년마다 시력검사",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "0a62039fa5",
@@ -841,7 +1017,12 @@
    "published_iso": "2026-11-26T19:49:41+09:00",
    "sort_key": 1795690181.0,
    "excerpt": "(서울=연합뉴스) 코스닥 상장사 KS인더스트리[101000]는 운영자금 등 약 50억원을 조달하고자 제3자배정 유상증자를 결정했다고 26일 공시...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "KS인더스트리 50억 원 제3자배정 유상증자",
+    "impact": "시장 영향은 제한적",
+    "affected": "KS인더스트리"
+   }
   },
   {
    "id": "ed95599a7a",
@@ -854,7 +1035,12 @@
    "published_iso": "2026-11-26T19:21:25+09:00",
    "sort_key": 1795688485.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "박종복 전 SC제일은행장 은행연합회장 선출",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "83e6571112",
@@ -867,7 +1053,12 @@
    "published_iso": "2026-11-26T18:54:07+09:00",
    "sort_key": 1795686847.0,
    "excerpt": "(서울=연합뉴스) 강수련 기자 = 정부가 이재명 대통령이 주문한 자본시장 개혁기구의 수장을 김용범 메리츠지주 부회장에 맡기고 개혁작업의 전권을 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "자본시장개혁기구 수장에 메리츠 김용범 — 민간에 전권",
+    "impact": "자본시장 제도 개편 추진",
+    "affected": "증권, 코스피"
+   }
   },
   {
    "id": "2cd265ffd4",
@@ -880,7 +1071,12 @@
    "published_iso": "2026-11-26T18:49:49+09:00",
    "sort_key": 1795686589.0,
    "excerpt": "(서울=연합뉴스) 권희원 이율립 기자 = 국민의힘 경기도당위원장인 김은혜 의원이 오세훈 서울시장과 수도권 부동산 정책 해법을 논의하며 정책 공조...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "오세훈·김은혜 부동산 정책 공조 세미나",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "9d6e60f2e7",
@@ -893,7 +1089,12 @@
    "published_iso": "2026-11-26T18:49:46+09:00",
    "sort_key": 1795686586.0,
    "excerpt": "(세종=연합뉴스) 이대희 송정은 기자 = 안덕수 국세청장 후보자는 26일 세무조사권이 남용되고 있다는 지적에 &quot;우려하는 일이 없도록 법과 원칙에...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "국세청장 후보자 세무조사 남용 지적에 '고민하겠다'",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "b73df8e917",
@@ -908,7 +1109,12 @@
    "excerpt": "",
    "matched": [
     "000660.KS"
-   ]
+   ],
+   "analysis": {
+    "summary": "화웨이 차세대 HBM 기술 공개 임박",
+    "impact": "메모리 경쟁 심화",
+    "affected": "SK하이닉스, 삼성전자"
+   }
   },
   {
    "id": "174e8166a0",
@@ -921,7 +1127,12 @@
    "published_iso": "2026-11-26T18:43:02+09:00",
    "sort_key": 1795686182.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "현대차 무뇨스·기아 송호성 유임, 모비스 사장 교체",
+    "impact": "시장 영향은 제한적",
+    "affected": "현대차그룹"
+   }
   },
   {
    "id": "65eab388ac",
@@ -934,7 +1145,12 @@
    "published_iso": "2026-11-26T18:41:57+09:00",
    "sort_key": 1795686117.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "통합 LCC 부산에 본사 — 김해공항 제2허브",
+    "impact": "시장 영향은 제한적",
+    "affected": "진에어, 항공"
+   }
   },
   {
    "id": "346a97fd79",
@@ -947,7 +1163,12 @@
    "published_iso": "2026-11-26T18:41:50+09:00",
    "sort_key": 1795686110.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "통합 진에어, 부산 본사 시대",
+    "impact": "앞 기사와 같은 내용",
+    "affected": "진에어"
+   }
   },
   {
    "id": "3c95547637",
@@ -960,7 +1181,12 @@
    "published_iso": "2026-11-26T18:39:50+09:00",
    "sort_key": 1795685990.0,
    "excerpt": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국 자동차 금융 보상금 설명",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "4e07aace45",
@@ -973,7 +1199,12 @@
    "published_iso": "2026-11-26T18:37:36+09:00",
    "sort_key": 1795685856.0,
    "excerpt": "(서울=연합뉴스) 임형섭 기자 = 이재명 대통령은 26일 &quot;정부의 지원을 받아 성공한 기업들이 이익을 독차지하지 않게, 재투자가 가능한 시스템을...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "이 대통령 '정부 지원으로 성공한 기업은 이익 재투자해야'",
+    "impact": "기업 이익 환원 압력",
+    "affected": "대기업"
+   }
   },
   {
    "id": "6cade7720a",
@@ -986,7 +1217,12 @@
    "published_iso": "2026-11-26T18:35:11+09:00",
    "sort_key": 1795685711.0,
    "excerpt": "(서울=연합뉴스) 정회인 기자 = 기업의 인공지능(AI) 도입에 따른 비용 절감이 반드시 신용도 개선으로 이어지는 것은 아니라는 글로벌 신용평가...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "무디스 'AI 확산에 같은 업종 안에서도 신용도 격차 커질 것'",
+    "impact": "시장 영향은 제한적",
+    "affected": "회사채"
+   }
   },
   {
    "id": "6bc77b6472",
@@ -999,7 +1235,12 @@
    "published_iso": "2026-11-26T18:10:12+09:00",
    "sort_key": 1795684212.0,
    "excerpt": "◇ 부문장·본부장·실장 전보",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "현대해상 인사",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "7b4149cd63",
@@ -1012,7 +1253,12 @@
    "published_iso": "2026-11-26T18:09:18+09:00",
    "sort_key": 1795684158.0,
    "excerpt": "(전주=연합뉴스) 홍인철 기자 = 천호성 전북특별자치도교육감은 26일 교육재정의 안정적 확보를 위한 학부모들의 관심과 협조를 당부하는 가정통신문...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "전북교육감 교육재정 가정통신문",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "9327a647c6",
@@ -1025,7 +1271,12 @@
    "published_iso": "2026-11-26T16:30:11+09:00",
    "sort_key": 1795678211.0,
    "excerpt": "Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "샤오펑 '1~2년 안에 로봇이 집안일'",
+    "impact": "시장 영향은 제한적",
+    "affected": "로봇"
+   }
   },
   {
    "id": "e9714afb84",
@@ -1038,7 +1289,12 @@
    "published_iso": "2026-11-26T09:00:00+09:00",
    "sort_key": 1795651200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "2026년 종합부동산세 고지 (보도참고)",
+    "impact": "시장 영향은 제한적",
+    "affected": "부동산"
+   }
   },
   {
    "id": "32cb2eab9e",
@@ -1051,7 +1307,12 @@
    "published_iso": "2026-11-26T09:00:00+09:00",
    "sort_key": 1795651200.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "12월 국고채·재정증권·외평채 발행 계획",
+    "impact": "시장 영향은 제한적",
+    "affected": "국채"
+   }
   }
  ],
  "news_groups": {
