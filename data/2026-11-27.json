@@ -424,7 +424,12 @@
    "published_iso": "2026-11-27T23:20:26+09:00",
    "sort_key": 1795789226.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "정부 시장상황점검회의 개최",
+    "impact": "시장 영향은 제한적",
+    "affected": "코스피"
+   }
   },
   {
    "id": "ab27b7b41c",
@@ -437,7 +442,12 @@
    "published_iso": "2026-11-27T16:20:43+09:00",
    "sort_key": 1795764043.0,
    "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 한국거래소는 27일 IBK자산운용, 한국투자신탁운용, 미래에셋자산운용의 상장지수펀드(ETF) 3종목을 내달 1...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "미국 AI 기업 투자 ETF 등 3종 다음 달 1일 상장",
+    "impact": "시장 영향은 제한적",
+    "affected": "AI ETF"
+   }
   },
   {
    "id": "de0787f267",
@@ -450,7 +460,12 @@
    "published_iso": "2026-11-27T16:19:59+09:00",
    "sort_key": 1795763999.0,
    "excerpt": "(서울=연합뉴스) 이도흔 기자 = 원/달러 환율은 27일 미국 기술주를 중심으로 투자심리가 회복되면서 국내 증시가 반등하고, 월말 수출업체의 달...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "증시 반등·월말 수출대금 매도에 환율 1,337.9원으로 하락",
+    "impact": "원화 소폭 강세",
+    "affected": "원/달러 환율"
+   }
   },
   {
    "id": "4a2f5e6667",
@@ -463,7 +478,12 @@
    "published_iso": "2026-11-27T16:17:34+09:00",
    "sort_key": 1795763854.0,
    "excerpt": "(창원=연합뉴스) 이정훈 기자 = 무학에서 제조하는 주류 브랜드인 좋은데이는 겨울을 맞아 국산 딸기가 가진 새콤달콤한 풍미를 담은 신제품 &apos;톡소...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "좋은데이 딸기 탄산주 출시",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "98c67704a7",
@@ -476,7 +496,12 @@
    "published_iso": "2026-11-27T16:16:56+09:00",
    "sort_key": 1795763816.0,
    "excerpt": "(서울=연합뉴스) 홍국기 기자 = 한국농수산식품유통공사(aT)와 대한제과협회는 올해 가루 쌀 제과·제빵 신메뉴 개발 우수업체 30곳을 선정했다...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "aT·제과협회 가루쌀 우수 베이커리 시상",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "aab4051bc5",
@@ -489,7 +514,15 @@
    "published_iso": "2026-11-27T16:08:33+09:00",
    "sort_key": 1795763313.0,
    "excerpt": "(서울=연합뉴스) 곽윤아 기자 = 코스피가 27일 4% 넘게 오르며 종가 기준 4,900선을 회복했다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "코스피 4.3% 올라 4,900선 회복, 코스닥 8%대 급등해 700선 탈환",
+    "impact": "급락장 진정 — 투자심리 회복",
+    "affected": "코스피, 코스닥",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "코스피가 4.3% 올라 4,900선을 되찾고 코스닥은 8% 넘게 급등 — 엔비디아발 AI 급락이 진정되는 신호"
+   }
   },
   {
    "id": "871027b9c1",
@@ -505,7 +538,12 @@
    "matched": [
     "005930.KS",
     "000660.KS"
-   ]
+   ],
+   "analysis": {
+    "summary": "삼성전자 4.6%·SK하이닉스 5.4% 급등 마감",
+    "impact": "반도체주 반등",
+    "affected": "삼성전자, SK하이닉스"
+   }
   },
   {
    "id": "3a83140757",
@@ -518,7 +556,12 @@
    "published_iso": "2026-11-27T15:52:45+09:00",
    "sort_key": 1795762365.0,
    "excerpt": "(서울=연합뉴스) 김지연 기자 = 금융위원회는 27일 인공지능(AI)을 활용한 부정행위 사태에 &quot;현재 공인회계사(CPA)시험의 부정행위를 방지하...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "금융위, AI 부정행위 사태 뒤 회계사시험 감독 대폭 강화",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "fc9cfd40bb",
@@ -531,7 +574,12 @@
    "published_iso": "2026-11-27T15:44:38+09:00",
    "sort_key": 1795761878.0,
    "excerpt": "(서울=연합뉴스) 김유아 기자 = 향후 휴머노이드 수요 확대에 대한 기대가 커지면서 27일 로봇주가 급등 마감했다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "휴머노이드 수요 기대에 로봇주 급등 — 일부 상한가",
+    "impact": "로봇 테마 과열 가능성",
+    "affected": "로봇주"
+   }
   },
   {
    "id": "f241e6833e",
@@ -544,7 +592,12 @@
    "published_iso": "2026-11-27T15:08:29+09:00",
    "sort_key": 1795759709.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한국창업학회 추계학술대회",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "155f12d0ab",
@@ -557,7 +610,12 @@
    "published_iso": "2026-11-27T15:08:08+09:00",
    "sort_key": 1795759688.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "산업단지공단 적극행정 수상",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "133bc0fcee",
@@ -570,7 +628,12 @@
    "published_iso": "2026-11-27T15:07:46+09:00",
    "sort_key": 1795759666.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "삼정가스그룹 회장 제조혁신 CEO 대상",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "16e426aadc",
@@ -583,7 +646,12 @@
    "published_iso": "2026-11-27T14:55:40+09:00",
    "sort_key": 1795758940.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "우리금융, 저축은행 등 계열사 4곳 대표 교체",
+    "impact": "시장 영향은 제한적",
+    "affected": "우리금융"
+   }
   },
   {
    "id": "40c995633a",
@@ -596,7 +664,12 @@
    "published_iso": "2026-11-27T14:44:40+09:00",
    "sort_key": 1795758280.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "롯데가 명동에 만든 외국인 관광 명소",
+    "impact": "시장 영향은 제한적",
+    "affected": "롯데"
+   }
   },
   {
    "id": "534a86f25f",
@@ -609,7 +682,12 @@
    "published_iso": "2026-11-27T14:17:37+09:00",
    "sort_key": 1795756657.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "산업장관 '노동특례는 더 오래 일하자는 게 아니다'",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "4266a1f346",
@@ -622,7 +700,12 @@
    "published_iso": "2026-11-27T13:57:30+09:00",
    "sort_key": 1795755450.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "오아, '오아투엑스'로 사명 변경 — AI·물류로봇 사업 본격화",
+    "impact": "시장 영향은 제한적",
+    "affected": "오아"
+   }
   },
   {
    "id": "33af1ad0ca",
@@ -635,7 +718,12 @@
    "published_iso": "2026-11-27T13:51:26+09:00",
    "sort_key": 1795755086.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "유진그룹, 뉴스타파 기자·제보자 고소",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "4c43087718",
@@ -648,7 +736,12 @@
    "published_iso": "2026-11-27T13:00:01+09:00",
    "sort_key": 1795752001.0,
    "excerpt": "(서울=연합뉴스) 한주홍 기자 = 송미령 농림축산식품부 장관은 27일 충남 보령시의 스마트팜 농업회사법인 그린몬스터즈를 방문해 청년농들과 협업 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "농식품장관 청년농 협업 경영 지원",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "aa10c1b620",
@@ -661,7 +754,12 @@
    "published_iso": "2026-11-27T13:00:00+09:00",
    "sort_key": 1795752000.0,
    "excerpt": "(서울=연합뉴스) 홍국기 기자 = 이승돈 농촌진흥청장은 27일 &quot;K-라이스벨트 사업 후 현지 농가의 평균 생산성이 두 배 이상 증가했다&quot;고 밝혔...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "농진청장 'K-라이스벨트로 아프리카 농가 생산 두 배'",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "617f4faeb6",
@@ -676,7 +774,12 @@
    "excerpt": "(서울=연합뉴스) 황철환 기자 = 젠슨 황 엔비디아 최고경영자(CEO)의 불륜 스캔들과 사퇴, 복귀로 촉발된 글로벌 증시 급락의 여파가 다소 진...",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "엔비디아발 AI 조정 잦아드나 — 코스피·코스닥 급등",
+    "impact": "앞 기사와 같은 흐름",
+    "affected": "코스피, 코스닥"
+   }
   },
   {
    "id": "3e7e14dc91",
@@ -689,7 +792,12 @@
    "published_iso": "2026-11-27T12:18:14+09:00",
    "sort_key": 1795749494.0,
    "excerpt": "(서울=연합뉴스) 박재하 기자 = 더불어민주당 정년연장특별위원회는 27일 10개월 만에 노사 협의를 재개하고 합의안 도출에 나섰지만 이견이 좁혀...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "여당 정년연장특위 노사 합의 불발",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "63d0ec5f1f",
@@ -702,7 +810,12 @@
    "published_iso": "2026-11-27T12:01:33+09:00",
    "sort_key": 1795748493.0,
    "excerpt": "(서울=연합뉴스) 박예나 기자 = 한국창업학회와 중소기업중앙회는 27일 인공지능(AI) 기술을 활용한 중소기업·스타트업의 혁신과 지속 가능한 성...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "AI 시대 중소·벤처 성장 전략 학술대회",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "f65ddcd0eb",
@@ -715,7 +828,12 @@
    "published_iso": "2026-11-27T12:00:04+09:00",
    "sort_key": 1795748404.0,
    "excerpt": "(서울=연합뉴스) 조민정 기자 = 온라인 동영상 서비스(OTT) 이용권 재판매와 관련한 소비자 상담이 한 달 새 약 7배 증가한 것으로 나타났다...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "OTT 공유 계정 단속에 이용 중단 — 소비자 상담 급증",
+    "impact": "시장 영향은 제한적",
+    "affected": "OTT"
+   }
   },
   {
    "id": "9769489378",
@@ -728,7 +846,12 @@
    "published_iso": "2026-11-27T12:00:02+09:00",
    "sort_key": 1795748402.0,
    "excerpt": "(서울=연합뉴스) 채새롬 기자 = 올해 3분기 국내 거주자의 카드 해외 사용액이 66억달러를 넘어서며 역대 최대를 기록했다.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "3분기 카드 해외 사용액 66억 달러 역대 최대",
+    "impact": "해외 소비 증가",
+    "affected": "카드사, 여행"
+   }
   },
   {
    "id": "2f0be7ad73",
@@ -741,7 +864,12 @@
    "published_iso": "2026-11-27T11:58:57+09:00",
    "sort_key": 1795748337.0,
    "excerpt": "(서울=연합뉴스) 김수연 기자 = 배달 애플리케이션(앱) 입점 음식점 10곳 중 7곳은 같은 메뉴를 매장 주문 때보다 배달 주문 때 더 비싸게 ...",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "배달 매장 68.9% 이중가격",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "0828a14096",
@@ -754,7 +882,12 @@
    "published_iso": "2026-11-27T11:28:19+09:00",
    "sort_key": 1795746499.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중국 수출 막히자 미국 고객에게 판다 — AI 칩 시장 초유의 상황",
+    "impact": "AI 칩 공급 재편",
+    "affected": "엔비디아, 반도체"
+   }
   },
   {
    "id": "41a764a943",
@@ -769,7 +902,12 @@
    "excerpt": "",
    "matched": [
     "005380.KS"
-   ]
+   ],
+   "analysis": {
+    "summary": "현대차, 중국 시장에 신차 24종·콘셉트카 공개",
+    "impact": "중국 시장 재공략",
+    "affected": "현대차"
+   }
   },
   {
    "id": "6cc856d552",
@@ -782,7 +920,12 @@
    "published_iso": "2026-11-27T11:19:57+09:00",
    "sort_key": 1795745997.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "무신사 영업이익 67% 증가 — 오프라인·뷰티 효과",
+    "impact": "시장 영향은 제한적",
+    "affected": "무신사"
+   }
   },
   {
    "id": "25bf3fd91b",
@@ -795,7 +938,12 @@
    "published_iso": "2026-11-27T11:04:39+09:00",
    "sort_key": 1795745079.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "해외 증권사 '한은 금리 인상 사이클 사실상 끝' 전망",
+    "impact": "추가 인상 기대 약화 가능성",
+    "affected": "국내 금리, 원화"
+   }
   },
   {
    "id": "5d28a5ddaa",
@@ -808,7 +956,15 @@
    "published_iso": "2026-11-27T11:04:09+09:00",
    "sort_key": 1795745049.0,
    "excerpt": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while household consumption has been lagging.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "중국 10월 산업이익 20.1% 증가 — 5개월 만에 최고",
+    "impact": "중국 제조업 회복 — AI 관련 제조업 주도",
+    "affected": "중국 경제, 원자재",
+    "important": true,
+    "important_tag": "거시경제",
+    "why_important": "중국 10월 산업이익이 20.1% 늘어 5개월 만에 최고 — AI 관련 제조업이 이끄는 회복"
+   }
   },
   {
    "id": "4a913f1d10",
@@ -821,7 +977,12 @@
    "published_iso": "2026-11-27T11:02:16+09:00",
    "sort_key": 1795744936.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "젠슨 황 복귀에도 웃지 못하는 중국 — 반도체 자립 가속",
+    "impact": "미중 기술 분리 심화",
+    "affected": "중국 반도체"
+   }
   },
   {
    "id": "8f52d2f03a",
@@ -834,7 +995,12 @@
    "published_iso": "2026-11-27T10:48:04+09:00",
    "sort_key": 1795744084.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "반도체 자립 나선 인도 — 한국엔 기회",
+    "impact": "시장 영향은 제한적",
+    "affected": "반도체 장비"
+   }
   },
   {
    "id": "464d8cfeed",
@@ -847,7 +1013,12 @@
    "published_iso": "2026-11-27T10:44:59+09:00",
    "sort_key": 1795743899.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "스마트폰보다 6배 촘촘한 화면 — 일본에 도전하는 한국 스타트업",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "a66bfe12d7",
@@ -860,7 +1031,12 @@
    "published_iso": "2026-11-27T10:11:27+09:00",
    "sort_key": 1795741887.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "다시 고개 드는 7% 주담대 — 한은 긴축 신호 강해져",
+    "impact": "대출 금리 부담 확대",
+    "affected": "은행, 부동산"
+   }
   },
   {
    "id": "224ca0e3af",
@@ -873,7 +1049,12 @@
    "published_iso": "2026-11-27T09:54:45+09:00",
    "sort_key": 1795740885.0,
    "excerpt": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "혼자 고급 식사하는 '혼밥' 유행",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "f9fb9773b0",
@@ -886,7 +1067,12 @@
    "published_iso": "2026-11-27T09:02:19+09:00",
    "sort_key": 1795737739.0,
    "excerpt": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "엘리베이터 기술자 부족 이유",
+    "impact": "시장 영향 없음",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "bc9c617ca1",
@@ -899,7 +1085,12 @@
    "published_iso": "2026-11-27T09:00:00+09:00",
    "sort_key": 1795737600.0,
    "excerpt": "",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "한중일·아세안+3 재무차관 회의 참석 결과",
+    "impact": "시장 영향은 제한적",
+    "affected": "해당 없음"
+   }
   },
   {
    "id": "540b51f494",
@@ -912,7 +1103,12 @@
    "published_iso": "2026-11-27T08:17:12+09:00",
    "sort_key": 1795735032.0,
    "excerpt": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
-   "matched": []
+   "matched": [],
+   "analysis": {
+    "summary": "영국, EU 협정 이행 위해 분담금 지불",
+    "impact": "시장 영향은 제한적",
+    "affected": "영국"
+   }
   },
   {
    "id": "68d12cc1e2",
@@ -927,7 +1123,12 @@
    "excerpt": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
    "matched": [
     "NVDA"
-   ]
+   ],
+   "analysis": {
+    "summary": "아시아가 엔비디아에 크게 건 AI 베팅 — 이제는?",
+    "impact": "아시아 증시 변동성",
+    "affected": "아시아 반도체주"
+   }
   },
   {
    "id": "96dd5776fb",
