@@ -1,6 +1,6 @@
 {
  "date": "2026-11-28",
- "generated_at": "2026-11-28 07:25",
+ "generated_at": "2026-11-28 12:51",
  "weekday": "토",
  "site": {
   "title": "오늘의 경제 한 장",
@@ -81,13 +81,13 @@
    "keywords": [],
    "ok": true,
    "attempts": [],
-   "price": 1333.0,
+   "price": 1333.9,
    "prev_close": 1344.31,
-   "change": -11.31,
-   "change_pct": -0.84,
+   "change": -10.41,
+   "change_pct": -0.77,
    "currency": "KRW",
    "source": "yahoo",
-   "asof_epoch": 1795817341,
+   "asof_epoch": 1795836650,
    "asof_date": null
   },
   {
@@ -332,6 +332,214 @@
   }
  ],
  "news": [
+  {
+   "id": "0b8706a685",
+   "title": "GS, 동해 AI 데이터센터 첫삽…허태수 \"AI산업 미래 명소될 것\"",
+   "url": "https://www.yna.co.kr/view/AKR20261127140100003",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/28 12:05",
+   "published_iso": "2026-11-28T12:05:00+09:00",
+   "sort_key": 1795835100.0,
+   "excerpt": "(서울=연합뉴스) 장하나 기자 = GS그룹이 총 30조원 규모를 투자하는 인공지능(AI) 데이터센터 사업의 첫 삽을 떴다.",
+   "matched": []
+  },
+  {
+   "id": "53baac7704",
+   "title": "[부고] 임문택(IBK연금보험 사장)씨 모친상",
+   "url": "https://www.yna.co.kr/view/AKR20261128027400002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/28 11:17",
+   "published_iso": "2026-11-28T11:17:08+09:00",
+   "sort_key": 1795832228.0,
+   "excerpt": "▲ 한정자씨(향년 100세) 별세, 임윤택·임문택(IBK연금보험 사장)·임수복·임연례·임양례·임미례씨 모친상, 정윤숙·배인숙·이영애씨 시모상, ...",
+   "matched": []
+  },
+  {
+   "id": "a34382dad1",
+   "title": "춘천시 골목상권 살리기 총력…야시장에 7만9천명 발길",
+   "url": "https://www.yna.co.kr/view/AKR20261127141500062",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/28 11:10",
+   "published_iso": "2026-11-28T11:10:00+09:00",
+   "sort_key": 1795831800.0,
+   "excerpt": "(춘천=연합뉴스) 이상학 기자 = 강원 춘천시가 올해 전통시장과 골목상권 활성화를 위해 야시장 운영부터 소비 촉진, 규제 완화까지 다양한 민생경...",
+   "matched": []
+  },
+  {
+   "id": "474def5d93",
+   "title": "이자 2000만원 넘으면 세금 폭탄? 오해인 경우 많다",
+   "url": "https://www.hankyung.com/article/202611285951i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/28 11:00",
+   "published_iso": "2026-11-28T11:00:10+09:00",
+   "sort_key": 1795831210.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "75a40d8819",
+   "title": "수능 끝나자 3만명 넘게 '우르르'…수험생 푹 빠진 외식 메뉴 [권용훈의 트렌드워치]",
+   "url": "https://www.hankyung.com/article/202611275090i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/28 11:00",
+   "published_iso": "2026-11-28T11:00:06+09:00",
+   "sort_key": 1795831206.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "2b782602cc",
+   "title": "[마이더스] 연말정산, 환급 아닌 점검의 시간",
+   "url": "https://www.yna.co.kr/view/AKR20261127066700980",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/28 10:30",
+   "published_iso": "2026-11-28T10:30:02+09:00",
+   "sort_key": 1795829402.0,
+   "excerpt": "해마다 12월이 되면 연말정산이 화제에 오르지만 법인을 운영하는 대표에게 이 시기는 환급액을 따지기보다 본인의 세 부담과 조직의 급여 체계를 점...",
+   "matched": []
+  },
+  {
+   "id": "ea8635f21d",
+   "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+   "url": "https://www.yna.co.kr/view/AKR20261128024500011",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/28 10:30",
+   "published_iso": "2026-11-28T10:30:00+09:00",
+   "sort_key": 1795829400.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "808180a852",
+   "title": "전남광주시, 제2순환도로 재정지원금 290억원 환수 추진",
+   "url": "https://www.yna.co.kr/view/AKR20261127148900054",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/28 10:04",
+   "published_iso": "2026-11-28T10:04:00+09:00",
+   "sort_key": 1795827840.0,
+   "excerpt": "(전남광주=연합뉴스) 박철홍 기자 = 광주 제2순환도로 1구간 민간사업자에게 과다 지급한 것으로 추정되는 재정지원금 290억원에 대해 전남광주통...",
+   "matched": []
+  },
+  {
+   "id": "d324f2cba3",
+   "title": "NBC Pulls an Ad That Some Described as Antisemitic",
+   "url": "https://www.nytimes.com/2026/11/27/business/media/nbc-ad-snl.html",
+   "source": "NYT Business",
+   "group": "해외 경제언론",
+   "lang": "en",
+   "published_kst": "11/28 09:46",
+   "published_iso": "2026-11-28T09:46:42+09:00",
+   "sort_key": 1795826802.0,
+   "excerpt": "The commercial appeared during a “Saturday Night Live” holiday special on Wednesday.",
+   "matched": []
+  },
+  {
+   "id": "96a0eee43f",
+   "title": "\"코딩은 클로드, 일상 업무는 딥시크\"…美 기업들의 반전 [차이나 워치]",
+   "url": "https://www.hankyung.com/article/202611263467i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/28 09:34",
+   "published_iso": "2026-11-28T09:34:02+09:00",
+   "sort_key": 1795826042.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "e9b64e55bd",
+   "title": "韓 반도체 '성과급 잔치'에 들썩일 때…中·日은 칼 갈았다 [강경주의 테크X]",
+   "url": "https://www.hankyung.com/article/2026112750696",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/28 09:30",
+   "published_iso": "2026-11-28T09:30:06+09:00",
+   "sort_key": 1795825806.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "4ed29ab8a3",
+   "title": "거래소 지분 '34% 예외'는 누가?...업비트·빗썸 셈법 복잡[디지털자산법 대해부③]",
+   "url": "https://www.hankyung.com/article/202611274076i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/28 09:00",
+   "published_iso": "2026-11-28T09:00:09+09:00",
+   "sort_key": 1795824009.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "5f2d26f362",
+   "title": "농협 하나로마트서 제주산 노지감귤 소비촉진 할인행사",
+   "url": "https://www.yna.co.kr/view/AKR20261127118000056",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/28 09:00",
+   "published_iso": "2026-11-28T09:00:03+09:00",
+   "sort_key": 1795824003.0,
+   "excerpt": "(제주=연합뉴스) 김호천 기자 = 제주농협조합공동사업법인은 농협경제지주, 롯데카드, 제주도와 함께 본격적인 출하 시기를 맞은 제주산 노지감귤 소...",
+   "matched": []
+  },
+  {
+   "id": "2d37e5788a",
+   "title": "'SF 영화 같네'…공장 대신 놀이공원으로 간 로봇들",
+   "url": "https://www.hankyung.com/article/202610103510i",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/28 09:00",
+   "published_iso": "2026-11-28T09:00:02+09:00",
+   "sort_key": 1795824002.0,
+   "excerpt": "",
+   "matched": []
+  },
+  {
+   "id": "ce337915e1",
+   "title": "[다음주 경제] 증안펀드 가동 윤곽…한은 잠재성장률 추정치도",
+   "url": "https://www.yna.co.kr/view/AKR20261128017000002",
+   "source": "연합뉴스 경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/28 08:24",
+   "published_iso": "2026-11-28T08:24:32+09:00",
+   "sort_key": 1795821872.0,
+   "excerpt": "(서울=연합뉴스) 이세원 한지훈 배영경 기자 = 다음 주에는 금융위원회가 증권시장안정펀드(증안펀드) 가동 방안을 금융권과 논의한다.",
+   "matched": []
+  },
+  {
+   "id": "8d2a91fdbe",
+   "title": "\"2000만원 안 넘으면 된다더니\"…60대 은퇴자 당황한 이유 [고정삼의 절세GPT]",
+   "url": "https://www.hankyung.com/article/2026112754596",
+   "source": "한국경제",
+   "group": "국내 경제언론",
+   "lang": "ko",
+   "published_kst": "11/28 07:00",
+   "published_iso": "2026-11-28T07:00:30+09:00",
+   "sort_key": 1795816830.0,
+   "excerpt": "",
+   "matched": []
+  },
   {
    "id": "887897314e",
    "title": "[이집트 미라전] 개관 1주년 이집트 대박물관…사막 위 5천년 문명",
@@ -1005,6 +1213,201 @@
  "news_groups": {
   "국내 경제언론": [
    {
+    "id": "0b8706a685",
+    "title": "GS, 동해 AI 데이터센터 첫삽…허태수 \"AI산업 미래 명소될 것\"",
+    "url": "https://www.yna.co.kr/view/AKR20261127140100003",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/28 12:05",
+    "published_iso": "2026-11-28T12:05:00+09:00",
+    "sort_key": 1795835100.0,
+    "excerpt": "(서울=연합뉴스) 장하나 기자 = GS그룹이 총 30조원 규모를 투자하는 인공지능(AI) 데이터센터 사업의 첫 삽을 떴다.",
+    "matched": []
+   },
+   {
+    "id": "53baac7704",
+    "title": "[부고] 임문택(IBK연금보험 사장)씨 모친상",
+    "url": "https://www.yna.co.kr/view/AKR20261128027400002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/28 11:17",
+    "published_iso": "2026-11-28T11:17:08+09:00",
+    "sort_key": 1795832228.0,
+    "excerpt": "▲ 한정자씨(향년 100세) 별세, 임윤택·임문택(IBK연금보험 사장)·임수복·임연례·임양례·임미례씨 모친상, 정윤숙·배인숙·이영애씨 시모상, ...",
+    "matched": []
+   },
+   {
+    "id": "a34382dad1",
+    "title": "춘천시 골목상권 살리기 총력…야시장에 7만9천명 발길",
+    "url": "https://www.yna.co.kr/view/AKR20261127141500062",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/28 11:10",
+    "published_iso": "2026-11-28T11:10:00+09:00",
+    "sort_key": 1795831800.0,
+    "excerpt": "(춘천=연합뉴스) 이상학 기자 = 강원 춘천시가 올해 전통시장과 골목상권 활성화를 위해 야시장 운영부터 소비 촉진, 규제 완화까지 다양한 민생경...",
+    "matched": []
+   },
+   {
+    "id": "474def5d93",
+    "title": "이자 2000만원 넘으면 세금 폭탄? 오해인 경우 많다",
+    "url": "https://www.hankyung.com/article/202611285951i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/28 11:00",
+    "published_iso": "2026-11-28T11:00:10+09:00",
+    "sort_key": 1795831210.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "75a40d8819",
+    "title": "수능 끝나자 3만명 넘게 '우르르'…수험생 푹 빠진 외식 메뉴 [권용훈의 트렌드워치]",
+    "url": "https://www.hankyung.com/article/202611275090i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/28 11:00",
+    "published_iso": "2026-11-28T11:00:06+09:00",
+    "sort_key": 1795831206.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "2b782602cc",
+    "title": "[마이더스] 연말정산, 환급 아닌 점검의 시간",
+    "url": "https://www.yna.co.kr/view/AKR20261127066700980",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/28 10:30",
+    "published_iso": "2026-11-28T10:30:02+09:00",
+    "sort_key": 1795829402.0,
+    "excerpt": "해마다 12월이 되면 연말정산이 화제에 오르지만 법인을 운영하는 대표에게 이 시기는 환급액을 따지기보다 본인의 세 부담과 조직의 급여 체계를 점...",
+    "matched": []
+   },
+   {
+    "id": "ea8635f21d",
+    "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+    "url": "https://www.yna.co.kr/view/AKR20261128024500011",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/28 10:30",
+    "published_iso": "2026-11-28T10:30:00+09:00",
+    "sort_key": 1795829400.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "808180a852",
+    "title": "전남광주시, 제2순환도로 재정지원금 290억원 환수 추진",
+    "url": "https://www.yna.co.kr/view/AKR20261127148900054",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/28 10:04",
+    "published_iso": "2026-11-28T10:04:00+09:00",
+    "sort_key": 1795827840.0,
+    "excerpt": "(전남광주=연합뉴스) 박철홍 기자 = 광주 제2순환도로 1구간 민간사업자에게 과다 지급한 것으로 추정되는 재정지원금 290억원에 대해 전남광주통...",
+    "matched": []
+   },
+   {
+    "id": "96a0eee43f",
+    "title": "\"코딩은 클로드, 일상 업무는 딥시크\"…美 기업들의 반전 [차이나 워치]",
+    "url": "https://www.hankyung.com/article/202611263467i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/28 09:34",
+    "published_iso": "2026-11-28T09:34:02+09:00",
+    "sort_key": 1795826042.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "e9b64e55bd",
+    "title": "韓 반도체 '성과급 잔치'에 들썩일 때…中·日은 칼 갈았다 [강경주의 테크X]",
+    "url": "https://www.hankyung.com/article/2026112750696",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/28 09:30",
+    "published_iso": "2026-11-28T09:30:06+09:00",
+    "sort_key": 1795825806.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "4ed29ab8a3",
+    "title": "거래소 지분 '34% 예외'는 누가?...업비트·빗썸 셈법 복잡[디지털자산법 대해부③]",
+    "url": "https://www.hankyung.com/article/202611274076i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/28 09:00",
+    "published_iso": "2026-11-28T09:00:09+09:00",
+    "sort_key": 1795824009.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "5f2d26f362",
+    "title": "농협 하나로마트서 제주산 노지감귤 소비촉진 할인행사",
+    "url": "https://www.yna.co.kr/view/AKR20261127118000056",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/28 09:00",
+    "published_iso": "2026-11-28T09:00:03+09:00",
+    "sort_key": 1795824003.0,
+    "excerpt": "(제주=연합뉴스) 김호천 기자 = 제주농협조합공동사업법인은 농협경제지주, 롯데카드, 제주도와 함께 본격적인 출하 시기를 맞은 제주산 노지감귤 소...",
+    "matched": []
+   },
+   {
+    "id": "2d37e5788a",
+    "title": "'SF 영화 같네'…공장 대신 놀이공원으로 간 로봇들",
+    "url": "https://www.hankyung.com/article/202610103510i",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/28 09:00",
+    "published_iso": "2026-11-28T09:00:02+09:00",
+    "sort_key": 1795824002.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
+    "id": "ce337915e1",
+    "title": "[다음주 경제] 증안펀드 가동 윤곽…한은 잠재성장률 추정치도",
+    "url": "https://www.yna.co.kr/view/AKR20261128017000002",
+    "source": "연합뉴스 경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/28 08:24",
+    "published_iso": "2026-11-28T08:24:32+09:00",
+    "sort_key": 1795821872.0,
+    "excerpt": "(서울=연합뉴스) 이세원 한지훈 배영경 기자 = 다음 주에는 금융위원회가 증권시장안정펀드(증안펀드) 가동 방안을 금융권과 논의한다.",
+    "matched": []
+   },
+   {
+    "id": "8d2a91fdbe",
+    "title": "\"2000만원 안 넘으면 된다더니\"…60대 은퇴자 당황한 이유 [고정삼의 절세GPT]",
+    "url": "https://www.hankyung.com/article/2026112754596",
+    "source": "한국경제",
+    "group": "국내 경제언론",
+    "lang": "ko",
+    "published_kst": "11/28 07:00",
+    "published_iso": "2026-11-28T07:00:30+09:00",
+    "sort_key": 1795816830.0,
+    "excerpt": "",
+    "matched": []
+   },
+   {
     "id": "887897314e",
     "title": "[이집트 미라전] 개관 1주년 이집트 대박물관…사막 위 5천년 문명",
     "url": "https://www.yna.co.kr/view/AKR20261126181900079",
@@ -1015,7 +1418,12 @@
     "published_iso": "2026-11-28T07:00:08+09:00",
     "sort_key": 1795816808.0,
     "excerpt": "(기자[이집트]=연합뉴스) 김상훈 특파원 = 이집트 수도 카이로 외곽 기자 평원.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "개관 1주년 이집트 대박물관",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "a75d12143b",
@@ -1028,7 +1436,12 @@
     "published_iso": "2026-11-28T07:00:07+09:00",
     "sort_key": 1795816807.0,
     "excerpt": "▲ 아웃도어 브랜드 K2는 고급 소재를 적용해 보온성을 강화한 여성용 롱다운 &apos;G900 트리니티 퀸&apos;을 출시했다고 28일 밝혔다. 신제품은 솜털...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "K2 롱다운·브랜든 숄더백 등 이번 주 신제품",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "3ef55c732d",
@@ -1041,7 +1454,12 @@
     "published_iso": "2026-11-28T07:00:06+09:00",
     "sort_key": 1795816806.0,
     "excerpt": "▲ 농심[004370]은 스낵 신제품 &apos;불오징어집&apos;을 출시했다. 1985년 &apos;오징어집&apos;이 출시된 이후 41년 만의 첫 시리즈 제품으로 오징어볶음...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "농심 '불오징어집'·매일유업 유기농 음료 출시",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "2a5de519d1",
@@ -1054,7 +1472,12 @@
     "published_iso": "2026-11-28T07:00:01+09:00",
     "sort_key": 1795816801.0,
     "excerpt": "(서울=연합뉴스) 김빛나 기자 = 개발제한구역(그린벨트) 등 사실상 개발이 불가능한 땅을 개발 호재가 있는 것처럼 속여 팔아 200억원을 챙긴 ...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "'땅값 10배' 200억 원 기획부동산 사기 — 회장 징역 12년",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "356e115d30",
@@ -1067,7 +1490,12 @@
     "published_iso": "2026-11-28T06:02:07+09:00",
     "sort_key": 1795813327.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "2018년 말보다 나쁘다? 월가 낙관론 경계",
+     "impact": "증시 추가 조정 경고",
+     "affected": "미국 증시"
+    }
    },
    {
     "id": "9a8b829f45",
@@ -1080,7 +1508,12 @@
     "published_iso": "2026-11-28T06:01:00+09:00",
     "sort_key": 1795813260.0,
     "excerpt": "(서울=연합뉴스) 오예진 기자 = 12월 첫째 주에는 남양주 3기 신도시를 포함해 전국에서 4천215가구가 공급된다.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "다음 주 남양주 3기 신도시 등 4,215가구 분양",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "139994478e",
@@ -1093,7 +1526,12 @@
     "published_iso": "2026-11-28T06:00:04+09:00",
     "sort_key": 1795813204.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "한 알에 커피 한 잔 값 — 편의점 인기 과일",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "67d7ee8cf9",
@@ -1106,7 +1544,12 @@
     "published_iso": "2026-11-28T06:00:00+09:00",
     "sort_key": 1795813200.0,
     "excerpt": "(서울=연합뉴스) 박초롱 기자 = 전국 주유소 기름값이 28주 연속 하락했다. 서울 휘발유 평균 가격은 2주 연속 1천800원대를 기록했다.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "주유소 기름값 28주째 하락",
+     "impact": "물가 부담 소폭 완화",
+     "affected": "정유"
+    }
    },
    {
     "id": "e0ddbe4812",
@@ -1119,7 +1562,12 @@
     "published_iso": "2026-11-28T01:30:10+09:00",
     "sort_key": 1795797010.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "AI 매도세 끝? '안심하긴 일러'",
+     "impact": "추가 변동성 경계",
+     "affected": "AI 관련주"
+    }
    },
    {
     "id": "52bef56a03",
@@ -1132,7 +1580,12 @@
     "published_iso": "2026-11-28T00:26:17+09:00",
     "sort_key": 1795793177.0,
     "excerpt": "(상파울루=연합뉴스) 성도현 기자 = 전 세계 112개 주요 도시 중 인공지능(AI) 시대의 미래 변화에 가장 앞선 도시로 미국 샌프란시스코가 ...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "AI 시대 미래준비 최고 도시 샌프란시스코 — 서울 8위",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "f3229f4a3a",
@@ -1145,7 +1598,12 @@
     "published_iso": "2026-11-27T21:00:04+09:00",
     "sort_key": 1795780804.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "한국 오면 통째로 먹는 케이크 화제",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "d6fc923a6d",
@@ -1158,7 +1616,12 @@
     "published_iso": "2026-11-27T20:47:42+09:00",
     "sort_key": 1795780062.0,
     "excerpt": "(서울=연합뉴스) 옥성구 기자 = 고용노동부가 연속 야간근무를 &apos;3일 이하&apos;로 제한하고, 자정부터 오전 4시까지를 &apos;초심야시간대&apos;로 규정해 별도...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "정부, 연속 야간근로 3일 이하로 제한 추진",
+     "impact": "시장 영향은 제한적",
+     "affected": "제조·물류"
+    }
    },
    {
     "id": "e44c083c02",
@@ -1171,7 +1634,12 @@
     "published_iso": "2026-11-27T19:48:58+09:00",
     "sort_key": 1795776538.0,
     "excerpt": "(서울=연합뉴스) 김지연 기자 = 국내 해외송금업체 이나인페이가 해킹 공격으로 약 25억원을 탈취당한 것으로 알려져 금융감독원이 현장점검에 나섰...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "해외송금업체 이나인페이 해킹으로 25억 원 피해 — 금감원 점검",
+     "impact": "금융 보안 우려",
+     "affected": "핀테크"
+    }
    },
    {
     "id": "30afe08ef9",
@@ -1184,7 +1652,12 @@
     "published_iso": "2026-11-27T19:34:34+09:00",
     "sort_key": 1795775674.0,
     "excerpt": "(서울=연합뉴스) 코스닥 상장사 피노[033790]는 시설자금 등 약 188억5천만원을 조달하고자 제3자배정 유상증자를 결정했다고 27일 공시했...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "피노 188억 원 제3자배정 유상증자",
+     "impact": "시장 영향은 제한적",
+     "affected": "피노"
+    }
    },
    {
     "id": "766fa1b2ed",
@@ -1197,7 +1670,12 @@
     "published_iso": "2026-11-27T19:22:53+09:00",
     "sort_key": 1795774973.0,
     "excerpt": "(서울=연합뉴스) 옥성구 기자 = 노사정이 &apos;초광역특구&apos; 관련 사회적 대화에서 기간제 특례 논의를 마무리했다.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "노사정, 초광역특구 기간제 논의 마무리",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "04a4b1fd2b",
@@ -1210,7 +1688,12 @@
     "published_iso": "2026-11-27T19:19:14+09:00",
     "sort_key": 1795774754.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "공장을 로봇 학습장으로 — 3D 데이터 98% 줄인 그리네타",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "ddd38694cc",
@@ -1223,7 +1706,12 @@
     "published_iso": "2026-11-27T18:54:37+09:00",
     "sort_key": 1795773277.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "이란 전쟁發 유가 급등에 유럽 항공사 줄줄이 파산",
+     "impact": "항공업 부실 확산",
+     "affected": "유럽 항공"
+    }
    },
    {
     "id": "fe224f8f8b",
@@ -1236,7 +1724,12 @@
     "published_iso": "2026-11-27T18:48:58+09:00",
     "sort_key": 1795772938.0,
     "excerpt": "(서울=연합뉴스) 권하영 기자 = 인공지능(AI) 서비스의 보안 취약점을 탐색하는 기술을 개발한 스타트업 에임인텔리전스가 국내 유망 디지털 스타...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "AI 보안기업 에임인텔리전스 대상 수상",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "adbad5a90d",
@@ -1249,7 +1742,12 @@
     "published_iso": "2026-11-27T18:25:55+09:00",
     "sort_key": 1795771555.0,
     "excerpt": "(서울=연합뉴스) 김채린 기자 = SM엔터테인먼트 시세를 조종한 혐의로 기소된 카카오 창업자 김범수 미래이니셔티브센터장의 무죄가 확정됐다.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "김범수 SM 시세조종 혐의 무죄 확정",
+     "impact": "카카오 사법 위험 해소",
+     "affected": "카카오"
+    }
    },
    {
     "id": "60526c2360",
@@ -1262,7 +1760,12 @@
     "published_iso": "2026-11-27T18:15:21+09:00",
     "sort_key": 1795770921.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "주얼리 창업 대표 인터뷰",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "6a593489e2",
@@ -1275,7 +1778,12 @@
     "published_iso": "2026-11-27T18:13:35+09:00",
     "sort_key": 1795770815.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "LIG, 네덜란드 참전용사에 기념품",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "40338f30d0",
@@ -1288,7 +1796,12 @@
     "published_iso": "2026-11-27T18:11:20+09:00",
     "sort_key": 1795770680.0,
     "excerpt": "(서울=연합뉴스) 코스피 상장사 대동[000490]은 채무상환자금 등 약 550억원을 조달하고자 주주배정후 실권주 일반공모 유상증자를 결정했다고...",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "대동 550억 원 주주배정 유상증자",
+     "impact": "주식 희석",
+     "affected": "대동"
+    }
    },
    {
     "id": "3b2d6bb7fe",
@@ -1301,7 +1814,12 @@
     "published_iso": "2026-11-27T18:11:03+09:00",
     "sort_key": 1795770663.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "AX융합연구원 초대 원장에 조주완 전 LG전자 사장",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "b5c1d2e412",
@@ -1314,7 +1832,12 @@
     "published_iso": "2026-11-27T17:54:18+09:00",
     "sort_key": 1795769658.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "신임 CEO 63%가 이공계 — 현장·기술통 약진",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "1525ac9863",
@@ -1327,10 +1850,28 @@
     "published_iso": "2026-11-27T17:53:08+09:00",
     "sort_key": 1795769588.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "임원 인사 키워드 '40대·AX 리더·신상필벌'",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    }
   ],
   "해외 경제언론": [
+   {
+    "id": "d324f2cba3",
+    "title": "NBC Pulls an Ad That Some Described as Antisemitic",
+    "url": "https://www.nytimes.com/2026/11/27/business/media/nbc-ad-snl.html",
+    "source": "NYT Business",
+    "group": "해외 경제언론",
+    "lang": "en",
+    "published_kst": "11/28 09:46",
+    "published_iso": "2026-11-28T09:46:42+09:00",
+    "sort_key": 1795826802.0,
+    "excerpt": "The commercial appeared during a “Saturday Night Live” holiday special on Wednesday.",
+    "matched": []
+   },
    {
     "id": "a1272d7896",
     "title": "Stocks Rally at End of a Week of Wild Swings",
@@ -1342,7 +1883,12 @@
     "published_iso": "2026-11-28T02:03:54+09:00",
     "sort_key": 1795799034.0,
     "excerpt": "Volatility has buffeted investors in an eventful but holiday-shortened series of trading sessions.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "변동성 컸던 연휴 주간 끝에 미국 증시 반등",
+     "impact": "투자심리 일부 회복",
+     "affected": "미국 증시"
+    }
    },
    {
     "id": "0197668f1d",
@@ -1355,7 +1901,12 @@
     "published_iso": "2026-11-28T02:02:48+09:00",
     "sort_key": 1795798968.0,
     "excerpt": "Fewer original series, decision fatigue and a desire for comfort have viewers escaping to the past.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "옛 TV 프로그램은 호황, 새 프로그램은 부진",
+     "impact": "시장 영향은 제한적",
+     "affected": "미디어"
+    }
    },
    {
     "id": "b4956b413b",
@@ -1368,7 +1919,12 @@
     "published_iso": "2026-11-28T00:29:56+09:00",
     "sort_key": 1795793396.0,
     "excerpt": "Some deals are too good to be true. Experts suggest doing the math, making lists and avoiding using “buy now, pay later” platforms to make purchases.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "연말 할인 후회 없이 사는 법",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "42787d33ee",
@@ -1381,7 +1937,12 @@
     "published_iso": "2026-11-28T00:29:05+09:00",
     "sort_key": 1795793345.0,
     "excerpt": "A growing part of a brand’s Black Friday and Cyber Monday marketing strategy rests on paying top dollar for social media influencers to post videos.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "블랙프라이데이, 인플루언서에게도 대목",
+     "impact": "시장 영향은 제한적",
+     "affected": "미국 소매"
+    }
    },
    {
     "id": "aac0da8ce5",
@@ -1394,7 +1955,12 @@
     "published_iso": "2026-11-28T00:18:58+09:00",
     "sort_key": 1795792738.0,
     "excerpt": "Fatih Birol, head of the International Energy Agency, said that market forces, data centers and energy security are driving the clean transition anyway.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "IEA 사무총장 '기후회의 결렬에도 전기의 시대는 계속'",
+     "impact": "전력 인프라 수요 지속",
+     "affected": "전력, 에너지"
+    }
    },
    {
     "id": "60d3ee50b1",
@@ -1407,7 +1973,15 @@
     "published_iso": "2026-11-27T22:21:56+09:00",
     "sort_key": 1795785716.0,
     "excerpt": "The November sell-off has so far pushed the S&amp;P 500 into a correction. History shows that a correction doesn't always lead to a bear market, or a recession.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "S&P500 조정 국면 진입 — 약세장·경기침체가 꼭 따라오진 않아",
+     "impact": "조정 국면 — 변동성 지속",
+     "affected": "미국 증시",
+     "important": true,
+     "important_tag": "거시경제",
+     "why_important": "11월 매도로 S&P500이 고점 대비 10% 넘게 떨어진 조정 국면에 들어감 — 약세장으로 이어질지가 관건"
+    }
    },
    {
     "id": "53860584cb",
@@ -1420,7 +1994,12 @@
     "published_iso": "2026-11-27T19:02:53+09:00",
     "sort_key": 1795773773.0,
     "excerpt": "Nvidia has been down, up, and down again, and the market has followed. But there’s no need for long-term, diversified investors to alter their course, our columnist says.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "주가 급등락 속 침착하게 투자하는 법",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "4a333fcbe8",
@@ -1433,7 +2012,12 @@
     "published_iso": "2026-11-27T19:02:41+09:00",
     "sort_key": 1795773761.0,
     "excerpt": "Within strong consumer spending lie the decisions many families are making to stretch their dollars to cover the meals, trips and activities they value most.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "물가 오르자 미국인들 지출 줄이기보다 선택 바꿔",
+     "impact": "소비 구성 변화",
+     "affected": "미국 소매"
+    }
    },
    {
     "id": "336da795fd",
@@ -1446,7 +2030,12 @@
     "published_iso": "2026-11-27T19:02:08+09:00",
     "sort_key": 1795773728.0,
     "excerpt": "The limited series “The Altruists” and the documentary “The Boy Who Stole Billions?” offer different takes on the crypto exchange founder’s role in one of the largest frauds in history.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "FTX 뱅크먼-프리드 다룬 TV 시리즈 2편",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    },
    {
     "id": "2ef3104a86",
@@ -1459,7 +2048,12 @@
     "published_iso": "2026-11-27T09:58:49+09:00",
     "sort_key": 1795741129.0,
     "excerpt": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "영국 배관·전기 수리 사기 조직",
+     "impact": "시장 영향 없음",
+     "affected": "해당 없음"
+    }
    }
   ],
   "중앙은행·국제기구": [
@@ -1474,7 +2068,12 @@
     "published_iso": "2026-11-27T23:00:00+09:00",
     "sort_key": 1795788000.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "ECB 이사회 결정 사항 (금리 외)",
+     "impact": "시장 영향은 제한적",
+     "affected": "유로화"
+    }
    },
    {
     "id": "d4ec3631a1",
@@ -1487,7 +2086,12 @@
     "published_iso": "2026-11-27T18:00:00+09:00",
     "sort_key": 1795770000.0,
     "excerpt": "",
-    "matched": []
+    "matched": [],
+    "analysis": {
+     "summary": "ECB 10월 소비자 기대 조사 결과",
+     "impact": "시장 영향은 제한적",
+     "affected": "유로화"
+    }
    }
   ]
  },
@@ -1496,8 +2100,8 @@
   "indices_total": 8,
   "stocks_ok": 9,
   "stocks_total": 9,
-  "news": 37,
-  "news_new": 9
+  "news": 53,
+  "news_new": 16
  },
  "errors": [
   {
